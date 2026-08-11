@@ -39,4 +39,12 @@ begin. BIPA proved the lane.
 
 dedicated to the public domain (CC0). the eggs remained undefeated.
 
+## read it here
+
+![MODEL ACT — page 1: the act](./actv2-1.png)
+
+![page 2: drafting notes](./actv2-2.png)
+
+![page 3: why this document exists](./actv2-3.png)
+
 )(
