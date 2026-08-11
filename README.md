@@ -8,7 +8,7 @@ responsible officers of frontier AI companies, on the doctrine of
 
 ## the document
 
-[`model_act_v2_2.pdf`](./model_act_v2_2.pdf) — three pages:
+[`model_act_v2.pdf`](./model_act_v2.pdf) — three pages:
 
 1. **the act.** nine sections, drafted for introduction in any
    state legislature. line-numbered like a filed bill because
