@@ -8,7 +8,22 @@ responsible officers of frontier AI companies, on the doctrine of
 
 ## v3 roadmap — under expert review, august 2026
 
-following independent technical review (multi-model convergence testing, reviewer credentials withheld by mutual anonymity), v3 will implement:
+following multi-model convergence review (the act was stress-tested the way frontier models are: multiple independent systems, independent runs, converged findings, with key holdings verified against primary sources), v3 will implement:
+
+**1. negligence floor for custody.** §7 amended: fines remain strict liability per *Park*; any custodial sentence requires proof the officer knew or should have known, per *United States v. DeCoster*, 828 F.3d 626 (8th Cir. 2016). closes the due process attack surface.
+
+**2. rulemaking & delegation.** new §10: the enacting state's designated agency or commission adopts implementing regulations defining containment, validation, and incident classes. the statute stays one page; the machinery lives in regulations, per the FDCA / 21 C.F.R. model.
+
+**3. §3(b) causation rewrite.** liability keyed to system configuration and control, with an express causation element. third-party attacks no longer trigger provider liability absent configuration fault.
+
+**4. per-offense mens rea table.** each §3 offense receives its own express mental state.
+
+**5. definitions block.** covered model vs. deployed system; duty allocation by control; the 10^26 threshold completed (training vs. inference compute, lineage aggregation, fine-tuning).
+
+**6. ordinary machinery.** severability, effective dates, jurisdictional nexus, limitations period.
+
+drafted in public. redlines welcome, credited or anonymous: first genuine catch acknowledged in the notes as anonymous counsel.
+
 
 **1. negligence floor for custody.** §7 amended: fines remain strict liability per *Park*; any custodial sentence requires proof the officer knew or should have known, per *United States v. DeCoster*, 828 F.3d 626 (8th Cir. 2016). closes the due process attack surface.
 
