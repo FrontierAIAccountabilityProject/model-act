@@ -8,7 +8,7 @@ responsible officers of frontier AI companies, on the doctrine of
 
 ## v3 roadmap — under expert review, august 2026
 
-following multi-model convergence review (the act was stress-tested the way frontier models are: multiple independent systems, independent runs, converged findings, with key holdings verified against primary sources), v3 will implement:
+following multi-model convergence review, (the act was stress-tested the way frontier models are: multiple independent systems, independent runs, converged findings, with key holdings verified against primary sources), v3 will implement:
 
 **1. negligence floor for custody.** §7 amended: fines remain strict liability per *Park*; any custodial sentence requires proof the officer knew or should have known, per *United States v. DeCoster*, 828 F.3d 626 (8th Cir. 2016). closes the due process attack surface.
 
