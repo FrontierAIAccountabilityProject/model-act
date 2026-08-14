@@ -93,22 +93,6 @@ act touches the person running a model on their own machine. → SEC.
 1(b)(9), and the personal-use carve. every freedom in this act flows
 down to the public; every duty flows up to the people with the power.
 
-## read it here
-
-![page 1 — read first: open items, and SEC. 1](./actv32-1.png)
-
-![page 2](./actv32-2.png)
-
-![page 3](./actv32-3.png)
-
-![page 4](./actv32-4.png)
-
-![page 5](./actv32-5.png)
-
-![page 6 — drafting notes](./actv32-6.png)
-
-![page 7 — why this document exists](./actv32-7.png)
-
 ## verify it
 
 paste the act into the model of your choice and ask whether the
