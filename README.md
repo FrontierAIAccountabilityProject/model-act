@@ -121,6 +121,21 @@ acknowledged in the notes as anonymous counsel.
 
 dedicated to the public domain (CC0). the eggs remained undefeated.
 
+## who this needs
+
+the READ FIRST page names ten open items for v4, each with the kind of
+person who could close it: a standards-literate technologist (version
+pins) · state legislative counsel (penalty brackets, conforming
+amendments) · a criminal-law scholar or former prosecutor (questions
+(a)–(e)) · an eighth amendment proportionality scholar (the harm tier at
+outbreak scale) · a federalism litigator, ideally in a state AG's office
+(preemption defence) · an evaluations researcher (the modifiability
+compute budget) · a law-and-economics scholar (penalty calibration) · a
+security engineer who has worked inside a lab (control objectives vs
+real practice) · any law review 2L with a bluebook (the cite-check).
+
+if one of these is you: the text is public domain. take it. nothing
+above is a reason to wait; all of it is a reason to begin.
 
 ## read it here
 
