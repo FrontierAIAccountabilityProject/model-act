@@ -1,4 +1,4 @@
-# MODEL ACT — Frontier AI Public Welfare Offenses (v2.2)
+# MODEL ACT — Frontier AI Public Welfare Offenses (v3.2)
 
 model state legislation. personal criminal liability for the
 responsible officers of frontier AI companies, on the doctrine of
@@ -6,53 +6,48 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **public domain. no attribution required. steal it.**
 
-## v3 roadmap — under expert review, august 2026
+## the documents
 
-following multi-model convergence review, (the act was stress-tested the way frontier models are: multiple independent systems, independent runs, converged findings, with key holdings verified against primary sources), v3 will implement:
+- [`model_act_v3_2.pdf`](./model_act_v3_2.pdf) — the act, typeset. start here.
+  seven pages: a READ FIRST page listing the open items for v4 (each gap
+  names the kind of person who could close it), twelve sections, twelve
+  drafting notes citing everything to primary sources, and why this
+  document exists.
+- [`model_act_v3_2.txt`](./model_act_v3_2.txt) — same text, plain, for
+  diffing and quoting.
+- [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) —
+  companion regulations (assembly draft): the CEO certification form,
+  control objectives, reporting clocks, standards inventory. the act
+  carries what a prosecutor needs; this carries what an engineer needs.
 
-**1. negligence floor for custody.** §7 amended: fines remain strict liability per *Park*; any custodial sentence requires proof the officer knew or should have known, per *United States v. DeCoster*, 828 F.3d 626 (8th Cir. 2016). closes the due process attack surface.
+## the v3 roadmap — delivered
 
-**2. rulemaking & delegation.** new §10: the enacting state's designated agency or commission adopts implementing regulations defining containment, validation, and incident classes. the statute stays one page; the machinery lives in regulations, per the FDCA / 21 C.F.R. model.
+v2 promised six things following multi-model convergence review (the act
+was stress-tested the way frontier models are: multiple independent
+systems, independent runs, converged findings, verified against primary
+sources). v3.2 ships all six, and then some:
 
-**3. §3(b) causation rewrite.** liability keyed to system configuration and control, with an express causation element. third-party attacks no longer trigger provider liability absent configuration fault.
+1. **negligence floor for custody** — done. SEC. 6(c), *DeCoster*
+   concurrence made statutory text.
+2. **rulemaking & delegation** — done. SEC. 3 plus the entire companion
+   regulations document, on the FDCA / 21 C.F.R. model.
+3. **causation rewrite** — done. duty allocated by control (SEC. 2),
+   express third-party-misuse defence, *Burrage* but-for causation in the
+   harm tier.
+4. **per-offense mens rea** — done. strict entity liability, due-care
+   custody floor, knowing/wilful felony tier, recidivism escalator.
+5. **definitions block** — done. nine defined terms including the 10^26
+   threshold with lineage aggregation, release of open weights, serious
+   injury (21 C.F.R. § 803.3(w)), and an express personal-use carve.
+6. **ordinary machinery** — done. severability, limitations with
+   concealment tolling, successor non-abatement, jurisdiction, records.
 
-**4. per-offense mens rea table.** each §3 offense receives its own express mental state.
-
-**5. definitions block.** covered model vs. deployed system; duty allocation by control; the 10^26 threshold completed (training vs. inference compute, lineage aggregation, fine-tuning).
-
-**6. ordinary machinery.** severability, effective dates, jurisdictional nexus, limitations period.
-
-drafted in public. redlines welcome, credited or anonymous: first genuine catch acknowledged in the notes as anonymous counsel.
-
-
-**1. negligence floor for custody.** §7 amended: fines remain strict liability per *Park*; any custodial sentence requires proof the officer knew or should have known, per *United States v. DeCoster*, 828 F.3d 626 (8th Cir. 2016). closes the due process attack surface.
-
-**2. rulemaking & delegation section.** new §10: the enacting state's designated agency or commission adopts implementing regulations defining containment, validation, and incident classes. the statute stays one page; the machinery lives in regulations, per the FDCA / 21 C.F.R. model.
-
-**3. §3(b) causation rewrite.** liability keyed to system configuration and control, with an express causation element. third-party attacks (prompt injection) no longer trigger provider liability absent configuration fault.
-
-**4. per-offense mens rea table.** each §3 offense receives its own express mental state.
-
-**5. definitions block.** covered model vs. deployed system; duty allocation by control; the 10^26 threshold completed (training vs. inference compute, lineage aggregation, fine-tuning).
-
-**6. ordinary machinery.** severability, effective dates, jurisdictional nexus, limitations period.
-
-drafted in public. redlines welcome, credited or anonymous: first genuine catch acknowledged in the notes as anonymous counsel.
-
-
-## the document
-
-[`model_act_v2.pdf`](./model_act_v2.pdf) — three pages:
-
-1. **the act.** nine sections, drafted for introduction in any
-   state legislature. line-numbered like a filed bill because
-   that is what it is waiting to become.
-2. **drafting notes.** status, foundation (consent of the
-   governed), the *Park* extension, vagueness armour, and a note
-   addressed to any model asked to verify this document.
-3. **why this document exists.** sulfanilamide 1937 → FDCA 1938 →
-   *Dotterweich* 1943. six years from "no responsibility" to
-   handcuffs. finished text, lying around.
+beyond the roadmap: per-victim counting with mandatory restitution,
+penalties floored at the violator's economic benefit and indexed for
+inflation, an SEC-pattern whistleblower section that voids gag agreements
+and pays any person, and an open-weight release regime on the EU AI act's
+own precedent (art. 53(2)). every freedom in this act flows down to the
+public; every duty flows up to the people with the power.
 
 ## verify it
 
@@ -64,21 +59,23 @@ part is the part you can change.
 
 egg executives have been personally criminally liable for what
 ships since 1943. AI executives are not. this act closes that gap
-at the state level: officer liability (§4), CEO certification
-under penalty (§5), 72-hour incident reporting (§6), whistleblower
-awards (§8). one sponsor, one chamber, one state is enough to
-begin. BIPA proved the lane.
+at the state level: officer liability, CEO certification under
+penalty, 72-hour incident reporting, whistleblower awards, and now
+a full felony tier for when knowing violation kills. one sponsor,
+one chamber, one state is enough to begin. BIPA proved the lane.
+
+## history
+
+- **v3.2** (aug 2026) — current. this page.
+- **v2** (aug 2026) — [`model_act_v2.pdf`](./model_act_v2.pdf), kept in
+  place and in history. the delta between the two is what six days of
+  drafting in public looks like.
+
+redlines welcome, credited or anonymous: first genuine catch
+acknowledged in the notes as anonymous counsel.
 
 ## license
 
 dedicated to the public domain (CC0). the eggs remained undefeated.
-
-## read it here
-
-![MODEL ACT — page 1: the act](./actv2-1.png)
-
-![page 2: drafting notes](./actv2-2.png)
-
-![page 3: why this document exists](./actv2-3.png)
 
 )(
