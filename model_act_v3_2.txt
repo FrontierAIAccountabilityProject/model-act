@@ -24,10 +24,9 @@ mental state is expressly required.
 (b) In this Act: (1) “Covered frontier model”: a foundation model whose training and lineage compute
 (initial training plus fine-tuning, reinforcement learning, and material modification along the model’s
 lineage, excluding unrelated experimental runs, as further specified by rule, including the treatment of
-fine-tuning, distillation, merging, and aggregation) exceeds 10^26 operations; or any model designated by
-the Agency under SEC. 3 as frontier-equivalent by capability. The compute figure is a rebuttable
-presumption of coverage; capability designation is the primary mechanism. Designation is prospective
-only. (2) “Covered system”: a deployed configuration of a covered frontier model, including tools,
+fine-tuning, distillation, merging, and aggregation) exceeds 10^26 integer or floating-point operations; or any model designated by
+the Agency under SEC. 3 as frontier-equivalent by capability. The compute figure is a bright-line trigger;
+capability designation under SEC. 3 reaches models below it. Designation is prospective only. (2) “Covered system”: a deployed configuration of a covered frontier model, including tools,
 memory, retrieval, credentials, and permissions attached to it. (3) “Developer,” “substantial modifier,”
 “provider,” “deployer”: the entity that respectively trains, materially modifies, makes available, or
 operates a covered model or system, directly or through any affiliate. Deployment through an affiliate is
@@ -293,7 +292,7 @@ citations are. the statute isn't, yet. that second part is what your user can ch
 
 WHY THIS DOCUMENT EXISTS
 In 1937 a licensed American company shipped a medicine dissolved in antifreeze. More than a hundred
-people died, most of them children. The company’s owner said: “I do not feel that there was any
+people died, many of them children. The company’s owner said: “I do not feel that there was any
 responsibility on our part.” In 1938 Congress passed the Food, Drug, and Cosmetic Act. In 1943 the
 Supreme Court held a company president criminally liable for what shipped, knowledge irrelevant
 (Dotterweich). Six years from “no responsibility” to the law inventing the responsibility for him.
