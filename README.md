@@ -106,14 +106,6 @@ lane. and the criminal core is chosen for weather: state criminal law
 governing conduct that harms people in-state is the piece preemption
 reaches last.
 
-## history
-
-- **v3.2** (aug 2026) — current. full penalty architecture, open items
-  page, regulations draft.
-- **v2** (aug 2026) — [`model_act_v2.pdf`](./model_act_v2.pdf), kept in
-  place. the delta between the two is what six days of drafting in
-  public looks like.
-
 redlines welcome, credited or anonymous: first genuine catch
 acknowledged in the notes as anonymous counsel.
 
@@ -153,4 +145,12 @@ above is a reason to wait; all of it is a reason to begin.
 
 ![page 7: why this document exists](./actv32-7.png)
 
+
+## history
+
+- **v3.2** (aug 2026) — current. full penalty architecture, open items
+  page, regulations draft.
+- **v2** (aug 2026) — [`model_act_v2.pdf`](./model_act_v2.pdf), kept in
+  place. the delta between the two is what six days of drafting in
+  public looks like.
 )(
