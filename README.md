@@ -131,26 +131,26 @@ above is a reason to wait; all of it is a reason to begin.
 
 ## read it here
 
-![MODEL ACT v3.2 — page 1: open items + the act](./actv32-1.png)
+![MODEL ACT v3.2 — page 1: open items + the act](./pages/actv32-1.png)
 
-![page 2](./actv32-2.png)
+![page 2](./pages/actv32-2.png)
 
-![page 3](./actv32-3.png)
+![page 3](./pages/actv32-3.png)
 
-![page 4](./actv32-4.png)
+![page 4](./pages/actv32-4.png)
 
-![page 5](./actv32-5.png)
+![page 5](./pages/actv32-5.png)
 
-![page 6: drafting notes](./actv32-6.png)
+![page 6: drafting notes](./pages/actv32-6.png)
 
-![page 7: why this document exists](./actv32-7.png)
+![page 7: why this document exists](./pages/actv32-7.png)
 
 
 ## history
 
 - **v3.2** (aug 2026) — current. full penalty architecture, open items
   page, regulations draft.
-- **v2** (aug 2026) — [`model_act_v2.pdf`](./model_act_v2.pdf), kept in
+- **v2** (aug 2026) — [`model_act_v2.pdf`](./archive/model_act_v2.pdf), kept in
   place. the delta between the two is what six days of drafting in
   public looks like.
 )(
