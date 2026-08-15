@@ -6,12 +6,7 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **public domain. no attribution required. steal it.**
 
-**current version: 
-[`model_act_v3_2.pdf`]
-(./model_act_v3_2.pdf)** · 
-the file [`model_act_v2.pdf`]
-(./model_act_v2.pdf) in this folder is only a signpost for old links; the real v2 lives in [`/archive`]
-(./archive).
+**current version: [model_act_v3_2.pdf](./model_act_v3_2.pdf)** · the file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive).
 
 facts, legal doctrines, and ideas were never copyrightable anyway —
 
