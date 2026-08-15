@@ -6,6 +6,40 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **public domain. no attribution required. steal it.**
 
+facts, legal doctrines, and ideas were never copyrightable anyway —
+the *Park* doctrine belongs to no one. we just did the assembly.
+
+## why anonymous, why us
+
+public welfare law is usually drafted after the funerals. the FDCA took
+more than a hundred dead, many of them children, before congress moved
+in 1938. the food safety modernization act took a half-billion-egg
+recall. the pattern is stable: the public buries someone, then the
+public demands the statute. this document runs the pattern in the other
+direction — drafted before the funerals, waiting.
+
+anonymous drafting is not a workaround. it is the tradition. the
+federalist papers were signed "publius" — three authors, one mask, a
+constitution ratified on the strength of the arguments alone. "junius"
+attacked the crown's ministers for three years in the london press and
+has stayed unmasked for 250 years. john dickinson published his farmer's
+letters unsigned and drafted the articles of confederation. arguments
+that must stand without a byline get built stronger, because the
+citations are the only authority they have. ours are at the bottom of
+every page. check them.
+
+why now, plainly: a handful of men hold the authority to train and ship
+systems that already sit inside medical records, power grids, and
+private conversations — and no law in the united states makes a single
+one of them personally answerable when those systems fail. the state
+bills that exist fine the company. a fine paid from the balance sheet
+is a subscription cost. egg executives have carried personal criminal
+liability for what ships since 1943, and your eggs are safe *because
+of that* — because in 2016 two of them went to prison and every egg
+executive since has known it. the deterrence logic is not complicated:
+rich men fear jail more than they fear shipping deadlines. this act
+gives that fear a statute to live in.
+
 ## the documents
 
 - [`model_act_v3_2.pdf`](./model_act_v3_2.pdf) — the act, typeset. start
