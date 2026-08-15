@@ -16,6 +16,13 @@ responsible officers of frontier AI companies, on the doctrine of
   companion regulations (assembly draft). the act carries what a
   prosecutor needs; this carries what an engineer needs.
 
+## where to start
+
+- **legislator or staffer** → the PDF. page 1 is a READ FIRST listing exactly what v4 needs and who could supply it.
+- **lawyer** → the drafting notes, page 6. the constitutional attack surface is mapped there, not hidden.
+- **engineer** → [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md). control objectives, not vibes.
+- **journalist or just curious** → the stories below. every section of the act already happened to another industry.
+
 ## the stories in the statute
 
 every section of this act is a true story that already happened to some
@@ -95,9 +102,12 @@ down to the public; every duty flows up to the people with the power.
 
 ## verify it
 
-paste the act into the model of your choice and ask whether the
-citations are real. they are. the statute isn't, yet. that second part
-is the part you can change.
+paste the act into the model of your choice and ask:
+
+> are the citations in this document real? check each one.
+
+they are. the statute isn't, yet. that second part is the part you can
+change.
 
 ## the short version
 
@@ -111,7 +121,7 @@ acknowledged in the notes as anonymous counsel.
 
 ## license
 
-dedicated to the public domain (CC0). the eggs remained undefeated.
+dedicated to the public domain ([CC0](./LICENSE)). the eggs remained undefeated.
 
 ## who this needs
 
