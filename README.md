@@ -4,7 +4,7 @@ model state legislation. personal criminal liability for the
 responsible officers of frontier AI companies, on the doctrine of
 *United States v. Park*, 421 U.S. 658 (1975).
 
-model_act_v3_2.pdf · the file model_act_v2.pdf in this folder is only a signpost for old links; the real v2 lives in /archive.
+**current version: [`model_act_v3_2.pdf`](./model_act_v3_2.pdf)** · the file [`model_act_v2.pdf`](./model_act_v2.pdf) in this folder is only a signpost for old links; the real v2 lives in [`/archive`](./archive).
 
 **public domain. no attribution required. steal it.**
 
