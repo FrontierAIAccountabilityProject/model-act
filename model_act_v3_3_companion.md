@@ -740,13 +740,19 @@ The first act of any v4 drafting chunk is the re-sweep.
 - *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.) — argued 16 July 2026, undecided. When it lands: the
   n.16 re-run, plus the interim-bridge transmission-layer check (chunk 5 §I.2).
 - *xAI v. Weiser* (D. Colo.) — whether an amended complaint targets SB 26-189.
-- FRONTIER Act, H.R. 9925 — referred, no markup located.
+- FRONTIER Act, H.R. 9925 — referred, no markup located; at markup, whether any Covered
+  Subject Area is drafted to reach officer liability.
 - GAAIA — not introduced; whether §121(c) survives introduction.
 - FTC policy statement (docket FTC-2026-0859) — proposed only.
 - Commerce list under EO 14365 §4 — unpublished.
 - Suits against SB 53, RAISE, or SB 315 — none located.
 - CA Senate Appropriations suspense results for the AB docket (Aug 2026) — unpublished at
   sweep; grades the chunk 1 landscape predictions when it drops.
+- Casar–Khanna oversight letter to Anthropic (17 questions, 24 signatories) — response due
+  24 Aug 2026; what enters the congressional record tests the mapping of its questions onto
+  SEC. 6, SEC. 9, and SEC. 12.
+- California 2025–26 regular session adjourns 31 Aug 2026 — bills not passed by adjournment
+  die; the AI docket's final disposition follows within days.
 
 ---
 
