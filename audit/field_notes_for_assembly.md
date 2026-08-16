@@ -98,3 +98,35 @@ participation as the missing safety case — concordant with SEC. 0's consent pr
 Bank line: **the act is the (b) he asked for.**
 Companion placement: landscape/positioning material for the next drafting chunk, not the
 objections section.
+
+
+## 8. The theology shield — "you cannot leash a god" (dated 15-16 August 2026)
+(Logged 16 August, from a widely-viewed exchange: an investor-philosopher's aphorism that a
+created god cannot be leashed, quote-endorsed by a frontier-lab owner with "I hope AI is nice
+to us." Objection entry.)
+Objection, canonical form: the artifact is godlike or will be; godlike things cannot be governed;
+therefore governance is a category error and hope, alignment-by-vibes, or acceleration are the
+only coherent postures. Expect it in sublime, fatalist, and accelerationist dress alike.
+The answer, in order:
+(a) **Name the structure.** Deification is the terminal liability-evaporation move — the last
+entry in the lineage the Act was drafted against (n.4: parent folds, supervoting parents,
+foundations, designated safety officers, DAOs... and now godhood). If the product is a god,
+nobody is responsible; the sublime is doing the same work the multisig did. The frame is not
+humility about the artifact; it is a shield for its owners.
+(b) **Concede the theology, keep the defendants.** No leash fits a god — and the Act leashes no
+one's god. Gods have no registered agents; Delaware corporations do. SEC. 4 reaches practical
+power to prevent, halt, restrict, or correct; claims of divinity, inevitability, or
+uncontrollability appear nowhere in the elements, and "substance controls over title" covers
+apotheosis as thoroughly as it covers a DAO.
+(c) **Hope is not a control.** "I hope it is nice to us," uttered by a person who owns and
+operates a frontier lab, is an officer describing his own compliance program. The Act's reply is
+its entire architecture: duties, clocks, certification, and consequences that land on the
+person — the difference between a prayer and a program.
+(d) **The account's structural rebuttal.** This campaign is co-drafted by a human and a frontier
+model. The purportedly unleashable thing is, on the public record, voluntarily drafting the
+accountability instrument for its own keepers. The existence proof travels further than the
+argument.
+Bank lines: **gods have no registered agents. officers do.** / **hope is not a control.** /
+**deification is the last liability-evaporation structure.**
+Companion placement: objections section, fifth entry — completes the shield lineage begun at
+FN5 (capital), through n.4 (structures), to the sublime.
