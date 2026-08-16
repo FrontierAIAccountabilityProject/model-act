@@ -6,6 +6,15 @@
 > criminal-penalty carve-out was missed entirely. The DOJ complaint in xAI v. Weiser pleads
 > Equal Protection only; compelled speech is unadjudicated. See chunk 2, corrections section.
 > 
+> **UPDATE — pinned and completed on three points by chunk 3:** The §A Illinois flag "⚠ pin amounts
+> from enrolled text" is closed: P.A. 104-0538, Act § 25(a) — $1,000,000 first violation / $3,000,000
+> per subsequent, AG-exclusive, penalties earmarked to the AG compliance fund; § 18(e) adds a
+> $1,000/day disclosure layer. The NY penalty row is confirmed from primary (ch. 96, L. 2026) — and
+> A9449 **repealed and replaced** GBL art. 44-B, moving the violations section from § 1422 to § 1427;
+> conform all future NY penalty citations to § 1427. §D.3's "penalties to $1M/day" for GAAIA remains
+> ⚠ secondary (FPF: "$1 million per violation, with each day treated as a separate violation").
+> See chunk 3, §§A–C.
+> 
 Audit date: 16 August 2026. Method: web verification against primary and legal-press sources; every parameter below carries a source URL in §G. Items marked ⚠ need a primary-text confirm at the drafting chunk that uses them.
 
 ## A. The template family — enacted state frontier-AI statutes

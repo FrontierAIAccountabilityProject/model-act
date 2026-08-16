@@ -1,5 +1,13 @@
 # CHUNK 2 — PREEMPTION ARMOUR FOR v3.3
 
+> **UPDATE — amended on two points by chunk 3:** §E.4's SEC. 13(b)(1) and (b)(5) are amended by
+> chunk 3 §E.4 — the civil penalty of SEC. 10(a) now severs independently of the criminal penalties
+> of SEC. 10(b)–(c), and the SEC. 11 fund moves to a new SEC. 10(f) with a survival clause — use
+> chunk 3's text at v3.3 assembly. The four §G carried questions "for chunk 3" are answered at
+> chunk 3 §B: A9449 and SB 315 penalty text pinned from enrolled primary; SEC. 10(a) severance
+> split adopted; SEC. 5(d) narrowed to statements to this State's own government (the §I.5 caution
+> is reduced, not retired — chunk 3 §I.6).
+> 
 Drafting date: 16 August 2026. Method: primary-text verification of every federal vehicle quoted below (govinfo.gov introduced text; the GAAIA discussion-draft PDF on the sponsor's own server; supremecourt.gov slip opinions), doctrinal build, then an adversarial pass in which the draft armour was attacked rather than checked. The attack found more than the check did; §E and §F below are the second draft, and §I records what the first draft got wrong so the same errors are not re-made at v3.4.
 
 Verbatim quotation is used wherever the exact words are load-bearing. Anything not retrieved from primary text is marked ⚠ and paraphrased, never quoted.
