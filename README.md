@@ -189,22 +189,18 @@ brackets carry the numbers three governors already signed.
 if one of these is you: the text is public domain. take it. nothing
 above is a reason to wait; all of it is a reason to begin.
 
-## read it here (v3.2 pages; v3.3 pages to follow)
+## read it here
 
-![MODEL ACT v3.2 — page 1: open items + the act](./pages/actv32-1.png)
-
-![page 2](./pages/actv32-2.png)
-
-![page 3](./pages/actv32-3.png)
-
-![page 4](./pages/actv32-4.png)
-
-![page 5](./pages/actv32-5.png)
-
-![page 6: drafting notes](./pages/actv32-6.png)
-
-![page 7: why this document exists](./pages/actv32-7.png)
-
+![MODEL ACT v3.3 — page 1: findings + the act](./pages/actv33-1.png)
+![page 2](./pages/actv33-2.png)
+![page 3](./pages/actv33-3.png)
+![page 4](./pages/actv33-4.png)
+![page 5](./pages/actv33-5.png)
+![page 6](./pages/actv33-6.png)
+![page 7](./pages/actv33-7.png)
+![page 8](./pages/actv33-8.png)
+![page 9](./pages/actv33-9.png)
+![page 10](./pages/actv33-10.png)
 
 ## history
 
