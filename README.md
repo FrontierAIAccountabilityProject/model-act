@@ -54,8 +54,9 @@ gives that fear a statute to live in.
   carries what a prosecutor needs; this carries what an engineer needs.
 - [`model_act_v3_2.pdf`](./model_act_v3_2.pdf) /
   [`model_act_v3_2.txt`](./model_act_v3_2.txt) — previous version, kept
-  in place. [`/audit`](./audit) holds the five audit chunks and the
-  assembly record that turned v3.2 into v3.3, receipts included.
+  in place. [`/audit`](./audit) holds the five audit chunks, the assembly record
+that turned v3.2 into v3.3, and the field notes — objections met in
+the wild and the answers that survived them. receipts included.
 
 ## where to start
 
