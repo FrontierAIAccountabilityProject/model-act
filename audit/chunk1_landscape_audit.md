@@ -1,4 +1,11 @@
 # CHUNK 1 — LANDSCAPE AUDIT FOR v3.3
+
+> **ERRATA — superseded on four points by chunk 2:** FRONTIER Act (H.R. 9925) is the introduced
+> vehicle; GAAIA remains an unnumbered discussion draft — threat ranking in §D is inverted.
+> GAAIA Sec. 121 enumerates three savings clauses, not seven. H.R. 5388 §6(a)(2)(B)'s
+> criminal-penalty carve-out was missed entirely. The DOJ complaint in xAI v. Weiser pleads
+> Equal Protection only; compelled speech is unadjudicated. See chunk 2, corrections section.
+> 
 Audit date: 16 August 2026. Method: web verification against primary and legal-press sources; every parameter below carries a source URL in §G. Items marked ⚠ need a primary-text confirm at the drafting chunk that uses them.
 
 ## A. The template family — enacted state frontier-AI statutes
