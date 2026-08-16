@@ -8,8 +8,9 @@ do it.
 
 ## what's here
 
-- **the five working chunks** — landscape audit, preemption armour,
-  penalty architecture, harm-tier rebuild, commencement and records.
+- **the five working chunks** (`chunk1`–`chunk5`) — the survey of the
+  existing legal landscape, the preemption armour, the penalty
+  architecture, the harm-tier rebuild, and commencement and records.
   each one is a bounded question, researched with sources pinned,
   ending in decisions the assembly could consume.
 - **`chunk6_assembly.md`** — the assembly record: how the five chunks
