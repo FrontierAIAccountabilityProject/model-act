@@ -726,6 +726,11 @@ a Bluebook closes most of it in an afternoon.
   U.S. Reports page exists.
 - House discipline, standing: *Virginia Uranium* always carries "(plurality opinion)"; *X Corp. v.
   Bonta* is always described as a preliminary-injunction likelihood ruling.
+- PLCAA (15 U.S.C. §§ 7901–7903) and the *Soto v. Bushmaster* settlement figure ($73M, 2022)
+  from primary (audit/field notes 3; committee-facing use gated on the pin).
+- The Swartz superseding-indictment count (thirteen, Sept. 2012) from the indictment itself
+  (field notes 4).
+- The Limitation of Liability Act (1851): act and current codification (field notes 5).
 
 ## STANDING WATCH
 
@@ -740,6 +745,8 @@ The first act of any v4 drafting chunk is the re-sweep.
 - FTC policy statement (docket FTC-2026-0859) — proposed only.
 - Commerce list under EO 14365 §4 — unpublished.
 - Suits against SB 53, RAISE, or SB 315 — none located.
+- CA Senate Appropriations suspense results for the AB docket (Aug 2026) — unpublished at
+  sweep; grades the chunk 1 landscape predictions when it drops.
 
 ---
 
