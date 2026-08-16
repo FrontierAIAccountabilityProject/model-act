@@ -731,6 +731,8 @@ a Bluebook closes most of it in an afternoon.
 - The Swartz superseding-indictment count (thirteen, Sept. 2012) from the indictment itself
   (field notes 4).
 - The Limitation of Liability Act (1851): act and current codification (field notes 5).
+- Price-Anderson (42 U.S.C. § 2210), NRC operator licensing (10 C.F.R. Part 55), and the
+  deliberate-misconduct rule (10 C.F.R. § 50.5) from primary (field notes 6).
 
 ## STANDING WATCH
 
