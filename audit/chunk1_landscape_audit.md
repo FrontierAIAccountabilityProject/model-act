@@ -15,6 +15,14 @@
 > ⚠ secondary (FPF: "$1 million per violation, with each day treated as a separate violation").
 > See chunk 3, §§A–C.
 > 
+> **UPDATE — completed on two points by chunk 4:** §E.8's retention flag ("⚠ check SB 53/SB 315
+> retention at chunk 4") is closed from primary text: SB 53's only retention clause is the five-year
+> unredacted-information rule (B&P § 22757.12(f)); SB 315 adds "for as long as a frontier model is
+> deployed plus 5 years" for the audit report (§ 10(d)(3)) beside its own five-year redaction shadow
+> (§ 10(g)(1)); NY carries the five-year redaction shadow only (GBL § 1421(5)(B)). SEC. 12 is rebuilt
+> to [ten] years / deployment+[five] / litigation hold at chunk 4 §E.3. §A's "Records/FOIA (⚠ check)"
+> row for NY/IL: retention half closed; the NY FOIL half carries to the cite-check. See chunk 4 §§A.3, B.
+> 
 Audit date: 16 August 2026. Method: web verification against primary and legal-press sources; every parameter below carries a source URL in §G. Items marked ⚠ need a primary-text confirm at the drafting chunk that uses them.
 
 ## A. The template family — enacted state frontier-AI statutes

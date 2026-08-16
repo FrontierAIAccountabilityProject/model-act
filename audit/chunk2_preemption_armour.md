@@ -8,6 +8,13 @@
 > split adopted; SEC. 5(d) narrowed to statements to this State's own government (the §I.5 caution
 > is reduced, not retired — chunk 3 §I.6).
 > 
+> **UPDATE — answered on one point by chunk 4:** the §G carried question for chunk 4 (SB 53/SB 315
+> retention against SEC. 12's five years) is answered at chunk 4 §B from primary text, and SEC. 12's
+> periods are rebuilt at chunk 4 §E.3 ([ten] years from creation / [five] after last in-state
+> deployment / litigation hold on notice). The §I.3 caution is restated, not resolved: the longer
+> periods raise the value of the SEC. 13(c)(2)(C) retention fallback without changing the FRONTIER
+> CSA(2)(C) exposure in kind — chunk 4 §D.6, n.23.
+> 
 Drafting date: 16 August 2026. Method: primary-text verification of every federal vehicle quoted below (govinfo.gov introduced text; the GAAIA discussion-draft PDF on the sponsor's own server; supremecourt.gov slip opinions), doctrinal build, then an adversarial pass in which the draft armour was attacked rather than checked. The attack found more than the check did; §E and §F below are the second draft, and §I records what the first draft got wrong so the same errors are not re-made at v3.4.
 
 Verbatim quotation is used wherever the exact words are load-bearing. Anything not retrieved from primary text is marked ⚠ and paraphrased, never quoted.

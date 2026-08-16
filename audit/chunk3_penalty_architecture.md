@@ -1,5 +1,15 @@
 # CHUNK 3 — PENALTY ARCHITECTURE FOR v3.3: SEC. 7 REWORK AND BRACKET CALIBRATION
 
+> **UPDATE — amended on three points by chunk 4:** SEC. 10(c) as set out at §E.2 below is
+> restructured by chunk 4 §E.2 — the death ceiling rises to any term of years or life per
+> 18 U.S.C. § 1365(a), resolving A.2's § 841(b) inversion structurally; a concurrency-default
+> valve with a [forty]-year cap on consecutive determinate terms replaces "may run consecutively";
+> and restitution decouples from the tier into a new (c)(4), so §E.1's SEC. 7(a) reference to
+> "restitution ordered under SEC. 10(c)(2)" conforms to (c)(4) (chunk 4 §E.4(g)). n.19's
+> "On § 841(b)" passage is superseded by n.21 (strike per chunk 4 §E.4(e)). SEC. 6(b) splits into
+> (b)(1)/(b)(2), closing the recidivist path to the harm tier (chunk 4 §E.1). The §G questions
+> carried "for chunk 4" are all answered at chunk 4 §§B and E. Use chunk 4's text at v3.3 assembly.
+> 
 Drafting date: 16 August 2026. Method: primary-text pinning of every dollar figure the calibration rests on (state legislature servers and enrolled-text mirrors; eCFR; U.S. Code), then the calibration, then the drop-in text, then an adversarial pass in which the drop-ins were attacked rather than checked. As at chunk 2, the attack found more than the check did; §E is the second draft and §I records what the first draft got wrong.
 
 Verbatim quotation is used wherever the exact words are load-bearing. Anything not retrieved from primary text is marked ⚠ and paraphrased, never quoted. Two primary sources were unreachable from this drafting environment and are disclosed as such (§H): leginfo.legislature.ca.gov (robots-excluded; the SB 53 pin below is from the LegiScan mirror of the enrolled text) and legislation.nsw.gov.au / AustLII (403; the NSW pin below is ⚠ secondary).
