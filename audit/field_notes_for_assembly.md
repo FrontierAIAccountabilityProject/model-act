@@ -1,6 +1,12 @@
 # FIELD NOTES FOR ASSEMBLY — chunk 6 inputs
 Logged 16 August 2026, from public engagement on the campaign account. Items that arose outside the chunk sequence; recorded here so nothing decision-relevant lives only in a chat log.
 
+> **CONSUMED — at chunk 6 (v3.3 assembly, 16 August 2026):** item 1 → n.4 as amended
+> (decentralised-governance vehicles named among the structures-in-actual-use, with the diffusion
+> clause; no section text changed, as directed). Item 2 → the companion's "Friendly proposals,
+> answered" section — "this Act does not regulate the button; it regulates the hand" — drafted by
+> conversion, not correction, covering the switch mandate and structure-shopping both.
+
 ## 1. n.4 addition — decentralised-governance vehicles
 An interlocutor proposed the Wyoming DAO LLC as the natural corporate form for AI companies, alongside a mandated human kill-switch. Treat the DAO half as a gift: a decentralised-governance vehicle is the next liability-evaporation structure — formal control diffused across tokenholders and multisig signers until no natural person "controls" anything. SEC. 4(a) as drafted already reaches it ("ownership, voting, contractual, governance, or other rights... alone or in concert with others, and through any intermediary, entity, trust, or arrangement"); the fix is naming, not redrafting. n.4's list of structures-in-actual-use (parent-entity folds, supervoting parents, controlling foundations, designated safety officers) should gain decentralised-governance vehicles, with a clause to the effect that diffusion of formal control is a renaming of practical control, not an absence of it. No section text changes required.
 

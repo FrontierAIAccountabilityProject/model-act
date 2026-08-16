@@ -1,5 +1,17 @@
 # CHUNK 4 — THE HARM TIER REBUILT: PROPORTIONALITY VALVE, RECIDIVIST PATH, AND RETENTION HARMONISATION FOR v3.3
 
+> **UPDATE — closed and executed on four points by chunk 5:** §C's two ⚠ paraphrases are pinned:
+> USSG § 5G1.2(d) from the Commission's own archive HTML (the paraphrase was accurate; Amendment
+> 767 touched subsection (b) only; 2025-manual identity is a cite-check residual), and MPC § 7.06
+> mirror-pinned — the pinned formula is *stricter* than the Kansas double rule (aggregate capped at
+> the longest extended term for the gravest offense, no doubling), so the Act's [forty]-year cap
+> sits between the MPC and unlimited stacking; n.21's two ⚠s are struck per chunk 5 §F.4(a). §G's
+> decision item is executed as instructed: the § 331(e)-lineage records offense took its
+> collision-map rating and its First and Fifth Amendment passes at chunk 5 §D.5 and enters as
+> SEC. 5(e) (chunk 5 §E.3(b)) — supplying the offense §I.5 named as missing. §E.4(c)–(d)'s
+> regulations conforms are executed at chunk 5 §E.6(a)–(b). See chunk 5 §§B.1–B.2, B.4, D.5, E.3,
+> E.5–E.6.
+> 
 Drafting date: 16 August 2026. Method as at chunks 2–3: primary-text pinning of every figure and clause the design rests on, then the design, then the drop-in text, then an adversarial pass in which the drop-ins were attacked rather than checked. As before, the attack found more than the check did; §E is the second draft and §I records what the first draft got wrong.
 
 Verbatim quotation is used wherever the exact words are load-bearing. Anything not retrieved from primary text is marked ⚠ and paraphrased, never quoted. Three primary sources were unreachable from this drafting environment and are disclosed as such (§H): guidelines.ussc.gov (JS-only; USSG § 5G1.2(d) is ⚠ paraphrased), the ALI's Model Penal Code text (not freely retrievable; § 7.06 is ⚠ paraphrased), and leginfo.legislature.ca.gov (robots-excluded, as at chunk 3; the SB 53 pin is from the LegiScan mirror of the enrolled text).

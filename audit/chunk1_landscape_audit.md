@@ -23,6 +23,20 @@
 > to [ten] years / deployment+[five] / litigation hold at chunk 4 §E.3. §A's "Records/FOIA (⚠ check)"
 > row for NY/IL: retention half closed; the NY FOIL half carries to the cite-check. See chunk 4 §§A.3, B.
 > 
+> **UPDATE — completed on two points by chunk 5:** §A's CA incident-clock flag ("⚠ confirm 24h
+> imminent-risk channel in chaptered text") is closed from the enrolled mirror: Bus. & Prof. Code
+> § 22757.13 — reporting within 15 days of discovery, and within 24 hours where the incident poses
+> imminent risk of death or serious injury. And §E.9's anticipated provisional-validation bridge is
+> built: the CA/NY/IL framework duties enter SEC. 3(c)(4) as legislatively adopted interim
+> standards, static, pinned to a date certain, with reading rules disapplying the revenue screens,
+> staggers, publication, and third-party-audit modes. See chunk 5 §§B.3, D.2–D.3, E.1.
+> 
+> **CONSUMED — at chunk 6 (v3.3 assembly):** §E.2's recommended posture (keep compute+designation,
+> defend the divergence) and §E.10's one-sentence concordance pitch are executed at v3.3 n.27,
+> which also records §E.4's emergency-management co-recipient option; §E.1 and §E.3's "cite the
+> siblings" instructions land there too. The NY FOIL half of §A's Records/FOIA row remains on the
+> consolidated cite-check (companion).
+> 
 Audit date: 16 August 2026. Method: web verification against primary and legal-press sources; every parameter below carries a source URL in §G. Items marked ⚠ need a primary-text confirm at the drafting chunk that uses them.
 
 ## A. The template family — enacted state frontier-AI statutes
