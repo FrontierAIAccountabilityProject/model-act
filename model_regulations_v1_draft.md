@@ -1,5 +1,5 @@
 MODEL REGULATIONS — FRONTIER ARTIFICIAL INTELLIGENCE CONTROLS
-Companion instrument to the Model Act (v3.2 line). ASSEMBLY DRAFT 1.
+Companion instrument to the Model Act (v3.3 line). ASSEMBLY DRAFT 1, conformed at v3.3 assembly (chunk 5 §E.6).
 [Bracketed numbers = adopting-state choices. Structure implements the two-document
 architecture: the Act carries offenses and power; these rules carry
 machinery, amendable by the Agency under SEC. 3 without reopening the Act.]
@@ -100,7 +100,7 @@ accelerated reporting; upon designation, every subsequent event of the
 same nature involving the same or a substantially similar system reports
 on the accelerated clock without further request. [803.53(b) pattern.]
 5.5 A report is not an admission, but fixes notice for purposes of
-SEC. 6(b) as provided in the Act.
+SEC. 6(b)(1) as provided in the Act.
 
 PART 6 — CONTROL OBJECTIVES [GMP pattern throughout: written /
 followed / documented contemporaneously / reviewed by designated function]
@@ -139,13 +139,16 @@ death or serious injury; post-deprivation hearing within [10] days.
 [FDCA 332/334 two-track, dangerous-to-health valve modernized.]
 
 PART 8 — CIVIL PENALTY COMPUTATION (SEC. 10(a))
-8.1 Per violation, per day the violation continues: up to $[X]/day.
+8.1 Per violation, per day the violation continues: up to $[1,000,000] per
+violation per day or, after a prior final adjudication of a violation by
+the same person, up to $[3,000,000] per violation per day, per SEC. 10(a).
 8.2 Factors: seriousness; economic benefit or savings from noncompliance;
 history; good-faith efforts; economic impact on the violator; other
 matters as justice requires. [CWA 309(d) pattern.]
 8.3 FLOOR: a penalty shall not be less than the economic benefit or
 savings derived from the violation, as found by the court.
-8.4 Penalties collected fund the SEC. 11 award fund.
+8.4 Monetary recoveries are deposited and applied per SEC. 10(f); awards
+under SEC. 11 are paid from the fund it establishes.
 
 PART 9 — WHISTLEBLOWER PROCEDURES (SEC. 11)
 9.1 Reports: any channel designated by the Agency; anonymous through
@@ -159,11 +162,15 @@ credible report within [180] days.
 
 PART 10 — RECORDS AND CONFIDENTIALITY (SEC. 12)
 10.1 Retention: validation packages, certifications, logs, evaluation
-records, and reports: [7] years.
+records, and reports: for the periods provided by SEC. 12 of the Act.
 10.2 Public-records exemption per the SEC. 12 sensitive-information
 clause: channel protected; no use-immunity; underlying facts never
 privileged. [CIRCIA-pattern protected channel; no use-immunity conferred.]
 ------------------------------------------------------------------
-ASSEMBLY STATUS: assembly draft, released alongside Model Act v3.2. Bracketed
-figures are adopting-state choices; source-pattern notes in brackets cite
-the lineage of each part. Public domain.
+ASSEMBLY STATUS: assembly draft, released alongside Model Act v3.2 and
+conformed to v3.3 at chunk 6 (Parts 5.5, 8.1, 8.4, 10.1, per chunk 5 §E.6;
+Part 3 deliberately carries no interim clause — the interim regime lives in
+SEC. 3(c) of the Act, per chunk 5 §E.6(e)). The Part 2 version pins await
+re-pin at adoption (READ FIRST item 1). Bracketed figures are
+adopting-state choices; source-pattern notes in brackets cite the lineage
+of each part. Public domain.

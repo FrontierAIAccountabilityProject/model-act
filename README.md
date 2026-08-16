@@ -1,4 +1,4 @@
-# MODEL ACT — Frontier AI Public Welfare Offenses (v3.2)
+# MODEL ACT — Frontier AI Public Welfare Offenses (v3.3)
 
 model state legislation. personal criminal liability for the
 responsible officers of frontier AI companies, on the doctrine of
@@ -6,7 +6,7 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **public domain. no attribution required. steal it.**
 
-**current version: [model_act_v3_2.pdf](./model_act_v3_2.pdf)** · the file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive).
+**current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the introducible text, SEC. 0–13) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). v3.3 splits the act from its apparatus so a staffer can drop the text straight into a bill jacket. typeset pdf of v3.3 to follow; [model_act_v3_2.pdf](./model_act_v3_2.pdf) is the previous typeset. the file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive). what changed and why: [CHANGELOG.md](./CHANGELOG.md); the full audit trail is in [/audit](./audit).
 
 facts, legal doctrines, and ideas were never copyrightable anyway — the *Park* doctrine belongs to no one. we just did the assembly.
 
@@ -43,18 +43,24 @@ gives that fear a statute to live in.
 
 ## the documents
 
-- [`model_act_v3_2.pdf`](./model_act_v3_2.pdf) — the act, typeset. start
-  here. opens with a READ FIRST page listing the open items for v4, each
-  gap naming the kind of person who could close it.
-- [`model_act_v3_2.txt`](./model_act_v3_2.txt) — same text, plain.
+- [`model_act_v3_3.txt`](./model_act_v3_3.txt) — the act, SEC. 0–13,
+  introducible. start here if you hold a pen in a legislature.
+- [`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md) — the
+  READ FIRST page (open items for v4, each gap naming the kind of person
+  who could close it), the drafting notes n.1–n.27, the answers to the
+  friendly proposals, and why this document exists.
 - [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) —
-  companion regulations (assembly draft). the act carries what a
-  prosecutor needs; this carries what an engineer needs.
+  companion regulations (assembly draft, conformed to v3.3). the act
+  carries what a prosecutor needs; this carries what an engineer needs.
+- [`model_act_v3_2.pdf`](./model_act_v3_2.pdf) /
+  [`model_act_v3_2.txt`](./model_act_v3_2.txt) — previous version, kept
+  in place. [`/audit`](./audit) holds the five audit chunks and the
+  assembly record that turned v3.2 into v3.3, receipts included.
 
 ## where to start
 
-- **legislator or staffer** → the PDF. page 1 is a READ FIRST listing exactly what v4 needs and who could supply it.
-- **lawyer** → the drafting notes, page 6. the constitutional attack surface is mapped there, not hidden.
+- **legislator or staffer** → [`model_act_v3_3.txt`](./model_act_v3_3.txt). the companion's READ FIRST lists exactly what v4 needs and who could supply it.
+- **lawyer** → the drafting notes in the [companion](./model_act_v3_3_companion.md). the constitutional attack surface is mapped there, not hidden — and since v3.3 the armour is in the text itself (SEC. 0, SEC. 13).
 - **engineer** → [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md). control objectives, not vibes.
 - **journalist or just curious** → the stories below. every section of the act already happened to another industry.
 
@@ -101,9 +107,12 @@ nobody's exposure (SEC. 4(c)).
 outbreak killed 33 people. two farmers, misdemeanour charges, brought to
 arraignment in shackles — and their restitution ran $25,000 per count,
 consecutive, paid to the victims. no evidence they knew. the doctrine
-convicted anyway. → SEC. 10(c)(2): each person killed or seriously
-injured is a separate offense, and restitution to each is mandatory. the
-counting method is not invented; it is scaled.
+convicted anyway. → SEC. 6(b)(1) and SEC. 10(c)(4): each person killed or
+seriously injured is a separate offense, and restitution to each is
+mandatory whatever the tier — v3.3 moved restitution so it follows the
+harm, not the mental state, because the jensens were negligent, not
+knowing, and the statute now matches its own story. the counting method
+is not invented; it is scaled.
 
 **2016 — jail for eggs.** *DeCoster*: two egg executives imprisoned
 after a half-billion-egg salmonella recall. the concurrence supplied the
@@ -149,7 +158,9 @@ change.
 one sponsor, one chamber, one state is enough to begin. BIPA proved the
 lane. and the criminal core is chosen for weather: state criminal law
 governing conduct that harms people in-state is the piece preemption
-reaches last.
+reaches last. since v3.3 that claim is operative text, not cover copy —
+SEC. 13 names the core, orders the severance, and brings suspended
+provisions back when a federal sunset lapses.
 
 redlines welcome, credited or anonymous: first genuine catch
 acknowledged in the notes as anonymous counsel.
@@ -160,21 +171,25 @@ dedicated to the public domain ([CC0](./LICENSE)). the eggs remained undefeated.
 
 ## who this needs
 
-the READ FIRST page names ten open items for v4, each with the kind of
-person who could close it: a standards-literate technologist (version
-pins) · state legislative counsel (penalty brackets, conforming
-amendments) · a criminal-law scholar or former prosecutor (questions
-(a)–(e)) · an eighth amendment proportionality scholar (the harm tier at
-outbreak scale) · a federalism litigator, ideally in a state AG's office
-(preemption defence) · an evaluations researcher (the modifiability
-compute budget) · a law-and-economics scholar (penalty calibration) · a
-security engineer who has worked inside a lab (control objectives vs
-real practice) · any law review 2L with a bluebook (the cite-check).
+the READ FIRST page in the companion names the open items for v4, each
+with the kind of person who could close it: a standards-literate
+technologist (version pins) · state legislative counsel (conforming
+amendments, the interim-standards pin date) · a criminal-law scholar or
+former prosecutor (questions (b)–(c): the "serious injury" source and
+the bracketed minimum) · a proportionality scholar (reviewing, no longer
+designing, the sentencing valve — against fifty state clauses, not just
+the federal floor) · a federalism litigator, ideally in a state AG's
+office (preemption defence as the litigation develops) · an evaluations
+researcher (reviewing the bracketed modifiability floor) · a security
+engineer who has worked inside a lab (control objectives vs real
+practice) · any law review 2L with a bluebook (the cite-check, list
+consolidated in the companion). penalty calibration closed at v3.3: the
+brackets carry the numbers three governors already signed.
 
 if one of these is you: the text is public domain. take it. nothing
 above is a reason to wait; all of it is a reason to begin.
 
-## read it here
+## read it here (v3.2 pages; v3.3 pages to follow)
 
 ![MODEL ACT v3.2 — page 1: open items + the act](./pages/actv32-1.png)
 
@@ -193,7 +208,14 @@ above is a reason to wait; all of it is a reason to begin.
 
 ## history
 
-- **v3.2** (aug 2026) — current. full penalty architecture, open items
+- **v3.3** (aug 2026) — current. the audit-series assembly: findings
+  section, severability ladder with revival, three-layer commencement on
+  the CA/NY/IL interim standards, the harm tier rebuilt to the federal
+  death-results geometry with a sentencing valve, the records offense,
+  clawback and insurance ban as offences, penalty brackets pinned to the
+  enacted family. act and companion split into two files. receipts in
+  [/audit](./audit); deltas in [CHANGELOG.md](./CHANGELOG.md).
+- **v3.2** (aug 2026) — full penalty architecture, open items
   page, regulations draft.
 - **v2** (aug 2026) — [`model_act_v2.pdf`](./archive/model_act_v2.pdf), kept in
   place. the delta between the two is what six days of drafting in
