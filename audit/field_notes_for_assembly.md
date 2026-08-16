@@ -68,3 +68,33 @@ constant across every pioneer regime — ship masters, licensed operators, RCOs 
 who answers. The Act changes the industry and keeps the constant.
 Bank line: **the shield was always purchased. the act is the price.**
 Companion placement: objections section, fourth entry.
+
+
+## 7. The concentration debate — the false-choice thread (dated 15 August 2026)
+(Logged 16 August, from the public exchange between Anthropic's chief executive and an investor,
+and an interlocutor's video response the following day. Positioning note, not an objection entry.)
+Quotes from the two-part thread, 15 Aug (⚠ both tweets truncated mid-sentence in every mirror
+reached at logging; pin the full text before any committee-facing use):
+- The concentrate-or-distribute framing: "a false choice." The Valley shorthand "regulation =
+regulatory capture = concentration of power": "an overly simplified picture."
+- Open weights "simply shift the concentration somewhat to those with the most compute and chips."
+- The load-bearing sentence for this Act — right rules can "(a) address AI's cyber/bio/alignment
+risks, (b) institutionally constrain the power of the frontier AI companies, and (c) leave room
+for open-weights models while also addressing the specific risks that they bring." The Act is a
+candidate instance of all three at once: duties on covered systems (a); officer liability as the
+institutional constraint (b); release parity and the study/modification carve-outs (c). When the
+industry's most safety-forward chief executive publishes the category, cite the description.
+- Messaging defence: "about equally balanced between risks and benefits."
+- Reported same day (secondary): the "fairest criticism" concession on undelivered promises;
+public scepticism attributed to long-standing institutional distrust.
+An interlocutor's video response, same window, logged for the bank:
+- The capture triad: release-blocking, anti-distillation terms, chip controls — three doors, one
+direction, all narrated as safety.
+- The security-is-social point: capability benchmarks do not map to deployed risk; "a dangerous
+model is not a threat model." Concordant with the Act's design — conduct duties and incident
+clocks, no capability bans, no release blocking (n.5 parity).
+- The participation point: a vision where one lab provides on the public's behalf is alienating;
+participation as the missing safety case — concordant with SEC. 0's consent premise.
+Bank line: **the act is the (b) he asked for.**
+Companion placement: landscape/positioning material for the next drafting chunk, not the
+objections section.
