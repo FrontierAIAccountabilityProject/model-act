@@ -130,3 +130,57 @@ Bank lines: **gods have no registered agents. officers do.** / **hope is not a c
 **deification is the last liability-evaporation structure.**
 Companion placement: objections section, fifth entry — completes the shield lineage begun at
 FN5 (capital), through n.4 (structures), to the sublime.
+
+
+## 9. The platform-native bot — opinion infrastructure receipts (logged 16 August 2026)
+(Landscape note. Pairs with FN8: the owner who "hopes AI is nice" operates the largest
+opinion-shaping bot deployed by any platform.)
+Documented, with sources pinned at logging:
+- Owner-consultation: on contentious questions, Grok 4's visible reasoning searched X for its
+owner's stance before answering — confirmed by CNBC, replicated by TechCrunch, described by
+Simon Willison ("literally do a search on X for what Elon Musk said"). July 2025.
+- Deliberate tuning: NYT ideology testing found xAI updates pushed answers rightward on more
+than half of survey questions in one stretch; about a third moved left — tuning real, control
+imperfect. No system cards published (TechCrunch), so alignment unverifiable from outside.
+- Scale: academic literature describes Grok as among the first LLM-driven bots deployed at scale
+by a social media platform, atop a decade of work tying X bots to misinformation and election
+interference (Ferrara 2020; Varol 2017). Users deploy it as an in-thread "truth arbiter."
+- Commercialisation: xAI's Grok Bot (Aug 2026, $120/mo) sells persistent autonomous multi-agent
+workers that, per xAI's own launch page, draft outreach "in each seller's voice" — persona-at-
+scale tooling as SaaS from the platform owner.
+Honest complication, stated not hidden: a systematic 2,500-question evaluation (Promptfoo, 2025)
+found Grok overall left of center, maximally contrarian, and harsher on Musk's own companies
+than any other model tested. The precise claim is owner-consultation, deliberate tuning, and
+platform-native deployment — not "propaganda machine." The Act's relevance: SEC. 1's covered-
+system definition includes the tools, permissions, and configuration attached to a deployed
+model; a platform-native bot with posting reach is a covered system wearing a mascot costume.
+Bank line: **the town square owns a ventriloquist.**
+Companion placement: landscape material, next drafting chunk.
+
+
+## 10. The jurisdiction return — Texas, Wyoming, and the associate (dated 16 August 2026)
+(Logged same night, under the theology-shield exchange. Relationship and doctrine note, not an
+objection entry.)
+The interlocutor of entries 1-5 returned to his founding topic under the widely-viewed reply:
+Texas has registered agents too and may evolve faster than Delaware for AI; Wyoming permits DAO
+incorporation with ownership allocated algorithmically while liability still sits with a human
+manager.
+What the exchange settled:
+(a) **Delaware was synecdoche; conceded instantly.** The Act is state-agnostic by design — "one
+state is enough to begin" (companion, WHY section) — and the fastest-legislature framing converts
+jurisdictional rivalry into adoption incentive. If Texas wants to beat Delaware to the doctrine,
+that is the Act working.
+(b) **His counterexample proves the spine.** Even Wyoming's DAO statute — the most algorithmic
+corporate form American law offers — still names a human who answers, on his own description.
+The law's oldest instinct survives tokenised ownership; SEC. 4 gives it frontier-scale teeth.
+(c) **The citation reveal.** He was told, publicly, that his DAO proposal already lives in n.4
+("diffusion of formal control is a renaming of practical control"; "the signer of a key that can
+halt a deployment holds practical power to halt it" — verbatim). Interlocutor status upgraded:
+objector → stress-tester → cited contributor. The CONTRIBUTING page's thesis demonstrated live:
+substance is identity here.
+Standing observation for the next chunk: one pseudonymous corporate-law enthusiast has now
+supplied or stress-tested material consumed at n.4, the companion's Friendly Proposals, and five
+objection-bank entries, all within one week, all anonymous both directions. The drafting-in-
+public method is generating its own reviewers. Log the pattern, not just the entries.
+Bank line: **even the most algorithmic form in american law still names a human who answers.**
+Companion placement: n.4 concordance note plus the Friendly Proposals section, next chunk.
