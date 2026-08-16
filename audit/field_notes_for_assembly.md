@@ -39,3 +39,32 @@ Objection, canonical form: officer identities are irrelevant; companies belong t
 (c) **His causal claim is the Act's mechanism stated backwards.** If shareholder interest drives the shields, then officer liability conscripts that interest into safety: shareholders who cannot themselves be reached will discipline the agents who can be. SEC. 7, verified v3.3 this session: disgorgement reaches equity compensation and increases in value "through any entity, trust, or arrangement"; SEC. 7(b), "No indemnification or insurance" — the shield made non-transferable by statute. The company cannot buy the officer's risk back.
 Bank line: **the purse stays shielded. the wheel answers.**
 Companion placement: objections section, third entry. With entries 3 and 4 this completes the seed set — gun analogy, Swartz, shareholder shield: the three objections the Act will meet in every room, each field-tested against a good-faith interlocutor and answered with receipts on the same day.
+
+
+## 6. The pioneer-industry bargain — "where is our Price-Anderson?"
+(Logged 16 August, same interlocutor.)
+Objection, canonical form: railroads, electrification, and nuclear energy all received
+government-modified liability shields as pioneer industries; if AI is comparably significant,
+policy consistency demands a comparable shield, not an officer-liability statute. Expect this one
+verbatim from industry associations. The answer, in order:
+(a) **Who chooses: legislatures, every time.** Liability allocation is always a statute — the
+objector's own sovereign-war-powers example generalised. The question is never whether to
+allocate but what the allocation purchases.
+(b) **The shields were purchases, not gifts.** Price-Anderson (1957) capped nuclear liability in
+exchange for strict channeled liability, mandatory insurance pools, and licensing down to the
+individually licensed reactor operator, personally barrable for deliberate misconduct. ⚠
+Price-Anderson (42 U.S.C. § 2210), NRC individual operator licensing (10 C.F.R. Part 55), and the
+deliberate-misconduct rule (10 C.F.R. § 50.5) are memory-confidence at logging; pin at cite-check.
+Workers' compensation: employer immunity purchased with strict scheduled duty. Vaccines: immunity
+purchased with a compensation fund and FDA control. Every shield was priced in regulatory
+submission, and the price always included a person who answers.
+(c) **AI runs the precedent backwards.** The industry holds a de facto shield having paid none of
+the price. The Act is the price, not the deviation — and the concession is stated openly: a
+civil cap conversation is legitimate the day after the duty regime exists. Nobody got
+Price-Anderson before they got the NRC.
+(d) **The uniqueness answer.** Uranium never chose a target. The artifact acts and copies itself;
+the duties therefore differ (monitoring, modifiability, self-exfiltration incidents). The
+constant across every pioneer regime — ship masters, licensed operators, RCOs — is the officer
+who answers. The Act changes the industry and keeps the constant.
+Bank line: **the shield was always purchased. the act is the price.**
+Companion placement: objections section, fourth entry.
