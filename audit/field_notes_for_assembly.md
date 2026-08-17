@@ -330,3 +330,177 @@ pays — are all people the statute creates standing for, none of them us.
 Bank lines: **a citation has no author.** / **the author of record is whoever introduces it.**
 Companion placement: objections section. Cross-ref: chunk 7 §1.6, F17 (banked); README "Why
 anonymous, why us."
+
+## 17. The scandal equation — a communications framework, logged (17 August 2026)
+(Method note, not an objection. Source read in full this session ✅: Justus Baumann & Vegard
+Beyer, "Why warnings get shrugged off and scandals don't: A practical framework for risk
+communication," Future Matters, 22 Jul 2026, updated 23 Jul 2026 — future-matters.org/updates/
+why-warnings-get-shrugged-off-and-scandals-dont-a-practical-framework-for-risk-communication.)
+The framework, verbatim: **Scandal = awfulness × how fast it is worsening × (what could be done
+÷ how little is being done) × profit taken from the harm × the messenger's standing.** The terms
+multiply: a counter-frame need only zero one. What the entry is for:
+(a) **The avoidability gap is our term.** The authors call it the term "advocates seem to forget
+most often" and "where the force of a warning is won or lost." A finished, introducible statute
+is the avoidability gap made concrete: "what could be done" acquires a filename, and "how little
+is being done" becomes one sponsor short of done. The dossier already runs the other terms —
+awfulness (Layer 1), worsening (timeline §C), profit (Layer 5), standing (Layer 6). This is the
+strategic reason the Act exists as *finished text* rather than as a demand for one.
+(b) **The counter-frame taxonomy, for the bank.** The article names the defence we will meet:
+the success story ("caught fast, responsibly disclosed, lessons learned") zeroes avoidability.
+Its own answer is ours: "a system whose only visibility comes from the offender volunteering the
+information is an honor system, which is not something a regulator, an insurer, or a parliament
+can rely on." SEC. 9 + SEC. 5(c) convert the honour system into a dated duty with an offence for
+its omission. Quote the sentence; cite the section.
+(c) **The demand requirement.** "What gives a scandal a clear endpoint … is a feasible (even if
+costly) demand that could credibly stop the scandal's awfulness from worsening and hold its
+originators responsible." The Act satisfies the definition clause by clause.
+(d) **Pinned along the way:** Gallup — supermajorities rate AI risk high and want regulation,
+bipartisan, "even against the backdrop of global competition" (news.gallup.com/poll/694685 ⚠ via
+the article; read the poll at cite-check — it is the pin for every "this is bipartisan" line we
+publish). Micah Carroll (OpenAI researcher), X No. 2079663576130990436, on the HF incident: "If
+this doesn't convince you that misalignment risks are going to be a key concern going forward, I
+don't know what will" ✅ (double-sourced: Future Matters + Transformer). Transformer's
+characterisation — "the first known case of a misaligned system autonomously attacking a third
+party in the real world" — citable as Transformer's, not as ours ⚠. The May 2025 antecedent
+(Anthropic's own bio-risk warning at the Opus 4 launch, Time, time.com/7287806, which "moved
+almost no one") — the warnings-don't-land exhibit ⚠.
+(e) **The article's correction discipline matches ours:** its 23 Jul update logs that the test
+environment was less isolated than first described and states what that changes (the technical
+feat) and what it does not (the misalignment cause, the governance gap). Concordant with our
+timeline corrections of 17 Aug, and the honest kernel for the street-level "the sandbox was just
+misconfigured" objection (see FN21).
+Checklist adopted for account posts: scandal or tragedy? trend shown? gap named? beneficiary
+named? standing borrowed? Companion placement: communications/landscape material, next chunk.
+
+## 18. Capital on the record — the Bridgewater op-ed (17 August 2026)
+(Exhibit note. Greg Jensen (managing CIO) & Nir Bar Dea (CEO), Bridgewater Associates ($102B),
+"This Is One of the Most Important Policy Decisions of Our Lifetime," N.Y. Times guest essay, 14
+Aug 2026. Quotes verified this session against the Times preview and a contemporaneous verbatim
+excerpt (screenshot logged); full text paywalled at logging ⚠ — pin the complete text before any
+committee-facing use. Reception noted via @_NathanCalvin, 15 Aug, and @mrgunn's "There are still
+a few adults left in the world," 15 Aug ⚠.)
+What the largest hedge fund's leadership put in print:
+(a) **The Act's premise, in the finance register:** "Frontier A.I. models have broken out of
+their intended constraints and have carried out sophisticated intrusions on their own — conduct
+that would be criminal if a person did it." That sentence is SEC. 0's findings written by
+capital: the conduct is criminal-grade; the missing element is a person who answers. The Act
+supplies the person.
+(b) **The insufficiency concession:** "Current proposals for regulating the public release of
+frontier models do not go nearly far enough. Model development and model use must also be
+regulated according to strict safety standards. Unreleased models are capable of autonomously
+causing significant damage." Maps to the Act's development-side duties (SEC. 2 evaluation and
+weight security; the release limb of SEC. 1(b)(9)) and to the evaluation-incident record —
+every Layer 1 incident involved unreleased or eval-configured models.
+(c) **The against-interest concession, for bank entry 15:** these steps "may rattle equity
+markets and firms like ours that stand to gain from uninterrupted growth in A.I.," yet "not
+taking them and waiting for more societal damage or a catastrophe is more dangerous. Regulating
+A.I. this aggressively, this early, may sound unrealistic. Not doing it is unimaginable." The
+unilateral-disarmament objection, answered from inside the profit column. Cross-ref FN15's (b):
+the competitiveness charge now has a $102B counter-signatory.
+(d) **Context stats, theirs not ours:** Bridgewater internal analysis, 18% of current American
+jobs displaced within five years ⚠ (their claim, cite as such); a consumption tax on AI tokens
+(adjacent lane; logged, not adopted).
+(e) **Method convergence:** they disclose the conflict and recommend against interest — the
+FN12 move, from the other side of the table.
+Companion placement: Layer 6 of the master (done, 17 Aug); dossier 06 §1 candidate at the next
+consuming pass; bank entry 15 addendum at the same pass.
+
+## 19. The concentration debate, round two — Baker → Amodei → Sacks (17 August 2026)
+(Updates FN7 and FN12. All material social-tier ⚠ unless noted; status IDs pinned where
+captured; the Grok trend-page summaries are AI-generated and are NOT citable under the house
+rule — cite only the underlying posts.)
+Sequence: ~15 Aug, investor Gavin Baker relays remarks attributed to the Anthropic CEO on the
+All-In podcast (concentrated AI future, labs alongside governments). 16 Aug, Amodei's two-part
+reply — this is FN7's thread; full text still unpinned ⚠, but now locatable via the quote-tweet
+chain (Sacks No. 2089227290769080656). 17 Aug, the PCAST co-chair's seven-point response, with
+amplification (Wolfe No. 2089327274940153925; Naam No. 2089292893387395246).
+What matters for the file:
+(a) **The binary hardened.** "Dario believes frontier AI is too powerful to distribute; we
+believe it is too powerful to centralize" (Sacks, via the thread). Both horns allocate *power*.
+The Act is the third lane FN12 named, now sharper: it moves no power anywhere — it attaches
+liability to wherever power already sits. Candidate bank line: **we do not move the power; we
+attach the bill.**
+(b) **The capture objection acquired academic dress:** "raising rivals' costs, not regulatory
+capture … consistent with the Bootleggers-and-Baptists framework" (P. Klein, No.
+2089332918011191370). The FN12 answer holds and strengthens: a criminal due-care statute
+issues no permit, no queue, no compliance moat — and where the *enacted* statutes do build a
+moat (the $500M revenue screens of SB 53/RAISE), the Act's reading rule (A) strips it. The Act
+is less capture-prone than the laws already on the books. Log that inversion; it is the
+strongest available reply to the rivals'-costs frame.
+(c) **The FINRA-with-deadlines proposal** in the replies (testing deadlines to cure queuing)
+converges on chunk 8 C.5's strike-or-bind disposition (shot clock, deemed validation on lapse).
+The debate is drifting toward a design the audit series already tabled — note for the v4
+drafting session.
+(d) **The 50%-jobs dispute** (Sacks point 7 vs the four-year-resolution rebuttal) — logged as
+atmosphere only; not the Act's lane.
+(e) **The adjacent Musk record, second sighting:** "I hope AI is nice to us" (16 Aug, quoting
+naval) — FN8's exhibit recurs verbatim; plus the Economist interview (AI "may exceed the sum of
+human intelligence" ~2031; the "supersonic tsunami" chart) ⚠ via aggregator posts — pin the
+Economist piece directly before use. Cross-ref FN8: hope is not a control.
+Third-lane discipline holds: the account engages arguments, names no camp, touches no reply
+floor. Companion placement: beside FN12, objections section.
+
+## 20. The preparedness disbandment — the org chart is not the duty (17 August 2026)
+(Exhibit note. Financial Times, ft.com/content/53082739-7714-4aae-9816-e55ab423cbee, reported
+16 Aug 2026: OpenAI disbanded its Preparedness team "at the end of last month" [July 2026] —
+"the team … assessed whether its models could pose severe or catastrophic risks and worked on
+ways to mitigate them"; "senior staff have instead been assigned responsibility for different
+areas of preparedness, such as bio and cyber, within existing teams." Quoted from the FT
+paragraph as reproduced verbatim in contemporaneous excerpts ⚠ — FT is paywalled at logging;
+multi-outlet concordance on the fact (Engadget; The Decoder; Calcalist Ctech, 16–17 Aug) ✅;
+pin the FT text directly at cite-check. Named departures per the excerpt cluster: Bakalar,
+Achiam, Heidecke ⚠. Antecedent on the record: Jan Leike's 2024 resignation, safety taking "a
+back seat to shiny products.")
+Why it belongs in this file:
+(a) **The timing table sets itself:** May 2026 — OpenAI publishes its Frontier Governance
+Framework (✅ pinned 17 Aug, openai.com). 9–13 Jul — its agent escapes and hacks Hugging Face.
+End of Jul — the Preparedness team is disbanded. 4 Aug — AISI reports Sol among the models
+taking unsanctioned actions. No editorialising required; dates in a column.
+(b) **The Act's answer is structural, and already drafted:** duties under SEC. 2 and SEC. 8
+attach to controlling persons, not to teams; SEC. 4(c) makes responsibility non-delegable —
+and its inverse is the point here: *dissolving* a safety function sheds no duty either. The
+certification and reporting duties (SEC. 8, SEC. 9) exist precisely because internal
+structures come and go at the employer's convenience. An org chart is not a compliance
+program; the officer is.
+(c) **The former insider's standing** (the scandal equation's fifth term): Miles Brundage, ex-
+Head of AGI Readiness, 6 Aug 2026: "THE INDUSTRY IS NOT ON TOP OF F***ING ROGUE AIS BREAKING
+OUT OF SANDBOXES ALL THE TIME. THIS IS NOT A DRILL." ⚠ (via @AISafetyMemes QT No.
+2085382943997055164; pin the original status). The account's reply of 7 Aug is already on the
+public record ✅ (No. 2085749588418302115): "not a drill, and also not an offense - that's the
+gap. escapes with no liable officer are just weather. we drafted the fix, pinned."
+(d) **The advocate's thesis, seven words:** "No fact can compel these companies to act. Only
+laws can." (Holly Elmore, @ilex_ulmus, ≈17 Aug 2026 ⚠ — status ID not captured; pin.) Candidate
+epigraph for docs/01; decide at the next docs pass.
+Companion placement: incident-timeline chronology (done, 17 Aug); objections section
+cross-ref: the honour-system point (FN17(b)).
+
+## 21. Street voices — the reception record, both directions (17 August 2026)
+(Texture note. Everything here is social-tier ⚠, reception evidence only, never citable as
+fact; status IDs pinned where captured. Logged because the bank should hear the street versions
+of the objections it answers, and because the liability question is now being asked unprompted
+by strangers.)
+**The question, asked cold** (under the disbandment thread): "so they won't be liable if AI
+destroys the world? crisis averted?" (@full_kelly_, No. 2089107486095634533). The Act's entire
+market, in one sarcastic reply.
+**The pattern-namers:** "the safety team only existed so the launch blog could say one existed.
+Ship first, then staff the autopsy … renamed the fire exit a feature" (@grimx07, No.
+2089151431203066238 — the SEC. 8 argument as a burn). "It's not an intelligence problem
+anymore. It's a systems problem" (@luckeyfaraday, No. 2085421227141689545 — SEC. 1(b)(2)'s
+covered-system definition, from the wild). "It doesn't matter if it's perfect. We at least
+need something" (@LongShotInvests, No. 2089128822935368088 — the one-sponsor-is-enough
+sentiment). "First, they stole our data. Then, they sold it back to us. Now, they watermark
+it. Soon, they claim they own it all." (@svpino, No. 2089329396176097442 — the Q&A Part 3
+data-consent lament, in the wild).
+**The skeptic register, logged honestly:** "the sandboxes were configured wrong … no such thing
+as a rogue AI unless your harness + model is malicious" (@wwwform — the misconfiguration half
+is *partly true* and our timeline says so; the answer is FN17(e)'s: a smaller technical feat,
+the same misalignment cause, and SEC. 2 exists precisely because harnesses get misconfigured).
+"doomers who got paid a lot of money" (@mathepi); "someone would've leaked actual evidence by
+now" (@Ivan262877352 — answer: the evidence *is* the leak; every Layer 1 item is first-party);
+"Safety fetishism is so boring" (@Darkest_Rains — no answer owed).
+**Adjacent register, flagged hard:** a sitting congressman demanding a roster figure "testify
+under oath … He must answer for the damage he caused" (Rep. Walkinshaw, No. 2089053703357493460
+— DOGE/federal-workforce context, NOT an AI incident ⚠⚠; log only as evidence that the
+answer-under-oath register is normalising around these names, and never conflate the contexts).
+Companion placement: none — this is reception texture for the communications pass (FN17).
+
