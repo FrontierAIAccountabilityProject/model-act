@@ -193,10 +193,6 @@ campaign copy says *the ten* or *ten seats*; explainer prose says *whoever holds
 authority*. The duty attaches to the chair; whoever sits down inherits it. "Men" retired going
 forward; nothing deleted retroactively — the README carries the language note. Old copy stands per no-deletion policy.
 
-Amended 17 August 2026: "the ten" → "the twelve" / "a dozen" — the headcount estimate was
-always rough, and a dozen completes the egg concordance. Seats-not-people ruling unchanged;
-README language note and account bio updated to match.
-
 ## 12. The regulatory-capture objection — Stigler answered (17 August 2026)
 Context: the concentration false choice (note 7) escalated to the top of US AI policy — the
 PCAST co-chair against a frontier lab CEO, publicly, 17 Aug 2026. The capture objection arrived
