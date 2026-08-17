@@ -190,6 +190,9 @@ dedicated to the public domain ([CC0](./LICENSE)). the eggs remained undefeated.
 
 ## who this needs
 
+questions, redlines, or a state in mind: llmaolaw@proton.me — links or
+pasted text only, no attachments. any alias or none.
+
 the READ FIRST page in the companion names the open items for v4, each
 with the kind of person who could close it: a standards-literate
 technologist (version pins) · state legislative counsel (conforming
