@@ -213,3 +213,120 @@ reply's drafting session, which disclosed its conflict before drafting. The acco
 top post only; the reply floor beneath it (containing conspiratorial and bigoted material) was
 not touched and never will be.
 Companion placement: objections section, beside the concentration entry. Cross-ref: note 7.
+
+
+## 13. The cure-period amendment — the cheapest gut (17 August 2026)
+(From chunk 7, the hostile brief — §2.6 and F10: opposing counsel's cheapest amendment, TRAIGA
+precedent in hand, one line in markup, sounds like moderation.)
+Objection, canonical form: Texas gives sixty days to cure before the Attorney General may act
+(TRAIGA, Bus. & Com. Code Sec. 552.104 ✅ pinned 17 Aug, chunk 7 §8); add the same here —
+enforcement should invite compliance, not ambush it. The answer, in order:
+(a) **Grant the category, then name it.** Cure periods are legitimate — in conduct-regulation
+statutes. TRAIGA regulates prohibited *uses*; a use can be stopped and a filing can be fixed, so
+notice-and-cure fits. The transplant is the trick: this Act's offences are harm-and-lying
+offences on the public-welfare pattern, and that pattern has never carried a cure window — none
+existed for Dotterweich, Park, the Jensens, or the DeCosters in the eighty years this Act
+scales. (The FDCA's § 305 presentment — notice and an opportunity to present views before
+referral — is a hearing about a violation that has already occurred, not a licence to have been
+in violation. ⚠ 21 U.S.C. § 335, memory-confidence; pin at cite-check.)
+(b) **Nobody cures a death.** The harm tier's unit is a person killed or seriously injured;
+restitution is not a cure, it is the bill. And a cure window on SEC. 5(d) is a licence to lie to
+the regulator until caught — truth needs no cure. What survives of the objection is paperwork,
+and paperwork is where the amendment sheet will try to hide the gut.
+(c) **The Act already paid the legitimate price.** What cure honestly buys — notice and a fair
+chance to conform — the Act prices structurally: SEC. 3(c)'s staged commencement (the [180]-day
+provisional layer, the [90]-day post-promulgation compliance period); documented conformity as
+due care (3(c)(5)); SEC. 9's report-then-fix architecture; and the enhanced tier's own notice
+element (6(b)(1): deliberate failure to halt *after notice*). A general cure period would
+duplicate all four and delete the offences.
+(d) **The line for markup.** Cure is a price list with a grace window — the hostile brief's own
+words, quoted back to whoever proposes it.
+Bank line: **nobody cures a death.**
+Companion placement: objections section. Cross-ref: chunk 7 §2.6, F10 (banked).
+
+## 14. The university witness — the land-grant exhibit (17 August 2026)
+(From chunk 7 — §2.2 and F9: reading rule (A) strips New York's academic exception, and the
+flagship university calls the committee chair before we do.)
+Objection, canonical form: New York exempts accredited colleges and universities engaged in
+academic research (GBL § 1426 ✅ pinned 17 Aug, text quoted at chunk 7 §8: "accredited colleges
+and universities in New York state, to the extent such colleges and universities are engaging
+in academic research regarding artificial intelligence models," plus the Empire AI consortium);
+this Act strips that exception and makes a provost a presumed controlling person. You are
+criminalising the academy. The answer, in order:
+(a) **Grant the fact; read the exemption.** § 1426 exempts academic *research* — and so does
+this Act, in text: no duty by reason of research, training, or development as such (SEC.
+0(a)(3)); personal, noncommercial operation is not deployment (SEC. 1(b)(3)); "nothing in this
+Act restricts any person's use, study, or modification of lawfully obtained weights" (SEC.
+1(b)(9)). The university that studies, probes, red-teams, or fine-tunes is untouched by design.
+What the Act declines to exempt is not research; it is frontier-scale *release*.
+(b) **The duty follows the conduct, not the letterhead.** Duties attach at deployment, material
+expansion, or release of a covered system. An institution that releases 10^26-scale weights is
+doing the exact thing the Act exists to regulate, at the exact scale, and the consequences do
+not become academic on the way out. The EU drew the same line first: the open-source and
+research accommodations withdraw above the systemic-risk threshold. Parity, not penalty.
+(c) **The consortium is the honest case.** As of this logging no accredited university trains
+independently at the 10^26 line ⚠ (market observation, unpinned); the entity that would is a
+consortium fed by state and corporate compute — Empire AI is named in § 1426's own text. A
+frontier-scale consortium has controlling persons like any other developer, and an academic
+release exemption at that scale is an invitation to run the release through the university: the
+structure-shopping lineage (n.4; FN5; FN8) in a gown.
+(d) **The open item, stated honestly.** The hostile brief's real point stands: the Act has no
+answer *in text* for this witness. Posture decision queued for chunk 8 — a companion note
+defending release parity plus this entry, or a narrow research-release provision. Until
+decided, (a)–(c) is the answer, and it is a good one.
+Bank line: **the duty follows the release, not the letterhead.**
+Companion placement: objections section. Cross-ref: chunk 7 §2.2, F9 (banked; posture → chunk 8).
+
+## 15. Unilateral disarmament — the competitiveness charge (17 August 2026)
+(From chunk 7 — F14: the charge has no consolidated answer; pieces sit in n.5 and n.17. This
+entry consolidates. Expect it from every industry association and half the op-ed pages.)
+Objection, canonical form: this handicaps American AI against China; a state that passes it
+disarms its own champions; safety regulation is how the race is lost. The answer, in order:
+(a) **There is no home team to disarm.** The Act binds conduct in and into the state, whoever's
+flag the developer flies: an out-of-state or foreign developer deploying to the state's
+residents owes duties identical to the local one's (SEC. 0(a)(5), verified v3.3: no in-state
+advantage, no out-of-state burden not equally borne). A statute that binds everyone who ships
+to your residents is not disarmament; it is the terms of access to your market.
+(b) **The eggs stayed cheap.** Officer liability since 1943 did not de-industrialise American
+food; it made "safe" a property the market could price. The summer 2026 record (dossier spine
+✅) — production databases accessed, credentials exfiltrated, an evaluator clearing a model the
+day before disclosure — is what the absence of the duty already costs, and somebody is paying
+it now: the victims, uncompensated.
+(c) **The China clause proves too much.** A state criminal statute does not regulate training
+in Shenzhen; it regulates what is deployed to the state's own residents. "Let our residents be
+the crumple zone or China wins" is not a police-power argument, and no legislature has ever
+accepted it for brakes, eggs, or bone cement. The race the objection invokes runs on trust,
+compute, and talent — all three of which the incident record burns.
+(d) **The pioneer echo.** Every pioneer industry made this exact argument (FN6); every regime
+that emerged kept the officer who answers, and the industries thrived on the trust the duty
+built. The shield was always purchased. The Act is the price.
+Bank lines: **the eggs stayed cheap.** / **your residents are not the crumple zone.**
+Companion placement: objections section, beside the concentration entry (note 7). Cross-ref:
+n.5, n.17, FN6; chunk 7 F14 (banked; a SEC. 0 findings sentence → chunk 8).
+
+## 16. The provenance attack — "who wrote this" (17 August 2026)
+(From chunk 7 — §1.6 and F17: anonymity plus AI co-drafting as committee theatre; the
+Federalist answer is good copy but not a witness at a table.)
+Objection, canonical form: anonymous authors, a frontier model as co-drafter, no institution
+behind it — why should a committee take model text from a mask? The answer, in order:
+(a) **Concede the theatre; keep the tradition short.** Publius, Junius, Dickinson (README, "Why
+anonymous") — one sentence, then move, because the hostile brief is right that the tradition is
+copy, not testimony.
+(b) **Model text is the genre where authorship is irrelevant by function.** A committee adopts
+text, not authors. The handed-over-bill economy already runs at scale through exactly this door
+(docs/04: the copied-model-bill record and its annual landings). The working answer is the
+verification challenge, verbatim from the hostile brief: *check the citations; authorship is
+the one thing that doesn't matter to a citation.* The repository is built for the check — the
+audit trail public, the dossier flagging its own weak sources, the cite-check queue open.
+(c) **The co-drafting is the exhibit, not the embarrassment.** The purportedly ungovernable
+artifact is, on the public record, drafting the accountability instrument for its own keepers
+(FN8(d)). Every claim survives the same check whichever hand typed it — that is what the
+receipts are for.
+(d) **The bill acquires its author the day it matters.** Model text needs no witness; it needs
+a sponsor. On introduction it carries the sponsor's name, the legislature's counsel conforms
+it, and provenance becomes what it always becomes in this genre: a footnote. The witnesses a
+hearing actually needs — the AG's office, the consortium engineer, the whistleblower SEC. 11
+pays — are all people the statute creates standing for, none of them us.
+Bank lines: **a citation has no author.** / **the author of record is whoever introduces it.**
+Companion placement: objections section. Cross-ref: chunk 7 §1.6, F17 (banked); README "Why
+anonymous, why us."
