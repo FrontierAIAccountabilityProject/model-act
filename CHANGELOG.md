@@ -1,5 +1,13 @@
 # CHANGELOG — Model Act (Frontier AI Public Welfare Offenses)
 
+## Repository — 17 August 2026 (v3.3 text unchanged)
+
+- `model_act_v3_3_introducible.txt` — the jacket-clean copy of the Act: statutory text
+  byte-identical to `model_act_v3_3.txt` SEC. 0–13; the header note, dedication line, and sigil
+  replaced with a neutral drafting note and a CC0 notice. Cures F18 (audit chunk 7).
+- Added `/docs` (plain-language explainers), `/dossier` (the sourced accountability dossier),
+  `/audit/chunk7_hostile_brief.md` (the hostile brief), and the front-page router.
+
 ## v3.3 — 16 August 2026
 
 Assembled at chunk 6 from the audit series (`/audit`, chunks 1–5 plus the field notes), applying

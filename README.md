@@ -27,7 +27,7 @@ Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park*
 | If you're… | Go straight to |
 |---|---|
 | 🆕 **new / curious / not technical** | **[`/docs`](./docs/)** — the plain-language case, seven short cards |
-| ⚖️ **a legislator or staffer** (you hold a pen) | **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — the bill itself, ready to introduce |
+| ⚖️ **a legislator or staffer** (you hold a pen) | **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — the bill itself, ready to introduce ([jacket-clean copy](./model_act_v3_3_introducible.txt) — same text, stripped for the bill folder) |
 | 👩‍⚖️ **a lawyer** | **[the companion](./model_act_v3_3_companion.md)** — the constitutional attack surface, mapped not hidden |
 | 🔬 **an engineer** | **[`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md)** — control objectives, not vibes |
 | 📰 **a journalist or researcher** | **[`/dossier`](./dossier/)** — the sourced evidence: the incidents, the people with the power to halt these systems, the money, the congressional letters |
@@ -36,7 +36,7 @@ Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park*
 
 **What's actually in this repository:**
 
-- **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — **the bill.** The introducible statute, SEC. 0–13. This is the thing a legislature would pass.
+- **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — **the bill.** The introducible statute, SEC. 0–13. This is the thing a legislature would pass. A [jacket-clean copy](./model_act_v3_3_introducible.txt) — identical text, minus the campaign lines — is there for counsel.
 - **[`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md)** — the drafting notes, the open questions, and the constitutional defense. The "why" behind every line.
 - **[`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md)** — the companion regulations. What an engineer needs; the Act itself carries what a prosecutor needs.
 - **[`/docs`](./docs/)** — the plain-language explainers. **Start here if you're new.**
@@ -104,6 +104,7 @@ finds the hands.)
 
 - [`model_act_v3_3.txt`](./model_act_v3_3.txt) — the Act, SEC. 0–13,
   introducible. Start here if you hold a pen in a legislature.
+  ([`model_act_v3_3_introducible.txt`](./model_act_v3_3_introducible.txt) is the same text, jacket-clean.)
 - [`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md) — the
   READ FIRST page (open items for v4, each gap naming the kind of person
   who could close it), the drafting notes n.1–n.27, the answers to the
@@ -113,9 +114,10 @@ finds the hands.)
   carries what a prosecutor needs; this carries what an engineer needs.
 - [`model_act_v3_2.pdf`](./model_act_v3_2.pdf) /
   [`model_act_v3_2.txt`](./model_act_v3_2.txt) — previous version, kept
-  in place. [`/audit`](./audit) holds the five audit chunks, the assembly record
-that turned v3.2 into v3.3, and the field notes — objections met in
-the wild and the answers that survived them. Receipts included.
+  in place. [`/audit`](./audit) holds the five working chunks, the assembly record
+that turned v3.2 into v3.3, the field notes — objections met in the
+wild and the answers that survived them — and [the hostile brief](./audit/chunk7_hostile_brief.md):
+the Act as read by the other side's counsel. Receipts included.
 
 ## Where to start
 
