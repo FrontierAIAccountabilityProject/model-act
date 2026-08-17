@@ -62,8 +62,7 @@ provenance page disclosing the ai assistance, the pinned public commit, the veri
 method, the named signoffs, and the conflicts — and that page points back here, to the
 record anyone can check. the text is public. the audit is public. the errata are public.
 the only two secrets are people's names (until their owners choose) and which door gets
-knocked first (until it opens). both secrets expire. consent of the governed requires
-the process in daylight; it has never required anyone's home address.
+knocked first (until it opens). 
 
 ## new here? how to follow along
 
