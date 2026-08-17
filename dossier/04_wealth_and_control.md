@@ -21,10 +21,10 @@ made with the reader's own metric.
 
 | Person | Net worth (dated) | Layer | Act's reach |
 |---|---|---|---|
-| Elon Musk | ~$735B (Bloomberg 1 Jun) / ~$839B (Forbes Mar) ⚠ | platform **+** operator **+** infra-adjacent | **Full** (xAI operator; X deployment) |
+| Elon Musk | $839B (Forbes list, 11 Mar ✅) / ~$735B (Bloomberg 1 Jun ⚠) | platform **+** operator **+** infra-adjacent | **Full** (xAI operator; X deployment) |
 | Jensen Huang (Nvidia) | **$203B** (Forbes 14 May) ✅ | infrastructure / chips | **None** — operates no covered system |
-| Mark Zuckerberg (Meta) | ~$225B (≈1 Jun) ⚠ | platform / operator | **Full** (operator via near-total voting control) |
-| Larry Ellison (Oracle) | briefly world #2 ⚠ | infrastructure | **None** |
+| Mark Zuckerberg (Meta) | $222B (Forbes list 11 Mar ✅) → $183.3B after the 31 Jul −$17.8B day (Forbes ✅) | platform / operator | **Full** (operator via near-total voting control) |
+| Larry Ellison (Oracle) | $190B (Forbes list 11 Mar ✅); "briefly #2" window still ⚠ | infrastructure | **None** |
 | Dario Amodei (Anthropic) | **$15.5B** (Forbes 17 Aug) ✅ | frontier-model operator | **Full** (SEC. 4(b)(1) CEO) |
 | Sam Altman (OpenAI) | **>$4B** (Forbes 12 May) ✅ | frontier-model operator | **Full** (control, ~0% equity) |
 
@@ -90,7 +90,7 @@ company/SEC primary.)
 | Anthropic | Trust-controlled PBC (Long-Term Benefit Trust; 5 disinterested trustees appoint 3/5 board) | CEO + cofounders + Trust |
 | Google DeepMind | Dual-class public subsidiary (Alphabet; Page/Brin supervoting) | **contested — migrating upward to Pichai/Alphabet** (§5) |
 | Meta | Dual-class public (Zuckerberg Class B near-total) | founder, near-absolute voting control |
-| xAI / SpaceX | Founder-controlled private (~85% Musk voting ⚠) | one hand; no external governance on record |
+| xAI / SpaceX | Founder-controlled (S-1 secondary reads: ~82% votes on ~42% equity ✅; pin S-1 direct) | one hand; no external governance on record |
 
 **The doctrinal payoff:** nonprofit-controlled PBC, trust-controlled PBC, dual-class
 public subsidiary, dual-class public, founder-controlled private — five structures. A

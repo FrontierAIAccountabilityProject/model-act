@@ -288,14 +288,15 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
 - **Nov 2023** — Grok launched by xAI/X. ⚠ (Wikipedia).
 - **Mar 2025** — xAI internal doc: Grok trained not to impersonate Musk unprompted. ⚠
 - **Sep 2025** — "Grokking" malvertising exploit documented. ⚠
-- **28 Oct 2025** — OpenAI recapitalization (Foundation controls PBC). ⚠
+- **28 Oct 2025** — OpenAI recapitalization (Foundation 26%, full board control;
+  Microsoft ~27%). ✅ (openai.com structure page, pinned 17 Aug)
 - **Jan–Feb 2026** — Grok deepfake/privacy controversies; EU + UK ICO investigations;
   xAI $20bn raise. ⚠
-- **Feb 2026** — Anthropic RSP v3.0 effective (24 Feb). ⚠
+- **Feb 2026** — Anthropic RSP v3.0 rewrite effective (24 Feb); v3.4 current since
+  8 Jul. ✅ (anthropic.com/rsp-updates, pinned 17 Aug)
 - **Apr 2026** — earliest Anthropic evaluation incidents (later disclosed). ✅
 - **May 2026** — Grok Morse-code prompt-injection crypto heist ⚠; Microsoft/Google/xAI
-  agree US-government early model access (Reuters, 5 May) ⚠; OpenAI Preparedness
-  Framework (28 May) ⚠.
+  agree US-government early model access (Reuters, 5 May) ⚠; OpenAI Frontier Governance Framework (May) ✅ (openai.com, pinned 17 Aug).
 - **9–13 Jul 2026** — the intrusion window: sandbox escape (~9 Jul) through containment
   (13 Jul, 14:14 UTC). ✅ (HF timeline, pinned 17 Aug)
 - **16 Jul 2026** — Hugging Face public disclosure (the "detection" date of earlier drafts
