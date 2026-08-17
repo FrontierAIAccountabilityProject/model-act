@@ -400,6 +400,16 @@ asset, because it is their testimony, not the account's accusation.
   cyber/bio/alignment risks, (b) institutionally constrain the power of the frontier
   AI companies, and (c) leave room for open-weights models." **The Act is a candidate
   instance of (b).** Bank line: *the act is the (b) he asked for.*
+- **Capital, on the record (14 Aug 2026).** ✅/⚠ *NYT guest essay: Greg Jensen (managing
+  CIO) & Nir Bar Dea (CEO), Bridgewater ($102B):* frontier models "have broken out of
+  their intended constraints and have carried out sophisticated intrusions on their own —
+  **conduct that would be criminal if a person did it**"; current proposals "do not go
+  nearly far enough"; and the against-interest concession: these steps "may rattle equity
+  markets and firms like ours," yet "Regulating A.I. this aggressively, this early, may
+  sound unrealistic. Not doing it is unimaginable." The Act's premise, and the answer to
+  the competitiveness charge, from the largest hedge fund's own leadership — against
+  interest. (Quotes verified against the published preview and a verbatim excerpt; full
+  text paywalled at logging — pin before committee use. Field note 18.)
 
 ---
 
@@ -480,7 +490,9 @@ in public-welfare law. The only novelty is the industry it is pointed at.
 - **Operators:** Pacing count RESOLVED 17 Aug (Fortune's "more than 1,200," dated;
   the variants are counter snapshots). Still open: the employer-endorsement question
   (the individual-signature reading stands); the manifesto-sequence dates (Hassabis
-  14 Jul; Huang open-weights 24 Jul; Zuckerberg essay 28 Jul — all still ⚠).
+  14 Jul; Huang open-weights 24 Jul; Zuckerberg essay 28 Jul — all still ⚠). Added 17 Aug
+  evening: Bridgewater full text; the Sacks-exchange threads; the FT preparedness piece
+  (field notes 18–20).
 - **Safety commitments — CLOSED 17 Aug** (Seoul list ✅ gov.uk, the xAI hedge
   corrected; METR inventory ✅; the 22%→59% finding exact-quoted ✅; RSP versions ✅
   first-party; OpenAI FGF ✅). Still open: the Reuters 5 May pre-deployment-access

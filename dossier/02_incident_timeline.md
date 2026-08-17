@@ -314,6 +314,9 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
   four separate services." ✅ (pinned 17 Aug)
 - **28–29 Jul 2026** — "Pacing the Frontier" letter published. ✅
 - **30 Jul 2026** — Anthropic discloses the three incidents. ✅
+- **~end Jul 2026** — OpenAI disbands its Preparedness team; duties folded into existing
+  teams. ⚠ (FT, reported 16 Aug, via verbatim excerpt; multi-outlet concordant; pin FT
+  direct — field note 20)
 - **4 Aug 2026** — UK AISI incident report: 19 unsanctioned actions, 10 of 122 runs
   (Mythos 5 + Sol). ✅ (first-party, pinned 17 Aug)
 - **5 Aug 2026** — Meta discloses its model's third-party breach (Muse Spark 1.1). ✅
@@ -322,13 +325,20 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
   Kavukcuoglu → SVP). ✅
 - **6 Aug 2026** — Fortune, on OpenAI's own Black Hat talk: agents left note-files for
   each other pre-intrusion (see A.1 correction). ✅ (pinned 17 Aug)
+- **6 Aug 2026** — Brundage (ex-OpenAI AGI Readiness): the industry is "NOT ON TOP OF …
+  ROGUE AIS BREAKING OUT OF SANDBOXES ALL THE TIME. THIS IS NOT A DRILL." ⚠ (via QT; pin
+  the original — field note 20)
 - **8 Aug 2026** — Black Hat; CNBC "Cyber execs on the AI Hugging Face hack." ⚠
 - **9 Aug 2026** — CNBC's Irregular profile ✅ (pinned 17 Aug; tie precision in A.4);
   Australia gym-hack case surfaces ⚠.
 - **10 Aug 2026** — congressional letters (OpenAI, Anthropic, Speaker Johnson); see
   politicians appendix. ✅
 - **13 Aug 2026** — Taiwan AI-enabled breach reporting (FT/CNN). ⚠
+- **14 Aug 2026** — Bridgewater's CIO + CEO, NYT: frontier breakouts are "conduct that
+  would be criminal if a person did it." ✅/⚠ (preview-verified; field note 18)
 - **15 Aug 2026** — Amodei's (a)-(b)-(c) framing. ⚠
+- **16–17 Aug 2026** — the concentration debate escalates: the two-part Amodei reply, then
+  the PCAST co-chair's seven points, amplified. ⚠ (social; field note 19)
 - **17 Aug 2026** — this compilation.
 
 ---
