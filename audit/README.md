@@ -15,6 +15,9 @@ do it.
   ending in decisions the assembly could consume.
 - **`chunk6_assembly.md`** — the assembly record: how the five chunks
   became v3.3, what was taken, what was deferred, and why.
+- **`chunk7_hostile_brief.md`** — the adversarial read: the repo as
+  attacked by hostile corporate counsel, with a findings register the
+  next drafting chunk can act on.
 - **`field_notes_for_assembly.md`** — objections and proposals met in
   the wild during drafting, logged so nothing decision-relevant lives
   only in a chat log. Each entry records the objection's canonical
