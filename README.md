@@ -29,7 +29,7 @@ that must stand without a byline get built stronger, because the
 citations are the only authority they have. ours are at the bottom of
 every page. check them.
 
-why now, plainly: a handful of men hold the authority to train and ship
+why now, plainly: a handful of people hold the authority to train and ship
 systems that already sit inside medical records, power grids, and
 private conversations — and no law in the united states makes a single
 one of them personally answerable when those systems fail. the state
@@ -38,8 +38,22 @@ is a subscription cost. egg executives have carried personal criminal
 liability for what ships since 1943, and your eggs are safe *because
 of that* — because in 2016 two of them went to prison and every egg
 executive since has known it. the deterrence logic is not complicated:
-rich men fear jail more than they fear shipping deadlines. this act
+the rich fear jail more than they fear shipping deadlines. this act
 gives that fear a statute to live in.
+
+
+**a note on "the ten."** earlier copy — including this account's own
+tweets — says "ten men." the act never does. the statute's word is
+*controlling person*: whoever holds practical authority over a covered
+system, by any title or none, through any structure. we count roughly
+ten because only a handful of models clear the 10^26 line and fewer
+hands hold them. but it is a headcount, not a list of names, and it was
+never gendered: seats, not people. the duty attaches to the chair, and
+whoever sits down inherits it. ("CEO" is the wrong word too — some
+people with real halt authority hold no such title, and almost everyone
+holding that title, at almost every company, is nowhere near the line.
+your startup is not in these chairs. sec. 1 draws the line; sec. 4
+finds the hands.)
 
 ## the documents
 
