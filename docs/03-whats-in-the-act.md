@@ -2,6 +2,8 @@
 
 # what's in the act
 
+*errata notice (17 aug 2026): five claims on this card describe the act as it is being amended to be, not as v3.3 reads today; one commencement line was wrong and is corrected in place below. every entry, with the exact statutory text: [ERRATA.md](../ERRATA.md).*
+
 *section numbers below follow the campaign explainers for the current draft; defer to the act text in the repo root as authoritative, since numbering shifts between versions.* → [read the act](../model_act_v3_3.txt) · [the companion](../model_act_v3_3_companion.md)
 
 ## the highlights reel
@@ -30,7 +32,7 @@ california, new york & illinois already drew the same lines: models above 10²�
 v3.2 → v3.3 in one day, in public, with receipts. now harder to switch off, and easier to adopt:
 
 1. **it survives the weather.** washington is drafting bills to switch off state AI laws. so the act got a severability ladder: knock out one limb and the rest stands. if the federal law lapses, ours wakes back up. (SEC. 13 · SEC. 3(c))
-2. **it starts working day one** — no waiting for an agency that doesn't exist yet.
+2. **truth counts from day one** — lying to the state, hiding an incident, shredding the records: offenses from the effective date, no agency required. the core shipping offense arrives on a fixed clock — day [180], running on interim standards borrowed verbatim from enacted california, new york & illinois law — so an agency that never materializes can never switch the act off. (SEC. 3(c)) *(corrected 17 aug 2026; this line previously said "it starts working day one" — [ERRATA.md](../ERRATA.md), E6.)*
 3. **it was never going to be you** — the exemptions above, stated out loud in sec. 1.
 
 ## the whole act, plainly (shitpost version)

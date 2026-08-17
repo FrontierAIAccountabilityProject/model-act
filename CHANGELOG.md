@@ -2,6 +2,12 @@
 
 ## Integrity patch — 17 August 2026 (v3.3 text unchanged; labels and packaging only)
 
+- `ERRATA.md` opened: the six explainer/statute contradictions, line-specific, with the
+  five/one split stated plainly — five resolved by statutory change queued for the working
+  branch (engineer-exclusion text; certification cadence; nonconforming certification and
+  deployment; the Agency-approval validation mode; deployer and startup reach) and one pure
+  copy correction (commencement, corrected on the card today). Plus two precision notes
+  (NY § 1427 phrased as severity-scaled caps; explainer numbering divergence logged).
 - "Introducible" retired everywhere until a gated sponsor release earns it back.
   `model_act_v3_3_introducible.txt` renamed `model_act_v3_3_jacket_clean.txt` (same text,
   honest label); the old filename remains as a signpost for old links. v3.3 is relabelled

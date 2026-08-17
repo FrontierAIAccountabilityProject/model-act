@@ -10,7 +10,7 @@ responsible officers of frontier AI companies, on the doctrine of
 
 v3.3 splits the Act from its apparatus so a staffer can drop the text straight into a bill jacket.
 
-The file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive). What changed and why: [CHANGELOG.md](./CHANGELOG.md); the full audit trail is in [/audit](./audit).
+The file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive). What changed and why: [CHANGELOG.md](./CHANGELOG.md); the full audit trail is in [/audit](./audit); the errata register is [ERRATA.md](./ERRATA.md).
 
 Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park* doctrine belongs to no one. We just did the assembly.
 
@@ -226,6 +226,22 @@ provisions back when a federal sunset lapses.
 
 Redlines welcome, credited or anonymous: first genuine catch
 acknowledged in the notes as anonymous counsel.
+
+## What is deliberately not in this repository
+
+Sponsor-facing artifacts — the candidate sponsor package, conformance analyses
+for specific states, counsel correspondence, and the choice of any legislative
+vehicle — are built on a separate, unlinked surface and are not published here
+until a sponsor engages or a gated release earns it. This is not concealment;
+it is layer separation: campaign materials recruit, but they contaminate
+sponsors, so the two never share a page. Disclosure runs one way — the sponsor
+surface will carry a provenance page linking to this public drafting record;
+nothing here links back. What stays public, permanently: the drafting record,
+the audit chunks, the changelog, and the errata register. Those are the
+receipts.
+
+The plain-language version of all of this, written for people new to GitHub or
+politics: [docs/08 — behind the scenes](./docs/08-behind-the-scenes.md).
 
 ## License
 

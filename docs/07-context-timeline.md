@@ -1,4 +1,4 @@
-<sub>📁 [docs](./README.md) · ← [track record](06-track-record.md) · **7 context: summer 2026** · the receipts → [`/dossier`](../dossier/)</sub>
+<sub>📁 [docs](./README.md) · ← [track record](06-track-record.md) · **7 context: summer 2026** · next → [behind the scenes](08-behind-the-scenes.md)</sub>
 
 # context: summer 2026
 
