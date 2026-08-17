@@ -191,5 +191,4 @@ cadence; "CEO"/"exec" is wrong the other way — over-scares small operators and
 authority held under no such title. Ruling: the statute says *controlling person* (unchanged);
 campaign copy says *the ten* or *ten seats*; explainer prose says *whoever holds the halt
 authority*. The duty attaches to the chair; whoever sits down inherits it. "Men" retired going
-forward; nothing deleted retroactively — the README carries the language note. Old copy (pinned
-tweet, carousel issue no. 1) stands per no-deletion policy.
+forward; nothing deleted retroactively — the README carries the language note. Old copy stands per no-deletion policy.
