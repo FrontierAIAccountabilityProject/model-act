@@ -192,3 +192,24 @@ authority held under no such title. Ruling: the statute says *controlling person
 campaign copy says *the ten* or *ten seats*; explainer prose says *whoever holds the halt
 authority*. The duty attaches to the chair; whoever sits down inherits it. "Men" retired going
 forward; nothing deleted retroactively — the README carries the language note. Old copy stands per no-deletion policy.
+
+## 12. The regulatory-capture objection — Stigler answered (17 August 2026)
+Context: the concentration false choice (note 7) escalated to the top of US AI policy — the
+PCAST co-chair against a frontier lab CEO, publicly, 17 Aug 2026. The capture objection arrived
+in its strongest form, with Stigler cited by name: regulation acquired by industry, operated for
+its benefit; revolving door; concentrated stakes vs diffuse public. ⚠ Stigler definition is
+memory-confidence (The Theory of Economic Regulation, 1971) — pin at cite-check.
+The answer, drafted against the live exchange:
+(a) **Capture needs a surface.** Licensing regimes supply one — queues, approvals, license
+conditions, an agency to staff. A criminal due-care statute issues nothing an incumbent can own:
+no permit, no approval, no gate. The canonical line: *you cannot capture a law whose only output
+is a defendant.*
+(b) **Ex post, not ex ante.** No pre-approval means no queue and no DMV: ship tomorrow; answer
+personally if it kills. This is the accountability structure a market framework is supposed to
+prefer, offered back in its own vocabulary.
+(c) **The third-lane discipline held.** The reply defends neither camp, names no person, applies
+to every seat including the drafting model's own lab — evenhandedness stated as a feature in the
+reply's drafting session, which disclosed its conflict before drafting. The account engaged the
+top post only; the reply floor beneath it (containing conspiratorial and bigoted material) was
+not touched and never will be.
+Companion placement: objections section, beside the concentration entry. Cross-ref: note 7.
