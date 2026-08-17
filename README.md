@@ -10,9 +10,7 @@ responsible officers of frontier AI companies, on the doctrine of
 
 v3.3 splits the act from its apparatus so a staffer can drop the text straight into a bill jacket. 
 
-the file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive). w
-
-hat changed and why: [CHANGELOG.md](./CHANGELOG.md); the full audit trail is in [/audit](./audit).
+the file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive). what changed and why: [CHANGELOG.md](./CHANGELOG.md); the full audit trail is in [/audit](./audit).
 
 facts, legal doctrines, and ideas were never copyrightable anyway — the *Park* doctrine belongs to no one. we just did the assembly.
 
