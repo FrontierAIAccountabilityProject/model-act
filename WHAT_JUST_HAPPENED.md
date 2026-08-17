@@ -7,6 +7,11 @@ holds the mistakes; this page holds the story. subscribe to the raw feed:
 [atom](https://github.com/llmaolaw/model-act/commits/main.atom).*
 
 ---
+**17 aug 2026 · why a real lawyer, explained.** behind-the-scenes now says in
+plain words what the ai layer is (legally nothing, by its own admission), what
+the council is (referees), and why named retained counsel is the missing piece: our
+own rule, the courtroom check, the staffer question, and privilege. retained ≠
+rich; pro bono is a door.
 
 **17 aug 2026 · the identity machinery, published.** recruiting real humans begins, so
 [behind the scenes](./docs/08-behind-the-scenes.md) now states the naming rules before
