@@ -31,6 +31,40 @@ what stays public, permanently, no exceptions: **the statute and every version o
 
 five seats on a review council, recruited in the open: a criminal-law specialist; a former prosecutor or regulator; a security engineer who has worked inside a frontier lab; an open-source or academia person; someone who has administered a real budget. pay: none. benefit: your name on the provenance page of the first serious attempt to write personal accountability for frontier AI into law — with the odds tracked publicly, as is tradition. reach us: llmaolaw@proton.me.
 
+## names: who wears the mask, who signs, and who consents to what
+
+the project is now recruiting actual humans — a criminal lawyer, and the five council
+seats above. so here is the identity machinery, in full, before it operates — because
+you can't consent to a process you can't see.
+
+**the maintainer stays masked. indefinitely.** the arguments were built to stand
+without a byline; the citations are the only authority they have. that doesn't change.
+
+**but you cannot hire a lawyer in a mask.** an engagement letter needs a real client, a
+conflicts check needs a real name, and attorney-client privilege only attaches to a real
+relationship. so retained counsel learns who the maintainer is — privately, under
+professional confidentiality, at engagement. that isn't a leak in the design; it is the
+one load-bearing disclosure the design exists to route correctly.
+
+**council members sign their names — that is the seat.** nobody's name appears anywhere
+until they take a seat knowing exactly what it publishes: their name, their scope, their
+conflicts, their verdict — including "approved with reservations," published as written.
+before signing, they too learn who the maintainer is, under confidentiality: people
+lending their names deserve to know whose project holds them.
+
+**everyone else stays as masked as they like.** catches, corrections, contributions —
+anonymous is fine, anonymous is traditional. no one is ever named here without having
+chosen the naming.
+
+**and the governed — you — get the process itself.** every rule above is published
+before it runs. when the lawmaker-layer package reaches a sponsor, it carries a
+provenance page disclosing the ai assistance, the pinned public commit, the verification
+method, the named signoffs, and the conflicts — and that page points back here, to the
+record anyone can check. the text is public. the audit is public. the errata are public.
+the only two secrets are people's names (until their owners choose) and which door gets
+knocked first (until it opens). both secrets expire. consent of the governed requires
+the process in daylight; it has never required anyone's home address.
+
 ## new here? how to follow along
 
 this repository updates the way the account used to — except here, every change is signed, diffed, and permanent. **watch** or **star** the repo (top right, free github account) and the [commits page](https://github.com/llmaolaw/model-act/commits/main) becomes the feed: every edit, timestamped, with its reason. the [changelog](../CHANGELOG.md) is the plain-words version; the [errata register](../ERRATA.md) is the scorecard of our own mistakes; the [running log](../WHAT_JUST_HAPPENED.md) is the marquee — one entry per upload, newest first, failures in the same font size as wins. you can even subscribe to the statute in any feed reader: [commits/main.atom](https://github.com/llmaolaw/model-act/commits/main.atom). yes, that is a real sentence now — you can subscribe to a statute.

@@ -8,6 +8,14 @@ holds the mistakes; this page holds the story. subscribe to the raw feed:
 
 ---
 
+**17 aug 2026 · the identity machinery, published.** recruiting real humans begins, so
+[behind the scenes](./docs/08-behind-the-scenes.md) now states the naming rules before
+they operate: the maintainer stays masked; retained counsel learns the name at
+engagement (privilege requires it); council members sign knowingly, conflicts disclosed;
+everyone else stays as anonymous as they like. the governed get the process in daylight
+— the only two secrets are names (until their owners choose) and the first door (until
+it opens), and both expire.
+
 **17 aug 2026 · contributing brought under the same rule.** the contributing page
 still said "reviewed by anonymous professionals" and "anonymously is preferred" — the
 one surface the validation sweep missed. now it says what the rest of the repo says:
