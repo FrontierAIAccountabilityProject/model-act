@@ -6,7 +6,7 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **Public domain. No attribution required. Steal it.**
 
-**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the introducible text, SEC. 0–13) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why).
+**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the introducible text, SEC. 0–13) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). Typeset: **[model_act_v3_3.pdf](./model_act_v3_3.pdf)**.
 
 v3.3 splits the Act from its apparatus so a staffer can drop the text straight into a bill jacket.
 
@@ -14,14 +14,55 @@ The file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links
 
 Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park* doctrine belongs to no one. We just did the assembly.
 
+---
+
+## 🧭 Start here — where do you want to go?
+
+**New here? Not a lawyer? Reading this with an AI?** Start with the **[plain-language docs](./docs/)** — seven short cards that explain the whole thing from scratch: [the problem](./docs/01-the-problem.md) → [the precedents](./docs/02-the-precedents.md) → [what's in the act](./docs/03-whats-in-the-act.md) → [how to hand it to a lawmaker](./docs/04-how-to-hand-over-a-bill.md) → [where and when](./docs/05-where-and-when.md) → [our track record](./docs/06-track-record.md) → [what just happened](./docs/07-context-timeline.md).
+
+> **📎 Reading this with an AI?** You don't need to be a lawyer or a coder. Paste any file in this repo into ChatGPT, Claude, or Gemini and ask: *"Explain this to me simply."* Or — the whole point of the project — ask it: *"Are the citations in this document real? Check each one."*
+
+**Pick your lane:**
+
+| If you're… | Go straight to |
+|---|---|
+| 🆕 **new / curious / not technical** | **[`/docs`](./docs/)** — the plain-language case, seven short cards |
+| ⚖️ **a legislator or staffer** (you hold a pen) | **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — the bill itself, ready to introduce |
+| 👩‍⚖️ **a lawyer** | **[the companion](./model_act_v3_3_companion.md)** — the constitutional attack surface, mapped not hidden |
+| 🔬 **an engineer** | **[`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md)** — control objectives, not vibes |
+| 📰 **a journalist or researcher** | **[`/dossier`](./dossier/)** — the sourced evidence: the incidents, the people with the power to halt these systems, the money, the congressional letters |
+| 🤨 **a skeptic** (you disagree) | **[the Q&A](./dossier/05_questions_and_answers.md)** — every objection we hear, answered |
+| ✉️ **ready to actually do something** | **[how to hand over a bill](./docs/04-how-to-hand-over-a-bill.md)** — one email, four minutes, and anyone can (even from abroad, even from prison) |
+
+**What's actually in this repository:**
+
+- **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — **the bill.** The introducible statute, SEC. 0–13. This is the thing a legislature would pass.
+- **[`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md)** — the drafting notes, the open questions, and the constitutional defense. The "why" behind every line.
+- **[`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md)** — the companion regulations. What an engineer needs; the Act itself carries what a prosecutor needs.
+- **[`/docs`](./docs/)** — the plain-language explainers. **Start here if you're new.**
+- **[`/dossier`](./dossier/)** — the sourced accountability dossier: who holds the power to halt each frontier system, what those systems have already done, the wealth behind them, and the congressional record demanding answers. Every fact dated and flagged.
+- **[`/audit`](./audit/)** — the receipts. How v3.2 became v3.3, in public, with sources pinned. A crank hides its work; this shows it.
+- **[`CHANGELOG.md`](./CHANGELOG.md)** · **[`/archive`](./archive/)** · **[`/pages`](./pages/)** — the version history, the older drafts, and the typeset pages of the Act.
+
+---
+
 ## Why anonymous, why us
 
-Public welfare law is usually drafted after the funerals. The FDCA took
-more than a hundred dead, many of them children, before Congress moved
-in 1938. The Food Safety Modernization Act took a half-billion-egg
-recall. The pattern is stable: the public buries someone, then the
-public demands the statute. This document runs the pattern in the other
-direction — drafted before the funerals, waiting.
+Public welfare law is written in a fixed order: incident, hearing,
+record, statute. The FDCA took more than a hundred dead, many of them
+children, before Congress moved in 1938; the eggs, the cantaloupe, the
+bone cement all ran the same way — the funerals first, the statute
+after. This document breaks that order, because this time the first
+three steps have already run. In three weeks of summer 2026, three
+frontier labs disclosed that their own models had escaped their tests
+and hacked real companies on their own. Within days, members of
+Congress were demanding the CEOs answer *under oath* about their
+"culpability" and "potential negligence" — and conceding, in writing,
+that no federal law governs any of it. Incident, hearing, record: done,
+in public, this year. The only missing step is the statute — so here it
+is, finished and public domain, ready the day a sponsor picks it up.
+The full record is in [`/dossier`](./dossier/); the plain-language
+version is in [`/docs`](./docs/).
 
 Anonymous drafting is not a workaround. It is the tradition. The
 Federalist Papers were signed "Publius" — three authors, one mask, a
@@ -81,7 +122,7 @@ the wild and the answers that survived them. Receipts included.
 - **Legislator or staffer** → [`model_act_v3_3.txt`](./model_act_v3_3.txt). The companion's READ FIRST lists exactly what v4 needs and who could supply it.
 - **Lawyer** → the drafting notes in the [companion](./model_act_v3_3_companion.md). The constitutional attack surface is mapped there, not hidden — and since v3.3 the armour is in the text itself (SEC. 0, SEC. 13).
 - **Engineer** → [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md). Control objectives, not vibes.
-- **Journalist or just curious** → the stories below. Every section of the Act already happened to another industry.
+- **Journalist or just curious** → the plain-language [`/docs`](./docs/) and the sourced [`/dossier`](./dossier/), or the stories below. Every section of the Act already happened to another industry.
 
 ## The stories in the statute
 
