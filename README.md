@@ -91,7 +91,7 @@ gives that fear a statute to live in.
 tweets — says "ten men." The Act never does. The statute's word is
 *controlling person*: whoever holds practical authority over a covered
 system, by any title or none, through any structure. We count roughly
-ten because only a handful of models clear the 10^26 line and fewer
+a dozen because only a handful of models clear the 10^26 line and fewer
 hands hold them. But it is a headcount, not a list of names, and it was
 never gendered: seats, not people. The duty attaches to the chair, and
 whoever sits down inherits it. ("CEO" is the wrong word too — some
