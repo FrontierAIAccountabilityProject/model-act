@@ -16,7 +16,7 @@
 ## the guest list: who's invited to consequences (and who isn't)
 
 - **NOT liable: you, the engineer.** written into the definitions: rank-and-file employees are exempt. this law climbs UP the org chart only. your manager's manager's manager is sweating, not you.
-- **very liable: the officers at the top.** the officers with actual authority to say "don't ship." maybe ten people on earth. that's the whole guest list.
+- **very liable: the officers at the top.** the officers with actual authority to say "don't ship." maybe a dozen seats on earth. that's the whole guest list, and it's a count of chairs, not names.
 - **and the whistleblower gets PAID.** report a violation, receive 10 to 30 percent of the penalties. NDAs that try to gag you? **void.** telling the truth becomes the best-paying job at the company. (SEC. 11)
 
 ## it was never going to be you

@@ -6,9 +6,9 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **Public domain. No attribution required. Steal it.**
 
-**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the Act, SEC. 0–13 — research draft) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). Typeset edition withdrawn pending a reproducible rebuild from source (see [CHANGELOG.md](./CHANGELOG.md)).
+**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the Act, SEC. 0–13 — research draft) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). Typeset edition withdrawn pending a reproducible rebuild from source (see [CHANGELOG.md](./CHANGELOG.md)). Withdrawn means de-listed, not deleted: the old files stay in the tree so links don't rot — deleting them would break our own no-deletion rule. The `.txt` is authoritative.
 
-v3.3 splits the Act from its apparatus so a staffer can drop the text straight into a bill jacket.
+v3.3 splits the Act from its apparatus so the text travels clean into a bill folder — as the research draft it says it is. Statehouse drafting offices redraft whatever they're handed; you hand over the architecture, they pour the concrete.
 
 The file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive). What changed and why: [CHANGELOG.md](./CHANGELOG.md); the full audit trail is in [/audit](./audit); the errata register is [ERRATA.md](./ERRATA.md).
 
@@ -224,8 +224,11 @@ reaches last. Since v3.3 that claim is operative text, not cover copy —
 SEC. 13 names the core, orders the severance, and brings suspended
 provisions back when a federal sunset lapses.
 
-Redlines welcome, credited or anonymous: first genuine catch
-acknowledged in the notes as anonymous counsel.
+Catches welcome, credited or anonymous — a wrong citation or a broken
+cross-reference goes in the errata ledger, and the first genuine catch is
+acknowledged in the field notes. Legal validation is a different thing and
+now runs through named reviewers: criminal counsel and a five-seat review
+council, recruiting now — see [docs/08](./docs/08-behind-the-scenes.md).
 
 ## What is deliberately not in this repository
 
@@ -249,8 +252,9 @@ Dedicated to the public domain ([CC0](./LICENSE)). The eggs remained undefeated.
 
 ## Who this needs
 
-Questions, redlines, or a state in mind: llmaolaw@proton.me — links or
-pasted text only, no attachments. Any alias or none.
+Questions, catches, council seats, or a state in mind:
+llmaolaw@proton.me — links or pasted text only, no attachments. Any alias
+or none (though council seats come with names; that's the point of them).
 
 The READ FIRST page in the companion names the open items for v4, each
 with the kind of person who could close it: a standards-literate

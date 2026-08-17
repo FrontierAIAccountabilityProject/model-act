@@ -149,7 +149,7 @@ there" logic.
 ## 7. COPY DISCIPLINE (why this stays an instrument, not a roster)
 
 - **Two drawers, never merged.** "The richest" is a net-worth claim (this file). "The
-  ten seats" is a halt-authority claim (SEC. 4, `01_master.md` Layer 2). They support
+  dozen seats" is a halt-authority claim (SEC. 4, `01_master.md` Layer 2). They support
   each other but must never be spoken as one sentence, or a structural argument
   becomes a personal target list — which the README's "seats, not people" ruling
   forbids and which the DeepMind entry proves is already stale as a roster.

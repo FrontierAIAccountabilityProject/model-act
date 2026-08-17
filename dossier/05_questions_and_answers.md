@@ -27,12 +27,16 @@ who hold practical authority to halt one of those systems. Your startup is not i
 chairs. Personal, non-commercial use of a model is expressly *not* covered, and nothing
 in the Act restricts anyone's use, study, or modification of weights they lawfully
 obtained. The freedoms flow down to the public; the duties flow up to the people with
-the power.
+the power. (One known gap, logged in public rather than smoothed over: the current draft
+still lacks a written de-minimis rule for thin deployers — a company that merely operates
+someone else's validated system. The fix — documented reliance on the upstream validation
+plus your own configuration manifest — is first in the cure queue. Receipts:
+[ERRATA.md](../ERRATA.md), entry E5.)
 
 **"Ten men" — isn't that a conspiracy-theory framing?**
 The statute names nobody, and it isn't gendered. Its word is *controlling person*:
 whoever holds practical authority over a covered system, by any title or none, through
-any structure. We say "roughly ten" only because that's the arithmetic — very few models
+any structure. We say "roughly a dozen" only because that's the arithmetic — very few models
 clear the line, and fewer hands hold them. It's a headcount of *seats*, not a list of
 names. The duty attaches to the chair; whoever sits in it inherits the duty. (The
 DeepMind seat changed hands in August 2026, mid-drafting — proof that a list of names
@@ -164,11 +168,21 @@ beneficiary, is not a democratic one. Participation was always the missing safet
 ## Part four — the honest questions
 
 **Has a lawyer actually reviewed this?**
-One hostile professional legal redline has been survived and logged; a corporate tech
-lawyer is queued as a second reviewer, and the invitation is open for more. The Act's own
-companion document lists, out loud, the questions it still can't fully answer and names the
-kind of expert who could close each one. A crank document hides its weaknesses; this one
-publishes them. That's the difference.
+Honest answer, under our own validation rule: not yet in the way that counts. The text has
+been through serious adversarial review — a full hostile brief was built against it and
+answered in public, every objection logged next to its fix (audit, chunk 7) — but that work
+is issue-spotting, and issue-spotting is not legal validation, however well it converges.
+By our own rule, nobody claims this "survived review" until named reviewers with state-law
+and prosecutorial experience have signed their names to that sentence. Recruiting them is
+the current work: named criminal counsel, plus a five-seat review council — a criminal-law
+specialist, a former prosecutor or regulator, a frontier-security engineer who has worked
+inside a lab, an open-source/academia reviewer, and someone who has administered a real
+budget. If that is you: llmaolaw@proton.me. And a posture change, stated plainly: catches
+remain welcome forever — a wrong citation, a broken cross-reference, that is the errata
+ledger and it never closes — but the project no longer needs more general online review.
+It needs names. The companion still lists, out loud, the questions the text can't yet
+answer and the kind of expert who could close each one. A crank document hides its
+weaknesses; this one publishes them. That's the difference.
 
 **Is this real? Are the citations made up?**
 Paste the statute into any AI model and ask it: *are the citations in this document real?
