@@ -6,7 +6,7 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **Public domain. No attribution required. Steal it.**
 
-**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the introducible text, SEC. 0–13) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). Typeset: **[model_act_v3_3.pdf](./model_act_v3_3.pdf)**.
+**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the Act, SEC. 0–13 — research draft) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). Typeset edition withdrawn pending a reproducible rebuild from source (see [CHANGELOG.md](./CHANGELOG.md)).
 
 v3.3 splits the Act from its apparatus so a staffer can drop the text straight into a bill jacket.
 
@@ -27,7 +27,7 @@ Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park*
 | If you're… | Go straight to |
 |---|---|
 | 🆕 **new / curious / not technical** | **[`/docs`](./docs/)** — the plain-language case, seven short cards |
-| ⚖️ **a legislator or staffer** (you hold a pen) | **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — the bill itself, ready to introduce ([jacket-clean copy](./model_act_v3_3_introducible.txt) — same text, stripped for the bill folder) |
+| ⚖️ **a legislator or staffer** (you hold a pen) | **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — the bill text, research draft under review ([jacket-clean copy](./model_act_v3_3_jacket_clean.txt) — same text, stripped for the bill folder) |
 | 👩‍⚖️ **a lawyer** | **[the companion](./model_act_v3_3_companion.md)** — the constitutional attack surface, mapped not hidden |
 | 🔬 **an engineer** | **[`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md)** — control objectives, not vibes |
 | 📰 **a journalist or researcher** | **[`/dossier`](./dossier/)** — the sourced evidence: the incidents, the people with the power to halt these systems, the money, the congressional letters |
@@ -36,7 +36,7 @@ Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park*
 
 **What's actually in this repository:**
 
-- **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — **the bill.** The introducible statute, SEC. 0–13. This is the thing a legislature would pass. A [jacket-clean copy](./model_act_v3_3_introducible.txt) — identical text, minus the campaign lines — is there for counsel.
+- **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — **the bill.** The statute, SEC. 0–13 — research draft. This is the thing a legislature would pass, once named counsel signs it off. A [jacket-clean copy](./model_act_v3_3_jacket_clean.txt) — identical text, minus the campaign lines — is there for counsel.
 - **[`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md)** — the drafting notes, the open questions, and the constitutional defense. The "why" behind every line.
 - **[`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md)** — the companion regulations. What an engineer needs; the Act itself carries what a prosecutor needs.
 - **[`/docs`](./docs/)** — the plain-language explainers. **Start here if you're new.**
@@ -103,8 +103,8 @@ finds the hands.)
 ## The documents
 
 - [`model_act_v3_3.txt`](./model_act_v3_3.txt) — the Act, SEC. 0–13,
-  introducible. Start here if you hold a pen in a legislature.
-  ([`model_act_v3_3_introducible.txt`](./model_act_v3_3_introducible.txt) is the same text, jacket-clean.)
+  research draft. Start here if you hold a pen in a legislature.
+  ([`model_act_v3_3_jacket_clean.txt`](./model_act_v3_3_jacket_clean.txt) is the same text, jacket-clean.)
 - [`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md) — the
   READ FIRST page (open items for v4, each gap naming the kind of person
   who could close it), the drafting notes n.1–n.27, the answers to the
@@ -113,8 +113,8 @@ finds the hands.)
   companion regulations (assembly draft, conformed to v3.3). The Act
   carries what a prosecutor needs; this carries what an engineer needs.
 - [`model_act_v3_2.pdf`](./model_act_v3_2.pdf) /
-  [`model_act_v3_2.txt`](./model_act_v3_2.txt) — previous version, kept
-  in place. [`/audit`](./audit) holds the five working chunks, the assembly record
+  [`model_act_v3_2.txt`](./model_act_v3_2.txt) — previous version, superseded
+  (penalty arithmetic corrected at v3.3 — see [the archive note](./archive/README.md)). Kept in place. [`/audit`](./audit) holds the five working chunks, the assembly record
 that turned v3.2 into v3.3, the field notes — objections met in the
 wild and the answers that survived them — and [the hostile brief](./audit/chunk7_hostile_brief.md):
 the Act as read by the other side's counsel. Receipts included.

@@ -1,7 +1,7 @@
 # MODEL ACT — Frontier AI Public Welfare Offenses
 ## COMPANION · v3.3 · August 2026 · public domain
 
-The Act itself — SEC. 0 through SEC. 13, the introducible text — is `model_act_v3_3.txt`. This
+The Act itself — SEC. 0 through SEC. 13, the research-draft text — is `model_act_v3_3.txt`. This
 document carries everything a bill jacket does not: the open items, the answers to friendly
 proposals, the drafting notes, and the reason the document exists. The audit trail behind every
 change is in `/audit`.

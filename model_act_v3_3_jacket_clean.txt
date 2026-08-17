@@ -1,10 +1,10 @@
 MODEL ACT — Frontier AI Public Welfare Offenses
-v3.3 · August 2026 · public domain · drafted for adoption by any state legislature
+v3.3 (jacket-clean text — research draft) · August 2026
 
-[This file is the Act's text — research draft: SEC. 0 (uncodified findings) and SEC. 1 through SEC. 13.
-Everything a bill jacket does not carry — the open items for v4, the drafting notes, the answers
-to friendly proposals, and the reason this document exists — is in the companion file,
-model_act_v3_3_companion.md. Bracketed matter is an adopting-state choice.]
+[This file contains the statutory text and nothing else: SEC. 0 (uncodified findings) and
+SEC. 1 through SEC. 13. Bracketed matter is an adopting-state choice. Conform the agency
+designation, penalty brackets, and internal numbering and cross-references to the adopting
+state's drafting conventions.]
 
 SEC. 0. FINDINGS AND PURPOSE (UNCODIFIED).
 (a) The Legislature finds:
@@ -501,6 +501,5 @@ provision for conduct occurring before that date.
 was invalid, and does not affect liability for conduct occurring before the suspension took
 effect.
 
-Dedicated to the public domain. No attribution required. Steal it.
-
-)(
+This text is dedicated to the public domain under CC0 1.0. It may be reproduced, adapted, and
+introduced, in whole or in part, without attribution or permission.

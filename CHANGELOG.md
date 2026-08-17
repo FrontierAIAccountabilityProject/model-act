@@ -1,5 +1,21 @@
 # CHANGELOG — Model Act (Frontier AI Public Welfare Offenses)
 
+## Integrity patch — 17 August 2026 (v3.3 text unchanged; labels and packaging only)
+
+- "Introducible" retired everywhere until a gated sponsor release earns it back.
+  `model_act_v3_3_introducible.txt` renamed `model_act_v3_3_jacket_clean.txt` (same text,
+  honest label); the old filename remains as a signpost for old links. v3.3 is relabelled
+  a **research draft** in all live copy.
+- `model_act_v3_3.pdf` **withdrawn** pending a reproducible rebuild from the authoritative
+  source (tagged, checksummed, source-to-PDF fidelity test). The file stays in the tree for
+  link integrity; the README no longer offers it.
+- `archive/README.md` added: dated corrections now travel with archived versions
+  (the pinned-correction rule).
+- Threshold hygiene, after a primary-source pin run against enacted NY GBL art. 44-B
+  (L.2026 c.96): "large frontier developer" is a $500M gross-revenue test; § 1427 penalties
+  are caps ("not to exceed," severity-scaled). No live copy asserted otherwise; logged so
+  it stays that way.
+
 ## Repository — 17 August 2026 (v3.3 text unchanged)
 
 - `model_act_v3_3_introducible.txt` — the jacket-clean copy of the Act: statutory text
