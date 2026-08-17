@@ -18,7 +18,7 @@ lawyers arrived. that changes how this project works, and you deserve the change
 
 some things are now quiet: which lawyers, which state goes first, which lawmaker gets the folder, what got said in which meeting. announcing a target before a sponsor says yes is how you lose the sponsor — and it hands the opposition the map. that quiet is temporary and tactical.
 
-what stays public, permanently, no exceptions: **the statute and every version of it. the full audit. the changelog. the [errata register](../ERRATA.md). every correction, pinned to every mistake.** nothing that was ever public gets deleted — retired claims get corrections attached, so the quote and its fix travel together. if you ever catch this project deleting instead of correcting, that's a story; tell it loudly.
+what stays public, permanently, no exceptions: **the statute and every version of it. the full audit. the changelog. the [errata register](../ERRATA.md). every correction, pinned to every mistake.** our aim is that nothing that was ever public gets deleted (unless we feel like deleting the whole project, for some reason) — retired claims get corrections attached, so the quote and its fix travel together. if you ever catch this project deleting instead of correcting, let us know.
 
 ## what just happened (17 august)
 
