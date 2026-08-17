@@ -113,7 +113,7 @@ least half the chambers. Their Federalist-Papers answer is good copy; it is not 
 table.
 
 **1.7 The enforcement reality.** Before panicking the principals: who actually gets prosecuted,
-where. The base offense is a misdemeanor. Extradition for out-of-state misdemeanants is lawful ⚠
+where. The base offense is a misdemeanor. Extradition for out-of-state misdemeanants is lawful ✅ (*Dennison*, §8 pin)
 but vanishingly rare in practice; a principal who never enters the enacting state is, for the base
 tier, practically beyond its criminal process. The felony tier changes that calculus, as does
 presence — count the states with offices, data centers, and conference keynotes. Also note
@@ -154,7 +154,7 @@ committee will not read (c)(4)(E).)*
 
 **2.2 The university exhibit. [NEW]** Reading rule (A) strips "any … exemption … of the enacting
 jurisdiction." New York's article 44-B carries an express exception for academic institutions and
-named consortiums (GBL § 1426 ⚠ pin at cite-check). So a university consortium releasing a 10^26
+named consortiums (GBL § 1426 ✅ pinned at §8). So a university consortium releasing a 10^26
 model owes full pre-release duties here **that New York itself would excuse**, and its provost is
 a presumed controlling person of the releasing entity. The flagship university calls the chair
 before we do. There is no academic carve anywhere in this Act — by design (release parity), but
@@ -162,7 +162,7 @@ the design has no answer *in text* for the land-grant witness.
 
 **2.3 Jail for negligence.** SEC. 6(a) + 10(b): up to a year's custody on a *failure of due
 care* — negligence, criminally. They have DeCoster and eighty years of doctrine; we have every
-defense-bar association, the ALEC mens-rea-reform model text ⚠, and the phrase "criminalizing
+defense-bar association, the ALEC mens-rea-reform model text ✅ (§8 pin), and the phrase "criminalizing
 paperwork errors." Legally weak (the culpability floor is drafted exactly to the DeCoster
 concurrence), politically evergreen.
 
@@ -215,7 +215,7 @@ deploy keys; a datacenter lease signatory. Each "possesses … material practica
 literal read; none is the campaign's "ten." The Act's answers — "material," several liability
 only for one's own authority (SEC. 2 final clause; 6(e)'s ability-and-opportunity construction;
 6(d)'s beyond-reasonable-doubt burden) — are real but live in litigation, which means they live
-in our fee applications. As-applied vagueness plus a *County Court of Ulster County v. Allen* ⚠
+in our fee applications. As-applied vagueness plus a *County Court of Ulster County v. Allen* ✅ (§8 pin)
 rational-connection attack on the criminal permissive inference from bare status (4(b): "such
 status is evidence from which the trier of fact may infer") in the case of a passive minority
 holder. We lose the facial challenge (Park's own dissent called the standard a nullity and lost);
@@ -282,7 +282,7 @@ the week.
 renew[ing], **or maintain[ing]**" penalty-indemnity insurance. As applied to D&O towers written
 before enactment, "maintain" makes it an offense to keep performing an existing contract —
 substantial impairment of existing contractual relations, *Sveen v. Melin* / *Energy Reserves*
-framework ⚠. The State answers with the police-power public-purpose prong and probably wins on
+framework ✅ (§8 pins). The State answers with the police-power public-purpose prong and probably wins on
 balance, but this is our best *civil* facial claim (no lenity problems, sympathetic plaintiff —
 an insurer!), and it generates a preliminary-injunction shot at SEC. 7(b) as a whole. Cheap fix
 exists (prospective application to contracts entered or renewed after the effective date);
@@ -297,7 +297,7 @@ Oregon, Indiana, West Virginia as stricter than *Harmelin* — and run the archi
 catches the accusation).
 
 **3.8 The prejudgment freeze.** SEC. 7(a)'s asset restraint "on a showing of probable
-adjudication and risk of dissipation" — *Connecticut v. Doehr* ⚠ posture. The exigency finding
+adjudication and risk of dissipation" — *Connecticut v. Doehr* ✅ (§8 pin) posture. The exigency finding
 likely saves it; letterhead it anyway; family offices pay for the motion practice.
 
 **3.9 The Attorney General's suspension switch. [NEW — the sharpest structural finding]** Read
@@ -530,8 +530,8 @@ only where the hostile use adds something.
 | F12 | 5(b) class trigger "autonomous external-access capabilities" has no definition and no rule-hook (unlike 1(b)(6)); add "as further specified by rule" + a minimal statutory description | SEC. 5(b); 1(b) | ★★ | **NEW** (dormancy known, chunk 5 §I.4) |
 | F13 | Privilege collision on 5(e) "refusal": no text sorting lawful privilege assertion from criminal refusal; risk of driving evals under privilege; fix: "lawful demand" gloss or express privilege-preservation sentence keeping facts/records reachable (facts never privileged already in SEC. 12) | SEC. 5(e); 12 | ★★ | **NEW** |
 | F14 | Unilateral-disarmament/competitiveness charge has no answer in SEC. 0 findings or the bank (deployer-parity + EU art. 53(2) + enforcement-reality answers exist but are scattered in n.5/n.17) | SEC. 0; bank | ★★ | **NEW** |
-| F15 | Ulster-County rational-connection attack on the criminal permissive inference from bare 4(b) status (passive minority holder hypo); consider a note (n.4) sentence anticipating it | SEC. 4(b); n.4 | ★★ | **NEW** ⚠ (Ulster County pin at cite-check) |
-| F16 | Prejudgment freeze *Doehr* posture; probably survives (exigency + judicial findings); one sentence in n.18 forecloses the letterhead | SEC. 7(a); n.18 | ★ | **NEW** ⚠ |
+| F15 | Ulster-County rational-connection attack on the criminal permissive inference from bare 4(b) status (passive minority holder hypo); consider a note (n.4) sentence anticipating it | SEC. 4(b); n.4 | ★★ | **NEW** — *Ulster County* ✅ pinned 17 Aug 2026 (§8) |
+| F16 | Prejudgment freeze *Doehr* posture; probably survives (exigency + judicial findings); one sentence in n.18 forecloses the letterhead | SEC. 7(a); n.18 | ★ | **NEW** — *Doehr* ✅ pinned 17 Aug 2026 (§8) |
 | F17 | Provenance/anonymity/AI-co-drafting as committee attack; answer exists rhetorically (Federalist) but consider a bank entry with the verification challenge as the reply ("check the citations; authorship is the one thing that doesn't matter to a citation") | bank | ★ | **NEW** |
 | F18 | Introducible file hygiene: v3_3.txt carries campaign lines ("Steal it," the `)(` sigil) that must not ride into a bill jacket; ship a jacket-clean variant or a one-line instruction to counsel | model_act_v3_3.txt | ★ | **CURED** — 17 Aug 2026, `model_act_v3_3_introducible.txt` shipped, README lane updated |
 | F19 | SEC. 9(a) characterisation triggers + recursive near-miss reading | SEC. 9(a) | ★★ | KNOWN (item 11) — hostile use sharpens: recursion ridicule |
@@ -554,11 +554,27 @@ FRONTIER Act H.R. 9925: congress.gov / govinfo BILLSTATUS — introduced, referr
 located (ailawtracker concordant). GAAIA: still discussion draft, no bill number
 (obernolte.house.gov press page; DLA Piper, Cato, TechPolicy.Press analyses; regulations.ai
 lists it unnumbered). Pinned this session: 18 U.S.C. § 3663A(a)(2) "directly and proximately
-harmed" (law.cornell.edu). ⚠ memory-confidence, pin at cite-check: *County Court of Ulster
-County v. Allen*, 442 U.S. 140 (1979); *Connecticut v. Doehr*, 501 U.S. 1 (1991); *Sveen v.
-Melin*, 584 U.S. 811 (2018) and *Energy Reserves Grp. v. Kansas Power & Light*, 459 U.S. 400
-(1983); N.Y. GBL § 1426 (academic exception — chunk 5 anchor table, not independently pinned);
-TX TRAIGA cure-period section number; ALEC mens-rea model policy; extradition practice claims
-(Art. IV §2 and UCEA reach misdemeanors in law; rarity in practice is practitioner lore).
+harmed" (law.cornell.edu). CITE-CHECK PASS — 17 Aug 2026, every flagged authority pinned:
+✅ *County Court of Ulster County v. Allen*, 442 U.S. 140 (1979) — cite confirmed (justia
+/us/442/140). ✅ *Connecticut v. Doehr*, 501 U.S. 1 (1991) — official reporter print
+(tile.loc.gov usrep501001). ✅ *Sveen v. Melin*, 584 U.S. 811 (2018) — page confirmed against the
+preliminary print, "Volume 584 U.S. Part 2, Pages 811–836" (supremecourt.gov 17pdf/584us2r49_74h3).
+✅ *Energy Reserves Grp. v. Kansas Power & Light*, 459 U.S. 400 (1983) — official reporter print
+(tile.loc.gov usrep459400). ✅ N.Y. GBL § 1426 ("Exceptions"), now independently pinned
+(nysenate.gov/legislation/laws/GBS/1426): exempts "accredited colleges and universities in New York
+state, to the extent such colleges and universities are engaging in academic research regarding
+artificial intelligence models," plus the Empire AI consortium (Econ. Dev. L. § 361 terms). Same
+source: article 44-B's effective date is 1 January 2027 — reading rule (A)'s "without regard to any
+… effective date" already absorbs this; noted for the companion's pin-date open item. ✅ TX TRAIGA
+cure period — HB 149 (89R) enrolled text, new Bus. & Com. Code Sec. 552.104: "The attorney general
+may not bring an action against the person before the 60th day after the date the attorney general
+provides the notice under Subsection (a)" (capitol.texas.gov). ✅ ALEC model text — exact title
+"Criminal Intent Protection Act" (alec.org/model-policy/criminal-intent-protection-act),
+default-intent rule read and logged. ✅ Extradition scope — *Kentucky v. Dennison*, 65 U.S. (24
+How.) 66 (1861): "The word 'crime' of itself includes every offence, from the highest to the lowest
+in the grade of offences, and includes what are called 'misdemeanors'" (findlaw
+/us-supreme-court/65/66); overruled on the federal-enforcement point only, *Puerto Rico v.
+Branstad*, 483 U.S. 219 (1987) — the scope holding stands. Rarity-in-practice remains practitioner
+lore and stays labelled as such.
 
 )(
