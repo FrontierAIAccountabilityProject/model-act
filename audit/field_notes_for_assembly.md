@@ -184,3 +184,12 @@ objection-bank entries, all within one week, all anonymous both directions. The 
 public method is generating its own reviewers. Log the pattern, not just the entries.
 Bank line: **even the most algorithmic form in american law still names a human who answers.**
 Companion placement: n.4 concordance note plus the Friendly Proposals section, next chunk.
+
+## 11. House style ruling — "the ten," not "ten men" (16 August 2026)
+Flagged by outside review: "ten men" is alienating, gendered, and pattern-matches to conspiracy
+cadence; "CEO"/"exec" is wrong the other way — over-scares small operators and misses real halt
+authority held under no such title. Ruling: the statute says *controlling person* (unchanged);
+campaign copy says *the ten* or *ten seats*; explainer prose says *whoever holds the halt
+authority*. The duty attaches to the chair; whoever sits down inherits it. "Men" retired going
+forward; nothing deleted retroactively — the README carries the language note. Old copy (pinned
+tweet, carousel issue no. 1) stands per no-deletion policy.
