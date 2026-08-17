@@ -18,30 +18,43 @@ five-seat review council with disclosed conflicts —
 [docs/08](./docs/08-behind-the-scenes.md) has the seats. Council names
 go on the provenance record; that is the point of them.
 
-## Who we need (the v4 work items)
+## What's on the table (pick one — it's yours)
 
-The READ FIRST page in the companion names the open items for v4, each
-with the kind of person who could close it:
+Eight problems are open for v4. Each is already scoped, sourced, and
+drafted to the edge of one missing reader — you would be closing, not
+starting. The companion's READ FIRST page holds the full brief for
+every item.
 
-- A standards-literate technologist — the version pins
-- State legislative counsel — conforming amendments, the
-  interim-standards pin date
-- A criminal-law scholar or former prosecutor — questions (b)–(c): the
-  "serious injury" source and the bracketed minimum
-- A proportionality scholar — reviewing, no longer designing, the
-  sentencing valve, against fifty state clauses, not just the federal
-  floor
-- A federalism litigator, ideally in a state AG's office — preemption
-  defence as the litigation develops
-- An evaluations researcher — reviewing the bracketed modifiability
-  floor
-- A security engineer who has worked inside a lab — control objectives
-  vs real practice
-- Any law review 2L with a Bluebook — the cite-check, list consolidated
-  in the companion
+- **The interim-standards architecture** — three enacted state
+  frameworks adopted verbatim, dated, chapter-cited. Wants a
+  standards-literate technologist for the version-pin mechanics.
+- **The conforming-amendment scaffold** — the Act is built to ride any
+  state's code. State legislative counsel gets the pin date and the
+  conforming amendments.
+- **The harm tier** — rebuilt to the federal death-results geometry,
+  receipts in audit chunk 4. A criminal-law scholar or former
+  prosecutor gets questions (b)–(c): the "serious injury" source and
+  the bracketed minimum.
+- **The sentencing valve** — designed and calibrated; the job left is
+  review, not design. A proportionality scholar tests it against fifty
+  state clauses, not just the federal floor.
+- **The preemption armour** — since v3.3 it's operative text (SEC. 0,
+  SEC. 13), not cover copy. A federalism litigator — ideally with state
+  AG instincts — stress-tests it as the litigation develops.
+- **The modifiability floor** — bracketed, rule-hooked, waiting for an
+  evaluations researcher to kick the bracket.
+- **The control objectives** — a full regulations draft exists. A
+  security engineer who has worked inside a lab tells us where it meets
+  real practice, and where real practice would laugh.
+- **The citations** — checkable by a stranger, by design. Any
+  law-review 2L with a Bluebook runs the consolidated cite-check; the
+  first genuine catch is acknowledged in the field notes forever.
 
-Penalty calibration closed at v3.3: the brackets carry the numbers
-three governors already signed.
+Closed, so you can see the train moves: penalty calibration ended at
+v3.3 — the brackets carry the numbers three governors already signed.
+Six explainer contradictions were found by our own audit and are in
+[ERRATA.md](./ERRATA.md) with their fixes. This project finishes
+things; bring the one thing only you can finish.
 
 ## How
 
