@@ -18,6 +18,10 @@ do it.
 - **`chunk7_hostile_brief.md`** — the adversarial read: the repo as
   attacked by hostile corporate counsel, with a findings register the
   next drafting chunk can act on.
+- **`chunk8_rule_dependency_sweep.md`** — the rule-dependency sweep
+  (opened 17 Aug): every "by rule" hook in v3.3 inventoried; each gets
+  an interim default, an express dormancy, or a ✓; the ★★★ findings
+  consolidated for one assembly pass.
 - **`field_notes_for_assembly.md`** — objections and proposals met in
   the wild during drafting, logged so nothing decision-relevant lives
   only in a chat log. Each entry records the objection's canonical

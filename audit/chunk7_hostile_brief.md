@@ -543,7 +543,7 @@ Register note: F1, F2, F7, F11, F12 share one root — v3.3 built interim defaul
 rule-dependent terms (the n.25 floor) and not others. Chunk 8 should sweep SEC. 1–3 for every
 "by rule" dependency and give each an interim default or an express dormancy statement, one
 pass, one principle: **no element waits on the Agency unless the Act says, in text, what happens
-while it waits.**
+while it waits.** (Opened 17 Aug 2026 — `chunk8_rule_dependency_sweep.md`.)
 
 ## 8. SOURCES (this chunk's sweep)
 
