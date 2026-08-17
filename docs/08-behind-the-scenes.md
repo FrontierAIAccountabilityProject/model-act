@@ -62,7 +62,48 @@ provenance page disclosing the ai assistance, the pinned public commit, the veri
 method, the named signoffs, and the conflicts — and that page points back here, to the
 record anyone can check. the text is public. the audit is public. the errata are public.
 the only two secrets are people's names (until their owners choose) and which door gets
-knocked first (until it opens). 
+knocked first (until it opens).
+
+## why an actual lawyer (and what the machines aren't)
+
+three things around here sound alike and are not, so here is the org chart in
+plain words.
+
+**the ai layer** — the models that help draft, pin sources, and build hostile
+briefs against our own text. useful, tireless, and *legally nothing*. its own
+programme document says so in the first paragraph: "not legal advice." the ai
+disclaims itself, and we agree with it.
+
+**the review council** — the five named humans being recruited above. they
+review and sign, each in their lane. referees, not anyone's lawyer.
+
+**retained counsel** — one licensed human lawyer, formally engaged. this is
+the missing piece, and the reasons are concrete, not ceremonial:
+
+1. **our own rule requires it.** nobody — including us — says this text
+   "survived review" until a named lawyer signs. without one, it stays a
+   research draft forever, by our own published law.
+2. **the map needs a licensed checker.** the machines can pin what a statute
+   says; only someone who has actually charged or defended these offenses
+   knows what breaks in a real courtroom — whether the offense design collides
+   with existing crimes, whether the enforcement route is real, whether the
+   culpability choices survive case law.
+3. **the staffer question.** the first thing any legislator's office asks
+   about a criminal statute from an anonymous project is "has a lawyer
+   reviewed this?" a named lawyer flips the answer to this question. this is what is being considered now by various people.
+4. **privilege.** what the maintainer tells a retained lawyer is legally
+   protected. what the maintainer tells an ai is not — ai chats are, in
+   principle, discoverable. if this fight ever reaches a courtroom, that
+   difference is not academic. the lawyer is also the one person whose duty
+   runs to the maintainer, not the project: the identity question, personal
+   exposure, whether talking to legislators trips a state's lobbying rules.
+
+"retained" does not mean rich. it means *formally agreed to be the lawyer* —
+that formality is the switch that turns on privilege and conflict duties.
+pro bono is a real path: clinics, public-interest shops, professors, retired
+prosecutors with grudges of their own. if that's you: llmaolaw@proton.me.
+
+cleverness was never the missing ingredient here, but the value of a name and its standing could be.
 
 ## new here? how to follow along
 
