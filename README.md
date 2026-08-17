@@ -12,6 +12,10 @@ v3.3 splits the Act from its apparatus so the text travels clean into a bill fol
 
 The file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive). What changed and why: [CHANGELOG.md](./CHANGELOG.md); the full audit trail is in [/audit](./audit); the errata register is [ERRATA.md](./ERRATA.md).
 
+**Checking back?** [What just happened](./WHAT_JUST_HAPPENED.md) — the running log,
+one entry per upload, newest first. **New, or wondering what's quiet on purpose?**
+[Behind the scenes](./docs/08-behind-the-scenes.md).
+
 Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park* doctrine belongs to no one. We just did the assembly.
 
 ---
@@ -256,36 +260,25 @@ Questions, catches, council seats, or a state in mind:
 llmaolaw@proton.me — links or pasted text only, no attachments. Any alias
 or none (though council seats come with names; that's the point of them).
 
-The READ FIRST page in the companion names the open items for v4, each
-with the kind of person who could close it: a standards-literate
-technologist (version pins) · state legislative counsel (conforming
-amendments, the interim-standards pin date) · a criminal-law scholar or
-former prosecutor (questions (b)–(c): the "serious injury" source and
-the bracketed minimum) · a proportionality scholar (reviewing, no longer
-designing, the sentencing valve — against fifty state clauses, not just
-the federal floor) · a federalism litigator, ideally in a state AG's
-office (preemption defence as the litigation develops) · an evaluations
-researcher (reviewing the bracketed modifiability floor) · a security
-engineer who has worked inside a lab (control objectives vs real
-practice) · any law review 2L with a Bluebook (the cite-check, list
-consolidated in the companion). Penalty calibration closed at v3.3: the
-brackets carry the numbers three governors already signed.
+Two asks, two lists. The v4 **work items** — each gap named alongside the
+kind of person who could close it, from state legislative counsel to any
+law-review 2L with a Bluebook — live in the companion's READ FIRST page.
+The five **review-council seats** — the named reviewers whose signoff our
+own validation rule requires — are in
+[docs/08](./docs/08-behind-the-scenes.md). Penalty calibration closed at
+v3.3: the brackets carry the numbers three governors already signed.
 
 If one of these is you: the text is public domain. Take it. Nothing
 above is a reason to wait; all of it is a reason to begin.
 
 ## Read it here
 
-![MODEL ACT v3.3 — page 1: findings + the act](./pages/actv33-1.png)
-![page 2](./pages/actv33-2.png)
-![page 3](./pages/actv33-3.png)
-![page 4](./pages/actv33-4.png)
-![page 5](./pages/actv33-5.png)
-![page 6](./pages/actv33-6.png)
-![page 7](./pages/actv33-7.png)
-![page 8](./pages/actv33-8.png)
-![page 9](./pages/actv33-9.png)
-![page 10](./pages/actv33-10.png)
+*De-listed 17 aug 2026, together with the pdf these pages render — the typeset
+page images are the same withdrawn edition, so they follow the same rule
+(reproducible or not offered) and the same no-deletion policy: [/pages](./pages)
+stays in the tree, old links still land, and a verified typeset edition returns
+with the rebuild. Meanwhile the authoritative text is
+[`model_act_v3_3.txt`](./model_act_v3_3.txt).*
 
 ## History
 

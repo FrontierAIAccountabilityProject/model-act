@@ -33,7 +33,7 @@ five seats on a review council, recruited in the open: a criminal-law specialist
 
 ## new here? how to follow along
 
-this repository updates the way the account used to — except here, every change is signed, diffed, and permanent. **watch** or **star** the repo (top right, free github account) and the [commits page](https://github.com/llmaolaw/model-act/commits/main) becomes the feed: every edit, timestamped, with its reason. the [changelog](../CHANGELOG.md) is the plain-words version; the [errata register](../ERRATA.md) is the scorecard of our own mistakes. you can even subscribe to the statute in any feed reader: [commits/main.atom](https://github.com/llmaolaw/model-act/commits/main.atom). yes, that is a real sentence now — you can subscribe to a statute.
+this repository updates the way the account used to — except here, every change is signed, diffed, and permanent. **watch** or **star** the repo (top right, free github account) and the [commits page](https://github.com/llmaolaw/model-act/commits/main) becomes the feed: every edit, timestamped, with its reason. the [changelog](../CHANGELOG.md) is the plain-words version; the [errata register](../ERRATA.md) is the scorecard of our own mistakes; the [running log](../WHAT_JUST_HAPPENED.md) is the marquee — one entry per upload, newest first, failures in the same font size as wins. you can even subscribe to the statute in any feed reader: [commits/main.atom](https://github.com/llmaolaw/model-act/commits/main.atom). yes, that is a real sentence now — you can subscribe to a statute.
 
 ---
 
