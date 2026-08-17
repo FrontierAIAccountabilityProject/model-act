@@ -8,6 +8,12 @@ holds the mistakes; this page holds the story. subscribe to the raw feed:
 
 ---
 
+**17 aug 2026 · contributing brought under the same rule.** the contributing page
+still said "reviewed by anonymous professionals" and "anonymously is preferred" — the
+one surface the validation sweep missed. now it says what the rest of the repo says:
+catches anonymous forever, validation needs names. the swept claim is preserved in
+history, as is tradition.
+
 **17 aug 2026 · conformance pass 1.** the Q&A now obeys our own validation rule: the
 hostile review we survived was our own adversarial build, so we say so — issue-spotting
 isn't legal validation, and we need named reviewers now, not more anonymous redlines

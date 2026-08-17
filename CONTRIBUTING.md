@@ -1,12 +1,24 @@
-# Contributing (anonymously is fine. Anonymously is preferred.)
+# Contributing (anonymity welcome — and now, some names)
 
-This Act was drafted in the open by anonymous hands and reviewed by
-anonymous professionals. Yours can be next. No names, no credentials
-shown, no credit required — the text is public domain and the work is
+Two doors, honestly labelled.
+
+**Catches — anonymous is fine, anonymous is traditional.** A wrong
+citation, a broken cross-reference, an objection we haven't met: send
+it. No names, no credentials shown, no credit required — the work is
 judged the way the Act judges everything: on whether it survives
-checking.
+checking. Every catch lands in the errata ledger, and the first genuine
+one is acknowledged in the field notes.
 
-## Who we need
+**Validation — names required.** The adversarial review to date was
+built and answered in public, by this project's own hands and tools;
+under our own rule that is issue-spotting, not legal validation, and we
+say so out loud ([ERRATA.md](./ERRATA.md), [the Q&A](./dossier/05_questions_and_answers.md)).
+What the next phase needs is named reviewers: criminal counsel, and a
+five-seat review council with disclosed conflicts —
+[docs/08](./docs/08-behind-the-scenes.md) has the seats. Council names
+go on the provenance record; that is the point of them.
+
+## Who we need (the v4 work items)
 
 The READ FIRST page in the companion names the open items for v4, each
 with the kind of person who could close it:
