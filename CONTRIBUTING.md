@@ -33,6 +33,8 @@ three governors already signed.
 
 ## how
 
+- **prefer email?** llmaolaw@proton.me — links or pasted text only,
+  no attachments.
 - **open an issue.** burner accounts welcome; substance is identity
   here. one issue per finding. cite the section number and quote the
   words you are attacking.
