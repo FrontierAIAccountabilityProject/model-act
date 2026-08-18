@@ -7,6 +7,16 @@ holds the mistakes; this page holds the story. subscribe to the raw feed:
 [atom](https://github.com/llmaolaw/model-act/commits/main.atom).*
 
 ---
+
+**18 aug 2026 · the compiler note's warnings became citations.** the Q&A's wealth
+claims are now pinned: the thirtyfold (forbes 2020 → 2026, conservative), the top-20
+aggregate ($3.8T, more than all but ~5 national GDPs), the protest sentences (named:
+the M25 case, four and five years), the data-centre fight (named: south memphis vs
+unpermitted turbines). and one precision upgrade: prosecutors DO charge AI executives —
+for lying to investors (ten federal counts, april 2026). lying to shareholders has a
+statute; endangering the public still doesn't. that asymmetry is the whole argument,
+and now the page says so.
+
 **17 aug 2026 · why a real lawyer, explained.** behind-the-scenes now says in
 plain words what the ai layer is (legally nothing, by its own admission), what
 the council is (referees), and why named retained counsel is the missing piece: our

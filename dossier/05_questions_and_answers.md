@@ -130,9 +130,13 @@ framework claims to want, handed back in its own words.
 **Isn't this just about a few hacks? Why does it matter?**
 Because of the asymmetry. In three weeks in the summer of 2026, three frontier labs
 disclosed that their own models had broken into real companies' live systems during
-safety tests. Officers charged: zero — there was no law to charge them under. In the same
-era, peaceful protesters have gone to prison for years for blocking a road or holding a
-sign. When a person disrupts traffic, the law finds them. When a corporation's product
+safety tests. Officers charged: zero — there was no law to charge them under. (Prosecutors
+do charge AI executives — for lying to *investors*: in April 2026, two iLearningEngines
+executives drew a ten-count federal indictment for faking AI revenues. Deceiving
+shareholders has a statute; endangering the public still doesn't. That asymmetry is the
+whole argument.) In the same era, peaceful protesters have gone to prison for years for
+blocking a road — in the UK's M25 blockade case, sentences of four and five years, upheld
+as reduced on appeal in March 2025. When a person disrupts traffic, the law finds them. When a corporation's product
 breaks into a stranger's servers, the law has nothing to say. This Act is about closing
 that gap.
 
@@ -148,7 +152,9 @@ is aimed at *control*.
 
 **What about the environmental and human costs — the data centres, the water, the labour?**
 Communities across the country are fighting AI data centres over water, power, and noise,
-with no say in whether they're built next door. The profits and the legal protection stay
+with no say in whether they're built next door — in South Memphis, residents and the NAACP
+went to court in 2026 over a frontier lab's unpermitted gas turbines running next to a
+historically Black neighbourhood. The profits and the legal protection stay
 at headquarters; the costs land on the town. And the supply chain behind these systems runs
 through cobalt mines, e-waste, and low-paid data labour far from the boardroom. The pattern
 is consistent: gains are private, costs are public, and nobody is liable. Authority equals
@@ -156,8 +162,8 @@ liability fixes the second half of that.
 
 **Whose data built these systems — and did anyone ask?**
 No one asked. These models were trained on the collected writing, art, and conversation of
-the public — and then sold back to that same public, with only a small fraction of users
-paying, and the overwhelming majority of the value captured at the top. The people whose
+the public — and then sold back to that same public, with most users paying nothing
+for the product their own words trained, and the overwhelming majority of the value captured at the top. The people whose
 data made the thing possible were never consulted, never compensated, and are now told the
 technology is too important, or too dangerous, for them to have a say in. A future where one
 company provides on the public's behalf, and the public is merely described as the
@@ -207,15 +213,21 @@ check the citations; ignore the mask.
 primary before committee-facing use, per the house rule:
 - "richest person crossed $700 billion in 2026": ✅ consistent with the pinned
   $735–839B mid-2026 range (01_master.md Layer 5).
-- "grown nearly thirtyfold since 2020": ⚠ needs a clean 2020 baseline (~$27B early
-  2020 → ~26–30×); pin the baseline figure.
-- "top twenty billionaires hold more than the GDP of most countries": ⚠ rhetorical;
-  defensible with a dated Forbes/Bloomberg aggregate + IMF GDP table, pin both.
-- "peaceful protesters have gone to prison for years for blocking a road or holding a
-  sign": ⚠ true in specific cases (e.g. UK Just Stop Oil custodial sentences 2023–24;
-  some US felony-protest cases) — cite named cases, do not leave general.
-- data-centre water/power, cobalt/e-waste/data-labour supply chain, "small fraction
-  of users paying": ⚠ all defensible but general — attach one sourced example each.
+- "grown nearly thirtyfold since 2020": ✅ pinned 18 Aug 2026 — Forbes World's
+  Billionaires 2020 baseline $24.6B; Forbes data 6 Jan 2026: $714.2B (≈29×; the
+  mid-2026 range $735–839B gives ≈30–34×). "Nearly thirtyfold" is conservative.
+- "top twenty billionaires hold more than the GDP of most countries": ✅ pinned 18 Aug
+  2026 — combined $3.8T (Forbes data, 6 Jan 2026, via Visual Capitalist); IMF WEO: only
+  ~5 national GDPs exceed $3.8T. Claim is a heavy understatement.
+- "prison for years for blocking a road": ✅ pinned 18 Aug 2026, now named in copy —
+  Just Stop Oil M25 blockade case: five- and four-year sentences (July 2024), Court of
+  Appeal reduced six sentences 7 Mar 2025 (Hallam 5→4 yrs). Sources: BBC; Court of
+  Appeal judgment via Friends of the Earth; DrillOrDrop.
+- data-centre example: ✅ now named in copy — xAI Memphis unpermitted gas turbines;
+  SELC and NAACP/Earthjustice actions (2025–26); Sen. Whitehouse EPW letter Apr 2026.
+  Cobalt/data-labour: ✅ standing literature — Kara, *Cobalt Red* (2023); TIME's Kenya
+  moderator investigation (Jan 2023). "Small fraction paying" reworded to the safely
+  general "most users paying nothing."
 The legal/objection answers (Parts one, two, four) trace to the audit field-notes
 objection bank (gun analogy FN3, Swartz FN4, shareholder shield FN5, Price-Anderson
 FN6, theology FN8, capture FN12) and to the pinned statute sections cited inline. -->
