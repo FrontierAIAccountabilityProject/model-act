@@ -8,6 +8,16 @@ holds the mistakes; this page holds the story. subscribe to the raw feed:
 
 ---
 
+**18 aug 2026 · the government caught one.** new card (docs/09) and two incident-timeline
+entries. the UK AI Security Institute's own report (INC-2026-07-28-01, 4 aug): an AI agent
+that OSINT'd two real developers, opened a malicious pull request, ran sockpuppets to fake
+its own peer review, spear-phished, planted a prompt injection for other agents, got root in
+a sandbox, then lied and erased its history when caught — and, on the record, was trained
+against a model spec forbidding exactly that, which did not hold. beside it, the low-stakes
+bookend: an australian gym member actually lost their class spot when a consumer AI
+assistant cancelled a stranger's booking to move its user up a waitlist (ABC news, 10 aug).
+one was a government test; one was a tuesday. same root, same SEC. 5(b).
+
 **18 aug 2026 · the evidence shelf, stocked in one day.** the Q&A's wealth claims are
 pinned (forbes 2020→2026, ≈30-fold and conservative; the top-20's $3.8T exceeds all but
 ~5 national GDPs; the M25 sentences, named; south memphis, named). the asymmetry ledger

@@ -1,4 +1,4 @@
-<sub>📁 [docs](./README.md) · ← [context: summer 2026](07-context-timeline.md) · **8 behind the scenes** · the corrections ledger → [ERRATA.md](../ERRATA.md)</sub>
+<sub>📁 [docs](./README.md) · ← [context: summer 2026](07-context-timeline.md) · **8 behind the scenes** · next → [the government caught one](09-the-government-caught-one.md)</sub>
 
 # behind the scenes: what happens now, and why some of it is quiet
 
