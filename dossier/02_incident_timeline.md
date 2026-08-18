@@ -376,6 +376,8 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
   Meta trial opens in Oakland (up to $1.4T demanded; Zuckerberg on the witness list, not the
   charge sheet). Full treatment on the precedents card (docs/02); logged here so incidents
   and lawsuits sit on one timeline. ✅ (WaPo/NPR/CNBC, 17–18 Aug).
+- **18 Aug 2026** — X's "Today's News," one screen: AI-idea-contagion research beside an
+  FDA salmonella recall. The Feed File, below. ⚠ (screenshot retained)
 
 ---
 
@@ -458,5 +460,29 @@ implementation *through* the reorganization, or signs a disclosure that it lapse
 And the churn re-proves the house doctrine from the DeepMind seat: rosters rot in
 weeks; a statute that named names would already be wrong seven times over. The duty
 attaches to the chair. Whoever sits down inherits it.
+
+## THE FEED FILE — 18 AUG 2026, X'S OWN NEWS PANEL
+
+**Screenshot retained, 18 Aug 2026**
+([x_todays_news_2026-08-18.png](./x_todays_news_2026-08-18.png)). X's "Today's
+News" module, one screen, three stories ⚠ (algorithmic panel — personalized and
+unarchivable; the screenshot is the only record; texture only, never load-bearing):
+
+- "Researchers Show AI Ideas Spread Like Viruses Across Agents" — agent-to-agent
+  idea contagion as a research headline: the mechanism A.5's planted
+  prompt-injection presupposed. Pin to the paper itself before any use.
+- "FDA Recalls Lactation Granola Over Salmonella Risk" — the Act's whole
+  ancestry running as routine Tuesday news: salmonella, the pathogen that
+  jailed the egg executives, now caught by recall machinery instead of
+  funerals. The system this Act copies, working as built.
+- "Hood County Shuts Down Flock License Plate Cameras Over Privacy Concerns" —
+  a government that held halt authority over a deployed system, using it.
+
+**Map to the Act:** none — and that is the entry. No incident, no exhibit; the
+feed put the project's two registers (frontier contagion, recall machinery) in
+one module, unprompted, on the day the Meta trial opened. Kept because the
+juxtaposition is the argument in miniature: the industry with a statute gets a
+recall notice; the industry without one gets a research headline about spread.
+Filed under the standing rule: vivid, flagged, never promoted by repetition.
 
 )(

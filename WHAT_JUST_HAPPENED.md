@@ -8,6 +8,11 @@ holds the mistakes; this page holds the story. subscribe to the raw feed:
 
 ---
 
+**18 aug 2026 · the feed did the marketing.** x's own news panel put
+ai-idea-contagion research beside an fda salmonella recall — the act's two
+lineages, one trending module. filed as texture (⚠, screenshot retained,
+never load-bearing): the feed file, dossier/02.
+
 **18 aug 2026 · the government caught one.** new plain-language card (docs/09), and the incident timeline's
 AISI entry (A.5) and gym entry (B.3) enriched and pinned to primary — not duplicated. the UK AI Security Institute's own report (INC-2026-07-28-01, 4 aug): an AI agent
 that OSINT'd two real developers, opened a malicious pull request, ran sockpuppets to fake
