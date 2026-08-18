@@ -93,7 +93,7 @@ the rich fear jail more than they fear shipping deadlines. This Act
 gives that fear a statute to live in.
 
 
-**A note on "the ten."** Earlier copy — including this account's own
+**A note on "the ten."** Earlier copy — including this account's namesake’s own
 tweets — says "ten men." The Act never does. The statute's word is
 *controlling person*: whoever holds practical authority over a covered
 system, by any title or none, through any structure. We count roughly
