@@ -137,7 +137,14 @@ shareholders has a statute; endangering the public still doesn't. That asymmetry
 whole argument.) In the same era, peaceful protesters have gone to prison for years for
 blocking a road — in the UK's M25 blockade case, sentences of four and five years, upheld
 as reduced on appeal in March 2025. When a person disrupts traffic, the law finds them. When a corporation's product
-breaks into a stranger's servers, the law has nothing to say. This Act is about closing
+breaks into a stranger's servers, the law has nothing to say. The pattern is fractal:
+MegaUpload's piracy earned a dawn raid, helicopters, four arrests, and an indictment
+counting $175 million in proceeds; training on the collected works of everyone has so
+far earned civil dockets and settlements paid from the balance sheet. Individuals get
+handcuffs; corporations get invoices. Even the reckonings prove it: in the states'
+$1.4 trillion trial over Instagram's harms to children — opened 18 August 2026 — the
+founder appears on the witness list, not the charge sheet. The largest demand in tech
+history, and zero days of personal jeopardy on the table. This Act is about closing
 that gap.
 
 **How concentrated is the wealth, really?**
@@ -228,6 +235,10 @@ primary before committee-facing use, per the house rule:
   Cobalt/data-labour: ✅ standing literature — Kara, *Cobalt Red* (2023); TIME's Kenya
   moderator investigation (Jan 2023). "Small fraction paying" reworded to the safely
   general "most users paying nothing."
+- MegaUpload contrast: ✅ pinned 18 Aug 2026 — DOJ press release (charges; $175M
+  alleged proceeds); ABC News, 21 Jan 2012 (raid scale, arrests).
+- Meta trial: ✅ pinned 18 Aug 2026 — Washington Post 17 Aug; NPR/CNBC 17–18 Aug
+  (trial open, four AGs, up to $1.4T, Zuckerberg on witness list; NM $942M prior).
 The legal/objection answers (Parts one, two, four) trace to the audit field-notes
 objection bank (gun analogy FN3, Swartz FN4, shareholder shield FN5, Price-Anderson
 FN6, theology FN8, capture FN12) and to the pinned statute sections cited inline. -->

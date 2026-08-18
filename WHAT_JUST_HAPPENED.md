@@ -8,14 +8,20 @@ holds the mistakes; this page holds the story. subscribe to the raw feed:
 
 ---
 
-**18 aug 2026 · the compiler note's warnings became citations.** the Q&A's wealth
-claims are now pinned: the thirtyfold (forbes 2020 → 2026, conservative), the top-20
-aggregate ($3.8T, more than all but ~5 national GDPs), the protest sentences (named:
-the M25 case, four and five years), the data-centre fight (named: south memphis vs
-unpermitted turbines). and one precision upgrade: prosecutors DO charge AI executives —
-for lying to investors (ten federal counts, april 2026). lying to shareholders has a
-statute; endangering the public still doesn't. that asymmetry is the whole argument,
-and now the page says so.
+**18 aug 2026 · the evidence shelf, stocked in one day.** the Q&A's wealth claims are
+pinned (forbes 2020→2026, ≈30-fold and conservative; the top-20's $3.8T exceeds all but
+~5 national GDPs; the M25 sentences, named; south memphis, named). the asymmetry ledger
+gained exhibits: AI executives indicted for lying to investors — ten federal counts,
+april 2026 — while endangering the public stays uncharged; megaupload's handcuffs vs
+training-data invoices; meta's $1.4 trillion trial, where the founder appears as a
+witness, not a defendant. the incident file gained the andon firing, pinned version:
+the model recommended a warning, humans steered the termination, headlines blamed the
+model — SEC. 4 in one anecdote. and the open-letters file gained the researchers'
+record: july 2025's CoT-fragility paper (forty industry names, verbs "recommend" and
+"consider") and feb 2026's "agents of chaos" (independent academics documenting the
+agentic layer's failures and requesting, in so many words, exactly this project).
+three viral claims died in verification today. the pinned versions were stronger
+every time. that is the house working as built.
 
 **17 aug 2026 · why a real lawyer, explained.** behind-the-scenes now says in
 plain words what the ai layer is (legally nothing, by its own admission), what

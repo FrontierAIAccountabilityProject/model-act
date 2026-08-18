@@ -22,6 +22,8 @@ it's called the park doctrine (*US v. Park*, 1975). it's been law since 1975. it
 
 they'll pay billions to dodge the one thing that scares them: personal liability.
 
+2026: the sequel. seven years after facebook allegedly paid $5 billion — 50x its own lawyers' estimate — to keep zuckerberg's name off an FTC complaint, four state AGs put him on a witness list. the oakland trial (opened 18 aug 2026, before the same judge who heard musk v. openai) demands up to $1.4 trillion — nearly the company's entire value — for designing products to addict minors while assuring parents they were safe. 29 states have sued; new mexico already won $942 million plus court-ordered design changes. and notice what even this reckoning cannot do: every dollar demanded is the company's. the founder testifies as a witness, not a defendant, because no statute reaches the person. that's not a gap in the outrage. it's a gap in the law. (washington post, 17 aug 2026; npr, cnbc, 17–18 aug 2026)
+
 ## the piracy receipts: same act, different tax bracket
 
 **piracy is a crime. unless you do it at scale.** download one movie: fines, lawyers, maybe prison. download 7 million pirated books to build a chatbot: a settlement, a press release, and a bigger valuation.

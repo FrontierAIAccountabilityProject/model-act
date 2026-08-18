@@ -375,4 +375,22 @@ summary-era details fell against primary (16-Jul "detection," the research-netwo
 lateral move, the New-York company), and one improved on pinning (the models *refused*
 the forensics; no filter did the blocking).
 
+## THE DELEGATION FILE — 14 AUG 2026, ANDON MARKET
+
+**Reported 14 Aug 2026** ✅ (TIME exclusive, 14 Aug; SF Standard, 17 Aug). At Andon
+Market (San Francisco) — the Andon Labs experiment placing Claude in managerial charge
+of a store — a worker late on 17 of 23 shifts was terminated. The viral claim ("first
+human fired by AI") **fails the pin**: per TIME, the model recommended a formal
+warning; a staffer's leading question and the human manager's intervention produced
+the firing, which required human approval. The machine was lenient; the humans
+supplied the outcome; the headlines blamed the machine. **Map to the Act:**
+accountability laundering — authority wearing a tool as a mask — is the pattern
+SEC. 4 exists for: substance controls over title, and delegation to a committee, a
+contractor, or a model does not divest (SEC. 4(c)). Texture, kept for flavor: the
+store ran $100,000 → $61,186 in five months under "lenient management" ✅ (TIME) —
+the model's failing was insufficient ruthlessness, supplied on request by people.
+Pending contrast: CA SB 947 (McNerney), the "No Robo Bosses Act of 2026," would
+require human oversight for automated firing decisions — oversight this firing *had*.
+Tools regulated; authority untouched; that gap is this Act's whole subject.
+
 )(
