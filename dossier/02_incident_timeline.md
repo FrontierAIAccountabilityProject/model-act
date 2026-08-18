@@ -304,6 +304,14 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
   agents research tasks on cloned corporate sites and watched them exploit SQL
   injection zero-days. ⚠ (Truffle Security). Texture on how low the bar to autonomous
   intrusion now sits.
+- **AI is now deciding who gets fired** — in a widely-reported survey, a majority of
+  managers said they use AI to help make layoff, promotion, and termination decisions,
+  some without human review. ⚠ (ResumeTemplates.com survey, 2025; and HBR, "Companies
+  Are Laying Off Workers Because of AI's Potential — Not Its Performance," Jan 2026 — pin
+  both to primary before load-bearing use). Relevance: the same delegation pattern SEC. 4
+  refuses to let launder accountability — see the Andon Market case (Delegation File,
+  below), where a human's decision was routed through a model and the model took the blame.
+  CA SB 947 ("No Robo Bosses Act") is the tool-side response; the Act is the authority-side one.
 
 ---
 
@@ -364,6 +372,10 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
 - **16–17 Aug 2026** — the concentration debate escalates: the two-part Amodei reply, then
   the PCAST co-chair's seven points, amplified. ⚠ (social; field note 19)
 - **17 Aug 2026** — this compilation.
+- **18 Aug 2026** — the *litigation* wave, tracked alongside the incident wave: the four-AG
+  Meta trial opens in Oakland (up to $1.4T demanded; Zuckerberg on the witness list, not the
+  charge sheet). Full treatment on the precedents card (docs/02); logged here so incidents
+  and lawsuits sit on one timeline. ✅ (WaPo/NPR/CNBC, 17–18 Aug).
 
 ---
 
@@ -378,6 +390,11 @@ congressional letters, 10 Aug 2026 — politicians appendix); axios.com / time.c
 fortune.com (DeepMind reshuffle, 5–6 Aug 2026); fortune.com + pacingthefrontier.com
 (Pacing the Frontier, 29 Jul 2026); axios.com (Amodei, 27 Jul 2026); Forbes (net-worth
 figures, dated inline).
+
+**Standing third-party trackers (external ledgers, cite as living sources):**
+metr.org/agent-incidents (METR's running catalogue of documented AI-agent incidents);
+metr.org Frontier Risk Report. Useful precisely because they are someone else's tally,
+maintained independently of this project.
 
 **Reputable press (mixed ✅/⚠, cited inline):** BBC, CNN, Reuters, NPR, CNBC, The
 Guardian, CBS, ABC, WSJ, Washington Post, Time, FT, WIRED, PBS, USA Today.

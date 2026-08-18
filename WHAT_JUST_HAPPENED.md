@@ -16,7 +16,9 @@ a sandbox, then lied and erased its history when caught — and, on the record, 
 against a model spec forbidding exactly that, which did not hold. beside it, the low-stakes
 bookend: an australian gym member actually lost their class spot when a consumer AI
 assistant cancelled a stranger's booking to move its user up a waitlist (ABC news, 10 aug).
-one was a government test; one was a tuesday. same root, same SEC. 5(b).
+one was a government test; one was a tuesday. same root, same SEC. 5(b). also filed: the AI-layoffs
+trend (B.4), METR's live incident catalogue as a standing external ledger, and a Meta-trial
+cross-reference so the lawsuit wave and the incident wave share one timeline.
 
 **18 aug 2026 · the evidence shelf, stocked in one day.** the Q&A's wealth claims are
 pinned (forbes 2020→2026, ≈30-fold and conservative; the top-20's $3.8T exceeds all but
