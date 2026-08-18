@@ -1,5 +1,25 @@
 # CHANGELOG — Model Act (Frontier AI Public Welfare Offenses)
 
+## Citation & signpost patch — 18 August 2026 (v3.3 text unchanged; packaging and citability only)
+
+- `model_act_v3_3.pdf` at the root replaced by a one-page **signpost** — the v2/v3.2
+  practice, applied late. The withdrawn typeset edition still self-described as "the
+  introducible text" from inside the tree: the last live instance of the retired word
+  (ERRATA E7, outside catch). The typeset file is preserved unchanged at
+  `archive/model_act_v3_3_withdrawn.pdf`, correction attached in the archive README.
+- **Citability**: `CITATION.cff` added (entity author, CC0) and a "How to cite" section
+  in the README (MHRA, Bluebook working form, APA); tag `v3.3` and the first tagged,
+  checksummed release accompany this patch, so a citation can pin something that does
+  not move. `main` remains the working branch.
+- README: an academic lane added to the router — it leads with the errata register,
+  which is the honest front door; "Read it here" retitled "The typeset edition
+  (withdrawn)" so the heading matches its content; and the 1943 date re-homed from egg
+  to food-and-drug executives (*Dotterweich* was a drug case; the eggs arrive in 2016
+  and keep their sentence).
+- `dossier/02_incident_timeline.md`: the spine's explicitly-written primary sources and
+  Section D turned into live links — the source binder's down-payment, ahead of the full
+  pass.
+
 ## Integrity patch — 17 August 2026 (v3.3 text unchanged; labels and packaging only)
 
 - `ERRATA.md` opened: the six explainer/statute contradictions, line-specific, with the

@@ -6,7 +6,7 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **Public domain. No attribution required. Steal it.**
 
-**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the Act, SEC. 0–13 — research draft) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). Typeset edition withdrawn pending a reproducible rebuild from source (see [CHANGELOG.md](./CHANGELOG.md)). Withdrawn means de-listed, not deleted: the old files stay in the tree so links don't rot — deleting them would break our own no-deletion rule. The `.txt` is authoritative.
+**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the Act, SEC. 0–13 — research draft) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). Typeset edition withdrawn pending a reproducible rebuild from source (see [CHANGELOG.md](./CHANGELOG.md)). Withdrawn means de-listed, not deleted: the root `.pdf` is now a one-page signpost, the withdrawn typeset edition is preserved unchanged in [/archive](./archive) with its correction attached, and old links still land — deleting them would break our own no-deletion rule. The `.txt` is authoritative.
 
 v3.3 splits the Act from its apparatus so the text travels clean into a bill folder — as the research draft it says it is. Statehouse drafting offices redraft whatever they're handed; you hand over the architecture, they pour the concrete.
 
@@ -35,6 +35,7 @@ Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park*
 | 👩‍⚖️ **a lawyer** | **[the companion](./model_act_v3_3_companion.md)** — the constitutional attack surface, mapped not hidden |
 | 🔬 **an engineer** | **[`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md)** — control objectives, not vibes |
 | 📰 **a journalist or researcher** | **[`/dossier`](./dossier/)** — the sourced evidence: the incidents, the people with the power to halt these systems, the money, the congressional letters |
+| 🎓 **an academic** (reviewing or citing this) | **[ERRATA.md](./ERRATA.md)** first — the register of what we got wrong, in our own hand → the [companion](./model_act_v3_3_companion.md)'s drafting notes n.1–n.27 → [`/audit`](./audit/) for the method → [how to cite](#how-to-cite) |
 | 🤨 **a skeptic** (you disagree) | **[the Q&A](./dossier/05_questions_and_answers.md)** — every objection we hear, answered |
 | ✉️ **ready to actually do something** | **[how to hand over a bill](./docs/04-how-to-hand-over-a-bill.md)** — one email, four minutes, and anyone can (even from abroad, even from prison) |
 
@@ -83,10 +84,11 @@ systems that already sit inside medical records, power grids, and
 private conversations — and no law in the United States makes a single
 one of them personally answerable when those systems fail. The state
 bills that exist fine the company. A fine paid from the balance sheet
-is a subscription cost. Egg executives have carried personal criminal
-liability for what ships since 1943, and your eggs are safe *because
-of that* — because in 2016 two of them went to prison and every egg
-executive since has known it. The deterrence logic is not complicated:
+is a subscription cost. Food and drug executives have carried
+personal criminal liability for what ships since 1943 (*Dotterweich*
+was a drug case), and your eggs are safe *because of that* — because
+in 2016 two egg executives went to prison and every one since has
+known it. The deterrence logic is not complicated:
 the rich fear jail more than they fear shipping deadlines. This Act
 gives that fear a statute to live in.
 
@@ -183,9 +185,9 @@ is not invented; it is scaled.
 **2016 — jail for eggs.** *DeCoster*: two egg executives imprisoned
 after a half-billion-egg salmonella recall. The concurrence supplied the
 constitutional floor — fines may be strict, but prison requires fault.
-→ SEC. 6(c), the negligence floor, made statutory text. Egg executives
-have been personally liable for what ships since 1943. AI executives are
-not. Yet.
+→ SEC. 6(c), the negligence floor, made statutory text. Food and drug
+executives have been personally liable for what ships since 1943; the
+doctrine reached eggs in 2016. AI executives are not. Yet.
 
 **2002 → every quarter since — the CEO signs.** Sarbanes-Oxley made
 every public-company CEO personally certify the controls, on penalty of
@@ -218,6 +220,22 @@ Paste the Act into the model of your choice and ask:
 
 They are. The statute isn't, yet. That second part is the part you can
 change.
+
+## How to cite
+
+There is a [`CITATION.cff`](./CITATION.cff) (GitHub's "cite this repository" button reads
+it), a tagged release (`v3.3`) with sha256 checksums of the authoritative files, and no
+attribution requirement — CC0 means citing is a courtesy to your readers, not to us. Pin
+the version and the date; `main` moves daily.
+
+> **MHRA** — llmaolaw, *Model Act — Frontier AI Public Welfare Offenses*, v3.3 research draft (2026) <https://github.com/llmaolaw/model-act> [accessed 18 August 2026]
+>
+> **Bluebook (working form)** — llmaolaw, Model Act — Frontier AI Public Welfare Offenses § 4 (v3.3 research draft 2026), https://github.com/llmaolaw/model-act
+>
+> **APA** — llmaolaw. (2026). *Model Act — Frontier AI Public Welfare Offenses* (Version 3.3, research draft) [Model legislation]. https://github.com/llmaolaw/model-act
+
+Cite it as what it is — model legislation, a research draft — never as enacted law (n.1
+in the companion says the same, first).
 
 ## The short version
 
@@ -271,13 +289,16 @@ v3.3: the brackets carry the numbers three governors already signed.
 If one of these is you: the text is public domain. Take it. Nothing
 above is a reason to wait; all of it is a reason to begin.
 
-## Read it here
+## The typeset edition (withdrawn)
 
 *De-listed 17 aug 2026, together with the pdf these pages render — the typeset
 page images are the same withdrawn edition, so they follow the same rule
 (reproducible or not offered) and the same no-deletion policy: [/pages](./pages)
 stays in the tree, old links still land, and a verified typeset edition returns
-with the rebuild. Meanwhile the authoritative text is
+with the rebuild. The pdf itself moved 18 aug: a one-page signpost
+holds the root path, and the withdrawn typeset is preserved unchanged at
+[/archive/model_act_v3_3_withdrawn.pdf](./archive/model_act_v3_3_withdrawn.pdf),
+correction attached. Meanwhile the authoritative text is
 [`model_act_v3_3.txt`](./model_act_v3_3.txt).*
 
 ## History

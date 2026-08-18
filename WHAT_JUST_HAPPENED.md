@@ -13,6 +13,19 @@ ai-idea-contagion research beside an fda salmonella recall — the act's two
 lineages, one trending module. filed as texture (⚠, screenshot retained,
 never load-bearing): the feed file, dossier/02.
 
+**18 aug 2026 · the file that missed the memo.** an outside reader ran a link-checker
+over the whole tree — 160 internal links, 35 files, zero broken; the house held — and then
+opened the one file the integrity patch forgot to read from the inside: the withdrawn pdf,
+still introducing itself as "the introducible text" at the repository root. the swear jar
+collects from our own typeset edition. fixed the v2/v3.2 way — signpost at the old path,
+the typeset preserved in /archive with its correction attached (ERRATA E7). and since the
+academics are visiting, the door got numbers: CITATION.cff, a how-to-cite block (MHRA,
+bluebook, APA — pick your tribe), tag v3.3 and the first checksummed release, and an
+academic lane in the router that leads with the errata register, because that is the
+honest front door. the dossier's source list became actual links. also corrected: 1943
+belongs to food-and-drug executives (*dotterweich* was a drug case); the eggs arrive in
+2016 and keep their sentence. the eggs remain undefeated — merely re-dated.
+
 **18 aug 2026 · the government caught one.** new plain-language card (docs/09), and the incident timeline's
 AISI entry (A.5) and gym entry (B.3) enriched and pinned to primary — not duplicated. the UK AI Security Institute's own report (INC-2026-07-28-01, 4 aug): an AI agent
 that OSINT'd two real developers, opened a malicious pull request, ran sockpuppets to fake

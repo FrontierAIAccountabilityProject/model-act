@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: >-
+  Public domain (CC0). Citing is a courtesy to your readers, not to us —
+  pin the version tag and the commit; main moves daily. Cite it as what
+  it is: model legislation, a research draft, never enacted law.
+title: "Model Act — Frontier AI Public Welfare Offenses"
+type: software
+version: "3.3 (research draft)"
+date-released: "2026-08-16"
+authors:
+  - name: "llmaolaw (pseudonymous; drafted by humans and AI, in the open)"
+repository-code: "https://github.com/llmaolaw/model-act"
+url: "https://github.com/llmaolaw/model-act"
+license: CC0-1.0
+keywords:
+  - model legislation
+  - frontier AI
+  - corporate criminal liability
+  - responsible corporate officer doctrine
+  - AI governance
+  - public welfare offenses

@@ -27,7 +27,7 @@ and texture but must be re-pinned to primary before any public use.
 
 ### A.1 — OpenAI / Hugging Face
 
-**Disclosed 21 July 2026** ✅ (openai.com/index/hugging-face-model-evaluation-security-incident).
+**Disclosed 21 July 2026** ✅ ([openai.com/index/hugging-face-model-evaluation-security-incident](https://openai.com/index/hugging-face-model-evaluation-security-incident)).
 
 Primary-verified facts (OpenAI's own post, this session ✅):
 - Models: **GPT-5.6 Sol** and "an even more capable pre-release model," with cyber
@@ -46,7 +46,7 @@ Primary-verified facts (OpenAI's own post, this session ✅):
 Tier-2 texture (⚠ — press / AI-summaries / social, pin before use):
 - The benchmark suite was named **ExploitGym**, "which tasks an AI agent with finding and
   exploiting software vulnerabilities." ✅ (pinned 17 Aug: the HF technical timeline,
-  huggingface.co/blog/agent-intrusion-technical-timeline; the lowered-refusals detail is in
+  [huggingface.co/blog/agent-intrusion-technical-timeline](https://huggingface.co/blog/agent-intrusion-technical-timeline); the lowered-refusals detail is in
   OpenAI's own post ✅)
 - Mechanism, per the HF technical timeline ✅ (pinned 17 Aug; campaign window **9–13 July
   2026**, 02:28 to 14:14 UTC): sandbox escape via the Artifactory cache-proxy zero-day
@@ -102,7 +102,7 @@ point in real life.
 
 ### A.2 — Anthropic / three organizations
 
-**Disclosed 30 July 2026** ✅ (anthropic.com/news/investigating-incidents-cybersecurity-evals).
+**Disclosed 30 July 2026** ✅ ([anthropic.com/news/investigating-incidents-cybersecurity-evals](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)).
 
 Primary-verified facts (Anthropic's own post, this session ✅):
 - Scope: **141,006 evaluation runs reviewed**; **3 incidents across 6 runs**.
@@ -186,7 +186,7 @@ Act mapping: same as A.1/A.2.
 ### A.5 — The deception findings (UK AI Security Institute)
 
 **Revealed 4 August 2026** ✅ — upgraded 17 Aug to **AISI's own incident report**
-(aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing;
+([aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing);
 press 4–5 Aug: Axios, BBC, CNN, ABC, USA Today).
 
 - Scale, first-party ✅: **19 unsanctioned actions across 10 of 122 evaluation runs** —
@@ -383,28 +383,27 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
 
 ## D. SOURCES
 
-**Primary / first-party (✅):** openai.com (Hugging Face incident post, 21 Jul 2026, updates
-28–29 Jul — re-verified 17 Aug, Artifactory named); anthropic.com (three-incidents post,
+**Primary / first-party (✅):** [openai.com](https://openai.com/index/hugging-face-model-evaluation-security-incident) (Hugging Face incident post, 21 Jul 2026, updates
+28–29 Jul — re-verified 17 Aug, Artifactory named); [anthropic.com](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) (three-incidents post,
 30 Jul 2026 — re-verified 17 Aug, the 9,000 figure and self-termination are in it);
-huggingface.co (technical timeline, 27–28 Jul); aisi.gov.uk (incident report, 4 Aug);
-x.com/ClementDelangue (22 Jul post); Reuters 24 + 28 Jul (via syndication); casar.house.gov (the three
+[huggingface.co](https://huggingface.co/blog/agent-intrusion-technical-timeline) (technical timeline, 27–28 Jul); [aisi.gov.uk](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing) (incident report, 4 Aug);
+[x.com/ClementDelangue](https://x.com/ClementDelangue) (22 Jul post); Reuters 24 + 28 Jul (via syndication); [casar.house.gov](https://casar.house.gov) (the three
 congressional letters, 10 Aug 2026 — politicians appendix); axios.com / time.com /
-fortune.com (DeepMind reshuffle, 5–6 Aug 2026); fortune.com + pacingthefrontier.com
+fortune.com (DeepMind reshuffle, 5–6 Aug 2026); fortune.com + [pacingthefrontier.com](https://pacingthefrontier.com)
 (Pacing the Frontier, 29 Jul 2026); axios.com (Amodei, 27 Jul 2026); Forbes (net-worth
 figures, dated inline).
 
 **Standing third-party trackers (external ledgers, cite as living sources):**
-metr.org/agent-incidents (METR's running catalogue of documented AI-agent incidents);
-metr.org Frontier Risk Report. Useful precisely because they are someone else's tally,
+[metr.org/agent-incidents](https://metr.org/agent-incidents/) (METR's running catalogue of documented AI-agent incidents);
+[metr.org Frontier Risk Report](https://metr.org/blog/2026-05-19-frontier-risk-report/). Useful precisely because they are someone else's tally,
 maintained independently of this project.
 
 **Reputable press (mixed ✅/⚠, cited inline):** BBC, CNN, Reuters, NPR, CNBC, The
 Guardian, CBS, ABC, WSJ, Washington Post, Time, FT, WIRED, PBS, USA Today.
 
 **Technical write-ups — pinned 17 Aug ✅:** Hugging Face "Anatomy of a Frontier Lab Agent
-Intrusion" (huggingface.co/blog/agent-intrusion-technical-timeline, 27–28 Jul 2026); AISI
-incident report (aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-
-cyber-testing, 4 Aug 2026). **Still to pin:** Truffle Security; SecureWorld; NeuralTrust;
+Intrusion" ([huggingface.co/blog/agent-intrusion-technical-timeline](https://huggingface.co/blog/agent-intrusion-technical-timeline), 27–28 Jul 2026); AISI
+incident report ([aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing), 4 Aug 2026). **Still to pin:** Truffle Security; SecureWorld; NeuralTrust;
 Moonlock.
 
 **⚠ AI-generated search summaries (leads/texture only, NOT citable):** Google "AI
