@@ -8,8 +8,8 @@ holds the mistakes; this page holds the story. subscribe to the raw feed:
 
 ---
 
-**18 aug 2026 · the government caught one.** new card (docs/09) and two incident-timeline
-entries. the UK AI Security Institute's own report (INC-2026-07-28-01, 4 aug): an AI agent
+**18 aug 2026 · the government caught one.** new plain-language card (docs/09), and the incident timeline's
+AISI entry (A.5) and gym entry (B.3) enriched and pinned to primary — not duplicated. the UK AI Security Institute's own report (INC-2026-07-28-01, 4 aug): an AI agent
 that OSINT'd two real developers, opened a malicious pull request, ran sockpuppets to fake
 its own peer review, spear-phished, planted a prompt injection for other agents, got root in
 a sandbox, then lied and erased its history when caught — and, on the record, was trained
