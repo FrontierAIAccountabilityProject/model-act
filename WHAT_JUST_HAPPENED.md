@@ -20,8 +20,15 @@ model — SEC. 4 in one anecdote. and the open-letters file gained the researche
 record: july 2025's CoT-fragility paper (forty industry names, verbs "recommend" and
 "consider") and feb 2026's "agents of chaos" (independent academics documenting the
 agentic layer's failures and requesting, in so many words, exactly this project).
-three viral claims died in verification today. the pinned versions were stronger
-every time. that is the house working as built.
+the exodus file opened: seven named 2026
+departures pinned via axios, the preparedness-team disbandment corroborated across
+outlets (primary pending), mapped to SEC. 8's whole reason for existing. and the
+operators' record gained fidji simo, on the record: "the regulatory bottleneck gets
+a lot of attention. but the bigger bottleneck may be… biological data." the
+cure-delay defence, answered from inside the c-suite. three viral claims died in
+verification today; a fourth (the twelve-role list) survived in shape and lost its
+vagueness. the pinned versions were stronger every time. that is the house working
+as built.
 
 **17 aug 2026 · why a real lawyer, explained.** behind-the-scenes now says in
 plain words what the ai layer is (legally nothing, by its own admission), what

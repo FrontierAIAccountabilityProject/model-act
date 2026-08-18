@@ -267,4 +267,20 @@ including exactly those; why SEC. 5(b) reaches autonomous external access operat
 without the prescribed controls; and why the records offenses assume the report and
 the reality can disagree.
 
+**17 Aug 2026 — Fidji Simo, on the record against the cure-delay defence** ✅
+(x.com/fidjissimo, 9:00 PM 17 Aug 2026, 188K+ views; her post — archive before
+citing publicly). OpenAI's departing number two (per Axios 14 Aug: left in July,
+remains an advisor; title accordingly in transition), endorsing Amodei: "saying
+that AI will cure cancer is more a cliché than it is inspiring… The thing that
+will work is actually curing cancer." Then the sentence that matters for the
+objection bank: **"The regulatory bottleneck gets a lot of attention. But the
+bigger bottleneck may be that in many places, we're lacking the right biological
+data."** **Map to the Act:** the industry's standing objection — accountability
+delays cures — answered from inside the industry's own C-suite, by name: the
+binding constraint is data infrastructure, not regulation. Pair with the
+pre-debunked excuses card (docs/03): pharma, banking, and aviation carry officer
+liability and still exist; now OpenAI's own applications chief says the bottleneck
+was never the rules. The Act regulates the man, not the math — and per Simo, the
+math wasn't the holdup either.
+
 )(

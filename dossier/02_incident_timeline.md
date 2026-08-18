@@ -393,4 +393,29 @@ Pending contrast: CA SB 947 (McNerney), the "No Robo Bosses Act of 2026," would
 require human oversight for automated firing decisions — oversight this firing *had*.
 Tools regulated; authority untouched; that gap is this Act's whole subject.
 
+## THE EXODUS FILE — 2026 DEPARTURES AND THE PREPAREDNESS QUESTION
+
+**Pinned 18 Aug 2026.** Axios (14 Aug 2026) ✅: OpenAI's 2026 departures include
+Denise Dresser (Chief Revenue Officer, out within a year), Brad Lightcap (COO,
+announced the same week), Fidji Simo (Altman's number two; departed July, stays as
+advisor), Chloé Bakalar (Head of Ethics, under a year), Johannes Heidecke (Head of
+Safety Systems), Joshua Achiam (Chief Futurist, formerly Head of Mission Alignment),
+and Sandhini Agarwal (AI safety team lead, July) — framed by Axios as a pre-IPO
+leadership refresh, with safety and alignment teams "undergoing reorganization amid
+reports of models escaping sandboxes and hacking third-party systems." The viral
+twelve-role list circulating 18 Aug ⚠ is corroborated in count and shape but is a
+role list without names — individual pins above stand; the remainder await the next
+cite-check pass. **Multiple secondaries** (Analytics Insight; Startup Fortune;
+TechTimes, 17 Aug) report the **Preparedness team disbanded ahead of the IPO** ⚠ —
+corroborated across outlets, primary (an OpenAI statement) still to pin.
+
+**Map to the Act:** the summer's sequence, in one file — incidents run (the spine,
+above), the function built to assess catastrophic risk is reorganized away ⚠, and
+revenue reaches $40B (TechTimes framing, flagged as framing). SEC. 8's certification
+exists for exactly this seam: someone with a name signs for the framework's
+implementation *through* the reorganization, or signs a disclosure that it lapsed.
+And the churn re-proves the house doctrine from the DeepMind seat: rosters rot in
+weeks; a statute that named names would already be wrong seven times over. The duty
+attaches to the chair. Whoever sits down inherits it.
+
 )(
