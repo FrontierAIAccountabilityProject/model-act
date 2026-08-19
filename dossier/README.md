@@ -1775,6 +1775,46 @@ argument that survives a smart opponent is worth more than one that was never te
 
 ## Part one — what the Act actually does
 
+**18 Aug 2026 — the research arm, doubled in a day** ⚠ *(companion to the entry
+above; second of a same-day pair).* Hours around the hire recorded above, a second
+announcement: a constitutional-law professor (University of Minnesota, on leave;
+formerly of the U.S. Department of Justice; a contributing editor of a leading
+national-security law publication) joins the same laboratory "researching AI and
+the rule of law at the Anthropic Institute" (X status of 18 Aug 2026, 14:50,
+76.5K views at capture; URL and archived copy pending ⚠). The destination unit is
+documented: the Anthropic Institute, launched March 2026 as an externally-facing
+research organization within the laboratory
+(anthropic.com/news/the-anthropic-institute, accessed 19 Aug 2026 ✅), whose AI &
+Rule of Law team is led by a former DeepMind research director now resident at
+Yale Law School, and whose published hiring mandate includes mapping "questions
+of liability, agency, and institutional authority" (Anthropic role listing,
+accessed 19 Aug 2026 ✅). The Institute's self-description, verbatim: "We don't
+just study AI from the outside. We study it from within."
+
+Three structural observations, no motives attributed. *First*, scale and speed:
+a frontier laboratory's internal unit for studying the rule of law absorbed two
+senior legal scholars in a single day, at compensation the published listings
+place between $295,000 and $485,000 — the study of AI accountability is being
+staffed, generously, from inside the entities that would bear it. *Second*, the
+remit: "questions of liability" now appear, in the laboratory's own words, as an
+internal research object. The Act's premise is the inverse of the Institute's
+motto — that research may be conducted from within, but responsibility cannot be
+located there; a duty owed to the public is defined by the public's law, not by
+the obligor's study of it. Where that internal work produces genuine safety
+knowledge, SEC. 3's standards process is the door through which it becomes
+binding on everyone; where it produces only framing, SEC. 8 still requires a
+named natural person to sign. *Third*, the venue: these appointments, like the
+training pause in chapter 02, were announced as personal posts on X — a private
+platform owned by the principal of a competing frontier laboratory — where the
+sector's de-facto public register persists at the platform's pleasure. This
+dossier pins copies precisely because the venue promises nothing; the Act, for
+the same reason, locates the records that matter in SEC. 12, where deletion is
+an offense rather than a feature. *Limits:* the scholars' own work is not
+characterised here beyond their public announcements; nothing in this entry
+attributes intent to any person; the entry records structure — who is being
+gathered, under what stated remit, announced where — and the sections of the Act
+on which that structure bears: SEC. 3, SEC. 8, SEC. 11, SEC. 12.
+
 **Who does this touch? My startup runs models — am I a criminal now?**
 No. The Act reaches only the largest frontier systems — those trained above a compute
 threshold that only a handful of models on Earth clear — and only the handful of people
