@@ -314,6 +314,18 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 August 2026 — The adopted texts, pinned.** SEC. 3(c)(4) freezes three enacted
+state standards and orders them free to read; the research draft now practises the
+rule itself. `interim_standards.md` pins California B&P § 22757.12 (from the 2025
+Code; leginfo controls) and the enacted New York GBL § 1421 (official
+OpenLegislation, revision of 3 April 2026) verbatim at the root; Illinois P.A.
+104-0538 § 10 is cited with structure verified against the official ILGA print and
+marked capture pending — this register does not transcribe from a pre-enrollment
+print, and the pin lands from the enrolled Public Act. Government edicts carry no
+copyright; the official publishers control; sha256 of the pinned file: d2e094d200619a3201facdf4b9a6f524cbc832e0440962944a2e64237cae6e58. Law you
+must pay to read fails the rule of law; law you must hunt to read merely fails the
+reader — this file fixes the second while the doctrine handles the first.
+
 **19 August 2026 — The statute, translated.** The front page gains the complete
 plain-language edition: SEC. 0 through SEC. 13, every section rendered for a reader
 with no law degree, faithful to the landed v3.4 text — the wrapper rule, the research

@@ -31,6 +31,7 @@ machine-readable file.
 | [`model_act_v3_4.txt`](./model_act_v3_4.txt) | The statute, SEC. 0–13 — research draft; the authoritative text |
 | [`model_act_v3_4_companion.md`](./model_act_v3_4_companion.md) | The drafting notes, open items, and constitutional defense |
 | [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) | The draft implementing regulations |
+| [`interim_standards.md`](./interim_standards.md) | The adopted interim texts — the enacted California and New York standards SEC. 3(c)(4) freezes, pinned verbatim; Illinois capture pending, cited |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
 | [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record |
@@ -210,7 +211,8 @@ incorporates has been held fair use (*ASTM v. Public.Resource.Org*, D.C. Cir.
 2023). This Act sides with that line: SEC. 3 requires that no standard bind unless
 freely accessible. And the register applies the rule to ourselves first: the interim
 standards are borrowed verbatim, dated and chapter-cited, from three enacted state
-frameworks anyone can read — but the regulations draft referenced one paywalled
+frameworks anyone can read — and now pinned in the repository itself
+([the adopted texts](./interim_standards.md)) — but the regulations draft referenced one paywalled
 industry standard, which conflicted with the Act's own free-access rule. Defect
 owned; cured at v3.4: the control objectives are restated in the regulations' own
 words, and the standard is not incorporated. An accountability regime whose rulebook
@@ -574,7 +576,8 @@ in three layers so nothing waits on bureaucratic diligence: from day one, the
 truth-telling, reporting, and records offenses operate, along with all the machinery;
 at day [180], the core deployment duty switches on against **interim standards
 borrowed verbatim from three enacted state laws** (California's, New York's, and
-Illinois's frontier-AI framework duties, frozen as of [1 August 2026]) — applied to
+Illinois's frontier-AI framework duties, frozen as of [1 August 2026]) — pinned
+verbatim in [the adopted texts](./interim_standards.md) — applied to
 every covered entity without those states' revenue thresholds, with filings going to
 this state's Agency, third-party audit optional, and this Act's own reporting and
 penalty provisions governing throughout; provisional validation at this stage means a
