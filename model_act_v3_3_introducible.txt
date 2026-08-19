@@ -1,4 +1,0 @@
-Renamed 17 August 2026 -> model_act_v3_3_jacket_clean.txt
-(same text, honest label - "introducible" is retired until a gated sponsor release earns it).
-This file is only a signpost for old links:
-https://github.com/llmaolaw/model-act/blob/main/model_act_v3_3_jacket_clean.txt
