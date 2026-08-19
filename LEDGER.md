@@ -314,6 +314,20 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 August 2026 — The audit we ran on ourselves.** Before any reviewer could, we
+read the repository as each of the fifteen would. What held: SEC. 7(b) already
+contains the full anti-evasion wall the OxyContin record demands — no insurance, no
+indemnification, no gross-ups, contracts void whatever law governs them — drafted
+before tonight's verification of the facts that justify it. What was missing, three
+things, all engagements rather than designs: the book never cited the Supreme
+Court's thirty-year drift toward scienter (*Staples*, *Rehaif*, *Ruan*) even though
+SEC. 6 is built to survive it; the upgrade of *Park*'s powerlessness defence into a
+negated element went unclaimed; and the defeat-device prosecutions — an engineer and
+an executive imprisoned for software that detected its own test — appeared nowhere,
+including beside our own discussion of evaluation awareness. All three cured
+tonight, in the book and the standards note; the statute needed no amendment, which
+is the finding worth keeping.
+
 **19 August 2026 — The precedents gain their prison record.** The front page's
 doctrine history now carries the two cases the account will cite: the 2011 bone-cement
 sentences — the first imprisonments under the Park doctrine, imposed on executives a

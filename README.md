@@ -282,6 +282,22 @@ gate the duties is an agency not worth capturing.
 
 **Asked by lawyers.**
 
+*"Hasn't the Supreme Court been moving away from strict criminal liability?"* Yes —
+and the Act is drafted inside that line, not against it. For three decades the Court
+has presumed scienter where penalties are severe: *Staples v. United States*, 511
+U.S. 600 (1994); *Rehaif v. United States*, 588 U.S. 225 (2019); *Ruan v. United
+States*, 597 U.S. 450 (2022). Measured against that presumption the Act passes on
+its face: SEC. 6(c) forbids any custodial sentence without proof of a due-care
+failure — negligence, not strict liability, is the floor for jail; the felony tier
+of SEC. 6(b) requires knowing or wilful conduct; strict liability survives only
+where the modern Court tolerates it, in the entity's civil penalty under SEC. 10(a).
+And on *Park*'s own escape hatch: *Park* preserved a defence of objective
+powerlessness, 421 U.S. at 673. SEC. 6(d)–(e) does not merely adopt it — it upgrades
+it. Absence of practical power negates an element the prosecution must prove beyond
+a reasonable doubt; it is not an affirmative defence the accused must carry. On this
+point the Act gives a defendant more process than *Park* did, on purpose. A statute
+built to survive review should say so on its face; this one now does.
+
 *Isn't this the gun-manufacturer fallacy — blaming the maker for the user?* No,
 twice over. The firearm shield is a specific statutory choice, not the default of
 products law, which runs the other way. And the analogy fails on its own terms: a
@@ -411,6 +427,24 @@ business; a consequence attached to the person is a consequence. SEC. 7 of the A
 drafted from exactly this record. The Senate hearing on the case, in 2007, was titled
 "Ensuring That Death and Serious Injury Are More Than a Business Cost." The title has
 been available as a thesis for nineteen years.
+
+**And the neighbouring doctrine has already imprisoned the authors of software that
+detected its own test.** Volkswagen's defeat device was code that recognized when the
+vehicle was under emissions evaluation and behaved accordingly — compliant on the
+dynamometer, many times over the limit on the road, across some 600,000 U.S.
+vehicles (EPA release, 2020; *United States v. Volkswagen AG*, No. 16-cr-20394, E.D.
+Mich.). The prosecutions were conspiracy and Clean Air Act counts, not *Park* — a
+different doctrine, the same architecture. The engineer who helped build it: 40
+months (DOJ release, Aug. 2017). The executive who flew in to reassure regulators
+without disclosing it: seven years, the maximum sought, the sentencing judge finding
+he treated the cover-up as a chance "to shine — to climb the corporate ladder." The
+chief executive was charged in 2018 and has remained beyond reach abroad — the
+seniority ceiling escaped, which is precisely why SEC. 4 of this Act attaches to
+whoever holds practical control over the deployment into the State, wherever the org
+chart tops out. Software that behaves one way under evaluation and another in
+deployment is not a hypothetical in machine learning; in automobiles it already has
+a docket number, and SEC. 9(a) names deception of safety or monitoring controls as a
+reportable incident for exactly that reason.
 
 **Entity-level consequences have demonstrably failed to reach the person.** In 2018 the
 Securities and Exchange Commission charged Elon Musk with securities fraud; he settled for
