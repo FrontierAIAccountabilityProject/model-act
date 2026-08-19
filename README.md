@@ -12,21 +12,44 @@ responsible officers of frontier AI companies, on the doctrine of
 one entry per upload, newest first. **New, or wondering what's quiet on purpose?**
 [Behind the scenes](./docs/08-behind-the-scenes.md).
 
-## The repository, mapped
+## Every file in this repository
 
-| The file | What it is |
-|---|---|
-| [`model_act_v3_3.txt`](./model_act_v3_3.txt) | **the statute** — SEC. 0–13, research draft; the authoritative text ([jacket-clean copy](./model_act_v3_3_jacket_clean.txt) alongside, for the bill folder) |
-| [`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md) | **the why** — drafting notes, open items, the constitutional defense |
-| [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) | **the how** — companion regulations; what an engineer needs |
-| [`/docs`](./docs/) | **the case** — nine plain-language cards; start here if you're new |
-| [`/dossier`](./dossier/) | **the evidence** — incidents, the power map, the money, the congressional record; every fact pinned ✅/⚠ |
-| [`/audit`](./audit/) | **the record** — how each version became the next, hostile brief included |
-| [`ERRATA.md`](./ERRATA.md) | **the mistakes** — what we got wrong, in our own hand |
-| [`CHANGELOG.md`](./CHANGELOG.md) | **the deltas** — what changed each version, and why |
-| [`WHAT_JUST_HAPPENED.md`](./WHAT_JUST_HAPPENED.md) | **the diary** — one entry per upload, newest first |
-| [`/archive`](./archive/) · [`/pages`](./pages/) | **the superseded** — old versions kept in place, corrections attached |
-| [`CITATION.cff`](./CITATION.cff) · [`LICENSE`](./LICENSE) | **cite it · steal it** — tagged and checksummed · CC0 |
+*One line each. If a file exists and isn't listed here, that's an erratum.*
+
+**📜 The law**
+- [`model_act_v3_3.txt`](./model_act_v3_3.txt) — the statute, SEC. 0–13, research draft; the authoritative text
+- [`model_act_v3_3_jacket_clean.txt`](./model_act_v3_3_jacket_clean.txt) — same text, campaign lines stripped, for the bill folder
+- [`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md) — drafting notes, open items, the constitutional defense
+- [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) — the implementing regulations; what an engineer needs
+
+**🧾 The three ledgers**
+- [`WHAT_JUST_HAPPENED.md`](./WHAT_JUST_HAPPENED.md) — the diary: what this project did, one entry per upload
+- [`CHANGELOG.md`](./CHANGELOG.md) — the deltas: what changed in the text, each version
+- [`ERRATA.md`](./ERRATA.md) — the mistakes: what we got wrong, fixes attached
+
+**📚 [/docs](./docs/) — the case, in plain words**
+- [`docs/README.md`](./docs/README.md) — the card router
+- [`01-the-problem`](./docs/01-the-problem.md) — why no law reaches the officers · [`02-the-precedents`](./docs/02-the-precedents.md) — eggs, rats, and the doctrine · [`03-whats-in-the-act`](./docs/03-whats-in-the-act.md) — the statute, translated · [`04-how-to-hand-over-a-bill`](./docs/04-how-to-hand-over-a-bill.md) — one email, four minutes · [`05-where-and-when`](./docs/05-where-and-when.md) — the states and the sessions
+- [`06-track-record`](./docs/06-track-record.md) — the scorecard: what we predicted, marked in public
+- [`07-context-timeline`](./docs/07-context-timeline.md) — the story: what the world did in summer 2026, plain words
+- [`08-behind-the-scenes`](./docs/08-behind-the-scenes.md) — how this project runs, and why anonymously · [`09-the-government-caught-one`](./docs/09-the-government-caught-one.md) — the AISI exhibit (folds into the story at v3.4)
+
+**🗃 [/dossier](./dossier/) — the evidence, every fact pinned ✅/⚠**
+- [`00_README`](./dossier/00_README.md) — the dossier's own contents · [`01_master`](./dossier/01_master.md) — the power map: who can halt each system
+- [`02_incident_timeline`](./dossier/02_incident_timeline.md) — the incident timeline: the dated evidence record (the only file in this repository allowed that word)
+- [`03_politicians_track`](./dossier/03_politicians_track.md) — the congressional record · [`04_wealth_and_control`](./dossier/04_wealth_and_control.md) — the money behind the seats · [`05_questions_and_answers`](./dossier/05_questions_and_answers.md) — every objection, answered · [`06_the_open_letters`](./dossier/06_the_open_letters.md) — the letters and the papers · one dated screenshot (the feed file's exhibit)
+
+**🛠 [/audit](./audit/) — the drafting record, frozen**
+- [`audit/README`](./audit/README.md) — how to read the chunks · chunks 1–8 — landscape, preemption armour, penalty architecture, harm-tier rebuild, commencement and records, assembly, [the hostile brief](./audit/chunk7_hostile_brief.md), rule-dependency sweep
+- [`field_notes_for_assembly`](./audit/field_notes_for_assembly.md) — objections met in the wild, and what survived them
+- [`v3_4_cure_language`](./audit/v3_4_cure_language.md) — the live cure queue: fifteen fixes, drafted, landing as v3.4
+
+**🕰 The superseded — kept in place, corrections attached**
+- Root signposts for old links: `model_act_v2.pdf` · `model_act_v3_2.pdf` · `model_act_v3_2.txt` · `model_act_v3_3.pdf` (withdrawn typeset) · `model_act_v3_3_introducible.txt` (renamed; the word is retired)
+- [`/archive`](./archive/) — the old versions themselves, with [the correction note](./archive/README.md) attached · [`/pages`](./pages/) — typeset page images of the withdrawn edition; a verified edition returns with the reproducible rebuild
+
+**⚙️ Meta**
+- [`CITATION.cff`](./CITATION.cff) — the cite button reads this; v3.3 is tagged and checksummed · [`LICENSE`](./LICENSE) — CC0; steal it · [`CONTRIBUTING.md`](./CONTRIBUTING.md) — catches, seats, and how to send them
 
 *Three timelines, three altitudes — the diary records what this project did; the story
 ([context: summer 2026](./docs/07-context-timeline.md)) tells what the world did, in plain

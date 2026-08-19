@@ -11,6 +11,12 @@ subscribe to the raw feed:
 
 ---
 
+**19 aug 2026 · the census.** the front page now lists every file in the repository —
+all of them, grouped and explained in one line each: the law, the ledgers, the case, the
+evidence, the record, the superseded, the meta. and a rule to keep it honest: if a file
+exists and isn't on the list, that's an erratum. no more phantom timelines; the word
+itself now belongs to exactly one file, and the map is accountable like everything else.
+
 **19 aug 2026 · the repository, mapped.** the front page now opens with a contents table a
 thesis examiner would recognize — every file, one noun each: the statute, the why, the how,
 the case, the evidence, the record, the mistakes, the deltas, the diary, the superseded.
