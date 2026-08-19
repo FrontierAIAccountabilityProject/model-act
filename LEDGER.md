@@ -314,6 +314,17 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 August 2026 — The statute, translated.** The front page gains the complete
+plain-language edition: SEC. 0 through SEC. 13, every section rendered for a reader
+with no law degree, faithful to the landed v3.4 text — the wrapper rule, the research
+door, the three-layer commencement, the engineer exclusions, the per-victim harm
+tier, restitution's priority over every penalty, and the armour's rank order — and
+opening with the rule that keeps it honest: where the translation and the statute
+differ, the statute controls, and the strict verification prompt applies to the
+translation too. An at-a-glance table — one row per
+section — sits above the full rendering: the thirty-second and the ten-minute
+versions in the same place.
+
 **19 August 2026 — v3.4 lands.** Fifteen cures, announced in public on the 17th and
 18th, entered the statute verbatim tonight; the sixteenth was already home. The queue's
 language and the enacted language now differ by nothing — the diff against the
