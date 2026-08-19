@@ -38,7 +38,7 @@ rule; all incorporated texts available free of charge from the Agency:
 |---|---|---|---|
 | NIST AI RMF 1.0 | NIST AI 100-1 (Jan 26, 2023) | governance baseline; due-care measuring stick | internal attestation |
 | NIST Generative AI Profile | NIST AI 600-1 (Jul 26, 2024) | pre-deployment testing; incident disclosure; risk taxonomy (crosswalks to Act SEC. 9(a)) | independent audit |
-| ISO/IEC 42001 | :2023 (Dec 2023) | certifiable AI management system | accredited certification |
+| AI management-system objectives (restated below, not incorporated) | this instrument, amendment of 19 Aug 2026 | management-system controls for AI: policy, risk process, roles, lifecycle, monitoring, improvement | independent audit |
 | NIST SSDF | SP 800-218 v1.1 + SP 800-218A (2024) | secure development; weights integrity | independent audit |
 WATCH LIST (not incorporated; future rule only): CAISI evaluation
 guidance; SP 800-53 AI overlays; NIST Critical Infrastructure Profile
@@ -174,3 +174,25 @@ SEC. 3(c) of the Act, per chunk 5 §E.6(e)). The Part 2 version pins await
 re-pin at adoption (READ FIRST item 1). Bracketed figures are
 adopting-state choices; source-pattern notes in brackets cite the lineage
 of each part. Public domain.
+
+
+---
+
+## AMENDMENT — 19 August 2026 (v3.4 landing): the paywalled-standard cure
+
+The incorporation table formerly incorporated ISO/IEC 42001:2023, a standard available
+only for purchase — a defect against the Act's own rule (SEC. 3(a): all incorporated
+material publicly available without charge), recorded in the register and cured here per
+the published disposition. The management-system control objectives are RESTATED in this
+instrument's own words and are the incorporated matter; the standard's text is not
+incorporated. Restated objectives: (1) a written AI management policy adopted by the
+governing authority, assigning named accountability for each covered system; (2) a
+documented, repeatable risk process — identification, analysis, treatment, and acceptance
+decisions recorded with their maker; (3) defined roles, competence requirements, and
+resources for the personnel operating the controls; (4) lifecycle controls from design
+through decommissioning, including change management tied to the Act's material-change
+definitions; (5) monitoring, measurement, and internal audit of the controls' operation,
+with findings reported to the certifying officer; and (6) corrective action and continual
+improvement, with recurrence of a corrected failure treated as a control defect. Accredited
+certification to a published management-system standard remains a permissible mode of
+validation where an entity elects it; election is not incorporation.

@@ -5,8 +5,8 @@ message: >-
   it is: model legislation, a research draft, never enacted law.
 title: "Model Act — Frontier AI Public Welfare Offenses"
 type: software
-version: "3.3 (research draft)"
-date-released: "2026-08-16"
+version: "3.4 (research draft)"
+date-released: "2026-08-19"
 authors:
   - name: "llmaolaw (pseudonymous; drafted by humans and AI, in the open)"
 repository-code: "https://github.com/llmaolaw/model-act"

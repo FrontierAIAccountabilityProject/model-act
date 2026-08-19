@@ -35,7 +35,7 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 **The gap.** The exemption is real in design — "material practical authority" is the operative screen — but it is *inferred* from the definition, not "written into" it. An aggressive reader could argue an engineer with production access makes "access decisions."
 
-**The fix (statutory).** The controlling-person definition is narrowed to final material *independent* decision authority, with express textual exclusions for status, credentials, ministerial execution, and technical ability standing alone — making the explainer's sentence true on the face of the text. Queued for the public working branch (v3.4 cure list). The explainer claim stands as the binding design intent.
+**The fix (statutory).** The controlling-person definition is narrowed to final material *independent* decision authority, with express textual exclusions for status, credentials, ministerial execution, and technical ability standing alone — making the explainer's sentence true on the face of the text. Queued for the public working branch (v3.4 cure list). **Landed:** the cure entered the statute verbatim on 19 August 2026; tagged v3.4. The explainer claim stands as the binding design intent.
 
 ## E2 — Certification cadence: "every quarter" is not in the statute
 
@@ -55,7 +55,7 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 **The gap.** Two divergences. First, certification is a duty with criminal consequences for lying (SEC. 6(b)(1)), not a shipping gate. Second — the serious one — a certification candidly disclosing unremediated noncompliance both satisfies SEC. 8 and, with "compensating measures" of unspecified adequacy, can support provisional validation. Truthfully disclosed unsafe deployment is punished nowhere in that configuration: it punishes lying, not shipping.
 
-**The fix (statutory).** Validation is being rebuilt to require a reasonable documented conclusion of **material conformity**; compensating measures must be **equivalent**, judged against stated criteria; disclosure of nonconformity becomes a *report*, never a *validation*; and a certification disclosing unremediated material nonconformity constitutes neither compliance, validation, cure, nor a defense. Queued for the public working branch.
+**The fix (statutory).** Validation is being rebuilt to require a reasonable documented conclusion of **material conformity**; compensating measures must be **equivalent**, judged against stated criteria; disclosure of nonconformity becomes a *report*, never a *validation*; and a certification disclosing unremediated material nonconformity constitutes neither compliance, validation, cure, nor a defense. Queued for the public working branch. **Landed:** the cure entered the statute verbatim on 19 August 2026; tagged v3.4.
 
 ## E4 — "No waiting for an agency" vs. the Agency-approval validation mode
 
@@ -65,7 +65,7 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 **The gap.** If the Agency selects the fourth mode for any standard, deployment lawfully waits on an affirmative agency act — a permit regime through the back door, contradicting the Act's own design and its commencement architecture, which was rebuilt specifically so that agency inaction can never stall the statute.
 
-**The fix (statutory).** The Agency-approval validation mode is struck. Queued for the public working branch.
+**The fix (statutory).** The Agency-approval validation mode is struck. Queued for the public working branch. **Landed:** the cure entered the statute verbatim on 19 August 2026; tagged v3.4.
 
 ## E5 — "It was never going to be you": true for the weekend model, not yet true for the startup
 
@@ -125,6 +125,33 @@ publication; the fix is live on the front page. Status: cured.
 
 <a id="part-ii"></a>
 ## Part II — The changelog
+
+**v3.4 — 19 August 2026.** The sixteen findings of the adversarial review of 17–18
+August, cured. Fifteen amendments entered the statute verbatim from the published queue
+(`audit/v3_4_cure_language.md`); finding 4 (the harm tier) was already satisfied by
+v3.3's own text and closes without amendment. Per cure: 1 → SEC. 2(b), deployer
+reliance; 2 → SEC. 4(a)–(b), authority narrowed with express exclusions; 3 →
+SEC. 3(c)(2)(B), (D), (5) and SEC. 8 conforming, validation and nonconformity reporting
+separated; 5 → SEC. 6(b)(1) and 10(c)(2)(D), proximate cause; 6 → SEC. 7(b),
+prospective insurance ban with restitution carved out; 7 → SEC. 8, the
+no-chief-executive fallback; 8 → SEC. 3(b), the approval mode struck; 9 → SEC. 1(b)(1),
+the interim lineage default and the decoupled audit floor; 10 → SEC. 1(b)(6), material
+expansion self-operating; 11 → SEC. 1(b)(10), autonomous external-access capability
+defined; 12 → SEC. 8, certification triggers and the quarterly cadence; 13 →
+SEC. 5(e), privilege preserved; 14 → SEC. 9(a), the near-miss calibrated; 15 →
+SEC. 12, the Attorney General as fallback recipient; 16 → SEC. 2(c), controlled
+research deployment. The regulations shed their one paywalled incorporation, the
+objectives restated per the published disposition. The companion gains notes
+n.28–n.43, one per finding. Errata queue-lines carry their landed notes in Part I. The
+statute grows from 506 to 611 lines; the v3.3 statute, jacket, and companion remain in
+place, superseded. Tag gate, per the programme: every critical finding cured, or
+conspicuously open with an owner and disposition in the companion's READ FIRST —
+satisfied; the open items remain open as published. sha256 of the authoritative files
+as tagged:
+`model_act_v3_4.txt` 399c725adcd117aa7736a63b716328226eb24f33a48695115d941b68caace1bf ·
+`model_act_v3_4_jacket_clean.txt` 9c59afae9fe34de83c03468498de37abbc90fb7f6df978e9ce03361a7ad7a733 ·
+`model_act_v3_4_companion.md` 92d279044c19e67a6fbd314538601797c167ee274e5b02b717babab8e9d306f8 ·
+`model_regulations_v1_draft.md` a96289777b63a705f7ff724aa8d7ce49f58dbbbffec907ec9c15804a60178319
 
 <!-- BEGIN CHANGELOG.md · sha256:113b96eaca21 · merged 19 Aug 2026, content verbatim -->
 
@@ -286,6 +313,14 @@ looks like.
 
 <a id="part-iii"></a>
 ## Part III — The diary
+
+**19 August 2026 — v3.4 lands.** Fifteen cures, announced in public on the 17th and
+18th, entered the statute verbatim tonight; the sixteenth was already home. The queue's
+language and the enacted language now differ by nothing — the diff against the
+announcement is itself the review artifact. The companion gains notes n.28–n.43; the
+regulations shed their only paywalled reference; the register's queue-lines gain their
+landed notes; the citation file and the tag move to v3.4. Two days from announcement to
+enactment in text, every step on the record.
 
 **19 August 2026 — …and laddered.** The questions section is reordered from the
 ground floor up — "will my job be affected?" first, doctrine last — and absorbs the

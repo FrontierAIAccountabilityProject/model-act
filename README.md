@@ -5,13 +5,15 @@ frontier AI companies, on the doctrine of *United States v. Park*, 421 U.S. 658 
 
 **Public domain. No attribution required. Steal it.**
 
-**Status.** The current version is **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — the
-Act, SEC. 0–13, a research draft — together with **[the companion](./model_act_v3_3_companion.md)**
+**Status.** The current version is **[`model_act_v3_4.txt`](./model_act_v3_4.txt)** — the
+Act, SEC. 0–13, research draft, current at v3.4 — together with **[the companion](./model_act_v3_4_companion.md)**
 (drafting notes, open items, the constitutional defense) and
 **[the regulations](./model_regulations_v1_draft.md)** (draft implementing rules). The
 plain-text file is authoritative; a jacket-clean copy, identical in text and stripped of
-campaign lines, is at [`model_act_v3_3_jacket_clean.txt`](./model_act_v3_3_jacket_clean.txt).
-The typeset edition is withdrawn pending a reproducible rebuild. The register of our own
+campaign lines, is at [`model_act_v3_4_jacket_clean.txt`](./model_act_v3_4_jacket_clean.txt).
+The typeset edition is withdrawn pending a reproducible rebuild. The v3.3 files remain in
+place, byte-identical beneath their tag; v3.4's changes entered verbatim from the published
+cure queue and are itemised, with checksums, in the ledger's changelog. The register of our own
 mistakes, the changelog, and the project diary are one document:
 **[`LEDGER.md`](./LEDGER.md)**. On 19 August 2026 this repository was consolidated from
 seventy-one files into the small set below; no content was deleted, every merge is
@@ -26,12 +28,12 @@ machine-readable file.
 | Document | What it is |
 |---|---|
 | **This page** | The book — the case for the Act, the reviewer's edition, provenance, citation, and contact, in one scroll |
-| [`model_act_v3_3.txt`](./model_act_v3_3.txt) | The statute, SEC. 0–13 — research draft; the authoritative text |
-| [`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md) | The drafting notes, open items, and constitutional defense |
+| [`model_act_v3_4.txt`](./model_act_v3_4.txt) | The statute, SEC. 0–13 — research draft; the authoritative text |
+| [`model_act_v3_4_companion.md`](./model_act_v3_4_companion.md) | The drafting notes, open items, and constitutional defense |
 | [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) | The draft implementing regulations |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
-| [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, hostile brief included |
+| [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record |
 
 On this page: [For the review council](#for-the-review-council) · [Questions this project is asked](#questions) · [The case](#the-case) ·
 [Provenance and method](#provenance-and-method) · [Citation](#citation) ·
@@ -41,7 +43,7 @@ On this page: [For the review council](#for-the-review-council) · [Questions th
 *The graveyard: [`/archive`](./archive/) holds superseded versions with their corrections
 attached; [`/pages`](./pages/) holds the withdrawn typeset's page images; five root
 signposts (`model_act_v2.pdf`, `model_act_v3_2.pdf`, `model_act_v3_2.txt`,
-`model_act_v3_3.pdf`, `model_act_v3_3_introducible.txt`) keep old links alive. Nothing
+`model_act_v3_3.pdf`, `model_act_v3_3_introducible.txt`) keep old links alive; the v3.3 statute, jacket, and companion remain in place, superseded. Nothing
 public is ever deleted; corrections travel with the claims they correct.*
 
 <a id="for-the-review-council"></a>
@@ -60,12 +62,13 @@ reviewers sign. That rule is why the seats exist. The current text is a research
 says so; every claim is checkable, because checkability is the only authority an anonymous
 project has.
 
-**The core set, in reading order.** First, [`model_act_v3_3.txt`](./model_act_v3_3.txt) —
+**The core set, in reading order.** First, [`model_act_v3_4.txt`](./model_act_v3_4.txt) —
 the statute, one sitting, cover to cover. Second, [the errata register](./LEDGER.md#part-i)
 — what we already know is wrong, so no reviewer spends hours rediscovering published
-mistakes. Third, [the cure queue](./audit/v3_4_cure_language.md) — fifteen drafted fixes
-that will land as v3.4; review the destination as well as the departure point. Fourth,
-[the companion](./model_act_v3_3_companion.md) — the READ FIRST open items and the drafting
+mistakes. Third, [the cure
+queue](./audit/v3_4_cure_language.md) — the fifteen fixes, published in advance and
+landed verbatim at v3.4; the departure announcement and the destination are diffable. Fourth,
+[the companion](./model_act_v3_4_companion.md) — the READ FIRST open items and the drafting
 notes; skim all, read closely where the lane points. Fifth,
 [the hostile brief](./audit/record.md#chunk-7) — the Act as read by the other side's
 counsel; if an objection is already there, grade our answer; if it is not, that finding is
@@ -108,12 +111,162 @@ the project cannot do for itself: to be a named expert who checked.
 <a id="questions"></a>
 ## Questions this project is asked
 
-Grouped by who tends to ask them. Short answers here; the exhaustive set, with sources,
-is [the dossier's question-and-answer chapter](./dossier/README.md#chapter-05), and the
-full adversarial case against this text is [the hostile brief](./audit/record.md#chunk-7).
-Three answers below are honestly "open" — naming them is what a research draft is for.
+Grouped by who tends to ask them, and laddered — beginning where most people actually
+begin ("does this affect me?") and climbing to doctrinal design. Short answers here;
+the exhaustive sourced set is [the dossier's question-and-answer chapter](./dossier/README.md#chapter-05),
+and the full adversarial case against this text is [the hostile brief](./audit/record.md#chunk-7).
+Several answers below are honestly "open" — naming them is what a research draft is for.
+
+**Asked first.**
+
+*Will my job or my role be affected?* Not by this Act. It regulates roughly a dozen
+chairs on earth — the officers with authority to ship a handful of frontier models —
+and no one else. It does not regulate using AI at work, does not ban tools, and does
+not reach employees at any company, including the covered ones. If your working life
+touches AI, the parts of this law you would ever feel are the protective ones:
+incidents reported instead of buried, and paid protection if you are ever the one who
+has to speak up.
+
+*I use ChatGPT, Claude, or similar at work or school — does this touch me?* No. Users
+are nowhere in the Act. Personal and non-commercial use is expressly carved out, and
+nothing here limits what you run on your own machine.
+
+*Would this slow down or ban AI?* It bans nothing. It conditions the shipping of the
+very largest systems on validation, reporting, and a named signature — the structure
+under which medicines, aircraft, and banks continue to exist and to innovate.
+Research is untouched: a controlled research pathway is in the text (SEC. 2(c)).
+
+*My startup builds with AI — are we covered?* Almost certainly not. Coverage begins
+at a compute line only a handful of models on earth clear, and SEC. 1 says so out
+loud. Duties climb to the people with the power to halt those systems; freedoms flow
+down to everyone else — and a non-modifying deployer discharges the duty by relying
+on the upstream validation (SEC. 2(b)).
+
+*If this passed, what would actually change?* About a dozen people would personally
+sign safety certifications the way bank chief executives have since 2002; serious
+incidents would be reported within seventy-two hours; insiders who report violations
+would be paid rather than gagged. For everyone else, nothing changes — which is the
+point.
+
+**Asked by everyone.**
+
+*"You cannot put a god on a leash."* The objection arrives in exactly those words,
+and the field notes keep it beside its answer: deification is the last
+liability-evaporation structure. The Act does not attempt to leash the system — it
+never regulates the mathematics at all. It attaches duties to the human who chooses
+to ship it, and humans have never been gods, only occasionally defendants.
+
+*Why not just pause?* A pause is welcome, and the evidence file records one —
+announced by a single officer, voluntarily, reversibly, subject to no external
+standard and no consequence on resumption. That is the difference between restraint
+and law, and it is the entire argument: the Act is what the same undertaking looks
+like when it binds.
+
+*What about China?* Product-safety duties are not a capability race. Food-safety law
+was never suspended because other countries had laxer kitchens; the duty protects
+the people the product reaches, in-state, whoever else builds what. Nothing in the
+Act slows research; it attaches consequences to shipping unvalidated systems at
+people.
+
+*It was written with AI.* Yes — disclosed from day one, and it is the thesis, not
+the embarrassment: the same class of tool drafts accountability law or attempts a
+supply-chain attack depending only on who points it. That is why the Act regulates
+the person who ships the weights, never the weights. The machine has no name to put
+on a certification; a person does.
+
+*Who are you?* [Provenance and method](#provenance-and-method) answers in full. The
+short version is the tradition: Publius, Junius, Dickinson — arguments built to
+stand without a byline, because the citations are the only authority they have.
+Check them.
+
+**Asked by engineers and researchers.**
+
+*Am I personally liable?* No. The exclusions are on the face of the definitions:
+title, credentials, technical ability, access, and the ministerial execution of
+another's decision do not constitute authority. The Act climbs the organisation
+chart; it does not descend it.
+
+*Does this touch open weights, my fine-tune, or my local model?* Releasing frontier
+weights above the line carries the same validation duty as deploying behind an
+interface — parity, not penalty, on the EU's own systemic-risk logic. Personal,
+non-commercial use and the study or modification of lawfully obtained weights are
+expressly untouched, and sub-threshold derivatives sit outside coverage by default.
+
+*Is the modification-evaluation budget the right size?* It is bracketed — the greater
+of one percent of lineage compute or 10^24 operations — precisely because that number
+should be kicked by evaluations researchers, not asserted by drafters. Open, and
+invited.
+
+*The standards are paywalled — isn't that a problem?* Yes, and the Act treats it as
+one of principle, not convenience. A standard incorporated by reference into a
+compliance regime is law you must pay to read, and law you must pay to read fails
+the oldest requirement in the rule-of-law tradition: rules must be promulgated
+before they can bind. The courts have fought this exact fight over building codes
+and technical standards — model codes enacted into law enter the public domain as
+law (*Veeck v. Southern Building Code Congress International*, 5th Cir. 2002, en
+banc), the government-edicts doctrine keeps official legal text uncopyrightable
+(*Georgia v. Public.Resource.Org*, 2020), and posting standards that the law
+incorporates has been held fair use (*ASTM v. Public.Resource.Org*, D.C. Cir.
+2023). This Act sides with that line: SEC. 3 requires that no standard bind unless
+freely accessible. And the register applies the rule to ourselves first: the interim
+standards are borrowed verbatim, dated and chapter-cited, from three enacted state
+frameworks anyone can read — but the regulations draft referenced one paywalled
+industry standard, which conflicted with the Act's own free-access rule. Defect
+owned; cured at v3.4: the control objectives are restated in the regulations' own
+words, and the standard is not incorporated. An accountability regime whose rulebook
+sits behind an invoice would be the thing this project exists to end.
+
+**Asked by legislators and staff.**
+
+*Why would my committee touch an anonymous bill?* It never has to be one. What
+reaches a sponsor is a package with named human signoffs, disclosed conflicts, a
+provenance page, and text your own legislative counsel will redraft anyway — the
+architecture is handed over; your office pours the concrete. The anonymity sits where
+it belongs: on the campaign layer, which never shares a page with the bill folder.
+
+*What is the attack ad against me?* "Criminalising innovation." The answer is on the
+face of the text: engineers are exempt by definition, the thresholds and penalty
+brackets carry numbers governors of both parties have already signed, and
+pharmaceuticals, banking, and aviation have carried officer liability for decades
+while remaining industries. The bill's guest list is roughly a dozen chairs on earth.
+
+*What does it cost my state?* Stated honestly and apart: startup separately from
+steady state, penalties never booked as revenue, enforcement never sold as
+self-funding. The penalty fund earmarks support enforcement; the fiscal case never
+depends on collecting a dollar.
+
+*Why a state, and not Congress?* Because Congress has written nothing and one state
+is enough — the biometric-privacy precedent proved that a law which exists first
+becomes the standard. Criminal law over in-state harm is the states' oldest power
+and the hardest for Washington to reach.
+
+*Industry will ask for its Price-Anderson — a liability cap in exchange for the
+duty.* Then industry should be offered the whole bargain it cites: Price-Anderson
+paired its cap with strict, channelled liability, mandatory insurance to the cap, and
+pervasive oversight. The cap was the price of accepting liability by default, not an
+escape from it. A cap without the channelling is dessert without the dinner, and the
+Act declines to serve it.
+
+*Why not add a right-to-cure before charges?* Because for this offense the cure
+period already exists, and it sits before deployment: validation is the cure. A
+post-harm cure window converts the shipping offense into a free first bite at the
+public — an amendment met in the wild and preserved in the field notes under exactly
+the name it earned: the cheapest gut.
+
+*Any agency you create will be captured.* The warning is taken as a design constraint
+rather than rebutted: the Act minimises what capture can switch off. Duties commence
+on standards already enacted elsewhere; no approval mode exists to sit on; if the
+agency never organises, filings run to the attorney general. An agency that cannot
+gate the duties is an agency not worth capturing.
 
 **Asked by lawyers.**
+
+*Isn't this the gun-manufacturer fallacy — blaming the maker for the user?* No,
+twice over. The firearm shield is a specific statutory choice, not the default of
+products law, which runs the other way. And the analogy fails on its own terms: a
+covered system is regulated here for what it does itself — autonomous action reaching
+into a stranger's systems — not for what a user does with it. *Park* never asked what
+the product intended; it asked who had the power to stop the shipment.
 
 *Why criminal law at all, rather than civil liability or regulation?* Because both
 already exist and neither reaches the person: civil penalties are paid from the
@@ -155,90 +308,13 @@ suspended provisions if a federal switch-off later lapses. State criminal law ov
 conduct harming people in-state is the last thing preemption reaches, which is why
 the core was built there.
 
-**Asked by engineers and researchers.**
-
-*Am I personally liable?* No. The exclusions are on the face of the definitions:
-title, credentials, technical ability, access, and the ministerial execution of
-another's decision do not constitute authority. The Act climbs the organisation
-chart; it does not descend it.
-
-*Does this touch open weights, my fine-tune, or my local model?* Releasing frontier
-weights above the line carries the same validation duty as deploying behind an
-interface — parity, not penalty, on the EU's own systemic-risk logic. Personal,
-non-commercial use and the study or modification of lawfully obtained weights are
-expressly untouched, and sub-threshold derivatives sit outside coverage by default.
-
-*Is the modification-evaluation budget the right size?* It is bracketed — the greater
-of one percent of lineage compute or 10^24 operations — precisely because that number
-should be kicked by evaluations researchers, not asserted by drafters. Open, and
-invited.
-
-*The standards are paywalled — isn't that a problem?* Yes, and the Act treats it as
-one of principle, not convenience. A standard incorporated by reference into a
-compliance regime is law you must pay to read, and law you must pay to read fails
-the oldest requirement in the rule-of-law tradition: rules must be promulgated
-before they can bind. The courts have fought this exact fight over building codes
-and technical standards — model codes enacted into law enter the public domain as
-law (*Veeck v. Southern Building Code Congress International*, 5th Cir. 2002, en
-banc), the government-edicts doctrine keeps official legal text uncopyrightable
-(*Georgia v. Public.Resource.Org*, 2020), and posting standards that the law
-incorporates has been held fair use (*ASTM v. Public.Resource.Org*, D.C. Cir.
-2023). This Act sides with that line: SEC. 3 requires that no standard bind unless
-freely accessible. And the register applies the rule to ourselves first: the interim
-standards are borrowed verbatim, dated and chapter-cited, from three enacted state
-frameworks anyone can read — but the regulations draft references one paywalled
-industry standard, which conflicts with the Act's own free-access rule. Defect
-owned; cure drafted; both in the public queue. An accountability regime whose
-rulebook sits behind an invoice would be the thing this project exists to end.
-
-**Asked by legislators and staff.**
-
-*Why would my committee touch an anonymous bill?* It never has to be one. What
-reaches a sponsor is a package with named human signoffs, disclosed conflicts, a
-provenance page, and text your own legislative counsel will redraft anyway — the
-architecture is handed over; your office pours the concrete. The anonymity sits where
-it belongs: on the campaign layer, which never shares a page with the bill folder.
-
-*What is the attack ad against me?* "Criminalising innovation." The answer is on the
-face of the text: engineers are exempt by definition, the thresholds and penalty
-brackets carry numbers governors of both parties have already signed, and
-pharmaceuticals, banking, and aviation have carried officer liability for decades
-while remaining industries. The bill's guest list is roughly a dozen chairs on earth.
-
-*What does it cost my state?* Stated honestly and apart: startup separately from
-steady state, penalties never booked as revenue, enforcement never sold as
-self-funding. The penalty fund earmarks support enforcement; the fiscal case never
-depends on collecting a dollar.
-
-*Why a state, and not Congress?* Because Congress has written nothing and one state
-is enough — the biometric-privacy precedent proved that a law which exists first
-becomes the standard. Criminal law over in-state harm is the states' oldest power
-and the hardest for Washington to reach.
-
-**Asked by everyone.**
-
-*Why not just pause?* A pause is welcome, and the evidence file records one —
-announced by a single officer, voluntarily, reversibly, subject to no external
-standard and no consequence on resumption. That is the difference between restraint
-and law, and it is the entire argument: the Act is what the same undertaking looks
-like when it binds.
-
-*What about China?* Product-safety duties are not a capability race. Food-safety law
-was never suspended because other countries had laxer kitchens; the duty protects
-the people the product reaches, in-state, whoever else builds what. Nothing in the
-Act slows research; it attaches consequences to shipping unvalidated systems at
-people.
-
-*It was written with AI.* Yes — disclosed from day one, and it is the thesis, not
-the embarrassment: the same class of tool drafts accountability law or attempts a
-supply-chain attack depending only on who points it. That is why the Act regulates
-the person who ships the weights, never the weights. The machine has no name to put
-on a certification; a person does.
-
-*Who are you?* [Provenance and method](#provenance-and-method) answers in full. The
-short version is the tradition: Publius, Junius, Dickinson — arguments built to
-stand without a byline, because the citations are the only authority they have.
-Check them.
+None of the hardest questions above began as hypotheticals. Objections arriving in
+the wild are preserved, with the answers that survived them, in
+[the field notes](./audit/record.md#field-notes) — the leash, the gun analogy, the
+Price-Anderson bargain, and the cheapest gut among them — and every objection met is
+kept, sourced, in [the question-and-answer chapter](./dossier/README.md#chapter-05).
+The first genuine outside catch is credited permanently as E7 in
+[the register](./LEDGER.md#part-i). Criticism is raw material here; send more.
 
 <a id="the-case"></a>
 ## The case
@@ -246,7 +322,7 @@ Check them.
 The plain-language explainers formerly kept as nine separate cards are consolidated here,
 revised into a single argument. The evidence behind every claim is pinned in
 [the dossier](./dossier/README.md); the doctrine and drafting behind every provision are
-in [the companion](./model_act_v3_3_companion.md) and [the record](./audit/record.md).
+in [the companion](./model_act_v3_4_companion.md) and [the record](./audit/record.md).
 
 <a id="the-problem"></a>
 ### The problem
@@ -325,11 +401,14 @@ the officers with authority. The full record, with every signatory, is in
 <a id="what-the-act-provides"></a>
 ### What the Act provides
 
-*An errata notice applies to this section: five statements below describe the Act as it
-is being amended to be, not as v3.3 reads today, and are so marked in
-[the register](./LEDGER.md#part-i); the drafted amendments are in
-[the cure queue](./audit/v3_4_cure_language.md). Section numbers follow the statute in the
-repository root, which is authoritative.*
+*An errata history attaches to this section: five statements here were published before
+the statute matched them; the amendments landed at v3.4 (19 August 2026) and each is
+now true as written. [The register](./LEDGER.md#part-i) preserves both states, and the
+announced cures ([the queue](./audit/v3_4_cure_language.md)) entered the text verbatim.*
+
+*As of v3.4, the five statements this section once made ahead of the text are true as
+written; [the register](./LEDGER.md#part-i) records the interval, each entry beside its
+cure. Section numbers follow the statute in the repository root, which is authoritative.*
 
 **The halt rule.** Whoever had the power to stop the model answers for it. Delegation to
 a committee, a subsidiary, or a designated safety officer does not relieve the person who
@@ -644,35 +723,14 @@ has no name to put on a certification; a person does. The incident and the statu
 produced by the same class of tool, and only one of them was signed.
 
 <a id="verify-it"></a>
-### Verify it — and how to interrogate this statute with an AI
+### Verify it
 
-The house method, unchanged: paste the Act into the model of your choice and ask —
-*are the citations in this document real? Check each one, and list any you cannot
+Paste the Act into the model of your choice and ask: *are the citations in this document real? Check each one, and list any you cannot
 confirm.* They are. The statute is not, yet; that second part is the part a reader
 can change. For the strict pass, upgrade the ask: *for each authority cited, state
 whether it exists, whether the proposition attributed to it matches the source, and
 what you could not verify — do not assume.* A vague question earns a vague blessing;
 that one earns a verdict per citation.
-
-For more than verification, a prompt works best carrying three things in order: what
-you are trying to do, the material and its frame, and then the instruction itself —
-stated last, and one at a time. Ask the model to say what it could not confirm. Five
-that earn their keep:
-
-- *You are a state legislative counsel receiving this bill. Read SEC. 3 and SEC. 12
-  and list what you would redraft before introduction, and why.*
-- *You are defense counsel for a covered officer. Which elements of SEC. 5 and
-  SEC. 6 would you attack first, and what facts would you need to win?*
-- *I have never read a statute. Explain SEC. 4 to me plainly — then explain it again
-  as if I were a prosecutor deciding whether to charge.*
-- *Compare SEC. 9's incident reporting with my state's newest AI law, and list what
-  each requires that the other does not.*
-- *Steelman the strongest objection to this Act that its own hostile brief does not
-  already contain — then send it to us.*
-
-One craft note: a model treats everything pasted as relevant, so paste the section
-you mean rather than the repository; and counting and arithmetic are its weakest
-skills — check the numbers yourself, which is rather the spirit of the whole project.
 
 <a id="provenance-and-method"></a>
 ## Provenance and method
@@ -764,18 +822,18 @@ reader at [commits/main.atom](https://github.com/llmaolaw/model-act/commits/main
 ## Citation
 
 A [`CITATION.cff`](./CITATION.cff) file supports GitHub's "cite this repository"
-function; release v3.3 is tagged, with sha256 checksums of the authoritative files; and
+function; release v3.4 is tagged, with sha256 checksums recorded in the ledger's changelog; the v3.4 tag and its checksums stand unchanged; and
 CC0 imposes no attribution requirement — citation is a courtesy to the reader. Pin the
 version and the date; the main branch moves frequently.
 
-> **MHRA** — llmaolaw, *Model Act — Frontier AI Public Welfare Offenses*, v3.3 research
+> **MHRA** — llmaolaw, *Model Act — Frontier AI Public Welfare Offenses*, v3.4 research
 > draft (2026) <https://github.com/llmaolaw/model-act> [accessed 19 August 2026]
 >
 > **Bluebook (working form)** — llmaolaw, Model Act — Frontier AI Public Welfare
-> Offenses § 4 (v3.3 research draft 2026), https://github.com/llmaolaw/model-act
+> Offenses § 4 (v3.4 research draft 2026), https://github.com/llmaolaw/model-act
 >
 > **APA** — llmaolaw. (2026). *Model Act — Frontier AI Public Welfare Offenses*
-> (Version 3.3, research draft) [Model legislation].
+> (Version 3.4, research draft) [Model legislation].
 > https://github.com/llmaolaw/model-act
 
 Cite it as what it is — model legislation, a research draft — never as enacted law; the
@@ -819,7 +877,7 @@ nothing above is a reason to wait, and all of it is a reason to begin.
 <a id="file-status-and-history"></a>
 ## File status and history
 
-**The authoritative text** is [`model_act_v3_3.txt`](./model_act_v3_3.txt). The typeset
+**The authoritative text** is [`model_act_v3_4.txt`](./model_act_v3_4.txt). The typeset
 edition is withdrawn pending a reproducible rebuild — tagged, checksummed, and tested
 against the source — and "withdrawn" means de-listed, not deleted: the root PDF is a
 one-page signpost, the withdrawn edition is preserved unchanged in
@@ -837,7 +895,14 @@ into [the case](#the-case) on this page; the dossier's chapters merged into
 checksums stamped inline; every superseded path remains as a signpost; no content was
 deleted, in keeping with the standing rule that corrections travel with claims.
 
-**History.** v3.3 (August 2026, current): the audit-series assembly — findings section,
+**History.** v3.4 (19 August 2026, current): fifteen cures from the published queue,
+spliced verbatim — deployer reliance, the narrowed controlling person, validation and
+nonconformity separated, proximate causation, the prospective insurance ban with
+restitution carved out, the no-chief-executive fallback, the approval mode struck,
+lineage and material-expansion interim defaults, autonomous external access defined,
+certification cadence, privilege preserved, the near-miss calibrated, the Attorney
+General fallback, and controlled research (companion nn.28–43; LEDGER Part II).
+v3.3 (August 2026): the audit-series assembly — findings section,
 severability ladder with revival, three-layer commencement on the enacted interim
 standards, the harm tier rebuilt to federal geometry with a sentencing valve, the
 records offense, clawback and insurance ban as offenses, penalty brackets pinned to the
