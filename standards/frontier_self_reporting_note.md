@@ -330,6 +330,13 @@ Two of the five categories are expressly **recordable but not reportable**. The
 Act is not built to treat every red-team result as a crisis; it is built so that
 the record exists.
 
+One historical footnote belongs in this table's margin: the law has met
+test-detecting software before. The defeat-device prosecutions imprisoned an
+engineer and an executive for code that behaved one way under evaluation and another
+in deployment (see the precedents section of the front page) — the exact behaviour
+the covert-capability and evaluation-awareness work catalogued in § 2.1 exists to
+measure. The measurement is new; the offence pattern is not.
+
 What the corpus does not supply is timing. SEC. 9(b) runs 72 hours from credible
 notice to preliminary notice — 24 where imminent risk of death or serious injury
 — with a full report within 30 days, and provides that the incompleteness of an
