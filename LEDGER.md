@@ -314,6 +314,28 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 August 2026 — What the laboratories already publish.** A technical note lands
+in `standards/`: the four classes of frontier self-reporting artefact, what is
+actually inside the fullest of them — claim trees, covert-capability evaluations,
+behavioural audits in the thousands of sessions, measured monitor recall, enumerated
+control failures — and which clause of this Act each part meets. The finding that
+matters is not that the documents are thin. They are not; the technical work is
+largely done. It is that under SEC. 3(c)(2)(D) the most candid safety document in
+the industry would be legally significant as notice rather than as compliance, and
+that SEC. 8 does not ask any executive to sign a probability estimate: certification
+is factual, the corpus is evaluative, and the Act keeps them apart on purpose. Also
+recorded: the mandated filing and the informative document are not the same
+document, so a statute reaching only the first reaches nothing that matters. The
+note carries a legal layer too, on what already attaches to these documents under
+existing law: they are admissible against their authors; publishing a framework and
+departing from it moves a laboratory closer to liability, not further from it, so
+that candour is presently taxed and silence rewarded; and the responsible-officer
+doctrine cannot reach anyone without a predicate statute to run on, which is why
+this project drafts rather than sues. It attributes no motive, alleges no
+wrongdoing, and rests on one worked example with four other frameworks marked
+capture-pending. SEC. 6(a) supplies its title sentence — an entity's own framework
+is evidence of neither.
+
 **19 August 2026 — The root, cleaned; the budget, declared.** Twenty-seven entries
 at the front door was a filing cabinet, not a threshold. The superseded v3.3 law
 family moves to `archive/` beside its ancestors; the adopted texts take their own
