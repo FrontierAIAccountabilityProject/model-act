@@ -1,5 +1,10 @@
 # v3.4 Cure Branch — Drop-in Amendment Language (Working Draft)
 
+> **STATUS — LANDED (19 August 2026).** Every cure below entered the statute verbatim
+> at v3.4; the diff between this file and `model_act_v3_4.txt` is the review artifact.
+> The housekeeping list at the foot was executed at the landing. This file is preserved
+> unchanged below this line.
+
 *Status: research draft for the public working branch. Cure language for maintainer review, keyed to `model_act_v3_3.txt` with exact anchor quotes for splicing. Cross-references: ERRATA E1–E5; the maintainers' cure queue (sixteen items, numbered as below). Bracketed matter remains an adopting-state choice. Not legal advice; named counsel review pending per the validation discipline. Nothing here is described as ready for introduction.*
 
 *Convention: **ANCHOR** quotes v3.3 verbatim so the edit lands mechanically. **STRIKE/INSERT** gives the operation. **NEW TEXT** is the full inserted language.*
