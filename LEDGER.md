@@ -157,6 +157,7 @@ as tagged:
 
 # CHANGELOG — Model Act (Frontier AI Public Welfare Offenses)
 
+
 ## Citation & signpost patch — 18 August 2026 (v3.3 text unchanged; packaging and citability only)
 
 - `model_act_v3_3.pdf` at the root replaced by a one-page **signpost** — the v2/v3.2
@@ -313,6 +314,8 @@ looks like.
 
 <a id="part-iii"></a>
 ## Part III — The diary
+
+**19 Aug, night — filings/ opened: the first federal comment** drafted against FDA-2026-N-7874, answering Q18, 21, 25 and 26 with a duty, a record, a clock, and a name — the name an officer who can halt the device, the no-go zone Figure 1's own upper-right. Tidied in the same breath: CHANGELOG.md retired into ERRATA.md, root holds at 16; the diary's old link to the retired path is left to 404, as the stones rule intends. B-variant 4,970 of 5,000.
 
 **19 August 2026 — The audit we ran on ourselves.** Before any reviewer could, we
 read the repository as each of the fifteen would. What held: SEC. 7(b) already
