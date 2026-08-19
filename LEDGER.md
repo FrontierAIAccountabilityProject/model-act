@@ -111,8 +111,17 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 *This register is append-only. When a statutory cure lands on the working branch, its entry gains a dated "landed" line; entries are never removed.*
 
-
 ---
+
+**E8 — 19 August 2026 (internal catch, same day).** The consolidated front page claimed
+that the original Sacramento scorecard table was "preserved verbatim in the diary"; it is
+not — the diary never carried the table. The claim is corrected to point to the
+repository's pinned history ([docs/06-track-record.md at commit 6f48eff](https://github.com/llmaolaw/model-act/blob/6f48eff/docs/06-track-record.md)),
+where the original card is preserved unchanged. Two smaller corrections landed in the same
+patch: the DeCoster chronology is reconciled (sentenced 2015; affirmed on appeal 2016), and
+an opening sentence overstating the general law is tightened to the statutory-gap claim the
+project actually makes. Caught by our own hostile read-through within the hour of
+publication; the fix is live on the front page. Status: cured.
 
 <a id="part-ii"></a>
 ## Part II — The changelog

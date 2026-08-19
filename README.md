@@ -117,8 +117,8 @@ in [the companion](./model_act_v3_3_companion.md) and [the record](./audit/recor
 ### The problem
 
 Thirty-two bills in a single Sacramento week regulated the machine; not one reached the
-person who ships it. That ratio is the problem in one sentence. The executives of frontier
-AI companies are not legally responsible, as individuals, for the products those companies
+person who ships it. That ratio is the problem in one sentence. No statute makes the executives of
+frontier AI companies responsible, as individuals, for the products those companies
 deploy — not the applications, not the vehicles, not the chatbots. If an egg producer
 poisons its customers, its chief executive can go to prison: that has been law since 1943,
 under what is now called the Park doctrine. For AI there is no equivalent. The company
@@ -148,7 +148,8 @@ AI. The principle throughout: authority entails liability.
 The doctrine has a history, and the history is the argument.
 
 **Officers have gone to prison for shipped products.** In 2015 the chief executive of an
-egg company was imprisoned after a salmonella outbreak he did not know about; he had the
+egg company was sentenced to prison after a salmonella outbreak he did not know about
+(affirmed on appeal in 2016); he had the
 authority to prevent it, and under *United States v. Park* (1975) that was enough. The
 doctrine has simply stopped, so far, at the food and drug line.
 
@@ -225,7 +226,7 @@ sanctions, and contractual gags are void (SEC. 11).
 **Almost nothing here is invented.** California, New York, and Illinois have already
 drawn the same lines — the 10^26 threshold, penalties on the order of a million dollars,
 mandatory frameworks; Illinois passed its statute 110–0. The one addition is personal
-criminal liability for the responsible officers, and that addition is eighty years old:
+criminal liability for the responsible officers, and that addition is more than eighty years old:
 egg executives have served real sentences under it. What v3.3 added: a severability
 ladder with revival, so a federal switch-off statute that later lapses cannot leave the
 Act dark (SEC. 13); a three-layer commencement borrowing interim standards verbatim from
@@ -289,7 +290,7 @@ knew. The doctrine convicted anyway. → SEC. 6(b)(1) and SEC. 10(c)(4): each pe
 or seriously injured is a separate offense, and restitution follows the harm, not the
 mental state.
 
-**2016 — jail for eggs.** *DeCoster*: two egg executives imprisoned after a
+**2016 — jail for eggs, upheld.** *DeCoster*: two egg executives' prison sentences upheld after a
 half-billion-egg salmonella recall; the concurrence supplied the constitutional floor —
 fines may be strict, but prison requires fault. → SEC. 6(c). Food and drug executives
 have been personally liable for what ships since 1943; the doctrine reached eggs in 2016.
@@ -431,8 +432,8 @@ lesson entered the method: every bill now receives two grades, whether it lives 
 whom it points at. Survival was never the question; direction is. The full
 thirty-two-call table and California's enforcement ladder — who may sue, who pays the
 state, and the closing observation that every one of those remedies costs the
-responsible officers personally nothing — are preserved verbatim in
-[the diary's record of the original card](./LEDGER.md#part-iii). The standing conclusion
+responsible officers personally nothing — are preserved verbatim in the repository's
+history, at [the original card as last published](https://github.com/llmaolaw/model-act/blob/6f48eff/docs/06-track-record.md). The standing conclusion
 is unchanged: thirty-two bills regulate the machine, and the only bill pointing at the
 officers themselves is the one this project drafted.
 
