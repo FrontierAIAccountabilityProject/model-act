@@ -314,6 +314,18 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 August 2026 — The root, cleaned; the budget, declared.** Twenty-seven entries
+at the front door was a filing cabinet, not a threshold. The superseded v3.3 law
+family moves to `archive/` beside its ancestors; the adopted texts take their own
+`standards/` shelf; three duplicate PDFs (archived twins intact) and five signpost
+stones are removed — git remembers every byte and every path, and nothing any
+reader was ever sent can break, the outbound record having been checked before a
+single file moved. `ERRATA.md` and `CHANGELOG.md` remain as pointers, the two
+names this register once went by. And the rule, standing from tonight: the root
+carries roughly fourteen entries; nothing new lands there without an equal
+departure; reference matter shelves in folders by default. A front door is for
+entering, not for filing.
+
 **19 August 2026 — The adopted texts, pinned.** SEC. 3(c)(4) freezes three enacted
 state standards and orders them free to read; the research draft now practises the
 rule itself. `interim_standards.md` pins California B&P § 22757.12 (from the 2025
