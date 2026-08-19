@@ -287,6 +287,12 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 August 2026 — Evidence: the research arm.** Chapter 04 of the dossier gains a
+pinned entry on a frontier laboratory's same-day hire of the leading scholar of the
+AI backlash, cross-referenced against the training pause in chapter 02; the chapter 02
+entry is also tightened to the register's one-quotation discipline. Structural
+analysis, stated limits, no motives attributed.
+
 **19 August 2026 — The consolidation.** The repository was reorganised from seventy-one
 files into a small number of complete, scrollable documents: the front page absorbed the
 plain-language cards, the reviewer's edition, and the contributing notes; the three
