@@ -1,28 +1,50 @@
-# Model Act — Frontier AI Public Welfare Offenses (v3.3)
+# Model Act — Frontier AI Public Welfare Offenses
 
-Model state legislation. Personal criminal liability for the responsible officers of
+Model state legislation: personal criminal liability for the responsible officers of
 frontier AI companies, on the doctrine of *United States v. Park*, 421 U.S. 658 (1975).
 
 **Public domain. No attribution required. Steal it.**
 
-**Status.** The current version is **[`model_act_v3_4.txt`](./model_act_v3_4.txt)** — the
-Act, SEC. 0–13, research draft, current at v3.4 — together with **[the companion](./model_act_v3_4_companion.md)**
-(drafting notes, open items, the constitutional defense) and
-**[the regulations](./model_regulations_v1_draft.md)** (draft implementing rules). The
-plain-text file is authoritative; a jacket-clean copy, identical in text and stripped of
-campaign lines, is at [`model_act_v3_4_jacket_clean.txt`](./model_act_v3_4_jacket_clean.txt).
-The typeset edition is withdrawn pending a reproducible rebuild. The v3.3 files remain in
-place, byte-identical beneath their tag; v3.4's changes entered verbatim from the published
-cure queue and are itemised, with checksums, in the ledger's changelog. The register of our own
-mistakes, the changelog, and the project diary are one document:
-**[`LEDGER.md`](./LEDGER.md)**. On 19 August 2026 this repository was consolidated from
-seventy-one files into the small set below; no content was deleted, every merge is
-checksummed, and every superseded path remains as a signpost. Detail: [File status and
-history](#file-status-and-history).
+## Overview
+
+The one instrument with an eighty-year record of changing executive behaviour —
+personal criminal exposure under the public-welfare doctrine — has never been extended
+past the food-and-drug frontier. This repository extends it, in public: statute,
+apparatus, evidence, and an append-only register of the project's own mistakes,
+drafted by humans and AI with every claim pinned to a checkable source.
+
+## Status
+
+- **Current text:** v3.4 — tagged; sha256 checksums in [`LEDGER.md`, Part II](./LEDGER.md#part-ii)
+- **Nature:** research draft, never enacted; bracketed matter is an adopting state's choice
+- **v3.4 amendments:** entered verbatim from the published cure queue — announcement and statute are diffable
+- **Review:** council assembly under way; this text claims no "survived review" until named reviewers sign
+- **Typeset edition:** withdrawn pending a reproducible rebuild; plain text is authoritative
+- **License:** CC0 — public domain
+
+## Repository structure
+
+```
+model-act/
+├── README.md                        # the book — case, translation, questions, provenance
+├── model_act_v3_4.txt               # the statute, SEC. 0–13 (authoritative text)
+├── model_act_v3_4_jacket_clean.txt  # bare statutory text for a bill folder
+├── model_act_v3_4_companion.md      # drafting notes n.1–n.43, open items for v4
+├── model_regulations_v1_draft.md    # draft implementing regulations
+├── LEDGER.md                        # errata · changelog · diary — append-only
+├── CITATION.cff · LICENSE
+├── ERRATA.md · CHANGELOG.md         # historic register names — pointers into the ledger
+├── standards/                       # the adopted interim texts, pinned verbatim
+├── archive/                         # superseded versions — nothing is ever deleted
+├── audit/                           # the frozen drafting record + the cure queue
+├── dossier/                         # the evidence file, every fact pinned
+├── docs/                            # retired paths (signposts)
+└── pages/                           # the withdrawn typeset's page images
+```
 
 ## Contents
 
-This repository is seven documents. Everything else is a signpost, an archive, or a
+This repository is eight documents. Everything else is a signpost, an archive, or a
 machine-readable file.
 
 | Document | What it is |
@@ -41,14 +63,8 @@ On this page: [For the review council](#for-the-review-council) · [Questions th
 [Contact and contributions](#contact-and-contributions) ·
 [File status and history](#file-status-and-history)
 
-*The graveyard: [`/archive`](./archive/) holds superseded versions with their corrections
-attached; [`/pages`](./pages/) holds the withdrawn typeset's page images; five root
-signposts (`model_act_v2.pdf`, `model_act_v3_2.pdf`, `model_act_v3_2.txt`,
-signposts for retired paths were themselves retired on 19 August 2026 — the root now
-fits in one glance, git remembers every former path, and superseded law lives in
-[`archive/`](./archive). Two historic register names, `ERRATA.md` and `CHANGELOG.md`,
-remain as pointers into the ledger.
-public is ever deleted; corrections travel with the claims they correct.*
+*Superseded versions live in [`archive/`](./archive) with their corrections attached;
+retired paths were cleaned on 19 August 2026 — git remembers every former path.*
 
 <a id="for-the-review-council"></a>
 ## For the review council

@@ -324,7 +324,9 @@ single file moved. `ERRATA.md` and `CHANGELOG.md` remain as pointers, the two
 names this register once went by. And the rule, standing from tonight: the root
 carries roughly fourteen entries; nothing new lands there without an equal
 departure; reference matter shelves in folders by default. A front door is for
-entering, not for filing.
+entering, not for filing. The front matter is restyled to the repository idiom
+the same night — overview, status, and a structure tree before the book begins —
+and the title sheds a fossil version number.
 
 **19 August 2026 — The adopted texts, pinned.** SEC. 3(c)(4) freezes three enacted
 state standards and orders them free to read; the research draft now practises the
