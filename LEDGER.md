@@ -314,6 +314,21 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 August 2026 — The precedents gain their prison record.** The front page's
+doctrine history now carries the two cases the account will cite: the 2011 bone-cement
+sentences — the first imprisonments under the Park doctrine, imposed on executives a
+federal judge found had raced competitors to market around the approval process — and
+the 2007 OxyContin pleas, where personal fines the employer paid taught the design
+lesson SEC. 7 encodes: the sanction that bit was exclusion, not money. The register
+moves before the account does; the posts inherit their receipts.
+
+**19 August 2026 — Evidence: the research arm, doubled.** Chapter 04 gains the
+second half of a same-day pair: a constitutional-law scholar joins the same
+laboratory's rule-of-law unit, whose published mandate now includes "questions of
+liability" in its own words. Structural analysis only — scale, remit, and venue —
+with the Act's answer stated once: research may live inside the laboratory;
+responsibility cannot.
+
 **19 August 2026 — What the laboratories already publish.** A technical note lands
 in `standards/`: the four classes of frontier self-reporting artefact, what is
 actually inside the fullest of them — claim trees, covert-capability evaluations,

@@ -385,6 +385,33 @@ egg company was sentenced to prison after a salmonella outbreak he did not know 
 authority to prevent it, and under *United States v. Park* (1975) that was enough. The
 doctrine has simply stopped, so far, at the food and drug line.
 
+**The first prison sentences under the doctrine came from a race to market.** Between
+2002 and 2004 a medical-device maker ran unauthorized trials of a bone cement in
+spinal surgeries — a use the product's own label warned against — on roughly two
+hundred patients. Three died on the operating table. The company did not recall the
+product, because a recall meant disclosing the deaths to the FDA; at the next
+inspection it made false statements instead (U.S. Dep't of Justice, E.D. Pa. release,
+4 Oct. 2010). In 2011, four executives — the North America president among them —
+were sentenced to between five and nine months in federal prison, $100,000 each, as
+responsible corporate officers (*United States v. Norian Corp.*, E.D. Pa.), and were
+afterward excluded from federal health-care programs. The sentencing judge's stated
+finding: they wanted to beat competitors to market without the lengthy approval
+process. That sentence — from a federal bench, fifteen years ago — is the frontier AI
+race argument, already adjudicated.
+
+**The doctrine also recorded which sanctions fail.** In 2007 three executives of the
+maker of OxyContin pleaded guilty solely as responsible corporate officers — the plea
+expressly admitting no personal knowledge or intent (*United States v. Purdue
+Frederick Co.*, W.D. Va., No. 1:07-cr-29). Personal penalties of $34.5 million —
+which multiple contemporaneous accounts record their employer paying on their behalf
+— probation, community service, no prison. What altered their careers was none of it:
+exclusion from federal health-care programs, set at fifteen years, affirmed,
+litigated for years, ultimately twelve. A fine routed through the entity is a cost of
+business; a consequence attached to the person is a consequence. SEC. 7 of the Act is
+drafted from exactly this record. The Senate hearing on the case, in 2007, was titled
+"Ensuring That Death and Serious Injury Are More Than a Business Cost." The title has
+been available as a thesis for nineteen years.
+
 **Entity-level consequences have demonstrably failed to reach the person.** In 2018 the
 Securities and Exchange Commission charged Elon Musk with securities fraud; he settled for
 $20 million — then well under a tenth of one percent of his wealth — admitted nothing,
