@@ -173,11 +173,23 @@ of one percent of lineage compute or 10^24 operations — precisely because that
 should be kicked by evaluations researchers, not asserted by drafters. Open, and
 invited.
 
-*The standards question.* The interim standards are not invented here: they are
-borrowed verbatim, dated and chapter-cited, from three enacted state frameworks, so
-no agency's silence stalls the duties. Where the regulations draft references a
-paywalled industry standard, that conflict with the Act's own free-access rule is a
-known defect with a drafted cure in the public queue.
+*The standards are paywalled — isn't that a problem?* Yes, and the Act treats it as
+one of principle, not convenience. A standard incorporated by reference into a
+compliance regime is law you must pay to read, and law you must pay to read fails
+the oldest requirement in the rule-of-law tradition: rules must be promulgated
+before they can bind. The courts have fought this exact fight over building codes
+and technical standards — model codes enacted into law enter the public domain as
+law (*Veeck v. Southern Building Code Congress International*, 5th Cir. 2002, en
+banc), the government-edicts doctrine keeps official legal text uncopyrightable
+(*Georgia v. Public.Resource.Org*, 2020), and posting standards that the law
+incorporates has been held fair use (*ASTM v. Public.Resource.Org*, D.C. Cir.
+2023). This Act sides with that line: SEC. 3 requires that no standard bind unless
+freely accessible. And the register applies the rule to ourselves first: the interim
+standards are borrowed verbatim, dated and chapter-cited, from three enacted state
+frameworks anyone can read — but the regulations draft references one paywalled
+industry standard, which conflicts with the Act's own free-access rule. Defect
+owned; cure drafted; both in the public queue. An accountability regime whose
+rulebook sits behind an invoice would be the thing this project exists to end.
 
 **Asked by legislators and staff.**
 

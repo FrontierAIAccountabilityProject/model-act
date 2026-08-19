@@ -291,7 +291,10 @@ looks like.
 ground floor up — "will my job be affected?" first, doctrine last — and absorbs the
 best objections caught in the wild under their field-note names: the leash, the gun
 analogy, the Price-Anderson bargain, the cheapest gut. Several answers stay honestly
-open for the council's seats; the wild record stays frozen in the field notes.
+open for the council's seats; the wild record stays frozen in the field notes. The
+standards answer grows into the full incorporation-by-reference case — law you must
+pay to read fails the publicity the rule of law requires — with our own regulations'
+paywalled reference owned as the exhibit, cure drafted.
 
 **19 August 2026 — The questions, moved to the front.** The book gains a section of
 the questions this project is actually asked, grouped by who asks them — lawyers,
