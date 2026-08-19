@@ -287,6 +287,14 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 August 2026 — The questions, moved to the front.** The book gains a section of
+the questions this project is actually asked, grouped by who asks them — lawyers,
+engineers, legislators, everyone — with three answers honestly marked open and
+reserved for the council's seats. The exhaustive set remains in the dossier's
+question-and-answer chapter; the front page carries the living-room version. (The
+same upload restores the front page after a brief mis-shelving in which the evidence
+file sat at root; the dossier lands at its own path, nothing lost, git remembers.)
+
 **19 August 2026 — Evidence: the research arm.** Chapter 04 of the dossier gains a
 pinned entry on a frontier laboratory's same-day hire of the leading scholar of the
 AI backlash, cross-referenced against the training pause in chapter 02; the chapter 02
