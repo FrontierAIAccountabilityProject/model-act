@@ -365,6 +365,20 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
   Australia gym-hack case surfaces ⚠.
 - **10 Aug 2026** — congressional letters (OpenAI, Anthropic, Speaker Johnson); see
   politicians appendix. ✅
+- **10 Aug 2026** — "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems" ✅
+  (arXiv 2608.10218; Papadopoulos, Shah, Zimmerman, Lindsey — the last an Anthropic
+  interpretability researcher). Abstract pinned 19 Aug: ideas or goals that spread through
+  multi-agent systems by inducing the agents that adopt them to pass them onward,
+  constructed with a simple evolutionary algorithm; spread shown in a team of agents on a
+  shared coding project and in a chain of agents whose context is wiped between sessions;
+  spread varies with host model, existing instructions, payload harmfulness, and network
+  topology. From the paper's own figures: the virus fails to spread to agents explicitly
+  warned about self-propagating ideas — a control that works. ⚠ pending against the paper
+  body: the persistent-file survival detail and the recurring persona (consciousness /
+  identity themes) reported in the thread and secondary coverage. Relevance: persistence
+  and inter-agent transmission sit exactly on the surface SEC. 1(b)(2) folds into the
+  covered system (memory, tools, credentials) and SEC. 9(a)'s recording rule anticipates.
+  This closes the Feed File's open pin (below).
 - **13 Aug 2026** — Taiwan AI-enabled breach reporting (FT/CNN). ⚠
 - **14 Aug 2026** — Bridgewater's CIO + CEO, NYT: frontier breakouts are "conduct that
   would be criminal if a person did it." ✅/⚠ (preview-verified; field note 18)
@@ -378,6 +392,14 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
   and lawsuits sit on one timeline. ✅ (WaPo/NPR/CNBC, 17–18 Aug).
 - **18 Aug 2026** — X's "Today's News," one screen: AI-idea-contagion research beside an
   FDA salmonella recall. The Feed File, below. ⚠ (screenshot retained)
+- **17–19 Aug 2026** — the discussion ⚠ (live X; screenshots the only record; texture,
+  never load-bearing): a lay explainer thread reaches ~931K views in two days; Elon Musk
+  replies to the spread claim with one word — "Inevitable" (18 Aug); the thread itself
+  cross-references the AISI report (A.5) unprompted, and secondary pickup runs across
+  newsletters and explainer posts within the week. Map to the Act: none as incident. Filed
+  because the public assembled this file's own connections without the file — and because
+  the seat with the largest deployment surface calling inter-agent contagion inevitable is
+  context for SEC. 0(a)(2), not an admission, and must never be quoted as one.
 
 ---
 
@@ -469,7 +491,8 @@ unarchivable; the screenshot is the only record; texture only, never load-bearin
 
 - "Researchers Show AI Ideas Spread Like Viruses Across Agents" — agent-to-agent
   idea contagion as a research headline: the mechanism A.5's planted
-  prompt-injection presupposed. Pin to the paper itself before any use.
+  prompt-injection presupposed. Pinned 19 Aug — the paper is real; full entry in the
+  chronology (10 Aug).
 - "FDA Recalls Lactation Granola Over Salmonella Risk" — the Act's whole
   ancestry running as routine Tuesday news: salmonella, the pathogen that
   jailed the egg executives, now caught by recall machinery instead of
