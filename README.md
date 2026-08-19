@@ -12,7 +12,28 @@ responsible officers of frontier AI companies, on the doctrine of
 one entry per upload, newest first. **New, or wondering what's quiet on purpose?**
 [Behind the scenes](./docs/08-behind-the-scenes.md).
 
-**Contents:** [Start here](#start-here) · [What's in this repository](#whats-in-this-repository) · [Why anonymous, why us](#why-anonymous-why-us) · [The stories in the statute](#the-stories-in-the-statute) · [Verify it](#verify-it) · [How to cite](#how-to-cite) · [The short version](#the-short-version) · [What's deliberately not here](#what-is-deliberately-not-in-this-repository) · [Who this needs](#who-this-needs) · [File status & history](#file-status--history) · [License](#license)
+## The repository, mapped
+
+| The file | What it is |
+|---|---|
+| [`model_act_v3_3.txt`](./model_act_v3_3.txt) | **the statute** — SEC. 0–13, research draft; the authoritative text ([jacket-clean copy](./model_act_v3_3_jacket_clean.txt) alongside, for the bill folder) |
+| [`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md) | **the why** — drafting notes, open items, the constitutional defense |
+| [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) | **the how** — companion regulations; what an engineer needs |
+| [`/docs`](./docs/) | **the case** — nine plain-language cards; start here if you're new |
+| [`/dossier`](./dossier/) | **the evidence** — incidents, the power map, the money, the congressional record; every fact pinned ✅/⚠ |
+| [`/audit`](./audit/) | **the record** — how each version became the next, hostile brief included |
+| [`ERRATA.md`](./ERRATA.md) | **the mistakes** — what we got wrong, in our own hand |
+| [`CHANGELOG.md`](./CHANGELOG.md) | **the deltas** — what changed each version, and why |
+| [`WHAT_JUST_HAPPENED.md`](./WHAT_JUST_HAPPENED.md) | **the diary** — one entry per upload, newest first |
+| [`/archive`](./archive/) · [`/pages`](./pages/) | **the superseded** — old versions kept in place, corrections attached |
+| [`CITATION.cff`](./CITATION.cff) · [`LICENSE`](./LICENSE) | **cite it · steal it** — tagged and checksummed · CC0 |
+
+*Three timelines, three altitudes — the diary records what this project did; the story
+([context: summer 2026](./docs/07-context-timeline.md)) tells what the world did, in plain
+words; the evidence ([the incident timeline](./dossier/02_incident_timeline.md)) proves it,
+pinned. Same events on purpose; never the same job.*
+
+*Also on this page, below:* [Start here](#start-here) · [Why anonymous, why us](#why-anonymous-why-us) · [The stories in the statute](#the-stories-in-the-statute) · [How to cite](#how-to-cite) · [Who this needs](#who-this-needs) · [File status & history](#file-status--history)
 
 Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park* doctrine belongs to no one. We just did the assembly.
 

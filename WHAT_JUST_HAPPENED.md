@@ -11,6 +11,12 @@ subscribe to the raw feed:
 
 ---
 
+**19 aug 2026 · the repository, mapped.** the front page now opens with a contents table a
+thesis examiner would recognize — every file, one noun each: the statute, the why, the how,
+the case, the evidence, the record, the mistakes, the deltas, the diary, the superseded.
+underneath it, the three-timelines legend, made permanent. the architecture stops being
+implicit; a reader's first five seconds now explain the next five hours.
+
 **19 aug 2026 · the front door, rehung.** same door, same voice — the readme gained a
 contents list, the pdf housekeeping moved off the top into a "file status & history"
 section at the bottom, and two legacy sections ("the documents," "where to start") merged
