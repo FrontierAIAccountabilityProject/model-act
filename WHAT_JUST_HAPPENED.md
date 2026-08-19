@@ -8,6 +8,15 @@ holds the mistakes; this page holds the story. subscribe to the raw feed:
 
 ---
 
+**19 aug 2026 · the open pin, closed.** the feed file's contagion headline said "pin to
+the paper itself before any use" — done. the paper is real: arXiv 2608.10218, "mind
+viruses," 10 aug, four authors including an anthropic interpretability researcher.
+abstract pinned ✅; the persona and persistent-file details stay ⚠ against the paper
+body. also filed, as texture: the two-day discussion — a 931k-view lay thread, a
+one-word reply from the largest seat-holder, and the public cross-referencing the AISI
+report on its own. the dossier's connections are being made without the dossier.
+vivid, flagged, never load-bearing.
+
 **18 aug 2026 · the feed did the marketing.** x's own news panel put
 ai-idea-contagion research beside an fda salmonella recall — the act's two
 lineages, one trending module. filed as texture (⚠, screenshot retained,
