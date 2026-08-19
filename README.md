@@ -632,11 +632,35 @@ has no name to put on a certification; a person does. The incident and the statu
 produced by the same class of tool, and only one of them was signed.
 
 <a id="verify-it"></a>
-### Verify it
+### Verify it — and how to interrogate this statute with an AI
 
-Paste the Act into the model of your choice and ask: *are the citations in this document
-real? Check each one.* They are. The statute is not, yet. The second part is the part a
-reader can change.
+The house method, unchanged: paste the Act into the model of your choice and ask —
+*are the citations in this document real? Check each one, and list any you cannot
+confirm.* They are. The statute is not, yet; that second part is the part a reader
+can change. For the strict pass, upgrade the ask: *for each authority cited, state
+whether it exists, whether the proposition attributed to it matches the source, and
+what you could not verify — do not assume.* A vague question earns a vague blessing;
+that one earns a verdict per citation.
+
+For more than verification, a prompt works best carrying three things in order: what
+you are trying to do, the material and its frame, and then the instruction itself —
+stated last, and one at a time. Ask the model to say what it could not confirm. Five
+that earn their keep:
+
+- *You are a state legislative counsel receiving this bill. Read SEC. 3 and SEC. 12
+  and list what you would redraft before introduction, and why.*
+- *You are defense counsel for a covered officer. Which elements of SEC. 5 and
+  SEC. 6 would you attack first, and what facts would you need to win?*
+- *I have never read a statute. Explain SEC. 4 to me plainly — then explain it again
+  as if I were a prosecutor deciding whether to charge.*
+- *Compare SEC. 9's incident reporting with my state's newest AI law, and list what
+  each requires that the other does not.*
+- *Steelman the strongest objection to this Act that its own hostile brief does not
+  already contain — then send it to us.*
+
+One craft note: a model treats everything pasted as relevant, so paste the section
+you mean rather than the repository; and counting and arithmetic are its weakest
+skills — check the numbers yourself, which is rather the spirit of the whole project.
 
 <a id="provenance-and-method"></a>
 ## Provenance and method

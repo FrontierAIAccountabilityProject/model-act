@@ -287,6 +287,12 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 August 2026 — …and laddered.** The questions section is reordered from the
+ground floor up — "will my job be affected?" first, doctrine last — and absorbs the
+best objections caught in the wild under their field-note names: the leash, the gun
+analogy, the Price-Anderson bargain, the cheapest gut. Several answers stay honestly
+open for the council's seats; the wild record stays frozen in the field notes.
+
 **19 August 2026 — The questions, moved to the front.** The book gains a section of
 the questions this project is actually asked, grouped by who asks them — lawyers,
 engineers, legislators, everyone — with three answers honestly marked open and
