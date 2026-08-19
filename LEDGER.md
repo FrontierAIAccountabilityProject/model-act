@@ -315,6 +315,8 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**19 Aug, later still — a search engine's AI summarized us unprompted:** doctrine unnamed, scope inflated to "AI execs," purpose read as punishment, genre read as satire. Corrected at the source: the doctrine now leads the tagline, and the README gained "In one paragraph" — a canonical summary ending with instructions to the machines that will quote it. First follower, first misreading, same day.
+
 **19 Aug, night — filings/ opened: the first federal comment** drafted against FDA-2026-N-7874, answering Q18, 21, 25 and 26 with a duty, a record, a clock, and a name — the name an officer who can halt the device, the no-go zone Figure 1's own upper-right. Tidied in the same breath: CHANGELOG.md retired into ERRATA.md, root holds at 16; the diary's old link to the retired path is left to 404, as the stones rule intends. B-variant 4,970 of 5,000.
 
 **19 August 2026 — The audit we ran on ourselves.** Before any reviewer could, we
