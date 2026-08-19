@@ -33,11 +33,12 @@ model-act/
 ├── model_regulations_v1_draft.md    # draft implementing regulations
 ├── LEDGER.md                        # errata · changelog · diary — append-only
 ├── CITATION.cff · LICENSE
-├── ERRATA.md · CHANGELOG.md         # historic register names — pointers into the ledger
+├── ERRATA.md                        # historic register names — one pointer into the ledger
 ├── standards/                       # the adopted interim texts, pinned verbatim
 ├── archive/                         # superseded versions — nothing is ever deleted
 ├── audit/                           # the frozen drafting record + the cure queue
 ├── dossier/                         # the evidence file, every fact pinned
+├── filings/                         # public-docket submissions — published as filed
 ├── docs/                            # retired paths (signposts)
 └── pages/                           # the withdrawn typeset's page images
 ```
@@ -199,6 +200,48 @@ short version is the tradition: Publius, Junius, Dickinson — arguments built t
 stand without a byline, because the citations are the only authority they have.
 Check them.
 
+*"This reads like a manifesto."* A manifesto demands; a statute submits — to elements,
+burdens of proof, juries, and severance. Every consequence in this text is drafted
+against the drafter: burdens sit on the prosecution, defences on the face, penalties
+in brackets for someone else to fill. And the genre test is short: manifestos cannot
+be marked wrong, and this document keeps a public list of the times it was ([the
+register](./LEDGER.md#part-i)).
+
+*"The name is a joke and the penalties are life imprisonment. Pick one."* Both were
+picked, on purpose, and the pairing is older than this project: gallows humour is the
+working register of people who mean it. The name also does a day's work as a filter —
+a reader stopped by a byline was never going to reach the elements, and an anonymous
+text asks to be judged the only way it can be: on what it says.
+
+*"Who funds this?"* No one — no client, no organisation, no budget — and the claim is
+falsifiable the only way an anonymous claim can be: the entire production record,
+drafts and errors and reversals and timestamps, is public and append-only. Astroturf
+conceals its provenance; this project's provenance *is* the repository. There is also
+nothing for a client to buy: the text is CC0, which is a strange business model for a
+front.
+
+*"Where are the bodies?"* In [the incident timeline](./dossier/README.md#chapter-02),
+which exists because the question deserves a file rather than a sentence. The older
+answer is structural: the offence is shipping unvalidated, precisely so the count
+stays where it is — prevention that works is always accused of solving nothing.
+
+**Asked from the left.**
+
+*This is frontier fetishism — the harms happening now sit below your compute line.*
+Guilty as scoped, and the scope is the point: this is one statute about one gap — no
+person yet answers personally for the largest systems — not a theory of all AI harm.
+Sub-frontier injuries have live statutes, agencies, and plaintiffs, and SEC. 0(a)(7)
+keeps every one of them in force. A bill that tried to be the whole of AI justice
+would be the omnibus that dies in committee, taking the gap down with it.
+
+*Prison as a theory of change is still carceral politics.* The Act's centre of gravity
+is not the cell: the working instruments are the signature, the disgorgement, the
+disqualification, and the debarment — consequences that reach the person without
+filling a prison — and the custodial tiers exist because their absence has a market
+price. As for the doctrine's ugly history: eighty years of public-welfare liability
+were spent almost entirely on warehouse managers and pharmacists. The novelty being
+objected to is not the aim; it is the direction.
+
 **Asked by engineers and researchers.**
 
 *Am I personally liable?* No. The exclusions are on the face of the definitions:
@@ -245,6 +288,12 @@ provenance page, and text your own legislative counsel will redraft anyway — t
 architecture is handed over; your office pours the concrete. The anonymity sits where
 it belongs: on the campaign layer, which never shares a page with the bill folder.
 
+*Nobody is asking for this bill — where is the constituency?* Conceded before any
+critic arrives: a model act's audience is measured in sponsors, and the current count
+is zero, on the record. The Model Penal Code needed no crowd — it needed reporters, a
+decade, and one legislature at a time. The claimed path is the same and no shorter:
+named reviewers, then a sponsor's counsel, then one state.
+
 *What is the attack ad against me?* "Criminalising innovation." The answer is on the
 face of the text: engineers are exempt by definition, the thresholds and penalty
 brackets carry numbers governors of both parties have already signed, and
@@ -279,6 +328,12 @@ rather than rebutted: the Act minimises what capture can switch off. Duties comm
 on standards already enacted elsewhere; no approval mode exists to sit on; if the
 agency never organises, filings run to the attorney general. An agency that cannot
 gate the duties is an agency not worth capturing.
+
+*With approval forbidden (SEC. 3(b)), how does anyone buy certainty?* By filing, not
+by queueing: validation is documentary, self-executed against published standards, and
+complete the day it is transmitted — the seatbelt model, not the drug-approval model.
+What SEC. 3(b) forbids is the waiting room, which is where delay and capture both
+live.
 
 **Asked by lawyers.**
 
@@ -319,10 +374,28 @@ concurrence drew. What it deliberately omits is a good-faith defence, following 
 beneath the felony is a genuine design question — open, and squarely within the
 criminal-law seat.
 
+*Park was a $250 misdemeanour; you attach life imprisonment to a negligence floor.*
+Different floors, kept apart on the face of the text: the due-care offence of SEC.
+6(a) *is* the Park misdemeanour — one year at most (SEC. 10(b)). Life enters only
+through SEC. 6(b)(1), knowing or wilful conduct, plus a death charged as but-for and
+proximate cause under *Burrage*, per victim, to a jury — the mens rea and structure
+every state already uses between manslaughter and murder. The one bracketed novelty is
+the [two]-year minimum, held open for the criminal-law seat.
+
 *What about deferred and non-prosecution agreements?* The Act is silent, leaving
 charging discretion where state law puts it. Whether negotiated dispositions should be
 cabined for individual liability — the settlement culture is much of why entity-level
 enforcement stopped deterring — is open, and belongs to the enforcement seat.
+
+*No attorney general will bring the first case — SEC. 4 is unprovable against a
+governance chart built by three firms.* Year one is filing cabinets by design: the
+offences that commence immediately are documentary — records, reports, statements,
+certifications — and documentary cases are the ones offices actually bring. Thereafter
+the signature does the element's work: the person who certified under SEC. 8 is the
+person who claimed the authority, in writing. The FDCA comparison also cuts backwards
+— *Park* prosecutions are rare because the exposure works ex ante. Whether SEC. 4
+survives a real charging memo is [the enforcement seat's](#for-the-review-council)
+core question — open, and the seat exists because it is.
 
 *Doesn't banning insurance and indemnification destroy market discipline?* The
 counter-argument is respected: insurers can be private regulators. But insurance
@@ -338,6 +411,34 @@ looking starts the clock anyway; the records offenses punish destruction and
 falsification, not disclosure; and disclosing nonconformity is a protected filing
 that simply does not count as validation. The deeper incentive-design question is
 real, and open.
+
+*Roughly a dozen defendants, and a wealth dossier in the same repository — this is
+targeted legislation.* The statute is general on its face and in operation: it names
+no person and no firm, defines its class by conduct and scale any actor may enter or
+exit, and takes its thresholds from figures other legislatures enacted first. Small
+classes are how frontier regulation begins — the roster of systemically important
+banks runs to about thirty institutions and no court has called their statute an
+attainder. Attainder punishes named persons without trial; this Act punishes no one —
+it creates offences, tried to juries, under the drafters' own burdens. The dossier is
+an evidence file for journalists; the statute never cites it.
+
+*You rewrote three states' statutes by stripping their thresholds — that isn't
+incorporation, it's ventriloquism.* No sister state is amended or spoken for: the
+borrowed texts operate only as this State's own interim standards, frozen as of a
+stated date, so no other legislature drafts for this one prospectively. What is
+stripped are the enacting states' fiscal choices about their own machinery — subjects
+SEC. 3(c)(4)(D) reserves to this Act — not their safety judgments. States borrow
+enacted text constantly, from tax codes to building codes; the only novelty here is
+doing it with a date and a checksum.
+
+*"Deployed in or into this State" is extraterritorial — dormant Commerce Clause.* The
+Act regulates the subject that doctrine protects rather than threatens: harm to
+persons in-state, evenhandedly. SEC. 0(a)(5) is operative, not decorative — no
+in-state advantage, no out-of-state burden an in-state actor doing the same conduct
+escapes — and the findings disclaim any duty arising from research, training, or
+development that neither occurs in-state nor concerns a system sent there (SEC.
+0(a)(3)). The sibling formulas are enacted law in the interim standards' home states;
+the full map is [chunk 2](./audit/record.md#chunk-2).
 
 *Why won't federal preemption kill it?* It may try; the armour is operative text, not
 cover copy — SEC. 0 states the core, SEC. 13 orders the severance and revives

@@ -14,7 +14,7 @@ path. A verified typeset edition returns with the rebuild.
 **`model_act_v3_2.pdf` / `model_act_v3_2.txt`** (superseded 16 August 2026 by v3.3).
 The v3.2 penalty arithmetic — the stacked-maximums figure that circulated — was corrected
 at v3.3: the valve is enacted sentencing law, not stacked statutory maximums. See
-[CHANGELOG.md](../CHANGELOG.md) and
+[the Ledger, Part II](../LEDGER.md#part-ii) and
 [/audit/chunk3_penalty_architecture.md](../audit/chunk3_penalty_architecture.md) for the
 architecture and the enacted-family numbers (CA/NY/IL: $1M severity-scaled, "not to
 exceed," with recidivism steps).
