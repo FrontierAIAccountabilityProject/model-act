@@ -2,11 +2,29 @@
 
 *one entry per upload. newest first. plain words. failures in the same font size as
 wins. the [changelog](./CHANGELOG.md) holds the detail; the [errata register](./ERRATA.md)
-holds the mistakes; this page holds the story. subscribe to the raw feed:
+holds the mistakes; this page holds the project's own story. (the world's
+story, plain words, is [context: summer 2026](./docs/07-context-timeline.md); the
+evidence-grade record of those dates is [the dossier timeline](./dossier/02_incident_timeline.md).)
+subscribe to the raw feed:
 [commits](https://github.com/llmaolaw/model-act/commits/main) ·
 [atom](https://github.com/llmaolaw/model-act/commits/main.atom).*
 
 ---
+
+**19 aug 2026 · the front door, rehung.** same door, same voice — the readme gained a
+contents list, the pdf housekeeping moved off the top into a "file status & history"
+section at the bottom, and two legacy sections ("the documents," "where to start") merged
+into the router and the repository list they duplicated, their unique clauses carried
+over. also: "seven short cards" undercounted; the chain now runs to card nine. nothing
+deleted, everything relocated. an academic should reach the cite block in ten seconds
+and "steal it" in five.
+
+**19 aug 2026 · one name per timeline.** the readme was calling two different pages
+"what just happened" — this running log, and the context card whose actual name is
+"context: summer 2026." relabeled. while here, this header now says which of the three
+timelines does which job: diary (this page), story (docs/07), evidence (dossier/02).
+same events, three altitudes, on purpose — a reader should never need luck to land on
+the right one.
 
 **19 aug 2026 · the open pin, closed.** the feed file's contagion headline said "pin to
 the paper itself before any use" — done. the paper is real: arXiv 2608.10218, "mind

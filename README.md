@@ -6,23 +6,22 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **Public domain. No attribution required. Steal it.**
 
-**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the Act, SEC. 0–13 — research draft) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). Typeset edition withdrawn pending a reproducible rebuild from source (see [CHANGELOG.md](./CHANGELOG.md)). Withdrawn means de-listed, not deleted: the root `.pdf` is now a one-page signpost, the withdrawn typeset edition is preserved unchanged in [/archive](./archive) with its correction attached, and old links still land — deleting them would break our own no-deletion rule. The `.txt` is authoritative.
-
-v3.3 splits the Act from its apparatus so the text travels clean into a bill folder — as the research draft it says it is. Statehouse drafting offices redraft whatever they're handed; you hand over the architecture, they pour the concrete.
-
-The file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive). What changed and why: [CHANGELOG.md](./CHANGELOG.md); the full audit trail is in [/audit](./audit); the errata register is [ERRATA.md](./ERRATA.md).
+**Current version:** [model_act_v3_3.txt](./model_act_v3_3.txt) — the Act, SEC. 0–13, research draft — with [the companion](./model_act_v3_3_companion.md) (open items, drafting notes, why). The `.txt` is authoritative; the typeset edition is withdrawn pending a reproducible rebuild. File-status detail and version history: [below](#file-status--history) · deltas: [CHANGELOG.md](./CHANGELOG.md) · mistakes: [ERRATA.md](./ERRATA.md).
 
 **Checking back?** [What just happened](./WHAT_JUST_HAPPENED.md) — the running log,
 one entry per upload, newest first. **New, or wondering what's quiet on purpose?**
 [Behind the scenes](./docs/08-behind-the-scenes.md).
 
+**Contents:** [Start here](#start-here) · [What's in this repository](#whats-in-this-repository) · [Why anonymous, why us](#why-anonymous-why-us) · [The stories in the statute](#the-stories-in-the-statute) · [Verify it](#verify-it) · [How to cite](#how-to-cite) · [The short version](#the-short-version) · [What's deliberately not here](#what-is-deliberately-not-in-this-repository) · [Who this needs](#who-this-needs) · [File status & history](#file-status--history) · [License](#license)
+
 Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park* doctrine belongs to no one. We just did the assembly.
 
 ---
 
+<a id="start-here"></a>
 ## 🧭 Start here — where do you want to go?
 
-**New here? Not a lawyer? Reading this with an AI?** Start with the **[plain-language docs](./docs/)** — seven short cards that explain the whole thing from scratch: [the problem](./docs/01-the-problem.md) → [the precedents](./docs/02-the-precedents.md) → [what's in the act](./docs/03-whats-in-the-act.md) → [how to hand it to a lawmaker](./docs/04-how-to-hand-over-a-bill.md) → [where and when](./docs/05-where-and-when.md) → [our track record](./docs/06-track-record.md) → [what just happened](./docs/07-context-timeline.md).
+**New here? Not a lawyer? Reading this with an AI?** Start with the **[plain-language docs](./docs/)** — short plain-language cards that explain the whole thing from scratch: [the problem](./docs/01-the-problem.md) → [the precedents](./docs/02-the-precedents.md) → [what's in the act](./docs/03-whats-in-the-act.md) → [how to hand it to a lawmaker](./docs/04-how-to-hand-over-a-bill.md) → [where and when](./docs/05-where-and-when.md) → [our track record](./docs/06-track-record.md) → [context: summer 2026](./docs/07-context-timeline.md) → [the government caught one](./docs/09-the-government-caught-one.md).
 
 > **📎 Reading this with an AI?** You don't need to be a lawyer or a coder. Paste any file in this repo into ChatGPT, Claude, or Gemini and ask: *"Explain this to me simply."* Or — the whole point of the project — ask it: *"Are the citations in this document real? Check each one."*
 
@@ -32,24 +31,23 @@ Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park*
 |---|---|
 | 🆕 **new / curious / not technical** | **[`/docs`](./docs/)** — the plain-language case, seven short cards |
 | ⚖️ **a legislator or staffer** (you hold a pen) | **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — the bill text, research draft under review ([jacket-clean copy](./model_act_v3_3_jacket_clean.txt) — same text, stripped for the bill folder) |
-| 👩‍⚖️ **a lawyer** | **[the companion](./model_act_v3_3_companion.md)** — the constitutional attack surface, mapped not hidden |
+| 👩‍⚖️ **a lawyer** | **[the companion](./model_act_v3_3_companion.md)** — the constitutional attack surface, mapped not hidden — since v3.3 the armour is in the text itself (SEC. 0, SEC. 13) |
 | 🔬 **an engineer** | **[`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md)** — control objectives, not vibes |
 | 📰 **a journalist or researcher** | **[`/dossier`](./dossier/)** — the sourced evidence: the incidents, the people with the power to halt these systems, the money, the congressional letters |
 | 🎓 **an academic** (reviewing or citing this) | **[ERRATA.md](./ERRATA.md)** first — the register of what we got wrong, in our own hand → the [companion](./model_act_v3_3_companion.md)'s drafting notes n.1–n.27 → [`/audit`](./audit/) for the method → [how to cite](#how-to-cite) |
 | 🤨 **a skeptic** (you disagree) | **[the Q&A](./dossier/05_questions_and_answers.md)** — every objection we hear, answered |
 | ✉️ **ready to actually do something** | **[how to hand over a bill](./docs/04-how-to-hand-over-a-bill.md)** — one email, four minutes, and anyone can (even from abroad, even from prison) |
 
-**What's actually in this repository:**
+<a id="whats-in-this-repository"></a>
+## What's in this repository
 
 - **[`model_act_v3_3.txt`](./model_act_v3_3.txt)** — **the bill.** The statute, SEC. 0–13 — research draft. This is the thing a legislature would pass, once named counsel signs it off. A [jacket-clean copy](./model_act_v3_3_jacket_clean.txt) — identical text, minus the campaign lines — is there for counsel.
-- **[`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md)** — the drafting notes, the open questions, and the constitutional defense. The "why" behind every line.
+- **[`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md)** — the READ FIRST page (open items for v4, each gap naming the kind of person who could close it), the drafting notes n.1–n.27, the answers to the friendly proposals, and the constitutional defense. The "why" behind every line.
 - **[`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md)** — the companion regulations. What an engineer needs; the Act itself carries what a prosecutor needs.
 - **[`/docs`](./docs/)** — the plain-language explainers. **Start here if you're new.**
 - **[`/dossier`](./dossier/)** — the sourced accountability dossier: who holds the power to halt each frontier system, what those systems have already done, the wealth behind them, and the congressional record demanding answers. Every fact dated and flagged.
-- **[`/audit`](./audit/)** — the receipts. How v3.2 became v3.3, in public, with sources pinned. A crank hides its work; this shows it.
+- **[`/audit`](./audit/)** — the receipts. How v3.2 became v3.3, in public, with sources pinned. A crank hides its work; this shows it — including [the hostile brief](./audit/chunk7_hostile_brief.md), the Act as read by the other side's counsel, and the field notes: objections met in the wild and the answers that survived them.
 - **[`CHANGELOG.md`](./CHANGELOG.md)** · **[`/archive`](./archive/)** · **[`/pages`](./pages/)** — the version history, the older drafts, and the typeset pages of the Act.
-
----
 
 ## Why anonymous, why us
 
@@ -105,32 +103,6 @@ people with real halt authority hold no such title, and almost everyone
 holding that title, at almost every company, is nowhere near the line.
 Your startup is not in these chairs. SEC. 1 draws the line; SEC. 4
 finds the hands.)
-
-## The documents
-
-- [`model_act_v3_3.txt`](./model_act_v3_3.txt) — the Act, SEC. 0–13,
-  research draft. Start here if you hold a pen in a legislature.
-  ([`model_act_v3_3_jacket_clean.txt`](./model_act_v3_3_jacket_clean.txt) is the same text, jacket-clean.)
-- [`model_act_v3_3_companion.md`](./model_act_v3_3_companion.md) — the
-  READ FIRST page (open items for v4, each gap naming the kind of person
-  who could close it), the drafting notes n.1–n.27, the answers to the
-  friendly proposals, and why this document exists.
-- [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) —
-  companion regulations (assembly draft, conformed to v3.3). The Act
-  carries what a prosecutor needs; this carries what an engineer needs.
-- [`model_act_v3_2.pdf`](./model_act_v3_2.pdf) /
-  [`model_act_v3_2.txt`](./model_act_v3_2.txt) — previous version, superseded
-  (penalty arithmetic corrected at v3.3 — see [the archive note](./archive/README.md)). Kept in place. [`/audit`](./audit) holds the five working chunks, the assembly record
-that turned v3.2 into v3.3, the field notes — objections met in the
-wild and the answers that survived them — and [the hostile brief](./audit/chunk7_hostile_brief.md):
-the Act as read by the other side's counsel. Receipts included.
-
-## Where to start
-
-- **Legislator or staffer** → [`model_act_v3_3.txt`](./model_act_v3_3.txt). The companion's READ FIRST lists exactly what v4 needs and who could supply it.
-- **Lawyer** → the drafting notes in the [companion](./model_act_v3_3_companion.md). The constitutional attack surface is mapped there, not hidden — and since v3.3 the armour is in the text itself (SEC. 0, SEC. 13).
-- **Engineer** → [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md). Control objectives, not vibes.
-- **Journalist or just curious** → the plain-language [`/docs`](./docs/) and the sourced [`/dossier`](./dossier/), or the stories below. Every section of the Act already happened to another industry.
 
 ## The stories in the statute
 
@@ -268,10 +240,6 @@ receipts.
 The plain-language version of all of this, written for people new to GitHub or
 politics: [docs/08 — behind the scenes](./docs/08-behind-the-scenes.md).
 
-## License
-
-Dedicated to the public domain ([CC0](./LICENSE)). The eggs remained undefeated.
-
 ## Who this needs
 
 Questions, catches, council seats, or a state in mind:
@@ -289,6 +257,15 @@ v3.3: the brackets carry the numbers three governors already signed.
 If one of these is you: the text is public domain. Take it. Nothing
 above is a reason to wait; all of it is a reason to begin.
 
+<a id="file-status--history"></a>
+## File status & history
+
+**Current version: [model_act_v3_3.txt](./model_act_v3_3.txt)** (the Act, SEC. 0–13 — research draft) + **[model_act_v3_3_companion.md](./model_act_v3_3_companion.md)** (open items, drafting notes, why). Typeset edition withdrawn pending a reproducible rebuild from source (see [CHANGELOG.md](./CHANGELOG.md)). Withdrawn means de-listed, not deleted: the root `.pdf` is now a one-page signpost, the withdrawn typeset edition is preserved unchanged in [/archive](./archive) with its correction attached, and old links still land — deleting them would break our own no-deletion rule. The `.txt` is authoritative.
+
+v3.3 splits the Act from its apparatus so the text travels clean into a bill folder — as the research draft it says it is. Statehouse drafting offices redraft whatever they're handed; you hand over the architecture, they pour the concrete.
+
+The file [model_act_v2.pdf](./model_act_v2.pdf) is only a signpost for old links; the real v2 lives in [/archive](./archive). What changed and why: [CHANGELOG.md](./CHANGELOG.md); the full audit trail is in [/audit](./audit); the errata register is [ERRATA.md](./ERRATA.md).
+
 ## The typeset edition (withdrawn)
 
 *De-listed 17 aug 2026, together with the pdf these pages render — the typeset
@@ -301,19 +278,8 @@ holds the root path, and the withdrawn typeset is preserved unchanged at
 correction attached. Meanwhile the authoritative text is
 [`model_act_v3_3.txt`](./model_act_v3_3.txt).*
 
-## History
+## License
 
-- **v3.3** (Aug 2026) — current. The audit-series assembly: findings
-  section, severability ladder with revival, three-layer commencement on
-  the CA/NY/IL interim standards, the harm tier rebuilt to the federal
-  death-results geometry with a sentencing valve, the records offense,
-  clawback and insurance ban as offences, penalty brackets pinned to the
-  enacted family. Act and companion split into two files. Receipts in
-  [/audit](./audit); deltas in [CHANGELOG.md](./CHANGELOG.md).
-- **v3.2** (Aug 2026) — full penalty architecture, open items
-  page, regulations draft.
-- **v2** (Aug 2026) — [`model_act_v2.pdf`](./archive/model_act_v2.pdf), kept in
-  place. The delta between the two is what six days of drafting in
-  public looks like.
+Dedicated to the public domain ([CC0](./LICENSE)). The eggs remained undefeated.
 
 )(
