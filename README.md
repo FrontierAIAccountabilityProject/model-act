@@ -8,9 +8,9 @@ responsible officers of frontier AI companies, on the doctrine of
 
 **Current version:** [model_act_v3_3.txt](./model_act_v3_3.txt) — the Act, SEC. 0–13, research draft — with [the companion](./model_act_v3_3_companion.md) (open items, drafting notes, why). The `.txt` is authoritative; the typeset edition is withdrawn pending a reproducible rebuild. File-status detail and version history: [below](#file-status--history) · deltas: [CHANGELOG.md](./CHANGELOG.md) · mistakes: [ERRATA.md](./ERRATA.md).
 
-**Checking back?** [What just happened](./WHAT_JUST_HAPPENED.md) — the running log,
-one entry per upload, newest first. **New, or wondering what's quiet on purpose?**
-[Behind the scenes](./docs/08-behind-the-scenes.md).
+**Reviewing this?** The five-seat council's edition — your seat, your scope, and the short
+list of files that are actually yours — is **[REVIEW.md](./REVIEW.md)**. Everything below is
+the full public record; reviewers are licensed to skip most of it.
 
 ## Every file in this repository
 
@@ -29,27 +29,49 @@ one entry per upload, newest first. **New, or wondering what's quiet on purpose?
 
 **📚 [/docs](./docs/) — the case, in plain words**
 - [`docs/README.md`](./docs/README.md) — the card router
-- [`01-the-problem`](./docs/01-the-problem.md) — why no law reaches the officers · [`02-the-precedents`](./docs/02-the-precedents.md) — eggs, rats, and the doctrine · [`03-whats-in-the-act`](./docs/03-whats-in-the-act.md) — the statute, translated · [`04-how-to-hand-over-a-bill`](./docs/04-how-to-hand-over-a-bill.md) — one email, four minutes · [`05-where-and-when`](./docs/05-where-and-when.md) — the states and the sessions
+- [`01-the-problem`](./docs/01-the-problem.md) — why no law reaches the officers
+- [`02-the-precedents`](./docs/02-the-precedents.md) — eggs, rats, and the doctrine
+- [`03-whats-in-the-act`](./docs/03-whats-in-the-act.md) — the statute, translated
+- [`04-how-to-hand-over-a-bill`](./docs/04-how-to-hand-over-a-bill.md) — one email, four minutes
+- [`05-where-and-when`](./docs/05-where-and-when.md) — the states and the sessions
 - [`06-track-record`](./docs/06-track-record.md) — the scorecard: what we predicted, marked in public
 - [`07-context-timeline`](./docs/07-context-timeline.md) — the story: what the world did in summer 2026, plain words
-- [`08-behind-the-scenes`](./docs/08-behind-the-scenes.md) — how this project runs, and why anonymously · [`09-the-government-caught-one`](./docs/09-the-government-caught-one.md) — the AISI exhibit (folds into the story at v3.4)
+- [`08-behind-the-scenes`](./docs/08-behind-the-scenes.md) — how this project runs, and why anonymously
+- [`09-the-government-caught-one`](./docs/09-the-government-caught-one.md) — the AISI exhibit (folds into the story at v3.4)
 
 **🗃 [/dossier](./dossier/) — the evidence, every fact pinned ✅/⚠**
-- [`00_README`](./dossier/00_README.md) — the dossier's own contents · [`01_master`](./dossier/01_master.md) — the power map: who can halt each system
+- [`00_README`](./dossier/00_README.md) — the dossier's own contents
+- [`01_master`](./dossier/01_master.md) — the power map: who can halt each system
 - [`02_incident_timeline`](./dossier/02_incident_timeline.md) — the incident timeline: the dated evidence record (the only file in this repository allowed that word)
-- [`03_politicians_track`](./dossier/03_politicians_track.md) — the congressional record · [`04_wealth_and_control`](./dossier/04_wealth_and_control.md) — the money behind the seats · [`05_questions_and_answers`](./dossier/05_questions_and_answers.md) — every objection, answered · [`06_the_open_letters`](./dossier/06_the_open_letters.md) — the letters and the papers · one dated screenshot (the feed file's exhibit)
+- [`03_politicians_track`](./dossier/03_politicians_track.md) — the congressional record
+- [`04_wealth_and_control`](./dossier/04_wealth_and_control.md) — the money behind the seats
+- [`05_questions_and_answers`](./dossier/05_questions_and_answers.md) — every objection, answered
+- [`06_the_open_letters`](./dossier/06_the_open_letters.md) — the letters and the papers
+- [`x_todays_news_2026-08-18.png`](./dossier/x_todays_news_2026-08-18.png) — the feed file's exhibit, screenshot retained
 
 **🛠 [/audit](./audit/) — the drafting record, frozen**
-- [`audit/README`](./audit/README.md) — how to read the chunks · chunks 1–8 — landscape, preemption armour, penalty architecture, harm-tier rebuild, commencement and records, assembly, [the hostile brief](./audit/chunk7_hostile_brief.md), rule-dependency sweep
+- [`audit/README`](./audit/README.md) — how to read the chunks
+- [`chunk1_landscape_audit`](./audit/chunk1_landscape_audit.md) — the enacted-family landscape, pinned
+- [`chunk2_preemption_armour`](./audit/chunk2_preemption_armour.md) — the federal preemption map, and the armour built against it
+- [`chunk3_penalty_architecture`](./audit/chunk3_penalty_architecture.md) — every number, pinned to what three governors signed
+- [`chunk4_harm_tier_rebuild`](./audit/chunk4_harm_tier_rebuild.md) — death and injury, rebuilt on federal geometry with a sentencing valve
+- [`chunk5_commencement_and_records`](./audit/chunk5_commencement_and_records.md) — the three-layer commencement and the records offense
+- [`chunk6_assembly`](./audit/chunk6_assembly.md) — how the chunks became v3.3
+- [`chunk7_hostile_brief`](./audit/chunk7_hostile_brief.md) — the Act as read by the other side's counsel
+- [`chunk8_rule_dependency_sweep`](./audit/chunk8_rule_dependency_sweep.md) — every duty that waited on a rule, found and fixed
 - [`field_notes_for_assembly`](./audit/field_notes_for_assembly.md) — objections met in the wild, and what survived them
 - [`v3_4_cure_language`](./audit/v3_4_cure_language.md) — the live cure queue: fifteen fixes, drafted, landing as v3.4
 
 **🕰 The superseded — kept in place, corrections attached**
-- Root signposts for old links: `model_act_v2.pdf` · `model_act_v3_2.pdf` · `model_act_v3_2.txt` · `model_act_v3_3.pdf` (withdrawn typeset) · `model_act_v3_3_introducible.txt` (renamed; the word is retired)
-- [`/archive`](./archive/) — the old versions themselves, with [the correction note](./archive/README.md) attached · [`/pages`](./pages/) — typeset page images of the withdrawn edition; a verified edition returns with the reproducible rebuild
+- [`model_act_v2.pdf`](./model_act_v2.pdf) · [`model_act_v3_2.pdf`](./model_act_v3_2.pdf) · [`model_act_v3_2.txt`](./model_act_v3_2.txt) · [`model_act_v3_3.pdf`](./model_act_v3_3.pdf) · [`model_act_v3_3_introducible.txt`](./model_act_v3_3_introducible.txt) — root signposts for old links; the last carries the retired word
+- [`archive/README`](./archive/README.md) — the correction note that travels with everything below
+- [`archive/model_act_v2.pdf`](./archive/model_act_v2.pdf) · [`archive/model_act_v3_2.pdf`](./archive/model_act_v3_2.pdf) · [`archive/model_act_v3_2.txt`](./archive/model_act_v3_2.txt) · [`archive/model_act_v3_3_withdrawn.pdf`](./archive/model_act_v3_3_withdrawn.pdf) — the superseded versions themselves
+- [`archive/actv2-1…3.png`](./archive/) — three page plates of v2 · [`pages/actv32-1…7.png`](./pages/) — seven plates of v3.2 · [`pages/actv33-1…10.png`](./pages/) — ten plates of the withdrawn v3.3 typeset
 
 **⚙️ Meta**
-- [`CITATION.cff`](./CITATION.cff) — the cite button reads this; v3.3 is tagged and checksummed · [`LICENSE`](./LICENSE) — CC0; steal it · [`CONTRIBUTING.md`](./CONTRIBUTING.md) — catches, seats, and how to send them
+- [`CITATION.cff`](./CITATION.cff) — the cite button reads this; v3.3 is tagged and checksummed
+- [`LICENSE`](./LICENSE) — CC0; steal it
+- [`CONTRIBUTING.md`](./CONTRIBUTING.md) — catches, seats, and how to send them
 
 *Three timelines, three altitudes — the diary records what this project did; the story
 ([context: summer 2026](./docs/07-context-timeline.md)) tells what the world did, in plain
@@ -58,9 +80,13 @@ pinned. Same events on purpose; never the same job.*
 
 *Also on this page, below:* [Start here](#start-here) · [Why anonymous, why us](#why-anonymous-why-us) · [The stories in the statute](#the-stories-in-the-statute) · [How to cite](#how-to-cite) · [Who this needs](#who-this-needs) · [File status & history](#file-status--history)
 
-Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park* doctrine belongs to no one. We just did the assembly.
-
 ---
+
+**Checking back?** [What just happened](./WHAT_JUST_HAPPENED.md) — the running log,
+one entry per upload, newest first. **New, or wondering what's quiet on purpose?**
+[Behind the scenes](./docs/08-behind-the-scenes.md).
+
+Facts, legal doctrines, and ideas were never copyrightable anyway — the *Park* doctrine belongs to no one. We just did the assembly.
 
 <a id="start-here"></a>
 ## 🧭 Start here — where do you want to go?

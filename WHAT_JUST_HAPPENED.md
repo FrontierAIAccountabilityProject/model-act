@@ -11,6 +11,13 @@ subscribe to the raw feed:
 
 ---
 
+**19 aug 2026 · the reviewer's edition, and the census completed.** two fixes from one
+complaint. the file list now itemizes everything — every card, every dossier chapter, every
+audit chunk, every signpost, each with its own line and its own name. and the review council
+got its own front door: REVIEW.md — the core set all five seats share, a lane per seat, a
+time budget, and an explicit license to skip the eighty percent of this repository that
+isn't theirs. also: the diary talk moved below the census, where diaries belong.
+
 **19 aug 2026 · the census.** the front page now lists every file in the repository —
 all of them, grouped and explained in one line each: the law, the ledgers, the case, the
 evidence, the record, the superseded, the meta. and a rule to keep it honest: if a file
