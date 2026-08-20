@@ -8,8 +8,8 @@ original paths remain in place as signposts. The v3.4 cure queue
 ([v3_4_cure_language.md](./v3_4_cure_language.md)) landed and is preserved as its own review
 artifact. 
 
-The live queue is now [v3_5_cure_language.md](./v3_5_cure_language.md), which joins
-this record when v3.5 lands.
+**The live queue is now [v3_5_cure_language.md](./v3_5_cure_language.md), which joins
+this record when v3.5 lands.**
 
 Parts: [reader's guide](#readme) · [1 — landscape](#chunk-1) · [2 — preemption armour](#chunk-2) ·
 [3 — penalty architecture](#chunk-3) · [4 — harm-tier rebuild](#chunk-4) ·
