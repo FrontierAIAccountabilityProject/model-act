@@ -4,8 +4,10 @@ This document concatenates, verbatim and unedited, the complete audit series tha
 v3.3 from v3.2: the reader's guide, working chunks 1–8, and the field notes. The constituent
 files were merged into this single record on 19 August 2026 as part of the repository's
 consolidation; their content is unchanged, and each retains its original heading below. The
-original paths remain in place as signposts. The live cure queue
-([v3_4_cure_language.md](./v3_4_cure_language.md)) joins this record when that version lands.
+original paths remain in place as signposts. The v3.4 cure queue
+([v3_4_cure_language.md](./v3_4_cure_language.md)) landed and is preserved as its own review
+artifact; the live queue is now [v3_5_cure_language.md](./v3_5_cure_language.md), which joins
+this record when v3.5 lands.
 
 Parts: [reader's guide](#readme) · [1 — landscape](#chunk-1) · [2 — preemption armour](#chunk-2) ·
 [3 — penalty architecture](#chunk-3) · [4 — harm-tier rebuild](#chunk-4) ·
