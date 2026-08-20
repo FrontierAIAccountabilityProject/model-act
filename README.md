@@ -2,6 +2,8 @@
 
  
 **Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
+
+**Invited to review?** Start at [For the review council](#for-the-review-council) — the core set, your lane, and a time budget. Everything else on this page is context you are licensed to skip.
  
 Model state legislation applying the **responsible corporate officer doctrine** —
 *United States v. Dotterweich*, 320 U.S. 277 (1943); *United States v. Park*, 421 U.S.
@@ -50,6 +52,24 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 - **Typeset edition:** withdrawn pending a reproducible rebuild; plain text is authoritative
 - **License:** CC0 — public domain
 - **Archived:** [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795) — CERN's Zenodo, permanent; every future release mints its own version DOI under this concept DOI
+
+**Reading time.** The statute, cover to cover: about 45 minutes. This page, in full: about
+90. A review lane, over eight weeks: 10–20 hours, scoped in writing before anything starts.
+
+**Recent.** Newest first; every entry links to the artefact, not to a promise.
+
+- **20 Aug 2026** — READ FIRST item 3(b) answered from outside: the harm tier's injury
+  definition moves to 18 U.S.C. § 1365(h)(3)–(4) at v3.5, drafted as CURE 1 in
+  [the open queue](./audit/v3_5_cure_language.md). Attribution is the answering scholar's
+  election and has not been made; until it is, the record names nobody.
+- **20 Aug 2026** — [Table of authorities](./standards/table_of_authorities.md) and
+  [the bracketed-matter worksheet](./standards/bracketed_matter.md) published; the
+  repository archived at CERN with a DOI.
+- **19 Aug 2026** — v3.4 tagged: fifteen cures entered the statute verbatim from
+  [the published queue](./audit/v3_4_cure_language.md), announcement and destination
+  diffable.
+
+The complete account, in order, is [the diary](./LEDGER.md#part-iii).
 
 ## Repository structure
 
