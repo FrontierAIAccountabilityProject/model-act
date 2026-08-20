@@ -150,3 +150,31 @@ check.*
 actually ran" — which is the honest version, and it must not be sharpened to "every answer
 convicts." SEC. 6(c) forbids that reading and the section says so out loud. If a reply
 pushes the stronger claim, the answer is the section link, not agreement.
+
+## 7. Closing time (fire tonight; P1 carries the Today's News screenshot)
+
+*P1's Stripe pin: Axios, "Scoop: Stripe says 'the singularity' has begun" (19 Aug 2026),
+axios.com/2026/08/19/stripe-payments-openrouter-singularity, corroborated by Yahoo Finance
+and Free Press Journal the same day — an investor letter dating "the beginning of the
+singularity" to 1 January 2026, alongside the OpenRouter acquisition. P1/P2's 300-agents
+pin: the captured X trend page (in the project's files, 20 Aug 2026) — the viral claim was
+"300 Kimi K3 agents... Opus 5 checking every output"; the replies identified the visual as
+a plain neural-network training graph (batch size, accuracy curves), and X's own trend
+summary concedes "repurposed generic visuals." P3's exhibit: screenshots of Google AI Mode
+summarizing the repository and offering to "explore the specific criminal penalties
+proposed in the draft" (20 Aug 2026, in the project's files). P4 quotes the front page's
+own terms.*
+
+**1.** (249) The singularity now has a start date (per Stripe's investor letter) and the 300-agent swarm turned out to be a training-graph screensaver (per the replies). Somewhere between those two headlines is the case for a named human signing before shipping.
+
+**2.** (250) The '300 agents' video died in one reply: what are the agents doing? The dashboard was a plain neural-net visualizer — batch size, accuracy curves. Verification took a stranger five minutes. It is not a heavy lift to ask it of an officer, in writing.
+
+**3.** (250) Google's AI now explains the Model Act unprompted and signs off by offering to "explore the specific criminal penalties proposed in the draft." The machines keep auditioning for the criminal-law seat. It is still open, and it is reserved for a human.
+
+**4.** (184) Terms on the front page, under "For the review council": five seats, one sitting cover to cover, the disposition published as written — including hostile. github.com/llmaolaw/model-act
+
+**Discipline.** P1 says "per Stripe's investor letter" and "per the replies" — both
+attributions stay in, because the post's own sourcing is the joke's spine. P2 does not name
+the poster; the target is the pattern, never a person. P3 quotes the machine verbatim and
+claims nothing about who has been emailed; the seat line is addressed to the world. If a
+reply asks whether the council exists, the answer is P4's link, which was the point.

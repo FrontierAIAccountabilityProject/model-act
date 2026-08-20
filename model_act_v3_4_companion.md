@@ -41,7 +41,7 @@ the adopting states' own clauses, several stricter than the federal floor — ra
 
 5. Preemption defense as the FRONTIER Act and EO 14365 litigation develop: a federalism litigator,
 ideally in a state attorney general's office. The armour is built (SEC. 0, SEC. 13; nn.13–17);
-xAI v. Bonta, argued and undecided, triggers the n.16 re-run when it lands.
+xAI v. Bonta, briefed and undecided, triggers the n.16 re-run when it lands.
 
 6. The modifiability-evaluation compute floor (SEC. 2): the bracketed default — the greater of
 [one] percent of lineage compute or [10^24] operations — needs an evaluations researcher's review;
@@ -359,8 +359,8 @@ uncontroversial," because "known" carried a misleading term of art and the scien
 and then failed *Central Hudson* intermediate scrutiny for want of direct advancement and narrow
 tailoring. The live case is *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.), on California AB 2013's
 training-data disclosures: preliminary injunction denied 4 March 2026 on the view that the
-summaries are commercial speech subject to intermediate scrutiny; argued 16 July 2026;
-**undecided**. That decision is the single most important pending development for SEC. 8 and
+summaries are commercial speech subject to intermediate scrutiny; briefing complete, the reported argument date of 16 July 2026 unconfirmed against the docket
+([the 20 August sweep](./audit/standing_watch_2026-08-20.md) § 1); **undecided**. That decision is the single most important pending development for SEC. 8 and
 SEC. 9, and the next revision should re-run this note against it. Two structural answers are drafted in rather
 than argued: the statements run to a regulator and are not required to be published, and SEC. 12
 makes them categorically exempt from the public-records act — so the injury *NIFLA* identified,
@@ -748,12 +748,18 @@ a Bluebook closes most of it in an afternoon.
 
 Last swept 16 August 2026 (chunk 4, incorporated by chunk 5; not re-run at assembly, same day).
 The first act of any v3.5 drafting chunk is the re-sweep.
+Re-swept 20 August 2026 — [`audit/standing_watch_2026-08-20.md`](./audit/standing_watch_2026-08-20.md):
+two items moved, one erratum candidate; the bullets below are conformed to it.
 
-- *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.) — argued 16 July 2026, undecided. When it lands: the
+- *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.) — briefed; the reported 16 July 2026 argument
+  date unconfirmed (sweep § 1); undecided. When it lands: the
   n.16 re-run, plus the interim-bridge transmission-layer check (chunk 5 §I.2).
-- *xAI v. Weiser* (D. Colo.) — whether an amended complaint targets SB 26-189.
-- FRONTIER Act, H.R. 9925 — referred, no markup located; at markup, whether any Covered
-  Subject Area is drafted to reach officer liability.
+- *xAI v. Weiser* (D. Colo.) — overtaken in part: the United States intervened as plaintiff on
+  24 April 2026, two Equal Protection counts, no preemption count, enforcement stayed by
+  stipulation (sweep § 2). Whether an amended complaint targets SB 26-189 stands.
+- FRONTIER Act, H.R. 9925 — introduced 23 July 2026, referred, no markup; at introduction no
+  Covered Subject Area reaches officer liability and no natural person certifies anything
+  (sweep § 3); re-ask at markup.
 - GAAIA — not introduced; whether §121(c) survives introduction.
 - FTC policy statement (docket FTC-2026-0859) — proposed only.
 - Commerce list under EO 14365 §4 — unpublished.
