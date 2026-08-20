@@ -103,7 +103,7 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 ## Precision notes (audit record)
 
-**N1 — New York penalty phrasing.** `audit/chunk3_penalty_architecture.md` §A.3 states the New York figures flatly ("$1,000,000 first / $3,000,000 per subsequent"). The enacted text (GBL § 1427, consolidated through 2026-04-03, pinned 17 August 2026 against nysenate.gov) phrases both as caps — "not to exceed" — with the amount "determined based on the severity of the violation." Chunk 3 §D.1 already characterizes the family as severity-scaled; §A.3's flat phrasing stands corrected to *caps, severity-scaled*. Public copy should say "up to."
+**N1 — New York penalty phrasing.** `audit/chunk3_penalty_architecture.md` §A.3 states the New York figures flatly ("\$1,000,000 first / \$3,000,000 per subsequent"). The enacted text (GBL § 1427, consolidated through 2026-04-03, pinned 17 August 2026 against nysenate.gov) phrases both as caps — "not to exceed" — with the amount "determined based on the severity of the violation." Chunk 3 §D.1 already characterizes the family as severity-scaled; §A.3's flat phrasing stands corrected to *caps, severity-scaled*. Public copy should say "up to."
 
 **N2 — Explainer section numbering.** The "whole act, plainly" list on `docs/03-whats-in-the-act.md` uses its own compressed numbering (certification at "SEC.5," reporting at "SEC.6," penalties at "SEC.7"), which does not match the statute (certification SEC. 8; reporting SEC. 9; penalties SEC. 10; whistleblowers SEC. 11). The card's header already directs readers to the statute as authoritative. Logged so the divergence is a recorded choice, not an oversight; the list will be renumbered in the next docs pass.
 
@@ -283,7 +283,7 @@ items, drafting notes n.1–n.27, friendly proposals answered, the WHY page, the
   reference conformed to 6(b)(1) (chunks 2 §E.3(a), 4 §E.4(a)).
 - SEC. 9(c) — new: facts-known reporting rule; reports to the Agency, not published (chunk 2
   §E.3(b)).
-- SEC. 10(a) — the enacted family's figures ($[1,000,000], with the $[3,000,000] recidivist step);
+- SEC. 10(a) — the enacted family's figures (\$[1,000,000], with the \$[3,000,000] recidivist step);
   10(b)–(c) fines pinned to § 3571(b) parity with twice-gross-gain alternatives; means
   consideration; 10(e) corporate payment of an individual penalty is itself a 7(b) violation;
   10(f) fund with survival clause (chunk 3 §E.2).
