@@ -470,13 +470,7 @@ then a sponsor's counsel, then one state.
 
 *What is the attack ad against me?* “Criminalising innovation.” The answer is on the face of the text: research and ordinary AI use are not offenses, and professional credentials, technical ability, access, advice, or implementation alone do not establish controlling-person status. The base individual offense requires final material decision authority, a relevant duty, and failure to exercise due care; higher tiers require additional elements. Entity liability remains, but the natural persons with practical power cannot place all accountability inside the corporate shell.
 
-*What does it cost my state?* Nothing that scales with your state: the cost tracks the
-number of frontier developers shipping into it, a number countable on one hand. [The
-fiscal note](./standards/fiscal_note.md) answers at length — SEC. 3(b)'s bar on pre-
-approval removes the four structures that make regulators expensive: no licences, no
-queue, no backlog, no appeals from denials. Stated honestly and apart: startup
-separately from steady state, penalties never booked as revenue, enforcement never
-sold as self-funding.
+*What does it cost my state?* Not yet quantified. The principal cost drivers are standards development, secure intake of certifications and reports, whistleblower processing, records-related investigations, and Attorney General enforcement. SEC. 3(b)’s bar on preapproval removes licensing, application-review, and denial-appeal costs, but it does not eliminate administrative workload or possible backlogs. Volume depends on covered entities and conduct, deployment and incident frequency, and the adopting state’s jurisdiction and existing capacity. [The fiscal note](./standards/fiscal_note.md) identifies the required low-, central-, and high-volume analysis, keeps startup separate from steady state, and never books penalties as revenue.
 
 *Why a state, and not Congress?* Because Congress has written nothing and one state
 is enough — the biometric-privacy precedent proved that a law which exists first
