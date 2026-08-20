@@ -44,7 +44,7 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 
 ## Project disclosure
 
-The Model Act is an independent, pseudonymous and unfunded public drafting project. It is not affiliated with an AI company, political party, government office or advocacy organisation. No contributor is presented as legislative counsel, and publication does not imply professional or institutional endorsement.
+The Model Act is an independent, pseudonymous and unfunded public drafting project. It is not affiliated with an AI company, political party, government office or advocacy organisation. No contributor is presented as legislative counsel, and publication does not imply professional or institutional endorsement. Maintained pseudonymously by one person; AI assistance disclosed.
 
 The text, sources, unresolved questions and revision history are public so that specialists can verify, criticise and improve the work on its merits.
 
