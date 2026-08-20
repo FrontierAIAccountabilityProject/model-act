@@ -113,6 +113,22 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 ---
 
+**E9 — 20 August 2026 (internal catch).** The register's own rule — "when a statutory cure
+lands on the working branch, its entry gains a dated 'landed' line" — was applied to E1, E3, and
+E4 but not to E2 or E5, which landed in the same tagged revision. Both are recorded here rather
+than edited into the sealed block above. **E2 (certification cadence)** landed at v3.4 on 19
+August 2026 as cure 12: SEC. 8 now defines its triggers and requires changes below the material
+line to be certified in a periodic filing at least once in each [calendar quarter] in which any
+occurred (companion n.39). The explainer's "every quarter" is true on the face of the text as to
+sub-material changes; material deployment and material change remain event-triggered. **E5
+(deployer and startup reach)** landed at v3.4 on 19 August 2026 as cure 1: SEC. 2(b) gives
+non-modifying deployers a conduct-based reliance rule — documented adoption of an upstream
+validation, a manifest of tools, credentials, permissions, and external access, monitoring within
+the deployer's control, and reporting within its knowledge — never conditioned on revenue, size,
+or resources (companion n.28). The dossier Q&A's startup answer, which carries the gap inline per
+E5's own addendum, is accordingly overtaken and should be conformed at the next docs pass. Status:
+both cured; the omission was in the register, not the statute.
+
 **E8 — 19 August 2026 (internal catch, same day).** The consolidated front page claimed
 that the original Sacramento scorecard table was "preserved verbatim in the diary"; it is
 not — the diary never carried the table. The claim is corrected to point to the

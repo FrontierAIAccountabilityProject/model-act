@@ -46,6 +46,12 @@ touch-points: SEC. 0(a)(2) (findings); SEC. 6(b) (harm-tier element); SEC. 9 (in
 definition; 24-hour imminent-risk clock); SEC. 10(c)(2) and its causation paragraph;
 SEC. 10(c)(4) (restitution); SEC. 11 emergency suspension.
 
+**Operation 3 — the regulations conform.** `model_regulations_v1_draft.md` Part 1.5 defines
+"Serious injury" by cross-reference to SEC. 1(b)(8) "(21 C.F.R. § 803.3(w) pattern)"; the
+parenthetical becomes wrong the moment Operation 1 lands. Strike it and read: *1.5 "Serious
+bodily injury": as defined in SEC. 1(b)(8) of the Act (18 U.S.C. § 1365(h)(3)–(4) pattern).*
+The regulations track the Act's defined term; they never restate it.
+
 **Held open — one design note.** Whether the SEC. 9 *reporting* trigger should keep
 broader language (report widely on the (h)(4) base; convict precisely on (h)(3)) while
 the SEC. 10(c) *element* takes (h)(3) alone. Report-vs-element bifurcation is a
@@ -101,3 +107,61 @@ court at all.
 **Held open.** The bracketed venue is an adopting state's choice. Whether review should also
 lie against an order that suspends *too little* belongs to the enforcement seat, and is not
 drafted here.
+
+---
+
+## CURE 3 — the regulations, conformed to v3.4
+
+*The v3.4 cures landed in the statute and the companion; three of them never cascaded into
+`model_regulations_v1_draft.md`, which still describes itself as "conformed at v3.3 assembly."
+A companion instrument that contradicts the Act it implements is the defect the two-document
+architecture exists to avoid, and it is the kind of inconsistency a reviewer finds in an
+afternoon. Internal catch, 20 August 2026.*
+
+**Operation 1 — the near-miss (regs 1.4).** The Act calibrated its near-miss at v3.4 (n.41) so
+that controls working as designed no longer generate reportable events. The regulations carry the
+pre-calibration formula.
+
+**ANCHOR (Part 1.4):** "1.4 \"Near-miss\": an event that, but for intervention or chance, would
+have constituted a reportable incident. [ICAO Annex 13 Note 1 principle, counterfactual form.]"
+
+**NEW TEXT:**
+
+> 1.4 "Near-miss": an event that, but for intervention other than controls operating as designed,
+> or but for chance, would have constituted a reportable incident. An event detected and contained
+> by controls operating as designed, before any effect outside the systems of the entity whose
+> controls contained it, is recorded under Part 10 and is not reported. [ICAO Annex 13 Note 1
+> principle, counterfactual form; conformed to SEC. 9(a) as landed at v3.4.]
+
+**Operation 2 — the certifying officer (regs 4.1).** SEC. 8 gained the no-chief-executive
+fallback at v3.4 (n.34); the regulations still presume the office exists.
+
+**ANCHOR (Part 4.1):** "4.1 Signatories: the chief executive officer (non-delegable) and each
+controlling person designated by rule."
+
+**NEW TEXT:**
+
+> 4.1 Signatories: the chief executive officer (non-delegable) or, where no such office exists,
+> each natural person exercising the most senior executive authority over the entity, severally;
+> and each controlling person designated by rule. No designation by rule diminishes the several
+> obligation.
+
+**Operation 3 — the certification cadence (regs 4.2).** SEC. 8 gained the quarterly batch filing
+for sub-material changes at v3.4 (n.39); the regulations state the event triggers alone.
+
+**ANCHOR (Part 4.2):** "4.2 Trigger: before material deployment; after any material change."
+
+**NEW TEXT:**
+
+> 4.2 Trigger: before material deployment; after any material change; and, for changes below the
+> material line, in a periodic filing made not less often than once in each [calendar quarter] in
+> which any such change occurred.
+
+**Operation 4 — the header and status lines.** The instrument describes itself as of the v3.3
+line; it carries a v3.4 amendment at its foot. Conform the header to "Companion instrument to the
+Model Act (v3.4 line)" and the ASSEMBLY STATUS paragraph to record the v3.4 landing and this
+conformance, so the document's own account of itself is accurate.
+
+**Held open.** Part 2's version pins still await re-pin at adoption (companion READ FIRST item 1);
+Part 3.2's material-change formula should be checked against SEC. 1(b)(6) as it now operates of
+its own force (n.37) at the same drafting session, and is not drafted here.

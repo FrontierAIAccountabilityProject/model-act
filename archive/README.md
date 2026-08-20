@@ -7,9 +7,12 @@ versions stay public, and corrections travel with them. This note is the correct
 The typeset edition of v3.3, withdrawn pending a reproducible rebuild from the
 authoritative source. Its cover note still carries the pre-patch label ("the introducible
 text") — that label is retired and wrong (see [ERRATA E7](../ERRATA.md)); the statutory
-text it typesets is v3.3 as of 16 August. The authoritative text is
-[`model_act_v3_3.txt`](../model_act_v3_3.txt); a one-page signpost holds the old root
-path. A verified typeset edition returns with the rebuild.
+text it typesets is v3.3 as of 16 August. A one-page signpost holds the old root path, and a verified
+typeset edition returns with the rebuild. **Note, 20 August 2026:** this entry was written
+when v3.3 was current. The authoritative text is now
+[`model_act_v3_4.txt`](../model_act_v3_4.txt) at the repository root; the v3.3 text and its
+companion are preserved in this folder, superseded. References to v3.3 elsewhere in this note
+are historical and correct as written.
 
 **`model_act_v3_2.pdf` / `model_act_v3_2.txt`** (superseded 16 August 2026 by v3.3).
 The v3.2 penalty arithmetic — the stacked-maximums figure that circulated — was corrected
