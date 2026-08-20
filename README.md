@@ -106,7 +106,7 @@ model-act/
 ├── archive/                         # superseded versions + the print edition and its generator
 ├── audit/                           # drafting record · cure queues (v3.4 sealed · v3.5 open)
 ├── dossier/                         # the evidence file, every fact pinned
-├── filings/                         # public-docket submissions, published as filed · the field guide
+├── filings/                         # public-docket submissions, published as filed · the field guide · banked threads
 ├── docs/                            # retired paths (signposts)
 └── pages/                           # the withdrawn typeset's page images
 ```
@@ -127,6 +127,7 @@ archive, or a machine-readable file.
 | [`standards/bracketed_matter.md`](./standards/bracketed_matter.md) | The adopting state's worksheet: every bracketed choice, its section and line, and what the enacted family chose |
 | [`standards/fiscal_note.md`](./standards/fiscal_note.md) | What the Act costs an adopting state: cost drivers traced to provisions, startup apart from steady state, and no revenue in the arithmetic |
 | [`standards/comparative_officer_liability.md`](./standards/comparative_officer_liability.md) | The receipts behind the question ladder's comparative answers — PRC art. 31, § 130 OWiG, and the 1890–91 export-inspection acts, with the claims this project declined to make |
+| [`filings/docket_fda_2024_d_4488_reading_notes.md`](./filings/docket_fda_2024_d_4488_reading_notes.md) | The predecessor comment file read end to end — who filed, what they asked for, and the element none of them names |
 | [`filings/how_to_file_a_federal_comment.md`](./filings/how_to_file_a_federal_comment.md) | The field guide to regulations.gov — the identity cards, the category codes, the craft, and why the process is not a vote; the federal companion to How a bill is handed over |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |

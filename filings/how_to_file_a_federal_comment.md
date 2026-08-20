@@ -124,7 +124,13 @@ Comment periods close at **11:59 p.m. Eastern time on the stated date**, and the
 enforces it regardless of the commenter's own time zone — the door shuts mid-evening on
 the West Coast and mid-morning in Sydney. Submission returns a tracking number; keep
 it, and keep your own copy of the text. Posting is not instant — screening comes first
-— so an absent comment the next morning is usually a queued one, not a lost one. For a
+— so an absent comment the next morning is usually a queued one, not a lost one. The
+two counters are different things: a docket page's "Comments Received" counts arrivals,
+while the browsable file shows only what the agency has *posted* after screening, and
+the gap between them can briefly be the entire docket. (Observed live, 20 August 2026:
+the FDA docket in § 7 showed seventeen received and zero yet posted, two days after
+opening — the government's own API, queried with its public key, returned an empty file
+above a full waiting room.) For a
 proposed rule, the portal can alert you when the final rule issues, which is where the
 agency's response to comments lives.
 
