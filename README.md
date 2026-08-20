@@ -7,10 +7,10 @@
  
 Model state legislation applying the **responsible corporate officer doctrine** —
 *United States v. Dotterweich*, 320 U.S. 277 (1943); *United States v. Park*, 421 U.S.
-658 (1975) — to frontier artificial intelligence: personal, non-delegable duties for
-the officers of developers of the largest models, above a [10^26]-operations training
-threshold. Roughly a dozen firms on earth qualify. No startup, engineer, researcher,
-or downstream deployer below the threshold is touched.
+658 (1975) — to frontier artificial intelligence. It places personal, non-delegable
+duties on natural persons with practical authority over the relevant risk. A covered
+model exceeds [10^26] operations or is prospectively designated as frontier-equivalent;
+a lower threshold triggers specified records duties only. Technical work, access, advice, or implementation of another person’s decision does not create personal liability. Final material authority to prevent, halt, restrict, or correct the covered conduct does—and it cannot be delegated away.
 
 **Public domain. No attribution required. Steal it.**
 
@@ -255,36 +255,17 @@ Several answers below are honestly "open" — naming them is what a research dra
 
 **Asked first.**
 
-*Will my job or my role be affected?* No — the Act's entire guest list is roughly a
-dozen chairs on earth, and none of them is yours. The regulated class is the officers
-with authority to ship a handful of frontier models, and no one else. It does not regulate using AI at work, does not ban tools, and does
-not reach employees at any company, including the covered ones. If your working life
-touches AI, the parts of this law you would ever feel are the protective ones:
-incidents reported instead of buried, and paid protection if you are ever the one who
-has to speak up.
+*Will my job or my role be affected?* For almost everyone, no. The Act is aimed at the small number of natural persons—chief executives, controlling owners, and others—who possess final material authority to prevent, halt, restrict, or correct the deployment of a covered system. They cannot delegate that duty to a safety officer or leave accountability with the company: each qualifying person answers personally for failure to exercise due care, whether or not actual knowledge can be proved. Title, technical ability, access, advice, or merely implementing another person’s decision does not make an ordinary employee a controlling person.
 
 *I use ChatGPT, Claude, or similar at work or school — does this touch me?* No. Users
 are nowhere in the Act. Personal and non-commercial use is expressly carved out, and
 nothing here limits what you run on your own machine.
 
-*Would this slow down or ban AI?* It bans nothing — the entire instrument is a
-condition on shipping, never a brake on building. It conditions the shipping of the
-very largest systems on validation, reporting, and a named signature — the structure
-under which medicines, aircraft, and banks continue to exist and to innovate.
-Research is untouched: a controlled research pathway is in the text (SEC. 2(c)).
+*Would this slow down or ban AI?* It does not ban AI as a field or regulate ordinary AI use. It conditions the deployment, expansion, release, and operation of covered systems on compliance with defined duties. SEC. 2(c) provides a controlled-research pathway, while lawful use, study, and modification of lawfully obtained weights remain protected. Compliance may take time, and the Act permits injunction or suspension of particular unlawful configurations—including emergency suspension upon probable cause of imminent risk of death or serious injury. The power to stop covered conduct when necessary is part of the accountability mechanism, not a general prohibition on AI.
 
-*My startup builds with AI — are we covered?* Almost certainly not — coverage begins
-at a compute line only a handful of models on earth have ever crossed, and SEC. 1 says
-so out loud. Duties climb to the people with the power to halt those systems; freedoms flow
-down to everyone else — and a non-modifying deployer discharges the duty by relying
-on the upstream validation (SEC. 2(b)).
+*My startup builds with AI—are we covered?* Not merely because it is a startup. Coverage turns on the model, the system, and the conduct—not company size. Training a covered model or materially expanding or deploying a covered system can trigger duties; a non-modifying deployer receives the reliance rule in SEC. 2(b). The lower [10^22]-operations threshold concerns specified records, not full frontier-model coverage. Personal liability still requires final material decision authority under SEC. 4.
 
-*If this passed, what would actually change?* Everything, for about a dozen people; for
-everyone else, nothing. About a dozen people would personally
-sign safety certifications the way bank chief executives have since 2002; serious
-incidents would be reported within seventy-two hours; insiders who report violations
-would be paid rather than gagged. For everyone else, nothing changes — which is the
-point.
+*If this passed, what would actually change?* Natural persons with final material authority over covered systems would have to exercise due care and personally sign the required certifications. Company liability would remain, but it would no longer substitute for personal accountability or absorb an individual’s penalty. Serious incidents would be reported on fixed deadlines, and insiders who report violations would receive statutory protection and awards. Ordinary users and workers without the required decision authority would acquire no personal compliance duty.
 
 **Asked by everyone.**
 
@@ -329,8 +310,7 @@ American food-safety law has been built on them since 1943. The proof is on the
 statute books: PRC Criminal Law art. 31 provides that where an entity commits a crime
 it is fined *and* the persons directly in charge and the other directly responsible
 persons are given criminal punishment — dual punishment, general across the code, in
-force since the 1997 revision. This Act reaches roughly a dozen chairs in one
-industry. Article 31 reaches every unit in the economy. ([The receipts](./standards/comparative_officer_liability.md#1-china).)
+force since the 1997 revision. This Act operates only within its compute- and conduct-defined frontier-AI scope, and its individual duties reach only natural persons who satisfy the controlling-person test. Article 31 reaches every unit in the economy. ([The receipts](./standards/comparative_officer_liability.md#1-china).)
 
 *"Won't this hand the lead to someone else?"* America has run this experiment: it met
 a ten-nation safety embargo with inspection law, and exports rose by two-thirds. From
@@ -488,11 +468,7 @@ and one legislature at a time. A model act's audience is measured in sponsors, a
 current count is zero. The claimed path is the same and no shorter: named reviewers,
 then a sponsor's counsel, then one state.
 
-*What is the attack ad against me?* "Criminalising innovation." The answer is on the
-face of the text: engineers are exempt by definition, the thresholds and penalty
-brackets carry numbers governors of both parties have already signed, and
-pharmaceuticals, banking, and aviation have carried officer liability for decades
-while remaining industries. The bill's guest list is roughly a dozen chairs on earth.
+*What is the attack ad against me?* “Criminalising innovation.” The answer is on the face of the text: research and ordinary AI use are not offenses, and professional credentials, technical ability, access, advice, or implementation alone do not establish controlling-person status. The base individual offense requires final material decision authority, a relevant duty, and failure to exercise due care; higher tiers require additional elements. Entity liability remains, but the natural persons with practical power cannot place all accountability inside the corporate shell.
 
 *What does it cost my state?* Nothing that scales with your state: the cost tracks the
 number of frontier developers shipping into it, a number countable on one hand. [The
@@ -653,15 +629,7 @@ falsification, not disclosure; and disclosing nonconformity is a protected filin
 that simply does not count as validation. The deeper incentive-design question is
 real, and open.
 
-*Roughly a dozen defendants, and a wealth dossier in the same repository — this is
-targeted legislation.* Attainder punishes named persons without trial; this Act names
-no one and punishes no one — it creates offences, tried to juries, under the drafters'
-own burdens. The statute is general on its face and in operation: it defines its class
-by conduct and scale any actor may enter or exit, and takes its thresholds from
-figures other legislatures enacted first. Small classes are how frontier regulation
-begins — the roster of systemically important banks runs to about thirty institutions
-and no court has called their statute an attainder. The dossier is an evidence file
-for journalists; the statute never cites it.
+*The regulated class is small, and this repository also contains a wealth dossier. Is this targeted legislation?* The concern is serious. The Act names no person and determines no guilt. Coverage turns on prospective rules—compute or designation, covered conduct, and practical authority—and every element of a criminal offense must be proved in court beyond a reasonable doubt. People enter or leave the regulated class as the relevant facts change. The dossier is neither incorporated into nor cited by the statutory text and should be evaluated separately as project research.
 
 *You rewrote three states' statutes by stripping their thresholds — that isn't
 incorporation, it's ventriloquism.* No sister state is amended or spoken for: the
@@ -854,24 +822,14 @@ imminent risk of death or serious injury — and the clock runs from when the ce
 monitoring would have detected the incident, so that deleting the logs does not stop it
 (SEC. 9).
 
-**The personal-consequence rule.** Penalties are recovered from the officer's own
-violation-linked compensation, and the company is prohibited from indemnifying or
-insuring the individual fine: the consequence cannot be expensed (SEC. 7).
+**The personal-consequence rule.** A person adjudicated liable must disgorge the economic benefits attributable to the violation, in addition to any fine or penalty. No person may insure, indemnify, reimburse, gross up, or otherwise offset an individual fine, penalty, or disgorgement; SEC. 7 treats reasonable defense costs and restitution separately. Corporate payment does not extinguish the individual’s liability and may itself violate the Act (SEC. 10(e)).
 
-**Who is, and is not, reached.** Rank-and-file engineers are not: the definitions climb
-the organisation chart, not down it, and the exclusion of ministerial execution and
-technical ability standing alone is part of the design. The regulated class is the small
-set of natural persons — a matter of seats, not names — with practical authority to say
-"do not ship" over the handful of models that clear the 10^26-operation line. Personal,
-non-commercial use, and the study or modification of lawfully obtained weights, are
-expressly untouched (SEC. 1). Whistleblowers are paid ten to thirty percent of collected
-sanctions, and contractual gags are void (SEC. 11).
+**Who is, and is not, reached.** Job title is not the test. Professional credentials, technical ability, system access, advice, or implementation of another person’s decision do not by themselves make someone a controlling person. Individual duties follow final material independent decision authority and the practical power to prevent, halt, restrict, or correct covered conduct—including power arising through position, ownership, or governance rights. Covered frontier models exceed [10^26] operations or are prospectively designated as frontier-equivalent; specified records duties begin at a lower threshold. Personal, non-commercial use and the study or modification of lawfully obtained weights remain protected (SEC. 1). Whistleblowers may receive ten to thirty percent of collected sanctions, and contractual gags are void (SEC. 11).
 
 **Almost nothing here is invented.** California, New York, and Illinois have already
 drawn the same lines — the 10^26 threshold, penalties on the order of a million dollars,
 mandatory frameworks; Illinois passed its statute 110–0. The one addition is personal
-criminal liability for the responsible officers, and that addition is more than eighty years old:
-egg executives have served real sentences under it. What v3.3 added: a severability
+criminal liability for the responsible officers, and that addition is more than eighty years old: egg executives have served real sentences under it. What v3.3 added: a severability
 ladder with revival, so a federal switch-off statute that later lapses cannot leave the
 Act dark (SEC. 13); a three-layer commencement borrowing interim standards verbatim from
 the three enacted state frameworks, so that no agency's inaction can stall the
