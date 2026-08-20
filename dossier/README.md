@@ -11,6 +11,34 @@ Chapters: [00 — contents](#chapter-00) · [01 — the power map](#chapter-01) 
 [04 — wealth and control](#chapter-04) · [05 — questions and answers](#chapter-05) ·
 [06 — the open letters](#chapter-06)
 
+---
+
+### Reading notes for the concatenated chapters
+
+*These notes sit outside the sealed text. The chapters below are preserved verbatim with
+their checksums; where a chapter has been overtaken, the correction is recorded here
+rather than edited into it.*
+
+**The statute's filename.** Chapters 00 and 01 point to `model_act_v3_3.txt`. The
+authoritative text has been [`model_act_v3_4.txt`](../model_act_v3_4.txt) since 19 August
+2026; v3.3 is preserved in [`archive/`](../archive/). The doctrine cited in those chapters
+is unchanged — the section numbers still land.
+
+**Which pins are open.** Chapter 04's OPEN PINS list predates the second cite-check pass
+of 17 August 2026, and chapter 01's own status list supersedes it on five items: the
+Zuckerberg figure (re-pinned twice; the −$8.7B figure is retired), the Musk
+Forbes/Bloomberg reconciliation (both pinned as dated snapshots), the OpenAI
+post-recapitalisation split (closed to OpenAI's own structure page), the Anthropic LTBT
+roster (closed to first-party, Bernanke included), and the xAI/SpaceX voting figure
+(corrected to ~82% on ~42%, S-1 still to pin directly). Where the two lists disagree,
+**chapter 01's status section governs**; chapter 04's list stands as the record of what
+was open when it was written.
+
+**The dated watch.** Chapter 03 sets a re-sweep for on or after **25 August 2026** — the
+day after the congressional response deadline of 24 August. Whether OpenAI and Anthropic
+answer, and what they concede, bears on SEC. 6, SEC. 9, and SEC. 12; silence is itself the
+SEC. 9 argument. Unresolved as of this note.
+
 
 ---
 
