@@ -315,6 +315,8 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**20 August 2026 — For one hour, the book was its own bookmark.** A misplaced upload set the audit signpost as the front page; restored, strays deleted, root back at sixteen. The register logs its own fumbles, or it is not a register.
+
 **20 August 2026 — The hopper opens.** The v3.5 cure queue is live at
 [audit/v3_5_cure_language.md](./audit/v3_5_cure_language.md), CURE 1 already splice-ready:
 the § 1365(h)(3)–(4) definition with its rename cascade mapped, per the entry below. The
