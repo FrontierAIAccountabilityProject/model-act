@@ -247,6 +247,8 @@ an opening sentence overstating the general law is tightened to the statutory-ga
 project actually makes. Caught by our own hostile read-through within the hour of
 publication; the fix is live on the front page. Status: cured.
 
+**E13 — 20 August 2026 (internal catch).** SEC. 8 of the tagged v3.4 text contains a punctuation error: “risks, or merits of any model or system, A certification disclosing identified noncompliance…” The comma before “A certification” should be a period. The error does not alter the provision’s meaning, and the archived v3.4 file remains unchanged to preserve its published hash and reproducibility chain. The one-character correction is queued for v3.5. Status: open by design; closes at the next revision.
+
 <a id="part-ii"></a>
 ## Part II — The changelog
 
