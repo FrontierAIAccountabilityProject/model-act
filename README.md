@@ -1,6 +1,7 @@
 # Model Act — Frontier AI Public Welfare Offenses
 
-**Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)  · 
+**Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
+ 
  DOI [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795)
 
 Model state legislation applying the **responsible corporate officer doctrine** —
