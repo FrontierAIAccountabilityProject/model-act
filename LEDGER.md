@@ -463,6 +463,7 @@ subscribe to the raw feed:
 [atom](https://github.com/llmaolaw/model-act/commits/main.atom).*
 
 ---
+**20 August 2026 — READ FIRST 3(b), answered from outside.** The companion asks, in versioned text, for a criminal-law scholar’s judgment on the harm tier’s injury source. One arrived: the definition moves to 18 U.S.C. § 1365(h)(3) at v3.5 — the term renamed “serious bodily injury,” the (h)(4) base imported — tier and trigger now travelling from the same donor statute, the consumer-tampering act of 1983. The scholar’s name enters the register only by their election, per the standing rule. Item 3(c), the bracketed minimum, stays open.
 
 **19 aug 2026 · the reviewer's edition, and the census completed.** two fixes from one
 complaint. the file list now itemizes everything — every card, every dossier chapter, every
