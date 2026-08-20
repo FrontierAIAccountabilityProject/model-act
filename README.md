@@ -105,8 +105,8 @@ model-act/
 
 ## Contents
 
-This repository is eight documents. Everything else is a signpost, an archive, or a
-machine-readable file.
+This repository is the documents listed below. Everything else is a signpost, an
+archive, or a machine-readable file.
 
 | Document | What it is |
 |---|---|
@@ -780,11 +780,12 @@ For an individual, criminal copyright infringement still carries up to five year
 offense. The offense was never the act; it was the act without a corporate structure
 around it.
 
-**And the tradition is already being reached for. In August 2026, members of Congress
+**And the tradition is already being reached for.** In August 2026, members of Congress
 called for the chief executives of the largest AI companies to answer questions under
-oath; the letters, with every signatory, are in the dossier. A letter is not yet a
-subpoena — but the grammar is 1943's: personal accountability, asked of the officers
-with authority, before any statute exists to require it.
+oath; the letters, with every signatory, are in
+[the dossier](./dossier/README.md#chapter-03). A letter is not yet a subpoena — but the
+grammar is 1943's: personal accountability, asked of the officers with authority, before
+any statute exists to require it.
 
 <a id="what-the-act-provides"></a>
 ### What the Act provides
@@ -1600,7 +1601,9 @@ language, none of it in any tagged text until v3.5 lands; the sealed v3.4 queue 
 it is the redline behind the current statute.
 
 **The consolidation (19 August 2026).** The repository was reorganised from seventy-one
-files into the eight documents listed in the contents above. The three accountability
+files into the eight documents it then had — the set listed in the contents above,
+which has since grown by the table of authorities, the bracketed-matter worksheet, and
+the fiscal note. The three accountability
 files merged into [`LEDGER.md`](./LEDGER.md); the nine plain-language cards were revised
 into [the case](#the-case) on this page; the dossier's chapters merged into
 [one evidence document](./dossier/README.md); the audit series was concatenated into
