@@ -58,6 +58,9 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 
 **Recent.** Newest first; every entry links to the artefact, not to a promise.
 
+- **20 Aug 2026** — Illinois pinned: P.A. 104-0538 § 10 enters [the adopted
+  texts](./standards/interim_standards.md) verbatim from the enrolled bill, and the last
+  "capture pending" on a SEC. 3(c)(4) interim standard retires.
 - **20 Aug 2026** — a stale word found inside the tagged statute and deliberately left there:
   the header bracket still says "v4" where the next revision is v3.5. Non-operative text, and
   editing one byte would falsify the reproducibility chain the reviewer's copy rests on, so it
@@ -111,7 +114,7 @@ machine-readable file.
 | [`model_act_v3_4.txt`](./model_act_v3_4.txt) | The statute, SEC. 0–13 — research draft; the authoritative text |
 | [`model_act_v3_4_companion.md`](./model_act_v3_4_companion.md) | The drafting notes, open items, and constitutional defense |
 | [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) | The draft implementing regulations |
-| [`standards/interim_standards.md`](./standards/interim_standards.md) | The adopted interim texts — the enacted California and New York standards SEC. 3(c)(4) freezes, pinned verbatim; Illinois capture pending, cited |
+| [`standards/interim_standards.md`](./standards/interim_standards.md) | The adopted interim texts — the enacted California, New York, and Illinois standards SEC. 3(c)(4) freezes, pinned verbatim |
 | [`standards/table_of_authorities.md`](./standards/table_of_authorities.md) | Every authority the statute and companion cite, with the proposition each is cited for — built for verification |
 | [`standards/bracketed_matter.md`](./standards/bracketed_matter.md) | The adopting state's worksheet: every bracketed choice, its section and line, and what the enacted family chose |
 | [`standards/fiscal_note.md`](./standards/fiscal_note.md) | What the Act costs an adopting state: cost drivers traced to provisions, startup apart from steady state, and no revenue in the arithmetic |

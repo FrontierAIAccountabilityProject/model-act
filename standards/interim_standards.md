@@ -273,18 +273,201 @@ NB Effective January 1, 2027
 
 ## 3. Illinois — Artificial Intelligence Safety Measures Act, Section 10
 
-**Capture pending.** The citation stands: P.A. 104-0538 (SB 315), the Artificial
-Intelligence Safety Measures Act; Section 10, "Frontier AI framework," opening
-"(a) Beginning January 1, 2028, a large frontier developer ..." — structure
-verified 19 August 2026 against the official Illinois General Assembly print of
-the bill (ilga.gov/documents/legislation/104/SB/PDF/10400SB0315eng.pdf). The
-verbatim text will be pinned here from the enrolled Public Act as published by
-the Illinois General Assembly, which controls; this register does not transcribe
-from a print that preceded enrollment. Until the pin lands, the official ILGA
-publication of P.A. 104-0538 is the text.
+*Public Act 104-0538 (SB 315, 104th General Assembly), the Artificial Intelligence
+Safety Measures Act; approved July 6, 2026; the Act takes effect January 1, 2027
+(Section 99). Reproduced from the enrolled bill as published by the Illinois General
+Assembly (ilga.gov/documents/legislation/104/SB/PDF/10400SB0315lv.pdf), retrieved
+20 August 2026; the official ILGA publication of P.A. 104-0538 controls.*
+
+Section 10. Frontier AI framework.
+
+(a) Beginning January 1, 2028, a large frontier developer shall write, implement,
+comply with, and clearly and conspicuously publish on its website a frontier AI
+framework that applies to the large frontier developer's frontier models and
+describes how the large frontier developer approaches all of the following:
+
+(1) incorporating national standards, international standards, and
+industry-consensus best practices into its frontier AI framework;
+
+(2) defining and assessing thresholds used by the large frontier developer to
+identify and assess whether a frontier model has capabilities that could pose a
+catastrophic risk, which may include multiple-tiered thresholds;
+
+(3) applying mitigations to address the potential for catastrophic risks based on
+the results of assessments undertaken pursuant to paragraph (2);
+
+(4) reviewing assessments and adequacy of mitigations as part of the decision to
+deploy a frontier model or use it extensively internally;
+
+(5) using third parties to assess the potential for catastrophic risks and the
+effectiveness of mitigations of catastrophic risks;
+
+(6) revisiting and updating the frontier AI framework, including any criteria that
+trigger updates and how the large frontier developer determines when its frontier
+models are substantially modified enough to require disclosures pursuant to
+subsection (c);
+
+(7) cybersecurity practices to secure unreleased model weights from unauthorized
+modification or transfer by internal or external parties;
+
+(8) identifying and responding to critical safety incidents;
+
+(9) instituting internal governance practices to ensure implementation of these
+processes; and
+
+(10) assessing and managing catastrophic risk resulting from the internal use of
+its frontier models, including risks resulting from a frontier model circumventing
+oversight mechanisms.
+
+(b)(1) A large frontier developer shall review and, as appropriate, update its
+frontier AI framework at least once per year.
+
+(2) If a large frontier developer makes a material modification to its frontier AI
+framework, the large frontier developer shall clearly and conspicuously publish on
+its website the modified frontier AI framework and a justification for that
+modification within 30 days.
+
+(c)(1) Before, or concurrently with, deploying a new frontier model or a
+substantially modified version of an existing frontier model, a frontier developer
+shall clearly and conspicuously publish on its website a transparency report
+containing all of the following:
+
+(A) the website of the frontier developer;
+
+(B) a mechanism that enables a natural person to communicate with the frontier
+developer;
+
+(C) the release date of the frontier model;
+
+(D) the languages supported by the frontier model;
+
+(E) the modalities of output supported by the frontier model;
+
+(F) the intended uses of the frontier model; and
+
+(G) any generally applicable restrictions or conditions on uses of the frontier
+model.
+
+(2) Before, or concurrently with, deploying a new frontier model or a substantially
+modified version of an existing frontier model, a large frontier developer shall
+include in the transparency report required by paragraph (1) of this subsection (c)
+summaries of all of the following:
+
+(A) assessments of catastrophic risks from the frontier model conducted pursuant to
+the large frontier developer's frontier AI framework;
+
+(B) the results of the assessments under subparagraph (A);
+
+(C) the extent to which third-party evaluators were involved; and
+
+(D) other steps taken to fulfill the requirements of the frontier AI framework with
+respect to the frontier model.
+
+(3) All summaries required under paragraph (2) shall be provided in a
+machine-readable format to facilitate verification of model claims.
+
+(4) A frontier developer that publishes the information described in paragraph (1)
+or (2) as part of a larger document, including a system card or model card, shall
+be deemed in compliance with the applicable paragraph.
+
+(5) A frontier developer is encouraged, but not required, to make disclosures
+described in this subsection (c) that are consistent with, or superior to, industry
+best practices.
+
+(d) Beginning on January 1, 2028 or 90 days after a developer first qualifies as a
+large frontier developer, whichever is later, a large frontier developer shall
+annually retain a third party to perform an independent audit of compliance with
+the requirements of this Section. The third party shall conduct audits consistent
+with generally accepted auditing standards and best practices and shall possess
+demonstrated competence to perform the audit, including experience employing or
+contracting with individuals who possess technical expertise in the safety of
+frontier models. A large frontier developer shall not retain a third party if
+either the large frontier developer or the third party has a financial interest in
+the other party. A large frontier developer may compensate a third party for its
+services but shall not condition any payment or the amount of any payment on the
+results of the third party's audit.
+
+(1) The third party shall be granted access to all materials reasonably necessary
+to comply with the third party's obligations under this subsection (d), including,
+but not limited to, all unredacted versions of materials published pursuant to this
+Act. To protect the frontier developer's trade secrets and confidential business
+information, cybersecurity, national security of the United States, or public
+safety, a large frontier developer may impose security protocols on the third
+party, including, but not limited to, restrictions on note taking, copying,
+retaining, or removing materials; requirements for on-premise review; and
+confidentiality requirements.
+
+(2) The third party shall produce a report that includes all of the following:
+
+(A) a description of whether the large frontier developer has substantially
+complied with the requirements of this Section;
+
+(B) if applicable, a description of material deviations from the requirements of
+this Section, an explanation of any deviation and its rationale, and any
+recommendations for how the developer can improve its policies and processes for
+ensuring compliance with the requirements of this Section;
+
+(C) a detailed assessment of the large frontier developer's internal controls,
+including its designation and empowerment of senior personnel responsible for such
+implementation by the large frontier developer, its employees, and its contractors;
+
+(D) a list of the personnel involved in the audit;
+
+(E) the third party's procedures for managing conflicts of interest and any
+conflicts of interest of any personnel involved in the audit;
+
+(F) the methodology of the audit and the nature of the information reviewed by the
+third party to conduct the audit; and
+
+(G) the signature of the lead auditor certifying the results of the audit.
+
+(3) The large frontier developer shall retain an unredacted copy of the report for
+as long as a frontier model is deployed plus 5 years.
+
+(4)(A) No later than 30 days after receiving the audit report, the large frontier
+developer shall conspicuously publish on its website a high-level summary of the
+audit findings and a copy of the third party's report with appropriate redactions
+and transmit a copy of the redacted report to the Agency and the Attorney General.
+
+(B) The large frontier developer shall grant the Agency and the Attorney General
+access to the third party's report, with redactions, upon request, subject to the
+redactions permitted under subsection (g).
+
+(e) A large frontier developer shall transmit to the Agency a summary of any
+assessment of catastrophic risk resulting from internal use of its frontier models
+every 3 months or pursuant to another reasonable schedule specified by the large
+frontier developer and communicated in writing to the Agency and the Attorney
+General with written updates, as appropriate and agreed upon by the Agency.
+
+(f)(1) A frontier developer shall not make a materially false or misleading
+statement about catastrophic risk from its frontier models or its management of
+catastrophic risk.
+
+A large frontier developer shall not make a materially false or misleading
+statement about its implementation of, or compliance with, its frontier AI
+framework.
+
+(2) This subsection (f) does not apply to a statement that was made in good faith
+and was reasonable under the circumstances.
+
+(g)(1) When a frontier developer publishes documents to comply with this Section,
+the frontier developer may make redactions to those documents that are necessary to
+protect the frontier developer's trade secrets, the frontier developer's
+cybersecurity, public safety, or the national security of the United States or to
+comply with any federal or State law.
+
+(2) If a frontier developer redacts information in a document pursuant to this
+subsection (g), the frontier developer shall describe the character and
+justification of the redaction in any published version of the document to the
+extent permitted by the concerns that justify redaction and shall retain the
+unredacted information for 5 years.
+
+NB Act effective January 1, 2027 (Section 99); subsection (a) operates from
+January 1, 2028, and subsection (d) from January 1, 2028 or 90 days after a
+developer first qualifies as a large frontier developer, whichever is later.
 
 ---
 
-*Retrieved and pinned 19 August 2026. Where any text above differs from the
+*Retrieved and pinned 19–20 August 2026. Where any text above differs from the
 enacting jurisdiction's official publication, the official publication controls,
 and a correction here is an erratum for the register.*

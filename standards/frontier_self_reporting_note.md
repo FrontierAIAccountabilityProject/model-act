@@ -454,7 +454,7 @@ publication dates and retrieval dates above are the control.
 | Same, permanent archived copy | ⚠ capture pending |
 | California B&P § 22757.12 framework duty | ✅ pinned verbatim, `interim_standards.md` § 1 |
 | New York GBL § 1421 framework duty | ✅ pinned verbatim, `interim_standards.md` § 2 |
-| Illinois P.A. 104-0538 § 10 | ⚠ enrolled-text capture pending, `interim_standards.md` § 3 |
+| Illinois P.A. 104-0538 § 10 | ✅ pinned verbatim from the enrolled bill, `interim_standards.md` § 3 |
 | OpenAI Preparedness Framework — current edition, version, date | ⚠ capture pending |
 | Google DeepMind Frontier Safety Framework — current edition | ⚠ capture pending |
 | xAI Risk Management Framework — current edition | ⚠ capture pending |
