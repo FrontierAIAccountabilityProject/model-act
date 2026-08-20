@@ -6,7 +6,9 @@ files were merged into this single record on 19 August 2026 as part of the repos
 consolidation; their content is unchanged, and each retains its original heading below. The
 original paths remain in place as signposts. The v3.4 cure queue
 ([v3_4_cure_language.md](./v3_4_cure_language.md)) landed and is preserved as its own review
-artifact; the live queue is now [v3_5_cure_language.md](./v3_5_cure_language.md), which joins
+artifact. 
+
+The live queue is now [v3_5_cure_language.md](./v3_5_cure_language.md), which joins
 this record when v3.5 lands.
 
 Parts: [reader's guide](#readme) · [1 — landscape](#chunk-1) · [2 — preemption armour](#chunk-2) ·
