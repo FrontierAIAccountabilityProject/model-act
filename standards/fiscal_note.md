@@ -49,28 +49,15 @@ Prosecution is not an Agency function. The Attorney General enforces (SEC. 10(e)
 those costs are estimated separately at § 4.
 
 ---
+## 2. Volume: bounded in scope, not yet quantified
 
-## 2. Volume: the number that makes this administrable
+SEC. 1 narrows the universe of covered models through a compute threshold and prospective frontier-equivalent designation. That does not, by itself, establish the number of regulated entities or annual filings. Duties can arise from developer, provider, and deployer conduct, and more than one entity or controlling person may be connected to a covered system.
 
-Coverage begins at a compute threshold that a handful of models on earth clear
-(SEC. 1). Duties attach to the entities that develop, materially modify, provide, or
-deploy those systems, and to controlling persons within them.
+Filing volume is driven by deployments, material expansions, releases, periodic certifications for sub-material changes, nonconformity reports, critical-safety incidents, and whistleblower submissions. It therefore cannot be inferred solely from the number of frontier-model developers. State population and AI adoption may also affect how many covered systems are made available to residents, how often reportable events occur, and how much enforcement work follows.
 
-Filings therefore arrive in the tens per year, not the thousands. A conformity assessment
-is transmitted on or before each deployment, material expansion, or release — so the
-filing rate tracks the frontier release cadence of a small number of firms, not the size
-of the state's economy or the number of businesses using AI.
+The records duty beginning at [10^22] operations reaches below full frontier-model coverage. Those records are ordinarily retained rather than routinely filed, limiting regular intake costs, but production requests and resulting investigations can still create workload.
 
-This is the administrability story in one line, and it is also the fiscal one: **the cost
-of this Act does not scale with the state's population, industry, or AI adoption.** It
-scales with the number of frontier developers shipping into the state, which is a number
-that can be counted on one hand and is not projected to grow quickly. A state twice the
-size of another pays approximately the same to administer this Act.
-
-The corollary belongs here too, because a fiscal analyst will ask it: the records duty at
-[10^22] operations (SEC. 12) reaches far below coverage and touches more entities than
-the duties do. It creates no Agency workload, because those records are retained by the
-entity and produced on demand, not filed.
+Until a fiscal analyst inventories covered entities and models, estimates the relevant event frequency, and tests low-, central-, and high-volume scenarios, this note cannot responsibly claim a number of annual filings. The staffing figures below are bracketed structural placeholders, not volume-derived estimates.
 
 ---
 
