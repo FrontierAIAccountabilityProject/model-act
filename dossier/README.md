@@ -34,6 +34,37 @@ roster (closed to first-party, Bernanke included), and the xAI/SpaceX voting fig
 **chapter 01's status section governs**; chapter 04's list stands as the record of what
 was open when it was written.
 
+**The startup answer, overtaken at v3.4.** Chapter 05's answer to *"my startup runs
+models — am I a criminal now?"* predates the reliance rule the v3.4 amendments added:
+under SEC. 2(b) of the current text, a non-modifying deployer running a system exactly
+within someone else's validated configuration discharges the duty by adopting that
+validation, keeping a manifest, monitoring, and reporting — a shelter the sealed answer
+could not yet name. The chapter's conclusion (a startup below the compute line is not in
+the Act's class) stands; the current text is more protective than the sealed answer
+claims, not less. The root README's startup entry states the current position.
+
+**The price-compression objection, observed but not admitted.** On 20 August 2026 a
+widely circulated thread, built on a chart attributed to Bloomberg, asserted that
+near-frontier Chinese models now approach the American frontier at a fraction of the
+cost per task. The chart could not be located by the thread's own repliers, so no figure
+from it is asserted anywhere in this project — this note records the objection, not the
+numbers. Its usable core survives the sourcing failure: *the capability margin is
+closing and the price margin is going; this is the worst moment to add compliance
+cost.* The answer that survives contact runs the other way. When capability
+commoditises, price converges, and the only durable margin is trust — and the thread's
+own defenders of the American position reached for exactly that, instinctively
+("would you rather give your data to..."), with no mechanism behind the instinct. Trust
+that can be verified outsells trust that must be assumed; a certification with a name on
+it is verifiable trust; the export version of this argument already ran once, in 1891,
+and is answered at length on the root README's question ladder. A second observation
+belongs on the record: the thread is dozens of replies arguing about a gap none of the
+participants can measure, from a chart none of them can find — the ordinary epistemic
+condition of a field with no disclosure duties. The enacted frameworks pinned in
+[the adopted texts](../standards/interim_standards.md), and the transparency and
+certification duties they carry, are what a measurable version of that debate would run
+on. If this objection keeps arriving in this register, it earns a seat on the question
+ladder at the next Q&A pass.
+
 **The dated watch.** Chapter 03 sets a re-sweep for on or after **25 August 2026** — the
 day after the congressional response deadline of 24 August. Whether OpenAI and Anthropic
 answer, and what they concede, bears on SEC. 6, SEC. 9, and SEC. 12; silence is itself the
