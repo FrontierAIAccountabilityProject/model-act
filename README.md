@@ -58,10 +58,10 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 
 **Recent.** Newest first; every entry links to the artefact, not to a promise.
 
-- **20 Aug 2026** — the predecessor comment file read end to end:
+- **20 Aug 2026** — the predecessor comment file, rostered in full and read in part:
   [reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md) on the 51 comments FDA
-  received the last time it asked how to regulate AI devices — who filed, what they asked
-  for, and the element none of them names.
+  received the last time it asked how to regulate AI devices — every filer named, the
+  substance of 22 of them read, and the element none of those 22 names.
 - **20 Aug 2026** — the docket door gets its manual: [the field guide to filing a federal
   comment](./filings/how_to_file_a_federal_comment.md) — the identity cards and category
   codes decoded, the government's own craft sheets pinned, and the one fact that inverts
@@ -132,7 +132,7 @@ archive, or a machine-readable file.
 | [`standards/fiscal_note.md`](./standards/fiscal_note.md) | What the Act costs an adopting state: cost drivers traced to provisions, startup apart from steady state, and no revenue in the arithmetic |
 | [`standards/comparative_officer_liability.md`](./standards/comparative_officer_liability.md) | The receipts behind the question ladder's comparative answers — PRC art. 31, § 130 OWiG, and the 1890–91 export-inspection acts, with the claims this project declined to make |
 | [`filings/README.md`](./filings/README.md) | The docket shelf: what has been filed, where, and on what deadline — the index to everything below |
-| [`filings/docket_fda_2024_d_4488_reading_notes.md`](./filings/docket_fda_2024_d_4488_reading_notes.md) | The predecessor comment file read end to end — who filed, what they asked for, and the element none of them names |
+| [`filings/docket_fda_2024_d_4488_reading_notes.md`](./filings/docket_fda_2024_d_4488_reading_notes.md) | The predecessor comment file, rostered in full and read in part — every filer named, the substance of 22 of the 51 read, and the element none of those 22 names |
 | [`filings/how_to_file_a_federal_comment.md`](./filings/how_to_file_a_federal_comment.md) | The field guide to regulations.gov — the identity cards, the category codes, the craft, and why the process is not a vote; the federal companion to How a bill is handed over |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
