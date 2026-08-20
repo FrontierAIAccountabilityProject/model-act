@@ -24,21 +24,17 @@ looks like a limitation on power rather than a budget line. SEC. 3(b) forbids an
 standard, rule, or mode of validation from conditioning deployment, expansion, or
 release on the prior affirmative approval of the Agency or of any officer of the State.
 
-The Agency therefore never licenses, never grants, never queues, and cannot accumulate a
-backlog, because nothing waits on it. It has no application docket, no approval clock, no
-user-fee relationship, and no appeals from denials — the four structures that make
-pre-market regulators expensive. A budget office reaching for a food-and-drug or
-financial-licensing comparator will overstate this Act's cost by an order of magnitude,
-and the reason is on the face of SEC. 3(b).
+The Agency does not operate a premarket licensing or approval programme. It therefore has no application queue, approval clock, user-fee relationship, or appeals from licence denials. This removes several major cost drivers found in food, drug, and financial preclearance regimes. It does not eliminate the possibility of workload backlogs in rulemaking, standards review, report handling, whistleblower matters, or referrals.
 
-What the Agency does instead is receive, publish, maintain, and refer:
+The Agency’s principal functions are receiving, publishing, maintaining, reviewing, and referring:
 
 | Function | Source | Character |
 |---|---|---|
 | Adopt standards by rule, after notice and technical submissions | SEC. 3(a) | Startup-heavy, then periodic |
 | Independently review any standard it incorporates, with power to modify or reject; re-adopt on every amendment | SEC. 3(a) | Recurring, and the most underestimated line below |
 | Specify the mode of validation for each standard | SEC. 3(b) | Rides with rulemaking |
-| Receive conformity assessments and nonconformity reports | SEC. 3(c)(2)(C)–(D) | Continuous, low volume |
+| Receive conformity assessments and nonconformity reports | SEC. 3(c)(2)(C)–(D) | Continuous; volume not yet quantified |
+| Receive personal certifications | SEC. 8 | Event-based and periodic; volume not yet quantified |
 | Receive critical-safety-incident reports | SEC. 9 | Episodic, unpredictable, clock-bound |
 | Receive whistleblower reports; act or publish a reasoned declination within [180] days | SEC. 11(a), (e) | Continuous, clock-bound, the principal steady-state driver |
 | Protect reporting persons' identity, including in awards | SEC. 11(b) | Requires secure handling capability |
@@ -68,14 +64,10 @@ Until a fiscal analyst inventories covered entities and models, estimates the re
 | Standards development and rulemaking | SEC. 3(a) — technical submissions, drafting, notice-and-comment, independent review of any incorporated standard | [2.0–3.0 FTE] for the year, plus [\$—] contracted technical expertise |
 | Public availability of incorporated material | SEC. 3(a) requires all incorporated material to be publicly available without charge | [\$—] — see § 5, the paywall line |
 | Secure information handling | SEC. 11(b), (f) — identity protection and security-sensitive material | [\$—] one-time, facilities and systems |
-| Intake and publication systems | SEC. 3(c)(2)(C), SEC. 9, SEC. 11 | [\$—] one-time; low complexity at this filing volume |
+| Intake and publication systems | SEC. 3(c)(2)(C), SEC. 9, SEC. 11 | [\$—] one-time; capacity to be set from low-, central-, and high-volume scenarios |
 | Fund establishment | SEC. 10(f) | Administrative, nominal |
 
-Year one carries a workload the steady state does not: standards do not exist yet, and
-SEC. 3(c)(2) runs the regime on provisional validation against interim standards in the
-meantime. That design is itself a cost decision — the Act operates from day one without
-waiting on the Agency, so the state is not paying for a regime that does nothing while
-rules are written.
+Year one carries workload that the steady state does not because the Agency’s own standards do not yet exist. The truth-telling, reporting, records, whistleblower, and administrative provisions operate from the effective date; the core SEC. 2 deployment duty begins at provisional commencement after [180] days using the interim standards in SEC. 3(c)(4). The Agency’s unfinished rulemaking therefore does not postpone that commencement, but the state still incurs startup costs while its permanent standards are developed.
 
 ---
 
@@ -89,13 +81,7 @@ rules are written.
 | Legal and rulemaking support | Across | [0.5–1.0 FTE] |
 | Attorney General — enforcement | SEC. 10(e) | Stated separately below |
 
-**Attorney General.** Enforcement cost is episodic and cannot be staffed to an average.
-The honest statement for a fiscal note is that this Act adds no standing prosecutorial
-headcount and creates contingent capacity needs: a charged case under SEC. 6 is a
-document-heavy prosecution against well-resourced defence, and the state should expect
-that a first case costs materially more than a later one. The fiscal seat is asked
-specifically whether this should be estimated as a contingency line or left unquantified
-with a stated reason.
+**Attorney General.** Enforcement cost is episodic and cannot yet be reduced to a reliable annual average. The Act creates document- and expert-intensive civil and criminal matters against potentially well-resourced defendants. Whether this requires standing staff, contingent appropriations, outside technical expertise, or some combination depends on expected case volume and the adopting office’s existing capacity. A fiscal analyst should model investigation, electronic discovery, expert evidence, prosecution, and appellate work under low-, central-, and high-enforcement scenarios. A first litigated case is likely to cost materially more than later cases, but no amount is asserted here without a state-specific basis.
 
 ---
 
