@@ -113,6 +113,16 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 ---
 
+**E10 — 20 August 2026 (internal catch).** The statute's header bracket at line 5 refers to
+"the open items for v4"; the next revision is v3.5, as the companion and the README now say.
+The text is non-operative — the bracket is apparatus, not statute — and it is left uncorrected
+on purpose. `model_act_v3_4.txt` is tagged, checksummed in the changelog, published as the
+source hash of the reviewer's copy (`399c725adcd117aa7736a63b716328226eb24f33a48695115d941b68caace1bf`),
+and archived at CERN under DOI 10.5281/zenodo.22029795. Editing a byte would falsify the
+reproducibility chain rather than improve the text: the PDF would no longer rebuild to its
+published hash, and the claim a reviewer is invited to check would become false. Corrected at
+v3.5, when the file re-hashes anyway. Status: open by design, closes at the next revision.
+
 **E9 — 20 August 2026 (internal catch).** The register's own rule — "when a statutory cure
 lands on the working branch, its entry gains a dated 'landed' line" — was applied to E1, E3, and
 E4 but not to E2 or E5, which landed in the same tagged revision. Both are recorded here rather

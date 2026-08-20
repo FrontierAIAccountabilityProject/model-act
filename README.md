@@ -49,7 +49,7 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 - **v3.4 amendments:** entered verbatim from the published cure queue — announcement and statute are diffable
 - **Next revision:** v3.5 in preparation; the open [cure queue](./audit/v3_5_cure_language.md) holds proposed language, none of it in any tagged text yet
 - **Review:** council assembly under way; this text claims no "survived review" until named reviewers sign
-- **Print edition:** a reproducible, line-numbered [reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf) (17pp, landscape, wide margin) is built from the source by [a committed script](./tools/build_reviewers_copy.py); plain text remains authoritative
+- **Print edition:** a reproducible, line-numbered [reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf) (17pp, landscape, wide margin) is built from the source by [a committed script](./archive/build_reviewers_copy.py); plain text remains authoritative
 - **License:** CC0 — public domain
 - **Archived:** [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795) — CERN's Zenodo, permanent; every future release mints its own version DOI under this concept DOI
 
@@ -58,9 +58,13 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 
 **Recent.** Newest first; every entry links to the artefact, not to a promise.
 
+- **20 Aug 2026** — a stale word found inside the tagged statute and deliberately left there:
+  the header bracket still says "v4" where the next revision is v3.5. Non-operative text, and
+  editing one byte would falsify the reproducibility chain the reviewer's copy rests on, so it
+  is logged as [ERRATA E10](./LEDGER.md#part-i) and corrected at v3.5 instead.
 - **20 Aug 2026** — the withdrawn typeset edition is replaced by a line-numbered
   [reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf), generated deterministically
-  from the statute by [a committed script](./tools/build_reviewers_copy.py); rebuild it and
+  from the statute by [a committed script](./archive/build_reviewers_copy.py); rebuild it and
   the hashes match, which is what the withdrawal was waiting for ([how to check](./archive/REVIEWERS_COPY.md)).
 - **20 Aug 2026** — READ FIRST item 3(b) answered from outside: the harm tier's injury
   definition moves to 18 U.S.C. § 1365(h)(3)–(4) at v3.5, drafted as CURE 1 in
@@ -88,11 +92,10 @@ model-act/
 ├── CITATION.cff · LICENSE
 ├── ERRATA.md                        # historic register names — one pointer into the ledger
 ├── standards/                       # the adopted interim texts, pinned verbatim
-├── archive/                         # superseded versions — nothing is ever deleted
+├── archive/                         # superseded versions + the print edition and its generator
 ├── audit/                           # drafting record · cure queues (v3.4 sealed · v3.5 open)
 ├── dossier/                         # the evidence file, every fact pinned
 ├── filings/                         # public-docket submissions — published as filed
-├── tools/                           # the reviewer's-copy generator — one script, one dependency
 ├── docs/                            # retired paths (signposts)
 └── pages/                           # the withdrawn typeset's page images
 ```
