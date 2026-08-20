@@ -136,3 +136,17 @@ The Act genuinely declines the bias-mitigation asks of comments 0021, 0042, 0027
 and the mapping table says so under **Outside the Act**. The post does not claim the
 refusal was foresight. It claims the refusal has a consequence, which is a smaller and
 truer thing.
+
+## 6. The stand (fire with or after the cross-examination section publishes)
+
+*Source: [the cross-examination](../README.md#the-cross-examination), front page; every step
+cited to the statute there. The post states the dilemma; the section carries the honest last
+page — the conforming answer that survives — so the thread never overclaims what a reply can
+check.*
+
+**1.** (260) The whole bill is one courtroom scene. "Could you have stopped this?" Yes — you had the power; the records show what you did with it. No — you shipped what you now swear nobody could control. The only answer that survives is proof the safety work actually ran.
+
+**Discipline.** The post says "the only answer that survives is proof the safety work
+actually ran" — which is the honest version, and it must not be sharpened to "every answer
+convicts." SEC. 6(c) forbids that reading and the section says so out loud. If a reply
+pushes the stronger claim, the answer is the section link, not agreement.

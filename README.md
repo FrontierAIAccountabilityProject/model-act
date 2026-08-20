@@ -1165,6 +1165,67 @@ that later dies cannot leave this Act dark.
 *That is the whole law. Fourteen sections; the doctrine is eighty years old; the
 only new part is who it reaches. [Verify it](#verify-it).*
 
+<a id="the-cross-examination"></a>
+### The cross-examination
+
+The Act was built backwards from one scene, and the scene belongs on the page where the
+sections that produce it can be checked against it. A covered system has killed someone.
+The chief executive is on the stand. The prosecutor asks the only question the jury came
+to hear: *could you have stopped this?*
+
+**"Yes."** Then the element is admitted. Practical power to prevent, halt, restrict, or
+correct the violation is exactly what he has claimed — SEC. 6(a) — and his office is,
+under SEC. 4(b), evidence from which the jury may infer it without more. What remains is
+due care, and due care is a records question: whether validation ran and attached to the
+configuration actually deployed (SEC. 3(b)); whether the monitoring he certified existed
+(SEC. 8); whether the incident clocks ran from detection, or from when the monitoring he
+certified would have detected (SEC. 9(b)). If the harm traces to a gap in that record,
+the failure of due care is made out — SEC. 6(a), the [misdemeanor] tier of SEC. 10(b).
+If he had notice — and notice includes a report his own company filed — and kept
+shipping, SEC. 6(b): a felony, and where the violation is the but-for and proximate
+cause of a death, each person killed is a separate offense (SEC. 10(c)(2)).
+
+**"No — nobody could have controlled these models."** Three things have just happened,
+none in his favor.
+
+First, that is not the power the element asks about. SEC. 6(e) defines practical power
+over "the violation or the conditions giving rise to it," and every violation in SEC. 5
+is a human act — deploying without validation, operating without prescribed controls,
+failing to report, lying to the State. He could not control the model; he could always
+have declined to ship it. The power to halt a deployment is the paradigm practical
+power, and it is the one power a chief executive can never genuinely lack — which is why
+the negated element of SEC. 6(d), drafted so that the genuinely powerless engineer never
+reaches a jury, does nothing for the person who signed the ship order.
+
+Second, he has just made the prosecution's due-care case from the stand. Every standard
+the Act applies — authorization, monitoring, containment; the enacted frameworks adopted
+at SEC. 3(c)(4) — presupposes control. To swear the system could not be controlled is to
+swear it could not conform, and SEC. 2(a) forbids deployment "unless each controlling
+person has exercised due care to ensure the system's compliance." No one can have
+ensured what he has just testified was impossible. The answer is not a defense; it is an
+admission with a court reporter present.
+
+Third, the signature. SEC. 8 is statements of fact within the certifying person's
+knowledge after reasonable inquiry. If he knew the system could not be controlled on the
+day he certified, the certification was knowingly false — SEC. 6(b)(1), the felony tier.
+If he never asked, it was made without reasonable inquiry — SEC. 6(a). *I didn't know*
+is not an exit from the dilemma. It is an allocution to the inquiry he did not make.
+
+Honesty requires the transcript's last page, because there is an answer that walks:
+*"We could control it, and we did. Validation ran, honestly. The monitoring was real.
+The harm happened anyway."* The Act does not imprison on that answer, by design —
+SEC. 6(c) forbids a custodial sentence without a proven failure of due care, which is
+what keeps the statute inside the modern Court's scienter line (*Staples*, *Rehaif*,
+*Ruan*; [the precedents](#the-precedents)). But observe two things about the surviving
+answer. It is checkable — against the SEC. 12 records, the SEC. 9 reports, and the
+certifications he signed, every one of which this Act forced into existence — so the
+stand is a records check, not a swearing match. And it cannot coexist with "nobody could
+have controlled these models." He has to pick one. Either answer to the question loses;
+the only answer that survives requires the whole process this Act compels to have
+actually run. That is not the cross-examination failing. That is the cross-examination
+having worked years earlier, in a conference room, on the day the validation was made
+real because someone in that room imagined this page of the transcript.
+
 <a id="the-stories"></a>
 ### The stories in the statute
 
