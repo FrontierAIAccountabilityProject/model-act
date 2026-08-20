@@ -437,7 +437,7 @@ concurrence drew. What it deliberately omits is a good-faith defence, following 
 beneath the felony is a genuine design question — open, and squarely within the
 criminal-law seat.
 
-*Park was a $250 misdemeanour; you attach life imprisonment to a negligence floor.*
+*Park was a \$250 misdemeanour; you attach life imprisonment to a negligence floor.*
 Different floors, kept apart on the face of the text: the due-care offence of SEC.
 6(a) *is* the Park misdemeanour — one year at most (SEC. 10(b)). Life enters only
 through SEC. 6(b)(1), knowing or wilful conduct, plus a death charged as but-for and
@@ -586,7 +586,7 @@ hundred patients. Three died on the operating table. The company did not recall 
 product, because a recall meant disclosing the deaths to the FDA; at the next
 inspection it made false statements instead (U.S. Dep't of Justice, E.D. Pa. release,
 4 Oct. 2010). In 2011, four executives — the North America president among them —
-were sentenced to between five and nine months in federal prison, $100,000 each, as
+were sentenced to between five and nine months in federal prison, \$100,000 each, as
 responsible corporate officers (*United States v. Norian Corp.*, E.D. Pa.), and were
 afterward excluded from federal health-care programs. The sentencing judge's stated
 finding: they wanted to beat competitors to market without the lengthy approval
@@ -596,7 +596,7 @@ race argument, already adjudicated.
 **The doctrine also recorded which sanctions fail.** In 2007 three executives of the
 maker of OxyContin pleaded guilty solely as responsible corporate officers — the plea
 expressly admitting no personal knowledge or intent (*United States v. Purdue
-Frederick Co.*, W.D. Va., No. 1:07-cr-29). Personal penalties of $34.5 million —
+Frederick Co.*, W.D. Va., No. 1:07-cr-29). Personal penalties of \$34.5 million —
 which multiple contemporaneous accounts record their employer paying on their behalf
 — probation, community service, no prison. What altered their careers was none of it:
 exclusion from federal health-care programs, set at fifteen years, affirmed,
@@ -626,24 +626,24 @@ reportable incident for exactly that reason.
 
 **Entity-level consequences have demonstrably failed to reach the person.** In 2018 the
 Securities and Exchange Commission charged Elon Musk with securities fraud; he settled for
-$20 million — then well under a tenth of one percent of his wealth — admitted nothing,
+\$20 million — then well under a tenth of one percent of his wealth — admitted nothing,
 and kept the chief executive position. In 2025 a jury found Tesla's Autopilot partly
-responsible for a young woman's death and awarded $243 million; the company paid, and its
+responsible for a young woman's death and awarded \$243 million; the company paid, and its
 chief executive was not a defendant. In 2019 the Federal Trade Commission drafted a
 complaint naming Mark Zuckerberg personally; shareholder litigation alleges the company
-paid a $5 billion penalty — roughly fifty times its own lawyers' estimate — to remove his
+paid a \$5 billion penalty — roughly fifty times its own lawyers' estimate — to remove his
 name from it, a sum equal to about four weeks of revenue. In August 2026 the sequel
-opened in Oakland: four state attorneys general, demanding up to $1.4 trillion for
+opened in Oakland: four state attorneys general, demanding up to \$1.4 trillion for
 products allegedly designed to addict minors, with the founder on the witness list — as a
 witness, not a defendant, because no statute reaches the person. Twenty-nine states have
-sued; New Mexico has already recovered $942 million with court-ordered design changes.
+sued; New Mexico has already recovered \$942 million with court-ordered design changes.
 Even that reckoning can only reach the company's money. That is not a gap in the outrage;
 it is a gap in the law.
 
 **Scale converts crimes into settlements.** Downloading one film invites fines and, in
 principle, imprisonment; downloading seven million pirated books to train a model
-produced, in one case, a judicial finding that the piracy was not fair use, a $1.5
-billion settlement of roughly $3,000 per book, no charges, and business as usual. Another
+produced, in one case, a judicial finding that the piracy was not fair use, a \$1.5
+billion settlement of roughly \$3,000 per book, no charges, and business as usual. Another
 firm's internal messages record an employee's discomfort at torrenting eighty-two
 terabytes of pirated books from a corporate laptop; the download proceeded. In 2011 Aaron
 Swartz downloaded academic articles from JSTOR and was charged with thirteen felonies
@@ -749,8 +749,8 @@ number or a name the legislature fills in, not a gap.
 | **7 — The money** | Disgorge everything the violation paid you — salary, bonus, equity, through any trust — plus [twelve] months. No one may insure, indemnify, or quietly offset an individual penalty: void, constructive trust, and doing it knowingly is itself felony-tier. Defense costs: advanceable, clawed back from the wilful. Restitution to victims: fully insurable, and always first. |
 | **8 — The signature** | Before material deployment and after material change, the chief executive — or each most-senior person, severally; no organisation chart escapes into headlessness — personally certifies, on the Sarbanes–Oxley structure. Everything below the material line still certifies, batched quarterly. Facts after reasonable inquiry, no compelled opinions. Disclosing noncompliance satisfies the duty to certify — and defends against nothing. Knowingly false: felony. |
 | **9 — The clock** | Report: weights loss, control loss, autonomous breaches, death or serious injury, deceived safeguards, genuine near-misses, adverse reproducible evaluations. Defenses that worked as designed: recorded, not reported — success is never punished. 72 hours preliminary (24 where lives are at imminent risk), [30] days full — and the clock runs from when the monitoring you certified would have caught it. Deleting the logs stops nothing. |
-| **10 — The consequences** | Entities: up to $[1,000,000] per violation per day, strict, never below the benefit gained. Individuals: misdemeanor base; felony tier; where people die or are seriously hurt — up to twenty years per injury, any term or life per death, per victim. Restitution outranks every penalty, fine, and disgorgement in the claim on a defendant's assets. Plus injunctions, model suspension (operating one anyway is contempt and a fresh offense), emergency halts, disqualification, debarment. A company paying an individual's fine extinguishes nothing — and is a new violation. |
-| **11 — The insiders** | The inspectors already work at the laboratories; this section pays them: 10–30 percent of sanctions over $[1,000,000], anonymous through counsel, gags void, retaliation bought back with reinstatement and double pay. The Agency must answer every credible report within [180] days. |
+| **10 — The consequences** | Entities: up to \$[1,000,000] per violation per day, strict, never below the benefit gained. Individuals: misdemeanor base; felony tier; where people die or are seriously hurt — up to twenty years per injury, any term or life per death, per victim. Restitution outranks every penalty, fine, and disgorgement in the claim on a defendant's assets. Plus injunctions, model suspension (operating one anyway is contempt and a fresh offense), emergency halts, disqualification, debarment. A company paying an individual's fine extinguishes nothing — and is a new violation. |
+| **11 — The insiders** | The inspectors already work at the laboratories; this section pays them: 10–30 percent of sanctions over \$[1,000,000], anonymous through counsel, gags void, retaliation bought back with reinstatement and double pay. The Agency must answer every credible report within [180] days. |
 | **12 — The machinery** | Live in [90] days; the Attorney General receives filings until the Agency exists — no duty waits on furniture. Audit-grade records for [ten] years, plus a litigation hold. Security-sensitive material sealed — but facts are never privileged and enforcement is never restricted. Mergers carry entity liability to successors; no natural person's criminal liability ever transfers. Concealment moves the limitations clock to discovery. |
 | **13 — The armour** | Everything severs, narrow before broad, the criminal core ranked first and declared enacted-regardless. No severance may strip a surviving offense of an element it needs; the fund survives everything. Preemption becomes administrable: published Attorney General orders suspend only what is actually preempted, only prospectively — and suspended is not repealed. If the federal law lapses, the provision revives within [30] days. |
 
@@ -949,8 +949,8 @@ not published.
 up to \$[1,000,000] per violation per day (\$[3,000,000] after a prior final
 adjudication), assessed on the classic Clean Water Act factors, never less than the
 economic benefit of the violation, inflation-indexed by rule. Individuals: the base
-offense is a [misdemeanor — up to a year, and up to $[100,000] or twice the gain];
-the enhanced tier a [felony — up to three years, $[250,000] or twice the gain]; and
+offense is a [misdemeanor — up to a year, and up to \$[100,000] or twice the gain];
+the enhanced tier a [felony — up to three years, \$[250,000] or twice the gain]; and
 where death or serious injury results, the federal tampering geometry — up to twenty
 years per person seriously injured, any term or life (minimum [two] years) per
 person killed, per-victim counts as jury elements. Consecutive sentences require
@@ -969,7 +969,7 @@ nothing and is itself a violation. All recoveries, after restitution, feed the
 severance of anything around it.
 
 **SEC. 11 — Whistleblowers.** The inspectors already work at the laboratories; this
-section pays them. Original information leading to sanctions over $[1,000,000]
+section pays them. Original information leading to sanctions over \$[1,000,000]
 earns 10 to 30 percent of what is collected, on the SEC's own structure, paid from
 the fund whatever the money's source. Reports may be anonymous through counsel;
 identities are protected, including in the award. No one may impede communication
@@ -1054,7 +1054,7 @@ appointing a safety officer diminishes nobody's exposure (SEC. 4(c)).
 
 **2014 — shackles for cantaloupe.** The Jensen brothers' listeria outbreak killed
 thirty-three people. Two farmers, misdemeanour charges, arraigned in shackles, with
-restitution of $25,000 per count, consecutive, paid to the victims — and no evidence they
+restitution of \$25,000 per count, consecutive, paid to the victims — and no evidence they
 knew. The doctrine convicted anyway. → SEC. 6(b)(1) and SEC. 10(c)(4): each person killed
 or seriously injured is a separate offense, and restitution follows the harm, not the
 mental state.
@@ -1165,7 +1165,7 @@ What SB 1090 says is instructive. It requires a chatbot to disclose that it is n
 where a reasonable person would think otherwise; to route users discussing suicide or
 self-harm to crisis services; and, where the operator knows or should know a user is a
 minor, to disclose, prompt breaks, and take reasonable measures against explicit
-material — enforced by the attorney general alone, at up to $10,000 per violation, with
+material — enforced by the attorney general alone, at up to \$10,000 per violation, with
 no private right of action. And its section 4, read twice: *the act does not apply to
 the underlying artificial intelligence model* unless that model is itself offered as a
 companion. The application is regulated; the model beneath it is exempt in black letter,
@@ -1394,7 +1394,7 @@ with its provision and the proposition it is cited for, in
 repository being renamed, moved, or taken down — cite it in preference to the URL.
 
 A [`CITATION.cff`](./CITATION.cff) file supports GitHub's "cite this repository"
-function; release v3.4 is tagged, with sha256 checksums recorded in the ledger's changelog; the v3.4 tag and its checksums stand unchanged; and
+function; release v3.4 is tagged with sha256 checksums recorded in the ledger's changelog, and v3.4.2 is the archived release that carries the DOI; and
 CC0 imposes no attribution requirement — citation is a courtesy to the reader. Pin the
 version and the date; the main branch moves frequently.
 
@@ -1412,10 +1412,7 @@ version and the date; the main branch moves frequently.
 >
 > **MHRA** — llmaolaw, *Model Act — Frontier AI Public Welfare Offenses*, v3.4.2 research
 > draft (2026) <https://doi.org/10.5281/zenodo.22029795> [accessed 20 August 2026]
->
-> **APA** — llmaolaw. (2026). *Model Act — Frontier AI Public Welfare Offenses*
-> (Version 3.4, research draft) [Model legislation].
-> https://github.com/llmaolaw/model-act
+
 
 Cite it as what it is — model legislation, a research draft — never as enacted law; the
 companion's first note says the same, first.

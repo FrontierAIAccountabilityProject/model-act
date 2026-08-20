@@ -212,7 +212,7 @@ as tagged:
 - `archive/README.md` added: dated corrections now travel with archived versions
   (the pinned-correction rule).
 - Threshold hygiene, after a primary-source pin run against enacted NY GBL art. 44-B
-  (L.2026 c.96): "large frontier developer" is a $500M gross-revenue test; § 1427 penalties
+  (L.2026 c.96): "large frontier developer" is a \$500M gross-revenue test; § 1427 penalties
   are caps ("not to exceed," severity-scaled). No live copy asserted otherwise; logged so
   it stays that way.
 
@@ -567,11 +567,11 @@ trend (B.4), METR's live incident catalogue as a standing external ledger, and a
 cross-reference so the lawsuit wave and the incident wave share one timeline.
 
 **18 aug 2026 · the evidence shelf, stocked in one day.** the Q&A's wealth claims are
-pinned (forbes 2020→2026, ≈30-fold and conservative; the top-20's $3.8T exceeds all but
+pinned (forbes 2020→2026, ≈30-fold and conservative; the top-20's \$3.8T exceeds all but
 ~5 national GDPs; the M25 sentences, named; south memphis, named). the asymmetry ledger
 gained exhibits: AI executives indicted for lying to investors — ten federal counts,
 april 2026 — while endangering the public stays uncharged; megaupload's handcuffs vs
-training-data invoices; meta's $1.4 trillion trial, where the founder appears as a
+training-data invoices; meta's \$1.4 trillion trial, where the founder appears as a
 witness, not a defendant. the incident file gained the andon firing, pinned version:
 the model recommended a warning, humans steered the termination, headlines blamed the
 model — SEC. 4 in one anecdote. and the open-letters file gained the researchers'

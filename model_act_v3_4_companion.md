@@ -424,7 +424,7 @@ the consequence lands on the person. An indemnified penalty is a premium; SEC. 7
 difference between a penalty schedule and a price list.
 
 n.19 ON SEC. 10 (CALIBRATION). The brackets carry the enacted family's own figures: Cal. Bus. &
-Prof. Code § 22757.15(a) ($1,000,000 per violation, severity-scaled); N.Y. Gen. Bus. Law § 1427 as
+Prof. Code § 22757.15(a) (\$1,000,000 per violation, severity-scaled); N.Y. Gen. Bus. Law § 1427 as
 replaced by ch. 96, L. 2026 (\$1,000,000 / \$3,000,000 first/subsequent — the chapter amendment that
 cut ch. 699's \$10,000,000 / \$30,000,000 by ten times); 5 ILCS [—]/25(a), P.A. 104-0538
 (\$1,000,000 / \$3,000,000, adding failure-to-audit as a trigger). Three enactments, one sentence,
@@ -434,9 +434,9 @@ with the table in the chunk 3 file. The per-day continuing-violation structure i
 CWA's \$25,000 became \$68,445 by rule while the FDCA's \$1,000 sat nominal since 1938 awaiting 18
 U.S.C. § 3571 to rescue it — *Park*'s fifty dollars a count being the terminal case. The
 individual fines take § 3571(b) parity (\$100,000 / \$250,000), the harm tier takes § 1350's
-$1,000,000 counted per victim, and every criminal fine carries § 3571(d)'s alternative — "twice
+\$1,000,000 counted per victim, and every criminal fine carries § 3571(d)'s alternative — "twice
 the gross gain" — which state penal law already speaks natively (N.Y. Penal Law § 80.00(1): the
-higher of $5,000 "or double the amount of the defendant's gain"); adopting states conforming these
+higher of \$5,000 "or double the amount of the defendant's gain"); adopting states conforming these
 brackets to local fine grids shall preserve the gain alternative, adopting it with the Act where
 the grid lacks it. On § 841(b) and the harm-tier geometry, see n.21. The deterrence design is
 stated once, honestly: the civil figures are for legibility and family-parity; the
@@ -682,7 +682,7 @@ counting fine-tuning, reinforcement learning, and material modification into the
 enacted definition of California's TFAIA (SB 53, ch. 138, Stats. 2025; Bus. & Prof. Code
 § 22757.11) and of the Illinois Artificial Intelligence Safety Measures Act (P.A. 104-0538);
 "invented threshold" dies on contact. What this Act deliberately declines from the family is the
-$500,000,000 revenue screen all three states attach to their heaviest duties: a criminal due-care
+\$500,000,000 revenue screen all three states attach to their heaviest duties: a criminal due-care
 duty scales with the risk controlled, not the revenue booked — the states' screen rations
 compliance-paperwork cost, which this Act imposes on no one until standards exist, and which the
 interim standards apply without the screen by express reading rule (SEC. 3(c)(4)(A); n.24). The
@@ -736,7 +736,7 @@ a Bluebook closes most of it in an afternoon.
   U.S. Reports page exists.
 - House discipline, standing: *Virginia Uranium* always carries "(plurality opinion)"; *X Corp. v.
   Bonta* is always described as a preliminary-injunction likelihood ruling.
-- PLCAA (15 U.S.C. §§ 7901–7903) and the *Soto v. Bushmaster* settlement figure ($73M, 2022)
+- PLCAA (15 U.S.C. §§ 7901–7903) and the *Soto v. Bushmaster* settlement figure (\$73M, 2022)
   from primary (audit/field notes 3; committee-facing use gated on the pin).
 - The Swartz superseding-indictment count (thirteen, Sept. 2012) from the indictment itself
   (field notes 4).

@@ -139,9 +139,9 @@ death or serious injury; post-deprivation hearing within [10] days.
 [FDCA 332/334 two-track, dangerous-to-health valve modernized.]
 
 PART 8 — CIVIL PENALTY COMPUTATION (SEC. 10(a))
-8.1 Per violation, per day the violation continues: up to $[1,000,000] per
+8.1 Per violation, per day the violation continues: up to \$[1,000,000] per
 violation per day or, after a prior final adjudication of a violation by
-the same person, up to $[3,000,000] per violation per day, per SEC. 10(a).
+the same person, up to \$[3,000,000] per violation per day, per SEC. 10(a).
 8.2 Factors: seriousness; economic benefit or savings from noncompliance;
 history; good-faith efforts; economic impact on the violator; other
 matters as justice requires. [CWA 309(d) pattern.]
@@ -154,7 +154,7 @@ PART 9 — WHISTLEBLOWER PROCEDURES (SEC. 11)
 9.1 Reports: any channel designated by the Agency; anonymous through
 counsel permitted; identity protected including at award.
 9.2 Award: [10-30]% of monetary sanctions collected where sanctions
-exceed $[1,000,000], per SEC. 11.
+exceed \$[1,000,000], per SEC. 11.
 9.3 The Agency acts upon, or publishes a reasoned declination of, any
 credible report within [180] days.
 9.4 Security-sensitive material in reports is handled under Part 10.

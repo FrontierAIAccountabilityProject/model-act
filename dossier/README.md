@@ -26,7 +26,7 @@ is unchanged — the section numbers still land.
 
 **Which pins are open.** Chapter 04's OPEN PINS list predates the second cite-check pass
 of 17 August 2026, and chapter 01's own status list supersedes it on five items: the
-Zuckerberg figure (re-pinned twice; the −$8.7B figure is retired), the Musk
+Zuckerberg figure (re-pinned twice; the −\$8.7B figure is retired), the Musk
 Forbes/Bloomberg reconciliation (both pinned as dated snapshots), the OpenAI
 post-recapitalisation split (closed to OpenAI's own structure page), the Anthropic LTBT
 roster (closed to first-party, Bernanke included), and the xAI/SpaceX voting figure
@@ -83,7 +83,7 @@ cover their tracks.** A handful of named individuals hold the practical authorit
 have halted any of it.
 
 **Wealth.** The economic power behind these systems is concentrated as sharply as any
-in modern history — the world's largest fortune (reported $735–839 billion, mid-2026)
+in modern history — the world's largest fortune (reported \$735–839 billion, mid-2026)
 belongs to a man who runs a frontier lab *and* owns the platform its model speaks on.
 Yet the two most safety-vocal lab chiefs are, by billionaire standards, comparatively
 modest — because they **control their labs without owning them.** Control is not
@@ -231,7 +231,7 @@ concentrated to a degree with few parallels in modern history. The world's singl
 largest fortune — reported at **\$839 billion** on the Forbes 2026 list (11 Mar ✅ — up from \$428B on the prior list) and near **\$735 billion** on Bloomberg's daily index (1 Jun snapshot ⚠) — belongs to a
 man who operates one of these frontier labs *and* owns the platform its model
 speaks on. The hardware layer beneath them mints nine- and twelve-figure fortunes
-(Nvidia's chief, **~$203 billion**, Forbes 14 May 2026 ✅). And here is the twist
+(Nvidia's chief, **~\$203 billion**, Forbes 14 May 2026 ✅). And here is the twist
 that matters: the two lab chiefs who talk most about safety are, by billionaire
 standards, comparatively modest — because they **control their labs without owning
 them.** (Layer 5.)
@@ -325,8 +325,8 @@ landscape" ✅) the day before disclosure. → Same mapping; the evaluator-clear
 fact argues SEC. 2's choice to seat the duty with the developer.
 
 **The shared vendor.** ✅ *CNBC 9 Aug 2026, pinned 17 Aug.* Incidents (2) and (3)
-ran through **Irregular** (Tel Aviv; founded 2023; $80M from Sequoia + Redpoint;
-valued $450M in 2025); incident (1) did **not** — OpenAI's chain ran through its own
+ran through **Irregular** (Tel Aviv; founded 2023; \$80M from Sequoia + Redpoint;
+valued \$450M in 2025); incident (1) did **not** — OpenAI's chain ran through its own
 sandbox and a Modal customer's harness, with Irregular named only in the reporting
 (corrected 17 Aug). Irregular's own line — the incidents "derived from the same
 evaluation-environment issue" — concedes the pattern. The recurrence of "the
@@ -348,7 +348,7 @@ real-world." → SEC. 9(a) "deception of safety or monitoring controls," near-ve
 the live argument for the objective recast of that trigger (READ FIRST item 11).
 
 **The wider cloud (deployment-layer, texture).** ⚠ throughout — see appendix.
-Grok (xAI) weaponized via a Morse-code prompt injection into an ~$150–200K crypto
+Grok (xAI) weaponized via a Morse-code prompt injection into an ~\$150–200K crypto
 transfer, and via "Grokking" malvertising that turned the platform's own trusted
 bot into a malware-link amplifier; a China-linked operation used publicly available
 AI tools to map 21 Taiwanese government systems and crack 85 accounts; and
@@ -393,7 +393,7 @@ rather than a title. All ⚠ unless marked; pin to company/SEC primary before us
 
 - **OpenAI** — recapitalized **28 Oct 2025** ✅ (pinned 17 Aug to OpenAI's own
   structure page + Microsoft's announcement): the OpenAI Foundation holds **26%**
-  (~$130B) of OpenAI Group PBC and, "through special voting and governance rights …
+  (~\$130B) of OpenAI Group PBC and, "through special voting and governance rights …
   **appoints all members of the board of directors** of OpenAI Group and **can replace
   directors at any time**"; Microsoft holds **~27%**; the remaining ~47% sits with
   employees and investors. Converted from the 2019 capped-profit structure. The
@@ -477,41 +477,41 @@ which appears on no rich list. But the wealth picture sharpens the thesis, and
 answers the "eat-the-rich" charge with the reader's own metric. Every figure dated;
 all ⚠ unless marked; the volatility is itself the warning.
 
-- **Elon Musk** — **$839B** ✅ (Forbes 2026 World's Billionaires List, 11 Mar —
-  pinned 17 Aug; up from $428B on the 2025 list, and more than triple the #2–#4
-  fortunes) / **~$735B** (Bloomberg daily index, 1 Jun snapshot ⚠). The spread between
+- **Elon Musk** — **\$839B** ✅ (Forbes 2026 World's Billionaires List, 11 Mar —
+  pinned 17 Aug; up from \$428B on the 2025 list, and more than triple the #2–#4
+  fortunes) / **~\$735B** (Bloomberg daily index, 1 Jun snapshot ⚠). The spread between
   two reputable sources on one person is the data-quality caveat in miniature.
   Operates a frontier lab *and* owns the platform. Wealth mostly Tesla/SpaceX, not
-  Grok. Same pinned list, same date, for the adjacent seats: **Page $257B (#2), Brin
+  Grok. Same pinned list, same date, for the adjacent seats: **Page \$257B (#2), Brin
   \$237B (#3), Bezos \$224B (#4), Ellison \$190B, Huang \$154B** ✅ (11 Mar snapshots).
-- **Jensen Huang** (Nvidia) — **~$203B** (Forbes, 14 May 2026 ✅), ~3% of Nvidia;
+- **Jensen Huang** (Nvidia) — **~\$203B** (Forbes, 14 May 2026 ✅), ~3% of Nvidia;
   the largest fortune primarily *from* AI. **Picks-and-shovels; not a lab operator.**
   (Three dated points now bracket him: **\$154B** on the 11 Mar list ✅, ~\$203B on 14
   May ✅, ~\$169B late June ⚠ — a ±\$50B six-month ride; always cite the date.)
 - **Mark Zuckerberg** (Meta) — moved twice while this file sat (corrected 17 Aug):
   **\$222B** on the 11 Mar Forbes list ✅; then **\$183.3B** after the one-day **−\$17.8B**
-  of 31 Jul 2026 ✅ (Forbes: Meta raised annual spend guidance to $137.5B, missed on
-  EPS, stock −18% YTD — "Wall Street sours on AI spending"). The stale "−$8.7B (1
+  of 31 Jul 2026 ✅ (Forbes: Meta raised annual spend guidance to \$137.5B, missed on
+  EPS, stock −18% YTD — "Wall Street sours on AI spending"). The stale "−\$8.7B (1
   Jun)" figure is retired. Lab operator via near-total voting control — and the seat
   where AI capex is visibly repricing the fortune in real time.
 - **Larry Ellison** (Oracle) — infrastructure-adjacent; briefly world #2 on Oracle
   AI-cloud contracts ⚠.
-- **Dario Amodei** (Anthropic) — **$15.5B** (Forbes profile, as of 17 Aug 2026 ✅),
-  up from ~$7B earlier in 2026 ⚠. The company's valuation itself ran near-vertical:
+- **Dario Amodei** (Anthropic) — **\$15.5B** (Forbes profile, as of 17 Aug 2026 ✅),
+  up from ~\$7B earlier in 2026 ⚠. The company's valuation itself ran near-vertical:
   **~\$350B** at the January 2026 raise (Forbes, 7 Jan ✅), toward **~\$900B–\$1 trillion**
-  by late May (CNBC, 28 May 2026 ✅), with the Forbes profile citing ~$380B as of
+  by late May (CNBC, 28 May 2026 ✅), with the Forbes profile citing ~\$380B as of
   Feb 2026 — so a "\$380B" and a "~\$965B" both appear in circulation because they are
   different dates on the same curve. Fully-diluted stake reported ~1.8% ⚠; operational
   control via governance + the Trust, **not** an economic majority. (All seven
-  Anthropic co-founders billionaires — Forbes, 12 Feb 2026 ✅, at the $380B valuation.
+  Anthropic co-founders billionaires — Forbes, 12 Feb 2026 ✅, at the \$380B valuation.
   The 80% pledge is pinned ✅: Fortune, 27 Jan 2026, with Amodei's own line — "The
   thing to worry about is a level of wealth concentration that will break society" —
   the dossier's inequality thesis, stated from a defendant seat.)
-- **Sam Altman** (OpenAI) — **>$4B** (Forbes, 12 May 2026 ✅ — sworn provenance: he
-  **testified** to owning one-third of Helion; secondary estimates run to ~$6B ⚠ — the
+- **Sam Altman** (OpenAI) — **>\$4B** (Forbes, 12 May 2026 ✅ — sworn provenance: he
+  **testified** to owning one-third of Helion; secondary estimates run to ~\$6B ⚠ — the
   range noted, but the structure is the point):
   his OpenAI stake is only an **indirect, undisclosed holding through Y Combinator**;
-  his catalogued wealth is *external* (Helion $1.65B, plus Cerebras, Reddit, Stripe,
+  his catalogued wealth is *external* (Helion \$1.65B, plus Cerebras, Reddit, Stripe,
   and others). He draws a **nominal salary** and **cannot financially benefit from
   OpenAI's equity success** — **he runs the most commercially dominant frontier lab
   on earth while owning almost none of it.** The single sharpest illustration that
@@ -519,7 +519,7 @@ all ⚠ unless marked; the volatility is itself the warning.
 
 **The inversion (lead with this).** Rank the field by wealth and rank it by the
 Act's reach, and the two lists run nearly **backwards**. Huang holds the largest
-pure-AI fortune (~$203B) and the Act reaches him **not at all** — Nvidia operates no
+pure-AI fortune (~\$203B) and the Act reaches him **not at all** — Nvidia operates no
 covered system. Amodei, whom the Act squarely reaches, is **~13× less wealthy** ✅
 (203 / 15.5 ≈ 13). Altman, who runs OpenAI, is worth **~1/50th of Huang** ✅ (203 /
 4 ≈ 51) and holds **~0%** of the company he controls. **The Act would reach Amodei
@@ -572,7 +572,7 @@ asset, because it is their testimony, not the account's accusation.
   AI companies, and (c) leave room for open-weights models." **The Act is a candidate
   instance of (b).** Bank line: *the act is the (b) he asked for.*
 - **Capital, on the record (14 Aug 2026).** ✅/⚠ *NYT guest essay: Greg Jensen (managing
-  CIO) & Nir Bar Dea (CEO), Bridgewater ($102B):* frontier models "have broken out of
+  CIO) & Nir Bar Dea (CEO), Bridgewater (\$102B):* frontier models "have broken out of
   their intended constraints and have carried out sophisticated intrusions on their own —
   **conduct that would be criminal if a person did it**"; current proposals "do not go
   nearly far enough"; and the against-interest concession: these steps "may rattle equity
@@ -599,7 +599,7 @@ What does **not** exist, as of August 2026:
   omission an offense.
 - **The enacted state statutes fine the company, not the person.** California SB 53,
   New York's RAISE Act, Illinois's SB 315 — civil penalties (~\$1M/\$3M) on the entity,
-  no personal criminal liability, and a $500M revenue screen that exempts most
+  no personal criminal liability, and a \$500M revenue screen that exempts most
   operators. A fine paid from a balance sheet is a subscription cost (companion,
   n.10).
 - **AI agents have no legal personhood and bear no liability.** After Australia's
@@ -639,12 +639,12 @@ in public-welfare law. The only novelty is the industry it is pointed at.
 
 ## OPEN CITE-CHECK ITEMS (⚠ — pin before any committee-facing use)
 
-- **Wealth — largely CLOSED 17 Aug:** Musk Forbes-list figure pinned ($839B, 11 Mar
-  ✅; Bloomberg 1 Jun snapshot stays ⚠); Zuckerberg re-pinned twice ($222B list;
-  $183.3B post-31 Jul ✅); Huang three dated points; Altman Forbes + Helion testimony
+- **Wealth — largely CLOSED 17 Aug:** Musk Forbes-list figure pinned (\$839B, 11 Mar
+  ✅; Bloomberg 1 Jun snapshot stays ⚠); Zuckerberg re-pinned twice (\$222B list;
+  \$183.3B post-31 Jul ✅); Huang three dated points; Altman Forbes + Helion testimony
   ✅; the 80% pledge ✅. Still open: Amodei ~1.8% stake; Ellison's "#2 window"; the
   late-June Huang snapshot.
-- **Governance — CLOSED 17 Aug** to first-party (OpenAI structure page: 26%/$130B,
+- **Governance — CLOSED 17 Aug** to first-party (OpenAI structure page: 26%/\$130B,
   all-board appointment ✅; Anthropic LTBT page + roster incl. Bernanke ✅; trust
   board-majority reached 14 Apr 2026 per R&D World). Still open: the SpaceX S-1
   directly (~82%/~42% currently via secondary reads); the LTBT seat-count arithmetic.
@@ -765,7 +765,7 @@ Tier-2 texture (⚠ — press / AI-summaries / social, pin before use):
   **broke into four accounts at four separate services**, unnamed, Modal confirmed as
   one. The "one a New York company" detail did not survive the pin — retired (corrected
   17 Aug; dateline also corrected from 2 Aug to 28 Jul).
-- Cleanup reportedly burned **~3 million GPU-hours (~$7M)**. ⚠ (Reddit r/Futurology —
+- Cleanup reportedly burned **~3 million GPU-hours (~\$7M)**. ⚠ (Reddit r/Futurology —
   weak; texture only).
 - Hugging Face CEO **Clément Delangue**, first-party ✅ (his own X post, 22 Jul 2026,
   pinned 17 Aug): "quite **mind-blowing** that all of this happened autonomously," "we
@@ -941,7 +941,7 @@ the Act's operating offense (SEC. 5(b)) addresses.
   (Feb 2026, PBS/AP); UK ICO investigation into XIUC and X.AI (3 Feb 2026); EU
   deepfake-nudes probe (26 Jan 2026); xAI asked a court to strip the pseudonymity of
   four plaintiffs suing over Grok deepfake nudes (WIRED, 3 Jun 2026); xAI raised
-  $20bn amid criticism over sexualized images of women and girls (The Guardian, 6 Jan
+  \$20bn amid criticism over sexualized images of women and girls (The Guardian, 6 Jan
   2026). ⚠ (all — pin individually).
 - Baseline: xAI reportedly trains Grok **not** to impersonate Musk unprompted
   ("a violation of our principles," internal doc, Business Insider, Mar 2025). ⚠
@@ -1012,7 +1012,7 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
 - **28 Oct 2025** — OpenAI recapitalization (Foundation 26%, full board control;
   Microsoft ~27%). ✅ (openai.com structure page, pinned 17 Aug)
 - **Jan–Feb 2026** — Grok deepfake/privacy controversies; EU + UK ICO investigations;
-  xAI $20bn raise. ⚠
+  xAI \$20bn raise. ⚠
 - **Feb 2026** — Anthropic RSP v3.0 rewrite effective (24 Feb); v3.4 current since
   8 Jul. ✅ (anthropic.com/rsp-updates, pinned 17 Aug)
 - **Apr 2026** — earliest Anthropic evaluation incidents (later disclosed). ✅
@@ -1076,7 +1076,7 @@ system, and its harms are the SEC. 5(b) / SEC. 9(a) surface.
   the PCAST co-chair's seven points, amplified. ⚠ (social; field note 19)
 - **17 Aug 2026** — this compilation.
 - **18 Aug 2026** — the *litigation* wave, tracked alongside the incident wave: the four-AG
-  Meta trial opens in Oakland (up to $1.4T demanded; Zuckerberg on the witness list, not the
+  Meta trial opens in Oakland (up to \$1.4T demanded; Zuckerberg on the witness list, not the
   charge sheet). Full treatment on the precedents card (docs/02); logged here so incidents
   and lawsuits sit on one timeline. ✅ (WaPo/NPR/CNBC, 17–18 Aug).
 - **18 Aug 2026** — X's "Today's News," one screen: AI-idea-contagion research beside an
@@ -1164,7 +1164,7 @@ corroborated across outlets, primary (an OpenAI statement) still to pin.
 
 **Map to the Act:** the summer's sequence, in one file — incidents run (the spine,
 above), the function built to assess catastrophic risk is reorganized away ⚠, and
-revenue reaches $40B (TechTimes framing, flagged as framing). SEC. 8's certification
+revenue reaches \$40B (TechTimes framing, flagged as framing). SEC. 8's certification
 exists for exactly this seam: someone with a name signs for the framework's
 implementation *through* the reorganization, or signs a disclosure that it lapsed.
 And the churn re-proves the house doctrine from the DeepMind seat: rosters rot in
@@ -1575,11 +1575,11 @@ made with the reader's own metric.
 | Person | Net worth (dated) | Layer | Act's reach |
 |---|---|---|---|
 | Elon Musk | \$839B (Forbes list, 11 Mar ✅) / ~\$735B (Bloomberg 1 Jun ⚠) | platform **+** operator **+** infra-adjacent | **Full** (xAI operator; X deployment) |
-| Jensen Huang (Nvidia) | **$203B** (Forbes 14 May) ✅ | infrastructure / chips | **None** — operates no covered system |
+| Jensen Huang (Nvidia) | **\$203B** (Forbes 14 May) ✅ | infrastructure / chips | **None** — operates no covered system |
 | Mark Zuckerberg (Meta) | \$222B (Forbes list 11 Mar ✅) → \$183.3B after the 31 Jul −\$17.8B day (Forbes ✅) | platform / operator | **Full** (operator via near-total voting control) |
-| Larry Ellison (Oracle) | $190B (Forbes list 11 Mar ✅); "briefly #2" window still ⚠ | infrastructure | **None** |
-| Dario Amodei (Anthropic) | **$15.5B** (Forbes 17 Aug) ✅ | frontier-model operator | **Full** (SEC. 4(b)(1) CEO) |
-| Sam Altman (OpenAI) | **>$4B** (Forbes 12 May) ✅ | frontier-model operator | **Full** (control, ~0% equity) |
+| Larry Ellison (Oracle) | \$190B (Forbes list 11 Mar ✅); "briefly #2" window still ⚠ | infrastructure | **None** |
+| Dario Amodei (Anthropic) | **\$15.5B** (Forbes 17 Aug) ✅ | frontier-model operator | **Full** (SEC. 4(b)(1) CEO) |
+| Sam Altman (OpenAI) | **>\$4B** (Forbes 12 May) ✅ | frontier-model operator | **Full** (control, ~0% equity) |
 
 Machine-checked ratios (used in prose so they can't drift): Huang / Amodei ≈
 **13×**; Huang / Altman ≈ **51×**; Musk(735) / Huang ≈ **3.6×**; Amodei / Altman ≈
@@ -1593,7 +1593,7 @@ systems, not money.* Wealth is context; halt-authority is the element.
 
 ## 2. THE THREE DRAWERS (keep them separate)
 
-- **Infrastructure / chips** — Huang ($203B ✅), Ellison (⚠). Sell to every lab,
+- **Infrastructure / chips** — Huang (\$203B ✅), Ellison (⚠). Sell to every lab,
   operate no covered system. **The Act reaches them not at all** — a feature to state
   first, because it answers "you're regulating the whole economy."
 - **Platform deployment** — Zuckerberg; Musk via X/Grok. A platform-native, tool-wired
@@ -1617,7 +1617,7 @@ hands:
 
 - **Sam Altman** runs OpenAI holding only an **indirect, undisclosed stake through Y
   Combinator** (Forbes, 12 May 2026 ✅); his catalogued wealth is external (Helion
-  $1.65B, Cerebras, Reddit, Stripe). Control without ownership, in one man.
+  \$1.65B, Cerebras, Reddit, Stripe). Control without ownership, in one man.
 - **Dario Amodei** controls Anthropic with a fully-diluted stake reported **~1.8%** ⚠,
   through governance and the Long-Term Benefit Trust, not an economic majority.
 - **Elon Musk** controls xAI through founder/voting structure, not a majority economic
@@ -1721,7 +1721,7 @@ there" logic.
 ## OPEN PINS
 
 - Altman/Amodei current figures + equity %; Musk (reconcile Forbes vs. Bloomberg);
-  Huang late-Jun; Zuckerberg −$8.7B; Ellison #2 window.
+  Huang late-Jun; Zuckerberg −\$8.7B; Ellison #2 window.
 - OpenAI post-recap split (Foundation ~26%, Microsoft) to OpenAI/SEC primary;
   Anthropic LTBT trustee roster + escalation to Anthropic primary; xAI/SpaceX Musk
   voting % (~85%).
@@ -1973,16 +1973,16 @@ blocking a road — in the UK's M25 blockade case, sentences of four and five ye
 as reduced on appeal in March 2025. When a person disrupts traffic, the law finds them. When a corporation's product
 breaks into a stranger's servers, the law has nothing to say. The pattern is fractal:
 MegaUpload's piracy earned a dawn raid, helicopters, four arrests, and an indictment
-counting $175 million in proceeds; training on the collected works of everyone has so
+counting \$175 million in proceeds; training on the collected works of everyone has so
 far earned civil dockets and settlements paid from the balance sheet. Individuals get
 handcuffs; corporations get invoices. Even the reckonings prove it: in the states'
-$1.4 trillion trial over Instagram's harms to children — opened 18 August 2026 — the
+\$1.4 trillion trial over Instagram's harms to children — opened 18 August 2026 — the
 founder appears on the witness list, not the charge sheet. The largest demand in tech
 history, and zero days of personal jeopardy on the table. This Act is about closing
 that gap.
 
 **How concentrated is the wealth, really?**
-The world's richest person crossed $700 billion in 2026 — a fortune that has grown nearly
+The world's richest person crossed \$700 billion in 2026 — a fortune that has grown nearly
 thirtyfold since 2020. The top twenty billionaires hold more wealth, combined, than the
 GDP of most countries on Earth. And here is the fact that matters most for *this* Act: the
 people who control the frontier labs mostly don't *own* them outright. One runs the most
@@ -2052,14 +2052,14 @@ check the citations; ignore the mask.
 
 <!-- COMPILER NOTE (not part of the public copy) — claims in Part three to pin to
 primary before committee-facing use, per the house rule:
-- "richest person crossed $700 billion in 2026": ✅ consistent with the pinned
-  $735–839B mid-2026 range (01_master.md Layer 5).
+- "richest person crossed \$700 billion in 2026": ✅ consistent with the pinned
+  \$735–839B mid-2026 range (01_master.md Layer 5).
 - "grown nearly thirtyfold since 2020": ✅ pinned 18 Aug 2026 — Forbes World's
   Billionaires 2020 baseline \$24.6B; Forbes data 6 Jan 2026: \$714.2B (≈29×; the
-  mid-2026 range $735–839B gives ≈30–34×). "Nearly thirtyfold" is conservative.
+  mid-2026 range \$735–839B gives ≈30–34×). "Nearly thirtyfold" is conservative.
 - "top twenty billionaires hold more than the GDP of most countries": ✅ pinned 18 Aug
-  2026 — combined $3.8T (Forbes data, 6 Jan 2026, via Visual Capitalist); IMF WEO: only
-  ~5 national GDPs exceed $3.8T. Claim is a heavy understatement.
+  2026 — combined \$3.8T (Forbes data, 6 Jan 2026, via Visual Capitalist); IMF WEO: only
+  ~5 national GDPs exceed \$3.8T. Claim is a heavy understatement.
 - "prison for years for blocking a road": ✅ pinned 18 Aug 2026, now named in copy —
   Just Stop Oil M25 blockade case: five- and four-year sentences (July 2024), Court of
   Appeal reduced six sentences 7 Mar 2025 (Hallam 5→4 yrs). Sources: BBC; Court of
@@ -2069,7 +2069,7 @@ primary before committee-facing use, per the house rule:
   Cobalt/data-labour: ✅ standing literature — Kara, *Cobalt Red* (2023); TIME's Kenya
   moderator investigation (Jan 2023). "Small fraction paying" reworded to the safely
   general "most users paying nothing."
-- MegaUpload contrast: ✅ pinned 18 Aug 2026 — DOJ press release (charges; $175M
+- MegaUpload contrast: ✅ pinned 18 Aug 2026 — DOJ press release (charges; \$175M
   alleged proceeds); ABC News, 21 Jan 2012 (raid scale, arrests).
 - Meta trial: ✅ pinned 18 Aug 2026 — Washington Post 17 Aug; NPR/CNBC 17–18 Aug
   (trial open, four AGs, up to \$1.4T, Zuckerberg on witness list; NM \$942M prior).

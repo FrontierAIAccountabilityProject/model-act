@@ -109,7 +109,7 @@ claim: every line restates a citation already published elsewhere in the reposit
 | Authority | Cited at | For |
 |---|---|---|
 | 18 U.S.C. § 1001 | n.20 | The free-standing false-statement structure |
-| 18 U.S.C. § 1350 | n.8; n.19 | Certification offence model; the $1,000,000 per-victim fine figure |
+| 18 U.S.C. § 1350 | n.8; n.19 | Certification offence model; the \$1,000,000 per-victim fine figure |
 | 18 U.S.C. § 1365(a) | SEC. 10(c); n.21 | The harm tier's geometry — twenty years per serious injury; life where death results |
 | 18 U.S.C. § 1365(h)(3)–(4) | v3.5 queue, CURE 1 (adopted, not yet landed) | The injury definition replacing 21 C.F.R. § 803.3(w) |
 | 18 U.S.C. § 1519 | n.23 | Destruction "in relation to or contemplation of" — restated as an affirmative hold |
@@ -132,7 +132,7 @@ claim: every line restates a citation already published elsewhere in the reposit
 | 17 C.F.R. § 210.2-06 | n.23 | Seven-year retention by rule |
 | 21 C.F.R. § 803.3(w) | SEC. 1(b)(8) (current); superseded by CURE 1 at v3.5 | The serious-injury definition being replaced |
 | 21 C.F.R. § 803.3, § 803.50(c), § 803.53(b), § 803.56 | n.9; regulations Parts 1.2–1.3, 5.3–5.4 | Awareness triggers, reportable information, escalation, supplemental reports |
-| 40 C.F.R. § 19.4 | n.10, n.19 | Live proof that indexing works — $25,000 to $68,445 by rule |
+| 40 C.F.R. § 19.4 | n.10, n.19 | Live proof that indexing works — \$25,000 to \$68,445 by rule |
 | U.S.S.G. § 5G1.2(c)–(d) | n.21 | Stacking only to the total punishment required |
 | Model Penal Code § 7.06(1), (1)(c) | n.21 | The aggregate-cap tradition — stricter than the Kansas double rule |
 
@@ -143,7 +143,7 @@ claim: every line restates a citation already published elsewhere in the reposit
 | Authority | Cited at | For |
 |---|---|---|
 | Cal. Bus. & Prof. Code § 22757.12 | SEC. 3(c)(4); n.24, n.27; standards | Interim standard — the frontier-framework duty, pinned verbatim |
-| Cal. Bus. & Prof. Code § 22757.13, § 22757.15 | n.19, n.27 | Incident clocks; the $1,000,000 severity-scaled penalty |
+| Cal. Bus. & Prof. Code § 22757.13, § 22757.15 | n.19, n.27 | Incident clocks; the \$1,000,000 severity-scaled penalty |
 | N.Y. Gen. Bus. Law § 1421, § 1427, § 1426 | SEC. 3(c)(4); n.19, n.24, n.27; standards | Interim standard; penalties as caps; the academic exception the reading rules disapply |
 | N.Y. Penal Law § 80.00(1) | n.19 | State-native gain-scaled fines |
 | Illinois P.A. 104-0538 (SB 315) § 10, § 15, § 25 | SEC. 3(c)(4); n.19, n.23, n.27; standards | Interim standard; penalties; the deployment-plus-five retention formula |
