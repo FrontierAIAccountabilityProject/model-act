@@ -58,6 +58,10 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 
 **Recent.** Newest first; every entry links to the artefact, not to a promise.
 
+- **20 Aug 2026** — the question ladder's comparative answers gain their sources:
+  [the receipts file](./standards/comparative_officer_liability.md) pins PRC art. 31,
+  § 130 OWiG, and the 1890–91 export-inspection acts, and lists the three claims that
+  were drafted and cut for want of a primary source.
 - **20 Aug 2026** — Illinois pinned: P.A. 104-0538 § 10 enters [the adopted
   texts](./standards/interim_standards.md) verbatim from the enrolled bill, and the last
   "capture pending" on a SEC. 3(c)(4) interim standard retires.
@@ -94,7 +98,7 @@ model-act/
 ├── LEDGER.md                        # errata · changelog · diary — append-only
 ├── CITATION.cff · LICENSE
 ├── ERRATA.md                        # historic register names — one pointer into the ledger
-├── standards/                       # the adopted interim texts, pinned verbatim · the fiscal note
+├── standards/                       # the adopted texts · the fiscal note · comparative receipts
 ├── archive/                         # superseded versions + the print edition and its generator
 ├── audit/                           # drafting record · cure queues (v3.4 sealed · v3.5 open)
 ├── dossier/                         # the evidence file, every fact pinned
@@ -118,6 +122,7 @@ archive, or a machine-readable file.
 | [`standards/table_of_authorities.md`](./standards/table_of_authorities.md) | Every authority the statute and companion cite, with the proposition each is cited for — built for verification |
 | [`standards/bracketed_matter.md`](./standards/bracketed_matter.md) | The adopting state's worksheet: every bracketed choice, its section and line, and what the enacted family chose |
 | [`standards/fiscal_note.md`](./standards/fiscal_note.md) | What the Act costs an adopting state: cost drivers traced to provisions, startup apart from steady state, and no revenue in the arithmetic |
+| [`standards/comparative_officer_liability.md`](./standards/comparative_officer_liability.md) | The receipts behind the question ladder's comparative answers — PRC art. 31, § 130 OWiG, and the 1890–91 export-inspection acts, with the claims this project declined to make |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
 | [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record — beside it, the [sealed v3.4 queue](./audit/v3_4_cure_language.md) and the [open v3.5 queue](./audit/v3_5_cure_language.md) |
@@ -289,7 +294,7 @@ statute books: PRC Criminal Law art. 31 provides that where an entity commits a 
 it is fined *and* the persons directly in charge and the other directly responsible
 persons are given criminal punishment — dual punishment, general across the code, in
 force since the 1997 revision. This Act reaches roughly a dozen chairs in one
-industry. Article 31 reaches every unit in the economy.
+industry. Article 31 reaches every unit in the economy. ([The receipts](./standards/comparative_officer_liability.md#1-china--prc-criminal-law-art-31).)
 
 *"Won't this hand the lead to someone else?"* America has run this experiment: it met
 a ten-nation safety embargo with inspection law, and exports rose by two-thirds. From
@@ -304,8 +309,8 @@ the same months of 1891, pork-product exports were up 62 per cent by weight and 
 394,607. Honesty requires the other half: inspection alone did not reopen Germany,
 which lifted in 1891 under a threatened retaliatory tariff on its sugar beets.
 Verifiable safety was not sufficient. It was necessary — the thing the diplomacy had
-to have in hand before it could be spent, and the thing that kept the market open once
-it was.
+to have in hand before it could be spent, and the thing that kept the market open once it was.
+([The receipts, including the sugar beets](./standards/comparative_officer_liability.md#3-the-united-states-18791892--the-pork-war-and-the-export-inspection-acts).)
 
 *"No other country does this to its own industry."* Several do, and the American
 frontier sector is closer to an exception than a victim. Germany reaches the
@@ -317,8 +322,8 @@ weaker than this Act, and it is candidly an administrative offence rather than a
 crime, because Germany has no general corporate criminal code; the point is only that
 the duty attaches to a named person rather than dissolving into the firm. China's
 art. 31 does the same thing through actual criminal punishment. What is unusual is
-not that duties reach an identified officer. It is that in one American industry they
-currently do not.
+not that duties reach an identified officer. It is that in one American industry they currently do not.
+([The receipts](./standards/comparative_officer_liability.md#2-germany--130-owig-with-9-and-30).)
 
 *"I'm not American. Why does this matter to me?"* Because the systems reach you and
 the law that governs them does not. A handful of frontier models are shipped
