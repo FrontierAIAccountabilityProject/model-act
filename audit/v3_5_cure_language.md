@@ -254,3 +254,18 @@ materiality floor for the first limb, or whether "defeats, suppresses, or materi
 degrades" carries the weight alone. Drafted here on the second view, so that a divergence
 which defeats a control outright is reportable without a further materiality inquiry; a
 drafting session may disagree.
+
+---
+
+## CURE 5 — SEC. 8 punctuation
+
+*Closes ERRATA E13. Mechanical correction only; no substantive change.*
+
+**ANCHOR (SEC. 8, verbatim):** “risks, or merits of any model or system, A certification disclosing identified noncompliance”
+
+**STRIKE/INSERT:** Replace the comma after “system” with a period:
+
+> risks, or merits of any model or system. A certification disclosing identified noncompliance
+
+**Effect.** None beyond restoring the sentence boundary. The tagged v3.4 text remains unchanged; this correction lands when v3.5 is assembled.
+
