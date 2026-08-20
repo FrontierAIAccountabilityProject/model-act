@@ -257,6 +257,19 @@ standard and no consequence on resumption. That is the difference between restra
 and law, and it is the entire argument: the Act is what the same undertaking looks
 like when it binds.
 
+*"Safety law is how censorship arrives — this will make models preachier, or worse."*
+The Act contains no content rules at all: not one duty in it tells a model what to
+say, refuse, or believe. SEC. 0(a)(4) forbids the reading outright — no provision
+requires any person to express, adopt, endorse, or refrain from expressing any
+opinion, characterization, viewpoint, or contested position, or to alter the output of
+any covered system — and SEC. 3(a) closes the standards lane to safety, authorization,
+monitoring, incident-reporting, and deployment controls, full stop. The deeper answer
+runs the other way: today's refusals are discretionary — over-applied where refusal is
+cheap, under-applied where it is expensive, answerable to no one — and a duty regime
+ends the ambiguity by drawing the floor at process: validation, records, incidents, a
+signature. Everything above that floor becomes visibly a product choice. A statute
+that never touches outputs cannot censor them; what it ends is "safety" as the alibi.
+
 *What about China?* Food-safety law was never suspended because other countries had
 laxer kitchens. Product-safety duties are not a capability race: the duty protects the
 people the product reaches, in-state, whoever else builds what. Nothing in the Act
@@ -468,6 +481,20 @@ rather than rebutted: the Act minimises what capture can switch off. Duties comm
 on standards already enacted elsewhere; no approval mode exists to sit on; if the
 agency never organises, filings run to the attorney general. An agency that cannot
 gate the duties is an agency not worth capturing.
+
+*"A hostile attorney general will weaponise this against companies whose politics he
+dislikes."* This Act hands a partisan less to work with than almost any criminal
+statute on the books, because the offences are documentary and the yardsticks are
+published. A charge must prove its elements to a jury beyond reasonable doubt —
+including the person's practical power, whose genuine absence defeats the case as a
+failed element, never as something the accused must establish — and due care is
+measured against standards that are enacted, dated, and free to read, not against an
+official's taste. The text carries no viewpoint term to aim through: SEC. 0(a)(4)
+forbids compelled opinions and output alteration on its face. What remains is charging
+discretion, which is the residue of every criminal law ever written; this one at least
+confines it to paper — records kept or destroyed, reports filed or buried, statements
+true or false. The instrument a weaponiser needs is a statute that bends toward its
+holder, and this one was drafted, in public, to bend toward its elements.
 
 *With approval forbidden (SEC. 3(b)), how does anyone buy certainty?* By filing, not
 by queueing: validation is documentary, self-executed against published standards, and
