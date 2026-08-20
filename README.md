@@ -54,7 +54,7 @@ model-act/
 ├── README.md                        # the book — case, translation, questions, provenance
 ├── model_act_v3_4.txt               # the statute, SEC. 0–13 (authoritative text)
 ├── model_act_v3_4_jacket_clean.txt  # bare statutory text for a bill folder
-├── model_act_v3_4_companion.md      # drafting notes n.1–n.43, open items for v4
+├── model_act_v3_4_companion.md      # drafting notes n.1–n.43, open items for v3.5
 ├── model_regulations_v1_draft.md    # draft implementing regulations
 ├── LEDGER.md                        # errata · changelog · diary — append-only
 ├── CITATION.cff · LICENSE
@@ -556,7 +556,7 @@ largest ever levied — equalled roughly three days of its revenue. Firms do not
 price they can pay. What they demonstrably fear, and have paid extraordinary sums to
 avoid, is personal liability.
 
-So this project drafted the missing law: twelve operative sections, cited, with drafting
+So this project drafted the missing law: fourteen sections, cited, with drafting
 notes, free for any state to adopt. A doctrine that imprisons executives for harms they
 had the authority to prevent has existed since 1975. This is its application to frontier
 AI. The principle throughout: authority entails liability.
@@ -939,7 +939,7 @@ Reports are facts-only — no compelled characterizations — filed with the Age
 not published.
 
 **SEC. 10 — Enforcement and penalties.** Entities: strict-liability civil penalties
-up to $[1,000,000] per violation per day ($[3,000,000] after a prior final
+up to \$[1,000,000] per violation per day (\$[3,000,000] after a prior final
 adjudication), assessed on the classic Clean Water Act factors, never less than the
 economic benefit of the violation, inflation-indexed by rule. Individuals: the base
 offense is a [misdemeanor — up to a year, and up to $[100,000] or twice the gain];
