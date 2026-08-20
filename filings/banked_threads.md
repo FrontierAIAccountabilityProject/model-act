@@ -65,3 +65,46 @@ professorship — are widely reported but not pinned in-repo; pin or drop before
 **C.** (251) Robert Morris released his worm in 1988, was convicted under the CFAA, and later became a professor at MIT. Thirty-eight years on, the discourse asks why no AI worm has done it yet. The 1988 answer was one graduate student and a name. We have neither.
 
 **D.** (139) Everyone asking why the self-replicating AI worm has not destroyed the internet. Wrong tense. The right question is who signs when it does.
+
+## 4. The two vacancies (fire after the sweep and CURE 4 publish)
+
+*Source of every claim: posts 1 and 6 from [the standing-watch re-sweep](../audit/standing_watch_2026-08-20.md),*
+*20 Aug 2026; posts 2–4 from [the reading notes](./docket_fda_2024_d_4488_reading_notes.md),*
+*tier-1 attachments only; post 5 from the precedents section of the front page.*
+
+**1.** (240) Four frontier AI regimes now exist in American law: California, New York, Illinois, and the federal FRONTIER Act as introduced. Not one requires a named human being to sign anything. Where criminal liability exists, it stops at the company.
+
+**2.** (260) We searched thirteen FDA comment letters on AI devices for "natural person," "responsible officer," "personally certify," "attest," "individual liability," "criminal." Zero hits. "Accountability" appears four times: a committee, a structure, a virtue, a stage.
+
+**3.** (241) The radiologists told FDA that a qualified clinician "would intrinsically serve as a device risk mitigation." A person, used as the safety component. Then they asked what happens when that person isn't qualified. Nobody in the file answered.
+
+**4.** (234) 87% of surveyed physicians say liability for AI errors affects whether they adopt at all. Their association asked HHS to rescind the rule making providers monitor AI for bias. They want the duty moved. Not one commenter says where to.
+
+**5.** (253) Volkswagen's defeat device was code that recognised when it was being tested. No prosecutor had to prove what the software wanted. They proved it behaved one way under evaluation and another on the road. That is the whole offence, and it is decades old.
+
+**6.** (247) xAI asked a federal court to block California's AI training-data disclosure law on trade-secret and free-speech grounds. It lost, and appealed. That law compels publication. Requiring facts stated privately to a regulator is a much narrower thing.
+
+**7.** (196) All of it checkable: FDA docket FDA-2024-D-4488, H.R. 9925 as introduced, the state statutes by section. Reading notes, receipts, and a public-domain statutory draft: github.com/llmaolaw/model-act
+
+**Sourcing and the two gates before firing.**
+
+*Post 1* rests on the sponsor's own section-by-section summary for H.R. 9925 (Obernolte,
+21 July 2026) and on the three state statutes as adopted at SEC. 3(c)(4). It is written at
+"as introduced" strength and must stay there: the watch item asks the same question again
+at markup, and the post becomes false the moment a Covered Subject Area reaches officer
+liability. **Re-check before firing if markup has occurred.**
+
+*Post 2* is the only absence claim in this section, and it is exact rather than
+strength-limited: the search was run over the thirteen tier-1 attachments, and those are
+named in the reading notes. It says "thirteen," never "fifty-one." Do not let a reply
+tempt it upward — the wider claim is F1's, and F1 is uncertified across the full docket.
+
+*Post 6* describes a preliminary-injunction denial and an appeal. It does not state an
+argument date, because the repository's own date for it is an open erratum candidate
+pending a docket read. Keep it out. **Do not add it under pressure from a reply.**
+
+*Held, not banked.* The United States intervened as a plaintiff against Colorado's
+SB 24-205 on 24 April 2026 — the single most striking fact in the sweep. It is sourced to
+a litigation-clearinghouse record marked coding-in-progress and current only to 27 April.
+Unpinned, therefore unused, per the standing rule. Pin it from the docket and it is a post
+on its own.
