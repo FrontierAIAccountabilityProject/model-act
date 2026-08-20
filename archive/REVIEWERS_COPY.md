@@ -37,3 +37,6 @@ Two identical hashes mean the PDF in this folder is the statute in the root, and
 
 If a rebuild ever disagrees with these hashes, that is an erratum and we want to hear about it:
 llmaolaw@proton.me.
+
+One known stale word is preserved in this text on purpose — the register's
+[E10](../LEDGER.md#part-i) explains why correcting it would cost more than it fixes.
