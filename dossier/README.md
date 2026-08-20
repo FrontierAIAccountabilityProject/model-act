@@ -34,14 +34,9 @@ roster (closed to first-party, Bernanke included), and the xAI/SpaceX voting fig
 **chapter 01's status section governs**; chapter 04's list stands as the record of what
 was open when it was written.
 
-**The startup answer, overtaken at v3.4.** Chapter 05's answer to *"my startup runs
-models — am I a criminal now?"* predates the reliance rule the v3.4 amendments added:
-under SEC. 2(b) of the current text, a non-modifying deployer running a system exactly
-within someone else's validated configuration discharges the duty by adopting that
-validation, keeping a manifest, monitoring, and reporting — a shelter the sealed answer
-could not yet name. The chapter's conclusion (a startup below the compute line is not in
-the Act's class) stands; the current text is more protective than the sealed answer
-claims, not less. The root README's startup entry states the current position.
+**The startup answer, superseded at v3.4.** Chapter 05’s answer to *“my startup runs models—am I a criminal now?”* is too categorical. Coverage turns on the model, system, and conduct, not the company’s size or its own training compute: a startup commercially operating a covered upstream model may be a deployer. SEC. 2(b) allows a non-modifying deployer operating within another entity’s validated configuration to discharge its duty by adopting that validation, maintaining the required manifest and monitoring, and reporting within its knowledge; it is a conditional reliance rule, not a categorical exemption. Specified records duties also begin below the frontier-model threshold. Any individual liability still requires the controlling-person elements. The sealed chapter remains below as the historical text; the root README states the current position.
+
+**The headcount claim is retired.** Chapter 05’s “roughly a dozen” and “ten men” language states a precision the statute and evidence do not establish. The Act creates no fixed roster and may reach multiple controlling persons in connection with one covered system. Coverage also includes prospective frontier-equivalent designation and specified provider or deployer conduct. The accurate description is a small class defined prospectively by compute or designation, covered conduct, and practical authority—not a claimed number of people or chairs. The sealed chapter remains unchanged below as the historical record.
 
 **The price-compression objection, observed but not admitted.** On 20 August 2026 a
 widely circulated thread, built on a chart attributed to Bloomberg, asserted that
