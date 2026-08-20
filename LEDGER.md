@@ -315,6 +315,8 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**20 August 2026 — The machines asked; the ladder answered.** A search engine's AI now teaches the doctrine in our context and circulates six objections unprompted; all six seated in the Q&A, pre-answered where every visitor now pre-reads. Ladder at 48. Feed the paragraph, steer the summary.
+
 **20 August 2026 — For one hour, the book was its own bookmark.** A misplaced upload set the audit signpost as the front page; restored, strays deleted, root back at sixteen. The register logs its own fumbles, or it is not a register.
 
 **20 August 2026 — The hopper opens.** The v3.5 cure queue is live at
