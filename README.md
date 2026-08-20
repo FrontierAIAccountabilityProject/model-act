@@ -294,7 +294,7 @@ statute books: PRC Criminal Law art. 31 provides that where an entity commits a 
 it is fined *and* the persons directly in charge and the other directly responsible
 persons are given criminal punishment — dual punishment, general across the code, in
 force since the 1997 revision. This Act reaches roughly a dozen chairs in one
-industry. Article 31 reaches every unit in the economy. ([The receipts](./standards/comparative_officer_liability.md#1-china--prc-criminal-law-art-31).)
+industry. Article 31 reaches every unit in the economy. ([The receipts](./standards/comparative_officer_liability.md#1-china).)
 
 *"Won't this hand the lead to someone else?"* America has run this experiment: it met
 a ten-nation safety embargo with inspection law, and exports rose by two-thirds. From
@@ -310,7 +310,7 @@ the same months of 1891, pork-product exports were up 62 per cent by weight and 
 which lifted in 1891 under a threatened retaliatory tariff on its sugar beets.
 Verifiable safety was not sufficient. It was necessary — the thing the diplomacy had
 to have in hand before it could be spent, and the thing that kept the market open once it was.
-([The receipts, including the sugar beets](./standards/comparative_officer_liability.md#3-the-united-states-18791892--the-pork-war-and-the-export-inspection-acts).)
+([The receipts, including the sugar beets](./standards/comparative_officer_liability.md#3-the-united-states-1879-to-1892).)
 
 *"No other country does this to its own industry."* Several do, and the American
 frontier sector is closer to an exception than a victim. Germany reaches the
@@ -323,7 +323,7 @@ crime, because Germany has no general corporate criminal code; the point is only
 the duty attaches to a named person rather than dissolving into the firm. China's
 art. 31 does the same thing through actual criminal punishment. What is unusual is
 not that duties reach an identified officer. It is that in one American industry they currently do not.
-([The receipts](./standards/comparative_officer_liability.md#2-germany--130-owig-with-9-and-30).)
+([The receipts](./standards/comparative_officer_liability.md#2-germany).)
 
 *"I'm not American. Why does this matter to me?"* Because the systems reach you and
 the law that governs them does not. A handful of frontier models are shipped

@@ -17,7 +17,9 @@ are marked open at the end, and are open on purpose.
 
 ---
 
-## 1. China — PRC Criminal Law art. 31
+## 1. China
+
+*PRC Criminal Law art. 31.*
 
 *Answers: "This is a Chinese psyop — look, it has MAO in it."*
 
@@ -55,7 +57,9 @@ the code is a unit crime.
 
 ---
 
-## 2. Germany — § 130 OWiG, with § 9 and § 30
+## 2. Germany
+
+*§ 130 OWiG, with § 9 and § 30.*
 
 *Answers: "No other country does this to its own industry."*
 
@@ -96,7 +100,9 @@ about the duty reaching a named person.
 
 ---
 
-## 3. The United States, 1879–1892 — the pork war and the export-inspection acts
+## 3. The United States, 1879 to 1892
+
+*The pork war and the export-inspection acts.*
 
 *Answers: "Won't this hand the lead to someone else?"*
 
