@@ -9,7 +9,7 @@ here asserts what the repository has not.
 *Source of every claim: Docket FDA-2024-D-4488, posted comments, read 20 Aug 2026;*
 *quotes verbatim from comments 0018, 0021, 0041. See `filings/` and the ledger.*
 
-**1.** (255) Who answered when FDA asked how to regulate AI devices (Docket FDA-2024-D-4488, 51 comments): the AMA, osteopaths, radiologists, dental-scanner makers, AWS, a professor with ten students, Anonymous. Who did not: the companies that make the models. Thread.
+**1.** (258) Who answered when FDA asked how to regulate AI devices (Docket FDA-2024-D-4488, 51 comments): the AMA, osteopaths, radiologists, dental-scanner makers, AWS, a professor with ten students, and three filers who gave no name. Who did not: the model developers.
 
 **2.** (249) The radiologists (0041) told FDA the qualified clinician "would intrinsically serve as a device risk mitigation." A person, as the safety component. SEC. 4 asks the mirror question: who upstream held the power to halt? That person is the mitigation.
 
@@ -19,16 +19,25 @@ here asserts what the repository has not.
 
 **5.** (255) Industry (0011, 0044): tier by risk, trim disclosure, protect data secrecy, least burdensome. Reasonable — and each ask assumes someone else holds the residual risk. The Act names who: the officer with power to halt. Then the rest can be least burdensome.
 
-**6.** (258) 51 comments. Every safety mechanism proposed is a document or a downstream professional. None names an accountable person upstream. That absence is not a gap in the file; it is the finding. A duty, a record, a clock, a name — the missing quarter is the name.
+**6.** (240) Of the 51 comments, we have read 22 in substance. In those 22, every safety mechanism proposed is a document or a downstream professional. None names an accountable person upstream. That absence is not a gap in the file; it is the finding.
 
 **7.** (260) All 51 are public, free, checkable: regulations.gov docket FDA-2024-D-4488. Our reading notes and the comment we will file on the successor docket (FDA-2026-N-7874, open to Oct 19) live in the repo: github.com/llmaolaw/model-act — filings/, published as filed.
 
 **Sourcing:** every claim is indexed in
 [the reading notes](./docket_fda_2024_d_4488_reading_notes.md), with comment IDs.
-Posts 1 and 6 make absence claims. They are true of the comments read — the page-1
-titles, pages 2–3, and eight letters in full — and are written at that strength in the
-notes. Before firing, either capture the remaining titles or soften both to "in the
-comments we read." The account is never community-noted.
+
+*Revised 20 August 2026, after the complete roster was captured.* The guard that stood
+here — *before firing, either capture the remaining titles or soften both* — was the right
+instinct, and it is now discharged rather than removed. The roster is captured: all 51
+filers are named in § 1.3, which certifies **post 1's** absence claim outright (no frontier
+model developer filed, and the corrected count of anonymous filers is three, not one) with
+the qualifier that two trade associations whose membership includes frontier developers did
+file. It does **not** discharge **post 6**, which is a claim about what filers *asked for*
+and therefore needs substance, not names. The substance of 29 of the 51 is still unread, so
+post 6 is rewritten to say 22 out loud rather than implying 51. That is a weaker tweet and
+the only honest one; the version that said "51 comments" is the error logged as
+[E12](../LEDGER.md#part-i). The account is never community-noted, and it is never
+community-noted because of paragraphs like this one.
 
 ## 2. Move the docket (fire while FDA-2026-N-7874 is young; counter series starts on post)
 

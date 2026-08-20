@@ -202,9 +202,19 @@ list the order contemplated.
    three states adopted at SEC. 3(c)(4) and the federal vehicle now introduced — not one
    requires a natural person to certify anything, and not one attaches a duty to an
    identified officer. H.R. 9925 reaches criminal liability, and reaches it at the entity.
-   This is the legislative twin of finding F1 in the FDA docket read: fifty-one commenters
-   named no upstream person, and four frontier statutes name none either. Two independent
-   evidence bases, the same vacancy.
+   This is the legislative twin of finding F1 in the FDA docket read: of the commenters
+   whose substance has been read, none named an upstream person, and four frontier statutes
+   name none either. Two independent evidence bases, the same vacancy.
+
+   *Corrected 20 August 2026, later the same day.* This entry as first filed read "fifty-one
+   commenters named no upstream person." That overstated F1 at exactly the strength the
+   reading notes forbid: F1's own note says the wider claim is **not** certified across all
+   51, and the complete roster captured later that day established that the substance of 29
+   of the 51 has never been read. The claim was running over 29 unopened comments, and the
+   rhetorical force of the pairing came entirely from the number. The corrected sentence
+   holds the finding at the strength its evidence carries. Logged as
+   [E12](../LEDGER.md#part-i); the superseded wording is preserved in this note, per the
+   register's no-deletion rule.
 
 ---
 

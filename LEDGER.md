@@ -130,6 +130,87 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 ---
 
+**E12 — 20 August 2026 (internal catch, same day).** F1 — that nobody on the predecessor FDA
+docket names an upstream person — was published in four places at a strength the finding's
+own file forbids.
+
+**The claim.** The front page's Recent entry and its contents table both described the
+reading notes as "the predecessor comment file **read end to end**" reporting "the element
+**none of them** names," of "the 51 comments." The [standing watch](../audit/standing_watch_2026-08-20.md)
+made it the punchline of its headline finding: "fifty-one commenters named no upstream
+person, and four frontier statutes name none either. Two independent evidence bases, the
+same vacancy." The diary carried the same sentence.
+
+**The text it contradicts.** F1's own strength note, in bold, in the file all four were
+describing: "the wider claim is true of tiers 1 and 2 on reading, and is **not** certified
+across all 51." The register said the same of F3. The repository asserted on its front page
+precisely what it stated in bold, two clicks away, was not certified.
+
+**What the roster then established.** The substance of **29 of the 51** has never been read
+(§ 1.3). The claim was running over twenty-nine unopened comments. "Read end to end" was
+false on its face about a file whose three-tier structure exists *because* it was not read
+end to end.
+
+**Why it is graded at E8's level rather than below it.** E8 was a summary of our own statute,
+where the drafting was right and the shop window was thin. This is an empirical claim about
+other people's documents, and its entire rhetorical force came from the number 51 — the
+pairing "two independent evidence bases" does no work at 22. A hostile reader following the
+front page to the notes would have been handed the contradiction by us, in a project whose
+sole authority is that its claims survive being opened.
+
+**The fix (copy, applied 20 August 2026).** No finding is withdrawn; each is restated at the
+strength its evidence carries. The front page now reads "rostered in full and read in part —
+every filer named, the substance of 22 of them read, and the element none of those 22 names."
+The standing watch and the diary carry dated corrections in place, superseded wording
+preserved. The statute needed no amendment. Internal catch, prompted by an outside reader
+asking how the roster was counted.
+
+**E11 — 20 August 2026 (outside catch; the roster).** The reading notes on docket
+FDA-2024-D-4488 were compiled from 22 comments read in full or as posted text, 13 more known
+by title, and 16 never enumerated at all. The complete 51-filer roster was then read from the
+docket's three result pages, and it falsified four published claims in that file. Nothing here
+touches the statute.
+
+**(a) The substantive one.** The file called the National Multiple Sclerosis Society "the
+file's only patient organisation," in the § 1.1 census and again in § 2. It is not: the
+**National Health Council** (0034) — the American patient-advocacy umbrella — and **Pathway
+for Patient Health** (0047) are both patient-side bodies, and both sat in the sixteen this
+file had never enumerated. NMSS is the only *single-disease* patient organisation, which is
+the claim that survives. The error is instructive about its own cause: a finding about who is
+*absent* from a file was published while a third of the file was unread, and the two missing
+filers were identifiable from their names alone. Corrected in both places, with the count
+stated: four filings of fifty-one come from the patient side, twenty-one from industry.
+
+**(b) "Anonymous" is not "unattributed."** Comment 0012 was recorded as unattributed with the
+filer left `—`, on the reasoning that the attachment carried no signature block. The docket
+names the filer **Anonymous**. It is a filer who took the option, not one who forgot the
+letterhead — and it is one of **three** anonymous filings (0012, 0038, 0050), where this
+project's campaign copy had said two.
+
+**(c) An inference from a gap that was not there.** The file reasoned from the ID range that
+"a small number were received and not posted." Comment IDs run contiguously 0003–0053 with no
+gaps — exactly 51, the two docket documents taking 0001–0002. Nothing was withheld on this
+docket, and the received-vs-posted lag observed live on FDA-2026-N-7874 gets no support from
+here. A gap was asserted from arithmetic that was never done.
+
+**(d) Two late comments were four.** § 5's guidance-dockets-never-close finding named Ikeda
+(0051) and Yang (0053). 0050 (posted 12 Aug 2025) and 0052 (posted 17 Apr 2026) were also filed
+after the April 2025 close. The finding strengthens; the count was wrong.
+
+Two smaller catches in the same pass, below erratum grade and recorded for completeness:
+Jitendra Pund's comment ID, previously `—`, is **0049**; and 0028 is posted under the
+individual name **Cythika Bopearachchi**, one of the cohort members, not under the university
+or Prof. Sampat.
+
+**What the roster unlocked.** F3 — no frontier model developer filed — is **certified** against
+the complete list, with the qualifier that must travel with it: none filed *in its own name*,
+and two trade associations whose membership includes frontier developers (CTA 0035, Connected
+Health Initiative 0039) did file. The project's running list had recorded F3 as blocked on
+capturing five comments' *substance*. It never was: F3 is an absence-of-filer claim and needed
+only a page-through of the roster. F1 and F8 are the findings that need the substance. Two
+different blockers had been filed under one line, and the cheap one went unrun. Status: cured
+in the reading notes; the substance of 29 comments remains uncaptured and is stated as such.
+
 **E10 — 20 August 2026 (internal catch).** The statute's header bracket at line 5 refers to
 "the open items for v4"; the next revision is v3.5, as the companion and the README now say.
 The text is non-operative — the bracket is apparatus, not statute — and it is left uncorrected
@@ -358,13 +439,23 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**20 August 2026, seventh pass — The roster read, and a finding about absence caught being absent-minded.** The complete 51-filer list on FDA-2024-D-4488 was read from the docket's three result pages, retiring the *title only* tier and the sixteen filers the reading notes had never enumerated. It cost one page-through and it falsified four published claims, logged together as [E11](#part-i).
+
+The one worth the entry is (a). This file said the National MS Society was "the file's only patient organisation" while a third of the file was unread — and the two filers that falsify it, the National Health Council and Pathway for Patient Health, are identifiable from their names without opening either. A claim about who is missing from a file was published by a reader who had not finished the file. The corrected composition is stated in numbers rather than adjectives: 21 industry filings of 51, 10 clinician and professional bodies, 13 named private citizens, 4 from the patient side, 3 anonymous.
+
+**F3 is certified**, and the way it was blocked is the more useful finding. The running list had it waiting on the substance of five comments. It never needed them: no frontier model developer appears anywhere in 51 names, and that is a roster question. F1 and F8 are the findings that need the substance. Two blockers had been filed under one line, so the cheap one sat unrun behind the expensive one. The qualifier travels with the certification from today — none filed *in its own name*, and two trade associations whose membership includes them did.
+
+One exhibit gained, unbidden. The docket page headers read **Closed for Comments** above four comments posted after the close, the last fourteen months past it, beside a date filter offering "Last 90 Days (1)." The field guide's thesis is that the process is not a vote; the better exhibit turns out to be that the door the public is told is shut is standing open, and the sign is government-issued. § 5 grows from two procedural facts to three.
+
+And the reading notes finally carry the URL of the docket they are notes on — absent since the file was created, in the one document on that shelf whose entire premise is that a hostile reader can go and re-run the check.
+
 **20 August 2026, close of day — The shop checked before the guests arrive.** A link-and-anchor audit over every markdown file in the tree: fifty-two files, and the only two dead paths are the deliberate ones — the retired CHANGELOG signpost and the dossier's superseded v3.3 pointer, both documented where they 404. The stones rule holds; nothing a reviewer clicks tonight breaks. The cross-examination anchors once, the review-council section's five lanes point where they say, and E8's one-clause cure reads correctly in place.
 
 One correction made rather than found: the companion carried "argued 16 July 2026" for *xAI v. Bonta* in three places, and the sweep could not confirm the date against the docket — an amicus filed 22 July in a posture described as briefing ongoing. All three now read *briefed; reported argument date unconfirmed; undecided*, cross-referenced to the sweep, and the erratum candidate stays open until someone reads the Ninth Circuit docket itself. The STANDING WATCH bullets are conformed to the 20 August sweep in the same pass: Weiser overtaken by the federal intervention, H.R. 9925 answered at introduction, both stated at exactly the strength the sources carry.
 
 The day closes with its own trending panel as the exhibit. A payments company dated the beginning of the singularity to 1 January in an investor letter, pinned to the wire coverage; a viral "300 agents" dashboard was identified by its own replies as a neural-network training graph, pinned to the captured page; and a search engine's AI, asked what this project is, offered to walk the questioner through "the specific criminal penalties proposed in the draft." Four posts banked as section 7. The machines keep auditioning for the criminal-law seat. It remains reserved for a human, and the terms remain on the front page.
 
-**20 August 2026, the running list stands at:** the Bonta argument-date erratum candidate (needs the Ninth Circuit docket), the SEC. 13(a) severability question against H.R. 9925 § 9, capturing the five missing docket comments (AMIA, RSNA, CTA, APA Services, Anonymous — which certifies F3 and unlocks the banked absence posts at full strength), and the still-open question of whether a filed nonconformity should carry a cure window before SEC. 6(b)(1)'s notice arms.
+**20 August 2026, the running list stands at:** the Bonta argument-date erratum candidate (needs the Ninth Circuit docket), the SEC. 13(a) severability question against H.R. 9925 § 9, capturing the substance of the 29 uncaptured docket comments — highest value the National Health Council (0034) and Pathway for Patient Health (0047), then AdvaMed, MDMA, AMIA, RSNA (F3 no longer waits on any of them; it was certified from the roster on 20 August, and it is F1 and F8 that the substance unlocks), and the still-open question of whether a filed nonconformity should carry a cure window before SEC. 6(b)(1)'s notice arms.
 
 **20 August 2026, sixth pass — The scene the statute was built backwards from, finally written down.** A grep for the cross-examination — the CEO on the stand, *could you have stopped this*, both answers losing — found it nowhere in the repository. The statute enforces it; no explainer demonstrated it. It is now [its own section of the front page](./README.md#the-cross-examination), seated between the translated statute and the stories, so a reader who has just walked the fourteen sections watches them fire.
 
@@ -398,11 +489,11 @@ One erratum candidate, flagged and not corrected: the companion states *xAI LLC 
 
 **CURE 4 is entered, and it is the day's real work.** A term-by-term anthropomorphism sweep of the statute returns exactly one hit: the word *deception* in SEC. 9(a). Everything else is functional — *autonomous* defined as acting without per-interaction human approval, *conceals* attaching only to persons, *loss of control* stated from the operator's side. One word carries the entire exposure to the objection that the Act attributes a mental state to a model, an objection now arriving from the gun-analogy side and the AP-Stylebook side at once. So READ FIRST item 11 stops being housekeeping. The recast is drafted to the defeat-device precedent, where the offence pattern is already settled: no prosecution in that line ever proved what the software wanted, only that behaviour under evaluation diverged from behaviour in deployment and that the divergence defeated the control. The second trigger takes its threshold from the Agency by rule, with the evaluation result recorded under SEC. 12 either way — the result is never lost, only the reporting duty waits on an objective line. Of the four frontier regimes on the board, three states include a deceptive-evasion trigger and the federal bill omits the scenario entirely; the third option neither took is to keep it and make it observable.
 
-And the finding that belongs to no single item. Four frontier regimes — the three states adopted at SEC. 3(c)(4) and the federal bill now introduced — and not one requires a natural person to certify anything. Fifty-one commenters on the predecessor FDA docket named no upstream person either. Two independent evidence bases, one vacancy, and the same sentence answers both.
+And the finding that belongs to no single item. Four frontier regimes — the three states adopted at SEC. 3(c)(4) and the federal bill now introduced — and not one requires a natural person to certify anything. Of the commenters on the predecessor FDA docket whose substance has been read, none named an upstream person either. Two independent evidence bases, one vacancy, and the same sentence answers both. *[Corrected later the same day: this passage as first written said "Fifty-one commenters," asserting F1 across all 51 when the reading notes state in bold that the wider claim is not certified across all 51, and when the substance of 29 of them has never been read. Logged as [E12](#part-i); the superseded wording is preserved here.]*
 
 **20 August 2026, second pass — Two sessions read the same docket; the merge is the finding.** [The predecessor reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md) were compiled twice, in parallel, from different sources: one session working the posted comments across all three result pages, the other reading thirteen attachment letters end to end from disk. Neither read is a superset. The merge protocol was to append to the tables and never rewrite them, and to keep the three tiers — *read in full*, *read as posted text*, *title only* — visibly separate, because every finding is strength-limited by the tier its evidence sits in. That protocol is now written into the file's own preamble so the next pass inherits it.
 
-Four filers entered tier 1 that the wider read had not reached: PDA (0013), ISPE (0015), the National MS Society (0042) — the file's only patient organisation — and an unattributed burden-reduction comment (0012) whose author is left `—` rather than guessed. Emergo by UL is confirmed as 0040 from the docket page, retiring an unverified attribution.
+Four filers entered tier 1 that the wider read had not reached: PDA (0013), ISPE (0015), the National MS Society (0042) — the file's only patient organisation — and an unattributed burden-reduction comment (0012) whose author is left `—` rather than guessed. Emergo by UL is confirmed as 0040 from the docket page, retiring an unverified attribution. *[Corrected later the same day, per [E11](#part-i): NMSS is the only **single-disease** patient organisation — the National Health Council (0034) and Pathway for Patient Health (0047) are patient-side bodies that this pass had not enumerated. And 0012 is not "unattributed": the docket names its filer **Anonymous**, one of three anonymous filings (0012, 0038, 0050). Both errors have the same cause — a claim about who is missing, published while a third of the file was unread.]*
 
 **F2 upgraded from three exhibits to six, across four filers.** The intermediary-cannot-vouch finding rested on AWS alone. PDA states it flatly — "There is no path to using 3rd party models where not all of the information expected by the guidance is available" — and ISPE doubts the feasibility of documenting large language models "particularly due to supplier restrictions." Biocom supplies the consent-provenance version. Four unconnected filers, on a public docket, describing the same broken chain of custody from four positions in it. The comment for FDA-2026-N-7874 currently cites one of the four and has ten characters of headroom; the upgrade is noted and not taken.
 

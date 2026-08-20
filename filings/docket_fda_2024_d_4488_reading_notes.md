@@ -5,8 +5,12 @@ Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketi
 Submission Recommendations *(90 FR 1154, 7 January 2025). Nonrulemaking; **51 comments
 posted**, 2 docket documents; comment period ran to 7 April 2025 and the docket still
 accepts and posts comment under 21 CFR 10.115(g)(5) — two comments below arrived in
-2026. Comments read 20 August 2026 from regulations.gov; comment IDs and quoted text
-are the agency's posted versions, which control. Read because it is the direct
+2026. Comments read 20 August 2026 from
+[the docket's comment file](https://www.regulations.gov/docket/FDA-2024-D-4488/comments)
+(three result pages; the docket landing page is
+[here](https://www.regulations.gov/docket/FDA-2024-D-4488), and individual attachments
+download on the pattern `downloads.regulations.gov/FDA-2024-D-4488-00NN/attachment_1.pdf`).
+Comment IDs and quoted text are the agency's posted versions, which control. Read because it is the direct
 predecessor of docket FDA-2026-N-7874, where this project files — FDA expressly asked
 in the 2025 notice whether the guidance adequately addressed emerging technology such
 as generative AI, and this file is the public's answer.*
@@ -37,16 +41,20 @@ than guessed.
 | 0015 | International Society for Pharmaceutical Engineering (22,000+ members, 90+ countries) | Mike Martin, President & CEO | 4 Apr 2025 | 22-page line-by-line table. Define training/tuning/tuning-evaluation/test/clinical-validation data and their positions in the TPLC; **mandate** anonymisation, security, explicit consent, deletion protocols and U.S.-only processing absent stringent agreement; expand the LLM safety and cybersecurity sections; align with PCCP guidance; define "Human-AI team" and "reader studies"; add *human oversight* as the stated counterpart to automation in the model description and the public summary. **Key line — third-party models:** feasibility of detailing complex models such as large language models is doubted, "particularly due to supplier restrictions" |
 | 0018 | Amazon Web Services | Shannon Kellogg, VP Public Policy | 7 Apr 2025 | Dual-filed with FDA-2024-D-4689. Risk-based tiering (model influence × decision consequence); TPLC; align to NIST/ISO; **de-emphasise training-data disclosure in favour of testing/validation**; protect proprietary data including dataset names; EHR analogy for site testing. **Key admission:** may not be able to offer training-data information "when not otherwise disclosed by the model developer" |
 | 0021 | American Osteopathic Association (197,000 DOs) | Teresa A. Hubka, DO, President; Kathleen S. Creason, MBA, CEO | 4 Apr 2025 | Make model-card content **mandatory**; labeling to state training-data demographics, geography and sample size; stronger premarket and postmarket requirements; PCCPs not approved without human review. Cites 43% of authorised AI devices lacking clinical validation (*Nat Med* 2024), 211 recalls (*Lancet Digital Health* 2023), Obermeyer 2019, **87% of physicians say AI liability affects adoption (AMA 2024)**; asks HHS to rescind the § 1557 provider-monitoring rule; warns a 50-state patchwork follows federal inaction |
-| 0028 | San José State University, MS Medical Product Development Management | Prof. Kunal Sampat + 10 cohort members (Anand, Bopearachchi, Jebasingam, Pelella, Sagna, Vasantharajan, Venkatachalapathy, Win, Xu, Yuan) | 7 Apr 2025 | 14 numbered items: subgroup testing thresholds; validation acceptance criteria; continuous cybersecurity monitoring; off-label use of adaptive models; define adaptive vs semi-adaptive vs generative vs locked; worked PCCP example; monitoring metrics and cadence; typographic fixes. *Letter header cites FDA-2024-D-4689; posted on this docket* |
+| 0028 | Posted on the docket as **Cythika Bopearachchi** (individual); the attachment is from San José State University, MS Medical Product Development Management | Prof. Kunal Sampat + 10 cohort members (Anand, Bopearachchi, Jebasingam, Pelella, Sagna, Vasantharajan, Venkatachalapathy, Win, Xu, Yuan) | 7 Apr 2025 | 14 numbered items: subgroup testing thresholds; validation acceptance criteria; continuous cybersecurity monitoring; off-label use of adaptive models; define adaptive vs semi-adaptive vs generative vs locked; worked PCCP example; monitoring metrics and cadence; typographic fixes. *Letter header cites FDA-2024-D-4689; posted on this docket* |
 | 0040 | Emergo by UL | — (docx) | — | Human factors: is device-description content duplicated in the HFE report; the "usability" vs "HF validation" split at lines 1041–1046 is confusing — **remove the definition**; reconcile the 2016 HF guidance's 15-users-per-group with this guidance's comparative human–AI validation; asks for a worked HF protocol |
 | 0041 | American College of Radiology (40,000+) | Dana H. Smetherman, MD, MPH, MBA, FACR, CEO | 7 Apr 2025 | Specificity on "intended users"; site-level validation; **postmarket monitoring is encouraged not required** — asks for mechanisms including third-party registries and predefined triggers; PCCP considerations throughout; expanded glossary; model cards to carry paediatric statements and unambiguous user qualifications. Names GenAI-DSFs, adaptive systems, autonomous AI and synthetic data as unaddressed. **Key line:** a qualified radiologist "would intrinsically serve as a device risk mitigation"; an unqualified end-user "could not serve in that same capacity" |
-| 0042 | National Multiple Sclerosis Society | Bari Talente, Esq., EVP Advocacy & Healthcare Access | 7 Apr 2025 | The file's only patient organisation. People living with MS as community reviewers in risk workshops and in validation-benchmark and subgroup design; **mandated algorithmic impact assessments** during regulatory review; a **federal AI/ML transparency database** cataloguing AI-powered healthcare technologies; a **centralised FDA AI/ML Oversight Committee** to coordinate multi-stakeholder input; UI accessibility for tremor, fatigue and cognitive limitation; labeling to state what the tool cannot do, whether the model is adaptive, and when to consult a clinician instead; security communications tested for accessibility before deployment |
+| 0042 | National Multiple Sclerosis Society | Bari Talente, Esq., EVP Advocacy & Healthcare Access | 7 Apr 2025 | The file's only *single-disease* patient organisation — corrected 20 Aug 2026 from "only patient organisation"; the National Health Council (0034) and Pathway for Patient Health (0047) are patient-side bodies that went unenumerated until the full roster was captured. People living with MS as community reviewers in risk workshops and in validation-benchmark and subgroup design; **mandated algorithmic impact assessments** during regulatory review; a **federal AI/ML transparency database** cataloguing AI-powered healthcare technologies; a **centralised FDA AI/ML Oversight Committee** to coordinate multi-stakeholder input; UI accessibility for tremor, fatigue and cognitive limitation; labeling to state what the tool cannot do, whether the model is adaptive, and when to consult a clinician instead; security communications tested for accessibility before deployment |
 | 0044 | Dentsply Sirona | Deepthi Paknikar, DDS, MS, Sr Mgr Regulatory Affairs | 7 Apr 2025 | 14-row table with proposed language. Cite IMDRF key terms alongside the FDA glossary (which disclaims being guidance); limit AI-DSF interaction detail to risk-relevant; UI info into Device Description; a risk-tiering system for disclosure; OUS data relevance case-by-case; consistency on reference standards; categorise cyber controls by risk; eSTAR cannot take tables; **exclude exact dataset sizes from model cards**; subgroup analysis by race infeasible in dental imaging (not carried in DICOM headers) — proposes geographic diversity instead |
 | 0053 | Shiau Ru Yang, PhD, Dept. of Electrical Engineering, National Cheng Kung University, Taiwan (personal academic capacity) | Shiau Ru Yang | **12 Jun 2026** | The only architectural proposal read: distinguish an AI-DSF's **measurement claim** from its **clinical-utility claim** where they mature at different times. Part 1 = cross-cutting addition with proposed text; Part 2 = a five-safeguard evidence-generation stage (entry criteria, restricted deployment, prespecified evidence plan, lifecycle governance, FDA-reviewed disposition). Examples: HER2 IHC quantification, MASH histologic scoring. Marked "contains no confidential information" |
 
-**Attribution note.** 0012 carries no author within the attachment and none was found on
-the portal page; it is left `—`. Nothing turns on its identity — its content is generic
-burden reduction. 0040's attachment likewise carries no signatory, but the filer is
+**Attribution note, corrected 20 August 2026.** 0012 carries no author within the
+attachment, and an earlier revision of this file recorded it as *unattributed* and left the
+filer `—`. The docket page names the filer **Anonymous**. The distinction matters and the
+correction sharpens rather than softens the point: this is not a filer who omitted a
+signature block, it is a filer who took the option. It is one of **three** anonymous
+filings in the file (0012, 0038, 0050), not the lone unsigned one. Its content remains
+generic burden reduction. 0040's attachment likewise carries no signatory, but the filer is
 identified on the docket page as Emergo by UL, and is recorded as such.
 
 ### 1.2 Read as posted text — form comments (9)
@@ -61,25 +69,47 @@ identified on the docket page as Emergo by UL, and is recorded as such.
 | 0027 | Elvan Ceyhan (Auburn University, personal capacity) | 7 Apr 2025 | m96-jrnx-m4mf | Consolidated terminology section; mandatory documentation of biases detected and mitigated; reference EMA/MHRA/IMDRF for international alignment; continuous-learning postmarket thresholds; accessibility in user characteristics; usability studies before submission; layman-terms limitations for patient-facing devices; generalisation-failure risk; dataset provenance; privacy-preserving ML (federated, synthetic); model cards; explainability; validation against both human performance and non-AI software; benchmarking for reproducibility; adversarial threats (poisoning, inference); postmarket cyber monitoring |
 | 0045 | Sharif Hoque | 7 Apr 2025 | m97-v4dl-nvon | 10 items: NDA omitted alongside PMA/BLA (line 167); add a glossary; should UIs indicate AI use (line 495); link to SaMD/device-software requirements (line 148); worked examples of AI device description, label and UI; personnel management for cyber (line 1441); update cadence for cyber requirements (line 1470); AI label examples; **cite ISO/IEC 42001:2023** (line 691); CAPA for AI model issues |
 | 0051 | Kierstin Ikeda | **23 Mar 2026** | mn3-nsc2-ohje | Section X.A, p. 31: powering required only where a subgroup claim is made; otherwise "reasonable numbers of patients" is undefined and inconsistently interpreted. Particularly concerning for underrepresented racial and ethnic populations — inadequate subgroup sizes may mask performance disparities. Asks for a minimum-sample standard or reference to FDA's 2019 Action Plan for Racial Diversity in Clinical Trials |
-| — | Jitendra Pund | 22 Apr 2025 | — | Proposed additions at lines 352, 496, 334: bias-introduction points across the AI lifecycle; monitoring for emerging issues and knowledge gaps; regulatory-science methodology for evaluating algorithms and robustness; build on existing initiatives |
+| 0049 | Jitendra Pund | 22 Apr 2025 | — | Proposed additions at lines 352, 496, 334: bias-introduction points across the AI lifecycle; monitoring for emerging issues and knowledge gaps; regulatory-science methodology for evaluating algorithms and robustness; build on existing initiatives |
 
-### 1.3 Title only — substance not yet captured (13)
+### 1.3 The complete roster — all 51, captured 20 August 2026
 
-0003 John-William DeClaris · 0006 Hilary Myrick Winston · 0009 American Psychological
-Association Services · 0014 Wolters Kluwer · 0022 Radiological Society of North America ·
-0023 Cochlear Limited · 0026 Washington State Medical Association · 0029 Ethan Chupp ·
-0030 3Shape · 0035 Consumer Technology Association · **0038 Anonymous** · 0039 Connected
-Health Initiative · 0046 American Medical Informatics Association (AMIA)
+The full comment list was read from the docket's three result pages on 20 August 2026,
+retiring the former *title only* tier and the sixteen filers this file had never
+enumerated in any tier. Composition, by what the filer is:
 
-**Not yet enumerated at all:** the balance of the 51. Highest value to capture next, by
-expected substance: **0046 AMIA** (informatics depth), **0022 RSNA** (pairs with ACR),
-**0035 CTA** (burden objections worth pre-empting), **0009 APA Services** (the only
-mental-health filer), **0038 Anonymous** (the field guide's § 3 exhibit).
+| Category | n | Filers |
+|---|---|---|
+| Industry trade associations and coalitions | 11 | AdvaMed (0031) · MDMA (0036) · CHPA (0019) · Consumer Technology Association (0035) · Connected Health Initiative (0039) · Biocom California (0011) · PDA (0013) · ISPE (0015) · Personalized Medicine Coalition (0033) · Combination Products Coalition (0043) · Society of Quality Assurance (0024) |
+| Companies | 10 | Amazon Web Services (0018) · Dentsply Sirona (0044) · Cochlear (0023) · 3Shape (0030) · ATEC Spine (0005) · Wolters Kluwer (0014) · Emergo by UL (0040) · Innolitics (0007) · Brooke & Associates (0048) · Equitable Evidence (0017) |
+| Clinician and professional bodies | 10 | AMA (0010) · AOA (0021) · ACR (0041) · RSNA (0022) · College of American Pathologists (0037) · AMIA (0046) · APA Services (0009) · Washington State Medical Association (0026) · American Academy of Dermatology Association (0020) · Digital Pathology Association (0016) |
+| Named individuals | 13 | DeClaris (0003) · Sadler (0004) · Winston (0006) · El-Amer (0008) · Ceyhan (0027) · Bopearachchi (0028) · Chupp (0029) · Iyer (0032) · Hoque (0045) · Pund (0049) · Ikeda (0051) · Fung (0052) · Yang (0053) |
+| Patient and public-interest organisations | 4 | National Health Council (0034) · National Multiple Sclerosis Society (0042) · Pathway for Patient Health (0047) · ForHumanity (0025) |
+| Anonymous | 3 | 0012 · 0038 · 0050 |
 
-**Numbering note.** IDs run to at least 0053 against 51 posted comments plus 2 docket
-documents, so a small number were received and not posted. Consistent with the
-received-vs-posted gap observed live on FDA-2026-N-7874 (17 received, 0 posted,
-20 August 2026), and decoded in the field guide § 6.
+**Judgment calls, stated so they can be disputed.** The Society of Quality Assurance is a
+professional membership society serving regulated industry and could sit in the first row
+or the third; the Digital Pathology Association is a professional–industry hybrid;
+ForHumanity is an AI-audit nonprofit rather than a patient body and sits in the fifth row
+for want of a better one. Moving all three does not change the shape: industry files 21 of
+51, the patient side files 4, and thirteen private citizens filed in their own names.
+
+**Substance not yet captured (29).** 0003, 0004, 0006, 0009, 0014, 0019, 0020, 0022, 0023,
+0024, 0025, 0026, 0029, 0030, 0031, 0032, 0033, 0034, 0035, 0036, 0037, 0038, 0039, 0043,
+0046, 0047, 0048, 0050, 0052. Substance is captured for 22 — the thirteen tier-1
+attachments and the nine tier-2 posted texts. Highest value next: **0034 National Health
+Council** and **0047 Pathway for Patient Health**, which overturned a published finding of
+this file on their names alone (§ 2, and the erratum below); **0031 AdvaMed** and **0036
+MDMA**, the burden objections worth pre-empting; **0046 AMIA** and **0022 RSNA** for
+informatics depth, RSNA pairing with ACR; **0050 Anonymous**, never enumerated in any tier
+before today.
+
+**Numbering note, corrected 20 August 2026.** An earlier revision of this file inferred
+from the ID range that "a small number were received and not posted." The complete roster
+refutes it: comment IDs run **contiguously from 0003 to 0053 with no gaps**, which is
+exactly 51, the two docket documents occupying 0001–0002. Nothing was received and
+withheld on this docket. The received-vs-posted gap observed live on FDA-2026-N-7874 (17
+received, 0 posted, 20 August 2026) is a processing lag, decoded in the field guide § 6,
+and this docket is not evidence for it either way.
 
 ---
 
@@ -162,11 +192,17 @@ provenance text, noting that AI device functions have been trained on "publicly
 available" data that did not carry proper consent, "unbeknownst to the AI-DSF
 manufacturer beforehand" (0011).
 
-**Participation and publication.** The National MS Society is the file's only patient
-organisation and asks for the most publication of anyone in it: people living with MS
-seated in risk workshops and in subgroup and benchmark design, mandated algorithmic
-impact assessments during review, a federal AI/ML transparency database, and a
-centralised FDA AI/ML oversight committee (0042).
+**Participation and publication.** The National MS Society asks for the most publication of
+anyone in the file: people living with MS seated in risk workshops and in subgroup and
+benchmark design, mandated algorithmic impact assessments during review, a federal AI/ML
+transparency database, and a centralised FDA AI/ML oversight committee (0042).
+*Corrected 20 August 2026:* this paragraph and the § 1.1 census row formerly called NMSS
+"the file's only patient organisation." The complete roster shows three patient-side
+bodies — NMSS, the National Health Council (0034) and Pathway for Patient Health (0047) —
+of which NMSS is the only single-disease organisation. The substance of 0034 and 0047 is
+not read, so nothing is asserted here about what they asked for; the correction is to the
+count, and the count was published wrong. Four filings of fifty-one come from the patient
+side, against twenty-one from industry.
 
 **The one structural proposal.** Yang (0053), filing from Taiwan in June 2026 — fourteen
 months after the comment period closed, which guidance dockets permit under 21 CFR
@@ -236,15 +272,31 @@ the description of the break is furnished by the chain itself, voluntarily, on a
 docket. *Strength: six verbatim exhibits across four filers, quotable. Upgraded from
 three exhibits on 20 August 2026 by the addition of 0013 and 0015.*
 
-### F3 — No frontier model developer filed
+### F3 — No frontier model developer filed in its own name — **certified 20 August 2026**
 
-No comment read here comes from a foundation-model developer; AWS is a platform
-intermediary and says so. The four tier-1 comments added on 20 August 2026 (0012, 0013,
-0015, 0042) do not disturb this and mildly strengthen it — a professional association, a
-pharmaceutical-engineering society, a patient organisation and an unattributed
-burden-reduction filing, none of them a model developer. *Strength: absence across
-comments read plus all 25 page-1 titles. **NOT** yet a certified absence — confirm
-against the full list before any public claim.*
+No foundation-model developer appears anywhere in the 51. The complete roster was captured
+from the docket's three result pages on 20 August 2026 (§ 1.3), and the absence now rests
+on the whole file rather than on a sample: no OpenAI, Anthropic, Google or DeepMind, Meta,
+Microsoft, xAI, Mistral, or any other developer of a frontier model, under any name on the
+list. AWS is a platform intermediary and says so.
+
+**The qualifier that must travel with the claim.** Two filers are trade associations whose
+membership includes frontier developers — the Consumer Technology Association (0035) and
+the Connected Health Initiative (0039). The certified claim is therefore precise: no
+frontier model developer filed **in its own name**. They are present in this file only
+through associations, which is a sharper finding than a bare absence and costs nothing to
+state. Anyone reproducing the finding should reproduce the qualifier.
+
+*Strength: certified against the complete 51-filer roster. The claim is about the identity
+of filers, which the roster settles; it is not a claim about the substance of the 29
+comments whose text is not yet read.*
+
+**Procedural note on how this finding was blocked.** The project's running list recorded
+F3 as waiting on the capture of five comments' substance. That was wrong about its own
+evidence: F3 is an absence-of-filer claim and needed only the roster, which is a single
+page-through. What the substance capture is needed for is F1 and F8, which are claims about
+what filers asked for. Two different blockers had been filed under one line, and the
+cheaper one went unrun for a day.
 
 ### F4 — The field and the regulator lack a shared vocabulary
 
@@ -315,15 +367,26 @@ point of the table; a map showing only agreement is a brochure.
 
 ---
 
-## 5. Two procedural facts worth keeping
+## 5. Three procedural facts worth keeping
 
-**Guidance dockets never close.** Two comments here — Ikeda (0051, 23 March 2026) and
-Yang (0053, 12 June 2026) — were filed long after the April 2025 period and were accepted
+**Guidance dockets never close.** *Four* comments here — Anonymous (0050, posted 12 August
+2025), Ikeda (0051, posted 26 March 2026), Fung (0052, posted 17 April 2026) and Yang
+(0053, posted 29 June 2026) — were filed long after the April 2025 period and were accepted
 and posted. Under 21 CFR § 10.115(g)(5), comment on a draft guidance may be submitted at
 any time. The field guide at
 [`how_to_file_a_federal_comment.md`](./how_to_file_a_federal_comment.md) should absorb
 this: for guidance, the deadline is an invitation to be considered before the next draft,
-not a gate.
+not a gate. *Corrected 20 August 2026 from "two comments"; 0050 and 0052 were not
+enumerated in this file until the full roster was captured.*
+
+**The status flag contradicts the file beneath it.** The docket page headers read **Closed
+for Comments** while displaying four comments posted after the close, the most recent
+fourteen months past it — and the sidebar's own date filter offers "Last 90 Days (1)."
+The label is the single most legible thing on the page and it is the thing that is wrong.
+A reader who trusts the header never scrolls, and a citizen who reads "closed" does not
+file. This is the better exhibit for the field guide's central point than the two late
+comments alone: the door the public is told is shut is standing open, and the sign is
+government-issued.
 
 **Form beats volume, but the best argument arrived in a letter.** Eight of the thirteen
 tier-1 comments pin their asks to line or section numbers, and five of those supply
