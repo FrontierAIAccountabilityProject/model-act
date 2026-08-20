@@ -56,3 +56,48 @@ remains open.
 **Substantive note for the changelog.** Prong (D) reaches protracted impairment of a
 *mental* faculty — coverage the § 803.3(w) body-function language never cleanly gave,
 and the coverage an AI statute needs, arriving pre-litigated.
+
+---
+
+## CURE 2 — SEC. 13(c): a review valve on the suspension order
+
+*Cures finding F4 (drafting record, [chunk 7](./record.md#chunk-7) §3.9; register ★★★, new
+17 August 2026), uncured at v3.4: the conforming-operation order carries no standard of
+review, no mechanism to challenge an order as too broad, and no route to vacatur — while
+SEC. 13(c)(3) bars conviction for conduct during a suspension and SEC. 13(d) makes revival
+prospective only. The fair-notice ratchet built to protect defendants doubles as an amnesty
+switch in the hands of the officer the Act trusts most. This cure adds review without
+touching the ratchet.*
+
+**Operation.** Insert a new paragraph after SEC. 13(c)(3).
+
+**ANCHOR (SEC. 13(c)(3), verbatim):** "(3) No person may be convicted of an offense under
+this Act for conduct occurring during a period in which the provision creating the offense
+stood suspended under this subsection."
+
+**NEW TEXT — SEC. 13(c)(4):**
+
+> (4) Contents and review. An order under this subsection shall identify the federal
+> enactment relied upon, the provisions of this Act suspended, and the extent of each
+> suspension, and shall state the Attorney General's reasons. Any person may petition [the
+> court of general jurisdiction of the county in which the Agency sits] for review of an
+> order, on the ground that it suspends more than the federal enactment preempts; the court
+> shall determine the question of preemption without deference to the order. An order
+> vacated or narrowed on review ceases to operate, to the extent vacated or narrowed, from
+> the date of publication of notice of the judgment, and not before; nothing in this
+> paragraph affects paragraph (3), and no person is liable under a provision for conduct
+> occurring before that date.
+
+**Why this shape.** Review runs forward only, so the *Bouie* discipline of n.15 is untouched:
+no conduct is retroactively criminalised by a successful challenge, and paragraph (3) keeps
+its full protective force. What changes is that an over-broad order becomes contestable by
+somebody other than the officer who wrote it — the missing half of a mechanism the file
+already defends on the ground that "the State, not the defendant and not the court, bears the
+burden of saying what is suspended and when, in public, prospectively" (chunk 2 §I.4).
+Standing is open rather than confined to the Agency, because the persons harmed by an
+over-broad suspension are the public the Act protects, who would otherwise have no route to a
+court at all.
+
+**Held open.** The bracketed venue is an adopting state's choice. Whether review should also
+lie against an order that suspends *too little* belongs to the enforcement seat, and is not
+drafted here.

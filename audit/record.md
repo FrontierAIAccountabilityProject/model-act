@@ -11,6 +11,10 @@ artifact.
 **The live queue is now [v3_5_cure_language.md](./v3_5_cure_language.md), which joins
 this record when v3.5 lands.**
 
+*Reading note: the chunks below were written between 16 and 17 August 2026, before the v3.4
+and v3.5 numbering settled; their internal references to "v4" mean the next revision after
+v3.3, which became v3.4. The text is preserved as written.*
+
 Parts: [reader's guide](#readme) · [1 — landscape](#chunk-1) · [2 — preemption armour](#chunk-2) ·
 [3 — penalty architecture](#chunk-3) · [4 — harm-tier rebuild](#chunk-4) ·
 [5 — commencement and records](#chunk-5) · [6 — assembly](#chunk-6) ·
