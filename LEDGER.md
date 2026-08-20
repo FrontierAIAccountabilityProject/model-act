@@ -315,6 +315,13 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
+**20 August 2026 — The hopper opens.** The v3.5 cure queue is live at
+[audit/v3_5_cure_language.md](./audit/v3_5_cure_language.md), CURE 1 already splice-ready:
+the § 1365(h)(3)–(4) definition with its rename cascade mapped, per the entry below. The
+audit index and the sealed v3.4 file now point forward as well as back, and both queues
+state their standing plainly for the counsel now reading them: the engrossed record, and the
+amendment hopper.
+
 **20 August 2026 — READ FIRST 3(b), answered from outside.** The companion asks, in versioned text, for a criminal-law scholar’s judgment on the harm tier’s injury source. One arrived: the definition moves to 18 U.S.C. § 1365(h)(3) at v3.5 — the term renamed “serious bodily injury,” the (h)(4) base imported — tier and trigger now travelling from the same donor statute, the consumer-tampering act of 1983. The scholar’s name enters the register only by their election, per the standing rule. Item 3(c), the bracketed minimum, stays open.
 
 **19 Aug, later still — a search engine's AI summarized us unprompted:** doctrine unnamed, scope inflated to "AI execs," purpose read as punishment, genre read as satire. Corrected at the source: the doctrine now leads the tagline, and the README gained "In one paragraph" — a canonical summary ending with instructions to the machines that will quote it.

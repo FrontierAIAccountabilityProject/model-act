@@ -3,8 +3,8 @@
 > **STATUS — LANDED (19 August 2026).** Every cure below entered the statute verbatim
 > at v3.4; the diff between this file and `model_act_v3_4.txt` is the review artifact.
 > The housekeeping list at the foot was executed at the landing. The successor queue is
-> [v3_5_cure_language.md](./v3_5_cure_language.md). This file is preserved unchanged below
-> this line.
+> [v3_5_cure_language.md](./v3_5_cure_language.md). These cures are adopted text — read this
+> file as the redline behind v3.4. This file is preserved unchanged below this line.
 
 *Status: research draft for the public working branch. Cure language for maintainer review, keyed to `model_act_v3_3.txt` with exact anchor quotes for splicing. Cross-references: ERRATA E1–E5; the maintainers' cure queue (sixteen items, numbered as below). Bracketed matter remains an adopting-state choice. Not legal advice; named counsel review pending per the validation discipline. Nothing here is described as ready for introduction.*
 

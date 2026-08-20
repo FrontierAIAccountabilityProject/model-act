@@ -1,10 +1,12 @@
 # v3.5 Cure Branch — Drop-in Amendment Language (Open Queue)
 
-> **STATUS — OPEN.** Cure language for maintainer review, keyed to `model_act_v3_4.txt`
-> with exact anchor quotes for splicing. Entries land at v3.5 and this file joins the
-> record when that version does, per the v3.4 file's precedent. Bracketed matter remains
-> an adopting-state choice. Not legal advice; nothing here is described as ready for
-> introduction.
+> **STATUS — OPEN QUEUE. Nothing below is yet in the statute.** The operative text
+> remains `model_act_v3_4.txt` as tagged. This file holds proposed amendment language for
+> the next revision, keyed to v3.4 with exact anchor quotes for splicing; entries are
+> adopted, modified, or rejected at v3.5, and the file then seals as that revision's
+> drafting record — the life cycle the v3.4 file completed on 19 August 2026. Bracketed
+> matter remains an adopting-state choice. Not legal advice; nothing here is described as
+> ready for introduction.
 
 *Convention: **ANCHOR** quotes v3.4 verbatim so the edit lands mechanically.
 **STRIKE/INSERT** gives the operation. **NEW TEXT** is the full inserted language.*
