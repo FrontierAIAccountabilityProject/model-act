@@ -1,5 +1,7 @@
 # Model Act — Frontier AI Public Welfare Offenses
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22029795.svg)](https://doi.org/10.5281/zenodo.22029795)
+
 Model state legislation applying the **responsible corporate officer doctrine** —
 *United States v. Dotterweich*, 320 U.S. 277 (1943); *United States v. Park*, 421 U.S.
 658 (1975) — to frontier artificial intelligence: personal, non-delegable duties for
@@ -46,6 +48,7 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 - **Review:** council assembly under way; this text claims no "survived review" until named reviewers sign
 - **Typeset edition:** withdrawn pending a reproducible rebuild; plain text is authoritative
 - **License:** CC0 — public domain
+- **Archived:** [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795) — CERN's Zenodo, permanent; every future release mints its own version DOI under this concept DOI
 
 ## Repository structure
 
@@ -1386,6 +1389,10 @@ L493 · SEC. 13 — L527.
 with its provision and the proposition it is cited for, in
 [the table of authorities](./standards/table_of_authorities.md).
 
+**The permanent identifier.** The repository is archived at CERN and carries a DOI:
+**10.5281/zenodo.22029795**. It resolves to the latest archived version and survives the
+repository being renamed, moved, or taken down — cite it in preference to the URL.
+
 A [`CITATION.cff`](./CITATION.cff) file supports GitHub's "cite this repository"
 function; release v3.4 is tagged, with sha256 checksums recorded in the ledger's changelog; the v3.4 tag and its checksums stand unchanged; and
 CC0 imposes no attribution requirement — citation is a courtesy to the reader. Pin the
@@ -1395,16 +1402,16 @@ version and the date; the main branch moves frequently.
 > typeface the title takes large and small caps:
 >
 > Model Act — Frontier AI Pub. Welfare Offenses § 4(b)(2) (llmaolaw 2026),
-> https://github.com/llmaolaw/model-act.
+> https://doi.org/10.5281/zenodo.22029795.
 >
 > **BibTeX.** Generated from [`CITATION.cff`](./CITATION.cff) by GitHub's "Cite this
 > repository" panel, or by `cffconvert -f bibtex`.
 >
 > **APA** — llmaolaw. (2026). *Model Act — Frontier AI Public Welfare Offenses*
-> (Version 3.4, research draft) [Model legislation]. https://github.com/llmaolaw/model-act
+> (Version 3.4.2, research draft) [Model legislation]. Zenodo. https://doi.org/10.5281/zenodo.22029795
 >
-> **MHRA** — llmaolaw, *Model Act — Frontier AI Public Welfare Offenses*, v3.4 research
-> draft (2026) <https://github.com/llmaolaw/model-act> [accessed 19 August 2026]
+> **MHRA** — llmaolaw, *Model Act — Frontier AI Public Welfare Offenses*, v3.4.2 research
+> draft (2026) <https://doi.org/10.5281/zenodo.22029795> [accessed 20 August 2026]
 >
 > **APA** — llmaolaw. (2026). *Model Act — Frontier AI Public Welfare Offenses*
 > (Version 3.4, research draft) [Model legislation].

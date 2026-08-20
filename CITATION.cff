@@ -4,7 +4,7 @@ message: >-
   version tag and the commit, because main moves daily. Cite it as what it is:
   model legislation, a research draft, never enacted law. Cite a provision by
   section and link by line: model_act_v3_4.txt#L236 opens SEC. 4; the section-to-line
-  index is in the README. Every authority the draft relies on is listed, with the
+  index is in the README. The archived record carries a DOI: 10.5281/zenodo.22029795. Every authority the draft relies on is listed, with the
   proposition each is cited for, in standards/table_of_authorities.md.
 title: "Model Act — Frontier AI Public Welfare Offenses"
 abstract: >-
@@ -18,12 +18,17 @@ abstract: >-
   the project's own errata. Drafted in public by one maintainer with AI assistance
   disclosed. Never enacted; no completed review is claimed.
 type: software
-version: "3.4"
-date-released: "2026-08-19"
+doi: 10.5281/zenodo.22029795
+version: "3.4.2"
+date-released: "2026-08-20"
 authors:
   - name: "llmaolaw"
     alias: llmaolaw
     website: "https://github.com/llmaolaw/model-act"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22029795
+    description: "Concept DOI — always resolves to the latest archived version."
 repository-code: "https://github.com/llmaolaw/model-act"
 url: "https://github.com/llmaolaw/model-act"
 license: CC0-1.0
