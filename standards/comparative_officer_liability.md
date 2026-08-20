@@ -48,12 +48,7 @@ Session of the Eighth National People's Congress on 14 March 1997; art. 31 sits 
 Chapter II, Section 4 ("Crimes Committed by a Unit"), added at that revision. Subsequent
 amendments I through XII have not disturbed it.
 
-**Scope note, stated so the comparison stays honest.** Art. 31 is a general principle of
-attribution: it applies wherever the Specific Provisions define an offence as capable of
-commission by a unit, which is a wide but not universal class. The README's line — that
-art. 31 reaches every unit in the economy while this Act reaches a dozen chairs in one
-industry — is a comparison of *breadth of addressee*, not a claim that every crime in
-the code is a unit crime.
+**Scope note, stated so the comparison stays honest.** Article 31 is a general attribution principle applying wherever the Specific Provisions define an offense as capable of commission by a unit—a wide but not universal field. The comparison is one of legal breadth: Article 31 operates across many areas of the economy, while this Act is confined to defined frontier-AI conduct and imposes individual duties only on natural persons satisfying its controlling-person test. Neither comparison establishes a fixed headcount or implies that every organization or officer is liable.
 
 ---
 
