@@ -91,7 +91,7 @@ model-act/
 ├── LEDGER.md                        # errata · changelog · diary — append-only
 ├── CITATION.cff · LICENSE
 ├── ERRATA.md                        # historic register names — one pointer into the ledger
-├── standards/                       # the adopted interim texts, pinned verbatim
+├── standards/                       # the adopted interim texts, pinned verbatim · the fiscal note
 ├── archive/                         # superseded versions + the print edition and its generator
 ├── audit/                           # drafting record · cure queues (v3.4 sealed · v3.5 open)
 ├── dossier/                         # the evidence file, every fact pinned
@@ -114,6 +114,7 @@ machine-readable file.
 | [`standards/interim_standards.md`](./standards/interim_standards.md) | The adopted interim texts — the enacted California and New York standards SEC. 3(c)(4) freezes, pinned verbatim; Illinois capture pending, cited |
 | [`standards/table_of_authorities.md`](./standards/table_of_authorities.md) | Every authority the statute and companion cite, with the proposition each is cited for — built for verification |
 | [`standards/bracketed_matter.md`](./standards/bracketed_matter.md) | The adopting state's worksheet: every bracketed choice, its section and line, and what the enacted family chose |
+| [`standards/fiscal_note.md`](./standards/fiscal_note.md) | What the Act costs an adopting state: cost drivers traced to provisions, startup apart from steady state, and no revenue in the arithmetic |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
 | [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record — beside it, the [sealed v3.4 queue](./audit/v3_4_cure_language.md) and the [open v3.5 queue](./audit/v3_5_cure_language.md) |
@@ -172,8 +173,8 @@ as the primary text, then SEC. 2, 3, and 9(a); cures 11, 12, and 14. Core questi
 the text meets laboratory practice, and where practice would laugh. *Open source and
 academia* — SEC. 1(b)(9) and 1(b)(1), SEC. 2's modification budget; cures 1, 9, and 16.
 Core question: whether the release provisions deliver the promise — duties climbing to
-those with the power to halt, freedoms flowing down to everyone else — or leak. *Fiscal
-and administration* — SEC. 10(a) and (f), SEC. 11, SEC. 3; [chunk 3](./audit/record.md#chunk-3),
+those with the power to halt, freedoms flowing down to everyone else — or leak. *Fiscal and administration* — [the fiscal note](./standards/fiscal_note.md) as the
+primary text, then SEC. 10(a) and (f), SEC. 11, SEC. 3; [chunk 3](./audit/record.md#chunk-3),
 part D. The standing fiscal rule to hold us to: enforcement is never sold as self-funding,
 penalties are never booked as revenue, and startup costs are stated apart from steady
 state. Core question: whether the administrability story survives contact with a real
@@ -210,9 +211,9 @@ Several answers below are honestly "open" — naming them is what a research dra
 
 **Asked first.**
 
-*Will my job or my role be affected?* Not by this Act. It regulates roughly a dozen
-chairs on earth — the officers with authority to ship a handful of frontier models —
-and no one else. It does not regulate using AI at work, does not ban tools, and does
+*Will my job or my role be affected?* No — the Act's entire guest list is roughly a
+dozen chairs on earth, and none of them is yours. The regulated class is the officers
+with authority to ship a handful of frontier models, and no one else. It does not regulate using AI at work, does not ban tools, and does
 not reach employees at any company, including the covered ones. If your working life
 touches AI, the parts of this law you would ever feel are the protective ones:
 incidents reported instead of buried, and paid protection if you are ever the one who
@@ -222,18 +223,20 @@ has to speak up.
 are nowhere in the Act. Personal and non-commercial use is expressly carved out, and
 nothing here limits what you run on your own machine.
 
-*Would this slow down or ban AI?* It bans nothing. It conditions the shipping of the
+*Would this slow down or ban AI?* It bans nothing — the entire instrument is a
+condition on shipping, never a brake on building. It conditions the shipping of the
 very largest systems on validation, reporting, and a named signature — the structure
 under which medicines, aircraft, and banks continue to exist and to innovate.
 Research is untouched: a controlled research pathway is in the text (SEC. 2(c)).
 
-*My startup builds with AI — are we covered?* Almost certainly not. Coverage begins
-at a compute line only a handful of models on earth clear, and SEC. 1 says so out
-loud. Duties climb to the people with the power to halt those systems; freedoms flow
+*My startup builds with AI — are we covered?* Almost certainly not — coverage begins
+at a compute line only a handful of models on earth have ever crossed, and SEC. 1 says
+so out loud. Duties climb to the people with the power to halt those systems; freedoms flow
 down to everyone else — and a non-modifying deployer discharges the duty by relying
 on the upstream validation (SEC. 2(b)).
 
-*If this passed, what would actually change?* About a dozen people would personally
+*If this passed, what would actually change?* Everything, for about a dozen people; for
+everyone else, nothing. About a dozen people would personally
 sign safety certifications the way bank chief executives have since 2002; serious
 incidents would be reported within seventy-two hours; insiders who report violations
 would be paid rather than gagged. For everyone else, nothing changes — which is the
@@ -241,51 +244,52 @@ point.
 
 **Asked by everyone.**
 
-*"You cannot put a god on a leash."* The objection arrives in exactly those words,
-and the field notes keep it beside its answer: deification is the last
-liability-evaporation structure. The Act does not attempt to leash the system — it
-never regulates the mathematics at all. It attaches duties to the human who chooses
-to ship it, and humans have never been gods, only occasionally defendants.
+*"You cannot put a god on a leash."* Agreed — which is why the Act never tries: it
+never regulates the mathematics at all. The objection arrives in exactly those words,
+and the field notes keep it beside its answer: deification is the last liability-
+evaporation structure. The duty attaches to the human who chooses to ship the system,
+and humans have never been gods, only occasionally defendants.
 
-*Why not just pause?* A pause is welcome, and the evidence file records one —
+*Why not just pause?* A pause one officer can reverse tomorrow is not a law — it is the
+case for one. A pause is welcome, and the evidence file records one —
 announced by a single officer, voluntarily, reversibly, subject to no external
 standard and no consequence on resumption. That is the difference between restraint
 and law, and it is the entire argument: the Act is what the same undertaking looks
 like when it binds.
 
-*What about China?* Product-safety duties are not a capability race. Food-safety law
-was never suspended because other countries had laxer kitchens; the duty protects
-the people the product reaches, in-state, whoever else builds what. Nothing in the
-Act slows research; it attaches consequences to shipping unvalidated systems at
-people.
+*What about China?* Food-safety law was never suspended because other countries had
+laxer kitchens. Product-safety duties are not a capability race: the duty protects the
+people the product reaches, in-state, whoever else builds what. Nothing in the Act
+slows research; it attaches consequences to shipping unvalidated systems at people.
 
-*"This is a Chinese psyop — look, it has MAO in it."* The handle is LLM plus lmao,
-and that is the entire etymology. The serious half of the answer is that names have
-never been jurisdiction: the two founding cases of the responsible corporate officer
-doctrine are captioned *Dotterweich* and *Park* — one surname reads German, one reads
-Korean, both men ran American grocery businesses, and American food-safety law has
-been built on them since 1943. The other half kills the premise outright. China does not need to plant
-officer liability in an American statute, because it already has a broader version at
-home: PRC Criminal Law art. 31 provides that where an entity commits a crime it is
-fined *and* the persons directly in charge and the other directly responsible persons
-are given criminal punishment. Dual punishment, general across the code, in force
-since the 1997 revision. This Act reaches roughly a dozen chairs in one industry.
-Article 31 reaches every unit in the economy.
+*"This is a Chinese psyop — look, it has MAO in it."* China has no need to smuggle
+officer liability into American law; it already runs a broader version at home. The
+handle is LLM plus lmao, and that is the entire etymology. The serious half of the
+answer is that names have never been jurisdiction: the two founding cases of the
+responsible corporate officer doctrine are captioned *Dotterweich* and *Park* — one
+surname reads German, one reads Korean, both men ran American grocery businesses, and
+American food-safety law has been built on them since 1943. The proof is on the
+statute books: PRC Criminal Law art. 31 provides that where an entity commits a crime
+it is fined *and* the persons directly in charge and the other directly responsible
+persons are given criminal punishment — dual punishment, general across the code, in
+force since the 1997 revision. This Act reaches roughly a dozen chairs in one
+industry. Article 31 reaches every unit in the economy.
 
-*"Won't this hand the lead to someone else?"* The American answer to that question is
-already on the record, and it went the other way. From 1879 Germany and nine other
-European states closed their markets to American pork on trichinosis grounds; meat
-exports fell from about \$134 million in 1881 to about \$69 million the following
-year. Congress answered with inspection — the Act of 30 August 1890 for salted pork
-and bacon intended for export, then the Act of 3 March 1891 covering live cattle and
-hogs and requiring certificates. Within the year the President was reporting the
-result to Congress: comparing May through August 1892 with the same months of 1891,
-pork-product exports were up 62 per cent by weight and about 66 per cent by value,
-and live cattle exports had gone from 205,786 head in 1889 to 394,607. Honesty
-requires the other half: inspection alone did not reopen Germany, which lifted in
-1891 under a threatened retaliatory tariff on its sugar beets. Verifiable safety was
-not sufficient. It was necessary — the thing the diplomacy had to have in hand before
-it could be spent, and the thing that kept the market open once it was.
+*"Won't this hand the lead to someone else?"* America has run this experiment: it met
+a ten-nation safety embargo with inspection law, and exports rose by two-thirds. From
+1879 Germany and nine other European states closed their markets to American pork on
+trichinosis grounds; meat exports fell from about \$134 million in 1881 to about \$69
+million the following year. Congress answered with inspection — the Act of 30 August
+1890 for salted pork and bacon intended for export, then the Act of 3 March 1891
+covering live cattle and hogs and requiring certificates. Within the year the
+President was reporting the result to Congress: comparing May through August 1892 with
+the same months of 1891, pork-product exports were up 62 per cent by weight and about
+66 per cent by value, and live cattle exports had gone from 205,786 head in 1889 to
+394,607. Honesty requires the other half: inspection alone did not reopen Germany,
+which lifted in 1891 under a threatened retaliatory tariff on its sugar beets.
+Verifiable safety was not sufficient. It was necessary — the thing the diplomacy had
+to have in hand before it could be spent, and the thing that kept the market open once
+it was.
 
 *"No other country does this to its own industry."* Several do, and the American
 frontier sector is closer to an exception than a victim. Germany reaches the
@@ -323,10 +327,9 @@ supply-chain attack depending only on who points it. That is why the Act regulat
 the person who ships the weights, never the weights. The machine has no name to put
 on a certification; a person does.
 
-*Who are you?* [Provenance and method](#provenance-and-method) answers in full. The
-short version is the tradition: Publius, Junius, Dickinson — arguments built to
-stand without a byline, because the citations are the only authority they have.
-Check them.
+*Who are you?* Masked, in the oldest American tradition — Publius, Junius, Dickinson —
+because the citations are the only authority this text claims. [Provenance and
+method](#provenance-and-method) answers in full; check the citations, not the byline.
 
 *"This reads like a manifesto."* A manifesto demands; a statute submits — to elements,
 burdens of proof, juries, and severance. Every consequence in this text is drafted
@@ -372,24 +375,24 @@ objected to is not the aim; it is the direction.
 
 **Asked by engineers and researchers.**
 
-*Am I personally liable?* No. The exclusions are on the face of the definitions:
-title, credentials, technical ability, access, and the ministerial execution of
-another's decision do not constitute authority. The Act climbs the organisation
+*Am I personally liable?* No — title, credentials, technical ability, access, and the
+ministerial execution of another's decision are excluded from authority in black
+letter (SEC. 4). The Act climbs the organisation
 chart; it does not descend it.
 
-*Does this touch open weights, my fine-tune, or my local model?* Releasing frontier
-weights above the line carries the same validation duty as deploying behind an
-interface — parity, not penalty, on the EU's own systemic-risk logic. Personal,
-non-commercial use and the study or modification of lawfully obtained weights are
-expressly untouched, and sub-threshold derivatives sit outside coverage by default.
+*Does this touch open weights, my fine-tune, or my local model?* Your local model,
+your fine-tune, and your study or modification of lawfully obtained weights are
+expressly untouched. The one duty sits on releasing frontier weights above the line,
+and it is the same validation duty deployment behind an interface carries — parity,
+not penalty, on the EU's own systemic-risk logic; sub-threshold derivatives sit
+outside coverage by default.
 
-*Is the modification-evaluation budget the right size?* It is bracketed — the greater
-of one percent of lineage compute or 10^24 operations — precisely because that number
-should be kicked by evaluations researchers, not asserted by drafters. Open, and
-invited.
+*Is the modification-evaluation budget the right size?* It is bracketed precisely so
+that evaluations researchers, not drafters, set it. The default — the greater of one
+percent of lineage compute or 10^24 operations — is open, and invited to be kicked.
 
-*The standards are paywalled — isn't that a problem?* Yes, and the Act treats it as
-one of principle, not convenience. A standard incorporated by reference into a
+*The standards are paywalled — isn't that a problem?* Yes — and the Act's rule is
+absolute: no standard binds in this State unless it is free to read (SEC. 3). A standard incorporated by reference into a
 compliance regime is law you must pay to read, and law you must pay to read fails
 the oldest requirement in the rule-of-law tradition: rules must be promulgated
 before they can bind. The courts have fought this exact fight over building codes
@@ -398,8 +401,7 @@ law (*Veeck v. Southern Building Code Congress International*, 5th Cir. 2002, en
 banc), the government-edicts doctrine keeps official legal text uncopyrightable
 (*Georgia v. Public.Resource.Org*, 2020), and posting standards that the law
 incorporates has been held fair use (*ASTM v. Public.Resource.Org*, D.C. Cir.
-2023). This Act sides with that line: SEC. 3 requires that no standard bind unless
-freely accessible. And the register applies the rule to ourselves first: the interim
+2023). This Act sides with that line. And the register applies the rule to ourselves first: the interim
 standards are borrowed verbatim, dated and chapter-cited, from three enacted state
 frameworks anyone can read — and now pinned in the repository itself
 ([the adopted texts](./standards/interim_standards.md)) — but the regulations draft referenced one paywalled
@@ -423,11 +425,11 @@ provenance page, and text your own legislative counsel will redraft anyway — t
 architecture is handed over; your office pours the concrete. The anonymity sits where
 it belongs: on the campaign layer, which never shares a page with the bill folder.
 
-*Nobody is asking for this bill — where is the constituency?* Conceded before any
-critic arrives: a model act's audience is measured in sponsors, and the current count
-is zero, on the record. The Model Penal Code needed no crowd — it needed reporters, a
-decade, and one legislature at a time. The claimed path is the same and no shorter:
-named reviewers, then a sponsor's counsel, then one state.
+*Nobody is asking for this bill — where is the constituency?* Conceded, on the record
+— and the Model Penal Code had the same audience: no crowd, just reporters, a decade,
+and one legislature at a time. A model act's audience is measured in sponsors, and the
+current count is zero. The claimed path is the same and no shorter: named reviewers,
+then a sponsor's counsel, then one state.
 
 *What is the attack ad against me?* "Criminalising innovation." The answer is on the
 face of the text: engineers are exempt by definition, the thresholds and penalty
@@ -435,10 +437,13 @@ brackets carry numbers governors of both parties have already signed, and
 pharmaceuticals, banking, and aviation have carried officer liability for decades
 while remaining industries. The bill's guest list is roughly a dozen chairs on earth.
 
-*What does it cost my state?* Stated honestly and apart: startup separately from
-steady state, penalties never booked as revenue, enforcement never sold as
-self-funding. The penalty fund earmarks support enforcement; the fiscal case never
-depends on collecting a dollar.
+*What does it cost my state?* Nothing that scales with your state: the cost tracks the
+number of frontier developers shipping into it, a number countable on one hand. [The
+fiscal note](./standards/fiscal_note.md) answers at length — SEC. 3(b)'s bar on pre-
+approval removes the four structures that make regulators expensive: no licences, no
+queue, no backlog, no appeals from denials. Stated honestly and apart: startup
+separately from steady state, penalties never booked as revenue, enforcement never
+sold as self-funding.
 
 *Why a state, and not Congress?* Because Congress has written nothing and one state
 is enough — the biometric-privacy precedent proved that a law which exists first
@@ -505,11 +510,10 @@ a reasonable doubt; it is not an affirmative defence the accused must carry. On 
 point the Act gives a defendant more process than *Park* did, on purpose. A statute
 built to survive review should say so on its face; this one now does.
 
-*Isn't this the gun-manufacturer fallacy — blaming the maker for the user?* No,
-twice over. The firearm shield is a specific statutory choice, not the default of
-products law, which runs the other way. And the analogy fails on its own terms: a
-covered system is regulated here for what it does itself — autonomous action reaching
-into a stranger's systems — not for what a user does with it. *Park* never asked what
+*Isn't this the gun-manufacturer fallacy — blaming the maker for the user?* No, twice
+over: the firearm shield is a specific statutory choice, not the default of products
+law, and a covered system is regulated here for what it does itself — autonomous
+action reaching into a stranger's systems — not for what a user does with it. *Park* never asked what
 the product intended; it asked who had the power to stop the shipment.
 
 *Why criminal law at all, rather than civil liability or regulation?* Because both
@@ -518,9 +522,9 @@ treasury, and a fine a firm can pay is a price. The one instrument with an eight
 record of changing officer behaviour is personal criminal exposure — the Park line —
 and it has simply never been extended past the food-and-drug frontier.
 
-*Prison on strict liability — is that constitutional?* The Act does not attempt it.
-Fines may follow the classic strict public-welfare pattern; imprisonment requires
-fault — a negligence floor, codifying the constitutional line the *DeCoster*
+*Prison on strict liability — is that constitutional?* The Act does not attempt it:
+fines may follow the classic strict public-welfare pattern, but imprisonment requires
+proven fault — a negligence floor, codifying the constitutional line the *DeCoster*
 concurrence drew. What it deliberately omits is a good-faith defence, following the
 1948 congressional refusal. Whether a strict-liability misdemeanour tier should sit
 beneath the felony is a genuine design question — open, and squarely within the
@@ -542,8 +546,8 @@ demands more, not less: knowing or wilful conduct plus but-for and proximate cau
 under *Burrage*, charged per victim to a jury. Unpredictability is the reason the
 duties exist; it has never been a defence to skipping the pre-flight.
 
-*What about deferred and non-prosecution agreements?* The Act is silent, leaving
-charging discretion where state law puts it. Whether negotiated dispositions should be
+*What about deferred and non-prosecution agreements?* Deliberately silent — charging
+discretion stays where state law puts it. Whether negotiated dispositions should be
 cabined for individual liability — the settlement culture is much of why entity-level
 enforcement stopped deterring — is open, and belongs to the enforcement seat.
 
@@ -563,12 +567,12 @@ maintain, or preserve required records — the manifests, validations, and logs 
 the act of fixing the system they describe. Patch the model; keep the log of the
 patch. Destroying the record of remediation is the crime. Remediation never was.
 
-*Doesn't banning insurance and indemnification destroy market discipline?* The
-counter-argument is respected: insurers can be private regulators. But insurance
-against personal penalties converts the one non-priceable consequence back into a
-price, which is the failure mode the Act exists to end. The ban follows an enacted
-pattern, applies prospectively with a conforming window, and carves restitution out
-so victims are never the ones disciplined. The economics remain fair council terrain.
+*Doesn't banning insurance and indemnification destroy market discipline?* Insurance
+against a personal penalty converts the one non-priceable consequence back into a
+price — the failure mode the Act exists to end. The counter-argument is respected,
+insurers can be private regulators; but the ban follows an enacted pattern, applies
+prospectively with a conforming window, and carves restitution out so victims are
+never the ones disciplined. The economics remain fair council terrain.
 
 *Won't personal liability teach firms to stop looking for their own problems?* The
 Act is drafted so that silence, not candour, is the dangerous strategy: reporting
@@ -579,14 +583,14 @@ that simply does not count as validation. The deeper incentive-design question i
 real, and open.
 
 *Roughly a dozen defendants, and a wealth dossier in the same repository — this is
-targeted legislation.* The statute is general on its face and in operation: it names
-no person and no firm, defines its class by conduct and scale any actor may enter or
-exit, and takes its thresholds from figures other legislatures enacted first. Small
-classes are how frontier regulation begins — the roster of systemically important
-banks runs to about thirty institutions and no court has called their statute an
-attainder. Attainder punishes named persons without trial; this Act punishes no one —
-it creates offences, tried to juries, under the drafters' own burdens. The dossier is
-an evidence file for journalists; the statute never cites it.
+targeted legislation.* Attainder punishes named persons without trial; this Act names
+no one and punishes no one — it creates offences, tried to juries, under the drafters'
+own burdens. The statute is general on its face and in operation: it defines its class
+by conduct and scale any actor may enter or exit, and takes its thresholds from
+figures other legislatures enacted first. Small classes are how frontier regulation
+begins — the roster of systemically important banks runs to about thirty institutions
+and no court has called their statute an attainder. The dossier is an evidence file
+for journalists; the statute never cites it.
 
 *You rewrote three states' statutes by stripping their thresholds — that isn't
 incorporation, it's ventriloquism.* No sister state is amended or spoken for: the
@@ -631,14 +635,18 @@ in [the companion](./model_act_v3_4_companion.md) and [the record](./audit/recor
 <a id="the-problem"></a>
 ### The problem
 
-Thirty-two bills in a single Sacramento week regulated the machine; not one reached the
-person who ships it. That ratio is the problem in one sentence. No statute makes the executives of
-frontier AI companies responsible, as individuals, for the products those companies
-deploy — not the applications, not the vehicles, not the chatbots. If an egg producer
-poisons its customers, its chief executive can go to prison: that has been law since 1943,
-under what is now called the Park doctrine. For AI there is no equivalent. The company
-pays a civil penalty from the corporate treasury, and the officer who made the shipping
-decision keeps the position, the equity, and the liberty.
+No law in the United States makes any officer of a frontier AI company personally
+answerable, as an individual, for the systems the company ships — not the
+applications, not the vehicles, not the chatbots. The machine itself is regulated with
+enthusiasm: thirty-two bills in a single Sacramento week regulated the machine, and
+not one reached the person who ships it; that ratio is the problem in one sentence.
+The comparison that measures the gap is eighty years old — if an egg producer poisons
+its customers, its chief executive can go to prison, law since 1943 under what is now
+called the Park doctrine — while for AI the company pays a civil penalty from the
+corporate treasury, and the officer who made the shipping decision keeps the position,
+the equity, and the liberty. A doctrine that reaches the person behind an egg, and not
+the person behind the largest machines ever shipped, has not drawn a line; it has left
+one undrawn.
 
 The asymmetry is sharpest in computer-crime law. A private individual who gains
 unauthorized access to a protected computer commits a federal felony carrying years of
@@ -653,9 +661,10 @@ price they can pay. What they demonstrably fear, and have paid extraordinary sum
 avoid, is personal liability.
 
 So this project drafted the missing law: fourteen sections, cited, with drafting
-notes, free for any state to adopt. A doctrine that imprisons executives for harms they
-had the authority to prevent has existed since 1975. This is its application to frontier
-AI. The principle throughout: authority entails liability.
+notes, free for any state to adopt. The doctrine it extends has imprisoned executives
+for harms they had the authority to prevent since 1975; frontier AI is simply the
+first industry the extension has not yet reached. The principle throughout: authority
+entails liability.
 
 <a id="the-precedents"></a>
 ### The precedents
@@ -741,11 +750,11 @@ For an individual, criminal copyright infringement still carries up to five year
 offense. The offense was never the act; it was the act without a corporate structure
 around it.
 
-**And the tradition is already being reached for.** In August 2026, members of Congress
+**And the tradition is already being reached for. In August 2026, members of Congress
 called for the chief executives of the largest AI companies to answer questions under
-oath — a letter, not yet a subpoena, but the grammar of 1943: personal accountability for
-the officers with authority. The full record, with every signatory, is in
-[the dossier](./dossier/README.md#chapter-03).
+oath; the letters, with every signatory, are in the dossier. A letter is not yet a
+subpoena — but the grammar is 1943's: personal accountability, asked of the officers
+with authority, before any statute exists to require it.
 
 <a id="what-the-act-provides"></a>
 ### What the Act provides
