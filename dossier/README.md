@@ -65,6 +65,19 @@ certification duties they carry, are what a measurable version of that debate wo
 on. If this objection keeps arriving in this register, it earns a seat on the question
 ladder at the next Q&A pass.
 
+**One incident the front page uses and this file does not carry.** The root README twice
+cites an operation in which a person used commercial models to breach nine Mexican
+government agencies, the models executing roughly three-quarters of the commands, and
+contrasts that person's prosecution with the blog posts that followed the laboratories'
+own model-initiated breaches. That contrast is doing real work in the argument — it is
+the CFAA asymmetry in one sentence — and chapter 02's timeline does not include the
+incident. The chapter is sealed and byte-preserved, so the entry cannot be added to it;
+this note records the gap instead. Until the incident is pinned here to a first-party or
+named-press source with a date, the claim rests on the root README alone, which is a
+weaker footing than every other incident in this project. Two dispositions are open and
+both are honest: pin it at the next dossier pass, or strike the sentence from the README
+and let the laboratories' own three disclosures carry the asymmetry unaided.
+
 **The dated watch.** Chapter 03 sets a re-sweep for on or after **25 August 2026** — the
 day after the congressional response deadline of 24 August. Whether OpenAI and Anthropic
 answer, and what they concede, bears on SEC. 6, SEC. 9, and SEC. 12; silence is itself the
