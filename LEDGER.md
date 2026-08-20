@@ -136,7 +136,7 @@ own file forbids.
 
 **The claim.** The front page's Recent entry and its contents table both described the
 reading notes as "the predecessor comment file **read end to end**" reporting "the element
-**none of them** names," of "the 51 comments." The [standing watch](../audit/standing_watch_2026-08-20.md)
+**none of them** names," of "the 51 comments." The [standing watch](./audit/standing_watch_2026-08-20.md)
 made it the punchline of its headline finding: "fifty-one commenters named no upstream
 person, and four frontier statutes name none either. Two independent evidence bases, the
 same vacancy." The diary carried the same sentence.
