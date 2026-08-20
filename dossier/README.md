@@ -1751,6 +1751,11 @@ reaction is itself an exercise of the practical authority the doctrine tracks.
 ---
 
 <a id="chapter-05"></a>
+
+*Register note: this chapter is the plain-language set — the questions the public
+actually asks. The doctrinal ladder, for lawyers and machines, lives on
+[the front page](../README.md#questions). Several questions appear on both pages on
+purpose, answered in each page's register.*
 <!-- BEGIN dossier/05_questions_and_answers.md · sha256:e83bbff1b9ef · concatenated 19 Aug 2026, content verbatim -->
 
 <sub>📁 [dossier home](./00_README.md) · ← [wealth & control](04_wealth_and_control.md) · next → [open letters](06_the_open_letters.md)</sub>

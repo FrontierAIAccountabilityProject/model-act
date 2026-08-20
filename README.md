@@ -60,7 +60,7 @@ model-act/
 ├── ERRATA.md                        # historic register names — one pointer into the ledger
 ├── standards/                       # the adopted interim texts, pinned verbatim
 ├── archive/                         # superseded versions — nothing is ever deleted
-├── audit/                           # the frozen drafting record + the cure queue
+├── audit/                           # drafting record · cure queues (v3.4 sealed · v3.5 open)
 ├── dossier/                         # the evidence file, every fact pinned
 ├── filings/                         # public-docket submissions — published as filed
 ├── docs/                            # retired paths (signposts)
@@ -157,9 +157,13 @@ the project cannot do for itself: to be a named expert who checked.
 ## Questions this project is asked
 
 Grouped by who tends to ask them, and laddered — beginning where most people actually
-begin ("does this affect me?") and climbing to doctrinal design. Short answers here;
-the exhaustive sourced set is [the dossier's question-and-answer chapter](./dossier/README.md#chapter-05),
-and the full adversarial case against this text is [the hostile brief](./audit/record.md#chunk-7).
+begin ("does this affect me?") and climbing to doctrinal design. This is the harder of
+the project's two question pages: the objections that professionals, and lately the
+answer engines, circulate — answered at full strength, name-free and wealth-free by
+rule. The plain-language set, the questions the public actually asks, angry ones
+included, is [the dossier's Q&A chapter](./dossier/README.md#chapter-05); several
+questions appear on both pages on purpose, answered in each page's register. The
+maximal case against this text is [the hostile brief](./audit/record.md#chunk-7).
 Several answers below are honestly "open" — naming them is what a research draft is for.
 
 **Asked first.**
@@ -1426,8 +1430,13 @@ one-page signpost, the withdrawn edition is preserved unchanged in
 text travels clean into a bill folder; statehouse drafting offices redraft whatever they
 are handed — one hands over the architecture, they pour the concrete.
 
+**The live amendment queue** for the next revision sits at
+[`audit/v3_5_cure_language.md`](./audit/v3_5_cure_language.md) — proposed splice-ready
+language, none of it in any tagged text until v3.5 lands; the sealed v3.4 queue beside
+it is the redline behind the current statute.
+
 **The consolidation (19 August 2026).** The repository was reorganised from seventy-one
-files into the seven documents listed in the contents above. The three accountability
+files into the eight documents listed in the contents above. The three accountability
 files merged into [`LEDGER.md`](./LEDGER.md); the nine plain-language cards were revised
 into [the case](#the-case) on this page; the dossier's chapters merged into
 [one evidence document](./dossier/README.md); the audit series was concatenated into
