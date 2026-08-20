@@ -10,18 +10,18 @@ title: "Model Act — Frontier AI Public Welfare Offenses"
 abstract: >-
   A public-domain model state criminal statute applying the responsible corporate
   officer doctrine — United States v. Dotterweich, 320 U.S. 277 (1943), and United
-  States v. Park, 421 U.S. 658 (1975) — to frontier artificial intelligence:
-  personal, non-delegable duties for the officers of developers of models trained
-  above a bracketed 10^26-operation threshold. The base individual offense follows
-  practical power over the relevant risk plus failure of due care, without requiring
-  actual knowledge; knowing or wilful conduct changes the tier. Separate strict entity
-  liability neither substitutes for personal liability nor permits the company to
-  insure, indemnify, reimburse, or otherwise absorb an individual's penalty. Fourteen
-  sections (SEC. 0–13) with
-  drafting notes, draft implementing regulations, a complete public drafting record
-  including a hostile brief built against the text, and an append-only register of
-  the project's own errata. Drafted in public by one maintainer with AI assistance
-  disclosed. Never enacted; no completed review is claimed.
+  States v. Park, 421 U.S. 658 (1975) — to frontier artificial intelligence. It
+  assigns personal, non-delegable duties to natural persons with final material
+  authority and practical power over the relevant risk. A covered frontier model
+  exceeds a bracketed 10^26-operation threshold or is prospectively designated as
+  frontier-equivalent; specified records duties begin at a lower threshold. The base
+  individual offense requires failure to exercise due care and does not require
+  actual knowledge; knowing or wilful conduct changes the tier. Separate entity
+  liability neither substitutes for personal liability nor permits a company to
+  insure, indemnify, reimburse, or otherwise absorb an individual’s penalty. The
+  project includes fourteen statutory sections, drafting notes, draft regulations,
+  a public audit record, and an append-only errata register. Drafted with AI
+  assistance disclosed. Research draft; never enacted; no completed review claimed.
 type: software
 doi: 10.5281/zenodo.22029795
 version: "3.4.2"
