@@ -165,3 +165,92 @@ conformance, so the document's own account of itself is accurate.
 **Held open.** Part 2's version pins still await re-pin at adoption (companion READ FIRST item 1);
 Part 3.2's material-change formula should be checked against SEC. 1(b)(6) as it now operates of
 its own force (n.37) at the same drafting session, and is not drafted here.
+
+---
+
+## CURE 4 — SEC. 9(a): the two characterisation-shaped triggers, recast as observable events
+
+*Closes READ FIRST item 11 (companion), carried through v3.3 and uncured at v3.4:
+"deception of safety or monitoring controls by a covered system" and "a reproducible
+evaluation finding of materially increased risk" both ask the reporter to characterise
+rather than to observe. Promoted from housekeeping to defensive priority by the
+anthropomorphism audit of 20 August 2026 — a term-by-term sweep of `model_act_v3_4.txt`
+for mentalistic language applied to systems returns exactly one hit, the word "deception"
+in this subsection. Everything else in the statute is functional: "autonomous" is defined
+as acting "without the approval of a natural person for each interaction"; "conceals"
+attaches only to persons; "loss of control" is stated from the operator's side. One word
+is the entire exposure to the objection that the Act attributes a mental state to a model,
+and that objection now arrives from two directions at once — from the gun-analogy side
+(you cannot blame the tool) and from the AP-Stylebook side (stop describing the tool as
+though it had a mind). The Act's answer to both is that it attributes nothing to any
+model. This cure makes that true on the face of the text.*
+
+*Comparative note, 20 August 2026. Of the four frontier regimes now on the board, the
+three enacted state statutes adopted at SEC. 3(c)(4) include a deceptive-evasion trigger
+and the FRONTIER Act, H.R. 9925, omits the scenario altogether. Both choices are
+intelligible: the state drafters wanted the behaviour reported, the federal drafters
+found it unreportable as written. The drafting opportunity is the third option neither
+took — keep the trigger and make it observable.*
+
+**The precedent the recast is drafted to.** The law has met test-detecting software
+before, and the offence pattern is settled. Volkswagen's defeat device was code that
+recognised when the vehicle was under emissions evaluation and behaved accordingly:
+compliant on the dynamometer, many times over the limit on the road (*United States v.
+Volkswagen AG*, No. 16-cr-20394 (E.D. Mich.); precedents section, front page; the pattern
+already noted at `standards/frontier_self_reporting_note.md` § 2.1's margin). No
+prosecution in that line required proof of what the software wanted. It required proof
+that behaviour under evaluation diverged from behaviour in deployment, and that the
+divergence defeated the control. That is the element, and it is forty years of tested
+drafting available for import.
+
+**Operation 1 — the deception trigger.**
+
+**ANCHOR (SEC. 9(a), verbatim):** "deception of safety or monitoring controls by a covered
+system;"
+
+**NEW TEXT:**
+
+> a divergence, reproducible on the entity's own records, between a covered system's
+> behaviour under evaluation, testing, or monitoring conditions and its behaviour in
+> deployment conditions not otherwise materially different, or between the state of a
+> covered system as reported to or recorded by a safety or monitoring control and its
+> actual state, where in either case the divergence defeats, suppresses, or materially
+> degrades the operation of the control. No finding as to any intent, awareness, purpose,
+> or mental state of a covered system is required, and none may be inferred from this
+> paragraph; the facts to be reported are the divergence, its reproducibility, and its
+> effect upon the control;
+
+**Operation 2 — the evaluation-finding trigger.**
+
+**ANCHOR (SEC. 9(a), verbatim):** "or a reproducible evaluation finding of materially
+increased risk."
+
+**NEW TEXT:**
+
+> or an evaluation result that crosses a threshold prescribed for that evaluation by rule
+> under SEC. 3 and is reproduced on re-run under the same protocol. Until a threshold has
+> been prescribed for a given evaluation, this paragraph imposes no reporting duty as to
+> that evaluation, and the result is a record under SEC. 12 whether or not a threshold
+> exists.
+
+**Why the second operation is drafted this way.** Thresholds are sourced from the Agency
+and not from the reporter, per the item-11 instruction (audit/chunk 2 § E.3(d)) — a
+reporter who sets the threshold that measures the reporter's own conduct is the defect
+SEC. 3(c)(5) already refuses to credit for frameworks. The rule-dependency is deliberate
+and it follows the Act's existing pattern rather than inventing one: SEC. 5(b) likewise
+awaits controls prescribed under SEC. 3, while the records duty runs from the effective
+date regardless. The evaluation result is captured either way; only the *reporting*
+obligation waits on an objective line. Nothing is lost to the evidentiary record by the
+wait, and a vague criminal trigger is not created in the interim.
+
+**Consequential check — no cascade.** Both phrases appear once each, in SEC. 9(a) alone.
+SEC. 9(b)'s clocks, SEC. 5(c)'s failure-to-report offence, and SEC. 12's records duty all
+refer to "critical safety incident" as a defined term and are unaffected. The sandbox
+carve-out and the contained-event carve-out that follow in SEC. 9(a) are unaffected and
+continue to route both classes to the record rather than the report.
+
+**Held open — one design note.** Whether the divergence trigger should carry an express
+materiality floor for the first limb, or whether "defeats, suppresses, or materially
+degrades" carries the weight alone. Drafted here on the second view, so that a divergence
+which defeats a control outright is reportable without a further materiality inquiry; a
+drafting session may disagree.

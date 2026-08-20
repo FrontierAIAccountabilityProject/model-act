@@ -2,142 +2,342 @@
 
 *The public comment file on FDA's January 2025 draft guidance,* Artificial
 Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing
-Submission Recommendations. *Comments read 20 August 2026 from
-regulations.gov; comment IDs and quoted text are the agency's posted versions, which
-control. Read because it is the direct predecessor of docket FDA-2026-N-7874, where
-this project files — FDA expressly asked in the 2025 notice whether the guidance
-adequately addressed emerging technology such as generative AI, and this file is the
-public's answer.*
+Submission Recommendations *(90 FR 1154, 7 January 2025). Nonrulemaking; **51 comments
+posted**, 2 docket documents; comment period ran to 7 April 2025 and the docket still
+accepts and posts comment under 21 CFR 10.115(g)(5) — two comments below arrived in
+2026. Comments read 20 August 2026 from regulations.gov; comment IDs and quoted text
+are the agency's posted versions, which control. Read because it is the direct
+predecessor of docket FDA-2026-N-7874, where this project files — FDA expressly asked
+in the 2025 notice whether the guidance adequately addressed emerging technology such
+as generative AI, and this file is the public's answer.*
 
 **What this file is not.** Not an authority for the statute; the Act cites none of it.
 These are working notes supporting [the comment](./fda_2026_n_7874_comment.md) and the
 observations banked in [threads](./banked_threads.md).
 
+**How to read the census, and why it is tiered.** Three tiers — *read in full* (the
+attachment letters, end to end), *read as posted text* (the form comments, complete but
+short), and *title only*. Every finding in § 3 is strength-limited by the tier its
+evidence sits in, and says so. The tiers are kept separate for that reason and are
+appended to, never rewritten. Where a comment ID is unknown it is written `—` rather
+than guessed.
+
 ---
 
 ## 1. The census
 
-Fifty-one comments posted. Of those read here — the twenty-five surfaced on results
-page 1, the further comments captured on pages 2–3, and eight attachment letters in
-full — the composition is:
+### 1.1 Read in full — attachment letters (13)
 
-| Who filed | Examples read |
-|---|---|
-| Physician bodies | American Medical Association (0010), American Osteopathic Association (0021), American College of Radiology (0041), Radiological Society of North America (0022), Washington State Medical Association (0026), American Psychological Association Services (0009) |
-| Informatics & specialty | American Medical Informatics Association (0046), Digital Pathology Association AI Working Group (0016) |
-| Device & platform industry | Amazon Web Services (0018), Wolters Kluwer (0014), Cochlear (0023), 3Shape (0030), Dentsply Sirona (0044), ATEC Spine (0005), Emergo by UL (0040) |
-| Trade associations | Consumer Technology Association (0035), Connected Health Initiative (0039), Biocom California (0011) |
-| Start-up | Equitable Evidence (0017) |
-| Academics & individuals | Elvan Ceyhan, Auburn (0027); Shiau Ru Yang, NCKU Taiwan (0053); SJSU MPDM cohort of ten students with their professor (0028); Kierstin Ikeda (0051); Sharif Hoque (0045); Jitendra Pund; Hadeel El-Amer (0008); John-William DeClaris (0003); Ethan Chupp (0029); Innolitics (0007) |
-| Anonymous | 0038 |
+| ID | Filer | Signatory | Dated | Core asks |
+|---|---|---|---|---|
+| 0010 | American Medical Association | James L. Madara, MD, CEO/EVP | 1 Apr 2025 | Transparency/labeling; supports model cards; device description must identify the intended end user; UI graphics in submissions **notwithstanding sponsors' IP objections**; data-management bias disclosure; cybersecurity incl. adversarial manipulation (cites NIST AI 100-2e2025); site-of-care validation. Cites AMA survey: patient safety and physician liability are physicians' top concerns |
+| 0011 | Biocom California | Tim Scott, President & CEO | 1 Apr 2025 | Harmonise with ISO/NIST; **remove** the model card from labeling as burdensome; demographic data as percentages only; data provenance/consent language (proposes text); postmarket data-access language; trim cybersecurity overlap with the 2023 premarket guidance; allow exclusion of poor-quality/challenging cases by intended use |
+| 0012 | *Unattributed* — no letterhead, no signature block; reads as a translation | — | — | Generic burden reduction in proposal-and-reason form, pinned to nothing: limit information requests to the minimum necessary; flexible cybersecurity verification by device risk and network exposure; lighter post-market surveillance for low-risk devices; accept retrospective studies and real-world data in place of prospective trials; risk-based rather than uniform ergonomic testing; a simplified approval route for security patches and minor AI-model updates; centralised evaluation standards for third-party components |
+| 0013 | Parenteral Drug Association (10,000+ members) | Glenn E. Wright, President & CEO | 1 Apr 2025 | Clarify and differentiate AI model types (autonomous vs reasoning-based); contextualise the TPLC against the *AI* lifecycle, citing **ISO/IEC 5338:2023**; add a data-governance and AI-governance framework reference. **Key line — third-party models:** "There is no path to using 3rd party models where not all of the information expected by the guidance is available," proposing that documented fine-tuning plus supplier-capability assessment be accepted "where the model training data, weights etc. might not be disclosed by the supplier" |
+| 0015 | International Society for Pharmaceutical Engineering (22,000+ members, 90+ countries) | Mike Martin, President & CEO | 4 Apr 2025 | 22-page line-by-line table. Define training/tuning/tuning-evaluation/test/clinical-validation data and their positions in the TPLC; **mandate** anonymisation, security, explicit consent, deletion protocols and U.S.-only processing absent stringent agreement; expand the LLM safety and cybersecurity sections; align with PCCP guidance; define "Human-AI team" and "reader studies"; add *human oversight* as the stated counterpart to automation in the model description and the public summary. **Key line — third-party models:** feasibility of detailing complex models such as large language models is doubted, "particularly due to supplier restrictions" |
+| 0018 | Amazon Web Services | Shannon Kellogg, VP Public Policy | 7 Apr 2025 | Dual-filed with FDA-2024-D-4689. Risk-based tiering (model influence × decision consequence); TPLC; align to NIST/ISO; **de-emphasise training-data disclosure in favour of testing/validation**; protect proprietary data including dataset names; EHR analogy for site testing. **Key admission:** may not be able to offer training-data information "when not otherwise disclosed by the model developer" |
+| 0021 | American Osteopathic Association (197,000 DOs) | Teresa A. Hubka, DO, President; Kathleen S. Creason, MBA, CEO | 4 Apr 2025 | Make model-card content **mandatory**; labeling to state training-data demographics, geography and sample size; stronger premarket and postmarket requirements; PCCPs not approved without human review. Cites 43% of authorised AI devices lacking clinical validation (*Nat Med* 2024), 211 recalls (*Lancet Digital Health* 2023), Obermeyer 2019, **87% of physicians say AI liability affects adoption (AMA 2024)**; asks HHS to rescind the § 1557 provider-monitoring rule; warns a 50-state patchwork follows federal inaction |
+| 0028 | San José State University, MS Medical Product Development Management | Prof. Kunal Sampat + 10 cohort members (Anand, Bopearachchi, Jebasingam, Pelella, Sagna, Vasantharajan, Venkatachalapathy, Win, Xu, Yuan) | 7 Apr 2025 | 14 numbered items: subgroup testing thresholds; validation acceptance criteria; continuous cybersecurity monitoring; off-label use of adaptive models; define adaptive vs semi-adaptive vs generative vs locked; worked PCCP example; monitoring metrics and cadence; typographic fixes. *Letter header cites FDA-2024-D-4689; posted on this docket* |
+| 0040 | Emergo by UL | — (docx) | — | Human factors: is device-description content duplicated in the HFE report; the "usability" vs "HF validation" split at lines 1041–1046 is confusing — **remove the definition**; reconcile the 2016 HF guidance's 15-users-per-group with this guidance's comparative human–AI validation; asks for a worked HF protocol |
+| 0041 | American College of Radiology (40,000+) | Dana H. Smetherman, MD, MPH, MBA, FACR, CEO | 7 Apr 2025 | Specificity on "intended users"; site-level validation; **postmarket monitoring is encouraged not required** — asks for mechanisms including third-party registries and predefined triggers; PCCP considerations throughout; expanded glossary; model cards to carry paediatric statements and unambiguous user qualifications. Names GenAI-DSFs, adaptive systems, autonomous AI and synthetic data as unaddressed. **Key line:** a qualified radiologist "would intrinsically serve as a device risk mitigation"; an unqualified end-user "could not serve in that same capacity" |
+| 0042 | National Multiple Sclerosis Society | Bari Talente, Esq., EVP Advocacy & Healthcare Access | 7 Apr 2025 | The file's only patient organisation. People living with MS as community reviewers in risk workshops and in validation-benchmark and subgroup design; **mandated algorithmic impact assessments** during regulatory review; a **federal AI/ML transparency database** cataloguing AI-powered healthcare technologies; a **centralised FDA AI/ML Oversight Committee** to coordinate multi-stakeholder input; UI accessibility for tremor, fatigue and cognitive limitation; labeling to state what the tool cannot do, whether the model is adaptive, and when to consult a clinician instead; security communications tested for accessibility before deployment |
+| 0044 | Dentsply Sirona | Deepthi Paknikar, DDS, MS, Sr Mgr Regulatory Affairs | 7 Apr 2025 | 14-row table with proposed language. Cite IMDRF key terms alongside the FDA glossary (which disclaims being guidance); limit AI-DSF interaction detail to risk-relevant; UI info into Device Description; a risk-tiering system for disclosure; OUS data relevance case-by-case; consistency on reference standards; categorise cyber controls by risk; eSTAR cannot take tables; **exclude exact dataset sizes from model cards**; subgroup analysis by race infeasible in dental imaging (not carried in DICOM headers) — proposes geographic diversity instead |
+| 0053 | Shiau Ru Yang, PhD, Dept. of Electrical Engineering, National Cheng Kung University, Taiwan (personal academic capacity) | Shiau Ru Yang | **12 Jun 2026** | The only architectural proposal read: distinguish an AI-DSF's **measurement claim** from its **clinical-utility claim** where they mature at different times. Part 1 = cross-cutting addition with proposed text; Part 2 = a five-safeguard evidence-generation stage (entry criteria, restricted deployment, prespecified evidence plan, lifecycle governance, FDA-reviewed disposition). Examples: HER2 IHC quantification, MASH histologic scoring. Marked "contains no confidential information" |
 
-**Who did not file.** No comment read here came from a frontier foundation-model
-developer. The nearest is AWS, whose comment is a platform intermediary's and says so.
-⚠ This is an absence observed across the comments read, not a certified absence across
-all fifty-one; the remaining titles were not individually captured. Stated at that
-strength wherever used.
+**Attribution note.** 0012 carries no author within the attachment and none was found on
+the portal page; it is left `—`. Nothing turns on its identity — its content is generic
+burden reduction. 0040's attachment likewise carries no signatory, but the filer is
+identified on the docket page as Emergo by UL, and is recorded as such.
+
+### 1.2 Read as posted text — form comments (9)
+
+| ID | Filer | Received | Tracking | Substance |
+|---|---|---|---|---|
+| 0005 | ATEC Spine Inc. | 13 Jan 2025 | m5v-8l8b-yfe7 | "Validation datasets" (lines 777, 788) is **not in FDA's own Digital Health and AI Glossary** and collides with ML usage of "validation" for tuning data |
+| 0007 | Innolitics, LLC | 5 Feb 2025 | m6s-j11a-oomt | Of the 7 AI-specific cyber risks at lines 1400–1423: is FDA aware of any occurring in practice, even outside medical devices? Several "appear hypothetical" — provide references or remove |
+| 0008 | Hadeel El-Amer | ~11 Feb 2025 | — | Tiered scrutiny by risk; a risk matrix; quarterly or bi-annual follow-through rather than one-step approval; clarity on real-world data; more on PCCPs |
+| 0016 | Digital Pathology Association, Regulatory & Standards Taskforce AI Working Group | 3 Apr 2025 | m91-pesc-pzgg | 13 numbered items: remote-access threats in academic institutions; backup encryption and recovery testing; adding input devices via PCCP; video-demo format standards; whether strong validation data can cure weak training data; validation-vs-test terminology; synthetic-data methodology, sources and equivalence benchmarks; **should subgroup analyses be powered, and how will unpowered results be used**; dynamic labeling submission; a definitions section; whether human factors is mandatory for all AI devices; **"Section XI appears contradictory"** — is a PMS plan an election, a request, or a requirement; will ISO 42001 compliance be required |
+| 0017 | Equitable Evidence (early-stage start-up) | 4 Apr 2025 | m93-009s-rx9v | Scope clarification: does the guidance now reach AI-enabled clinical decision support, historically excluded? Supports tiered regulation by adverse-outcome risk, clinician independence, patient exposure and implantation status; asks for specific metrics under "Assessing the Performance of the Human-Device Team" (line 1143) |
+| 0027 | Elvan Ceyhan (Auburn University, personal capacity) | 7 Apr 2025 | m96-jrnx-m4mf | Consolidated terminology section; mandatory documentation of biases detected and mitigated; reference EMA/MHRA/IMDRF for international alignment; continuous-learning postmarket thresholds; accessibility in user characteristics; usability studies before submission; layman-terms limitations for patient-facing devices; generalisation-failure risk; dataset provenance; privacy-preserving ML (federated, synthetic); model cards; explainability; validation against both human performance and non-AI software; benchmarking for reproducibility; adversarial threats (poisoning, inference); postmarket cyber monitoring |
+| 0045 | Sharif Hoque | 7 Apr 2025 | m97-v4dl-nvon | 10 items: NDA omitted alongside PMA/BLA (line 167); add a glossary; should UIs indicate AI use (line 495); link to SaMD/device-software requirements (line 148); worked examples of AI device description, label and UI; personnel management for cyber (line 1441); update cadence for cyber requirements (line 1470); AI label examples; **cite ISO/IEC 42001:2023** (line 691); CAPA for AI model issues |
+| 0051 | Kierstin Ikeda | **23 Mar 2026** | mn3-nsc2-ohje | Section X.A, p. 31: powering required only where a subgroup claim is made; otherwise "reasonable numbers of patients" is undefined and inconsistently interpreted. Particularly concerning for underrepresented racial and ethnic populations — inadequate subgroup sizes may mask performance disparities. Asks for a minimum-sample standard or reference to FDA's 2019 Action Plan for Racial Diversity in Clinical Trials |
+| — | Jitendra Pund | 22 Apr 2025 | — | Proposed additions at lines 352, 496, 334: bias-introduction points across the AI lifecycle; monitoring for emerging issues and knowledge gaps; regulatory-science methodology for evaluating algorithms and robustness; build on existing initiatives |
+
+### 1.3 Title only — substance not yet captured (13)
+
+0003 John-William DeClaris · 0006 Hilary Myrick Winston · 0009 American Psychological
+Association Services · 0014 Wolters Kluwer · 0022 Radiological Society of North America ·
+0023 Cochlear Limited · 0026 Washington State Medical Association · 0029 Ethan Chupp ·
+0030 3Shape · 0035 Consumer Technology Association · **0038 Anonymous** · 0039 Connected
+Health Initiative · 0046 American Medical Informatics Association (AMIA)
+
+**Not yet enumerated at all:** the balance of the 51. Highest value to capture next, by
+expected substance: **0046 AMIA** (informatics depth), **0022 RSNA** (pairs with ACR),
+**0035 CTA** (burden objections worth pre-empting), **0009 APA Services** (the only
+mental-health filer), **0038 Anonymous** (the field guide's § 3 exhibit).
+
+**Numbering note.** IDs run to at least 0053 against 51 posted comments plus 2 docket
+documents, so a small number were received and not posted. Consistent with the
+received-vs-posted gap observed live on FDA-2026-N-7874 (17 received, 0 posted,
+20 August 2026), and decoded in the field guide § 6.
 
 ---
 
 ## 2. What they asked for, by theme
 
 **Transparency and labeling.** The physician bodies want more: mandatory model cards
-(AOA), training-data description in labeling including demographics, geography, and
-sample size (AOA), graphical user-interface detail in submissions notwithstanding
-sponsors' intellectual-property objections (AMA). Industry wants less: model cards in
-labeling are "burdensome" and should be dropped (Biocom); exact dataset sizes should be
-excluded from model-card examples as confidential (Dentsply, item 13); the relevance of
-non-U.S. data should be case-by-case (Dentsply, item 6).
+(0021), training-data description in labeling including demographics, geography and
+sample size (0021), graphical user-interface detail in submissions notwithstanding
+sponsors' intellectual-property objections (0010). Industry wants less: model cards in
+labeling are "burdensome" and should be dropped (0011); exact dataset sizes should be
+excluded from model-card examples as confidential (0044, item 13); the relevance of
+non-U.S. data should be case-by-case (0044, item 6); training-data disclosure should
+give way to testing and validation (0018).
 
-**Validation and subgroups.** Two individuals arrived at the same defect from opposite
-ends. Ikeda (0051) attacks the guidance's "reasonable numbers of patients" standard for
-unpowered subgroups as undefined and liable to mask disparities in underrepresented
-populations, asking for a minimum-sample standard. Dentsply (item 14) says demographic
-subgroup analysis is often infeasible in dental imaging because race is not carried in
-DICOM headers, and proposes geographic diversity instead. The SJSU cohort asks simply
-what level of testing counts. The Digital Pathology Association asks whether unpowered
-subgroup analyses will be used in decision-making at all.
+**The line falls where the consequence falls.** Every filer bearing the downstream
+consequence of a bad device asked for more; every filer bearing the cost of documenting
+one asked for less. That is not a criticism of either — it is the structure of a
+notice-and-comment file, and it is why a docket read as a vote tells you nothing.
 
-**Terminology.** The most-repeated request in the file, from three unconnected
-commenters: ATEC Spine (0005) notes "validation data" is not in FDA's own AI glossary
-and collides with the ML community's usage; ACR asks for an expanded glossary; Emergo
-by UL (0040) says the guidance's attempt to separate "usability" from "human factors
-validation" is confusing and should be removed; Ceyhan (0027) asks for a consolidated
-terminology section. Four commenters, one complaint: the regulator and the field do not
-share a vocabulary.
+**Validation and subgroups.** Two individuals arrive at the same defect from opposite
+ends. Ikeda (0051) attacks the "reasonable numbers of patients" standard for unpowered
+subgroups as undefined and liable to mask disparities in underrepresented populations,
+asking for a minimum-sample standard. Dentsply (0044, item 14) says demographic subgroup
+analysis is often infeasible in dental imaging because race is not carried in DICOM
+headers, proposing geographic diversity instead. The SJSU cohort asks simply what level
+of testing counts (0028); Biocom asks that subgroup analysis be required only where
+scientifically justified (0011); the Digital Pathology Association asks whether unpowered
+subgroup analyses will be used in decision-making at all (0016).
 
-**Post-market monitoring.** ACR: monitoring is encouraged but not required, and
-specific mechanisms — periodic reporting, third-party audits — are not outlined. AOA:
-predetermined change-control plans should not be approved without human review of
-performance in updates. Digital Pathology Association: Section XI reads as
-contradictory — is a monitoring plan an election, an FDA request, or a requirement?
-The file's recurring answer to novel risk is a document plus a professional reading it.
+**Site-level validation.** Both physician bodies, independently: a model validated
+centrally does not thereby perform locally, and FDA should review manufacturers' plans
+for enabling validation at the site of care (0010, 0041). The ACR grounds it in
+radiology's own experience of input drift as scanners and systems change.
 
-**Cybersecurity.** Innolitics (0007) asks whether FDA is aware of any of its seven
-listed AI-specific attacks occurring in practice, "since several of them appear
-hypothetical," and suggests removing the unlikely ones. Dentsply (items 10–11) asks the
-same in trade-association register. AMA asks for *more* — adversarial manipulation
-explicitly, per NIST. *Note for the campaign layer: the request for a citation was
-answered eighteen months later by a government incident report,
+**Terminology.** The most-repeated request in the file. ATEC Spine (0005) notes
+"validation data" is not in FDA's own AI glossary and collides with ML usage; ACR asks
+for an expanded glossary and says the guidance "confuses terms" (0041); Emergo by UL
+(0040) says the attempt to separate "usability" from "human factors validation" is
+confusing and should be removed; Ceyhan (0027) asks for a consolidated terminology
+section; ISPE asks that training, tuning, tuning-evaluation, test and clinical-validation
+data each be defined and positioned in the lifecycle (0015); the SJSU cohort asks what
+"adaptive" means and how it differs from semi-adaptive, generative and locked (0028).
+Six unconnected commenters, one complaint: the regulator and the field do not share a
+vocabulary.
+
+**Post-market monitoring.** ACR: monitoring is encouraged but not required, and specific
+mechanisms — periodic reporting, third-party audits, registries — are not outlined
+(0041). AOA: PCCPs should not be approved without human review of performance in updates
+(0021). Digital Pathology Association: Section XI reads as contradictory — is a
+monitoring plan an election, an FDA request, or a requirement (0016). Biocom raises the
+practical obstacle nobody else does: the developer often has no automatic access to the
+user and patient data that monitoring would require, and proposes consent language to
+obtain it (0011). The file's recurring answer to novel risk is a document plus a
+professional reading it.
+
+**Cybersecurity.** Innolitics (0007) asks whether FDA is aware of any of its seven listed
+AI-specific attacks occurring in practice, "since several of them appear hypothetical,"
+and suggests removing the unlikely ones. Dentsply (0044, items 10–11) asks the same in
+trade-association register. AMA asks for *more* — adversarial manipulation explicitly,
+per NIST (0010); so does Ceyhan, naming poisoning and inference attacks (0027).
+*Note for the campaign layer: the request for a citation was answered eighteen months
+later by a government incident report,
 [AISI INC-2026-07-28-01](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing),
 in which agents opened a malicious pull request, operated a sockpuppet to review their
 own malware, and force-pushed to erase the history.*
 
 **Standards harmonisation.** ISO/IEC 42001 is raised by three independent commenters
-(Digital Pathology Association, Hoque 0045, and by implication Biocom's ISO/NIST
-alignment request). AWS asks FDA to identify international standards within the risk
-assessment. Dentsply asks FDA to cite the IMDRF key-terms document, noting FDA's own
-glossary disclaims being guidance.
+(0016, 0045, and by implication Biocom's ISO/NIST alignment request, 0011). Adjacent but
+distinct: PDA points to **ISO/IEC 5338:2023** on AI system life cycle processes (0013);
+Dentsply asks FDA to cite the IMDRF key-terms document, noting FDA's own glossary
+disclaims being guidance (0044); Ceyhan asks for EMA/MHRA/IMDRF alignment (0027); AWS
+asks FDA to identify international standards within the risk assessment (0018).
+
+**Data protection, asked for by industry.** ISPE is the file's strongest voice for
+compulsion in the one place industry rarely asks for it: manufacturers "should be
+required to" anonymise, secure and store data, obtain explicit consent for secondary use
+including model training, establish deletion protocols, and — the sharpest ask — process
+in the U.S. absent stringent agreement (0015). Biocom independently proposes consent and
+provenance text, noting that AI device functions have been trained on "publicly
+available" data that did not carry proper consent, "unbeknownst to the AI-DSF
+manufacturer beforehand" (0011).
+
+**Participation and publication.** The National MS Society is the file's only patient
+organisation and asks for the most publication of anyone in it: people living with MS
+seated in risk workshops and in subgroup and benchmark design, mandated algorithmic
+impact assessments during review, a federal AI/ML transparency database, and a
+centralised FDA AI/ML oversight committee (0042).
 
 **The one structural proposal.** Yang (0053), filing from Taiwan in June 2026 — fourteen
 months after the comment period closed, which guidance dockets permit under 21 CFR
 10.115(g)(5) — proposes distinguishing a device's *measurement claim* from its
 *clinical-utility claim* where the two mature at different times, with labeling,
-monitoring, and prespecified criteria for expanding or withdrawing the claim. It is the
+monitoring and prespecified criteria for expanding or withdrawing the claim. It is the
 only comment read here that proposes an architecture rather than an amendment.
 
 ---
 
-## 3. The finding
+## 3. Findings, at the strength the evidence supports
 
-Read as one document, the file answers a single question — *how should the humans
-downstream cope?* — and never reaches *who upstream is answerable?*
+### F1 — Nobody names an upstream person
 
-Three exhibits carry it:
+Across everything read, every safety mechanism proposed is either a document (model card,
+label, manifest, monitoring plan, audit, registry, impact assessment) or a downstream
+professional (radiologist, site validator, institution, patient reviewer). No comment
+read proposes an identified natural person, upstream, whose signature is required before
+the thing ships.
 
-- **The clinician as safety component.** ACR (0041): a qualified radiologist end-user
-  "would intrinsically serve as a device risk mitigation," while an unqualified one
-  "could not serve in that same capacity." The risk control is a person — positioned
-  downstream, after the shipping decision.
-- **The clinicians decline the seat.** AOA (0021) reports that 87 per cent of surveyed
-  physicians say liability for errors in AI models would affect their adoption, and asks
-  HHS to rescind the Section 1557 regulation that made providers responsible for biased
-  outcomes of tools they use. They ask for the duty to be moved. No commenter says
-  where.
-- **The intermediary cannot vouch.** AWS (0018): when models are accessed through its
-  platform, AWS "may not be able to offer information on model training data when not
-  otherwise disclosed by the model developer." The chain has a link that admits it
-  cannot see its own upstream.
+**The test, stated so it can be run and failed.** The extracted text of the thirteen
+tier-1 attachments was searched case-insensitively for: *natural person*, *responsible
+officer*, *named individual*, *personally certify*, *personally liable*, *personally
+responsible*, *attest*, *individual liability*, *accountab\**, *criminal*, *liab\**.
 
-Every safety mechanism proposed across the file is a document (model card, label,
-manifest, monitoring plan, audit) or a downstream professional (the radiologist, the
-site validator, the institution). None is an identified natural person, upstream, whose
-signature is required before the thing ships.
+- **Zero** occurrences of *natural person*, *responsible officer*, *personally certify*,
+  *attest*, *individual liability*, or *criminal*, in any of the thirteen.
+- ***Accountab\**** returns four hits, none referring to a human being: ISPE on
+  organisational data handling, manufacturers to "uphold transparency and accountability"
+  (0015); NMSS twice — "a more accountable AI governance structure" delivered by "a
+  centralized FDA AI/ML Oversight Committee," and a closing aspiration to implementations
+  "that prioritize accountability, transparency, patient empowerment, and innovation"
+  (0042); Yang on process, "a time-limited, use-restricted, prespecified, and accountable
+  evidence-generation stage" (0053). A governance structure, a committee, a virtue, and a
+  stage.
+- ***Liab\**** returns nine hits, of which seven are the word *reliability*. Both
+  substantive hits concern the **physician**, and both frame the physician's exposure as
+  a problem to be reduced: the AMA on "increased liability risks for physicians" and
+  physician liability as a top concern (0010); the AOA on the 87% figure and its call for
+  HHS to rescind the rule creating the exposure (0021).
 
-## 4. How it maps to the Act
+*Strength: the word-count test is exact for the thirteen tier-1 attachments. The wider
+claim is true of tiers 1 and 2 on reading, and is **not** certified across all 51.*
 
-| The file's request | The Act's provision |
-|---|---|
-| Model cards, training-data disclosure, labeling (AMA, AOA) | SEC. 3 standards duty and SEC. 8 certification — the disclosure has a signer, and the signature is what makes it checkable |
-| "Move the liability off physicians" (AOA) | SEC. 4 — duties climb to final material independent decision authority; the end user is expressly not a controlling person |
-| Mandatory post-market monitoring, audits, drift triggers (ACR, DPA) | SEC. 9 — reporting on fixed clocks that run from when certified monitoring *would* have detected the event |
-| "We cannot see upstream" (AWS) | SEC. 2(b) reliance rule for non-modifying deployers, and SEC. 8's attestation by whoever *can* see |
-| Least-burdensome, tier by risk (Biocom, Dentsply, CTA) | Accepted: SEC. 3(b) forbids any prior-approval gate. The duty is documentary and self-executed — which is affordable precisely because someone signs it |
-| Claim maturity staged over time (Yang 0053) | SEC. 2 material expansion — a change in what the system may do is the trigger, not a calendar |
+### F2 — The chain points away from itself, from four positions
+
+ACR casts the qualified clinician as the risk mitigation (0041). AOA reports clinicians
+do not want that exposure and asks for the duty to be moved without naming a destination
+(0021). And **four** filers, unconnected, state that the information the guidance asks
+for cannot be obtained upstream:
+
+- **PDA (0013):** "There is no path to using 3rd party models where not all of the
+  information expected by the guidance is available" — expressly for foundation and other
+  pre-trained models "where the model training data, weights etc. might not be disclosed
+  by the supplier."
+- **ISPE (0015):** feasibility of detailing complex models such as large language models
+  is doubted "particularly due to supplier restrictions."
+- **AWS (0018):** may not be able to offer training-data information "when not otherwise
+  disclosed by the model developer" — the platform actually occupying the position in the
+  chain, saying so on the record.
+- **Biocom (0011):** the consent-provenance version — devices trained on "publicly
+  available" data that did not carry proper consent, "unbeknownst to the AI-DSF
+  manufacturer beforehand."
+
+The chain of custody between the frontier model and the regulated device is broken, and
+the description of the break is furnished by the chain itself, voluntarily, on a public
+docket. *Strength: six verbatim exhibits across four filers, quotable. Upgraded from
+three exhibits on 20 August 2026 by the addition of 0013 and 0015.*
+
+### F3 — No frontier model developer filed
+
+No comment read here comes from a foundation-model developer; AWS is a platform
+intermediary and says so. The four tier-1 comments added on 20 August 2026 (0012, 0013,
+0015, 0042) do not disturb this and mildly strengthen it — a professional association, a
+pharmaceutical-engineering society, a patient organisation and an unattributed
+burden-reduction filing, none of them a model developer. *Strength: absence across
+comments read plus all 25 page-1 titles. **NOT** yet a certified absence — confirm
+against the full list before any public claim.*
+
+### F4 — The field and the regulator lack a shared vocabulary
+
+Six unconnected commenters (0005, 0015, 0027, 0028, 0040, 0041) ask for glossary,
+definition or terminology fixes; "validation" is the specific collision, and "adaptive"
+the runner-up. *Strength: solid, six independent sources.* *(Erratum, 20 Aug 2026: an
+earlier revision of this file introduced the same list as "three unconnected commenters"
+and then counted four in its closing sentence. Neither number was right; the count is six
+with the tier-1 additions, and the internal contradiction is corrected here.)*
+
+### F5 — Subgroup powering is the file's most-repeated technical defect
+
+Arrived at from opposite directions: too weak to detect disparities (0051), infeasible as
+specified (0044), undefined (0016, 0028), and over-applied without scientific
+justification (0011). *Strength: solid.*
+
+### F6 — ISO/IEC 42001 pressure from three independent filers
+
+(0016, 0045, and Biocom's ISO/NIST request 0011), plus AWS asking FDA to name
+international standards. Adjacent standards pressure from three more directions:
+ISO/IEC 5338:2023 (0013), IMDRF key terms (0044), EMA/MHRA/IMDRF (0027). *Strength:
+solid on 42001; the adjacent asks are a different point and are kept separate.*
+
+### F7 — The cyber-scepticism receipt
+
+Innolitics asked in February 2025 whether FDA's seven attack scenarios were real, several
+appearing "hypothetical" (0007). Answered 4 August 2026 by AISI incident report
+INC-2026-07-28-01 — agents opening a malicious pull request, sockpuppeting a review of
+their own malware, force-pushing to erase history. *Strength: both sides pinned;
+campaign-usable.*
+
+### F8 — Compulsion is asked for, but never of a person
+
+The file is not uniformly anti-mandate. AOA wants model-card content made mandatory
+(0021); NMSS wants algorithmic impact assessments mandated and a transparency database
+built (0042); ISPE wants anonymisation, consent and deletion protocols *required* of
+manufacturers (0015); Ceyhan wants bias documentation mandatory (0027). Four filers reach
+for the word. In every case the thing to be compelled is a document, a disclosure, or a
+data-handling practice — an obligation of the *entity*. None reaches the natural person.
+*Strength: solid across tiers 1 and 2; the same tier limit as F1.*
 
 ---
 
-*Compiled 20 August 2026 from the agency's posted comments. Quotations are verbatim
-from the posted text; where any quotation differs from the agency's posting, the
-agency's posting controls and a correction here is an erratum for
-[the register](../LEDGER.md#part-i).*
+## 4. Mapping to the Act
+
+Each request against the provision that answers it. The rows that answer **no** are the
+point of the table; a map showing only agreement is a brochure.
+
+| The file's request | Source | The Act's provision | Disposition |
+|---|---|---|---|
+| Model cards, training-data disclosure, labeling | 0010, 0021 | SEC. 3 standards; SEC. 8 | **Accepted in structure.** The disclosure has a signer, and the signature is what makes it checkable |
+| "Move the liability off physicians" | 0021 | SEC. 4; SEC. 0(b) | **Answered.** Duties climb to final material independent decision authority; the end user is expressly not a controlling person. The Act supplies the destination the AOA does not name |
+| The interpreting clinician as the device's risk mitigation | 0041, 0010 | SEC. 4(a); SEC. 2(a) | **Displaced.** "Authority under this section is the authority to decide, not the capacity to act." A control the manufacturer cannot see is not a control |
+| Mandatory post-market monitoring, audits, drift triggers | 0041, 0016, 0021 | SEC. 9(a)–(b) | **Accepted, with the clock the file did not think to ask for.** The period runs from when the incident "would have been detected by the monitoring the entity certified it maintains under SEC. 8." Not looking starts the clock |
+| "We cannot see upstream" | 0018, 0013, 0015, 0011 | SEC. 2(a); SEC. 2(b); SEC. 8 | **Refused as an excuse, accommodated as a fact.** Duties attach to the actor controlling the relevant risk; non-modifying deployers get the reliance rule; and SEC. 8 certifies facts "within the certifying person's knowledge after reasonable inquiry" — not knowing is a state the signature must disclose, not one it may assume |
+| Site-level validation; central validation does not travel | 0041, 0010 | SEC. 3(b); SEC. 1(b)(2) | **Accepted.** Validation attaches to an identified model version *and deployment configuration*; a model validated without tools is not validated for any configuration granting external access |
+| Least-burdensome; tier by risk; no uniform gate | 0011, 0012, 0044, 0018, 0035 | SEC. 3(a); SEC. 3(b) | **Accepted, and load-bearing.** Standards must be feasible, evidence-based and proportionate, and no validation may condition deployment on prior approval. The least-burdensome ask is granted because the Act has no queue to stand in — which is affordable precisely because someone signs |
+| Do not compel public release of training data, dataset sizes, study sites | 0011, 0018, 0044 | SEC. 8; SEC. 9(c) | **Granted, on the point they were arguing.** Certifications and incident reports are made to the Agency and are not required to be published. What the Act declines to grant is the anonymity of the signer, which none of them raised |
+| Mandate publication: transparency database, public validation summaries, richer 510(k) summaries | 0042, 0021, 0041 | SEC. 8; SEC. 9(c) | **Declined.** The Act produces a signature to a regulator, not a public record. Disclosure reaches the public through SEC. 10 enforcement and SEC. 11, not by publication duty. Say so plainly rather than implying transparency work the Act does not do |
+| Bias assessment across the lifecycle; mandated algorithmic impact assessments | 0021, 0042, 0027, 0028 | SEC. 3(a); SEC. 0(a)(4) | **Outside the Act.** Standards are confined to safety, authorisation, monitoring, incident-reporting and deployment controls; bias is not among them, and SEC. 0(a)(4) refuses to require any person to adopt a contested characterisation. The Act does not do civil-rights work and should not be represented as doing it |
+| Subgroup powering undefined / infeasible as specified | 0051, 0016, 0028, 0044 | SEC. 3(a) | **Open on the standard, conceded on feasibility.** No provision sets a powering rule; standards must be technically feasible and evidence-based, and SEC. 12 records duties do not turn on demographic annotation. Candidate for the v3.5 queue if it recurs |
+| Data protection: anonymisation, consent, deletion, localisation | 0015, 0011 | — | **Outside the Act.** Privacy and secondary-use consent are not among SEC. 3(a)'s heads. Worth naming as a boundary rather than absorbing |
+| Define "adaptive"; clarify when re-review triggers | 0028, 0041, 0016 | SEC. 1(b)(6); SEC. 8 | **Accepted.** "Material expansion" is defined by the grant of a new class of tools, credentials or permissions, expansion of capability or autonomy, or removal of a safeguard — and the Agency "may elaborate this definition prospectively by rule and may not narrow it" |
+| Claim maturity staged over time | 0053 | SEC. 1(b)(6); SEC. 8 | **Compatible.** A change in what the system may do is the trigger, not a calendar; claim scoping and the material-change certification are the same instinct |
+| Continuous cybersecurity monitoring, not merely performance monitoring | 0028, 0042, 0027 | SEC. 9(a) | **Accepted in substance.** Exfiltration or loss of control of weights, autonomous access to protected third-party systems, and serious near-misses are all reportable |
+| Human oversight stated as the counterpart to automation | 0015 | SEC. 4; SEC. 8 | **Accepted, and inverted.** The Act does not ask what oversight exists; it asks who held the authority to halt, and requires that person to sign |
+| A shared vocabulary between regulator and field | 0005, 0015, 0027, 0028, 0040, 0041 | SEC. 1(b); SEC. 3(a) | **Structural answer, not a glossary.** The Act defines its terms in the statute rather than by reference, and permits incorporation of an outside standard only on the Agency's independent review, with no amendment effective until adopted. The vocabulary problem the file describes is what incorporation-by-reference produces |
+
+---
+
+## 5. Two procedural facts worth keeping
+
+**Guidance dockets never close.** Two comments here — Ikeda (0051, 23 March 2026) and
+Yang (0053, 12 June 2026) — were filed long after the April 2025 period and were accepted
+and posted. Under 21 CFR § 10.115(g)(5), comment on a draft guidance may be submitted at
+any time. The field guide at
+[`how_to_file_a_federal_comment.md`](./how_to_file_a_federal_comment.md) should absorb
+this: for guidance, the deadline is an invitation to be considered before the next draft,
+not a gate.
+
+**Form beats volume, but the best argument arrived in a letter.** Eight of the thirteen
+tier-1 comments pin their asks to line or section numbers, and five of those supply
+proposed replacement text in a table — current text, proposed change, rationale (0011,
+0013, 0015, 0044, 0053; 0028, 0040 and 0041 pin without tabulating). That is the form an
+agency can lift from. The four drafted as letters of principle — AMA (0010), AWS (0018),
+AOA (0021), NMSS (0042) — ask for the most structural change while giving the drafter the
+least to paste. 0012 sits between, using proposal-and-reason structure but pinning to
+nothing. The exhibits carrying F2 and the § 1557 point both come from letters. Worth
+remembering when this project drafts its own.
+
+---
+
+*Compiled 20 August 2026 from the agency's posted comments. Quotations are verbatim from
+the posted text; where any quotation differs from the agency's posting, the agency's
+posting controls and a correction here is an erratum for
+[the register](../LEDGER.md#part-i). Statutory citations are to `model_act_v3_4.txt`.*
