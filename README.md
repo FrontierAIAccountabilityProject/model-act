@@ -58,6 +58,10 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 
 **Recent.** Newest first; every entry links to the artefact, not to a promise.
 
+- **20 Aug 2026** — the docket door gets its manual: [the field guide to filing a federal
+  comment](./filings/how_to_file_a_federal_comment.md) — the identity cards and category
+  codes decoded, the government's own craft sheets pinned, and the one fact that inverts
+  the civic instinct: the process is not a vote.
 - **20 Aug 2026** — the question ladder's comparative answers gain their sources:
   [the receipts file](./standards/comparative_officer_liability.md) pins PRC art. 31,
   § 130 OWiG, and the 1890–91 export-inspection acts, and lists the three claims that
@@ -102,7 +106,7 @@ model-act/
 ├── archive/                         # superseded versions + the print edition and its generator
 ├── audit/                           # drafting record · cure queues (v3.4 sealed · v3.5 open)
 ├── dossier/                         # the evidence file, every fact pinned
-├── filings/                         # public-docket submissions — published as filed
+├── filings/                         # public-docket submissions, published as filed · the field guide
 ├── docs/                            # retired paths (signposts)
 └── pages/                           # the withdrawn typeset's page images
 ```
@@ -123,6 +127,7 @@ archive, or a machine-readable file.
 | [`standards/bracketed_matter.md`](./standards/bracketed_matter.md) | The adopting state's worksheet: every bracketed choice, its section and line, and what the enacted family chose |
 | [`standards/fiscal_note.md`](./standards/fiscal_note.md) | What the Act costs an adopting state: cost drivers traced to provisions, startup apart from steady state, and no revenue in the arithmetic |
 | [`standards/comparative_officer_liability.md`](./standards/comparative_officer_liability.md) | The receipts behind the question ladder's comparative answers — PRC art. 31, § 130 OWiG, and the 1890–91 export-inspection acts, with the claims this project declined to make |
+| [`filings/how_to_file_a_federal_comment.md`](./filings/how_to_file_a_federal_comment.md) | The field guide to regulations.gov — the identity cards, the category codes, the craft, and why the process is not a vote; the federal companion to How a bill is handed over |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
 | [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record — beside it, the [sealed v3.4 queue](./audit/v3_4_cure_language.md) and the [open v3.5 queue](./audit/v3_5_cure_language.md) |
