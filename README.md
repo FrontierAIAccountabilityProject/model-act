@@ -1,6 +1,6 @@
 # Model Act — Frontier AI Public Welfare Offenses
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22029795.svg)](https://doi.org/10.5281/zenodo.22029795)
+**Archived at CERN** · DOI [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795)
 
 Model state legislation applying the **responsible corporate officer doctrine** —
 *United States v. Dotterweich*, 320 U.S. 277 (1943); *United States v. Park*, 421 U.S.
