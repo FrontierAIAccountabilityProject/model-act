@@ -15,11 +15,14 @@ A research draft of a state criminal statute — accountability architecture, no
 punishment for its own sake. The base duty is due care, not strict liability; the
 custodial tiers are maximums, and the single bracketed minimum is expressly held open
 for adopting states. The working instruments are the signature (an officer
-certifies validation before deployment and after material change), the record
+certifies that validation ran — process, not prophecy — before deployment and after
+material change), the record
 (monitoring, incident, and disclosure duties on fixed clocks), disgorgement, and
 disqualification; custodial tiers exist because a fine a firm can pay is a price.
 Liability follows the responsible-corporate-officer standard: the natural person with
-practical power to prevent or correct, whatever the business card says. It reaches
+practical power to prevent or correct, whatever the business card says. Its interim standards are the enacted frontier
+frameworks of California, New York, and Illinois, frozen by date: the Act extends law
+already on the books. It reaches
 only covered frontier systems above the compute threshold; it has been enacted
 nowhere; it claims no completed review; it is public domain. It is drafted by one
 maintainer with AI assistance disclosed, corrected in public, and owned by no one —
@@ -301,6 +304,13 @@ owned; cured at v3.4: the control objectives are restated in the regulations' ow
 words, and the standard is not incorporated. An accountability regime whose rulebook
 sits behind an invoice would be the thing this project exists to end.
 
+*"Nobody will take the safety-officer job if it carries prison exposure."* Liability
+follows authority, not title: an officer without power to halt is not a controlling
+person under SEC. 4, and one with that power is exactly who the duty exists for. The
+signature converts the role from ornamental to load-bearing — a hiring upgrade, not a
+deterrent, for anyone serious. The precedent held: CFOs did not vanish after
+Sarbanes-Oxley; the job stopped being decorative.
+
 **Asked by legislators and staff.**
 
 *Why would my committee touch an anonymous bill?* It never has to be one. What
@@ -356,6 +366,23 @@ complete the day it is transmitted — the seatbelt model, not the drug-approval
 What SEC. 3(b) forbids is the waiting room, which is where delay and capture both
 live.
 
+*"Pass this and the labs simply leave your state."* The duty attaches to deployment in
+or into the State — to the market, not the mailing address. A firm that leaves the
+state's patients, customers, and hospitals has not evaded the Act; it has exited the
+state. Three states have already enacted frontier duties, and the census of departed
+laboratories stands at zero. Conduct is taxed where the harm lands — the one variable
+relocation cannot move.
+
+*"Criminal exposure here just moves the labs overseas — you'd be handing the frontier
+to looser jurisdictions."* The duty never asks where the developer sleeps: it attaches
+to deployment in or into the State, the way long-arm public-welfare law has worked
+since goods first crossed borders. Incorporate anywhere; the moment the system reaches
+this State's users, the duties reach the officers. The exit that actually sheds
+liability is called leaving the American market, and no frontier firm built on
+American capital is taking it — the same firms that predicted flight over the GDPR and
+the EU AI Act complied with both and stayed. The Act regulates at the point of harm
+precisely because the mailing address is the most mobile fact about a company.
+
 **Asked by lawyers.**
 
 *"Hasn't the Supreme Court been moving away from strict criminal liability?"* Yes —
@@ -403,6 +430,14 @@ proximate cause under *Burrage*, per victim, to a jury — the mens rea and stru
 every state already uses between manslaughter and murder. The one bracketed novelty is
 the [two]-year minimum, held open for the criminal-law seat.
 
+*"The behaviour is emergent — you're criminalising outcomes nobody could foresee,
+without mens rea."* The Act criminalises no outcome standing alone. The floor offence
+is failing to run the required checks — process, not prophecy — and a certification
+under SEC. 8 attests that validation ran, never that the future is safe. The harm tier
+demands more, not less: knowing or wilful conduct plus but-for and proximate causation
+under *Burrage*, charged per victim to a jury. Unpredictability is the reason the
+duties exist; it has never been a defence to skipping the pre-flight.
+
 *What about deferred and non-prosecution agreements?* The Act is silent, leaving
 charging discretion where state law puts it. Whether negotiated dispositions should be
 cabined for individual liability — the settlement culture is much of why entity-level
@@ -417,6 +452,12 @@ person who claimed the authority, in writing. The FDCA comparison also cuts back
 — *Park* prosecutions are rare because the exposure works ex ante. Whether SEC. 4
 survives a real charging memo is [the enforcement seat's](#for-the-review-council)
 core question — open, and the seat exists because it is.
+
+*"Your records duties turn emergency patching into evidence tampering."* Backwards on
+the face of the text: remediation is a duty, and the offence is failing to establish,
+maintain, or preserve required records — the manifests, validations, and logs — never
+the act of fixing the system they describe. Patch the model; keep the log of the
+patch. Destroying the record of remediation is the crime. Remediation never was.
 
 *Doesn't banning insurance and indemnification destroy market discipline?* The
 counter-argument is respected: insurers can be private regulators. But insurance
