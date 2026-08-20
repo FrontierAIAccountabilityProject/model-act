@@ -104,6 +104,11 @@ personal criminal liability on the natural persons who hold practical authority 
 frontier AI systems, on the eighty-year-old *Dotterweich–Park* public-welfare
 doctrine. Assembled August 2026.
 
+> **Reading rule:** actual knowledge is not an element of the base individual offense;
+> practical power over the relevant risk plus failure of due care is. Knowledge or
+> wilfulness changes the tier. The entity's separate fine never substitutes for, pays,
+> insures, or extinguishes the natural person's liability.
+
 > **This folder is the *evidence*. The plain-language *case* — written for anyone,
 > no law degree needed — is in [`/docs`](../docs/). The *bill* is in the
 > [repo root](../README.md).** If you only read one file here, read `01_master.md`.

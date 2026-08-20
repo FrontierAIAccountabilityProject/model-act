@@ -80,6 +80,13 @@ was any responsibility on our part." In 1938 Congress passed the Food, Drug, and
 irrelevant (Dotterweich). Six years from "no responsibility" to the law inventing the
 responsibility for him.
 
+That is the allocation this Act extends. It does not ask first whether an officer knew the exact
+harm a system would cause. It asks who held practical power over the relevant risk and whether that
+person exercised due care. Knowledge and wilfulness grade the offense; they do not create the duty.
+The entity remains separately liable, but its fine cannot discharge, insure, indemnify, reimburse,
+or otherwise absorb the natural person's consequence. SEC. 4 finds the power; SEC. 6 attaches the
+individual offense; SEC. 7 and SEC. 10 keep it personal.
+
 Legislation follows this sequence: incident, hearing, record, bill. The Pecora hearings of 1933–34
 worked because the securities acts were being drafted while the bankers testified; every admission
 slotted into a bill section the same week. The bills that ride a post-hearing wave are the ones
