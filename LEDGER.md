@@ -101,6 +101,23 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 ---
 
+## E8 — "In one paragraph": true of the duty, silent on the entity, in the paragraph built to be quoted
+
+**The claim** (`README.md`, "In one paragraph," as published to 20 August 2026): "The base duty is due care, **not strict liability**; the custodial tiers are maximums…"
+
+**The text** (SEC. 10(a)): "Entity: civil penalty of up to $[1,000,000] per violation for each day the violation continues… **strict liability**." And SEC. 6(c): "Entity liability under SEC. 10(a) **is strict**." And SEC. 1(a): offenses under the Act "are **public welfare offenses** within the meaning of *Morissette v. United States*, 342 U.S. 246 (1952), except where a greater mental state is expressly required."
+
+**The gap.** The claim is exactly true of what it names — SEC. 2 is headed "PUBLIC WELFARE DUTY" and its base duty is the exercise of due care — and it is incomplete as a characterisation of the Act, which contains an express strict-liability limb and classifies its offenses into the *Morissette* family. The README states the qualified version correctly three times further down (SEC. 6 summary: "strict liability buys entity fines only"; the scienter-drift passage: "strict liability survives only where the modern Court tolerates it, in the entity's civil penalty under SEC. 10(a)"; the section walk: "strict liability is for entity fines only"). Only the summary drops the qualifier.
+
+**Why it is graded higher than its size.** "In one paragraph" was written for machines to lift verbatim, after a search engine's AI summarised the project with the doctrine unnamed and the scope inflated (diary, 19 August 2026). It is the single most quotable passage in the repository and therefore the one place an omission propagates without the surrounding correction travelling with it. A reader who takes "not strict liability" from a summariser, opens SEC. 10(a), and finds the words "strict liability" has been handed a contradiction the project put in his way — in a project whose whole premise is that its claims survive being checked.
+
+**The fix (explainer, applied 20 August 2026).** One clause, no statutory change: "The base duty is due care, not strict liability — **strict liability reaches an entity's civil penalty alone, never a custodial sentence**; the custodial tiers are maximums…" This conforms the summary to the three correct statements below it and to SEC. 6(c). Outside catch. The statute needed no amendment, which is the finding worth keeping: the drafting was right and the shop window was thin.
+
+---
+
+
+---
+
 ## Precision notes (audit record)
 
 **N1 — New York penalty phrasing.** `audit/chunk3_penalty_architecture.md` §A.3 states the New York figures flatly ("\$1,000,000 first / \$3,000,000 per subsequent"). The enacted text (GBL § 1427, consolidated through 2026-04-03, pinned 17 August 2026 against nysenate.gov) phrases both as caps — "not to exceed" — with the amount "determined based on the severity of the violation." Chunk 3 §D.1 already characterizes the family as severity-scaled; §A.3's flat phrasing stands corrected to *caps, severity-scaled*. Public copy should say "up to."
@@ -340,6 +357,22 @@ looks like.
 
 <a id="part-iii"></a>
 ## Part III — The diary
+
+**20 August 2026, fifth pass — The shop window was thinner than the shop.** A reader's question — *the top of the README says not strict liability, is that wrong?* — lands as [E8](#part-i). The answer is that it is true of what it names and incomplete as a characterisation: SEC. 2's base duty is indeed due care, and SEC. 10(a) makes an entity's civil penalty expressly strict, with SEC. 1(a) classifying the offenses into the *Morissette* family. The README says the qualified version correctly three times further down. Only the summary dropped the qualifier.
+
+The size of the entry is not the size of the risk. "In one paragraph" exists because a search engine's AI summarised this project badly in August, and it was written to be lifted verbatim by the next one. It is therefore the one passage where a missing clause travels without its correction attached — and it would have handed a hostile reader a contradiction between the front page and SEC. 10(a) in a project whose entire premise is that its claims survive being opened. Fixed in one clause; no statutory change, because the drafting was right.
+
+Two entries in one day that correct this session's own work rather than someone else's: the EO 14365 attribution in the sweep, and this. The register is working when it is boring.
+
+**20 August 2026, fourth pass — Colorado pinned, and a correction to a file four hours old.** The sweep held one fact back as unpinned: that the United States had intervened against a state AI law. It is pinned now, from the Complaint in Intervention itself — *United States of America & X.AI LLC v. Philip J. Weiser*, No. 1:26-cv-01515-DDD-CYC (D. Colo., 24 Apr. 2026) — and the pinning changed the finding rather than confirming it.
+
+**The federal government did not plead preemption.** Two counts, both under the Equal Protection Clause of the Fourteenth Amendment, brought through 42 U.S.C. § 2000h-2: compelled discrimination and authorized discrimination. The First Amendment appears once at ¶ 10 and is not a count. This repository has built preemption armour across SEC. 0 and SEC. 13 and analysed three federal vehicles at n.13, and the first federal attack on a state AI law came down a corridor none of that was watching. The armour is not wasted — H.R. 9925 § 9 is still drafted and still preempts — but the threat model was incomplete, and now names two doors instead of one.
+
+**The correction.** The sweep's first draft called the intervention "EO 14365 § 3's litigation task force operating in the open." The primary sources will not carry it: the DOJ release does not mention the order, and the complaint cites it at ¶¶ 2–3 for its policy of national AI leadership, not as the authority for intervening. Corrected in place, marked, and the banked post carries an instruction not to let the claim back in through a reply. A file may be four hours old and still be wrong; the register does not grade by age.
+
+**What the pinned facts do for the bill.** SB 24-205 mandates outcome-testing across protected classes — the exact surface an equal-protection theory needs. This Act has no such surface: SEC. 3(a) confines standards to safety, authorization, monitoring, incident-reporting and deployment controls, SEC. 0(a)(4) forbids compelling any characterization or altering any output, and no provision imposes an algorithmic-discrimination duty. This morning's docket mapping recorded that same fact as a **limitation** — the bias-mitigation asks of comments 0021, 0042, 0027 and 0028 are declined because there is no head for them. Tonight it reads as armour. Both entries stand, in both registers, because the refusal was a scope decision and not a prophecy, and claiming otherwise would be the kind of retrofitted foresight this project exists to avoid.
+
+Three posts banked as section 5, sourcing complete: the theory nobody braced for, why a signature has no output to compel, and the concession that turned out to matter. The last is deliberately the weakest claim of the three.
 
 **20 August 2026, third pass — The sweep the companion ordered, and the one word that had to go.** The STANDING WATCH carries its own instruction: the first act of any v3.5 drafting chunk is the re-sweep. It is run and filed at [`audit/standing_watch_2026-08-20.md`](./audit/standing_watch_2026-08-20.md), four days after the 16 August sweep, and it moved two items.
 

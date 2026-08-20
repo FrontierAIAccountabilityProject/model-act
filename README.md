@@ -17,7 +17,8 @@ or downstream deployer below the threshold is touched.
 ## In one paragraph
 
 A research draft of a state criminal statute — accountability architecture, not
-punishment for its own sake. The base duty is due care, not strict liability; the
+punishment for its own sake. The base duty is due care, not strict liability — strict
+liability reaches an entity's civil penalty alone, never a custodial sentence; the
 custodial tiers are maximums, and the single bracketed minimum is expressly held open
 for adopting states. The working instruments are the signature (an officer
 certifies that validation ran — process, not prophecy — before deployment and after

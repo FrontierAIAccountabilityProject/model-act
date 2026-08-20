@@ -108,3 +108,31 @@ SB 24-205 on 24 April 2026 — the single most striking fact in the sweep. It is
 a litigation-clearinghouse record marked coding-in-progress and current only to 27 April.
 Unpinned, therefore unused, per the standing rule. Pin it from the docket and it is a post
 on its own.
+
+## 5. Colorado, pinned (fire any time; sourcing complete)
+
+*Held in section 4 as unpinned; pinned 20 Aug 2026 from the Complaint in Intervention,*
+*`United States of America & X.AI LLC v. Philip J. Weiser`, No. 1:26-cv-01515-DDD-CYC*
+*(D. Colo., filed 24 Apr. 2026), and the DOJ Office of Public Affairs release of the same*
+*date. Analysis at [the sweep](../audit/standing_watch_2026-08-20.md) § 2.*
+
+**8.** (240) On 24 April the United States joined a lawsuit against a state AI law, as a plaintiff. Its two counts are not preemption. They are the Equal Protection Clause, pleaded through the civil rights statutes. Everyone braced for the wrong attack.
+
+**9.** (249) A statute that tells a model what its outputs may not do can be attacked as compelled speech or compelled discrimination. One that says a named officer must sign before shipping says nothing about any output at all. There is nothing there to compel.
+
+**10.** (260) Our draft refuses to do bias law. Four commenters asked FDA for it and the Act has no provision for any of them. Written as a limit. Read it again after the Justice Department sued Colorado over exactly that, and it is the reason the bill is not in that fight.
+
+**Sourcing and one discipline.**
+
+Post 8 says "joined a lawsuit… as a plaintiff," which the caption supports, and stops
+there. It does **not** say the intervention was granted, because this sweep did not reach
+an order on the motion. It does **not** attribute the intervention to EO 14365's litigation
+task force: the press release does not mention the order, and the complaint cites it at
+¶¶ 2–3 for policy only. An earlier draft of the sweep made that attribution and it was
+corrected in place — do not let it back in through a reply.
+
+Post 10 is the only one of the three that concedes something, and it should stay that way.
+The Act genuinely declines the bias-mitigation asks of comments 0021, 0042, 0027 and 0028,
+and the mapping table says so under **Outside the Act**. The post does not claim the
+refusal was foresight. It claims the refusal has a consequence, which is a smaller and
+truer thing.

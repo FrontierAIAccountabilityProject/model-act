@@ -59,23 +59,45 @@ the n.16 re-run should say so rather than merely absorbing the result.
 
 **Found.** Filed **9 April 2026** against **SB 24-205**, Colorado's algorithmic-
 discrimination law — six constitutional claims under the First Amendment, Commerce Clause,
-Due Process and Equal Protection. Two developments the watch does not carry:
+Due Process and Equal Protection. No amended complaint targeting SB 26-189 was located.
+Two developments the watch does not carry, both now pinned to primary sources:
 
-- **The United States intervened as a plaintiff on 24 April 2026.**
+- **The United States intervened as a plaintiff on 24 April 2026.** Complaint in
+  Intervention, *United States of America & X.AI LLC v. Philip J. Weiser*, No.
+  1:26-cv-01515-DDD-CYC (D. Colo., filed 24 Apr. 2026); DOJ Office of Public Affairs,
+  *Justice Department Intervenes in xAI Lawsuit Challenging Colorado's "Algorithmic
+  Discrimination" Law* (24 Apr. 2026).
 - A joint motion to vacate the scheduling conference and suspend deadlines was filed the
-  same day, with a **stipulation temporarily staying enforcement**.
+  same day, with a **stipulation temporarily staying enforcement**. Reported; the
+  stipulation itself is not pinned and the clearinghouse record is marked
+  coding-in-progress and current only to 27 April 2026.
 
-The clearinghouse record is marked coding-in-progress and current only to 27 April 2026;
-contemporaneous reporting describes the Colorado law as paused. No amended complaint
-targeting SB 26-189 was located.
+**The theory is the finding, and it is not the one this repository was braced for.** The
+United States pleads **two counts, both under the Equal Protection Clause of the Fourteenth
+Amendment**, brought through 42 U.S.C. § 2000h-2 — compelled discrimination and authorized
+discrimination. **Preemption is not pleaded.** The First Amendment appears once, at ¶ 10,
+as compelled speech and content-based censorship, and is not a count. EO 14365 is cited
+twice, at ¶¶ 2–3, but for its policy of national AI leadership — *not* as the authority for
+the intervention.
 
-**Why it matters here.** Federal intervention as *plaintiff* against a state AI law is the
-EO 14365 § 3 litigation task force operating in the open, and it is the strongest
-available evidence for the companion's own thesis at n.13 — that a state statute's
-survival depends on which side of the savings clause its duties sit. SB 24-205 is an
-output-regulating, discrimination-testing statute: the class most exposed. This Act
-regulates neither outputs nor development, which is the distinction the preemption armour
-was drafted around and which the Colorado posture now illustrates from life.
+⚠ **Correction to this file's own first draft.** An earlier cut of this entry described the
+intervention as "EO 14365 § 3's litigation task force operating in the open." The primary
+sources do not support that: the press release does not mention the order at all, and the
+complaint cites it for policy rather than for § 3. The accurate statement is narrower — the
+United States intervened, and its complaint invokes the order's policy. Recorded here
+rather than silently repaired, per the rule of the register.
+
+**Why it matters here, restated on the pinned facts.** The federal government's first
+intervention against a state AI law did not run on preemption. It ran on civil-rights
+grounds against a statute that mandates outcome-testing across protected classes. That is a
+different threat model from the one n.13's armour is built for, and this Act is structurally
+outside it: SEC. 3(a) confines standards to safety, authorization, monitoring,
+incident-reporting and deployment controls; SEC. 0(a)(4) forbids requiring any person to
+adopt a contested characterization or to alter any output; and the Act imposes no
+algorithmic-discrimination duty at all. The FDA docket read closed the same question from
+the other end — the Act declines the bias-mitigation asks of comments 0021, 0042, 0027 and
+0028 because SEC. 3(a) has no head for them. That reads as a limitation in the mapping table
+and as armour here. Both readings are true, and the honest version says so in both places.
 
 ---
 
