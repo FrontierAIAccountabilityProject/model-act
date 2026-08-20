@@ -39,6 +39,12 @@ day after the congressional response deadline of 24 August. Whether OpenAI and A
 answer, and what they concede, bears on SEC. 6, SEC. 9, and SEC. 12; silence is itself the
 SEC. 9 argument. Unresolved as of this note.
 
+**A typographical note.** Dollar signs in the chapters below are escaped (`\$`) so that
+pairs of figures on one line render as money rather than as mathematical notation. The
+escape is a presentation character: no word, figure, or punctuation mark of the sealed text
+is altered, and the checksums stamped at each chapter head were taken before it was applied.
+The same convention as the line-wrap normalisation disclosed in `standards/`.
+
 
 ---
 
@@ -222,7 +228,7 @@ tracks.** (Full record: incidents appendix.)
 
 **Two — the wealth.** The economic power sitting behind these systems is
 concentrated to a degree with few parallels in modern history. The world's single
-largest fortune — reported at **$839 billion** on the Forbes 2026 list (11 Mar ✅ — up from $428B on the prior list) and near **$735 billion** on Bloomberg's daily index (1 Jun snapshot ⚠) — belongs to a
+largest fortune — reported at **\$839 billion** on the Forbes 2026 list (11 Mar ✅ — up from \$428B on the prior list) and near **\$735 billion** on Bloomberg's daily index (1 Jun snapshot ⚠) — belongs to a
 man who operates one of these frontier labs *and* owns the platform its model
 speaks on. The hardware layer beneath them mints nine- and twelve-figure fortunes
 (Nvidia's chief, **~$203 billion**, Forbes 14 May 2026 ✅). And here is the twist
@@ -477,13 +483,13 @@ all ⚠ unless marked; the volatility is itself the warning.
   two reputable sources on one person is the data-quality caveat in miniature.
   Operates a frontier lab *and* owns the platform. Wealth mostly Tesla/SpaceX, not
   Grok. Same pinned list, same date, for the adjacent seats: **Page $257B (#2), Brin
-  $237B (#3), Bezos $224B (#4), Ellison $190B, Huang $154B** ✅ (11 Mar snapshots).
+  \$237B (#3), Bezos \$224B (#4), Ellison \$190B, Huang \$154B** ✅ (11 Mar snapshots).
 - **Jensen Huang** (Nvidia) — **~$203B** (Forbes, 14 May 2026 ✅), ~3% of Nvidia;
   the largest fortune primarily *from* AI. **Picks-and-shovels; not a lab operator.**
-  (Three dated points now bracket him: **$154B** on the 11 Mar list ✅, ~$203B on 14
-  May ✅, ~$169B late June ⚠ — a ±$50B six-month ride; always cite the date.)
+  (Three dated points now bracket him: **\$154B** on the 11 Mar list ✅, ~\$203B on 14
+  May ✅, ~\$169B late June ⚠ — a ±\$50B six-month ride; always cite the date.)
 - **Mark Zuckerberg** (Meta) — moved twice while this file sat (corrected 17 Aug):
-  **$222B** on the 11 Mar Forbes list ✅; then **$183.3B** after the one-day **−$17.8B**
+  **\$222B** on the 11 Mar Forbes list ✅; then **\$183.3B** after the one-day **−\$17.8B**
   of 31 Jul 2026 ✅ (Forbes: Meta raised annual spend guidance to $137.5B, missed on
   EPS, stock −18% YTD — "Wall Street sours on AI spending"). The stale "−$8.7B (1
   Jun)" figure is retired. Lab operator via near-total voting control — and the seat
@@ -492,9 +498,9 @@ all ⚠ unless marked; the volatility is itself the warning.
   AI-cloud contracts ⚠.
 - **Dario Amodei** (Anthropic) — **$15.5B** (Forbes profile, as of 17 Aug 2026 ✅),
   up from ~$7B earlier in 2026 ⚠. The company's valuation itself ran near-vertical:
-  **~$350B** at the January 2026 raise (Forbes, 7 Jan ✅), toward **~$900B–$1 trillion**
+  **~\$350B** at the January 2026 raise (Forbes, 7 Jan ✅), toward **~\$900B–\$1 trillion**
   by late May (CNBC, 28 May 2026 ✅), with the Forbes profile citing ~$380B as of
-  Feb 2026 — so a "$380B" and a "~$965B" both appear in circulation because they are
+  Feb 2026 — so a "\$380B" and a "~\$965B" both appear in circulation because they are
   different dates on the same curve. Fully-diluted stake reported ~1.8% ⚠; operational
   control via governance + the Trust, **not** an economic majority. (All seven
   Anthropic co-founders billionaires — Forbes, 12 Feb 2026 ✅, at the $380B valuation.
@@ -592,7 +598,7 @@ What does **not** exist, as of August 2026:
   SEC. 9 makes reporting a dated legal duty (72h/24h) and SEC. 5(c) makes its
   omission an offense.
 - **The enacted state statutes fine the company, not the person.** California SB 53,
-  New York's RAISE Act, Illinois's SB 315 — civil penalties (~$1M/$3M) on the entity,
+  New York's RAISE Act, Illinois's SB 315 — civil penalties (~\$1M/\$3M) on the entity,
   no personal criminal liability, and a $500M revenue screen that exempts most
   operators. A fine paid from a balance sheet is a subscription cost (companion,
   n.10).
@@ -851,7 +857,7 @@ Act mapping: same as A.1/A.2.
 ### A.4 — The shared vendor: Irregular
 
 - **Irregular** ✅ (CNBC, 9 Aug 2026, pinned 17 Aug via syndication): Tel Aviv; founded
-  2023; **$80M from Sequoia + Redpoint, valued $450M (2025)**. Tie precision (corrected
+  2023; **\$80M from Sequoia + Redpoint, valued \$450M (2025)**. Tie precision (corrected
   17 Aug): direct environment tie to the **Anthropic** incidents (and **Meta**, per
   Stone's statement above); in the **OpenAI** case the chain ran through OpenAI's own
   sandbox and a Modal customer's harness — Irregular is named in the reporting, not in
@@ -925,7 +931,7 @@ the Act's operating offense (SEC. 5(b)) addresses.
   credibility**, amplifying malware to millions. ⚠ (SecureWorld, 4 Sep 2025).
 - **The Morse-code heist (May 2026):** a Morse-code prompt injection tricked Grok
   into emitting a hidden command that directed an automated financial bot on X to
-  transfer **~$150K–$200K in crypto** (figures conflict across sources — flag). ⚠
+  transfer **~\$150K–\$200K in crypto** (figures conflict across sources — flag). ⚠
   (NeuralTrust, dev.to, "Mehul Mohan" — pin one figure).
 - **Fake Grok apps / Mac malware (Jan 2026):** fake "Grok Pro Cracked" desktop
   installers spread Trojans that bypass macOS Gatekeeper and steal browser data /
@@ -1134,7 +1140,7 @@ supplied the outcome; the headlines blamed the machine. **Map to the Act:**
 accountability laundering — authority wearing a tool as a mask — is the pattern
 SEC. 4 exists for: substance controls over title, and delegation to a committee, a
 contractor, or a model does not divest (SEC. 4(c)). Texture, kept for flavor: the
-store ran $100,000 → $61,186 in five months under "lenient management" ✅ (TIME) —
+store ran \$100,000 → \$61,186 in five months under "lenient management" ✅ (TIME) —
 the model's failing was insufficient ruthlessness, supplied on request by people.
 Pending contrast: CA SB 947 (McNerney), the "No Robo Bosses Act of 2026," would
 require human oversight for automated firing decisions — oversight this firing *had*.
@@ -1568,9 +1574,9 @@ made with the reader's own metric.
 
 | Person | Net worth (dated) | Layer | Act's reach |
 |---|---|---|---|
-| Elon Musk | $839B (Forbes list, 11 Mar ✅) / ~$735B (Bloomberg 1 Jun ⚠) | platform **+** operator **+** infra-adjacent | **Full** (xAI operator; X deployment) |
+| Elon Musk | \$839B (Forbes list, 11 Mar ✅) / ~\$735B (Bloomberg 1 Jun ⚠) | platform **+** operator **+** infra-adjacent | **Full** (xAI operator; X deployment) |
 | Jensen Huang (Nvidia) | **$203B** (Forbes 14 May) ✅ | infrastructure / chips | **None** — operates no covered system |
-| Mark Zuckerberg (Meta) | $222B (Forbes list 11 Mar ✅) → $183.3B after the 31 Jul −$17.8B day (Forbes ✅) | platform / operator | **Full** (operator via near-total voting control) |
+| Mark Zuckerberg (Meta) | \$222B (Forbes list 11 Mar ✅) → \$183.3B after the 31 Jul −\$17.8B day (Forbes ✅) | platform / operator | **Full** (operator via near-total voting control) |
 | Larry Ellison (Oracle) | $190B (Forbes list 11 Mar ✅); "briefly #2" window still ⚠ | infrastructure | **None** |
 | Dario Amodei (Anthropic) | **$15.5B** (Forbes 17 Aug) ✅ | frontier-model operator | **Full** (SEC. 4(b)(1) CEO) |
 | Sam Altman (OpenAI) | **>$4B** (Forbes 12 May) ✅ | frontier-model operator | **Full** (control, ~0% equity) |
@@ -1827,7 +1833,7 @@ just study AI from the outside. We study it from within."
 Three structural observations, no motives attributed. *First*, scale and speed:
 a frontier laboratory's internal unit for studying the rule of law absorbed two
 senior legal scholars in a single day, at compensation the published listings
-place between $295,000 and $485,000 — the study of AI accountability is being
+place between \$295,000 and \$485,000 — the study of AI accountability is being
 staffed, generously, from inside the entities that would bear it. *Second*, the
 remit: "questions of liability" now appear, in the laboratory's own words, as an
 internal research object. The Act's premise is the inverse of the Institute's
@@ -2049,7 +2055,7 @@ primary before committee-facing use, per the house rule:
 - "richest person crossed $700 billion in 2026": ✅ consistent with the pinned
   $735–839B mid-2026 range (01_master.md Layer 5).
 - "grown nearly thirtyfold since 2020": ✅ pinned 18 Aug 2026 — Forbes World's
-  Billionaires 2020 baseline $24.6B; Forbes data 6 Jan 2026: $714.2B (≈29×; the
+  Billionaires 2020 baseline \$24.6B; Forbes data 6 Jan 2026: \$714.2B (≈29×; the
   mid-2026 range $735–839B gives ≈30–34×). "Nearly thirtyfold" is conservative.
 - "top twenty billionaires hold more than the GDP of most countries": ✅ pinned 18 Aug
   2026 — combined $3.8T (Forbes data, 6 Jan 2026, via Visual Capitalist); IMF WEO: only
@@ -2066,7 +2072,7 @@ primary before committee-facing use, per the house rule:
 - MegaUpload contrast: ✅ pinned 18 Aug 2026 — DOJ press release (charges; $175M
   alleged proceeds); ABC News, 21 Jan 2012 (raid scale, arrests).
 - Meta trial: ✅ pinned 18 Aug 2026 — Washington Post 17 Aug; NPR/CNBC 17–18 Aug
-  (trial open, four AGs, up to $1.4T, Zuckerberg on witness list; NM $942M prior).
+  (trial open, four AGs, up to \$1.4T, Zuckerberg on witness list; NM \$942M prior).
 The legal/objection answers (Parts one, two, four) trace to the audit field-notes
 objection bank (gun analogy FN3, Swartz FN4, shareholder shield FN5, Price-Anderson
 FN6, theology FN8, capture FN12) and to the pinned statute sections cited inline. -->
