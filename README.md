@@ -1496,24 +1496,9 @@ Farmer's Letters unsigned and drafted the Articles of Confederation. Arguments t
 stand without a byline are built stronger, because the citations are the only authority
 they have. Ours are at the bottom of every page; check them.
 
-**Why now, plainly.** A small number of people hold the authority to train and ship
-systems that already sit inside medical records, power grids, and private conversations,
-and no law in the United States makes a single one of them personally answerable when
-those systems fail. The state statutes that exist fine the company, and a fine paid from
-the balance sheet is a subscription cost. Food and drug executives have carried personal
-criminal liability for what ships since 1943, and the food supply is safer because of it
-— because in 2016 two egg executives went to prison and every one since has known it.
-The deterrence logic is not complicated: the wealthy fear prison more than they fear
-shipping deadlines. This Act gives that fear a statute to live in.
+**Why now, plainly.** Frontier systems increasingly operate in settings where failures can affect health, security, property, and public infrastructure. The frontier-AI regimes examined in this repository place their duties and penalties principally at the entity level; they do not assign a personal, non-delegable duty of due care to the natural persons with practical power over the relevant risk. Entity liability remains necessary, but it does not perform that governance function. The responsible corporate officer doctrine connects practical authority to an obligation to prevent or correct violations. This Act imports that architecture through validation, factual certification after reasonable inquiry, records, reporting, and individual consequences only when the statutory elements are proved. Its object is identifiable responsibility before harm, not punishment for its own sake.
 
-**A note on "the ten."** Earlier campaign copy said "ten men." The Act never has. The
-statute's term is *controlling person*: whoever holds practical authority over a covered
-system, by any title or none, through any structure. The count is roughly a dozen only
-because few models clear the 10^26 line and fewer hands hold them — a count of chairs,
-not a list of names, and never gendered. The duty attaches to the chair, and whoever
-sits down inherits it. "CEO" is equally the wrong word: some people with real halt
-authority hold no such title, and almost everyone holding the title, at almost every
-company, is nowhere near the line. SEC. 1 draws the line; SEC. 4 finds the hands.
+**A note on fixed headcounts.** Earlier campaign copy used “ten men” and “roughly a dozen.” The Act does not establish either count. Its term is *controlling person*: any natural person who meets the practical-authority test, regardless of title, and more than one person may qualify in connection with a covered system. Coverage turns prospectively on compute or designation, covered conduct, and authority—not a roster of names or chairs. SEC. 1 defines the covered field; SEC. 4 identifies the people who hold the relevant power.
 
 **How the project runs: two layers.** The campaign layer is everything visible here —
 the repository, the corrections published beside the mistakes, the evidence file. Its
