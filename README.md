@@ -49,7 +49,7 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 - **v3.4 amendments:** entered verbatim from the published cure queue — announcement and statute are diffable
 - **Next revision:** v3.5 in preparation; the open [cure queue](./audit/v3_5_cure_language.md) holds proposed language, none of it in any tagged text yet
 - **Review:** council assembly under way; this text claims no "survived review" until named reviewers sign
-- **Typeset edition:** withdrawn pending a reproducible rebuild; plain text is authoritative
+- **Print edition:** a reproducible, line-numbered [reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf) (17pp, landscape, wide margin) is built from the source by [a committed script](./tools/build_reviewers_copy.py); plain text remains authoritative
 - **License:** CC0 — public domain
 - **Archived:** [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795) — CERN's Zenodo, permanent; every future release mints its own version DOI under this concept DOI
 
@@ -58,6 +58,10 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 
 **Recent.** Newest first; every entry links to the artefact, not to a promise.
 
+- **20 Aug 2026** — the withdrawn typeset edition is replaced by a line-numbered
+  [reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf), generated deterministically
+  from the statute by [a committed script](./tools/build_reviewers_copy.py); rebuild it and
+  the hashes match, which is what the withdrawal was waiting for ([how to check](./archive/REVIEWERS_COPY.md)).
 - **20 Aug 2026** — READ FIRST item 3(b) answered from outside: the harm tier's injury
   definition moves to 18 U.S.C. § 1365(h)(3)–(4) at v3.5, drafted as CURE 1 in
   [the open queue](./audit/v3_5_cure_language.md). Attribution is the answering scholar's
@@ -88,6 +92,7 @@ model-act/
 ├── audit/                           # drafting record · cure queues (v3.4 sealed · v3.5 open)
 ├── dossier/                         # the evidence file, every fact pinned
 ├── filings/                         # public-docket submissions — published as filed
+├── tools/                           # the reviewer's-copy generator — one script, one dependency
 ├── docs/                            # retired paths (signposts)
 └── pages/                           # the withdrawn typeset's page images
 ```
@@ -139,7 +144,9 @@ the statute, one sitting, cover to cover. Second, [the errata register](./LEDGER
 — what we already know is wrong, so no reviewer spends hours rediscovering published
 mistakes. Beside it, [the table of authorities](./standards/table_of_authorities.md) — every
 citation in the statute and companion with what it is cited for, so verification is a scan
-rather than an excavation. Third, [the cure
+rather than an excavation. If you would rather work on paper, the
+[reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf) is line-numbered to the source,
+so a note written at p. 6, l. 236 lands on the same text as `model_act_v3_4.txt#L236`. Third, [the cure
 queue](./audit/v3_4_cure_language.md) — the fifteen fixes, published in advance and
 landed verbatim at v3.4; the departure announcement and the destination are diffable. Its
 successor, [the open v3.5 queue](./audit/v3_5_cure_language.md), is where a finding from
