@@ -1,14 +1,29 @@
 cff-version: 1.2.0
 message: >-
-  Public domain (CC0). Citing is a courtesy to your readers, not to us —
-  pin the version tag and the commit; main moves daily. Cite it as what
-  it is: model legislation, a research draft, never enacted law.
+  Public domain (CC0). Citing is a courtesy to your readers, not to us — pin the
+  version tag and the commit, because main moves daily. Cite it as what it is:
+  model legislation, a research draft, never enacted law. Cite a provision by
+  section and link by line: model_act_v3_4.txt#L236 opens SEC. 4; the section-to-line
+  index is in the README. Every authority the draft relies on is listed, with the
+  proposition each is cited for, in standards/table_of_authorities.md.
 title: "Model Act — Frontier AI Public Welfare Offenses"
+abstract: >-
+  A public-domain model state criminal statute applying the responsible corporate
+  officer doctrine — United States v. Dotterweich, 320 U.S. 277 (1943), and United
+  States v. Park, 421 U.S. 658 (1975) — to frontier artificial intelligence:
+  personal, non-delegable duties for the officers of developers of models trained
+  above a bracketed 10^26-operation threshold. Fourteen sections (SEC. 0–13) with
+  drafting notes, draft implementing regulations, a complete public drafting record
+  including a hostile brief built against the text, and an append-only register of
+  the project's own errata. Drafted in public by one maintainer with AI assistance
+  disclosed. Never enacted; no completed review is claimed.
 type: software
-version: "3.4 (research draft)"
+version: "3.4"
 date-released: "2026-08-19"
 authors:
-  - name: "llmaolaw (pseudonymous; drafted by humans and AI, in the open)"
+  - name: "llmaolaw"
+    alias: llmaolaw
+    website: "https://github.com/llmaolaw/model-act"
 repository-code: "https://github.com/llmaolaw/model-act"
 url: "https://github.com/llmaolaw/model-act"
 license: CC0-1.0
@@ -17,5 +32,27 @@ keywords:
   - frontier AI
   - corporate criminal liability
   - responsible corporate officer doctrine
-  - AI governance
+  - Park doctrine
   - public welfare offenses
+  - AI governance
+  - state criminal law
+  - officer liability
+references:
+  - type: legal-case
+    title: "United States v. Dotterweich, 320 U.S. 277 (1943)"
+    year: 1943
+    authors:
+      - name: "Supreme Court of the United States"
+    notes: "The responsible-relation standard the Act applies."
+  - type: legal-case
+    title: "United States v. Park, 421 U.S. 658 (1975)"
+    year: 1975
+    authors:
+      - name: "Supreme Court of the United States"
+    notes: "Authority to prevent or correct; delegation is no defence."
+  - type: legal-case
+    title: "United States v. DeCoster, 828 F.3d 626 (8th Cir. 2016)"
+    year: 2016
+    authors:
+      - name: "United States Court of Appeals for the Eighth Circuit"
+    notes: "The culpability floor: no imprisonment without proven fault."

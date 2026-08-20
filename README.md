@@ -80,6 +80,8 @@ machine-readable file.
 | [`model_act_v3_4_companion.md`](./model_act_v3_4_companion.md) | The drafting notes, open items, and constitutional defense |
 | [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) | The draft implementing regulations |
 | [`standards/interim_standards.md`](./standards/interim_standards.md) | The adopted interim texts — the enacted California and New York standards SEC. 3(c)(4) freezes, pinned verbatim; Illinois capture pending, cited |
+| [`standards/table_of_authorities.md`](./standards/table_of_authorities.md) | Every authority the statute and companion cite, with the proposition each is cited for — built for verification |
+| [`standards/bracketed_matter.md`](./standards/bracketed_matter.md) | The adopting state's worksheet: every bracketed choice, its section and line, and what the enacted family chose |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
 | [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record — beside it, the [sealed v3.4 queue](./audit/v3_4_cure_language.md) and the [open v3.5 queue](./audit/v3_5_cure_language.md) |
@@ -111,7 +113,9 @@ project has.
 **The core set, in reading order.** First, [`model_act_v3_4.txt`](./model_act_v3_4.txt) —
 the statute, one sitting, cover to cover. Second, [the errata register](./LEDGER.md#part-i)
 — what we already know is wrong, so no reviewer spends hours rediscovering published
-mistakes. Third, [the cure
+mistakes. Beside it, [the table of authorities](./standards/table_of_authorities.md) — every
+citation in the statute and companion with what it is cited for, so verification is a scan
+rather than an excavation. Third, [the cure
 queue](./audit/v3_4_cure_language.md) — the fifteen fixes, published in advance and
 landed verbatim at v3.4; the departure announcement and the destination are diffable. Its
 successor, [the open v3.5 queue](./audit/v3_5_cure_language.md), is where a finding from
@@ -1369,16 +1373,38 @@ reader at [commits/main.atom](https://github.com/llmaolaw/model-act/commits/main
 <a id="citation"></a>
 ## Citation
 
+**Citing a provision.** Cite by section — *Model Act § 4(b)(2) (v3.4)* — and link by line:
+GitHub opens a text file at a line with `#L`, so
+[`model_act_v3_4.txt#L236`](./model_act_v3_4.txt#L236) lands on SEC. 4. For a link that
+survives every future edit, open the file, press `y` to swap the branch name for the commit
+hash, then add the line anchor. Section starts against the v3.4 tag: SEC. 0 — L9 · SEC. 1 —
+L44 · SEC. 2 — L103 · SEC. 3 — L149 · SEC. 4 — L236 · SEC. 5 — L265 · SEC. 6 — L284 ·
+SEC. 7 — L316 · SEC. 8 — L365 · SEC. 9 — L394 · SEC. 10 — L417 · SEC. 11 — L479 · SEC. 12 —
+L493 · SEC. 13 — L527.
+
+**Verifying the citations.** Every authority the statute and companion rely on is listed,
+with its provision and the proposition it is cited for, in
+[the table of authorities](./standards/table_of_authorities.md).
+
 A [`CITATION.cff`](./CITATION.cff) file supports GitHub's "cite this repository"
 function; release v3.4 is tagged, with sha256 checksums recorded in the ledger's changelog; the v3.4 tag and its checksums stand unchanged; and
 CC0 imposes no attribution requirement — citation is a courtesy to the reader. Pin the
 version and the date; the main branch moves frequently.
 
+> **Bluebook (22d ed. 2025), R. 12.9.4 — model codes and uniform acts.** In law-review
+> typeface the title takes large and small caps:
+>
+> Model Act — Frontier AI Pub. Welfare Offenses § 4(b)(2) (llmaolaw 2026),
+> https://github.com/llmaolaw/model-act.
+>
+> **BibTeX.** Generated from [`CITATION.cff`](./CITATION.cff) by GitHub's "Cite this
+> repository" panel, or by `cffconvert -f bibtex`.
+>
+> **APA** — llmaolaw. (2026). *Model Act — Frontier AI Public Welfare Offenses*
+> (Version 3.4, research draft) [Model legislation]. https://github.com/llmaolaw/model-act
+>
 > **MHRA** — llmaolaw, *Model Act — Frontier AI Public Welfare Offenses*, v3.4 research
 > draft (2026) <https://github.com/llmaolaw/model-act> [accessed 19 August 2026]
->
-> **Bluebook (working form)** — llmaolaw, Model Act — Frontier AI Public Welfare
-> Offenses § 4 (v3.4 research draft 2026), https://github.com/llmaolaw/model-act
 >
 > **APA** — llmaolaw. (2026). *Model Act — Frontier AI Public Welfare Offenses*
 > (Version 3.4, research draft) [Model legislation].
@@ -1410,7 +1436,8 @@ their point.
 **What is open for the next version.** Eight problems are scoped, sourced, and drafted
 to the edge of one missing reader: the interim-standards version-pin mechanics (a
 standards-literate technologist); the conforming-amendment scaffold (state legislative
-counsel); the harm tier's bracketed minimum (a criminal-law scholar or former
+counsel — the mechanical half is now drafted as [the bracketed-matter
+worksheet](./standards/bracketed_matter.md)); the harm tier's bracketed minimum (a criminal-law scholar or former
 prosecutor — the companion "serious injury" source question was answered from outside and
 is drafted for v3.5 in [the open queue](./audit/v3_5_cure_language.md)); the sentencing valve against fifty state proportionality
 clauses (a proportionality scholar); the preemption armour as the litigation develops (a
