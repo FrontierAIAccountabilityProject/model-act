@@ -42,6 +42,7 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 - **Current text:** v3.4 — tagged; sha256 checksums in [`LEDGER.md`, Part II](./LEDGER.md#part-ii)
 - **Nature:** research draft, never enacted; bracketed matter is an adopting state's choice
 - **v3.4 amendments:** entered verbatim from the published cure queue — announcement and statute are diffable
+- **Next revision:** v3.5 in preparation; the open [cure queue](./audit/v3_5_cure_language.md) holds proposed language, none of it in any tagged text yet
 - **Review:** council assembly under way; this text claims no "survived review" until named reviewers sign
 - **Typeset edition:** withdrawn pending a reproducible rebuild; plain text is authoritative
 - **License:** CC0 — public domain
@@ -81,7 +82,7 @@ machine-readable file.
 | [`standards/interim_standards.md`](./standards/interim_standards.md) | The adopted interim texts — the enacted California and New York standards SEC. 3(c)(4) freezes, pinned verbatim; Illinois capture pending, cited |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
-| [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record |
+| [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record — beside it, the [sealed v3.4 queue](./audit/v3_4_cure_language.md) and the [open v3.5 queue](./audit/v3_5_cure_language.md) |
 
 On this page: [For the review council](#for-the-review-council) · [Questions this project is asked](#questions) · [The case](#the-case) ·
 [Provenance and method](#provenance-and-method) · [Citation](#citation) ·
@@ -112,7 +113,10 @@ the statute, one sitting, cover to cover. Second, [the errata register](./LEDGER
 — what we already know is wrong, so no reviewer spends hours rediscovering published
 mistakes. Third, [the cure
 queue](./audit/v3_4_cure_language.md) — the fifteen fixes, published in advance and
-landed verbatim at v3.4; the departure announcement and the destination are diffable. Fourth,
+landed verbatim at v3.4; the departure announcement and the destination are diffable. Its
+successor, [the open v3.5 queue](./audit/v3_5_cure_language.md), is where a finding from
+this review becomes drafted language — a disposition filed today can be splice-ready
+before the next revision. Fourth,
 [the companion](./model_act_v3_4_companion.md) — the READ FIRST open items and the drafting
 notes; skim all, read closely where the lane points. Fifth,
 [the hostile brief](./audit/record.md#chunk-7) — the Act as read by the other side's
@@ -1406,8 +1410,9 @@ their point.
 **What is open for the next version.** Eight problems are scoped, sourced, and drafted
 to the edge of one missing reader: the interim-standards version-pin mechanics (a
 standards-literate technologist); the conforming-amendment scaffold (state legislative
-counsel); the harm tier's "serious injury" source and bracketed minimum (a criminal-law
-scholar or former prosecutor); the sentencing valve against fifty state proportionality
+counsel); the harm tier's bracketed minimum (a criminal-law scholar or former
+prosecutor — the companion "serious injury" source question was answered from outside and
+is drafted for v3.5 in [the open queue](./audit/v3_5_cure_language.md)); the sentencing valve against fifty state proportionality
 clauses (a proportionality scholar); the preemption armour as the litigation develops (a
 federalism litigator); the modifiability budget (an evaluations researcher); the control
 objectives against laboratory practice (a security engineer); and the consolidated
@@ -1444,7 +1449,9 @@ into [the case](#the-case) on this page; the dossier's chapters merged into
 checksums stamped inline; every superseded path remains as a signpost; no content was
 deleted, in keeping with the standing rule that corrections travel with claims.
 
-**History.** v3.4 (19 August 2026, current): fifteen cures from the published queue,
+**History.** v3.5 (in preparation): the open queue's first entry moves the harm tier's
+injury definition to 18 U.S.C. § 1365(h)(3)–(4), so tier and trigger travel from the same
+donor statute; nothing lands until the revision is tagged. v3.4 (19 August 2026, current): fifteen cures from the published queue,
 spliced verbatim — deployer reliance, the narrowed controlling person, validation and
 nonconformity separated, proximate causation, the prospective insurance ban with
 restitution carved out, the no-chief-executive fallback, the approval mode struck,
