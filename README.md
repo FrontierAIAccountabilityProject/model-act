@@ -259,6 +259,64 @@ the people the product reaches, in-state, whoever else builds what. Nothing in t
 Act slows research; it attaches consequences to shipping unvalidated systems at
 people.
 
+*"This is a Chinese psyop — look, it has MAO in it."* The handle is LLM plus lmao,
+and that is the entire etymology. The serious half of the answer is that names have
+never been jurisdiction: the two founding cases of the responsible corporate officer
+doctrine are captioned *Dotterweich* and *Park* — one surname reads German, one reads
+Korean, both men ran American grocery businesses, and American food-safety law has
+been built on them since 1943. The other half kills the premise outright. China does not need to plant
+officer liability in an American statute, because it already has a broader version at
+home: PRC Criminal Law art. 31 provides that where an entity commits a crime it is
+fined *and* the persons directly in charge and the other directly responsible persons
+are given criminal punishment. Dual punishment, general across the code, in force
+since the 1997 revision. This Act reaches roughly a dozen chairs in one industry.
+Article 31 reaches every unit in the economy.
+
+*"Won't this hand the lead to someone else?"* The American answer to that question is
+already on the record, and it went the other way. From 1879 Germany and nine other
+European states closed their markets to American pork on trichinosis grounds; meat
+exports fell from about \$134 million in 1881 to about \$69 million the following
+year. Congress answered with inspection — the Act of 30 August 1890 for salted pork
+and bacon intended for export, then the Act of 3 March 1891 covering live cattle and
+hogs and requiring certificates. Within the year the President was reporting the
+result to Congress: comparing May through August 1892 with the same months of 1891,
+pork-product exports were up 62 per cent by weight and about 66 per cent by value,
+and live cattle exports had gone from 205,786 head in 1889 to 394,607. Honesty
+requires the other half: inspection alone did not reopen Germany, which lifted in
+1891 under a threatened retaliatory tariff on its sugar beets. Verifiable safety was
+not sufficient. It was necessary — the thing the diplomacy had to have in hand before
+it could be spent, and the thing that kept the market open once it was.
+
+*"No other country does this to its own industry."* Several do, and the American
+frontier sector is closer to an exception than a victim. Germany reaches the
+individual through § 130 OWiG, which makes a business owner's failure of required
+supervision a punishable omission where that failure enabled a contravention —
+§ 9 OWiG extends the same exposure to managing directors and board members, and the
+fine runs to €1 million where the underlying breach is itself criminal. That is
+weaker than this Act, and it is candidly an administrative offence rather than a
+crime, because Germany has no general corporate criminal code; the point is only that
+the duty attaches to a named person rather than dissolving into the firm. China's
+art. 31 does the same thing through actual criminal punishment. What is unusual is
+not that duties reach an identified officer. It is that in one American industry they
+currently do not.
+
+*"I'm not American. Why does this matter to me?"* Because the systems reach you and
+the law that governs them does not. A handful of frontier models are shipped
+worldwide by a handful of companies, and the decision to ship one is made in a room
+in one country, by people no other country can reach. This Act claims nothing beyond
+its own state: it regulates conduct in or into that state, evenhandedly, and its
+findings say so. But the responsible corporate officer doctrine does not attach
+liability by where harm lands or by what anyone intended — it attaches to the person
+standing in responsible relation to the hazard, with the authority to prevent it.
+There is one such moment for a frontier system, and one set of hands on it,
+regardless of how many countries the weights subsequently reach. So the protection
+travels with the product rather than being asserted over anyone. That is the ordinary
+pattern for safety standards fastened to a procedure instead of a border: the
+surgical checklist trialled across eight hospitals on four continents worked in each,
+and spread because it was attached to the operation. One state is enough not because
+one state governs the world, but because the artifact is the same everywhere it
+lands.
+
 *It was written with AI.* Yes — disclosed from day one, and it is the thesis, not
 the embarrassment: the same class of tool drafts accountability law or attempts a
 supply-chain attack depending only on who points it. That is why the Act regulates
