@@ -42,6 +42,13 @@ past the food-and-drug frontier. This repository extends it, in public: statute,
 apparatus, evidence, and an append-only register of the project's own mistakes,
 drafted by one maintainer, AI assistance disclosed, with every claim pinned to a checkable source.
 
+## Project disclosure
+
+The Model Act is an independent, pseudonymous and unfunded public drafting project. It is not affiliated with an AI company, political party, government office or advocacy organisation. No contributor is presented as legislative counsel, and publication does not imply professional or institutional endorsement.
+
+The text, sources, unresolved questions and revision history are public so that specialists can verify, criticise and improve the work on its merits.
+
+
 ## Status
 
 - **Current text:** v3.4 — tagged; sha256 checksums in [`LEDGER.md`, Part II](./LEDGER.md#part-ii)
