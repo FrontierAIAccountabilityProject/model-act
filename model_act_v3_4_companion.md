@@ -8,7 +8,12 @@ change is in `/audit`.
 
 ---
 
-## READ FIRST — OPEN ITEMS FOR v4
+## READ FIRST — OPEN ITEMS FOR THE NEXT REVISION (v3.5)
+
+The next revision is v3.5, in preparation; its open cure queue is
+`audit/v3_5_cure_language.md`, where an answer to any item below becomes splice-ready
+amendment language before the revision is tagged. Nothing in that queue is in the statute
+until v3.5 lands.
 
 This Act is finished enough to introduce and honest enough to say where hands are still needed.
 Each item names the kind of person who could close it. If that is you, the text is public domain;
@@ -21,10 +26,13 @@ technologist to re-pin at adoption.
 pinned from enrolled text (n.19); each adopting state's legislative counsel should conform the
 brackets and classifications locally, preserving the gain alternative (n.19).
 
-3. Questions (b) and (c) in the reviewer file — the "serious injury" source and the bracketed
-minimum — still need a criminal-law scholar or former prosecutor's judgment; an assist for (b) is
-on the table at n.21's anchor, 18 U.S.C. § 1365(h)(3), beside the Act's 21 C.F.R. § 803.3(w)
-source. Questions (a), (d), and (e) — per-victim consecutive exposure, the recidivist path to the
+3. Question (c) in the reviewer file — the bracketed death-results minimum — still needs a
+criminal-law scholar or former prosecutor's judgment. Question (b), the "serious injury" source,
+was answered from outside on 20 August 2026: the definition moves to 18 U.S.C. § 1365(h)(3)–(4),
+drafted as CURE 1 in the v3.5 queue, so tier and trigger travel from one statute rather than
+borrowing a reporting-regime definition for a criminal element. One design question rides with it
+— whether SEC. 9's reporting trigger keeps broader language while SEC. 10(c)'s element takes
+(h)(3) alone. Questions (a), (d), and (e) — per-victim consecutive exposure, the recidivist path to the
 harm tier, retention harmonization — closed at v3.3 (nn.21–23).
 
 4. Eighth Amendment stress-test of SEC. 10(c) at outbreak scale: the valve is now drafted from
@@ -353,7 +361,7 @@ tailoring. The live case is *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.), on Calif
 training-data disclosures: preliminary injunction denied 4 March 2026 on the view that the
 summaries are commercial speech subject to intermediate scrutiny; argued 16 July 2026;
 **undecided**. That decision is the single most important pending development for SEC. 8 and
-SEC. 9, and v3.4 should re-run this note against it. Two structural answers are drafted in rather
+SEC. 9, and the next revision should re-run this note against it. Two structural answers are drafted in rather
 than argued: the statements run to a regulator and are not required to be published, and SEC. 12
 makes them categorically exempt from the public-records act — so the injury *NIFLA* identified,
 conscription into a public conversation, is absent; and the certification is criminalized only for
@@ -463,7 +471,9 @@ than twenty years or more than life"). What this Act borrows from § 841(b) is t
 counting practice and the *Burrage* causation rule, stated in text; what it takes from both
 anchors is the ceiling pair (twenty; life); what it deliberately declines is the federal mandatory
 floor — the Act's death-results minimum stays the bracketed [two] years, held at READ FIRST item
-3(c) for a criminal-law scholar. Each resulting death or serious injury is a separate offense with
+3(c) for a criminal-law scholar. The tier's injury *definition*, separately, leaves 21 C.F.R.
+§ 803.3(w) for § 1365(h)(3)–(4) at v3.5 on an outside criminal-law reading (READ FIRST item 3;
+v3.5 queue, CURE 1) — the borrowing becomes one statute rather than two regimes. Each resulting death or serious injury is a separate offense with
 the victim's identity an element (*Apprendi v. New Jersey*, 530 U.S. 466 (2000); *Alleyne v.
 United States*, 570 U.S. 99 (2013); *Burrage*, in text): the counting is the ordinary unit of the
 law of offenses against the person, and it is the Jensen counting — 33 dead, restitution per
@@ -737,7 +747,7 @@ a Bluebook closes most of it in an afternoon.
 ## STANDING WATCH
 
 Last swept 16 August 2026 (chunk 4, incorporated by chunk 5; not re-run at assembly, same day).
-The first act of any v4 drafting chunk is the re-sweep.
+The first act of any v3.5 drafting chunk is the re-sweep.
 
 - *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.) — argued 16 July 2026, undecided. When it lands: the
   n.16 re-run, plus the interim-bridge transmission-layer check (chunk 5 §I.2).
