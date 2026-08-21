@@ -8,66 +8,29 @@ change is in `/audit`.
 
 ---
 
-## READ FIRST — OPEN ITEMS FOR THE NEXT REVISION (v3.5)
+<a id="read-first--open-items-for-the-next-revision-v35"></a>
 
-The next revision is v3.5, in preparation; its open cure queue is
-`audit/v3_5_cure_language.md`, where an answer to any item below becomes splice-ready
-amendment language before the revision is tagged. Nothing in that queue is in the statute
-until v3.5 lands.
+## READ FIRST — QUESTIONS FOR THE NEXT REVISION (v3.5)
 
-This Act is finished enough to introduce and honest enough to say where hands are still needed.
-Each item names the kind of person who could close it. If that is you, the text is public domain;
-take it.
+The next revision is v3.5, in preparation. This section is the authoritative status index for the project’s open, partly closed, state-specific, and closed questions. The numbered briefs below preserve completed work as well as work still needed, so a reader can see what changed without reopening a settled question.
 
-1. Standards inventory currency (regs Part 2): version pins age; needs a standards-literate
-technologist to re-pin at adoption.
+| Item                                | Status                 | Missing reader or decision                                                                                                                                                           |
+| ----------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1. Standards inventory currency     | **State-specific**     | A standards-literate technologist must re-pin versions at adoption.                                                                                                                  |
+| 2. State classification tables      | **State-specific**     | Legislative counsel in the adopting state must conform classifications and brackets.                                                                                                 |
+| 3. Harm-tier questions              | **Partly closed**      | The injury source is answered and drafted for v3.5. The death-results minimum and the report-versus-element distinction remain open for a criminal-law scholar or former prosecutor. |
+| 4. Outbreak-scale proportionality   | **Open**               | A proportionality scholar should test the drafted sentencing valve against state constitutional clauses.                                                                             |
+| 5. Preemption and federalism        | **Open and monitored** | A federalism litigator, ideally in a state attorney general’s office, should test the existing architecture as the litigation develops.                                              |
+| 6. Modifiability-evaluation budget  | **Open**               | An evaluations researcher should assess the percentage-and-absolute compute floor.                                                                                                   |
+| 7. Penalty-dollar calibration       | **Closed at v3.3**     | No missing reader; any remaining sentencing question belongs to item 4.                                                                                                              |
+| 8. Laboratory control objectives    | **Open**               | A security engineer with experience inside a frontier laboratory should test them against practice.                                                                                  |
+| 9. State conforming amendments      | **State-specific**     | Legislative counsel in the adopting state must settle placement, classifications, the pin date, and the state self-incrimination pass.                                               |
+| 10. Litigation-grade citation check | **Open**               | A law-review editor or other Bluebook-literate reader should complete the consolidated check.                                                                                        |
+| 11. Objective incident triggers     | **Open**               | The two characterisation-shaped triggers require objective, rule-thresholded drafting coordinated with the regulations.                                                              |
 
-2. State classification tables: the penalty brackets now carry the enacted family's own figures,
-pinned from enrolled text (n.19); each adopting state's legislative counsel should conform the
-brackets and classifications locally, preserving the gain alternative (n.19).
+An answer to an open item may become splice-ready language in the [v3.5 cure queue](./audit/v3_5_cure_language.md) before the revision is tagged. State-specific items are instructions for an adopting jurisdiction rather than unfinished universal text. Closed items remain visible so that the movement is checkable.
 
-3. Question (c) in the reviewer file — the bracketed death-results minimum — still needs a
-criminal-law scholar or former prosecutor's judgment. Question (b), the "serious injury" source,
-was answered from outside on 20 August 2026: the definition moves to 18 U.S.C. § 1365(h)(3)–(4),
-drafted as CURE 1 in the v3.5 queue, so tier and trigger travel from one statute rather than
-borrowing a reporting-regime definition for a criminal element. One design question rides with it
-— whether SEC. 9's reporting trigger keeps broader language while SEC. 10(c)'s element takes
-(h)(3) alone. Questions (a), (d), and (e) — per-victim consecutive exposure, the recidivist path to the
-harm tier, retention harmonization — closed at v3.3 (nn.21–23).
-
-4. Eighth Amendment stress-test of SEC. 10(c) at outbreak scale: the valve is now drafted from
-enacted sentencing law (SEC. 10(c)(3); n.21); a proportionality scholar should review it — against
-the adopting states' own clauses, several stricter than the federal floor — rather than design it.
-
-5. Preemption defense as the FRONTIER Act and EO 14365 litigation develop: a federalism litigator,
-ideally in a state attorney general's office. The armour is built (SEC. 0, SEC. 13; nn.13–17);
-xAI v. Bonta, briefed and undecided, triggers the n.16 re-run when it lands.
-
-6. The modifiability-evaluation compute floor (SEC. 2): the bracketed default — the greater of
-[one] percent of lineage compute or [10^24] operations — needs an evaluations researcher's review;
-the structure no longer waits on one.
-
-7. Penalty dollar calibration to frontier-AI economics: closed at v3.3 — the brackets carry the
-enacted family's figures and the formulas do the scaling (n.19); what remains of it lives in item
-4's stack review.
-
-8. Regs Part 6 control objectives against real lab practice: a security engineer who has worked
-inside one.
-
-9. Conforming amendments for any specific state: that state's legislative counsel bureau —
-including the interim-standards pin date in SEC. 3(c)(4), which counsel sets to a date certain
-preceding introduction and never drafts as a moving date; the codification placement below
-("Placement"); and the state self-incrimination pass on SEC. 5(e) (n.26).
-
-10. Litigation-grade cite-check: any law review's second-year with a Bluebook; the consolidated
-open list is at the end of this document.
-
-11. The SEC. 9(a) recast of the two characterisation-shaped triggers ("deception of safety or
-monitoring controls"; "a reproducible evaluation finding of materially increased risk") into
-objective, rule-thresholded events: to be drafted jointly with the regulations' evaluation Part,
-thresholds sourced from the Agency, not the reporter (audit/chunk2 §E.3(d); carried through v3.3).
-
-Nothing above is a reason to wait; all of it is a reason to begin.
+This Act is finished enough to introduce and honest enough to identify the judgments it still needs. If one numbered question is yours, that question is the whole ask.
 
 ---
 
