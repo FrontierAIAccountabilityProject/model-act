@@ -2441,6 +2441,74 @@ ArXiv v1 presents eleven principal numbered case studies and then separately num
 failed or hypothetical experiments CS12–CS16; the current site presents all sixteen as
 incidents. This entry cites cases individually and asserts no aggregate total.*
 
+**21 Aug 2026 — The halt authority, read from the laboratories' own frameworks** ✅⚠
+(Anthropic, *Responsible Scaling Policy* v3.0; OpenAI, *Preparedness Framework*; Google
+DeepMind, *Frontier Safety Framework*; Meta, *Advanced AI Scaling Framework* v2.0; Microsoft,
+*Frontier Governance Framework*; NVIDIA, *Frontier AI Risk Assessment*; and the frameworks of
+xAI, Amazon, Cohere, Magic, NAVER and G42 — read 21 August 2026). Compiled to test the
+enforcement seat's core question: **can the person SEC. 4 reaches be identified from public
+documents, or does the governance chart dissolve them?**
+
+**Three of twelve name the office that decides.** Anthropic is explicit, in the operative
+document: **"The CEO and RSO will make the ultimate determination regarding the adequacy of
+the risk assessment and any downstream deployment or development plans,"** with escalation
+where marginal-risk analysis carries the decision — "explicit approval of the Risk Report by
+the Board and LTBT (rather than just the CEO and RSO) will be required" — and the Responsible
+Scaling Officer's duties expressly including "approving relevant model development or
+deployment decisions based on our risk assessments." Meta names a **Chief AI Officer** and a
+**Director of Alignment and Risk** as decision-makers. NVIDIA names a body rather than a
+person: "independent committee approval such as NVIDIA's AI ethics committee."
+
+**The rest describe a procedure with no actor in it.** OpenAI routes the Safety Advisory
+Group's recommendation upward — **"Their guidance goes to OpenAI Leadership for final
+decisions"** — which is a direction of travel, not an office. Google DeepMind commits to
+"safety case reviews prior to external launches when relevant CCLs are reached" and never says
+who conducts them, who approves, or what body determines the outcome. Microsoft's framework is
+reviewed by its Chief Responsible AI Officer and names no deployment approver. xAI, Amazon,
+Cohere, Magic, NAVER and G42 specify no decision authority at all.
+
+**And not one of them requires a signature.** Anthropic's policy assigns *approval* and
+imposes no attestation, certification, or authentication of the decision. Neither does any
+other framework read here. **At the best-documented laboratory on earth there is a
+decision-maker and no artefact of the decision.**
+
+**Map to the Act.** SEC. 4 asks who held practical authority to halt — and at two covered
+developers that question is already answered in public, by role, in the document governing the
+decision, before any statute compelled it. That is the answer to *"SEC. 4 is unprovable
+against a governance chart built by three firms"*: it is provable today from a PDF at
+Anthropic and Meta, and not at the others, which is a fact about their disclosure rather than
+about the doctrine. SEC. 4's exclusion of title, and its rule that substance controls, handles
+the residue either way. **The gap this entry actually exposes is SEC. 8's.** The authority
+exists and is documented; the record of its exercise does not exist anywhere. A regime that
+assigns approval without requiring a signature produces a decision that no prosecutor,
+regulator, or successor can later attribute to anyone. The certification does not create the
+officer — it creates the evidence that the officer acted. Compare SEC. 6(d)–(e): absence of
+practical power negates an element the prosecution must prove, which is administrable only
+where the exercise of that power left a trace.
+
+**Two objections retired at their own source.** *"Nobody will take the safety-officer job if
+it carries prison exposure"* — a frontier laboratory has staffed that role, published its
+authority, and named it in the governing policy. *"The duties are not technically real"* — one
+covered developer performs the substance of them voluntarily today; the Act's contribution is
+uniformity and a name on the page, not a burden invented by drafters.
+
+**Adjacent, and close to this project's position.** GovAI's analysis of the same policy finds
+its transparency mechanisms "still largely rely on self-reporting. Anthropic ultimately sets
+its own goals, judges its own progress, and decides what to redact," and observes that the
+company could have committed to "requiring board sign-off before deploying models above a
+certain capability level." An independent governance institute reaching for a sign-off
+requirement, and stopping short of a statute. ⚠ Byline unpinned; cite for what the analysis
+says, not for institutional weight.
+
+**Limits.** ⚠ Meta's framework was read through a secondary inventory rather than the primary
+document, and the primary should be pinned before the Meta row is quoted publicly. Twelve
+laboratories are not the covered class. The quotations from Anthropic, OpenAI and DeepMind are
+from the primary frameworks; per the standing rule at [E14](../LEDGER.md#part-i), each is to be
+re-read against its source by a human before appearing in any filing or campaign post. **This
+entry records roles and offices as the companies themselves publish them. It identifies no
+individual as a controlling person; SEC. 4 excludes title from authority in black letter, and
+nothing here is evidence that any particular person satisfies that test.**
+
 **17 Aug 2026 — Fidji Simo, on the record against the cure-delay defence** ✅
 (x.com/fidjissimo, 9:00 PM 17 Aug 2026, 188K+ views; her post — archive before
 citing publicly). OpenAI's departing number two (per Axios 14 Aug: left in July,
