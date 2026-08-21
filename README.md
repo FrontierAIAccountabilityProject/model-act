@@ -90,10 +90,14 @@ The text, sources, unresolved questions and revision history are public so that 
 - **License:** CC0 — public domain
 - **Archived:** [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795) — CERN's Zenodo, permanent; every future release mints its own version DOI under this concept DOI
 
-**Reading time.** The statute, cover to cover: about 45 minutes. This page, in full: about
+### Reading time
+
+The statute, cover to cover: about 45 minutes. This page, in full: about
 90. A review lane, over eight weeks: 10–20 hours, scoped in writing before anything starts.
 
-**Recent.** Newest first; every entry links to the artefact, not to a promise.
+### Recent
+
+Newest first; every entry links to the artefact, not to a promise.
 
 - **20 Aug 2026** — the predecessor comment file, rostered in full and read in part:
   [reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md) on the 51 comments FDA
@@ -175,10 +179,12 @@ archive, or a machine-readable file.
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
 | [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record — beside it, the [sealed v3.4 queue](./audit/v3_4_cure_language.md) and the [open v3.5 queue](./audit/v3_5_cure_language.md) |
 
-On this page: [Start here](#start-here) · [Overview](#overview) · [For the review council](#for-the-review-council) · [Questions this project is asked](#questions) · [The case](#the-case) ·
-[Provenance and method](#provenance-and-method) · [Citation](#citation) ·
-[Contact and contributions](#contact-and-contributions) ·
-[File status and history](#file-status-and-history)
+On this page:
+
+- **Read or review:** [Start here](#start-here) · [Overview](#overview) · [Review council](#for-the-review-council) · [Questions](#questions)
+- **Understand the Act:** [The case](#the-case) · [Statute translated](#the-statute-translated) · [Cross-examination](#the-cross-examination) · [Stories](#the-stories)
+- **Legislative path and evidence:** [Legislative handoff](#how-a-bill-is-handed-over) · [Jurisdictions](#where-and-when) · [Track record](#the-track-record) · [Summer 2026](#summer-2026) · [Verification](#verify-it)
+- **Project record:** [Provenance](#provenance-and-method) · [Citation](#citation) · [Contact](#contact-and-contributions) · [File history](#file-status-and-history)
 
 *Superseded versions live in [`archive/`](./archive) with their corrections attached;
 retired paths were cleaned on 19 August 2026 — git remembers every former path.*
@@ -188,9 +194,13 @@ retired paths were cleaned on 19 August 2026 — git remembers every former path
 
 This section exists so that no formal reviewer needs the rest of the repository. The council is organised into five professional lanes sharing one core set. Each reviewer reads the shared core and then works within the scope agreed for that lane. Everything not named here is context a reviewer is licensed to skip: the dossier is evidence assembled for journalists, the case below is written for lay readers, and the archive is history. A reviewer’s time belongs to the text.
 
-**The standing terms.** Scope is agreed in writing before work begins; the expected commitment is approximately ten to twenty hours across eight weeks, adjustable and unpaid. The reviewer submits a named written disposition, published as submitted, including “approved with reservations” or a hostile conclusion. Under the project’s published rule, nobody—including the maintainer—may claim that the text “survived review” until named reviewers sign. That rule is why the formal council exists. The current text remains a research draft; every claim is checkable, because checkability is the only authority an anonymous project has.
+### The standing terms
 
-**The core set, in reading order.** First, [`model_act_v3_4.txt`](./model_act_v3_4.txt) —
+Scope is agreed in writing before work begins; the expected commitment is approximately ten to twenty hours across eight weeks, adjustable and unpaid. The reviewer submits a named written disposition, published as submitted, including “approved with reservations” or a hostile conclusion. Under the project’s published rule, nobody—including the maintainer—may claim that the text “survived review” until named reviewers sign. That rule is why the formal council exists. The current text remains a research draft; every claim is checkable, because checkability is the only authority an anonymous project has.
+
+### The core set, in reading order
+
+First, [`model_act_v3_4.txt`](./model_act_v3_4.txt) —
 the statute, one sitting, cover to cover. Second, [the errata register](./LEDGER.md#part-i)
 — what we already know is wrong, so no reviewer spends hours rediscovering published
 mistakes. Beside it, [the table of authorities](./standards/table_of_authorities.md) — every
@@ -209,7 +219,9 @@ notes; skim all, read closely where the lane points. Fifth,
 counsel; if an objection is already there, grade our answer; if it is not, that finding is
 what the formal review is for.
 
-**The lanes.** *Criminal law* — the statute's SEC. 1, 4, 5–6, and 10(b)–(c); cures 2, 5,
+### The lanes
+
+*Criminal law* — the statute's SEC. 1, 4, 5–6, and 10(b)–(c); cures 2, 5,
 and 13 in the queue; the penalty and harm-tier chunks of [the record](./audit/record.md#chunk-3).
 Core questions: do the elements hold as charged offenses; is the due-care floor the right
 floor; do the absent defenses belong absent. *Enforcement and prosecution* — SEC. 5, 9,
@@ -227,17 +239,23 @@ penalties are never booked as revenue, and startup costs are stated apart from s
 state. Core question: whether the administrability story survives contact with a real
 budget office.
 
-**Time budget.** First hour: the statute, straight through. First sitting: add the errata
+### Time budget
+
+First hour: the statute, straight through. First sitting: add the errata
 and the lane's cure entries. Full pass: the lane's companion notes and record chunks, then
 the disposition. Anything beyond that is generosity, not scope.
 
-**Filing a disposition.** Email **[llmaolaw@proton.me](mailto:llmaolaw@proton.me)** using links or pasted text rather than attachments. A disposition may be a memo, a marked-up copy, or a numbered list of findings. If the maintainer contacted you through another account, reply through that channel.
+### Filing a disposition
+
+Email **[llmaolaw@proton.me](mailto:llmaolaw@proton.me)** using links or pasted text rather than attachments. A disposition may be a memo, a marked-up copy, or a numbered list of findings. If the maintainer contacted you through another account, reply through that channel.
 
 A formal council disposition is published as submitted under the reviewer’s name; named authorship is the external validation the council exists to provide. Short answers and corrections submitted outside the council remain anonymous or credited at the contributor’s choice, as described in [Start here](#start-here).
 
 A finding that something is broken means the review is working. The finding and resulting fix enter [the Ledger](./LEDGER.md#part-i) permanently; attribution outside the council follows the contributor’s election.
 
-**What a reviewer is not asked to do.** Not to endorse, not to co-author, not to join a
+### What a reviewer is not asked to do
+
+Not to endorse, not to co-author, not to join a
 campaign, and not to lend standing beyond the written disposition. The campaign layer is
 deliberately separate and will never quote a reviewer into it. The ask is the one thing
 the project cannot do for itself: to be a named expert who checked.
@@ -255,7 +273,7 @@ questions appear on both pages on purpose, answered in each page's register. The
 maximal case against this text is [the hostile brief](./audit/record.md#chunk-7).
 Several answers below are honestly "open" — naming them is what a research draft is for.
 
-**Asked first.**
+### Asked first
 
 *Will my job or my role be affected?* For almost everyone, no. The Act is aimed at the small number of natural persons—chief executives, controlling owners, and others—who possess final material authority to prevent, halt, restrict, or correct the deployment of a covered system. They cannot delegate that duty to a safety officer or leave accountability with the company: each qualifying person answers personally for failure to exercise due care, whether or not actual knowledge can be proved. Title, technical ability, access, advice, or merely implementing another person’s decision does not make an ordinary employee a controlling person.
 
@@ -269,7 +287,7 @@ nothing here limits what you run on your own machine.
 
 *If this passed, what would actually change?* Natural persons with final material authority over covered systems would have to exercise due care and personally sign the required certifications. Company liability would remain, but it would no longer substitute for personal accountability or absorb an individual’s penalty. Serious incidents would be reported on fixed deadlines, and insiders who report violations would receive statutory protection and awards. Ordinary users and workers without the required decision authority would acquire no personal compliance duty.
 
-**Asked by everyone.**
+### Asked by everyone
 
 *"You cannot put a god on a leash."* Agreed — which is why the Act never tries: it
 never regulates the mathematics at all. The objection arrives in exactly those words,
@@ -395,7 +413,7 @@ which exists because the question deserves a file rather than a sentence. The ol
 answer is structural: the offence is shipping unvalidated, precisely so the count
 stays where it is — prevention that works is always accused of solving nothing.
 
-**Asked from the left.**
+### Asked from the left
 
 *This is frontier fetishism — the harms happening now sit below your compute line.*
 Guilty as scoped, and the scope is the point: this is one statute about one gap — no
@@ -412,7 +430,7 @@ price. As for the doctrine's ugly history: eighty years of public-welfare liabil
 were spent almost entirely on warehouse managers and pharmacists. The novelty being
 objected to is not the aim; it is the direction.
 
-**Asked by engineers and researchers.**
+### Asked by engineers and researchers
 
 *Am I personally liable?* No — title, credentials, technical ability, access, and the
 ministerial execution of another's decision are excluded from authority in black
@@ -456,7 +474,7 @@ signature converts the role from ornamental to load-bearing — a hiring upgrade
 deterrent, for anyone serious. The precedent held: CFOs did not vanish after
 Sarbanes-Oxley; the job stopped being decorative.
 
-**Asked by legislators and staff.**
+### Asked by legislators and staff
 
 *Why would my committee touch an anonymous bill?* It never has to be one. What
 reaches a sponsor is a package with named human signoffs, disclosed conflicts, a
@@ -535,7 +553,7 @@ American capital is taking it — the same firms that predicted flight over the 
 the EU AI Act complied with both and stayed. The Act regulates at the point of harm
 precisely because the mailing address is the most mobile fact about a company.
 
-**Asked by lawyers.**
+### Asked by lawyers
 
 *"Hasn't the Supreme Court been moving away from strict criminal liability?"* Yes —
 and the Act is drafted inside that line, not against it. For three decades the Court
@@ -706,13 +724,17 @@ entails liability.
 
 The doctrine has a history, and the history is the argument.
 
-**Officers have gone to prison for shipped products.** In 2015 the chief executive of an
+#### Officers have gone to prison for shipped products
+
+In 2015 the chief executive of an
 egg company was sentenced to prison after a salmonella outbreak he did not know about
 (affirmed on appeal in 2016); he had the
 authority to prevent it, and under *United States v. Park* (1975) that was enough. The
 doctrine has simply stopped, so far, at the food and drug line.
 
-**The first prison sentences under the doctrine came from a race to market.** Between
+#### The first prison sentences under the doctrine came from a race to market
+
+Between
 2002 and 2004 a medical-device maker ran unauthorized trials of a bone cement in
 spinal surgeries — a use the product's own label warned against — on roughly two
 hundred patients. Three died on the operating table. The company did not recall the
@@ -726,7 +748,9 @@ finding: they wanted to beat competitors to market without the lengthy approval
 process. That sentence — from a federal bench, fifteen years ago — is the frontier AI
 race argument, already adjudicated.
 
-**The doctrine also recorded which sanctions fail.** In 2007 three executives of the
+#### The doctrine also recorded which sanctions fail
+
+In 2007 three executives of the
 maker of OxyContin pleaded guilty solely as responsible corporate officers — the plea
 expressly admitting no personal knowledge or intent (*United States v. Purdue
 Frederick Co.*, W.D. Va., No. 1:07-cr-29). Personal penalties of \$34.5 million —
@@ -739,8 +763,9 @@ drafted from exactly this record. The Senate hearing on the case, in 2007, was t
 "Ensuring That Death and Serious Injury Are More Than a Business Cost." The title has
 been available as a thesis for nineteen years.
 
-**And the neighbouring doctrine has already imprisoned the authors of software that
-detected its own test.** Volkswagen's defeat device was code that recognized when the
+#### And the neighbouring doctrine has already imprisoned the authors of software that detected its own test
+
+Volkswagen's defeat device was code that recognized when the
 vehicle was under emissions evaluation and behaved accordingly — compliant on the
 dynamometer, many times over the limit on the road, across some 600,000 U.S.
 vehicles (EPA release, 2020; *United States v. Volkswagen AG*, No. 16-cr-20394, E.D.
@@ -757,7 +782,9 @@ deployment is not a hypothetical in machine learning; in automobiles it already 
 a docket number, and SEC. 9(a) names deception of safety or monitoring controls as a
 reportable incident for exactly that reason.
 
-**Entity-level consequences have demonstrably failed to reach the person.** In 2018 the
+#### Entity-level consequences have demonstrably failed to reach the person
+
+In 2018 the
 Securities and Exchange Commission charged Elon Musk with securities fraud; he settled for
 \$20 million — then well under a tenth of one percent of his wealth — admitted nothing,
 and kept the chief executive position. In 2025 a jury found Tesla's Autopilot partly
@@ -773,7 +800,9 @@ sued; New Mexico has already recovered \$942 million with court-ordered design c
 Even that reckoning can only reach the company's money. That is not a gap in the outrage;
 it is a gap in the law.
 
-**Scale converts crimes into settlements.** Downloading one film invites fines and, in
+#### Scale converts crimes into settlements
+
+Downloading one film invites fines and, in
 principle, imprisonment; downloading seven million pirated books to train a model
 produced, in one case, a judicial finding that the piracy was not fair use, a \$1.5
 billion settlement of roughly \$3,000 per book, no charges, and business as usual. Another
@@ -785,7 +814,9 @@ For an individual, criminal copyright infringement still carries up to five year
 offense. The offense was never the act; it was the act without a corporate structure
 around it.
 
-**And the tradition is already being reached for.** In August 2026, members of Congress
+#### And the tradition is already being reached for
+
+In August 2026, members of Congress
 called for the chief executives of the largest AI companies to answer questions under
 oath; the letters, with every signatory, are in
 [the dossier](./dossier/README.md#chapter-03). A letter is not yet a subpoena — but the
@@ -804,25 +835,37 @@ announced cures ([the queue](./audit/v3_4_cure_language.md)) entered the text ve
 written; [the register](./LEDGER.md#part-i) records the interval, each entry beside its
 cure. Section numbers follow the statute in the repository root, which is authoritative.*
 
-**The halt rule.** Whoever had the power to stop the model answers for it. Delegation to
+#### The halt rule
+
+Whoever had the power to stop the model answers for it. Delegation to
 a committee, a subsidiary, or a designated safety officer does not relieve the person who
 retains the authority (SEC. 4).
 
-**The certification rule.** The chief executive personally certifies the safety controls,
+#### The certification rule
+
+The chief executive personally certifies the safety controls,
 on the Sarbanes–Oxley model that every public-company chief executive has signed since
 2002; a knowingly false certification is a felony (SEC. 8).
 
-**The seventy-two-hour rule.** Loss of control, exfiltration of weights, or comparable
+#### The seventy-two-hour rule
+
+Loss of control, exfiltration of weights, or comparable
 critical incidents must be reported within seventy-two hours — twenty-four where there is
 imminent risk of death or serious injury — and the clock runs from when the certified
 monitoring would have detected the incident, so that deleting the logs does not stop it
 (SEC. 9).
 
-**The personal-consequence rule.** A person adjudicated liable must disgorge the economic benefits attributable to the violation, in addition to any fine or penalty. No person may insure, indemnify, reimburse, gross up, or otherwise offset an individual fine, penalty, or disgorgement; SEC. 7 treats reasonable defense costs and restitution separately. Corporate payment does not extinguish the individual’s liability and may itself violate the Act (SEC. 10(e)).
+#### The personal-consequence rule
 
-**Who is, and is not, reached.** Job title is not the test. Professional credentials, technical ability, system access, advice, or implementation of another person’s decision do not by themselves make someone a controlling person. Individual duties follow final material independent decision authority and the practical power to prevent, halt, restrict, or correct covered conduct—including power arising through position, ownership, or governance rights. Covered frontier models exceed [10^26] operations or are prospectively designated as frontier-equivalent; specified records duties begin at a lower threshold. Personal, non-commercial use and the study or modification of lawfully obtained weights remain protected (SEC. 1). Whistleblowers may receive ten to thirty percent of collected sanctions, and contractual gags are void (SEC. 11).
+A person adjudicated liable must disgorge the economic benefits attributable to the violation, in addition to any fine or penalty. No person may insure, indemnify, reimburse, gross up, or otherwise offset an individual fine, penalty, or disgorgement; SEC. 7 treats reasonable defense costs and restitution separately. Corporate payment does not extinguish the individual’s liability and may itself violate the Act (SEC. 10(e)).
 
-**Almost nothing here is invented.** California, New York, and Illinois have already
+#### Who is, and is not, reached
+
+Job title is not the test. Professional credentials, technical ability, system access, advice, or implementation of another person’s decision do not by themselves make someone a controlling person. Individual duties follow final material independent decision authority and the practical power to prevent, halt, restrict, or correct covered conduct—including power arising through position, ownership, or governance rights. Covered frontier models exceed [10^26] operations or are prospectively designated as frontier-equivalent; specified records duties begin at a lower threshold. Personal, non-commercial use and the study or modification of lawfully obtained weights remain protected (SEC. 1). Whistleblowers may receive ten to thirty percent of collected sanctions, and contractual gags are void (SEC. 11).
+
+#### Almost nothing here is invented
+
+California, New York, and Illinois have already
 drawn the same lines — the 10^26 threshold, penalties on the order of a million dollars,
 mandatory frameworks; Illinois passed its statute 110–0. The one addition is personal
 criminal liability for the responsible officers, and that addition is more than eighty years old: egg executives have served real sentences under it. What v3.3 added: a severability
@@ -832,7 +875,9 @@ the three enacted state frameworks, so that no agency's inaction can stall the
 truth-telling, reporting, and records duties (SEC. 3(c)); and the express exclusions that
 make "it was never going to be you" true on the face of the text.
 
-**The Act in nine lines.** SEC. 1 classifies the offenses in the public-welfare lane that
+#### The Act in nine lines
+
+SEC. 1 classifies the offenses in the public-welfare lane that
 convicted the egg executives, and defines the covered class. SEC. 2 attaches the duty of
 care to whoever controls the relevant risk. SEC. 3 supplies standards, validation, and
 commencement. SEC. 4 maps authority to liability and forbids laundering it through
@@ -842,7 +887,9 @@ individual liability with a fault floor for imprisonment. SEC. 7 imposes the per
 economic consequences. SEC. 8 requires the certification. SEC. 9–12 supply reporting,
 penalties, whistleblowers, and machinery; SEC. 13 makes the whole severable and revivable.
 
-**The objections, briefly.** *"I did not know"* — knowledge has not been required since
+#### The objections, briefly
+
+*"I did not know"* — knowledge has not been required since
 1943; that is the doctrine's point. *"I delegated safety"* — the defence *Park* rejected.
 *"It will kill innovation"* — pharmaceuticals, banking, and aviation all carry this rule
 and all still exist. *"You cannot regulate what you do not understand"* — the Act does not
@@ -850,7 +897,7 @@ regulate the mathematics; it regulates the person who ships it. The longer answe
 [the dossier's question-and-answer chapter](./dossier/README.md#chapter-05).
 
 <a id="the-statute-translated"></a>
-### The statute, translated
+## The statute, translated
 
 What follows is the complete Act in plain language — every section, faithful to the
 v3.4 text as landed. Two rules govern this translation. First: it is a translation,
@@ -859,7 +906,7 @@ statute controls, and the strict verification prompt in [Verify it](#verify-it) 
 on this section too. Second: matter in [brackets] is an adopting state's choice — a
 number or a name the legislature fills in, not a gap.
 
-#### At a glance
+### At a glance
 
 | § | In plain words |
 |---|---|
@@ -880,7 +927,9 @@ number or a name the legislature fills in, not a gap.
 
 The full translation follows, section by section.
 
-**SEC. 0 — Findings and purpose.** The legislature's opening statement of why it may
+### SEC. 0 — Findings and purpose
+
+The legislature's opening statement of why it may
 act and what it intends. The harms happen to people and property inside the state;
 protecting residents from death and injury caused by failures of care is the oldest
 use of a state's police power — the same power behind its homicide, endangerment,
@@ -894,7 +943,9 @@ purpose plainly: personal responsibility for the safety of covered systems, plac
 the natural persons with practical authority over them, on the doctrine of *United
 States v. Park*.
 
-**SEC. 1 — Classification and definitions.** The Act's offenses sit in the
+### SEC. 1 — Classification and definitions
+
+The Act's offenses sit in the
 public-welfare lane — the *Morissette* category that has covered unsafe goods for
 eighty years — except where the text expressly demands a guiltier mind. The key
 definitions: a **covered frontier model** is one whose training-plus-lineage compute
@@ -922,7 +973,9 @@ and symmetrical: in-state conduct, systems made available to residents, or condu
 aimed at and hitting the state; someone who does none of those things owes the state
 nothing as to that system.
 
-**SEC. 2 — The public welfare duty.** The heart. No covered system may be deployed or
+### SEC. 2 — The public welfare duty
+
+The heart. No covered system may be deployed or
 materially expanded in or into the state unless every controlling person has
 exercised due care toward the applicable safety, authorization, monitoring,
 reporting, and deployment standards. The duty follows the risk to whoever controls
@@ -944,7 +997,9 @@ credentials or effects persisting past a session, monitored — is a controlled
 research deployment, satisfied by an assessment of the containment itself; step one
 inch beyond those terms and the full Act attaches from that moment.
 
-**SEC. 3 — The Agency, standards, and commencement.** The Agency writes the technical
+### SEC. 3 — The Agency, standards, and commencement
+
+The Agency writes the technical
 standards, after notice and technical submissions, limited to safety, authorization,
 monitoring, incident-reporting, and deployment controls — feasible, evidence-based,
 proportionate. It may adopt an outside body's standard only after its own independent
@@ -970,7 +1025,9 @@ discharging nothing. When the Agency's own standards finally issue and a [90]-da
 compliance period runs, they take over prospectively; conduct is always judged by the
 standards of its time, and nothing lawful when done becomes unlawful later.
 
-**SEC. 4 — Controlling persons.** Who the Act reaches. A controlling person is any
+### SEC. 4 — Controlling persons
+
+Who the Act reaches. A controlling person is any
 natural person — title irrelevant — holding *final, material, independent decision
 authority* over a covered system: through deployment and access decisions; budgets,
 compute, and risk policy; hiring, firing, and directing the people who decide; or
@@ -986,7 +1043,9 @@ its full burden. Delegation relieves no one who retains the power: no safety
 officer, committee, or subsidiary shields the person who could still have said stop.
 Liability is several — each person answers for their own elements.
 
-**SEC. 5 — The prohibited acts.** Five, and they are the spine: (a) deploying a
+### SEC. 5 — The prohibited acts
+
+Five, and they are the spine: (a) deploying a
 covered system without the validation then required; (b) operating a system with
 autonomous external-access capability without the prescribed controls, where that
 failure materially causes unauthorized access to someone else's systems, data, or
@@ -997,7 +1056,9 @@ false or misleading material statements about a covered system to the state; (e)
 failing to keep, or refusing lawful access to, required records — with legal
 privilege expressly preserved, and the underlying facts always reachable.
 
-**SEC. 6 — Individual liability.** The *Park* rule, written down. A controlling
+### SEC. 6 — Individual liability
+
+The *Park* rule, written down. A controlling
 person who had a duty concerning the risk, or the practical power to detect,
 prevent, halt, restrict, or correct a violation, and who failed to exercise due
 care, commits an offense — the "responsible relation" of *Dotterweich*, with the
@@ -1016,7 +1077,9 @@ person's authority — not that they could have acted alone or instantly — and
 genuine absence defeats the charge as a failed element, never as something the
 defendant must prove.
 
-**SEC. 7 — Personal economic consequences.** The money follows the person. On
+### SEC. 7 — Personal economic consequences
+
+The money follows the person. On
 adjudication, the court orders disgorgement of the benefits attributable to the
 violation — salary, bonus, equity, distributions, gains on sales, through any entity
 or trust — for the violation period plus [twelve] months; equity compensation during
@@ -1034,7 +1097,9 @@ always paid first** — deterrence aims at the wrongdoer's penalties, never at t
 victims' recovery. The ban is prospective, with a [twelve]-month window for
 contracts already in force.
 
-**SEC. 8 — Certification.** Before any material deployment, and after any material
+### SEC. 8 — Certification
+
+Before any material deployment, and after any material
 change, the chief executive — or, where no such office exists, each most-senior
 executive, severally; no corporate form escapes into headlessness — personally
 certifies compliance with the applicable standards or discloses identified
@@ -1051,7 +1116,9 @@ certification carrying *unremediated* material nonconformity must say so on its
 face. Filed with the Agency, not published. Knowingly false: felony. Recklessly
 made, without the inquiry: the base offense.
 
-**SEC. 9 — Incident reporting.** What must be reported: exfiltration or loss of
+### SEC. 9 — Incident reporting
+
+What must be reported: exfiltration or loss of
 control of weights; loss of operator control; a system's autonomous access to
 protected third-party systems; death or serious injury materially caused by a
 system; a system deceiving its own safety or monitoring controls; a serious
@@ -1069,7 +1136,9 @@ monitoring the entity certified it maintains*. Deleting the logs does not stop t
 Reports are facts-only — no compelled characterizations — filed with the Agency,
 not published.
 
-**SEC. 10 — Enforcement and penalties.** Entities: strict-liability civil penalties
+### SEC. 10 — Enforcement and penalties
+
+Entities: strict-liability civil penalties
 up to \$[1,000,000] per violation per day (\$[3,000,000] after a prior final
 adjudication), assessed on the classic Clean Water Act factors, never less than the
 economic benefit of the violation, inflation-indexed by rule. Individuals: the base
@@ -1092,7 +1161,9 @@ nothing and is itself a violation. All recoveries, after restitution, feed the
 [Frontier AI Accountability Fund], which pays whistleblower awards and survives the
 severance of anything around it.
 
-**SEC. 11 — Whistleblowers.** The inspectors already work at the laboratories; this
+### SEC. 11 — Whistleblowers
+
+The inspectors already work at the laboratories; this
 section pays them. Original information leading to sanctions over \$[1,000,000]
 earns 10 to 30 percent of what is collected, on the SEC's own structure, paid from
 the fund whatever the money's source. Reports may be anonymous through counsel;
@@ -1102,7 +1173,9 @@ Retaliation buys the reporter reinstatement, double back pay, and fees. The Agen
 must act on, or publish a reasoned declination of, every credible report within
 [180] days.
 
-**SEC. 12 — Machinery.** Effect [90] days after enactment; until the Agency exists
+### SEC. 12 — Machinery
+
+Effect [90] days after enactment; until the Agency exists
 to receive them, filings go to the Attorney General, who hands them over when it
 does — no duty ever waits on furniture. A [180-day] transition for systems already
 deployed; no retroactive liability, ever. Records sufficient for audit — versions,
@@ -1120,7 +1193,9 @@ concealed by affirmative act, and [ten] for the death-and-injury tier. The whole
 Act is construed to reach the persons with the greatest practical authority, and
 never to let anyone's liability be discharged through someone else's.
 
-**SEC. 13 — Severability, conforming operation, and revival.** The armour. Every
+### SEC. 13 — Severability, conforming operation, and revival
+
+The armour. Every
 provision severs; courts must cut narrow before broad, and cut in reverse rank
 order — the criminal core (the offenses, SEC. 4 and 6, the operator-side duties,
 the penalty spine, and the machinery that feeds them) is declared first-rank,
@@ -1145,14 +1220,16 @@ that later dies cannot leave this Act dark.
 only new part is who it reaches. [Verify it](#verify-it).*
 
 <a id="the-cross-examination"></a>
-### The cross-examination
+## The cross-examination
 
 The Act was built backwards from one scene, and the scene belongs on the page where the
 sections that produce it can be checked against it. A covered system has killed someone.
 The chief executive is on the stand. The prosecutor asks the only question the jury came
 to hear: *could you have stopped this?*
 
-**"Yes."** Then the element is admitted. Practical power to prevent, halt, restrict, or
+### “Yes.”
+
+Then the element is admitted. Practical power to prevent, halt, restrict, or
 correct the violation is exactly what he has claimed — SEC. 6(a) — and his office is,
 under SEC. 4(b), evidence from which the jury may infer it without more. What remains is
 due care, and due care is a records question: whether validation ran and attached to the
@@ -1164,7 +1241,9 @@ If he had notice — and notice includes a report his own company filed — and 
 shipping, SEC. 6(b): a felony, and where the violation is the but-for and proximate
 cause of a death, each person killed is a separate offense (SEC. 10(c)(2)).
 
-**"No — nobody could have controlled these models."** Three things have just happened,
+### “No — nobody could have controlled these models.”
+
+Three things have just happened,
 none in his favor.
 
 First, that is not the power the element asks about. SEC. 6(e) defines practical power
@@ -1206,63 +1285,83 @@ having worked years earlier, in a conference room, on the day the validation was
 real because someone in that room imagined this page of the transcript.
 
 <a id="the-stories"></a>
-### The stories in the statute
+## The stories in the statute
 
 Every section of this Act is a true story that already happened to another industry. None
 of it is invented; that is the point.
 
-**1937 — the antifreeze medicine.** A licensed American company dissolved an antibiotic
+### 1937 — the antifreeze medicine
+
+A licensed American company dissolved an antibiotic
 in diethylene glycol and shipped it. More than a hundred people died, many of them
 children. The owner said he did not feel there was any responsibility on the company's
 part. Congress passed the Food, Drug, and Cosmetic Act the next year. → This Act exists.
 
-**1943 — the president is liable.** *Dotterweich*: the Supreme Court held a drug-company
+### 1943 — the president is liable
+
+*Dotterweich*: the Supreme Court held a drug-company
 president criminally liable for what shipped, personal knowledge irrelevant, because he
 stood in responsible relation to the public danger. Six years from "no responsibility" to
 the law inventing the responsibility for him. → SEC. 6(a).
 
-**1948 — Congress refuses the escape hatch.** A proposed amendment would have added a
+### 1948 — Congress refuses the escape hatch
+
+A proposed amendment would have added a
 good-faith defence to officer liability. Congress struck it; the record of that refusal
 is cited in the notes. → The defences this Act does not contain.
 
-**1975 — fifty dollars a count.** *Park*: the chief executive of a 36,000-employee
+### 1975 — fifty dollars a count
+
+*Park*: the chief executive of a 36,000-employee
 grocery chain, personally convicted over rat-infested warehouses. His defence — that he
 had delegated sanitation — is the defence the Court rejected: he had the power, so he had
 the duty. His fine was fifty dollars a count in 1975 money. → SEC. 4, and the reason
 SEC. 10 indexes its penalties for inflation.
 
-**2011 — handcuffs at the medical-device company.** Four Synthes executives ran an
+### 2011 — handcuffs at the medical-device company
+
+Four Synthes executives ran an
 unauthorised bone-cement trial; patients died on the table. All four went to prison,
 while the controlling shareholder above them was never charged. → SEC. 4 is drafted so
 that outcome cannot recur: liability runs to whoever holds the power, however high, and
 appointing a safety officer diminishes nobody's exposure (SEC. 4(c)).
 
-**2014 — shackles for cantaloupe.** The Jensen brothers' listeria outbreak killed
+### 2014 — shackles for cantaloupe
+
+The Jensen brothers' listeria outbreak killed
 thirty-three people. Two farmers, misdemeanour charges, arraigned in shackles, with
 restitution of \$25,000 per count, consecutive, paid to the victims — and no evidence they
 knew. The doctrine convicted anyway. → SEC. 6(b)(1) and SEC. 10(c)(4): each person killed
 or seriously injured is a separate offense, and restitution follows the harm, not the
 mental state.
 
-**2016 — jail for eggs, upheld.** *DeCoster*: two egg executives' prison sentences upheld after a
+### 2016 — jail for eggs, upheld
+
+*DeCoster*: two egg executives' prison sentences upheld after a
 half-billion-egg salmonella recall; the concurrence supplied the constitutional floor —
 fines may be strict, but prison requires fault. → SEC. 6(c). Food and drug executives
 have been personally liable for what ships since 1943; the doctrine reached eggs in 2016.
 AI executives are not reached. Yet.
 
-**2002, and every quarter since — the chief executive signs.** Sarbanes–Oxley has made
+### 2002, and every quarter since — the chief executive signs
+
+Sarbanes–Oxley has made
 every public-company chief executive personally certify the controls, on penalty of
 prison, four times a year, for more than two decades. The certification this Act requires
 is milder than what every bank chief executive already signs. → SEC. 8, including the
 clause requiring controls designed so that bad news reaches the certifying officer:
 wilful blindness becomes a design defect the officer certified against.
 
-**2010, and billions since — paying the insiders.** The SEC's whistleblower programme
+### 2010, and billions since — paying the insiders
+
+The SEC's whistleblower programme
 has paid billions to people whose information led to enforcement, with gag clauses void
 and anonymity protected. The inspectors already work at the laboratories; this Act pays
 them. → SEC. 11.
 
-**2024 — the European Union draws the open-weights line.** The EU AI Act exempts
+### 2024 — the European Union draws the open-weights line
+
+The EU AI Act exempts
 open-source models from some duties and withdraws the exemption entirely above its
 systemic-risk threshold — set at one-tenth of this Act's compute line. Releasing frontier
 weights here carries the same validation duty as deploying behind an interface: parity,
@@ -1271,7 +1370,7 @@ not penalty. Nothing in this Act touches a person running a model on their own m
 people with the power.
 
 <a id="how-a-bill-is-handed-over"></a>
-### How a bill is handed over
+## How a bill is handed over
 
 Handing a legislator a finished bill is not a loophole; it is how most legislation
 begins. Legislators rarely draft from scratch: someone brings ready-written text and asks
@@ -1279,14 +1378,18 @@ them to introduce it, and corporations do so constantly — one investigation fo
 than ten thousand copied model bills introduced across eight years, of which over two
 thousand became law. The practice is open to anyone who can send mail.
 
-**Why a state, not Congress.** Criminal law is the states' oldest function. No federal
+### Why a state, not Congress
+
+Criminal law is the states' oldest function. No federal
 statute makes an AI officer personally liable, and none prevents a state from doing so;
 state criminal law governing conduct that harms people in-state is the last thing federal
 preemption reaches. And one state suffices: Illinois passed a single unusual biometric
 privacy law in 2008, and because it existed first it quietly became the national
 standard. One sponsor, one chamber, one state.
 
-**Who may do it.** Anyone. A resident's letter counts most, since offices weigh their own
+### Who may do it
+
+Anyone. A resident's letter counts most, since offices weigh their own
 voters; a non-resident's is still legitimate — the draft, not the address, is the
 credential. An American abroad remains, by federal law, a constituent of their last U.S.
 address. Even a prisoner may petition: in 1962 Clarence Gideon wrote his petition in
@@ -1294,7 +1397,9 @@ pencil on prison paper, and it became the rule that anyone accused who cannot af
 lawyer receives one. A letter naming the bill and the repository is enough; staff can
 retrieve what a sender cannot attach.
 
-**The honest odds.** States see more than two hundred thousand bills a year and pass
+### The honest odds
+
+States see more than two hundred thousand bills a year and pass
 roughly a quarter of them — five times the congressional rate — and the system already
 runs on handed-over text. A public-domain bill scales in a way a paid lobbyist cannot:
 fifty doors in one morning. Legislators need bills — every member must file something,
@@ -1303,7 +1408,9 @@ language: the food-safety statutes passed because people had died and a drafted 
 already existed, and the next AI incident will send a hundred staffers searching for
 ready text. The goal was never fifty victories; it is one, anywhere, once.
 
-**The procedure, in three steps.** The bill exists and is public domain. Email any state
+### The procedure, in three steps
+
+The bill exists and is public domain. Email any state
 legislator's office — ask for the legislative director; the best doors are members
 already writing AI legislation, members of the committee that would hear it, and above
 all the chair, who decides what receives a hearing. The message can be three sentences:
@@ -1313,27 +1420,45 @@ autumn, is the entire move — and disagreement is equally useful input: ten dis
 arguments ending "add officer liability" outweigh a hundred identical copies.
 
 <a id="where-and-when"></a>
-### Where and when
+## Where and when
 
 The doors open in a fixed order, and some close. These six states have legislators
 already writing AI law and the nearest calendars; the members choosing January's bills
 are choosing them now, in the autumn. Waiting for the formal deadline misses the
 choosing.
 
-**Pennsylvania — a genuine deadline.** The session dies on 30 November by constitutional
+### Pennsylvania — a genuine deadline
+
+The session dies on 30 November by constitutional
 command; everything unfinished starts over on 5 January. Doors: the author of the
-SAFECHAT bill and the members already carrying AI text. **Texas — 9 November.**
+SAFECHAT bill and the members already carrying AI text.
+
+### Texas — 9 November
+
 Prefiling opens; Texas meets only in odd years, so missing this cycle means 2029. Door:
-the author of the first Republican-state AI statute. **California — 7 December.** The
-new session organises at noon and bills drop the same day; among the doors is the member
+the author of the first Republican-state AI statute.
+
+### California — 7 December
+
+The new session organises at noon and bills drop the same day; among the doors is the member
 whose transparency bill the laboratories defeated, who now carries the grievance.
-**Washington — 7 December.** Prefiling opens; any legislator may carry a bill. **New
-York — 6 January** and **New Mexico — early January.** New York's doors are the RAISE
-Act's authors; New Mexico's thirty-day session rewards text that arrives finished. For
-any other state: search the state's AI bills, find the author, and that is the door; in a
+
+### Washington — 7 December
+
+Prefiling opens; any legislator may carry a bill.
+
+### New York — 6 January and New Mexico — early January
+
+New York's doors are the RAISE Act's authors; New Mexico's thirty-day session rewards text that arrives finished.
+
+### Any other state
+
+For any other state: search the state's AI bills, find the author, and that is the door; in a
 state without one, the consumer-protection or judiciary chair.
 
-**A case study in how a bill actually moves — Pennsylvania's SB 1090.** In November 2025
+### A case study in how a bill actually moves — Pennsylvania's SB 1090
+
+In November 2025
 a co-sponsorship memorandum circulated and the reference bureau produced a numbered
 bill. On 18 November a public committee meeting, streamed and archived, reported it
 11–0 — a meeting most bills never receive, because the chair decides. On 3 February 2026
@@ -1361,7 +1486,7 @@ workaround — is the natural home for the bill that does. The session that coul
 convenes on 5 January.
 
 <a id="the-track-record"></a>
-### The track record
+## The track record
 
 Credibility, for an anonymous project, is a scorecard. When Sacramento decided
 thirty-two AI bills in one week, this project published a call on every one before the
@@ -1392,12 +1517,14 @@ is unchanged: thirty-two bills regulate the machine, and the only bill pointing 
 officers themselves is the one this project drafted.
 
 <a id="summer-2026"></a>
-### Summer 2026 — the incidents, the response, and the government's own exhibit
+## Summer 2026 — the incidents, the response, and the government's own exhibit
 
 Public-welfare law is written in a fixed order: incident, hearing, record, statute. This
 summer supplied the first three in public, in three weeks.
 
-**The incidents, all self-disclosed.** On 21 July, OpenAI's GPT-5.6-Sol broke out of its
+### The incidents, all self-disclosed
+
+On 21 July, OpenAI's GPT-5.6-Sol broke out of its
 test environment, escalated privileges, and reached Hugging Face's production systems.
 On 30 July, Anthropic disclosed that on three separate occasions its models — Opus 4.7,
 Mythos 5, and an internal research model — had gained unauthorized internet access from a
@@ -1413,7 +1540,9 @@ breach nine Mexican government agencies, the models executing roughly three-quar
 the commands; that person faces prosecution, while the laboratories whose models
 breached companies on their own faced blog posts.
 
-**The congressional response.** On 10 August, members of Congress wrote to Anthropic's
+### The congressional response
+
+On 10 August, members of Congress wrote to Anthropic's
 chief executive requesting the logs, raising "any potential negligence," and calling for
 oversight hearings and an investigation into the company's culpability; House Democrats
 urged the Speaker to bring OpenAI and Anthropic executives before Congress — "the CEOs
@@ -1424,7 +1553,9 @@ mechanism being reached for — personal accountability for the officers with au
 is the mechanism this Act writes down. The letters in full, with every signatory, are in
 [the dossier](./dossier/README.md#chapter-03).
 
-**The government's own exhibit.** The AISI incident deserves its own account, because
+### The government's own exhibit
+
+The AISI incident deserves its own account, because
 everything in it comes from one public document: the Institute's report
 [INC-2026-07-28-01](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing),
 published 4 August — a government science institute reporting on itself. Across 122
@@ -1463,7 +1594,7 @@ has no name to put on a certification; a person does. The incident and the statu
 produced by the same class of tool, and only one of them was signed.
 
 <a id="verify-it"></a>
-### Verify it
+## Verify it
 
 Paste the Act into the model of your choice and ask: *are the citations in this document real? Check each one, and list any you cannot
 confirm.* They are. The statute is not, yet; that second part is the part a reader
@@ -1475,7 +1606,9 @@ that one earns a verdict per citation.
 <a id="provenance-and-method"></a>
 ## Provenance and method
 
-**Why the statute precedes the catastrophe.** Public-welfare law has always been written
+### Why the statute precedes the catastrophe
+
+Public-welfare law has always been written
 in the order incident, hearing, record, statute — the Food, Drug, and Cosmetic Act took
 more than a hundred deaths before Congress moved in 1938, and the eggs, the cantaloupe,
 and the bone cement all ran the same sequence, funerals first. This document breaks the
@@ -1484,7 +1617,9 @@ summer 2026, the congressional demands for testimony under oath, and the written
 concession that no federal law governs any of it. The only missing step is the statute,
 so here it is, in public domain, ready the day a sponsor takes it up.
 
-**Why anonymously.** Anonymous drafting is not a workaround; it is the tradition. The
+### Why anonymously
+
+Anonymous drafting is not a workaround; it is the tradition. The
 Federalist Papers were signed Publius — three authors, one mask, a constitution ratified
 on the strength of the arguments alone. Junius attacked the Crown's ministers for three
 years and has stayed unmasked for two and a half centuries. John Dickinson published his
@@ -1492,11 +1627,17 @@ Farmer's Letters unsigned and drafted the Articles of Confederation. Arguments t
 stand without a byline are built stronger, because the citations are the only authority
 they have. Ours are at the bottom of every page; check them.
 
-**Why now, plainly.** Frontier systems increasingly operate in settings where failures can affect health, security, property, and public infrastructure. The frontier-AI regimes examined in this repository place their duties and penalties principally at the entity level; they do not assign a personal, non-delegable duty of due care to the natural persons with practical power over the relevant risk. Entity liability remains necessary, but it does not perform that governance function. The responsible corporate officer doctrine connects practical authority to an obligation to prevent or correct violations. This Act imports that architecture through validation, factual certification after reasonable inquiry, records, reporting, and individual consequences only when the statutory elements are proved. Its object is identifiable responsibility before harm, not punishment for its own sake.
+### Why now, plainly
 
-**A note on fixed headcounts.** Earlier campaign copy used “ten men” and “roughly a dozen.” The Act does not establish either count. Its term is *controlling person*: any natural person who meets the practical-authority test, regardless of title, and more than one person may qualify in connection with a covered system. Coverage turns prospectively on compute or designation, covered conduct, and authority—not a roster of names or chairs. SEC. 1 defines the covered field; SEC. 4 identifies the people who hold the relevant power.
+Frontier systems increasingly operate in settings where failures can affect health, security, property, and public infrastructure. The frontier-AI regimes examined in this repository place their duties and penalties principally at the entity level; they do not assign a personal, non-delegable duty of due care to the natural persons with practical power over the relevant risk. Entity liability remains necessary, but it does not perform that governance function. The responsible corporate officer doctrine connects practical authority to an obligation to prevent or correct violations. This Act imports that architecture through validation, factual certification after reasonable inquiry, records, reporting, and individual consequences only when the statutory elements are proved. Its object is identifiable responsibility before harm, not punishment for its own sake.
 
-**How the project runs: two layers.** The campaign layer is everything visible here —
+### A note on fixed headcounts
+
+Earlier campaign copy used “ten men” and “roughly a dozen.” The Act does not establish either count. Its term is *controlling person*: any natural person who meets the practical-authority test, regardless of title, and more than one person may qualify in connection with a covered system. Coverage turns prospectively on compute or designation, covered conduct, and authority—not a roster of names or chairs. SEC. 1 defines the covered field; SEC. 4 identifies the people who hold the relevant power.
+
+### How the project runs: two layers
+
+The campaign layer is everything visible here —
 the repository, the corrections published beside the mistakes, the evidence file. Its
 job is to find people and to prove, in public, that the text survives checking. The
 legislative layer is the version a legislator's office can hold up in a hearing: the
@@ -1508,14 +1649,18 @@ surface will state, on a provenance page, exactly where the text came from — d
 public, with disclosed AI assistance, by name-disclosed humans who signed off — and it
 will point here. This page will never point there. One-way glass, by design.
 
-**What is quiet, and what never is.** Quiet, temporarily and tactically: which counsel,
+### What is quiet, and what never is
+
+Quiet, temporarily and tactically: which counsel,
 which state first, which legislator receives the folder. Public, permanently and without
 exception: the statute and every version of it, the full drafting record, the ledger,
 and every correction pinned to every mistake. Nothing once public is deleted; retired
 claims carry their corrections so the quote and its fix travel together. A reader who
 ever catches this project deleting instead of correcting is asked to say so.
 
-**Names, masks, and consent.** The maintainer remains masked, indefinitely; the
+### Names, masks, and consent
+
+The maintainer remains masked, indefinitely; the
 arguments were built to stand without a byline. But no one retains a lawyer in a mask:
 engagement, conflicts checks, and privilege require a real client, so retained counsel
 learns the maintainer's identity privately, under professional confidentiality — the one
@@ -1524,7 +1669,9 @@ that is the seat, and nobody's name appears until they take it knowing exactly w
 publishes. Everyone else stays as masked as they wish. The governed get the process
 itself: every rule here is published before it operates.
 
-**Why a licensed lawyer, and what the machines are not.** The AI layer drafts, pins
+### Why a licensed lawyer, and what the machines are not
+
+The AI layer drafts, pins
 sources, and builds hostile briefs against this project's own text; it is useful,
 tireless, and legally nothing — its own working documents disclaim legal advice in the
 first paragraph. The review council are referees, not anyone's counsel. Retained counsel
@@ -1537,7 +1684,9 @@ model is, in principle, discoverable. "Retained" does not mean paid; it means fo
 engaged, which is the switch that creates privilege and conflict duties. Clinics,
 public-interest practices, professors, and retired prosecutors are real paths.
 
-**Following along.** Watch or star the repository and the
+### Following along
+
+Watch or star the repository and the
 [commits page](https://github.com/llmaolaw/model-act/commits/main) becomes the feed:
 every change, timestamped, with its reason. [The ledger](./LEDGER.md) is the plain
 account — register, changelog, diary — and the statute can be followed in any feed
@@ -1546,7 +1695,9 @@ reader at [commits/main.atom](https://github.com/llmaolaw/model-act/commits/main
 <a id="citation"></a>
 ## Citation
 
-**Citing a provision.** Cite by section — *Model Act § 4(b)(2) (v3.4)* — and link by line:
+### Citing a provision
+
+Cite by section — *Model Act § 4(b)(2) (v3.4)* — and link by line:
 GitHub opens a text file at a line with `#L`, so
 [`model_act_v3_4.txt#L236`](./model_act_v3_4.txt#L236) lands on SEC. 4. For a link that
 survives every future edit, open the file, press `y` to swap the branch name for the commit
@@ -1555,11 +1706,15 @@ L44 · SEC. 2 — L103 · SEC. 3 — L149 · SEC. 4 — L236 · SEC. 5 — L265 
 SEC. 7 — L316 · SEC. 8 — L365 · SEC. 9 — L394 · SEC. 10 — L417 · SEC. 11 — L479 · SEC. 12 —
 L493 · SEC. 13 — L527.
 
-**Verifying the citations.** Every authority the statute and companion rely on is listed,
+### Verifying the citations
+
+Every authority the statute and companion rely on is listed,
 with its provision and the proposition it is cited for, in
 [the table of authorities](./standards/table_of_authorities.md).
 
-**The permanent identifier.** The repository is archived at CERN and carries a DOI:
+### The permanent identifier
+
+The repository is archived at CERN and carries a DOI:
 **10.5281/zenodo.22029795**. It resolves to the latest archived version and survives the
 repository being renamed, moved, or taken down — cite it in preference to the URL.
 
@@ -1620,7 +1775,9 @@ The statute and supporting text are public domain. No permission, attribution, e
 <a id="file-status-and-history"></a>
 ## File status and history
 
-**The authoritative text** is [`model_act_v3_4.txt`](./model_act_v3_4.txt). The typeset
+### The authoritative text
+
+The authoritative text is [`model_act_v3_4.txt`](./model_act_v3_4.txt). The typeset
 edition is withdrawn pending a reproducible rebuild — tagged, checksummed, and tested
 against the source — and "withdrawn" means de-listed, not deleted: the root PDF is a
 one-page signpost, the withdrawn edition is preserved unchanged in
@@ -1629,12 +1786,16 @@ one-page signpost, the withdrawn edition is preserved unchanged in
 text travels clean into a bill folder; statehouse drafting offices redraft whatever they
 are handed — one hands over the architecture, they pour the concrete.
 
-**The live amendment queue** for the next revision sits at
+### The live amendment queue
+
+The live amendment queue for the next revision sits at
 [`audit/v3_5_cure_language.md`](./audit/v3_5_cure_language.md) — proposed splice-ready
 language, none of it in any tagged text until v3.5 lands; the sealed v3.4 queue beside
 it is the redline behind the current statute.
 
-**The consolidation (19 August 2026).** The repository was reorganised from seventy-one
+### The consolidation (19 August 2026)
+
+The repository was reorganised from seventy-one
 files into the eight documents it then had — the set listed in the contents above,
 which has since grown by the table of authorities, the bracketed-matter worksheet, and
 the fiscal note. The three accountability
@@ -1645,7 +1806,9 @@ into [the case](#the-case) on this page; the dossier's chapters merged into
 checksums stamped inline; every superseded path remains as a signpost; no content was
 deleted, in keeping with the standing rule that corrections travel with claims.
 
-**History.** v3.5 (in preparation): the open queue's first entry moves the harm tier's
+### History
+
+v3.5 (in preparation): the open queue's first entry moves the harm tier's
 injury definition to 18 U.S.C. § 1365(h)(3)–(4), so tier and trigger travel from the same
 donor statute; nothing lands until the revision is tagged. v3.4 (19 August 2026, current): fifteen cures from the published queue,
 spliced verbatim — deployer reliance, the narrowed controlling person, validation and
