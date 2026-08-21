@@ -145,9 +145,17 @@ post or a sponsor package until a human has read the enrolled text.
 pinned verbatim at [the adopted texts](./interim_standards.md)
 
 **Word test.** *Signature* hits — **and this is the finding**: the Act requires "the signature
-of the lead auditor certifying the results." *Officer* does not appear in the sense of a
-corporate officer owing a duty. No *natural person*, no *personally*, no *certify* by a
-developer's executive.
+of the lead auditor certifying the results," at **430 ILCS 185/10(d)(2)(G)**. *Officer* does not
+appear in the sense of a corporate officer owing a duty. No *natural person*, no *personally*, no
+*certify* by a developer's executive.
+
+**And the two provisions sit four items apart in the same list.** The audit report must contain
+**(C)** *"a detailed assessment of the large frontier developer's internal controls, including its
+designation and empowerment of senior personnel responsible for such implementation by the large
+frontier developer, its employees, and its contractors"* and **(G)** the lead auditor's signature.
+**Illinois requires an auditor to verify that a responsible person exists and is empowered — and
+then takes the signature from the auditor.** The person whose existence and authority were just
+confirmed signs nothing.
 
 **Who owes the duty.** The frontier developer, as an entity.
 **Does a human sign?** **Yes — the auditor.** The outside contractor hired to inspect the work
@@ -160,11 +168,19 @@ action.
 **Verdict.** *Illinois knows how to require a named human signature — and asks it of the
 inspector rather than the officer who decides to ship.*
 
-**Confidence. Split, and the split is the point of the rubric.** The statute itself is **✅** —
-pinned verbatim at the adopted texts. The auditor-signature line is **⚠ F**: it is quoted from a
-law-firm alert, and the enrolled text has not been opened for that sentence. It is also the most
-quoted line in this whole file, which is exactly why it carries the weaker of the two grades
-until someone fetches it.
+**Confidence. ✅ throughout, corrected 21 August 2026.** The statute is pinned verbatim at
+[the adopted texts](./interim_standards.md), and the auditor-signature line sits inside that same
+pinned block at (d)(2)(G) — reconciled the same day against the enrolled text held in the Illinois
+repository, where the two copies agree word for word.
+
+*This row previously graded the auditor line **⚠ F**, on the reasoning that it was "quoted from a
+law-firm alert" and that "the enrolled text has not been opened for that sentence." **The enrolled
+text had been opened — by this project, and pinned in its own adopted-texts file, before the census
+was written.** The grade was not too cautious in principle; it was wrong about what the repository
+already held. Recorded rather than silently upgraded, because it is the mirror image of
+[E15](../ledger/errata.md): that entry graded a claim too high by asking who wrote the source, this
+one graded a claim too low by not checking what we had already read. **Both are the same failure to
+look, and only one of them looks like diligence.***
 
 ---
 

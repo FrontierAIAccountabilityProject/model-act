@@ -446,6 +446,64 @@ the original E13 unchanged, and records the source correction here as E14. The t
 commits remain in the public history rather than being rewritten. Nothing about the statute,
 its version, its citation metadata, E11, E12, or E13 is changed. Status: cured.
 
+**E18 — 21 August 2026 (internal catch). The Sarbanes-Oxley analogy was published in a structure
+that implies a prosecution record it does not have.**
+
+**The claim** (`standards/why_a_signature_works.md` § 2). The file establishes in § 1 that a signed
+false document produced twenty-eight years for Stewart Parnell. It then lists the SOX certification
+penalties — *"\$1,000,000 and ten years if knowing, \$5,000,000 and twenty years if wilful"* — and
+closes: *"Twenty-four years later every public company in America has someone who signs. They did
+not run out of chief financial officers."*
+
+**Every sentence is true. The sequence implies a fourth one that is not:** that the certification
+requirement has put executives in prison.
+
+**The record the file omits.** Richard Scrushy, founder and former chief executive of HealthSouth,
+was *"the first chief executive charged with violating the 2002 Sarbanes-Oxley Act."* On **28 June
+2005 a federal jury found him not guilty on all thirty-six counts.** Michael Zuppone, a former SEC
+regional office head, had said before the verdict that prosecutors could *"wave that personal
+certification in front the jury to show that the defense claim — that their head was stuck in the
+sand — doesn't hold water,"* and said after it that *"the utility of the criminal certification
+statute will be very much undermined."*
+
+**Why it is graded above its size.** This project's case for SEC. 8 rests on the claim that a
+signature is the instrument by which American law reaches an executive. The flagship modern example
+of a signature statute produced an acquittal in its first test. An opponent gets to say the
+mechanism is decorative **using this project's own exhibit**, and the file does not mention the case
+anyone who knows the area thinks of first. Same species as E12 and E16: a true statement standing on
+an implication it had not earned.
+
+**What survives, and it is the stronger reading.** SOX is strong evidence that a certification
+requirement **changes conduct upstream** — every public company now has a named person who has to
+ask, and the 2002 objections did not materialise. It is **weak evidence that certification statutes
+are charged and won.** The file was running two claims together and needed only the first.
+
+**And the honest mechanism is the one § 1 already states.** Parnell was not convicted under
+food-safety law. He was convicted under fraud statutes that finally had a document to attach to.
+**A certification does not create the offence; it makes existing offences provable.** 18 U.S.C.
+§ 1001, § 1519 and the ordinary fraud statutes already exist and already reach individuals. At the
+compute frontier they have nothing to attach to, because nobody signs anything. Stated that way § 1
+and § 2 become one argument instead of two, and the file is more coherent, not less.
+
+**The fix (copy).** § 2 gains the Scrushy record and states the claim at evidentiary strength. § 5's
+conclusion is unchanged and is where the argument was always correctly put: a signature is *"the
+ordinary instrument by which American law reaches an executive at all."* No statutory amendment.
+The Illinois follow-up email, **unsent at the date of this entry**, is corrected before sending.
+
+**Not asserted, and named rather than assumed.** Whether prosecutions under 18 U.S.C. § 1350 are
+rare in general, and whether DOJ practice is to charge securities fraud or § 1001 with the
+certification as evidence, appear nowhere above: **this project has not opened a source for either.**
+Both are checkable and the fetch targets are named — the Federalist Society memorandum on § 906's
+criminal penalties, and the Seattle University Law Review treatment of the certification provisions.
+Until then the entry rests on the one case it opened. *E15's rule, applied on purpose this time.*
+
+*Sources: [CNN/Money, 28 June 2005](https://money.cnn.com/2005/06/28/news/newsmakers/scrushy_outcome/index.htm);
+[NBC News, "Anti-fraud law fails first major court test"](https://www.nbcnews.com/news/amp/wbna8147816).
+⚠ **R** — both opened 21 August 2026 via automated retrieval, not yet human-read.*
+
+**Credit:** raised by the maintainer asking whether the project's own mechanism would actually reach
+anyone. Status: **open**; closes when § 2 carries the corrected text.
+
 <a id="part-ii"></a>
 
 ---

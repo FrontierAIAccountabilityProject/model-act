@@ -68,6 +68,30 @@ take the job; no individual can verify a large firm's whole position; the exposu
 disproportionate. **Twenty-four years later every public company in America has someone who signs.
 They did not run out of chief financial officers.**
 
+**And now the case against this analogy, stated before anyone else states it.** The first chief
+executive charged under the Act was acquitted. Richard Scrushy of HealthSouth faced thirty-six
+counts, and on **28 June 2005 a federal jury found him not guilty on every one of them.** A former
+SEC regional office head who had predicted that prosecutors would *"wave that personal certification
+in front the jury to show that the defense claim — that their head was stuck in the sand — doesn't
+hold water"* said afterwards that *"the utility of the criminal certification statute will be very
+much undermined."*
+
+**So Sarbanes-Oxley proves the narrower thing — which is the thing this file needs.** It is strong
+evidence that a certification requirement **changes conduct before anything reaches a courtroom**:
+every public company now has a named person who has to ask, and not one of the 2002 objections
+materialised. It is **weak evidence that certification statutes are charged and won**, and this file
+previously ran the two together.
+
+**Because the signature is not the offence. It is what makes an offence provable.** Parnell was not
+convicted under food-safety law either — he was convicted under fraud statutes that finally had a
+document to attach to. That is why § 1001, § 1519 and the ordinary fraud statutes matter here more
+than any purpose-built provision could. **They already exist. They already reach individuals. At the
+compute frontier they have nothing to attach to, because nobody signs anything.**
+
+*Sources: [CNN/Money, 28 June 2005](https://money.cnn.com/2005/06/28/news/newsmakers/scrushy_outcome/index.htm);
+[NBC News, "Anti-fraud law fails first major court test"](https://www.nbcnews.com/news/amp/wbna8147816).
+⚠ **R**. Added 21 August 2026 as the cure to [E18](../ledger/errata.md).*
+
 **Records.** Under **18 U.S.C. § 1519**, destroying a document with intent to impede a federal
 matter carries **twenty years** — and it bites *"in relation to or contemplation of"* a matter, so
 the offence is complete before any investigation opens.
@@ -104,6 +128,45 @@ actually required: *"a shift in authority, responsibility, and expectations abou
 
 **That is SEC. 8, its objection, and its beneficiaries, observed in another field twenty years
 early.**
+
+### And the item worked because of what it did to authority, not because it was on a list
+
+**The naming step was not an introduction. It was standing.** A nurse who has said her name aloud
+and been heard is a person who can interrupt a surgeon. One who has not, is not. The measured effect
+did not come from remembering steps — it came from **changing who was permitted to stop the room.**
+
+Gawande says so directly, in the line quoted above and easy to read past: what adoption required was
+*"a shift in **authority**, responsibility, and expectations about care."* **Authority is the first
+word.** The list was the occasion. The redistribution of power was the mechanism — and the reason
+surgeons resisted it is that they correctly understood which of the two was happening.
+
+**That is what a signature is, and it is why "this is just paperwork" misses.** A certification does
+two things at once. It creates an artefact — the evidentiary function § 2 describes. And it creates
+**a person who is permitted to say no**, and with them a route for everyone below who wants to. An
+engineer with a concern and nobody obliged to receive it has no channel. An engineer with a concern
+and a named officer who must personally certify has one — and that officer now has a reason to want
+the bad news **before** signing rather than after.
+
+**Illinois wrote this into its own text, and it is the word most often dropped when the provision is
+quoted.** 430 ILCS 185/10(d)(2)(C) does not ask the auditor to confirm the *designation* of senior
+personnel. It asks for an assessment of *"designation **and empowerment**"* of them. **Naming
+without power is what the statute already refuses to accept** — it simply stops before asking the
+empowered person to sign.
+
+### Which also settles who should not be exposed
+
+**Liability tracks authority or it is unjust.** That is the whole content of *Park*: whether the
+defendant stood in responsible relation to the conduct and **had the power to prevent it**. It is
+why this project asks for a duty on controlling persons and nowhere else.
+
+**So not the lead auditor.** An auditor cannot stop a deployment. Exposure there would fall on the
+one participant with no power to act, and would buy nothing, because an auditor can describe a
+condition and never halt it. It would also do the specific damage the surgical evidence warns
+against: **loading risk onto the person brought in to report honestly is how you stop getting honest
+reports.**
+
+**The signature belongs where the halt authority already sits — and it is the same principle in both
+directions.** Give the power to the person who can use it. Put the name on the person who has it.
 
 *Source: Atul Gawande, *The Checklist Manifesto* (2009). ⚠ **R** — read from a digital copy on
 21 August 2026; page references to be pinned against a paginated edition before publication.*
@@ -149,9 +212,22 @@ one.
 ## 5. The gap, stated in one paragraph
 
 Enacted frontier law requires **exactly one signature**, and it belongs to the auditor. Illinois
-requires *"the signature of the lead auditor certifying the results."* The legislative instinct to
-demand a named human signature exists, is already in force, and has been aimed at **the outside
-contractor hired to inspect the work** — not at the officer who decides to ship.
+requires *"the signature of the lead auditor certifying the results,"* at 430 ILCS 185/10(d)(2)(G).
+The legislative instinct to demand a named human signature exists, is already in force, and has been
+aimed at **the outside contractor hired to inspect the work** — not at the officer who decides to
+ship.
+
+**And four items earlier in the same list, Illinois asks that auditor to check something specific.**
+Item (C) requires the report to contain *"a detailed assessment of the large frontier developer's
+internal controls, including its designation and empowerment of senior personnel responsible for
+such implementation by the large frontier developer, its employees, and its contractors."*
+
+**Read (C) and (G) together and the shape of the gap is exact.** Illinois requires an auditor to
+verify that a responsible person has been named and genuinely empowered — and then takes the
+signature from the auditor. **The person whose existence and authority were just confirmed signs
+nothing.** The finding is not that Illinois failed to think of a responsible officer. It is that
+Illinois thought of one, wrote the requirement, had it verified by an independent party, and stopped
+one line short of asking that person to put their name to anything.
 
 Connecticut routes quarterly catastrophic-risk reports to *"the officers and directors of the large
 frontier developer"* and asks nothing of them in return.
