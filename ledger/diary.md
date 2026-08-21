@@ -3,6 +3,59 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 
 ## Part III — The diary
 
+**21 August 2026, late — The best exhibit for the argument turned out to have lost its first case.**
+
+A question put to the project — *would any of this actually reach one of them?* — went at the
+mechanism rather than the drafting, and the file built to answer it did not survive contact.
+[Why a signature works](../standards/why_a_signature_works.md) offered Sarbanes-Oxley as proof that
+a signature reaches an executive, listed the penalties, and closed on the fact that nobody ran out
+of chief financial officers. Every sentence true. What the sequence implied was not: **the first
+chief executive charged under that Act was acquitted on all thirty-six counts.** Filed as
+[E18](./errata.md).
+
+The correction makes the file better, which is the part worth recording. Sarbanes-Oxley is strong
+evidence that a certification changes conduct *before* anything reaches a courtroom, and weak
+evidence that certification statutes are charged and won. Those are different claims. And the honest
+mechanism was already sitting in § 1 unnoticed: **Parnell was not convicted under food-safety law
+either.** A signature does not create the offence. It makes existing offences provable — which is
+why § 1001 and § 1519 matter here more than any purpose-built provision, and why their irrelevance
+at the compute frontier is a fact about missing documents rather than missing law.
+
+**And the checklist section had the mechanism wrong.** It read the surgical evidence as being about
+naming. It is about **power**: a nurse who has said her name aloud and been heard is a person who
+can interrupt a surgeon, and one who has not, is not. Gawande says so in a line the file was already
+quoting without hearing — *"a shift in **authority**, responsibility, and expectations about care."*
+Which settles, on principle rather than reassurance, who should never carry this duty. **Liability
+tracks authority or it is unjust.** Not the auditor, then: an auditor can describe a condition and
+never halt one, and loading risk onto the person brought in to report honestly is how you stop
+getting honest reports.
+
+**Illinois turned out to have written both halves of the argument into one list.** The audit report
+must assess the developer's *"designation and empowerment of senior personnel"* at 430 ILCS
+185/10(d)(2)(C), and must carry *"the signature of the lead auditor"* four items later at (G). An
+outside party verifies that a responsible person exists and is genuinely empowered — and then that
+outside party signs. **The person whose authority was just confirmed signs nothing.** The finding is
+not that Illinois failed to think of a responsible officer. It thought of one, wrote the
+requirement, had it independently verified, and stopped one line short. Recorded in
+[the census](../standards/frontier_bill_census.md), which also regrades that row: the auditor line
+had been marked ⚠ **F** on the reasoning that the enrolled text was unopened. It had been opened,
+by us, and pinned in our own adopted-texts file. **A grade can be wrong by being too low, and that
+kind of wrong looks like diligence.**
+
+**Then the project did the thing it exists to catch.** For part of the evening the public Illinois
+repository served the New York memo, under a commit message describing the opposite, produced by a
+script this project wrote to move its own files. [E19](./errata.md) has it in full, including the
+part that is not known: how the wrong file got into that working tree. What is known is that nothing
+in the process would have noticed if it had been anything else. The rule that a ✅ requires opening
+the source now extends to artefacts we generate ourselves. **Committing is publishing, and we
+published something we had not read.**
+
+The follow-up to Illinois went out after the repository was verified clean rather than before, which
+was luck as much as method. It corrects the project's own earlier framing to the senator, cites both
+provisions, asks for ten minutes, and says there are eighteen errata. There are nineteen.
+
+---
+
 **21 August 2026, evening — The repository is taken apart and put back with the seams showing.**
 
 The front page had reached 1,726 lines and was doing five jobs. It is now 600, and the argument

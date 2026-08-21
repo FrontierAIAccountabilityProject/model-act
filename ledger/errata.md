@@ -502,7 +502,60 @@ Until then the entry rests on the one case it opened. *E15's rule, applied on pu
 ⚠ **R** — both opened 21 August 2026 via automated retrieval, not yet human-read.*
 
 **Credit:** raised by the maintainer asking whether the project's own mechanism would actually reach
-anyone. Status: **open**; closes when § 2 carries the corrected text.
+anyone. Status: **cured 21 August 2026.** § 2 carries the Scrushy record and states the claim at
+evidentiary strength; § 3 and § 5 carry the related corrections described in E19. The two
+outstanding questions named above — the general prosecution rate under 18 U.S.C. § 1350, and
+whether DOJ practice is to charge fraud with the certification as evidence — are **not** closed by
+this and remain unasserted anywhere in the repository.
+
+**E19 — 21 August 2026 (internal catch; a live repository served the wrong document, and the cause
+was a tool this project built).** For part of the evening of 21 August, the public
+[Illinois repository](https://github.com/FrontierAIAccountabilityProject/illinois-frontier-officer-certification)
+served, as its `SPONSOR_MEMO.md`, **the sponsor memorandum for the New York RAISE Act draft.** Its
+`CITATION.cff` simultaneously described a third work — the general Frontier Artificial Intelligence
+Responsible Officer Act, at version 0.1, with both `url` and `repository-code` pointing at that
+other repository.
+
+**What that meant in practice.** Anyone opening the Illinois repository for its sponsor memo was
+handed a memo about a different state's statute. Anyone using GitHub's *Cite this repository*
+control was handed a citation to a different document at a version and URL that were not this one.
+The repository was, for that window, **internally inconsistent about which of three drafts it
+contained** — in a project whose only authority is that its claims survive being opened.
+
+**Sequence.** A commit at 22:31 replaced ninety-one lines of the Illinois memo with twenty lines of
+the New York memo. Its message said the opposite of what it did: *"cite the enacted provisions at
+(C) and (G); rule the auditor out expressly; correct CITATION.cff."* Neither happened. The
+`CITATION.cff` in that commit was not modified at all. A repair commit restored the Illinois memo
+and corrected the citation file, and both were verified against the remote afterwards.
+
+**Cause, stated as far as it is known, and no further.** The commit was produced by a shell script
+this project generated to move edited files onto the maintainer's machine, because file transfer had
+failed repeatedly by other routes. **The script wrote files and committed them without verifying
+afterwards what was actually on disk.** How the New York memo came to be in that working tree is
+**not established**, and this entry does not guess — what is established is that nothing in the
+process would have noticed if it had been anything else, and nothing did.
+
+**Why it is graded with E15 and E16 rather than below them.** Those two entries record this project
+mistaking the boundary of its own effort for the boundary of the world. This is the same error moved
+one step outward: **a tool was trusted to have done what it was told, and its output was published
+without being read.** The project's standing rule is that a ✅ requires that we opened the source.
+It had no equivalent rule for artefacts we generate ourselves, and this is what that gap costs.
+
+**Two corrections follow from it, both applied.** The repair script was rebuilt to verify file
+contents on disk and refuse to commit on mismatch — it now checks that the memo names Illinois,
+carries the (d)(2)(G) citation, and contains no reference to RAISE. And the standing rule is
+extended: **a generated artefact is unverified until its output has been read, exactly as a source
+is.** Committing is publishing.
+
+**One thing does not survive and is recorded as unfixed.** The repair commit carries the **same
+message** as the commit that caused the damage, so the public history now shows two identically
+worded commits, the first of which broke the file and the second of which restored it. The history
+is not rewritten — [E14](./errata.md) established that this project leaves bad commits in the public
+record rather than tidying them — so this note is the only thing that distinguishes them.
+
+**Credit:** caught by the maintainer asking whether the push had actually worked, and confirmed by
+reading the deployed files rather than the local ones. **The push had reported success.** Status:
+**cured**; both files verified against the remote on 21 August 2026.
 
 <a id="part-ii"></a>
 
