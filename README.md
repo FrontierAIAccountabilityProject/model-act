@@ -203,7 +203,7 @@ landed verbatim at v3.4; the departure announcement and the destination are diff
 successor, [the open v3.5 queue](./audit/v3_5_cure_language.md), is where a finding from
 this review becomes drafted language — a disposition filed today can be splice-ready
 before the next revision. Fourth,
-[the companion](./model_act_v3_4_companion.md) — the READ FIRST open items and the drafting
+[the companion](./model_act_v3_4_companion.md) — the READ FIRST question-status index and the drafting
 notes; skim all, read closely where the lane points. Fifth,
 [the hostile brief](./audit/record.md#chunk-7) — the Act as read by the other side's
 counsel; if an objection is already there, grade our answer; if it is not, that finding is
