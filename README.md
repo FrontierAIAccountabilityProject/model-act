@@ -278,6 +278,8 @@ is the checking, and it is designed to be capable of failing.*
 
 **14 · [Why the disparity exists](./standards/why_the_disparity.md)** — Twelve explanations for why American law reaches an individual with four hundred and forty years of announced exposure and a frontier officer with nothing. Drawn from across the political spectrum, argued in their strongest form, several of them exculpatory — and each followed to the remedy it implies.
 
+**14a · [Who has to tell you](./standards/who_has_to_tell_you.md)** — ⚠ **Hypothesis, not a finding, and graded as such.** The duty to disclose a breach attaches to the party that got intruded upon — not to whoever shipped the defective code, and not directly to the people whose data it was. And because the trigger turns on evidence of acquisition, an organisation that logs poorly may owe less. Published with the four checks it needs listed at the end, and quoted nowhere until they are done.
+
 **15 · [The same conduct, prosecuted](./standards/the_same_conduct.md)** — Five people prosecuted for computer access, no physical injury, announced exposure from ten years to four hundred and forty. Beside them, conduct in 2026 that was broader on every axis and charged to nobody.
 
 **16 · [Why a signature works](./standards/why_a_signature_works.md)** — Twenty-eight years for a false certificate; twelve months for twenty-nine deaths and no document. Form FDA 1572, Sarbanes-Oxley, and the one item on the surgical checklist that the surgeons resented and the nurses welcomed.
