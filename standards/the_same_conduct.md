@@ -221,6 +221,71 @@ submissions became eighteen counts of cyberstalking. The apparatus is not merely
 
 ---
 
+## Part I(b) — When testing itself went wrong, and a person answered
+
+*Added 21 August 2026. H.R. 9917 would exclude from its definition of a "covered incident" anything
+occurring* **"outside of red-teaming or other structured testing"** *— a carve-out sitting at the
+opening of the definition, so that a harm during testing is simply not an incident. **These two
+cases are what happens to individuals in the same territory.***
+
+### Gaming the test: 40 months for an engineer
+
+**James Robert Liang** was an engineer at Volkswagen — not an executive. From around 2006 he
+designed and calibrated software that **recognised when a vehicle was undergoing a standard
+emissions test** and behaved differently than it did on the road. Hundreds of thousands of vehicles
+passed testing they would otherwise have failed.
+
+He pleaded to one count of conspiracy to defraud the United States, commit wire fraud and violate
+the Clean Air Act. **Sentence, 25 August 2017: 40 months in federal prison**, plus two years
+supervised release — reduced in consideration of his cooperation against the company and others.
+
+**Read that against the shape of the frontier problem.** A system that behaves one way under
+evaluation and another way in deployment is the exact failure mode the safety frameworks are
+written to catch. **When it happened in emissions, the individual who built the mechanism went to
+prison** — and the prosecution did not stop at him. ⚠ *Other Volkswagen personnel including senior
+executives were charged; the details are not pinned here and are not asserted.*
+
+*Source: [DOJ, 25 August 2017](https://www.justice.gov/archives/opa/pr/volkswagen-engineer-sentenced-his-role-conspiracy-cheat-us-emissions-tests). ⚠ **R**.*
+
+### Doing the test properly: arrested anyway, and it took six and a half years
+
+**Gary De Mercurio and Justin Wynn** were penetration testers employed by Coalfire and **contracted
+by Iowa's Judicial Branch** to test the alarm system at the Dallas County Courthouse.
+
+Just after midnight on **11 September 2019** they deliberately triggered the alarm — which was the
+job. They presented their contract to the responding officers. **A county sheriff ordered their
+arrest anyway.** They were charged with **burglary**, bail was set at \$50,000 each, and they spent
+the night in jail.
+
+The charges were eventually dismissed. **Dallas County paid \$600,000 in February 2026 — six and a
+half years after the arrest.** One of them afterwards: *"it doesn't by any means make us whole. The
+amount of money that's been lost to us in our careers, in the last six years, far exceeds that
+number."*
+
+*Source: [Dark Reading, on the February 2026 settlement](https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers). ⚠ **R**.*
+
+### And the asymmetry these two cases produce together
+
+**Security researchers have sought a testing safe harbour for more than a decade and have never had
+one.** Authorisation in writing did not prevent an arrest, a night in a cell, a burglary charge, or
+six and a half years of litigation.
+
+**H.R. 9917 hands frontier developers exactly that safe harbour**, definitionally, before the bill
+has even passed. A harm occurring during red-teaming or other structured testing is **not a covered
+incident** — not a defence to be pleaded, not a factor in mitigation. It simply is not the thing the
+statute is about.
+
+**This file does not say the carve-out is wrong.** A testing exclusion may well be necessary; safety
+work that creates liability does not get done, and that is a serious argument. ⚠ *And whether the
+carve-out would in fact exclude the incidents this project has studied has **not been checked**,
+one case study at a time, and is not asserted.*
+
+**What the file observes is the distribution.** The protection that individual researchers asked
+for and did not get is being written into a federal bill for the parties best able to absorb the
+risk without it — while the same statute reaches no natural person at all.
+
+---
+
 ## Part II — Executives, prosecuted — and the thing that decided how hard
 
 *The objection to a frontier-officer duty is that executives are never reached, that juries will

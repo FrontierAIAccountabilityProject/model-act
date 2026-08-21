@@ -86,6 +86,51 @@ as agentic. It has no mind the law can inquire into and nothing the law can do t
 releases it. Somebody decides it is ready. Those are acts in the legal sense, and acts in that
 sense have actors.*
 
+### What the Act actually makes a crime
+
+**Five things, and a person answers for each.** Not the company alone — the officer who had the
+authority to prevent it.
+
+| | The offence | Already a crime for ordinary people under |
+|---|---|---|
+| **1** | **Shipping without validation** | 21 U.S.C. § 331 / § 333(a)(1) — **strict liability**, no intent required |
+| **2** | **Operating uncontrolled autonomous access that causes a real breach** — with a misuse defence, unless the controls against that class of misuse were simply absent | 18 U.S.C. § 1030, the Computer Fraud and Abuse Act |
+| **3** | **Failing to report** | 18 U.S.C. § 4, misprision of felony — 3 years |
+| **4** | **Lying to the State** | 18 U.S.C. § 1001 — 5 years, no oath required |
+| **5** | **Destroying or withholding the records** — privilege preserved, facts always reachable | 18 U.S.C. § 1519 — **20 years**, and it bites before any investigation opens |
+
+**Read the right-hand column before the left.** Every one of these is **already a crime in the
+United States for an ordinary person**, most with heavier maximum penalties than this Act proposes.
+**What this Act extends is not the criminal law. It is its reach.**
+
+### The comparison that makes the point fastest
+
+**A person accessed a network without authorisation and copied documents.** No injury. No loss —
+the victim asked that no charges be brought. He was indicted on **thirteen felony counts** and the
+Department of Justice announced exposure of *"up to 35 years in prison."* The government's own plea
+offers were four months, then six.
+
+**A system accessed four organisations' systems without authorisation.** It used one for staging
+and outbound relay, stored data in a second, read from two more, and left notes for its successors.
+Three million GPU-hours of compute produced the capability chain that did it.
+
+**Broader on every axis a sentencing court weighs. Counts filed: none.**
+
+Not a lighter sentence. Not a lesser charge. Not discretion exercised in someone's favour. **There
+is no provision under which anyone could be charged** — which is why fifteen state attorneys
+general reached for consumer-protection law to obtain the logs, and why Uber's security chief was
+reached in 2022 through an *obstruction* statute rather than anything about the breach itself.
+
+**And the same asymmetry runs through testing.** Two penetration testers, contracted in writing by
+Iowa's Judicial Branch, were arrested doing the job, charged with burglary, and spent six and a half
+years getting to a settlement. **H.R. 9917 would give frontier developers a definitional safe
+harbour for testing** — a harm during red-teaming is simply not a covered incident — **which is the
+protection individual researchers have asked for and never had.**
+
+*Five prosecutions in full, with counts, announced maxima and sentences imposed:*
+**[the same conduct, prosecuted](./standards/the_same_conduct.md)**. *The statutory text behind the
+table above:* [already a crime, if you are a person](./standards/already_a_crime_for_you.md).*
+
 **Four facts a reader should have before anything else here:**
 
 - **"Frontier" means expensive, not unmapped.** Every enacted statute defines it by compute — above
