@@ -118,6 +118,11 @@ model-act/
 *Grouped by what a reader would want it for. Every file states its own strength limits; nothing
 here is authority for the statute except the statute.*
 
+*Not listed individually, by design: the numbered signposts in [`docs/`](./docs/) and
+[`dossier/`](./dossier/) are retired paths kept so old links still land; the numbered chunks in
+[`audit/`](./audit/) are components of the drafting record and are reached through it. Each folder
+has its own index.*
+
 
 ### I · The statute
 
@@ -147,7 +152,9 @@ here is authority for the statute except the statute.*
 
 **10 · [Fiscal note](./standards/fiscal_note.md)** — What the Act costs an adopting state, startup kept apart from steady state.
 
-**11 · [How to file a federal comment](./filings/how_to_file_a_federal_comment.md)** — The field guide to regulations.gov, and the fact that inverts the civic instinct, the process is not a vote.
+**11 · [The pending comment — FDA-2026-N-7874](./filings/fda_2026_n_7874_comment.md)** — **Draft, not yet filed.** This project's submission to FDA's generative-AI device docket, closing 19 October 2026. Published as a draft so it can be criticised before it is sent.
+
+**12 · [How to file a federal comment](./filings/how_to_file_a_federal_comment.md)** — The field guide to regulations.gov, and the fact that inverts the civic instinct, the process is not a vote.
 
 
 ### IV · The research behind the central claim
@@ -156,45 +163,49 @@ here is authority for the statute except the statute.*
 the decision to ship — not that no law reaches any natural person, since several do. What follows
 is the checking, and it is designed to be capable of failing.*
 
-**12 · [The frontier bill census](./standards/frontier_bill_census.md)** — Every frontier AI bill in America, read one at a time, with a confidence grade on every row and a tally that never exceeds the rows read.
+**13 · [The frontier bill census](./standards/frontier_bill_census.md)** — Every frontier AI bill in America, read one at a time, with a confidence grade on every row and a tally that never exceeds the rows read.
 
-**13 · [The same conduct, prosecuted](./standards/the_same_conduct.md)** — Five people prosecuted for computer access, no physical injury, announced exposure from ten years to four hundred and forty. Beside them, conduct in 2026 that was broader on every axis and charged to nobody.
+**14 · [The same conduct, prosecuted](./standards/the_same_conduct.md)** — Five people prosecuted for computer access, no physical injury, announced exposure from ten years to four hundred and forty. Beside them, conduct in 2026 that was broader on every axis and charged to nobody.
 
-**14 · [Why a signature works](./standards/why_a_signature_works.md)** — Twenty-eight years for a false certificate; twelve months for twenty-nine deaths and no document. Form FDA 1572, Sarbanes-Oxley, and the one item on the surgical checklist that the surgeons resented and the nurses welcomed.
+**15 · [Why a signature works](./standards/why_a_signature_works.md)** — Twenty-eight years for a false certificate; twelve months for twenty-nine deaths and no document. Form FDA 1572, Sarbanes-Oxley, and the one item on the surgical checklist that the surgeons resented and the nurses welcomed.
 
-**15 · [Already a crime, if you are a person](./standards/already_a_crime_for_you.md)** — All five offences this Act creates are already crimes for ordinary people, most with heavier maxima and one with no intent requirement at all.
+**16 · [Already a crime, if you are a person](./standards/already_a_crime_for_you.md)** — All five offences this Act creates are already crimes for ordinary people, most with heavier maxima and one with no intent requirement at all.
 
-**16 · [Does the frontier touch medicine?](./filings/frontier_ai_in_medicine.md)** — FDA has opened a generative-AI docket and says it "will explore methods to identify and tag" devices built on foundation models — meaning the regulator cannot yet count them. Meanwhile one in five American adults takes medical advice from a frontier model outside the system entirely.
+**17 · [Does the frontier touch medicine?](./filings/frontier_ai_in_medicine.md)** — FDA has opened a generative-AI docket and says it "will explore methods to identify and tag" devices built on foundation models — meaning the regulator cannot yet count them. Meanwhile one in five American adults takes medical advice from a frontier model outside the system entirely.
 
-**17 · [Who actually files](./filings/who_actually_files.md)** — Three hundred and forty million people; fifty-one comments; twenty-one from industry.
+**18 · [Who actually files](./filings/who_actually_files.md)** — Three hundred and forty million people; fifty-one comments; twenty-one from industry.
 
-**18 · [The commentary sweep](./standards/commentary_sweep.md)** — One dedicated gap analysis enumerated twenty-six deficiencies; personal accountability was not among them.
+**19 · [The commentary sweep](./standards/commentary_sweep.md)** — One dedicated gap analysis enumerated twenty-six deficiencies; personal accountability was not among them.
 
-**19 · [FDA docket reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md)** — Every filer named, the substance of 22 of the 51 read, and the element none of those 22 names.
+**20 · [FDA docket reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md)** — Every filer named, the substance of 22 of the 51 read, and the element none of those 22 names.
 
-**20 · [Comparative officer liability](./standards/comparative_officer_liability.md)** — s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA, and the claims cut for want of a source.
+**21 · [Comparative officer liability](./standards/comparative_officer_liability.md)** — s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA, and the claims cut for want of a source.
 
-**21 · [The dossier](./dossier/README.md)** — The evidence file, seven chapters, every fact graded and every grade explained.
+**22 · [Frontier self-reporting](./standards/frontier_self_reporting_note.md)** — What the laboratories already publish, what is technically inside those documents, and where an attestation would sit if anyone required one.
+
+**23 · [The dossier](./dossier/README.md)** — The evidence file, seven chapters, every fact graded and every grade explained.
 
 
 ### V · Reference
 
-**22 · [The adopted texts](./standards/interim_standards.md)** — The enacted standards SEC. 3(c)(4) freezes, pinned verbatim, and why Connecticut is not among them.
+**24 · [The adopted texts](./standards/interim_standards.md)** — The enacted standards SEC. 3(c)(4) freezes, pinned verbatim, and why Connecticut is not among them.
 
-**23 · [Table of authorities](./standards/table_of_authorities.md)** — Every authority cited, with the proposition it is cited for.
+**25 · [Table of authorities](./standards/table_of_authorities.md)** — Every authority cited, with the proposition it is cited for.
 
-**24 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
+**26 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
 
-**25 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
+**27 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
 
 
 ### VI · The record of accountability
 
-**26 · [The ledger](./ledger/README.md)** — Errata, changelog, diary, append-only. The register of this project's own mistakes is the only credential it can offer, and it is offered as one.
+**28 · [The ledger](./ledger/README.md)** — Errata, changelog, diary, append-only. The register of this project's own mistakes is the only credential it can offer, and it is offered as one.
 
-**27 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
+**29 · [The standing watch](./audit/standing_watch_2026-08-20.md)** — The periodic re-sweep of live bills, litigation and federal vehicles — with what each sweep found and, at § 7(5), what it missed.
 
-**28 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
+**30 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
+
+**31 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
 
 ## For sponsors and staff
 
