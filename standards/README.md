@@ -37,7 +37,7 @@ downward readily. These files are the checking.*
   accountability was not among them.
 - [`frontier_self_reporting_note.md`](./frontier_self_reporting_note.md) — what the laboratories
   already publish, mapped to the Act.
-- [`comparative_officer_liability.md`](./comparative_officer_liability.md) — the receipts behind
+- [`comparative_officer_liability.md`](./comparative_officer_liability.md) — the primary provisions behind
   the comparative answers: s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA senior-manager
   responsibilities, and the claims this project declined to make.
 

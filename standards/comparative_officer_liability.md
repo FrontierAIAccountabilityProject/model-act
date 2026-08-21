@@ -1,4 +1,4 @@
-# Comparative officer liability — the receipts
+# Comparative officer liability — the primary provisions
 
 The root README's question ladder answers four objections with facts drawn from outside
 American law: that officer liability is foreign to the American tradition, that it would
@@ -7,7 +7,7 @@ This file holds the sources behind those answers.
 
 **What this file is not.** It is not part of the Act's authority base. The statute cites
 none of it, and [the table of authorities](./table_of_authorities.md) is scoped to the
-statute and companion by its own terms. These are campaign-page receipts: material used
+statute and companion by its own terms. These are the underlying provisions: material used
 to answer objections, pinned here so that a reader who doubts a sentence on the front
 page can check it without writing to ask.
 

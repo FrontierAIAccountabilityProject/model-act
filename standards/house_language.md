@@ -286,7 +286,7 @@ and WorldCom, Congress required the chief executive and chief financial officer 
 sign** a certification that the financial statements fairly present the company's condition —
 Sarbanes-Oxley, now **18 U.S.C. § 1350**. False certification carries **\$1,000,000 and ten years
 if knowing, \$5,000,000 and twenty years if wilful.** The objections in 2002 were the ones a
-frontier-AI officer duty attracts today — and [the comparative receipts](./comparative_officer_liability.md)
+frontier-AI officer duty attracts today — and [the comparative provisions](./comparative_officer_liability.md)
 show other jurisdictions answering them the same way: no competent person will take the job; the signature is
 meaningless because no individual can verify a large firm's whole position; the exposure is
 disproportionate; capital will go elsewhere. **Twenty-four years later, every public company in
@@ -458,7 +458,7 @@ because it is understood as the price of being trusted with other people's bodie
 - **The surgeon answers personally.** So does the pharmacist, the pathologist, the anaesthetist.
 - **And under 21 U.S.C. § 333(a)(1), the person who ships an adulterated article commits a federal
   offence with no mental state required at all** — a strict-liability misdemeanour that has been
-  law since 1938 and has never been thought to have ended pharmaceutical innovation. *The receipts
+  law since 1938 and has never been thought to have ended pharmaceutical innovation. *The authorities
   are at [already a crime, if you are a person](./already_a_crime_for_you.md).*
 
 **So the standard being proposed is not a novel imposition invented for this industry.** It is the

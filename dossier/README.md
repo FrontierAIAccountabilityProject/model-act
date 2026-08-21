@@ -267,7 +267,7 @@ The congressional and political record, every question and signatory →
 `03_politicians_track.md`. The SEC. 4 / wealth deep dive →
 `04_wealth_and_control.md`. The plain-language public Q&A (objections answered; the
 wealth-inequality case in numbers) → `05_questions_and_answers.md`. This master
-carries the argument; the companions carry the receipts and the retail version.
+carries the argument; the companions carry the sources and the plain-language version.
 
 **Standing caution.** Roles and figures move — the Google DeepMind CEO seat changed
 5–6 August 2026, mid-compilation. Every entry is dated. Net-worth figures swing

@@ -320,7 +320,7 @@ international standards. Adjacent standards pressure from three more directions:
 ISO/IEC 5338:2023 (0013), IMDRF key terms (0044), EMA/MHRA/IMDRF (0027). *Strength:
 solid on 42001; the adjacent asks are a different point and are kept separate.*
 
-### F7 — The cyber-scepticism receipt
+### F7 — The cyber-scepticism admission
 
 Innolitics asked in February 2025 whether FDA's seven attack scenarios were real, several
 appearing "hypothetical" (0007). Answered 4 August 2026 by AISI incident report

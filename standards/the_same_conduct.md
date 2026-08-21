@@ -361,7 +361,7 @@ an archived copy is opened.*
 
 **Holmes**, from the bench, November 2022 — Judge Edward Davila: *"Failure is normal. Failure by
 fraud is not ok."* From the United States Attorney the same day: *"Her sentence reflects the
-audacity of her massive fraud and the staggering damage she caused."* And from the press, the tell
+audacity of her massive fraud and the substantial damage she caused."* And from the press, the tell
 that matters most: NPR's *"once seen as a Silicon Valley wunderkind."* **The admiring word is not
 withdrawn. It is moved into the past tense.**
 

@@ -205,7 +205,7 @@ uniformity and a signature, not a burden invented by drafters.
 
 *For the question you will be asked in committee: "no other country does this to its own
 industry." Several do. Full texts and sources at
-[the comparative receipts](./comparative_officer_liability.md).*
+[the comparative provisions](./comparative_officer_liability.md).*
 
 | Jurisdiction | Instrument | Reaches a named person? | Nature |
 |---|---|---|---|

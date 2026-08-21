@@ -86,7 +86,7 @@ acts, and acts have actors.***
 - **Enacted frontier law requires exactly one human signature, and it belongs to the auditor.**
 
 *The words above are set out in [what these words mean](./standards/what_these_words_mean.md); the
-receipts are in [why a signature works](./standards/why_a_signature_works.md).*
+authorities are set out in [why a signature works](./standards/why_a_signature_works.md).*
 
 ## Overview
 
@@ -129,7 +129,7 @@ model-act/
 ├── ledger/                          # errata · changelog · diary — append-only
 ├── CITATION.cff · LICENSE
 ├── ERRATA.md                        # historic register names — one pointer into the ledger
-├── standards/                       # the adopted texts · the fiscal note · comparative receipts
+├── standards/                       # the adopted texts · the fiscal note · comparative authority
 ├── archive/                         # superseded versions + the print edition and its generator
 ├── audit/                           # drafting record · cure queues (v3.4 sealed · v3.5 open)
 ├── dossier/                         # the evidence file, every fact pinned
@@ -372,7 +372,7 @@ Newest first; every entry links to the artefact, not to a promise.
   codes decoded, the government's own craft sheets pinned, and the one fact that inverts
   the civic instinct: the process is not a vote.
 - **20 Aug 2026** — the question ladder's comparative answers gain their sources:
-  [the receipts file](./standards/comparative_officer_liability.md) pins PRC art. 31,
+  [the comparative file](./standards/comparative_officer_liability.md) pins PRC art. 31,
   § 130 OWiG, and the 1890–91 export-inspection acts, and lists the three claims that
   were drafted and cut for want of a primary source.
 - **20 Aug 2026** — Illinois pinned: P.A. 104-0538 § 10 enters [the adopted
