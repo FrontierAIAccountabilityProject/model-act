@@ -83,13 +83,20 @@ the number of rows actually read.*
 | | Count |
 |---|---|
 | Frontier bills identified (⚠ tracker figure, duplicates suspected) | ~34, across 10 states + federal |
-| **Read and answered** | **4** (H.R. 9917, Connecticut SB 5, Idaho S 1297, Nebraska LB 525) |
+| **Read and answered** | **6** (H.R. 9917, Connecticut SB 5, Idaho S 1297, Nebraska LB 525, Illinois P.A. 104-0538, New York ch. 96 of 2026) |
 | Of those read: reaching a natural person **as an officer of a developer** | **0** |
 | Of those read: naming officers and directors in the operative text | **1** (Connecticut, as recipients of a report — no duty attaches) |
-| Of those read: requiring a human signature | **0** |
+| Of those read: requiring a human signature **from anyone at all** | **1** (Illinois — and it is the outside auditor's) |
+| Of those read: requiring a signature from **anyone inside the developer** | **0** |
 | Of those read: any criminal liability at all, entity or person | **0** |
-| Of those read: **actually frontier bills** | **2 of 4** — two were chatbot statutes miscategorised by the tracker |
+| Of those read: **actually frontier bills** | **4 of 6** — two were chatbot statutes miscategorised by the tracker |
 | Highest penalty found | **\$20,000,000 per day** (H.R. 9917), payable by the company |
+
+*The count moved from four to six on 21 August 2026. New York was read that day. **Illinois had
+been read and answered since the 20th and was not being counted**, because its row sits above as
+the worked example rather than in the rows section — an accounting artefact of the file's layout,
+not a second reading. It is counted now, and the signature line is split in two so that Illinois's
+one human signature cannot be mistaken for the thing this census is looking for.*
 
 ---
 
@@ -388,6 +395,52 @@ never the one who built the model it runs on.*
 
 ---
 
+### NEW YORK — S 8828 (ch. 96 of 2026) — Responsible AI Safety and Education (RAISE) Act
+
+**Status:** **enacted**, signed 19 Dec 2025, chapter-amended 2026, effective **1 Jan 2027** ·
+**Session:** 2025–26 · **Checked:** 21 Aug 2026 · **Source:** the enacted chapter text, pinned
+verbatim in the project's [New York repository](https://github.com/FrontierAIAccountabilityProject/raise-officer-certification)
+· **Sponsors:** Senator Andrew Gounardes, Assemblymember Alex Bores
+
+**A real frontier statute**, on the enacted family's own terms: article 44-B of the General
+Business Law, duties on *large frontier developers*, frontier AI frameworks, transparency reports,
+catastrophic-risk assessment and incident reporting.
+
+**Word test — and this row is the shortest in the file for a reason.** *Audit* — **absent, no
+occurrences.** *Signature*, *shall sign* — **absent.** *Certify*, *certification* — **absent.**
+*Officer* — hits only as *"public officers law"*, a records provision, and is a false positive on
+the question. *Natural person* — **one occurrence**, at *"a mechanism that enables a natural person
+to communicate with the"* division: a communication channel, not a duty-bearer.
+
+**Who owes the duty.** The frontier developer, as an entity, throughout.
+
+**Does a human sign?** **No. Nothing. Nobody.** Illinois at least requires one human signature and
+gives it to the outside auditor; **New York does not require a signature at all.**
+
+**Who pays.** The entity, on the Attorney General's action. No individual liability.
+
+**Criminal exposure.** None reaching a natural person.
+
+**And the provision that comes closest.** The Act bars a developer from making *"a materially false
+or misleading statement about catastrophic risk from its frontier models"* — the nearest thing in
+enacted American frontier law to this project's truth-telling limb. **It is a duty not to lie, owed
+by a company, with nobody required to put a name to the statement.** A false statement with no
+signatory is a provision without a defendant.
+
+**Verdict.** *New York wrote a duty not to lie about catastrophic risk and left the line where a
+human being would sign it blank.*
+
+**Confidence. ⚠ R.** The enacted chapter text was opened and searched directly, not read from a
+summary. Not yet read by a human eye.
+
+⚠ **One thing this row does not claim.** Whether an earlier version of the bill — **S 6953-B** —
+contained an independent audit requirement that was removed by the chapter amendment is **not
+established**. The finding above is about the **enacted** text only. The prior version is a named,
+fetchable primary and is queued below. *This caveat exists because the project's working notes
+carried the removal as an assumption for a week; see [E14's failure mode](../ledger/errata.md).*
+
+---
+
 ## What the first three rows establish
 
 **One.** Two of the three bills a commercial tracker classified as frontier legislation are
@@ -437,9 +490,15 @@ nowhere in this repository:**
 
 **Then the enacted three, to confirm what the project already believes:**
 
-- [x] Illinois — P.A. 104-0538 *(worked example above; auditor line still ⚠)*
+- [x] Illinois — P.A. 104-0538 *(worked example above; row complete, auditor line now ✅ and cited
+  at 430 ILCS 185/10(d)(2)(G))*
+- [x] **New York — S 8828, ch. 96 of 2026** *RAISE Act* — done, 21 Aug. *Enacted; a real frontier
+  statute, and it requires no signature from anyone.*
+- [ ] **New York — S 6953-B** — **the prior version**, and a different job from the row above. The
+  only question it has to answer: **did it contain an independent audit requirement that the chapter
+  amendment removed?** The enacted row asserts nothing either way. Fetchable from the Senate's own
+  system.
 - [ ] **California — SB 53** *Transparency in Frontier Artificial Intelligence Act*
-- [ ] **New York — S 6953-B** *RAISE Act*
 
 **Then the rest, by state.** ⚠ *Counts below are the tracker's and are known to be unreliable:
 California and Illinois each had a bill listed twice, New York's list showed seven bills under a
