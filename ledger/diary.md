@@ -3,6 +3,78 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 
 ## Part III — The diary
 
+**21–22 August 2026, overnight — The project caught itself doing the thing it was writing about.**
+
+*⚠ Dating note. The previous entry is stamped 21 August, late. Today's files are stamped 22 August
+throughout, and the system clock said the 21st. **If the day did not actually turn, seven files carry
+a date a day ahead**, and it is the first job of the morning. Recorded here rather than quietly
+fixed, because a project arguing that dates carry legal weight does not get to be casual about its
+own.*
+
+Started the day arguing from headlines. Ended it arguing from a government incident report, a
+peer-reviewed editorial, and two public broadcasters in two languages.
+
+**The best thing that happened was not a finding. It was a failure.** Four quotations went into a
+research file from a working summary rather than from text anyone could point at. They were graded
+✅ on the strength of *a human read the article in full* — true of the reading, irrelevant to the
+transcription. All four were withdrawn and quarantined. Filed as [E22](./errata.md).
+
+**Hours later the first of them was re-opened, and the quarantine paid for itself.** The remembered
+Daniel Hulme quotation ended *"it will find a way."* What he said was *"it will find a way to achieve
+a goal that you haven't thought about."* **The clipped version stopped precisely where the human
+being enters the sentence.** [House language § 10a](../standards/house_language.md) argues that the
+public account of these incidents systematically clips toward agency and away from people. **This
+project's own summary did exactly that, to a quotation it was about to use as proof.** A remembered
+quotation does not decay randomly — it decays toward what the person remembering it needed it to say.
+That entry is worth more than the section it nearly broke.
+
+**What holds.** The UK Government Cyber Action Plan uses the phrase *personal accountability* **once**
+in nine chapters, and spends it on a named official — who must then appoint *"a senior, capable
+individual with authority."* That is Illinois's *designation and empowerment* written as a duty
+somebody owes instead of a box somebody ticks. The same government classifies generative-AI risk as
+unmanageable by any single organisation and gives it to one post-holder. Two jurisdictions, one
+technology, one year; only one of them wrote down a name.
+
+**AISI lists five factors behind its own July incident and every one is a human decision** — access
+*"deliberately enabled"*, classifiers *"deliberately disabled"*, monitoring *"not yet built"*,
+allowlisting backlogged since April, scope never written down. *"We did not revisit that judgment
+quickly enough."* **The report has no named author.** Five decisions, no decision-maker. The BBC
+article about it carries a byline; the institute's own report does not.
+
+**Hugging Face disclosed on 16 July. OpenAI disclosed on 21 July.** The party broken into went five
+days before the party whose models did it, and disclosed without knowing who had done it.
+[Who has to tell you](../standards/who_has_to_tell_you.md) has evidence now, and a section that can
+actually be cited.
+
+**Meta blamed its tester.** The first time a frontier incident produced public blame, it went to the
+outside contractor hired to inspect the work — **which is exactly where Illinois puts the only
+signature enacted law requires.** The design error, demonstrated rather than argued.
+
+**And the cross-language test settled the standing objection.** Every rebuttal to § 10a has been
+*that is English headline compression*. tagesschau made the identical possessive choice about the
+identical event on the identical day, and escalated — *eigenständig*, *auf Eigeninitiative*,
+*eigenmächtig*. The corporate word survives translation too: *Fehlkonfiguration*. **The press gives
+the verb to the model, the company gives it to a configuration, and neither account contains a
+person, in either language.** Then, four paragraphs down a German article, reporting Bloomberg,
+reporting a conference talk: *das Team vergessen, eine zum Auftrag gehörende Datei hochzuladen.*
+**The team forgot to upload a file.** The only human subject in the entire corpus — third-hand,
+translated, and graded that way.
+
+**Two broken delivery scripts, both mine.** macOS `base64` will not take a positional input file.
+Then a verification `grep` written against text that had never been grepped — the string was split
+by markdown emphasis and wrapped across a line. **The same mistake twice in one session, and the same
+mistake as E22 in different clothing: asserting from memory instead of checking.** Fixed by testing
+all eleven assertions against the real files and dry-running the whole thing on a clean checkout
+before sending. **The discipline is not "be careful." It is "run it."**
+
+**Open.** Four commits local until the script runs. Three quarantined quotations still owed. The
+Bloomberg and Black Hat sources for *weeks undetected*. Nine of ten headlines unconfirmed against
+their own pages. And the census does not know how many incidents have been disclosed — the BBC says
+four, tagesschau says three, and **a file that counts things should not be learning its counts from
+news outlets.** Monday: the congressional letters.
+
+---
+
 **21 August 2026, late — The best exhibit for the argument turned out to have lost its first case.**
 
 A question put to the project — *would any of this actually reach one of them?* — went at the
