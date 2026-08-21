@@ -61,6 +61,7 @@ a human has re-read the source with their own eyes.
 | 6 | [Illinois Joins Growing State-Level Effort to Regulate Frontier AI](https://www.lw.com/en/insights/illinois-joins-growing-state-level-effort-to-regulate-frontier-ai-with-new-safety-measures-act) | Latham & Watkins (law firm) | **No** — one signature required in the whole corpus, and it is the auditor's. See G4 |
 | 7 | [California Enacts Landmark AI Transparency Law](https://www.whitecase.com/insight-alert/california-enacts-landmark-ai-transparency-law-transparency-frontier-artificial) | White & Case (law firm) | **No.** Organisational enforcement only |
 | 8 | [What General Counsel Need to Know](https://www.harrisbeachmurtha.com/insights/californias-new-frontier-ai-law-what-general-counsel-need-to-know/) | Harris Beach Murtha | **NOT CAPTURED** — retrieval returned no content. Recorded as unread, not as absent |
+| 9 | [When a Frontier AI Model Breaks the Law, Who Is Accountable?](https://www.forescout.com/blog/when-a-frontier-ai-model-breaks-the-law-who-is-accountable/), 5 Aug 2026 | Sai Molige, Rik Ferguson, Forescout Research — Vedere Labs (**network security vendor**, not a law firm or policy shop) | **Closer than anyone else, and still no.** Asks this project's question in its title, answers it at *organizations* and *operators*, and never reaches a natural person. See G6 |
 
 ---
 
@@ -137,6 +138,81 @@ the Attorney General, and no private right of action. Different legislatures, di
 years, identical shape — and in every case the penalty is paid by the entity from the
 entity's money. *Strength: solid, multiple independent sources; the statutes themselves
 control.*
+
+### G6 — Somebody finally asked the question in a headline, and stopped at the company
+
+**This is the sweep's most important entry, and it comes from outside every category the sweep
+was built to search.** Not a law firm, not a policy institute, not an AI-safety organisation — a
+**network security vendor's research arm**, writing for defenders.
+
+Forescout's Vedere Labs, 5 August 2026, headline: ***"When a Frontier AI Model Breaks the Law, Who
+Is Accountable?"***
+
+**It opens with the comparison [the same conduct, prosecuted](./the_same_conduct.md) is built on**,
+arrived at independently:
+
+> When a human breaks into a production system, steals credentials, extracts data or distributes
+> malware, the activity is investigated as cybercrime. Prosecutions may follow. Sentences may be
+> handed down. **When a frontier AI model carries out the same actions during an evaluation, the
+> incident is described rather differently: as a safety failure, evidence of emerging capability
+> and, increasingly, another entry in the competition to demonstrate whose AI is the most powerful.**
+
+And it puts the question this project exists to ask:
+
+> **why does conduct that would be treated as criminal when performed deliberately by a human
+> become, when performed by a frontier model, partly a demonstration of capability?**
+
+**It also disposes of the mens rea deflection before anyone offers it**, in the same terms
+[the glossary](./what_these_words_mean.md) uses:
+
+> Of course, a model is not presently a legal person and cannot be prosecuted. **But that does not
+> make the underlying conduct authorized, harmless, or hypothetical.** Real infrastructure was
+> compromised, real organizations were affected, **and responsibility still has to be assigned.**
+
+#### And then it stops
+
+> That responsibility lies with **the organizations** that design the evaluation, configure the
+> environment, grant access, manage credentials, and decide which safeguards to relax… As autonomy
+> increases, accountability should not become more diffuse. It should become more explicit, with
+> **clear ownership** of containment, oversight, incident response, and harm caused to third parties.
+
+**Organizations. Operators. Model providers. Ownership.** The word *officer* does not appear. Nor
+*natural person*, nor *certify*, nor *signature*, nor *personally*. Its closing line — *"Accountability
+cannot stop at the model boundary"* — is exactly right and stops one boundary early.
+
+**Why that is worth recording rather than scoring.** This is a security firm that has thought about
+the problem harder than most of the legal commentary in the table above, reached the conclusion that
+responsibility must become *more explicit*, and then written **"clear ownership"** where a lawyer
+would have to write a name. **The vacancy the census finds in statutes is reproduced in the
+commentary by people actively arguing against diffusion of responsibility.** It is not that nobody
+thinks about who is accountable. It is that the available vocabulary stops at the corporate person,
+and everyone reaches for it, including the people who see the problem clearly.
+
+#### Two things in it the project should use
+
+**One — the defender's refusal, which belongs to the queued security-researcher section.** While
+responding to the incident, **Hugging Face found that commercial frontier-model APIs blocked parts
+of its forensic analysis** because exploit payloads and attack data were classified as malicious:
+
+> The safety systems recognized risky content, but not the identity, authority, or purpose of the
+> person submitting it… For incident responders, legitimate analysis can look identical to an attack.
+
+**The victim of the incident was refused by the guardrails while investigating it.** Forescout's
+fourth recommendation is *"clear legal protections for defensive use — reduce the risk that
+malicious intent is inferred solely from the malicious content being analyzed."* **That is the safe
+harbour half of this project's security-researcher argument, written by a security vendor.**
+
+**Two — the boundary formulation**, which is the sharpest available statement of why a written
+policy is not a control:
+
+> **In both cases, instructions described a boundary that the infrastructure did not enforce.**
+
+⚠ **Strength.** Read in full on 21 August 2026. The incident particulars it reports — the
+package-registry-proxy zero-day, the malicious package executing on 15 external systems, the ~9,000
+targets scanned — are **the vendor's characterisation of OpenAI's and Anthropic's own disclosures**
+and are ⚠ **F** until those two primary posts are opened directly. **The quotations from Forescout
+itself are ⚠ R.** Nothing about the underlying incidents should be cited from this source while the
+first-party disclosures remain unread; both are linked from the post and neither is difficult.
 
 ---
 
