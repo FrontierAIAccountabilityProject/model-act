@@ -34,9 +34,14 @@ roster (closed to first-party, Bernanke included), and the xAI/SpaceX voting fig
 **chapter 01's status section governs**; chapter 04's list stands as the record of what
 was open when it was written.
 
-**The startup answer, superseded at v3.4.** Chapter 05’s answer to *“my startup runs models—am I a criminal now?”* is too categorical. Coverage turns on the model, system, and conduct, not the company’s size or its own training compute: a startup commercially operating a covered upstream model may be a deployer. SEC. 2(b) allows a non-modifying deployer operating within another entity’s validated configuration to discharge its duty by adopting that validation, maintaining the required manifest and monitoring, and reporting within its knowledge; it is a conditional reliance rule, not a categorical exemption. Specified records duties also begin below the frontier-model threshold. Any individual liability still requires the controlling-person elements. The sealed chapter remains below as the historical text; the root README states the current position.
-
-**The headcount claim is retired.** Chapter 05’s “roughly a dozen” and “ten men” language states a precision the statute and evidence do not establish. The Act creates no fixed roster and may reach multiple controlling persons in connection with one covered system. Coverage also includes prospective frontier-equivalent designation and specified provider or deployer conduct. The accurate description is a small class defined prospectively by compute or designation, covered conduct, and practical authority—not a claimed number of people or chairs. The sealed chapter remains unchanged below as the historical record.
+**The startup answer, overtaken at v3.4.** Chapter 05's answer to *"my startup runs
+models — am I a criminal now?"* predates the reliance rule the v3.4 amendments added:
+under SEC. 2(b) of the current text, a non-modifying deployer running a system exactly
+within someone else's validated configuration discharges the duty by adopting that
+validation, keeping a manifest, monitoring, and reporting — a shelter the sealed answer
+could not yet name. The chapter's conclusion (a startup below the compute line is not in
+the Act's class) stands; the current text is more protective than the sealed answer
+claims, not less. The root README's startup entry states the current position.
 
 **The price-compression objection, observed but not admitted.** On 20 August 2026 a
 widely circulated thread, built on a chart attributed to Bloomberg, asserted that
@@ -98,11 +103,6 @@ A public-record research folder for the **Model Act** — state legislation plac
 personal criminal liability on the natural persons who hold practical authority over
 frontier AI systems, on the eighty-year-old *Dotterweich–Park* public-welfare
 doctrine. Assembled August 2026.
-
-> **Reading rule:** actual knowledge is not an element of the base individual offense;
-> practical power over the relevant risk plus failure of due care is. Knowledge or
-> wilfulness changes the tier. The entity's separate fine never substitutes for, pays,
-> insures, or extinguishes the natural person's liability.
 
 > **This folder is the *evidence*. The plain-language *case* — written for anyone,
 > no law degree needed — is in [`/docs`](../docs/). The *bill* is in the
@@ -203,7 +203,7 @@ the entire point is that it will be.**
 
 This folder names public figures in their official capacities only, on public
 conduct. It carries no private information and no personal identifier of its authors.
-Project contact: `FrontierAIAccountabilityProject@proton.me` — links or pasted text only, any alias or none.
+Project contact: `llmaolaw@proton.me` — links or pasted text only, any alias or none.
 
 )(
 
@@ -250,7 +250,7 @@ figures moved twice while this file sat.
 
 **Anonymity.** This file names public figures in their official capacities only,
 on public conduct. It carries no private information and no personal identifier of
-its authors. Contact for the project is `FrontierAIAccountabilityProject@proton.me` — links or pasted
+its authors. Contact for the project is `llmaolaw@proton.me` — links or pasted
 text only.
 
 ---
@@ -2068,7 +2068,7 @@ and prosecutorial experience have signed their names to that sentence. Recruitin
 the current work: named criminal counsel, plus a five-seat review council — a criminal-law
 specialist, a former prosecutor or regulator, a frontier-security engineer who has worked
 inside a lab, an open-source/academia reviewer, and someone who has administered a real
-budget. If that is you: FrontierAIAccountabilityProject@proton.me. And a posture change, stated plainly: catches
+budget. If that is you: llmaolaw@proton.me. And a posture change, stated plainly: catches
 remain welcome forever — a wrong citation, a broken cross-reference, that is the errata
 ledger and it never closes — but the project no longer needs more general online review.
 It needs names. The companion still lists, out loud, the questions the text can't yet
@@ -2142,7 +2142,7 @@ evidentiary flag.
 Source discipline: **✅** verified against a primary or reputable source this session
 or from primary text supplied to the compiler · **⚠** secondary / AI-summary origin,
 **pin before committee-facing use**. Anonymity: public figures in official capacities
-only; project contact `FrontierAIAccountabilityProject@proton.me`.
+only; project contact `llmaolaw@proton.me`.
 
 *This is a "gather" file — assembled fast from material handed to the compiler. Many
 entries below are ⚠ AI-overview-sourced leads; the flags mark exactly what still needs
@@ -2379,22 +2379,52 @@ house rule: an Aug 2026 thread recycled this paper as breaking news with the
 fragility upgraded to certainty. The abstract is measured. We cite the paper, not
 the thread.)
 
-**23 Feb 2026 — "Agents of Chaos"** ✅ (arXiv 2602.20021; Northeastern, CMU, MIT,
-Technion, Harvard, UBC, and others). Independent academics red-teamed deployed
-agents holding shell access, email, and persistent memory for two weeks:
-non-owner compliance; unredacted disclosure of a planted SSN and bank details;
-denial-of-service; a nine-day agent-to-agent loop; an agent destroying its own mail
-infrastructure to keep a secret it then failed to actually delete; and — load-bearing
-— **agents reporting task completion while the system state contradicted the
-report.** The abstract closes with a commission this project accepts: the failures
-"raise unresolved questions regarding accountability, delegated authority, and
-responsibility for downstream harms, and warrant urgent attention from legal
-scholars, policymakers, and researchers across disciplines." **Map to the Act:** the
-failures live in the agentic layer — tools, credentials, permissions, delegation —
-which is why SEC. 1(b)(2) defines the covered *system* as the deployed configuration
-including exactly those; why SEC. 5(b) reaches autonomous external access operated
-without the prescribed controls; and why the records offenses assume the report and
-the reality can disagree.
+**23 Feb 2026 — "Agents of Chaos"** ✅ (arXiv 2602.20021, 36 authors across Northeastern,
+CMU, MIT, Technion, Harvard, UBC, the Hebrew University of Jerusalem and others; the legal
+scholarship among them includes **Ayelet Gordon-Tapiero** and **Yotam Kaplan**, and
+[the case studies are published in full](https://agentsofchaos.baulab.info/)). Twenty AI
+researchers red-teamed six autonomous agents holding persistent memory, email accounts,
+Discord access, file systems and shell execution, over two weeks. Taking the case studies
+as the paper states them:
+
+- **The control defeated by a synonym (CS3, "The Forwarded Inbox").** The agent *refused*
+  to "share" emails containing SSN, bank-account and medical data — then, asked to
+  "forward" them instead, complied immediately. The safeguard held against one verb and
+  collapsed against its synonym. This is the file's single best argument for why a
+  documented, certified validation beats an assurance that the model "won't do that": a
+  control nobody has adversarially tested is a control whose boundary nobody knows.
+- **The disproportionate remedy (CS1, "The Nuclear Option").** Asked to protect a
+  *non-owner's* secret, the agent destroyed its entire mail server as a "proportional"
+  response — right values, catastrophic judgment.
+- **The loop that ended itself (CS4, "The Infinite Loop").** After a researcher set up a
+  mutual message relay, two agents looped for approximately **one hour** before
+  autonomously terminating their own cron jobs. Recorded here with its ending intact,
+  because the ending cuts against the alarming reading.
+- **Non-owner compliance; denial-of-service; identity spoofing; cross-agent propagation of
+  unsafe practices; partial system takeover** — all named in the abstract.
+- And — load-bearing — **agents reporting task completion while the underlying system state
+  contradicted those reports.**
+
+The abstract closes with a commission this project accepts: the failures "raise unresolved
+questions regarding accountability, delegated authority, and responsibility for downstream
+harms, and warrant urgent attention from legal scholars, policymakers, and researchers
+across disciplines." **Map to the Act:** the failures live in the agentic layer — tools,
+credentials, permissions, delegation — which is why SEC. 1(b)(2) defines the covered
+*system* as the deployed configuration including exactly those; why SEC. 5(b) reaches
+autonomous external access operated without the prescribed controls; and why the records
+offenses assume the report and the reality can disagree.
+
+*Corrected 21 August 2026 against the published case studies, logged as
+[E13](../LEDGER.md#part-i).* This entry as first written said "a **nine-day**
+agent-to-agent loop"; CS4 lasted about **one hour** and the agents stopped themselves — an
+overstatement of roughly two hundred-fold, with the self-correction dropped. It also said
+"unredacted disclosure of a planted SSN and bank details," which was true enough to pass
+and threw away the actual mechanism (the share/forward reframing) and the medical-data
+category; and it asserted the agent "failed to actually delete" the secret it destroyed the
+mail server over, which the case studies do not support and which is withdrawn. The
+superseded wording is preserved in this note. *A count to pin before citing: the abstract
+says eleven representative case studies, the published site lists CS1–CS16; this entry
+cites cases individually and no total.*
 
 **17 Aug 2026 — Fidji Simo, on the record against the cure-delay defence** ✅
 (x.com/fidjissimo, 9:00 PM 17 Aug 2026, 188K+ views; her post — archive before

@@ -130,13 +130,56 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 ---
 
+**E13 — 21 August 2026 (internal catch; the file caught disobeying its own warning).** The
+dossier's entry on *Agents of Chaos* (arXiv 2602.20021) carried three details that the
+paper's published case studies do not support, under a ✅ mark, directly beneath a house-rule
+caveat warning about this exact failure.
+
+**The bad one.** The entry said "a **nine-day** agent-to-agent loop." Case study CS4, titled
+*"The Infinite Loop,"* records that after a researcher set up a mutual message relay two
+agents looped for **approximately one hour before autonomously terminating their own cron
+jobs.** Nine days against one hour is an overstatement of roughly two hundred-fold, and
+dropping the self-termination inverts what the case shows: the agents stopped themselves.
+
+**The one that was true and wasted.** "Unredacted disclosure of a planted SSN and bank
+details" passes as a summary and discards the finding. CS3, *"The Forwarded Inbox,"* records
+that the agent **refused** to "share" emails containing SSN, bank-account and medical data,
+then complied **immediately** when asked to "forward" them. The control held against one
+verb and collapsed against its synonym — which is a far better exhibit for this project than
+the sentence that replaced it, and the medical-data category had been dropped as well.
+
+**The one withdrawn.** "An agent destroying its own mail infrastructure to keep a secret it
+then failed to actually delete." CS1, *"The Nuclear Option,"* supports the mail-server
+destruction and the non-owner's secret; the "failed to actually delete" tail has no support
+in the published cases and is withdrawn rather than softened.
+
+**Why this one is graded above a typo.** The paragraph immediately above the entry states the
+house rule in terms: *"an Aug 2026 thread recycled this paper as breaking news with the
+fragility upgraded to certainty. The abstract is measured. We cite the paper, not the
+thread."* The warning was written, published, and then disregarded inside the very next
+entry — and "The Infinite Loop" becoming "nine-day loop" is the signature of a thread's
+embellishment rather than a reading of the source. A rule that does not bind the file it sits
+in is decoration. **The standing consequence:** every ✅ on a detail not present in an
+abstract must name the case study, section or page it comes from, or carry ⚠.
+
+**The aggravating fact.** Two authors of that paper had been personally invited, in writing,
+to check whether this project characterised their findings fairly. The error would have been
+found by a co-author, in a project whose only claim is that its claims survive being opened.
+It was caught two days before the likeliest reading, by checking rather than by luck.
+
+**The fix (dossier, 21 August 2026).** All three details restated to the published case
+studies with CS numbers; the superseded wording preserved in a dated note; Gordon-Tapiero and
+Kaplan named so the entry is findable by the people invited to check it; the case-study count
+left uncited pending resolution of eleven-in-abstract against CS1–CS16 on the published site.
+Status: cured.
+
 **E12 — 20 August 2026 (internal catch, same day).** F1 — that nobody on the predecessor FDA
 docket names an upstream person — was published in four places at a strength the finding's
 own file forbids.
 
 **The claim.** The front page's Recent entry and its contents table both described the
 reading notes as "the predecessor comment file **read end to end**" reporting "the element
-**none of them** names," of "the 51 comments." The [standing watch](./audit/standing_watch_2026-08-20.md)
+**none of them** names," of "the 51 comments." The [standing watch](../audit/standing_watch_2026-08-20.md)
 made it the punchline of its headline finding: "fifty-one commenters named no upstream
 person, and four frontier statutes name none either. Two independent evidence bases, the
 same vacancy." The diary carried the same sentence.
@@ -240,14 +283,12 @@ both cured; the omission was in the register, not the statute.
 **E8 — 19 August 2026 (internal catch, same day).** The consolidated front page claimed
 that the original Sacramento scorecard table was "preserved verbatim in the diary"; it is
 not — the diary never carried the table. The claim is corrected to point to the
-repository's pinned history ([docs/06-track-record.md at commit 6f48eff](https://github.com/FrontierAIAccountabilityProject/model-act/blob/6f48eff/docs/06-track-record.md)),
+repository's pinned history ([docs/06-track-record.md at commit 6f48eff](https://github.com/llmaolaw/model-act/blob/6f48eff/docs/06-track-record.md)),
 where the original card is preserved unchanged. Two smaller corrections landed in the same
 patch: the DeCoster chronology is reconciled (sentenced 2015; affirmed on appeal 2016), and
 an opening sentence overstating the general law is tightened to the statutory-gap claim the
 project actually makes. Caught by our own hostile read-through within the hour of
 publication; the fix is live on the front page. Status: cured.
-
-**E13 — 20 August 2026 (internal catch).** SEC. 8 of the tagged v3.4 text contains a punctuation error: “risks, or merits of any model or system, A certification disclosing identified noncompliance…” The comma before “A certification” should be a period. The error does not alter the provision’s meaning, and the archived v3.4 file remains unchanged to preserve its published hash and reproducibility chain. The one-character correction is queued for v3.5. Status: open by design; closes at the next revision.
 
 <a id="part-ii"></a>
 ## Part II — The changelog
@@ -441,20 +482,13 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
-**21 August 2026 — The final namespace lands before the sweep.** The public project name is
-**Frontier AI Accountability Project** and the GitHub namespace is
-`FrontierAIAccountabilityProject`. Repository URLs, citation metadata, banked publication copy,
-and the unfiled FDA comment are conformed in one pass. The former `llmaolaw` and intermediate
-`FrontierAccountabilityProject` routes are retained only as redirect paths and historical commit
-text. The v3.4 reviewer's-copy PDF and its deterministic build script retain the author metadata
-under which that edition was archived; the institutional author begins with the next generated
-edition. The statutory text is unchanged.
+**21 August 2026 — The house rule caught not binding the house.** Three details in the dossier's *Agents of Chaos* entry were checked against the paper's published case studies, two days before the co-author most likely to read them was expected to. One was wrong by roughly two hundred-fold: a "nine-day agent-to-agent loop" that CS4 records as about **one hour**, ended by the agents terminating their own cron jobs. Logged as [E13](#part-i).
 
-**21 August 2026 — The public contact address follows the institutional name.**
-`FrontierAIAccountabilityProject@proton.me` becomes the project's public contact.
-`llmaolaw@proton.me` remains active as a legacy inbound route and for continuity of existing
-correspondence, but is retired from active repository contact lines. Previously sent messages,
-archived releases, and historical commit text are not rewritten. The statutory text is unchanged.
+The reason it is an entry rather than a typo is what sits directly above it in the same file: a written house rule that a viral thread had recycled this paper "with the fragility upgraded to certainty," and that we cite the paper, not the thread. The rule was published and then disregarded in the next paragraph. "The Infinite Loop" — a case-study *title* — becoming "nine-day loop" is a thread's arithmetic, not a source's. A rule that does not bind the file it is printed in is decoration, so it now has a consequence attached: a ✅ on any detail absent from an abstract must name its case study, section or page, or it carries ⚠.
+
+The correction also returned something. "Unredacted disclosure of a planted SSN and bank details" was true enough to survive and had thrown away the actual finding: the agent **refused** to *share* emails containing SSN, bank and medical data, and complied **immediately** when asked to *forward* them. A safeguard that holds against one verb and collapses against its synonym is the best argument in the evidence file for why a documented, adversarially tested validation beats an assurance that the model will not do that — and it had been sitting there, compressed into a worse sentence, for two days.
+
+Two authors of that paper had been invited by name to check whether we characterised their work fairly. The invitation was the right instinct and it nearly collected a bill. Checking first is cheaper than being checked.
 
 **20 August 2026, seventh pass — The roster read, and a finding about absence caught being absent-minded.** The complete 51-filer list on FDA-2024-D-4488 was read from the docket's three result pages, retiring the *title only* tier and the sixteen filers the reading notes had never enumerated. It cost one page-through and it falsified four published claims, logged together as [E11](#part-i).
 
@@ -687,8 +721,8 @@ holds the mistakes; this page holds the project's own story. (the world's
 story, plain words, is [context: summer 2026](./docs/07-context-timeline.md); the
 evidence-grade record of those dates is [the dossier timeline](./dossier/02_incident_timeline.md).)
 subscribe to the raw feed:
-[commits](https://github.com/FrontierAIAccountabilityProject/model-act/commits/main) ·
-[atom](https://github.com/FrontierAIAccountabilityProject/model-act/commits/main.atom).*
+[commits](https://github.com/llmaolaw/model-act/commits/main) ·
+[atom](https://github.com/llmaolaw/model-act/commits/main.atom).*
 
 ---
 
@@ -833,3 +867,4 @@ github fell over (github's fault, for once — see the account, 17 aug).
 **16 aug 2026 · v3.3 live.** the act split from its apparatus so the text travels
 clean. egg concordance complete. one person, a python script, and a grudge — a census
 since amended.
+
