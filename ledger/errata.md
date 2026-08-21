@@ -667,7 +667,38 @@ toward whatever the file needed it to say.
 No statutory change.
 
 **Credit:** caught by the arrival of the primary texts — which is luck. **Rule 2 exists because luck
-is not a control.** Status: **cured; the four leads remain open.**
+is not a control.**
+
+### Addendum, same day: the first lead was re-opened, and the quarantine was justified
+
+**The BBC's Meta article was opened hours later. The Hulme quotation exists. It is not what was
+remembered**, and the three differences all run the same way:
+
+| held | published |
+|---|---|
+| *"they're not deliberately doing something devious…"* | *"**are not conscious** — they're not deliberately doing something devious"* |
+| *"…"* | a whole elided sentence: models *"coming up with very sophisticated strategies… to achieve the goal that they've been given"* |
+| *"it will find a way."* | *"it will find a way **to achieve a goal that you haven't thought about**."* |
+
+**The third is the finding.** *"It will find a way"* is a sentence about a model. *"It will find a way
+to achieve a goal that you haven't thought about"* is a sentence about **the person who set the
+goal**. **The remembered version terminated precisely where the human being entered.**
+
+> **The clipped quotation was more agentive than the real one.** [House language
+> § 10a](../standards/house_language.md) argues that the corpus systematically clips toward agency.
+> **This project's own working summary did the same thing, to a quotation it was going to use as
+> proof.**
+
+**The attribution was also wrong in a way that mattered.** Daniel Hulme is global chief AI officer of
+the advertising firm WPP — a commercially interested executive, not the neutral expert the summary
+implied. **That has to be stated every time the quotation is used.**
+
+**Consequence for the rule.** E22's rule 2 was written as a discipline about texts. **It is really a
+discipline about direction:** a remembered quotation does not decay randomly, it decays toward what
+the person remembering it needed it to say. **A summary is not a lossy copy. It is an interested
+one.**
+
+Status: **cured. One of four leads released with corrections attached; three remain open.**
 
 ---
 

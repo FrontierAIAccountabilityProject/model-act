@@ -232,9 +232,54 @@ here as leads to re-check and nowhere else.
 | attributed to | outlet, claimed date | status |
 |---|---|---|
 | Demir, on being deceived | Reuters, ~20 Aug 2026 | **withdrawn — re-open the article** |
-| Daniel Hulme, on goal specification | BBC (Meta), 6 Aug 2026 | **withdrawn — re-open the article** |
+| Daniel Hulme, on goal specification | BBC (Meta), 6 Aug 2026 | ✅ **released — see § 6a. The remembered version was materially wrong.** |
 | Woodward, on falsifiability | The Record, ~17 Aug 2026 | **withdrawn — re-open the article** |
 | Zack Korman, "full of excuses" | The Record / X, ~15 Aug 2026 | **withdrawn — re-open the article** |
+
+### 6a. Hulme — released, and the quarantine was right
+
+**The article was opened on 22 August 2026** —
+[bbc.com/news/articles/cx2kgdnyk2po](https://www.bbc.com/news/articles/cx2kgdnyk2po), Osmond Chia and
+Liv McMahon, **6 August 2026**. The quotation exists. **It is not what this project remembered.**
+
+**What was held:** *"they're not deliberately doing something devious… When you give an AI a goal, if
+you don't think of all the ways it might be able to achieve the goal, **it will find a way.**"*
+
+**What he said**, speaking to the Today programme:
+
+> *"[such AI models] **are not conscious — they're not deliberately doing something devious**."*
+
+> *"What they're doing is coming up with very sophisticated strategies or cyberattacks to be able to
+> achieve the goal that they've been given."*
+
+> *"When you give an AI a goal, if you don't think of all the ways it might be able to achieve the
+> goal, **it will find a way to achieve a goal that you haven't thought about**."*
+
+**Three errors, and the third is the one that matters.**
+
+1. *"are not conscious"* was dropped — the strongest part of the denial.
+2. An entire sentence was elided behind three dots, and it is the sentence that does the work: the
+   models *"coming up with very sophisticated strategies… to achieve the goal that they've been
+   given."*
+3. **The final clause was truncated.** *"It will find a way"* is a sentence about the model.
+   *"It will find a way to achieve a goal that you haven't thought about"* is a sentence about **the
+   person who set the goal and did not think.** **The remembered version cut off exactly at the point
+   where the human being enters.**
+
+> **The clipped quotation was more agentive than the real one — and this project's whole argument in
+> § 10a is that clipping toward agency is what the corpus does.** The summary drifted in the
+> direction of the thesis it was serving. That is [E22](../ledger/errata.md)'s failure mode, caught,
+> with the receipt attached.
+
+⚠ **And the attribution needed fixing too.** **Daniel Hulme is global chief AI officer of the
+advertising firm WPP.** Not an academic, not a security researcher. **The most exculpatory account of
+the conduct in the entire corpus comes from a commercially interested executive**, which does not
+make it wrong and does have to be said whenever it is quoted.
+
+**The account is still analytically useful and § 10a uses it as such:** the mechanism he describes
+locates the failure in goal specification — a design decision — and his own final clause puts *"you"*
+in the subject position. **Note also that even his sentence ends by giving the model the verb.** That
+is recorded as evidence of how hard the grammar is to escape, not as a criticism of him.
 
 ⚠ **Also unverified: that Korman's firm was named in the article**, which matters, because a
 criticism from a competitor weighs differently from one by an independent party. **Pin the
@@ -260,7 +305,20 @@ too-good-to-check finding that E15 and E22 exist to catch.**
    Everything this project holds about those three incidents is still second-hand.
 6. **Re-open the four quarantined articles in § 6.**
 7. **Confirm every headline string in [§ 10a](../standards/house_language.md) against its own page.**
-   Confirming that a story ran, and when, is not confirming the words it ran under.
+   Confirming that a story ran, and when, is not confirming the words it ran under. **One of ten is
+   now confirmed** (BBC/Meta, 6 Aug).
+8. **Find the Bloomberg report and the Black Hat session** behind the Wallace/Dalton material — the
+   *"weeks undetected"* figure and the *"team forgot"* quotation are third-hand and translated.
+9. **Establish whether Meta published more, as it said it would** *"once we have all the facts."*
+10. **Resolve the count discrepancy.** The BBC calls the Meta incident *"the fourth recent incident
+    of its kind disclosed by AI companies"*; tagesschau calls Meta's *"die dritte KI-Software"* — the
+    third. ⚠ **This project does not currently know how many disclosed incidents there have been**,
+    which is an embarrassing gap for a file that counts things, and the census should hold the
+    answer rather than a news outlet.
+
+⚠ **Retrieval hazard, recorded because [E13](../ledger/errata.md) exists:** tagesschau renders the AI
+Security Institute's acronym as **"ASIS"**, not AISI. A keyword sweep for *AISI* over
+foreign-language coverage will silently miss this article and others like it.
 
 ---
 

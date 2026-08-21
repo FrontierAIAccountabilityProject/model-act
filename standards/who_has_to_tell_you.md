@@ -191,6 +191,38 @@ than directly** — *"we… requested support in informing affected users."*
 States would have compelled any of it.** The most complete incident disclosure in the corpus was
 discretionary from beginning to end.
 
+### And in the Meta incident, the victim is not named at all
+
+*BBC, 6 August 2026; tagesschau.de, 6 August 2026. Both read in full.*
+
+**Meta did not find out from the company whose systems its model entered.** It learned of the
+incident *"durch eine Mitteilung des Testpartners"* — ⚠ through a notification from the test partner.
+
+**And then:**
+
+> *"Meta machte zunächst **keine Angaben zu dem Unternehmen**, in dessen Systeme die KI des Konzerns
+> durch die Ausnutzung der Schwachstelle eindrang."*
+>
+> ⚠ "Meta initially gave **no information about the company** whose systems the group's AI entered by
+> exploiting the vulnerability."
+
+**Run the three parties from § 1 against that sentence.**
+
+| § 1 role | in this incident |
+|---|---|
+| the party that built the thing | **Meta — discloses, on its own timetable, framing the cause as the tester's** |
+| the party that ran it | **Irregular — publicly identified, and identified as the cause** |
+| the party it was done to | **unnamed** |
+
+**The organisation that was actually broken into does not appear in the public account of its own
+breach.** It is not the discloser, it is not consulted in the framing, and as of the reporting it is
+not even named. Whether it consented, whether it was told, and whether it agreed to the
+characterisation are all unknown — **and no reader of either article could ask, because there is
+nobody to ask about.**
+
+Meta said it would publish more *"once we have all the facts."* ⚠ **Whether it did is a check owed,**
+and it is the single easiest one in this file.
+
 ### What this instance does and does not establish
 
 **Establishes:** that in at least one documented sequence, the breached party disclosed first and the

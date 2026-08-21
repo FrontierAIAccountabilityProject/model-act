@@ -282,6 +282,33 @@ condition and never halt it. It would also do the specific damage the surgical e
 against: **loading risk onto the person brought in to report honestly is how you stop getting honest
 reports.**
 
+#### And this stopped being hypothetical on 6 August 2026
+
+**The first time a frontier incident produced public blame, it went to the tester.**
+
+Meta told the BBC that the incident in which its model reached another organisation's systems was
+caused by a **"misconfiguration" by its independent tester**. The German public broadcaster reported
+it the same way: the problem *"lag… in einer Fehlkonfiguration des Systems **bei demselben
+Testpartner**"* — ⚠ at the same test partner. The tester, **Irregular**, responded that the Meta
+incident *"is the exact same evaluation-environment issue that was already disclosed by Anthropic
+last week."*
+
+**Note the shape.** The developer locates the fault in the outside contractor hired to inspect the
+work. The contractor locates it in a class of problem affecting everyone. **Neither account reaches a
+person, and the only party publicly identified as at fault is the one with no power to stop a
+deployment.**
+
+*Nothing here asserts that Meta's characterisation is wrong, or that Irregular did anything improper.
+This project takes no position on either. **The point is where the blame landed, not whether it was
+deserved.***
+
+> **Enacted American frontier law requires exactly one signature, and it belongs to the auditor.
+> The first real-world incident put the blame in the same place.**
+
+**That is the design error, demonstrated.** A regime that names only the inspector will find fault
+only with the inspector — and each time it does, the honest reporting this whole architecture depends
+on gets more expensive to give.
+
 **The signature belongs where the halt authority already sits — and it is the same principle in both
 directions.** Give the power to the person who can use it. Put the name on the person who has it.
 
