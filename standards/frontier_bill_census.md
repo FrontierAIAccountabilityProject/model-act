@@ -433,11 +433,72 @@ human being would sign it blank.*
 **Confidence. ⚠ R.** The enacted chapter text was opened and searched directly, not read from a
 summary. Not yet read by a human eye.
 
-⚠ **One thing this row does not claim.** Whether an earlier version of the bill — **S 6953-B** —
-contained an independent audit requirement that was removed by the chapter amendment is **not
-established**. The finding above is about the **enacted** text only. The prior version is a named,
-fetchable primary and is queued below. *This caveat exists because the project's working notes
-carried the removal as an assumption for a week; see [E14's failure mode](../ledger/errata.md).*
+---
+
+### The lineage finding — Illinois's one signature is New York's deleted sentence
+
+*Opened 21 August 2026, answering the question the row above refused to answer. **Graded ⚠ R and
+embargoed from public use until a human opens S 6953-A directly** — see the grading note at the
+end, which matters more than usual here.*
+
+The queued question was whether an earlier version of the RAISE Act contained an audit requirement
+that was later removed. **It did, and the answer arrived with a second finding attached.**
+
+New York's bill went through three versions. On the reported text of **S 6953** and **S 6953-A**,
+before the B amendment that became law:
+
+> A LARGE DEVELOPER SHALL ANNUALLY RETAIN A THIRD PARTY TO PERFORM AN INDEPENDENT AUDIT OF
+> COMPLIANCE WITH THE REQUIREMENTS OF THIS SECTION.
+
+> THE THIRD PARTY SHALL PRODUCE A REPORT INCLUDING … THE SIGNATURE OF THE LEAD AUDITOR CERTIFYING
+> THE RESULTS OF THE AUDIT.
+
+> THE LARGE DEVELOPER SHALL RETAIN AN UNREDACTED COPY OF THE REPORT FOR AS LONG AS THE FRONTIER
+> MODEL IS DEPLOYED PLUS FIVE YEARS.
+
+*(Capitals are New York's drafting convention for matter being newly inserted, not emphasis.)*
+
+**Now read Illinois, 430 ILCS 185/10(d), enacted:**
+
+> …a large frontier developer shall annually retain a third party to perform an independent audit
+> of compliance with the requirements of this Section.
+
+> **(G)** the signature of the lead auditor certifying the results of the audit.
+
+> **(3)** The large frontier developer shall retain an unredacted copy of the report for as long as
+> a frontier model is deployed plus 5 years.
+
+**These are the same sentences.** Allowing only for *large developer* against *large frontier
+developer*, and *five* against *5*, the audit provision Illinois enacted is the audit provision New
+York wrote and then struck before passage.
+
+**So the finding this census has been reporting for a week needs restating, and it gets sharper.**
+The census records that exactly one enacted American frontier statute requires a human signature,
+and that it belongs to the auditor. That is still true. What was not known is **why**: the
+signature exists in Illinois because New York drafted it, and it is absent in New York because New
+York took it out. **One deletion accounts for the entire national supply of required human
+signatures at the compute frontier being a single state's.**
+
+**And it moves the removal to a different room.** The provision did not fall out in the Governor's
+chapter amendment of 2026, which is where this project's working notes had assumed it went. It was
+gone by the **B amendment** — the version the legislature passed in June 2025. That is an amendment
+to the sponsors' own bill, made during passage. **This file records where the language went and
+does not speculate about why, or about who asked.** Nothing here is a claim about anyone's motive,
+and the row should not be quoted as one.
+
+**Confidence. ⚠ R, and weaker than the other rows.** The B text was fetched and confirmed to
+contain no occurrence of *audit*, *signature*, *certify* or *certification*. The S 6953 and
+S 6953-A quotations come from **two independent automated retrievals of the New York Senate's own
+pages, which returned them in near-identical form** — and the wording's near-identity with the
+enacted Illinois text, which this project holds verbatim, is strong internal corroboration. It is
+still not a document a human on this project has opened.
+
+**What is owed before this is used anywhere public:** open
+<https://www.nysenate.gov/legislation/bills/2025/S6953/amendment/A>, read the audit section, and
+record the subdivision number. Until that happens this section does not enter a filing, a sponsor
+package, an email, or a post. **A finding this good is exactly the kind this project gets wrong**,
+and [E15](../ledger/errata.md) exists because a first-party source quoted accurately by someone
+else is still not a source we read.
 
 ---
 
@@ -494,10 +555,15 @@ nowhere in this repository:**
   at 430 ILCS 185/10(d)(2)(G))*
 - [x] **New York — S 8828, ch. 96 of 2026** *RAISE Act* — done, 21 Aug. *Enacted; a real frontier
   statute, and it requires no signature from anyone.*
-- [ ] **New York — S 6953-B** — **the prior version**, and a different job from the row above. The
-  only question it has to answer: **did it contain an independent audit requirement that the chapter
-  amendment removed?** The enacted row asserts nothing either way. Fetchable from the Senate's own
-  system.
+- [x] **New York — S 6953-B** — done, 21 Aug. *The B text carries no audit, no signature, no
+  certification. The audit was gone before passage, not in the chapter amendment.*
+- [ ] **New York — S 6953-A** — ⚠ **the one that matters, and the one still owed.** Its reported
+  text carries the audit and *"the signature of the lead auditor certifying the results"* —
+  the sentences Illinois enacted. **Two automated retrievals agree; no human has opened it.** Until
+  someone does, [the lineage finding](#the-lineage-finding--illinoiss-one-signature-is-new-yorks-deleted-sentence)
+  is embargoed from every public use. Read
+  <https://www.nysenate.gov/legislation/bills/2025/S6953/amendment/A> and record the subdivision
+  number.
 - [ ] **California — SB 53** *Transparency in Frontier Artificial Intelligence Act*
 
 **Then the rest, by state.** ⚠ *Counts below are the tracker's and are known to be unreliable:
