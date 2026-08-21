@@ -3,6 +3,80 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 
 ## Part III — The diary
 
+**21 August 2026, evening — The repository is taken apart and put back with the seams showing.**
+
+The front page had reached 1,726 lines and was doing five jobs. It is now 600, and the argument
+lives in [`docs/`](../docs/): the case, the statute translated, the questions. The ledger, which had
+reached 1,128 lines, is now a 49-line index over [`ledger/`](./README.md). Twenty page images of
+withdrawn typeset editions left a top-level folder called `pages/` — a name that told a reader
+nothing — for `archive/page-images/`, where the v2 images already were. The contents was rebuilt
+twice: once from a table into a numbered list, and again when the list turned out to render badly,
+into thirty-three single-line entries that cannot break.
+
+Six files were written. **[The same conduct,
+prosecuted](../standards/the_same_conduct.md)** gathers five American computer-crime prosecutions —
+announced exposure from ten years to four hundred and forty, no physical injury in any of them,
+mostly no proven loss — and sets them beside conduct in July 2026 that was broader on every axis a
+sentencing court weighs and charged to nobody. **[Already a crime, if you are a
+person](../standards/already_a_crime_for_you.md)** answers the objection that this Act invents
+liability: all five of its offences are already crimes for ordinary people, most with heavier
+maxima, one with no intent requirement at all, and the heaviest penalty on the list is twenty years
+for destroying a document. **[Why a signature works](../standards/why_a_signature_works.md)**
+collects the SEC. 8 case that had been scattered across four files. **[Who actually
+files](../filings/who_actually_files.md)** counts the room where these rules are settled: fifty-one
+comments, twenty-one from industry, four from the patient side. **[Does the frontier touch
+medicine?](../filings/frontier_ai_in_medicine.md)** answers a challenge put to the project that day
+and answers it uncomfortably. And **[what these words
+mean](../standards/what_these_words_mean.md)** is a glossary, opening on the question the project's
+own title has been asking since it was named.
+
+**The finding that reframed a section.** Two executives presided over conduct that killed people.
+Neither was charged with a death. One received twelve months and one twenty-eight years — and the
+twenty-eight came from fabricated certificates of analysis, not from the nine people who died.
+**The variable that decided the sentence was not the body count. It was whether a document existed
+that the defendant had signed and that was untrue.** SEC. 8 is not a transparency measure. In
+American practice the signed document is frequently the only instrument by which the law reaches an
+executive at all.
+
+**And the challenge that produced the best answer.** *Does frontier AI actually touch medicine, or
+is the evidence base about a different technology from the one the statute covers?* FDA's own
+materials answer it: the agency opened a generative-AI device docket on 18 August, says such devices
+are *"poised to reshape"* the landscape, and states that it **"will explore methods to identify and
+tag"** devices built on foundation models — meaning the regulator holding the authoritative list
+cannot presently say which of them are. Meanwhile one in five American adults takes medical advice
+from a frontier model that is not a device, has no clearance, no labelling and no adverse-event
+reporting. **The regulated channel is where the frontier is arriving. The unregulated one is where
+it arrived.**
+
+**Two corrections came from outside and both made the work better.** The claim that *no American law
+reaches a natural person* was too broad and refutable — Nebraska's "operator" includes one, so a
+sole trader running a chatbot is personally inside that statute. Narrowed everywhere to what is true
+and worse: **no American law places a duty on the officer of a covered frontier developer for the
+decision to release.** The law reaches down, not up. And a scope block now opens nine files, because
+the day's splitting created entry points a reader can arrive at from a search engine with no idea
+the subject is a double-digit number of firms.
+
+**Two errors of our own, logged rather than tidied.** [E17](./errata.md) carries both: a sentence
+inside a passage headed *"the honest disanalogies"* that overstated what the cases showed, and a
+scope note that called an accident deliberate. An overstatement inside a concession is worse than
+one inside an argument, because a reader who checks it stops trusting the concessions — and the
+concessions are what make the file credible.
+
+**Adopted today.** A register rule, as [house language § 4](../standards/house_language.md), after a
+sweep found this project's own comparative file describing itself as *"campaign-page receipts"*
+while setting out s. 37 of the Health and Safety at Work etc. Act 1974. Adjectives of outrage do
+work the evidence should be doing. Twenty-eight years against twelve months needs no adverb.
+
+**And a working discipline, from Gawande.** Verification as a pause point run out loud every time,
+not as a feeling: links resolve, every claim sourced, every source graded, no total above the rows
+actually read, scope stated, no names where the rule forbids them. The day produced two failures of
+exactly the kind a list catches and care does not — a lock file left behind that blocked every git
+command for an hour, and a check that asked whether a file was *mentioned* on the front page rather
+than whether it was in the **contents**, which let a newly written glossary sit unindexed while
+reporting success.
+
+---
+
 **21 August 2026 — The correction is corrected without rewriting the record.** The dossier's
 *Agents of Chaos* entry was checked against both primary versions after a first correction
 treated one version as definitive. [ArXiv v1](https://arxiv.org/pdf/2602.20021) reports the
