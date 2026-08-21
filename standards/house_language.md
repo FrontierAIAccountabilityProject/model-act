@@ -623,7 +623,115 @@ duty sits closest to the user.** Kris's formulation, and the file keeps it:
 
 ---
 
-## 11. Scope, and honesty about what has been done
+## 11. Transparency and accountability — why one of these words wins
+
+**"Transparency" sounds like a cool glass of water.** Costless, obviously good, nobody's enemy.
+**"Accountability" sounds like somebody is about to be in trouble** — which is precisely what it
+means, and precisely why it is harder to pass.
+
+This is not a complaint about spin. **It is the observable difference between two families of
+enacted law**, traced in [the census](./frontier_bill_census.md), and the naming is the part a
+drafter can actually do something about.
+
+### What each word does in a statute
+
+**A transparency duty asks a company to say what it does.** Publish a framework. File a
+transparency report. Report incidents. Do not make materially false statements about what you
+published.
+
+**An accountability duty asks a person to answer for it.** Sign the record. Be named. Owe a duty of
+inquiry. Bear a consequence that cannot be indemnified away.
+
+**The honest account of the difference is narrower than the slogan**, and this file will not
+overstate it. California's Transparency in Frontier Artificial Intelligence Act does more than
+require disclosure: § 22757.12(a) requires a large frontier developer to *"write, implement, comply
+with, and clearly and conspicuously publish"* its framework, and § 22757.15 makes **failing to
+comply with your own framework** a penalty-bearing violation. That is a real obligation and it is
+enforceable.
+
+**But notice who writes the standard.** The framework is the developer's own document. A regime that
+makes a company keep its own promises is a considerable advance on one that does not — **and it
+leaves the company setting the height of the bar it is then held to.** Which is the same
+observation [why a signature works](./why_a_signature_works.md) makes about the published safety
+frameworks: they are the industry's own written statement of what it knows, and therefore the
+standard of care it can fairly be measured against. Useful. Self-authored.
+
+### The names, set beside what the texts did
+
+| Act | What it did about a named person |
+|---|---|
+| **Transparency** in Frontier Artificial Intelligence Act (CA, enacted) | Names officers and directors — as quarterly recipients of a report. No duty attaches |
+| **Responsible** AI **Safety** and **Education** Act (NY, enacted) | No audit, no signature, no certification, no duty on any natural person |
+| AI **Safety Measures** Act (IL, enacted) | The only enacted statute requiring a human signature — and it is the outside auditor's |
+| **Safe and Secure Innovation** for Frontier AI Models Act (CA, vetoed) | Drafted the audit, the lead-auditor signature, the empowered senior personnel |
+| **Protecting** Louisiana's Infrastructure from AI **Risk** Act (LA, died) | Drafted the audit, no signature |
+
+**Every one of these names is warm.** *Responsible. Safe. Secure. Protecting. Transparency.
+Education.* Not one of them contains the word *liability*, *duty*, *officer*, or *offence*. **The
+vocabulary of the field is uniformly reassuring**, across states, across parties, and across bills
+that passed and bills that died.
+
+**Which means the names do not sort the outcomes**, and this file will not pretend they do. What
+they do show is that **the reassuring register is the entry price**, not the differentiator. Nobody
+gets to introduce the other kind of bill under the other kind of name.
+
+### RAISE, read as a title
+
+**An Act with *Responsible* in its name and no responsible person in its text.** *Education* appears
+in the title and discharges no duty in the enacted statute. The acronym is a verb of aspiration —
+*raise* — attached to a statute whose operative provisions ask a company to publish and to refrain
+from lying about what it published.
+
+**This is an observation about drafting convention, not about the sponsors**, who wrote the audit,
+the lead-auditor signature and the veil-piercing provision into their own bill and had them struck
+six days before passage. **The title survived the provisions.** That is the finding, and it is a
+finding about legislatures rather than about anyone in one.
+
+### What follows for anyone drafting the other kind of bill
+
+**Three things, offered as craft rather than cynicism.**
+
+**One — the word to avoid is the abstract noun, not the duty.** *Accountability* invites the
+question *of whom, and how much*. **A signature does not.** Ask for the artefact, not the abstraction:
+*a named person signs the compliance record*. Everyone can picture that, and nobody has to concede a
+principle to agree to it.
+
+**Two — do not concede that these are alternatives.** A transparency statute and a certification
+requirement are complements: the first produces the document, the second puts a name on it.
+**Illinois already has both** — it audits and it takes a signature — and the ask this project makes
+of Illinois is one line, not a regime.
+
+**Three — the reassuring name is available.** *Officer Certification* is not a threatening phrase.
+Neither is *finishing the sentence you started*. **If the vocabulary of the field is uniformly warm,
+that is a constraint on how you ask, not on what you ask for.**
+
+### And the rule this project has to apply to itself
+
+**This project is called the Frontier AI Accountability Project**, which is the cold word, chosen
+deliberately. That name should not change: it says what the project is for, it is what the errata
+register is a credential *for*, and a body that argues for named responsibility should not be coy
+about its own.
+
+**But the project's name is not the thing most people meet.** What they meet is a bill title, a
+repository, a subject line. **Those should be named in the field's register, and the register is
+warm.**
+
+**The principle, stated so it does not become camouflage:** *warm in the title, exact in the text.*
+That is precisely what Illinois did — an **AI Safety Measures Act** with a real independent audit
+and a required human signature inside it. The name got it read. The operative text did the work.
+
+**The failure mode to avoid is the opposite one**, and this file has just spent a section
+documenting it: a title carrying *Responsible* over a text that names nobody responsible. **A warm
+name over a weak provision is the thing we are objecting to. A warm name over a strong provision is
+just competent drafting.**
+
+**So the test for any public-facing name here is one question:** *does the operative text underneath
+it survive being read?* If it does, take the friendlier name. If it does not, no name will save it,
+and the register will say so either way.
+
+---
+
+## 12. Scope, and honesty about what has been done
 
 This rule is **adopted, not yet applied.** The tree has not been swept. A scan on 21 August 2026
 found the concentrations to be: *behaviour* (33 uses), *autonomous* and *autonomously* (59 lines,
