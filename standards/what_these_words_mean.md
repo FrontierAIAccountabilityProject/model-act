@@ -178,9 +178,40 @@ prose sold as the machine's own work. ⚠ *How much was generated and how much w
 authors is disputed, and the dispute is the point: the question "who actually wrote this?" is not
 new either.*
 
-⚠ *Further entries queued: Margaret Masterman's computational linguistics and computer-generated
-poetry at the Cambridge Language Research Unit, and Alison Knowles's* House of Dust *(1967). Both
-to be pinned before publication.*
+**Margaret Masterman, 1955.** She founded the **Cambridge Language Research Unit**, which ran for
+roughly twenty years on a staff never exceeding ten and did foundational work on machine
+translation and computational linguistics. She had studied under Wittgenstein, and it shows in the
+position she took: **that meaning could not be reached through syntax alone**, and that a thesaurus
+— a map of how words relate — had to carry the semantic work.
+
+Two of her observations have aged unusually well. That language processing must reckon with *"the
+coherence of language, its redundancy as a signal"*, because writers *"go on saying the same thing
+again and again in different ways"* — which is, in substance, the statistical regularity that makes
+next-token prediction possible at all. And a **Wittgensteinian scepticism about whether any limited
+sublanguage can capture the meaning of a whole language** — a caution from the 1960s about the
+thing the 2020s is still arguing over.
+
+⚠ *A claim that she produced computer-generated haiku circulates in secondary writing and could not
+be verified from a reliable source; it is not asserted here.*
+
+**Alison Knowles and James Tenney, 1967.** *A House of Dust* was generated on a **Siemens 4004**,
+producing an edition of computer-written poems from iterations of a line structure with words drawn
+from a fixed vocabulary. ⚠ *Sources disagree on the size of the edition — one and the same page gives
+both 50 and 500 — and the programming language is not confirmed from a source this project has
+opened. The stanza structure is described in secondary writing and is not reproduced here until a
+primary source is read.*
+
+**What is not in doubt is the byline.** The poem was made by a machine and credited to **two named
+people.** Nobody in 1967 wrote that the Siemens 4004 had composed a poem, and nobody would have
+understood the sentence if they had.
+
+**That convention held for decades and then quietly stopped holding.** The authorship question is
+not new; what is new is that the answer got harder to say out loud — which is the subject of
+[house language](./house_language.md) and the reason this glossary exists.
+
+*Sources: [Margaret Masterman](https://en.wikipedia.org/wiki/Margaret_Masterman);
+[A House of Dust](https://eastofborneo.org/archives/a-house-of-dust-alison-knowles-and-james-tenney-1967/).
+⚠ **R** — secondary sources, opened but not corroborated against primary material.*
 
 ---
 
