@@ -21,7 +21,7 @@ here asserts what the repository has not.
 
 **6.** (240) Of the 51 comments, we have read 22 in substance. In those 22, every safety mechanism proposed is a document or a downstream professional. None names an accountable person upstream. That absence is not a gap in the file; it is the finding.
 
-**7.** (260) All 51 are public, free, checkable: regulations.gov docket FDA-2024-D-4488. Our reading notes and the comment we will file on the successor docket (FDA-2026-N-7874, open to Oct 19) live in the repo: github.com/llmaolaw/model-act — filings/, published as filed.
+**7.** (260) All 51 are public, free, checkable: regulations.gov docket FDA-2024-D-4488. Our reading notes and the comment we will file on the successor docket (FDA-2026-N-7874, open to Oct 19) live in the repo: github.com/FrontierAIAccountabilityProject/model-act — filings/, published as filed.
 
 **Sourcing:** every claim is indexed in
 [the reading notes](./docket_fda_2024_d_4488_reading_notes.md), with comment IDs.
@@ -93,7 +93,7 @@ professorship — are widely reported but not pinned in-repo; pin or drop before
 
 **6.** (247) xAI asked a federal court to block California's AI training-data disclosure law on trade-secret and free-speech grounds. It lost, and appealed. That law compels publication. Requiring facts stated privately to a regulator is a much narrower thing.
 
-**7.** (196) All of it checkable: FDA docket FDA-2024-D-4488, H.R. 9925 as introduced, the state statutes by section. Reading notes, receipts, and a public-domain statutory draft: github.com/llmaolaw/model-act
+**7.** (196) All of it checkable: FDA docket FDA-2024-D-4488, H.R. 9925 as introduced, the state statutes by section. Reading notes, receipts, and a public-domain statutory draft: github.com/FrontierAIAccountabilityProject/model-act
 
 **Sourcing and the two gates before firing.**
 
@@ -180,7 +180,7 @@ own terms.*
 
 **3.** (250) Google's AI now explains the Model Act unprompted and signs off by offering to "explore the specific criminal penalties proposed in the draft." The machines keep auditioning for the criminal-law seat. It is still open, and it is reserved for a human.
 
-**4.** (184) Terms on the front page, under "For the review council": five seats, one sitting cover to cover, the disposition published as written — including hostile. github.com/llmaolaw/model-act
+**4.** (184) Terms on the front page, under "For the review council": five seats, one sitting cover to cover, the disposition published as written — including hostile. github.com/FrontierAIAccountabilityProject/model-act
 
 **Discipline.** P1 says "per Stripe's investor letter" and "per the replies" — both
 attributions stay in, because the post's own sourcing is the joke's spine. P2 does not name

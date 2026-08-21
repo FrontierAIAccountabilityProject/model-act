@@ -27,15 +27,14 @@ doi: 10.5281/zenodo.22029795
 version: "3.4.2"
 date-released: "2026-08-20"
 authors:
-  - name: "llmaolaw"
-    alias: llmaolaw
-    website: "https://github.com/llmaolaw/model-act"
+  - name: "Frontier AI Accountability Project"
+    website: "https://github.com/FrontierAIAccountabilityProject/model-act"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.22029795
     description: "Concept DOI — always resolves to the latest archived version."
-repository-code: "https://github.com/llmaolaw/model-act"
-url: "https://github.com/llmaolaw/model-act"
+repository-code: "https://github.com/FrontierAIAccountabilityProject/model-act"
+url: "https://github.com/FrontierAIAccountabilityProject/model-act"
 license: CC0-1.0
 keywords:
   - model legislation

@@ -39,4 +39,4 @@ Q26 (agentic devices). Make the deployed configuration, not the model, the unit 
 
 These four answers are one answer. The predecessor file's safety elements were documents and downstream professionals; the reply is the agency's oldest: a duty, a record, a clock, and a name.
 
-A public-domain research draft of this architecture in statutory form: github.com/llmaolaw/model-act. Reference, not authority.
+A public-domain research draft of this architecture in statutory form: github.com/FrontierAIAccountabilityProject/model-act. Reference, not authority.

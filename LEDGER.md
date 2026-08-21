@@ -240,7 +240,7 @@ both cured; the omission was in the register, not the statute.
 **E8 — 19 August 2026 (internal catch, same day).** The consolidated front page claimed
 that the original Sacramento scorecard table was "preserved verbatim in the diary"; it is
 not — the diary never carried the table. The claim is corrected to point to the
-repository's pinned history ([docs/06-track-record.md at commit 6f48eff](https://github.com/llmaolaw/model-act/blob/6f48eff/docs/06-track-record.md)),
+repository's pinned history ([docs/06-track-record.md at commit 6f48eff](https://github.com/FrontierAIAccountabilityProject/model-act/blob/6f48eff/docs/06-track-record.md)),
 where the original card is preserved unchanged. Two smaller corrections landed in the same
 patch: the DeCoster chronology is reconciled (sentenced 2015; affirmed on appeal 2016), and
 an opening sentence overstating the general law is tightened to the statutory-gap claim the
@@ -440,6 +440,15 @@ looks like.
 
 <a id="part-iii"></a>
 ## Part III — The diary
+
+**21 August 2026 — The final namespace lands before the sweep.** The public project name is
+**Frontier AI Accountability Project** and the GitHub namespace is
+`FrontierAIAccountabilityProject`. Repository URLs, citation metadata, banked publication copy,
+and the unfiled FDA comment are conformed in one pass. The former `llmaolaw` and intermediate
+`FrontierAccountabilityProject` routes are retained only as redirect paths and historical commit
+text. The v3.4 reviewer's-copy PDF and its deterministic build script retain the author metadata
+under which that edition was archived; the institutional author begins with the next generated
+edition. The statutory text is unchanged.
 
 **20 August 2026, seventh pass — The roster read, and a finding about absence caught being absent-minded.** The complete 51-filer list on FDA-2024-D-4488 was read from the docket's three result pages, retiring the *title only* tier and the sixteen filers the reading notes had never enumerated. It cost one page-through and it falsified four published claims, logged together as [E11](#part-i).
 
@@ -672,8 +681,8 @@ holds the mistakes; this page holds the project's own story. (the world's
 story, plain words, is [context: summer 2026](./docs/07-context-timeline.md); the
 evidence-grade record of those dates is [the dossier timeline](./dossier/02_incident_timeline.md).)
 subscribe to the raw feed:
-[commits](https://github.com/llmaolaw/model-act/commits/main) ·
-[atom](https://github.com/llmaolaw/model-act/commits/main.atom).*
+[commits](https://github.com/FrontierAIAccountabilityProject/model-act/commits/main) ·
+[atom](https://github.com/FrontierAIAccountabilityProject/model-act/commits/main.atom).*
 
 ---
 
@@ -818,4 +827,3 @@ github fell over (github's fault, for once — see the account, 17 aug).
 **16 aug 2026 · v3.3 live.** the act split from its apparatus so the text travels
 clean. egg concordance complete. one person, a python script, and a grudge — a census
 since amended.
-
