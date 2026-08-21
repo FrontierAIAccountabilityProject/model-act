@@ -2,13 +2,20 @@
 
 > ## Can a model act?
 >
-> **No. A person does.**
+> **Not in the legal sense.**
 >
-> *This project is called a Model Act. The joke is not decoration — it is the entire argument. A
-> model is a fitted object: a large set of numbers that turns an input into an output. It does not
-> act, decide, choose, want, or answer for anything. **Somebody trains it. Somebody releases it.
-> Somebody decides it is ready.** Those are acts, and acts have actors. The statute is named after
-> the difference.*
+> *In other senses, perhaps. These systems call tools, take steps and pursue objectives, and people
+> who build them use the word* act *for that without confusion. **This file does not dispute it and
+> the argument does not need it.***
+>
+> *To act **in law** is something narrower and more demanding: to be a person who can hold
+> authority, owe a duty, be served with process, appear, answer, and be punished. **A model is not a
+> legal person, and calling it agentic does not make it one.** It has no mind the law can inquire
+> into and nothing the law can do to it.*
+>
+> ***So the acts that matter here belong to people whichever way the other question is settled.***
+> *Somebody trains it. Somebody releases it. Somebody decides it is ready. Those are acts in the
+> legal sense, and acts in that sense have actors. The statute is named after the difference.*
 
 ---
 
@@ -179,13 +186,15 @@ to be pinned before publication.*
 
 ## And back to the pun, because it is the whole thing
 
-A **model** is a fitted object. An **act** is something done by someone.
+A **model** is a fitted object. An **act**, in the sense a statute uses the word, is something done
+by a person who can be held to it.
 
 Every enacted frontier statute in America regulates the first and never reaches the second. This
 one is named for the gap between them.
 
-**A model cannot act. A person does. The question this project asks a legislature is only: which
-one?**
+**Whether a model acts in some other sense is a real question, and this project takes no position
+on it.** It does not have to. **In the only sense a criminal statute can operate in, the acts belong
+to people — and the question this project puts to a legislature is only: which ones?**
 
 ---
 

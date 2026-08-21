@@ -60,6 +60,10 @@ entity liability or the base offense into the enhanced tier.
 
 **Start here** — [the case](./docs/the_case.md) · [the statute, translated](./docs/the_statute_translated.md) · [questions](./docs/questions.md)
 
+**New to the vocabulary?** [**What these words mean**](./standards/what_these_words_mean.md) — a
+glossary for people who have to legislate about this. Fifteen minutes, and it is the shortest route
+to reading everything else here critically.
+
 **On this page** — [Overview](#overview) · [Status](#status) · [Structure](#repository-structure) · [Contents](#contents) · [For sponsors](#for-sponsors-and-staff) · [For reviewers](#for-the-review-council) · [Recent](#recent) · [Provenance](#provenance-and-method)
 
 
@@ -67,12 +71,20 @@ entity liability or the base offense into the enhanced tier.
 
 ### Can a model act?
 
-**No. A person does.**
+**Not in the legal sense. In other senses, perhaps — but not in that one, and that one is what a
+statute runs on.**
 
-*This project is called a Model Act, and the joke is the argument. A **model** is a fitted object —
-a large set of numbers that turns an input into an output. It does not act, decide, want, or answer
-for anything. Somebody trains it. Somebody releases it. Somebody decides it is ready. **Those are
-acts, and acts have actors.***
+*This project is called a Model Act, and the joke is the argument.*
+
+*In engineering, these systems plainly do things: they call tools, take steps, pursue objectives.
+**This project does not dispute that and does not need to.** The question a statute asks is
+narrower. **To act in law is to be a person who can hold authority, owe a duty, be served, appear,
+answer, and be punished.** A model is not a legal person and cannot be made one by describing it
+as agentic. It has no mind the law can inquire into and nothing the law can do to it.*
+
+***So the acts that matter here belong to people either way.** Somebody trains it. Somebody
+releases it. Somebody decides it is ready. Those are acts in the legal sense, and acts in that
+sense have actors.*
 
 **Four facts a reader should have before anything else here:**
 
@@ -84,6 +96,12 @@ acts, and acts have actors.***
 - **Every offence this Act creates is already a crime for ordinary people**, most with heavier
   maximum penalties, one with no intent requirement at all.
 - **Enacted frontier law requires exactly one human signature, and it belongs to the auditor.**
+
+**If you read one supporting file first, read that glossary.** It sets out what a model, an
+algorithm, an agent and a frontier model literally are; what they can actually do; and how each is
+sold — beside *mens rea*, and why a model cannot have one. **A reader who has it can check
+everything else here.** A reader who does not is taking this project's word for the nouns, which is
+the one thing it never asks anybody to do.
 
 *The words above are set out in [what these words mean](./standards/what_these_words_mean.md); the
 authorities are set out in [why a signature works](./standards/why_a_signature_works.md).*
@@ -217,20 +235,22 @@ is the checking, and it is designed to be capable of failing.*
 
 **25 · [Table of authorities](./standards/table_of_authorities.md)** — Every authority cited, with the proposition it is cited for.
 
-**26 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
+**26 · [What these words mean](./standards/what_these_words_mean.md)** — A glossary for people who have to legislate about this. What a model, an algorithm, an agent and a frontier model literally are; what each can actually do; how each is sold. Plus mens rea, and why a model cannot have one.
 
-**27 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
+**27 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
+
+**28 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
 
 
 ### VI · The record of accountability
 
-**28 · [The ledger](./ledger/README.md)** — Errata, changelog, diary, append-only. The register of this project's own mistakes is the only credential it can offer, and it is offered as one.
+**29 · [The ledger](./ledger/README.md)** — Append-only, in three parts: **[the errata register](./ledger/errata.md)** — every published claim this project got wrong, with the fix; **[the changelog](./ledger/changelog.md)** — what changed in the statute and when, with hashes; **[the diary](./ledger/diary.md)** — the working account, day by day. For a project with no institution behind it, the register of its own mistakes is the only credential available, and it is offered as one.
 
-**29 · [The standing watch](./audit/standing_watch_2026-08-20.md)** — The periodic re-sweep of live bills, litigation and federal vehicles — with what each sweep found and, at § 7(5), what it missed.
+**30 · [The standing watch](./audit/standing_watch_2026-08-20.md)** — The periodic re-sweep of live bills, litigation and federal vehicles — with what each sweep found and, at § 7(5), what it missed.
 
-**30 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
+**31 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
 
-**31 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
+**32 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
 
 ## For sponsors and staff
 

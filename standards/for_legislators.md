@@ -11,6 +11,11 @@ someone else's checking.*
 [house language § 8](./house_language.md) sets these findings beside the other frontier
 industries that reached the same question earlier.*
 
+**If the vocabulary is unfamiliar, start with [what these words
+mean](./what_these_words_mean.md)** — fifteen minutes, and it covers the distinction every drafter
+needs: *frontier model*, *foundation model*, *generative AI* and *narrow task-specific model* are
+not the same thing, and which one a bill names decides what it covers.
+
 **What this file is not.** Not legal advice, not a lobbying document, not a request. The
 project has no client, no funding, and no organisation behind it. Nothing here asks you to
 adopt anything.
