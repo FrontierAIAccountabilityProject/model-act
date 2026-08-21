@@ -4,4 +4,4 @@ This file was merged into **[the dossier, chapter 00](./README.md#chapter-00)** 
 repository's consolidation into a small number of complete documents. Its content is
 preserved there verbatim. This path remains so that existing links continue to land. 
 
-The actual folder README is titled [README.md](./README.md) (this one is 00README.md). Scroll down or find the other file in this 'dossier' folder.
+The actual README file for this dossier folder is here: [README.md](./README.md).
