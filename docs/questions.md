@@ -6,6 +6,26 @@ Split from the front page on 21 August 2026. The argument behind these answers i
 
 # Questions this project is asked
 
+---
+
+## Who this is about
+
+**About:** the **officers of frontier developers** — the companies training models above 10²⁶
+operations, or spending nine figures on a single training run. On the enacted family's own
+thresholds that is a **double-digit number of firms worldwide**, and inside them a smaller number of
+people who decide what ships.
+
+**Not about:** open-source contributors, startups, academic researchers, deployers, hospitals,
+schools, employers, small operators, or **users**.
+
+**And the claim, stated precisely.** Not that no American law reaches a natural person over AI — it
+does, readily; Nebraska's "operator" includes one, so a sole trader running a chatbot is personally
+inside that statute. **What no American law does is place a duty on the officer of a covered
+frontier developer for the decision to release.** The law reaches down, not up.
+
+---
+
+
 Grouped by who tends to ask them, and laddered — beginning where most people actually
 begin ("does this affect me?") and climbing to doctrinal design. This is the harder of
 the project's two question pages: the objections that professionals, and lately the

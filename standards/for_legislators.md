@@ -17,6 +17,22 @@ adopt anything.
 
 ---
 
+## Who this is about
+
+**About:** the **officers of frontier developers** — the companies training models above 10²⁶
+operations, or spending nine figures on a single training run. On the enacted family's own
+thresholds that is a **double-digit number of firms worldwide**, and inside them a smaller number of
+people who decide what ships.
+
+**Not about:** open-source contributors, startups, academic researchers, deployers, hospitals,
+schools, employers, small operators, or **users**.
+
+**And the claim, stated precisely.** Not that no American law reaches a natural person over AI — it
+does, readily; Nebraska's "operator" includes one, so a sole trader running a chatbot is personally
+inside that statute. **What no American law does is place a duty on the officer of a covered
+frontier developer for the decision to release.** The law reaches down, not up.
+
+---
 ## Why this file exists at all
 
 You can get everything below yourself. Your counsel can find your state's officer-liability
