@@ -93,4 +93,4 @@ choices once repeats are collapsed. Two are not free choices: the pin date (abov
 death-results minimum (open for a criminal-law scholar, not for local preference).
 
 *Compiled 20 August 2026 against the v3.4 tag. Where a line number and the text disagree, the
-text controls; a wrong line here is an erratum like any other — llmaolaw@proton.me.*
+text controls; a wrong line here is an erratum like any other — FrontierAIAccountabilityProject@proton.me.*

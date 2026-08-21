@@ -203,7 +203,7 @@ the entire point is that it will be.**
 
 This folder names public figures in their official capacities only, on public
 conduct. It carries no private information and no personal identifier of its authors.
-Project contact: `llmaolaw@proton.me` — links or pasted text only, any alias or none.
+Project contact: `FrontierAIAccountabilityProject@proton.me` — links or pasted text only, any alias or none.
 
 )(
 
@@ -250,7 +250,7 @@ figures moved twice while this file sat.
 
 **Anonymity.** This file names public figures in their official capacities only,
 on public conduct. It carries no private information and no personal identifier of
-its authors. Contact for the project is `llmaolaw@proton.me` — links or pasted
+its authors. Contact for the project is `FrontierAIAccountabilityProject@proton.me` — links or pasted
 text only.
 
 ---
@@ -2068,7 +2068,7 @@ and prosecutorial experience have signed their names to that sentence. Recruitin
 the current work: named criminal counsel, plus a five-seat review council — a criminal-law
 specialist, a former prosecutor or regulator, a frontier-security engineer who has worked
 inside a lab, an open-source/academia reviewer, and someone who has administered a real
-budget. If that is you: llmaolaw@proton.me. And a posture change, stated plainly: catches
+budget. If that is you: FrontierAIAccountabilityProject@proton.me. And a posture change, stated plainly: catches
 remain welcome forever — a wrong citation, a broken cross-reference, that is the errata
 ledger and it never closes — but the project no longer needs more general online review.
 It needs names. The companion still lists, out loud, the questions the text can't yet
@@ -2142,7 +2142,7 @@ evidentiary flag.
 Source discipline: **✅** verified against a primary or reputable source this session
 or from primary text supplied to the compiler · **⚠** secondary / AI-summary origin,
 **pin before committee-facing use**. Anonymity: public figures in official capacities
-only; project contact `llmaolaw@proton.me`.
+only; project contact `FrontierAIAccountabilityProject@proton.me`.
 
 *This is a "gather" file — assembled fast from material handed to the compiler. Many
 entries below are ⚠ AI-overview-sourced leads; the flags mark exactly what still needs

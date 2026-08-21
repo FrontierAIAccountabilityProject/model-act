@@ -149,6 +149,6 @@ Named so that the seat's work is review rather than design.
 
 ---
 
-*Corrections to llmaolaw@proton.me; they enter [the errata register](../LEDGER.md#part-i)
+*Corrections to FrontierAIAccountabilityProject@proton.me; they enter [the errata register](../LEDGER.md#part-i)
 like everything else. Nothing in this document is legal or fiscal advice, and it has not
 been reviewed by any budget office.*

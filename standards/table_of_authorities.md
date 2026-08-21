@@ -189,5 +189,5 @@ s 272A penalty-unit maxima from primary. Everything else above has been read aga
 primary or first-party source at some point in the record; this table does not re-verify,
 it locates.
 
-*Compiled 20 August 2026 against the v3.4 tag. Corrections to llmaolaw@proton.me; they enter
+*Compiled 20 August 2026 against the v3.4 tag. Corrections to FrontierAIAccountabilityProject@proton.me; they enter
 the errata register like everything else.*

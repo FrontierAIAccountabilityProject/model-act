@@ -450,6 +450,12 @@ text. The v3.4 reviewer's-copy PDF and its deterministic build script retain the
 under which that edition was archived; the institutional author begins with the next generated
 edition. The statutory text is unchanged.
 
+**21 August 2026 — The public contact address follows the institutional name.**
+`FrontierAIAccountabilityProject@proton.me` becomes the project's public contact.
+`llmaolaw@proton.me` remains active as a legacy inbound route and for continuity of existing
+correspondence, but is retired from active repository contact lines. Previously sent messages,
+archived releases, and historical commit text are not rewritten. The statutory text is unchanged.
+
 **20 August 2026, seventh pass — The roster read, and a finding about absence caught being absent-minded.** The complete 51-filer list on FDA-2024-D-4488 was read from the docket's three result pages, retiring the *title only* tier and the sixteen filers the reading notes had never enumerated. It cost one page-through and it falsified four published claims, logged together as [E11](#part-i).
 
 The one worth the entry is (a). This file said the National MS Society was "the file's only patient organisation" while a third of the file was unread — and the two filers that falsify it, the National Health Council and Pathway for Patient Health, are identifiable from their names without opening either. A claim about who is missing from a file was published by a reader who had not finished the file. The corrected composition is stated in numbers rather than adjectives: 21 industry filings of 51, 10 clinician and professional bodies, 13 named private citizens, 4 from the patient side, 3 anonymous.

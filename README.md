@@ -228,7 +228,7 @@ budget office.
 and the lane's cure entries. Full pass: the lane's companion notes and record chunks, then
 the disposition. Anything beyond that is generosity, not scope.
 
-**Filing a disposition.** Email llmaolaw@proton.me — links or pasted text, no attachments
+**Filing a disposition.** Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments
 — in any form: a memo, a marked-up copy, a numbered list of findings. Or, if you have been contacted by the maintainer via a different account, please reply through the channel you were contacted on. It is published as
 written, credited or anonymous at the reviewer's choice; council seats publish with names,
 which is the point of them. A finding that something is broken is the seat working, not
@@ -1588,7 +1588,7 @@ companion's first note says the same, first.
 <a id="contact-and-contributions"></a>
 ## Contact and contributions
 
-**llmaolaw@proton.me** — links or pasted text only, no attachments. Two doors, honestly
+**FrontierAIAccountabilityProject@proton.me** — links or pasted text only, no attachments. Two doors, honestly
 labelled.
 
 **Catches — anonymity welcome, anonymity traditional.** A wrong citation, a broken
