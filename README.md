@@ -1,3 +1,6 @@
+> **Sponsor-facing edition:** [Frontier Artificial Intelligence Responsible Officer Act](https://github.com/FrontierAccountabilityProject/frontier-ai-responsible-officer-act)  
+> This repository remains the complete historical drafting record, evidence file, and revision history.
+
 # Model Act — Frontier AI Public Welfare Offenses
 
 > **Repository type:** model legislation and legal research.  
