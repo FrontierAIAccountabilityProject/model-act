@@ -435,76 +435,119 @@ summary. Not yet read by a human eye.
 
 ---
 
-### The lineage finding — Illinois's one signature is New York's deleted sentence
+### The lineage finding — Illinois's signature is New York's deleted subdivision
 
-*Opened 21 August 2026, answering the question the row above refused to answer. **Graded ⚠ R and
-embargoed from public use until a human opens S 6953-A directly** — see the grading note at the
-end, which matters more than usual here.*
+*Opened 21 August 2026. **Embargo lifted the same night: S 6953-A was read in full, directly from
+nysenate.gov, by the project maintainer.** The text is pinned verbatim at
+`research/raise_act_s6953a_2025_prior_version.txt` in the
+[New York repository](https://github.com/FrontierAIAccountabilityProject/raise-officer-certification).
+**Graded ✅.***
 
 The queued question was whether an earlier version of the RAISE Act contained an audit requirement
-that was later removed. **It did, and the answer arrived with a second finding attached.**
+that was later removed. **It did. It is § 1421(4), and what came out with it was very much larger
+than an audit.**
 
-New York's bill went through three versions. On the reported text of **S 6953** and **S 6953-A**,
-before the B amendment that became law:
+#### The provisions, with their subdivisions
 
-> A LARGE DEVELOPER SHALL ANNUALLY RETAIN A THIRD PARTY TO PERFORM AN INDEPENDENT AUDIT OF
-> COMPLIANCE WITH THE REQUIREMENTS OF THIS SECTION.
+**New York S 6953-A § 1421(4)(A):**
 
-> THE THIRD PARTY SHALL PRODUCE A REPORT INCLUDING … THE SIGNATURE OF THE LEAD AUDITOR CERTIFYING
-> THE RESULTS OF THE AUDIT.
+> BEGINNING ON THE EFFECTIVE DATE OF THIS ARTICLE, OR **NINETY DAYS AFTER A DEVELOPER FIRST
+> QUALIFIES AS A LARGE DEVELOPER, WHICHEVER IS LATER**, A LARGE DEVELOPER SHALL ANNUALLY RETAIN A
+> THIRD PARTY TO PERFORM AN INDEPENDENT AUDIT OF COMPLIANCE WITH THE REQUIREMENTS OF THIS SECTION.
+> SUCH THIRD PARTY SHALL CONDUCT AUDITS CONSISTENT WITH BEST PRACTICES.
 
-> THE LARGE DEVELOPER SHALL RETAIN AN UNREDACTED COPY OF THE REPORT FOR AS LONG AS THE FRONTIER
-> MODEL IS DEPLOYED PLUS FIVE YEARS.
+**§ 1421(4)(C)(III):**
 
-*(Capitals are New York's drafting convention for matter being newly inserted, not emphasis.)*
+> A DETAILED ASSESSMENT OF THE LARGE DEVELOPER'S INTERNAL CONTROLS, INCLUDING ITS **DESIGNATION AND
+> EMPOWERMENT OF SENIOR PERSONNEL** RESPONSIBLE FOR **ENSURING COMPLIANCE** BY THE LARGE DEVELOPER,
+> ITS EMPLOYEES, AND ITS CONTRACTORS
 
-**Now read Illinois, 430 ILCS 185/10(d), enacted:**
+**§ 1421(4)(C)(IV):**
 
-> …a large frontier developer shall annually retain a third party to perform an independent audit
-> of compliance with the requirements of this Section.
+> THE SIGNATURE OF THE LEAD AUDITOR CERTIFYING THE RESULTS OF THE AUDIT.
 
-> **(G)** the signature of the lead auditor certifying the results of the audit.
+**§ 1421(4)(D):**
 
-> **(3)** The large frontier developer shall retain an unredacted copy of the report for as long as
-> a frontier model is deployed plus 5 years.
+> THE LARGE DEVELOPER SHALL RETAIN AN UNREDACTED COPY OF THE REPORT FOR AS LONG AS A FRONTIER MODEL
+> IS DEPLOYED PLUS FIVE YEARS.
 
-**These are the same sentences.** Allowing only for *large developer* against *large frontier
-developer*, and *five* against *5*, the audit provision Illinois enacted is the audit provision New
-York wrote and then struck before passage.
+#### The same provisions, as Illinois enacted them
 
-**So the finding this census has been reporting for a week needs restating, and it gets sharper.**
-The census records that exactly one enacted American frontier statute requires a human signature,
-and that it belongs to the auditor. That is still true. What was not known is **why**: the
-signature exists in Illinois because New York drafted it, and it is absent in New York because New
-York took it out. **One deletion accounts for the entire national supply of required human
-signatures at the compute frontier being a single state's.**
+| New York S 6953-A, struck June 2025 | Illinois 430 ILCS 185/10(d), in force |
+|---|---|
+| § 1421(4)(A) — annual independent third-party audit, *"ninety days after a developer first qualifies… whichever is later"* | **(d)** — *"Beginning on January 1, 2028 or 90 days after a developer first qualifies as a large frontier developer, whichever is later"* |
+| § 1421(4)(C)(III) — designation and empowerment of senior personnel | **(d)(2)(C)** — designation and empowerment of senior personnel |
+| § 1421(4)(C)(IV) — signature of the lead auditor | **(d)(2)(G)** — signature of the lead auditor |
+| § 1421(4)(D) — unredacted copy, deployed plus five years | **(d)(3)** — unredacted copy, deployed plus 5 years |
 
-**And it moves the removal to a different room.** The provision did not fall out in the Governor's
-chapter amendment of 2026, which is where this project's working notes had assumed it went. It was
-gone by the **B amendment** — the version the legislature passed in June 2025. That is an amendment
-to the sponsors' own bill, made during passage. **This file records where the language went and
-does not speculate about why, or about who asked.** Nothing here is a claim about anyone's motive,
-and the row should not be quoted as one.
+**Illinois 430 ILCS 185/10(d)(2)(C) and (G) — the two provisions this project's Illinois proposal
+is built on — are New York S 6953-A § 1421(4)(C)(III) and (IV).**
 
-**Confidence. ⚠ R, and weaker than the other rows.** The B text was fetched and confirmed to
-contain no occurrence of *audit*, *signature*, *certify* or *certification*. The S 6953 and
-S 6953-A quotations come from **two independent automated retrievals of the New York Senate's own
-pages, which returned them in near-identical form** — and the wording's near-identity with the
-enacted Illinois text, which this project holds verbatim, is strong internal corroboration. It is
-still not a document a human on this project has opened.
+#### Two details that settle how the text travelled
 
-**What is owed before this is used anywhere public:** open
-<https://www.nysenate.gov/legislation/bills/2025/S6953/amendment/A>, read the audit section, and
-record the subdivision number. Until that happens this section does not enter a filing, a sponsor
-package, an email, or a post. **A finding this good is exactly the kind this project gets wrong**,
-and [E15](../ledger/errata.md) exists because a first-party source quoted accurately by someone
-else is still not a source we read.
+**One — the ninety-day clause is New York's, and Illinois carries it verbatim.** California's
+SB 1047 has no such clause; it opens flatly with *"Beginning January 1, 2028."* New York's opens
+*"beginning on the effective date of this article, or ninety days after a developer first qualifies
+as a large developer, whichever is later."* **Illinois has both**: SB 1047's hard date and New
+York's ninety-day alternative, in one sentence. *(This corrects an earlier version of this file,
+which attributed the commencement construction to SB 1047 alone.)*
+
+**Two — Illinois changed four words, and the change left an orphan.** New York required assessment
+of senior personnel responsible for **"ensuring compliance by"** the developer. Illinois has senior
+personnel responsible for **"such implementation by"** the developer. **In New York the phrase has a
+clear referent. In Illinois, *such implementation* refers back to nothing in the surrounding list**
+— (A) and (B) speak of compliance with the Section, not of any implementation. The Illinois clause
+is grammatically stranded in a way its source was not, which is what an edit made during
+transplantation looks like.
+
+#### What else went out with it
+
+The audit was not the only thing struck. Running the same terms against the enacted chapter text
+returns **zero occurrences of every one of these**, each of which appears in S 6953-A:
+
+| provision in S 6953-A | in the enacted law |
+|---|---|
+| § 1420(12)(G) — the safety protocol must *"DESIGNATE SENIOR PERSONNEL TO BE RESPONSIBLE FOR ENSURING COMPLIANCE"* | **absent** |
+| § 1421(2) — *"A LARGE DEVELOPER SHALL NOT DEPLOY A FRONTIER MODEL IF DOING SO WOULD CREATE AN UNREASONABLE RISK OF CRITICAL HARM"* | **absent** |
+| § 1421(4) — the audit, in its entirety | **absent** |
+| § 1421(6) — *"SHALL NOT KNOWINGLY MAKE FALSE OR MATERIALLY MISLEADING STATEMENTS"* | **absent** in that form |
+| § 1422(5)(A)(ii) — **corporate officers** included as protected employees | **absent** |
+| § 1423(2)(B) — *"A COURT SHALL DISREGARD CORPORATE FORMALITIES AND IMPOSE JOINT AND SEVERAL LIABILITY ON AFFILIATED ENTITIES"* | **absent** |
+
+**So the finding is not that New York dropped an audit.** New York's bill, six days before it
+passed, required a developer to designate senior personnel, had an independent auditor verify that
+those personnel were designated *and empowered*, took that auditor's signature, protected corporate
+officers who raised risks, barred deployment at unreasonable risk of critical harm, and told courts
+to pierce the corporate veil where the structure was built to frustrate recovery.
+
+**The enacted law has none of those six.** What survives is transparency: publish a framework,
+report incidents, do not make materially false statements about catastrophic risk.
+
+> **This is the closest any American legislature has come to the thing this project asks for, and
+> it existed for six days.**
+
+#### Stated with the limits intact
+
+**This file records what the texts say and nothing else.** It does not say why the provisions came
+out, who asked, or what was traded for what. **It is not a claim about the sponsors**, who wrote the
+provisions in the first place and are the reason there is anything to compare. Amendments during
+passage are ordinary legislative practice, and a bill that passes without a provision is a bill that
+passed.
+
+**The dates, which are the only chronology asserted:** `PRINT NUMBER 6953A` on **3 June 2025**;
+`PRINT NUMBER 6953B` on **9 June 2025**; passed both houses **12 June**; signed **19 December 2025**
+as chapter 699; chapter-amended 2026 as chapter 96.
+
+**Confidence. ✅ for S 6953-A** — read in full from the New York Senate's own page by a human, and
+pinned verbatim in this project's own repository, which is the standard [E15](../ledger/errata.md)
+set. **⚠ R for the enacted-text comparisons**, which were run by automated search against the
+project's pinned copy of chapter 96. **⚠ R for SB 1047.**
 
 ---
 
 ### And it did not start in New York. Four drafts, one survivor.
 
-*Traced 21 August 2026. **Same embargo as above.***
+*Traced 21 August 2026. ⚠ **Still ⚠ R — SB 1047 and SB 53 were each retrieved once and neither has been read by a human eye. The New York half of the lineage is now ✅; the California half is not.***
 
 The obvious next question was where New York got the language. **California, and there is a date in
 it that proves copying rather than convergence.**
@@ -683,13 +726,9 @@ nowhere in this repository:**
   statute, and it requires no signature from anyone.*
 - [x] **New York — S 6953-B** — done, 21 Aug. *The B text carries no audit, no signature, no
   certification. The audit was gone before passage, not in the chapter amendment.*
-- [ ] **New York — S 6953-A** — ⚠ **the one that matters, and the one still owed.** Its reported
-  text carries the audit and *"the signature of the lead auditor certifying the results"* —
-  the sentences Illinois enacted. **Two automated retrievals agree; no human has opened it.** Until
-  someone does, [the lineage finding](#the-lineage-finding--illinoiss-one-signature-is-new-yorks-deleted-sentence)
-  is embargoed from every public use. Read
-  <https://www.nysenate.gov/legislation/bills/2025/S6953/amendment/A> and record the subdivision
-  number.
+- [x] **New York — S 6953-A** — **done, 21 Aug, ✅.** Read in full from nysenate.gov by the
+  maintainer and pinned verbatim in the New York repository. The audit is § 1421(4); Illinois's
+  (d)(2)(C) and (G) are its (C)(III) and (C)(IV). **Embargo lifted.**
 - [x] **California — SB 53** *Transparency in Frontier Artificial Intelligence Act* — word test run
   21 Aug on the chaptered text. ⚠ **No occurrence of *audit*.** Single retrieval; re-run before
   quoting. A full row is still owed.
