@@ -157,7 +157,7 @@ archive, or a machine-readable file.
 | [`model_act_v3_4.txt`](./model_act_v3_4.txt) | The statute, SEC. 0–13 — research draft; the authoritative text |
 | [`model_act_v3_4_companion.md`](./model_act_v3_4_companion.md) | The drafting notes, open items, and constitutional defense |
 | [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) | The draft implementing regulations |
-| [`standards/interim_standards.md`](./standards/interim_standards.md) | The adopted interim texts — the enacted California, New York, and Illinois standards SEC. 3(c)(4) freezes, pinned verbatim |
+| [`standards/interim_standards.md`](./standards/interim_standards.md) | The adopted interim texts — the enacted California, New York, and Illinois standards SEC. 3(c)(4) freezes, pinned verbatim. *A fourth state, Connecticut, enacted a frontier statute on 27 May 2026 and is **not** adopted here; see [E16](./LEDGER.md#part-i) and [the census](./standards/frontier_bill_census.md)* |
 | [`standards/table_of_authorities.md`](./standards/table_of_authorities.md) | Every authority the statute and companion cite, with the proposition each is cited for — built for verification |
 | [`standards/bracketed_matter.md`](./standards/bracketed_matter.md) | The adopting state's worksheet: every bracketed choice, its section and line, and what the enacted family chose |
 | [`standards/fiscal_note.md`](./standards/fiscal_note.md) | What the Act costs an adopting state: cost drivers traced to provisions, startup apart from steady state, and no revenue in the arithmetic |
@@ -167,15 +167,76 @@ archive, or a machine-readable file.
 | [`filings/how_to_file_a_federal_comment.md`](./filings/how_to_file_a_federal_comment.md) | The field guide to regulations.gov — the identity cards, the category codes, the craft, and why the process is not a vote; the federal companion to How a bill is handed over |
 | [`LEDGER.md`](./LEDGER.md) | The record of accountability: errata, changelog, diary |
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
+| [`standards/for_legislators.md`](./standards/for_legislators.md) | For sponsors and staff: the four things this project checked — the verified absences, what the laboratories' own frameworks say, the comparative answer with primary text, and your own state's analogue (in progress) |
+| [`standards/frontier_bill_census.md`](./standards/frontier_bill_census.md) | Every frontier AI bill in America, read one at a time and asked a single question — does it reach a natural person? Each row carries its own confidence grade, and the tally never exceeds the rows actually read |
+| [`standards/house_language.md`](./standards/house_language.md) | The drafting rule: how this project describes frontier AI and the people who ship it, why "frontier" means a priced tier rather than a wilderness, and what happened on the other frontiers — steamboats, patent medicine, aviation, Sarbanes-Oxley |
+| [`standards/commentary_sweep.md`](./standards/commentary_sweep.md) | What the specialists say is missing from the enacted statutes — eight documents read, twenty-six gaps enumerated by one of them, and the vacancy none of them names |
 | [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record — beside it, the [sealed v3.4 queue](./audit/v3_4_cure_language.md) and the [open v3.5 queue](./audit/v3_5_cure_language.md) |
 
-On this page: [For the review council](#for-the-review-council) · [Questions this project is asked](#questions) · [The case](#the-case) ·
+On this page: [For sponsors and staff](#for-sponsors-and-staff) · [For the review council](#for-the-review-council) · [Questions this project is asked](#questions) · [The case](#the-case) ·
 [Provenance and method](#provenance-and-method) · [Citation](#citation) ·
 [Contact and contributions](#contact-and-contributions) ·
 [File status and history](#file-status-and-history)
 
 *Superseded versions live in [`archive/`](./archive) with their corrections attached;
 retired paths were cleaned on 19 August 2026 — git remembers every former path.*
+
+<a id="for-sponsors-and-staff"></a>
+## For sponsors and staff
+
+This section exists so that no legislative office needs the rest of the repository. It is the
+companion to the council section below: that one is for reviewers, this one is for the people
+who would carry a bill. Everything not named here is context you are licensed to skip.
+
+**What this is.** A public-domain model state statute placing personal, non-delegable duties on
+the natural persons with practical authority over frontier AI systems — the responsible
+corporate officer doctrine of *Dotterweich* (1943) and *Park* (1975), applied to the one
+industry it has never reached. It is a research draft. It has been enacted nowhere, it claims
+no completed expert review, and it says so on this page. CC0: no permission, no attribution, no
+strings.
+
+**The one question it asks that nothing else does.** Every enacted and introduced American
+frontier-AI regime places its duties on the company. Not one requires a natural person to
+certify anything. That is not an argument — it is a finding, checked, and it is the first of
+four in [the sponsors' file](./standards/for_legislators.md).
+
+**The four things already checked, so your staff do not have to.**
+[`standards/for_legislators.md`](./standards/for_legislators.md) carries them with sources:
+the verified absences, including a fifty-one-comment federal docket in which nobody named an
+upstream person; what the laboratories' own published safety frameworks say about who decides
+and who signs; the comparative answer with primary text, for the committee question about
+whether anyone else does this; and your own state's existing analogue, which is in progress and
+states its own caution. The file opens by conceding that your office could assemble all of it —
+and explains why nobody has.
+
+**What your office would actually receive.** Not this repository. A sponsor package is shorter
+and jurisdiction-specific: bill text conformed by your own legislative counsel, a
+section-by-section explanation, a sponsor memorandum, and a fiscal note. The architecture is
+handed over; your office pours the concrete. Two files do the mechanical half already —
+[the bracketed-matter worksheet](./standards/bracketed_matter.md) lists every choice a
+legislature must fill in, with its section and line and what the enacted family chose, and
+[the fiscal note](./standards/fiscal_note.md) identifies the cost drivers, keeps startup apart
+from steady state, and never books penalties as revenue.
+
+**The reading order, if you have twenty minutes.** [The sponsors'
+file](./standards/for_legislators.md), then the statute's SEC. 4 and SEC. 6 — who is reached
+and on what fault standard — at [`model_act_v3_4.txt`](./model_act_v3_4.txt#L236). If you have
+an hour, add [the statute translated](#the-statute-translated), which is the whole Act in plain
+language, section by section.
+
+**The attack ad, and the answer.** It is "criminalising innovation." The answer is on the face
+of the text: engineers, credentials, technical ability, access and executing someone else's
+decision are excluded from authority in black letter (SEC. 4); the thresholds and penalty
+brackets carry figures governors of both parties have already signed; and pharmaceuticals,
+banking and aviation have carried officer liability for decades while remaining industries.
+[How a bill is handed over](#how-a-bill-is-handed-over) covers the procedure, and
+[Where and when](#where-and-when) the calendars.
+
+**Honest odds, on the record.** Nobody is asking for this bill; the current sponsor count is
+zero, and the front page says so where a reader will find it. A model act's audience is
+measured in sponsors, and the claimed path is not short: named reviewers, then a sponsor's
+counsel, then one state. Disagreement is as useful as agreement — an argument for why this is
+wrong, sent to the address below, enters the public register with its answer attached.
 
 <a id="for-the-review-council"></a>
 ## For the review council

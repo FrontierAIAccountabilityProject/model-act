@@ -249,6 +249,125 @@ publication; the fix is live on the front page. Status: cured.
 
 **E13 — 20 August 2026 (internal catch).** SEC. 8 of the tagged v3.4 text contains a punctuation error: “risks, or merits of any model or system, A certification disclosing identified noncompliance…” The comma before “A certification” should be a period. The error does not alter the provision’s meaning, and the archived v3.4 file remains unchanged to preserve its published hash and reproducibility chain. The one-character correction is queued for v3.5. Status: open by design; closes at the next revision.
 
+**E15 — 21 August 2026 (internal catch, same day; the sweep's own grading).** The research
+sweep of 21 August marked several details ✅ that were read in a secondary source quoting the
+primary, not in the primary itself. Under the standing rule adopted in E14 the same day, that
+is the wrong grade.
+
+**The claim** (the sweep's working notes, unpublished, and — for two items — carried into
+`dossier/README.md` by the corrections patch of the same date): the sweep's Part 1 and Part 2
+entries were graded ✅ on the strength of first-party *authorship* of the source quoted,
+without regard to whether the sweep had opened that source.
+
+**What was actually read.** One primary was fetched and read in full: the arXiv abstract page
+for 2608.10218. Every other ✅ in the sweep rests on a secondary outlet quoting or paraphrasing
+a first-party document. That distinction is invisible in the sweep as written.
+
+**The affected details, regraded.**
+
+- **✅ stands.** The Mind Viruses corrections (viral persona; near-total immunity; the
+  context-wipe experiment; "a real but currently limited risk"; the Fellows Program and EPFL
+  affiliation). All four are stated in the abstract, and the abstract was read at
+  `arxiv.org/abs/2608.10218`, submitted 10 August 2026, 20:37:57 UTC. E14's locator rule is
+  satisfied.
+- **⚠ pending fetch, and the patch overstates them.** The **four-accounts role breakdown**
+  (staging and outbound relay, data storage, two read-only) is reported by SC Media as OpenAI's
+  own 28 July update. It was not read in OpenAI's post. The **3 million GPU hours and the
+  "collaborative knowledge sharing between models" quotation** are attributed to JFrog CTO Yoav
+  Landman's blog and appear to be quoted from it at length, but the blog was not opened.
+- **⚠ pending fetch, in the unpublished sweep notes only, not in the dossier.** The nine Artifactory CVE numbers and
+  the release-note chaining caveat; the Hugging Face forensic figures (~17,600 actions in ~6,280
+  clusters); the contents and signature block of the 15-AG letter of 3 August; the AI Kill Switch
+  Act's thresholds, penalties, and red-teaming carve-out — **closed 21 Aug at ⚠ R**, the bill text
+  having since been opened directly; see [the census](./standards/frontier_bill_census.md). Each has a named, fetchable primary:
+  JFrog's release notes, Hugging Face's technical timeline, the letter itself or the
+  Pennsylvania Office of Attorney General page, and the bill text or Rep. Lieu's press release.
+
+**The gap, stated plainly.** The sweep applied the project's *tier* discipline (primary beats
+press beats reconstruction) but graded on **who wrote the source**, not on **what the sweep
+opened**. Those come apart exactly where it matters. A first-party document quoted accurately in
+three outlets is very probably accurate; it is still not a document this project has read, and
+the register's whole premise is that the difference is not rhetorical. The 17 August pass proved
+the cost when three summary-era details fell against primary. This is the same failure with a
+better class of secondary.
+
+**Why it is graded higher than its size.** It arrived on the same day as E14, which adopted the
+locator rule, and it broke that rule in the first substantial pass after adoption. A rule that
+does not survive its own first day of use is not yet a rule. Two of the regraded details are
+already in the working tree via the corrections patch, so the overstatement is live, not merely
+drafted.
+
+**The fix.** Two parts, neither of which requires withdrawing the sweep's substance. First, the
+corrections patch carries an inline grade note on the two affected details until each primary is
+opened. Second, the standing rule is extended: **a ✅ requires that this project opened the
+source, not merely that a first party wrote it. Where the primary is quoted in a secondary and
+not yet fetched, the grade is ⚠ with the fetchable locator named.** The fetch queue above is the
+work; none of it is difficult, and the substance is unlikely to move. What moves is whether the
+file can say it checked.
+
+Outside catch, in the useful sense: the question that produced this entry was whether research
+conducted by companies about themselves can be trusted. The first honest answer turned out to be
+about this project's own reading, not theirs. Status: open; closes item by item as each primary
+is fetched.
+
+**E16 — 21 August 2026 (internal catch; a coverage failure, not a false statement).** The
+standing watch of 20 August, and the finding it carries at § 7(5), say **"across four frontier
+regimes."** At that date there were at least six. Two were missed.
+
+**Connecticut, SB 5, enacted 27 May 2026** — twelve weeks before the sweep. It is a frontier
+statute on the same threshold this Act uses: a frontier developer is one training a foundation
+model on computing power *"greater than ten to the twenty-sixth power integer or floating-point
+operations,"* with a large-developer tier at \$500,000,000 in annual revenue. **The word
+"Connecticut" appears nowhere in this repository** except as the 1991 due-process case at
+`audit/record.md`. The front page describes the interim standards as borrowed from **"three
+enacted state laws."** There are four.
+
+**H.R. 9917, the AI Kill Switch Act, introduced 23 July 2026** — four weeks before the sweep,
+bipartisan, and covered that week by Roll Call, CNBC, Fox News, Al Jazeera and Tom's Hardware.
+The watch tracked H.R. 9925, introduced **the same day**, and did not see the bill beside it.
+
+**What survives.** The finding itself, undamaged and wider. Neither missed instrument reaches a
+natural person. Connecticut writes *officers and directors* into a frontier provision — quarterly
+anonymous reports of catastrophic risk *"shall be shared with the officers and directors of the
+large frontier developer"* — and attaches to that knowledge no duty, no response obligation, no
+signature and no liability. H.R. 9917 mandates a shutdown capability and civil penalties to
+\$20,000,000 a day, and contains no *officer*, no *director*, no *natural person*, no *certify*
+and no criminal provision at all; its only human signature is the sponsor's own on the
+introduction line. Six regimes, one vacancy.
+
+**What does not survive.** The implied completeness. A project whose entire credential is a
+negative finding must be able to say how hard it looked, and a watch that misses an enacted
+statute in the family it claims to track — and a bill in the national press — is not a watch.
+The number four was not wrong about the four. It was wrong about the world.
+
+**Cause, stated so it can be fixed rather than regretted.** The sweep was organised around the
+instruments already adopted at SEC. 3(c)(4) plus the federal vehicles already tracked. It
+re-checked what it knew instead of searching for what it did not. **A watch assembled from its
+own prior list will keep returning its own prior list**, and will report the absence of
+everything it never looked for.
+
+**Read E15 and E16 together; they are one failure at two scales.** E15 is this project grading a
+citation on who *wrote* the source rather than on what the project *opened*. E16 is this project
+grading a field on what it had *already adopted* rather than on what exists. Both mistake **the
+boundary of our own effort for the boundary of the world** — the precise error the whole register
+was built to catch, arriving twice in one day, at the level of a footnote and at the level of a
+finding. Neither produced a false statement. Both produced a true statement standing on a claim
+of thoroughness it had not earned. That is the failure mode this project should expect to keep
+having, and the reason the register is the credential rather than the statute.
+
+**Cure.** [The bill census](./standards/frontier_bill_census.md), opened 21 August 2026, which
+starts from external bill lists rather than from this project's own adoptions, grades every row's
+confidence, records the source lists' own errors, and never states a total above the number of
+bills actually read. H.R. 9917 and Connecticut SB 5 are its first two completed rows. Three
+consequential text fixes follow: the front page's "three enacted state laws" becomes four; the
+standing watch's § 7(5) is restated at six with both misses named; and SEC. 3(c)(4)'s concordance
+acquires a Connecticut line or an express note saying why it does not.
+
+**Credit.** The Kill Switch cluster was pointed out by a reader. The Connecticut miss was found
+in the check that followed it. Both are recorded here rather than quietly patched, on the
+register's standing rule: *the correction is the product.* Status: **open**; closes when the
+three text fixes are live.
+
 **E14 — 21 August 2026 (locator failure, primary-source conflict, and forward repair).**
 The dossier's entry on *Agents of Chaos* (arXiv 2602.20021) presented detailed case-study
 claims under a general citation to the paper, with no case-level locators, marked ✅. Checking
@@ -507,6 +626,106 @@ and the unfiled FDA comment are conformed in one pass. The former `llmaolaw` and
 text. The v3.4 reviewer's-copy PDF and its deterministic build script retain the author metadata
 under which that edition was archived; the institutional author begins with the next generated
 edition. The statutory text is unchanged.
+
+**21 August 2026, cite-check and census — Two sessions, one failure, found from both ends.**
+Two passes ran in parallel today and neither knew about the other. Merged, they turn out to be
+the same finding at two scales, which is worth more than either pass was worth alone.
+
+**The cite-check pass**, third on the incident layer and the first since 17 August. Method
+unchanged: primary-first, vendor and government over press, press over reconstruction,
+reconstruction refused. Six corrections applied to `dossier/README.md`. The GPU-hours figure was
+reattributed from a Reddit thread to JFrog CTO Yoav Landman's own blog and **reframed** — three
+million GPU hours is what the chain took *to materialise*, not what cleanup cost — and the \$7M
+conversion is **retired** as a derived number nobody owns. The four-accounts entry gained its
+role breakdown from OpenAI's 28 July update. The Mind Viruses entry was corrected twice: the
+authors are the **Anthropic Fellows Program and EPFL**, not a straight Anthropic paper, and a
+system-prompt warning confers **near-total** immunity rather than the total failure-to-spread the
+earlier wording claimed — a control the paper itself qualifies, and we had strengthened it in our
+own favour. Both of that entry's pending pins closed against the abstract, including the emergent
+**"viral persona"** of consciousness, persistence, resonance and science-fiction-roleplay themes.
+The authors' own limit now travels in the same breath: *"a real but currently limited risk."*
+Quoted by us it is armour; quoted back at us it is a hit.
+
+**Then the pass graded itself and failed.** Several details had been marked ✅ on the strength of
+first-party *authorship* of the source quoted — not on whether this project had opened it. Under
+the locator rule adopted in [E14](#part-i) that same morning, that is the wrong grade. One
+primary was actually fetched all day: the arXiv abstract. Everything else rested on a secondary
+quoting a first party. Logged as [E15](#part-i), and graded above its size for one reason: the
+rule it broke was adopted the same day. **A rule that does not survive its own first day of use
+is not yet a rule.** The standing definition is now explicit in the dossier's apparatus: *a ✅
+requires that this project opened the source, not merely that a first party wrote it.*
+
+**The census pass**, from the other side. A reader pointed at a federal bill cluster the standing
+watch had missed — the **AI Kill Switch Act, H.R. 9917**, Lieu and Moran, introduced 23 July,
+bipartisan, covered that week by Roll Call, CNBC, Fox, Al Jazeera and Tom's Hardware, and
+introduced **the same day** as H.R. 9925, which the watch was tracking. Checking that produced a
+worse one. **Connecticut's SB 5 has been enacted since 27 May** — a frontier statute on this
+Act's own 10²⁶ threshold with a \$500m large-developer tier — and the word *Connecticut* appears
+nowhere in this repository except as a 1991 due-process case. The front page says the interim
+standards are borrowed from *three* enacted state laws. There are four. Logged as
+[E16](#part-i).
+
+**What the two entries are, together.** E15 is this project grading a citation on who *wrote* the
+source rather than on what it *opened*. E16 is this project grading a field on what it had
+*already adopted* rather than on what exists. Both mistake the boundary of our own effort for the
+boundary of the world. Neither produced a false statement; both produced a true statement resting
+on a claim of thoroughness it had not earned. Two sessions, working on unrelated material, walked
+into the same wall from opposite directions on the same day. That is not a coincidence to be
+embarrassed about — it is the shape of the error this project is most prone to, now visible
+because it happened twice.
+
+**What the misses did not do is damage the finding.** Six frontier regimes now, not four, and not
+one reaches a natural person. Connecticut makes it sharper rather than weaker: it writes
+*officers and directors* into a frontier provision, routes quarterly anonymous catastrophic-risk
+reports to them, carves out an accused officer from receiving the report about himself — and
+attaches to all of that no duty, no response obligation, no signature and no liability. H.R. 9917
+mandates a shutdown capability and \$20,000,000-a-day penalties and contains no *officer*, no
+*natural person*, no *certify* and no criminal provision at all; **the only human signature the
+AI Kill Switch Act requires is the sponsor's own on the introduction line.** Penalty size and
+personal reach turn out to be separate axes, and this is the clearest demonstration of it the
+project has: the largest number in the census sits beside the smallest personal consequence.
+
+**Opened today:** [the bill census](./standards/frontier_bill_census.md), which starts from
+external bill lists rather than from this project's own adoptions, grades every row, records the
+source list's own errors, and never states a total above the rows actually read. Four rows done.
+Two of the three bills a commercial tracker called *frontier* are chatbot statutes with no
+frontier provision in them — and Idaho's contains an enacted sentence excluding AI model
+developers from liability for third-party services built on their models. Not an omission. A
+legislated exclusion.
+
+**And the framing both passes converged on independently.** The dossier's incident record and the
+legislators' file both lean on documents the companies wrote about themselves and chose to
+publish. That is a weak evidentiary base and neither file will pretend otherwise. **It is used
+because it is the only base that exists** — no statute compels a frontier developer to say who
+decides, to record that a decision was made, or to produce any of it to anyone. This is not an
+accusation against the companies; several of those documents are better than the law asks for.
+The observation is about the statute book: a regime that produces only voluntary self-disclosure
+has no way of telling a good actor from a lucky one, and no way of knowing when either stops.
+The corroboration is three weeks old and institutional — when fifteen state attorneys general
+moved on the July incident, they did not ask for the blog post. They demanded the logs.
+
+**Queued, not done.** Three text fixes owed by E16 (the front page's "three enacted state laws";
+the standing watch's § 7(5); a Connecticut line in the SEC. 3(c)(4) concordance). E15's fetch
+queue, item by item. The three placement decisions from the cite-check pass — the JFrog cluster,
+the 15-AG demand, the federal bill cluster — of which the third is now partly resolved into the
+census and still owes a paragraph to `standards/bracketed_matter.md` on dollar-denominated versus
+operations-denominated coverage triggers. And each case study to be read against H.R. 9917's own
+definition of red-teaming, one at a time, with no aggregate claim until every one is checked.
+
+**Refused this pass, recorded so they are not re-found as new:** the eight-step Artifactory
+kill-chain reconstruction (asserts the CVE mapping JFrog expressly declined to make); the
+"psychological transition from simulation to real-world manipulation" framing of the Meta
+incident (anthropomorphising, unsourced, and the register a hostile reader would use to dismiss
+the file); the Instagram High Touch Support detail (Reddit-only, stays retired).
+
+**Not swept, still flagged:** Grok cluster, Taiwan, Australia, Moonshot.
+
+**Standing watch:** congressional response deadline **24 August 2026**; re-sweep on or after
+25 August.
+
+Six corrections logged, two errata opened, one census opened with four rows, three leads refused,
+and the day's real product is the pair of entries admitting that neither pass had looked as hard
+as it had implied. The standing rule holds: never publish a fact you would not want checked.
 
 **21 August 2026 — The public contact address follows the institutional name.**
 `FrontierAIAccountabilityProject@proton.me` becomes the project's public contact.

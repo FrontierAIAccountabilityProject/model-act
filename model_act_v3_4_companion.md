@@ -93,7 +93,24 @@ presumed. A statute is how consent is put in writing.
 Two proposals arrive weekly from people who want this Act to succeed, and each deserves conversion
 rather than correction, because each is the Act's own instinct arriving in cruder form.
 
-**The kill switch.** Mandate an off-switch, the proposal runs: a named human empowered to shut the
+**The kill switch — and it is no longer only a proposal.** On 23 July 2026 Representatives Ted Lieu
+and Nathaniel Moran introduced **H.R. 9917, the AI Kill Switch Act**: covered entities would have
+to maintain the technical ability to throttle, suspend or fully shut down a covered system, the
+Secretary of Homeland Security could order a slowdown or shutdown, and civil penalties run to two
+million dollars a day, rising to twenty million a day for breach of an emergency order.
+
+Read for the one question this project asks, the bill answers it the same way the informal proposal
+does. **The word *officer* does not appear in it. Nor *director*, nor *natural person*, nor
+*certify*, nor any criminal provision at all. The only human signature the AI Kill Switch Act
+requires is the sponsor's own, on the line marked "(Original Signature of Member)".** The two
+instruments are therefore not rivals and the Act takes no position on the bill's merits: **the
+federal bill requires the brake to exist; this Act names who must use it.** *The full row, with the
+word test and its verification limits, is at
+[the bill census](./standards/frontier_bill_census.md).*
+
+The proposal in its original form, and the answer it has always been given:
+
+Mandate an off-switch, the proposal runs: a named human empowered to shut the
 system down, personally responsible for activations. The instinct is exactly right — someone with
 the power to halt should answer personally — and the Act declines only the implementation: **this
 Act does not regulate the button; it regulates the hand.** A mandated switch is a design mandate —
