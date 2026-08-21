@@ -1,5 +1,6 @@
 # Model Act — Frontier AI Public Welfare Offenses
 
+*Update of repository coming later today, hopefully shortly. -- the maintainer*
  
 **Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
 
