@@ -186,18 +186,9 @@ retired paths were cleaned on 19 August 2026 — git remembers every former path
 <a id="for-the-review-council"></a>
 ## For the review council
 
-This section exists so that no reviewer needs the rest of the repository. Five seats, one
-core set, one lane each. Everything not named here is context a reviewer is licensed to
-skip: the dossier is evidence assembled for journalists, the case below is written for lay
-readers, and the archive is history. A reviewer's time belongs to the text.
+This section exists so that no formal reviewer needs the rest of the repository. The council is organised into five professional lanes sharing one core set. Each reviewer reads the shared core and then works within the scope agreed for that lane. Everything not named here is context a reviewer is licensed to skip: the dossier is evidence assembled for journalists, the case below is written for lay readers, and the archive is history. A reviewer’s time belongs to the text.
 
-**The standing terms.** Scope in writing before work begins; roughly ten to twenty hours
-across eight weeks, adjustable; unpaid; the disposition is published as written, including
-"approved with reservations" and including hostile. Under the project's own published rule,
-nobody — including the maintainers — may claim this text "survived review" until named
-reviewers sign. That rule is why the seats exist. The current text is a research draft and
-says so; every claim is checkable, because checkability is the only authority an anonymous
-project has.
+**The standing terms.** Scope is agreed in writing before work begins; the expected commitment is approximately ten to twenty hours across eight weeks, adjustable and unpaid. The reviewer submits a named written disposition, published as submitted, including “approved with reservations” or a hostile conclusion. Under the project’s published rule, nobody—including the maintainer—may claim that the text “survived review” until named reviewers sign. That rule is why the formal council exists. The current text remains a research draft; every claim is checkable, because checkability is the only authority an anonymous project has.
 
 **The core set, in reading order.** First, [`model_act_v3_4.txt`](./model_act_v3_4.txt) —
 the statute, one sitting, cover to cover. Second, [the errata register](./LEDGER.md#part-i)
