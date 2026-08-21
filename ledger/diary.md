@@ -57,27 +57,9 @@ identical event on the identical day, and escalated — *eigenständig*, *auf Ei
 the verb to the model, the company gives it to a configuration, and neither account contains a
 person, in either language.** Then, four paragraphs down a German article, reporting Bloomberg,
 reporting a conference talk: *das Team vergessen, eine zum Auftrag gehörende Datei hochzuladen.*
+
 **The team forgot to upload a file.** The only human subject in the entire corpus — third-hand,
 translated, and graded that way.
-
-Findings that hold: UK government says personal accountability once in nine chapters and spends it on a named official.
-
-AISI lists five causes and every one is a human decision, in a report nobody signed. 
-
-Hugging Face disclosed five days before OpenAI. 
-
-Meta blamed its tester — the first real blame in a frontier incident went to the auditor, which is exactly where Illinois puts the only required signature. 
-
-And somewhere in a German article, four paragraphs down: the team forgot to upload a file. 
-
-Only human subject in the whole corpus.
-
-**Two broken delivery scripts, both mine.** macOS `base64` will not take a positional input file.
-Then a verification `grep` written against text that had never been grepped — the string was split
-by markdown emphasis and wrapped across a line. **The same mistake twice in one session, and the same
-mistake as E22 in different clothing: asserting from memory instead of checking.** Fixed by testing
-all eleven assertions against the real files and dry-running the whole thing on a clean checkout
-before sending. **The discipline is not "be careful." It is "run it."**
 
 **Open.** Four commits local until the script runs. Three quarantined quotations still owed. The
 Bloomberg and Black Hat sources for *weeks undetected*. Nine of ten headlines unconfirmed against
