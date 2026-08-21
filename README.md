@@ -1,5 +1,8 @@
 # Model Act — Frontier AI Public Welfare Offenses
 
+> **Repository type:** model legislation and legal research.  
+> **Status:** public-domain research draft; never enacted; no completed legal review claimed.  
+> **Subject:** personal, non-delegable duties for natural persons with practical authority over covered frontier-AI systems, based on the responsible corporate officer doctrine.
  
 **Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
  
@@ -10,7 +13,7 @@ duties on natural persons with practical authority over the relevant risk. A cov
 model exceeds [10^26] operations or is prospectively designated as frontier-equivalent;
 a lower threshold triggers specified records duties only. Technical work, access, advice, or implementation of another person’s decision does not create personal liability. Final material authority to prevent, halt, restrict, or correct the covered conduct does—and it cannot be delegated away.
 
-**Public domain. No attribution required. Steal it.**
+**Public-domain legal research draft (CC0). Reuse permitted; attribution not required.**
 
 ## In one paragraph
 
