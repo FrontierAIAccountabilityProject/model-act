@@ -1597,42 +1597,37 @@ version and the date; the main branch moves frequently.
 Cite it as what it is — model legislation, a research draft — never as enacted law; the
 companion's first note says the same, first.
 
+Replace everything from `<a id="contact-and-contributions"></a>` down to just before `<a id="file-status-and-history"></a>` with this:
+
 <a id="contact-and-contributions"></a>
+
 ## Contact and contributions
 
-**llmaolaw@proton.me** — links or pasted text only, no attachments. Two doors, honestly
-labelled.
+If you were contacted directly, reply through the channel that contacted you. Otherwise, email **[llmaolaw@proton.me](mailto:llmaolaw@proton.me)** using links or pasted text rather than attachments. GitHub issues are also welcome.
 
-**Catches — anonymity welcome, anonymity traditional.** A wrong citation, a broken
-cross-reference, an objection not yet met: send it, under any name or none. Every catch
-enters [the errata register](./LEDGER.md#part-i) with its fix, and the first genuine
-catch from outside is acknowledged in the record permanently. Issues may be opened from
-burner accounts; substance is identity here. The most valuable sentence in the language
-remains "this breaks, because—".
+### Check one thing
 
-**Validation — names required.** The adversarial review to date was built and answered
-by this project's own hands and tools; under its own published rule that is
-issue-spotting, not legal validation. What the next phase requires is named review:
-retained criminal counsel, and the five-seat council whose terms are
-[above](#for-the-review-council). Council names go on the provenance record; that is
-their point.
+Answer one [published open question](./model_act_v3_4_companion.md#read-first--open-items-for-the-next-revision-v35), correct a citation or source characterisation, flag a broken cross-reference, or identify an objection the project has not met. A sentence can be useful; “this breaks, because—” is enough to begin.
 
-**What is open for the next version.** Eight problems are scoped, sourced, and drafted
-to the edge of one missing reader: the interim-standards version-pin mechanics (a
-standards-literate technologist); the conforming-amendment scaffold (state legislative
-counsel — the mechanical half is now drafted as [the bracketed-matter
-worksheet](./standards/bracketed_matter.md)); the harm tier's bracketed minimum (a criminal-law scholar or former
-prosecutor — the companion "serious injury" source question was answered from outside and
-is drafted for v3.5 in [the open queue](./audit/v3_5_cure_language.md)); the sentencing valve against fifty state proportionality
-clauses (a proportionality scholar); the preemption armour as the litigation develops (a
-federalism litigator); the modifiability budget (an evaluations researcher); the control
-objectives against laboratory practice (a security engineer); and the consolidated
-citation check (any law-review student with a Bluebook). The companion's READ FIRST page
-carries the full brief for each. Closed, so the movement is visible: penalty calibration
-ended at v3.3 with the numbers three governors already signed, and the six explainer
-contradictions found by our own audit sit in the register with their fixes. This project
-finishes things; bring the one thing only you can finish. The text is public domain —
-nothing above is a reason to wait, and all of it is a reason to begin.
+Short answers and corrections may be anonymous or credited, at the contributor’s choice. They do not make the contributor a reviewer and do not imply approval of the Act.
+
+The companion’s READ FIRST section is the authoritative list of open and closed questions for the next revision. It identifies the missing judgment and the kind of reader who could supply it.
+
+### Review one lane
+
+Formal review is conducted through five professional lanes: criminal law; enforcement and prosecution; frontier security; open source and academia; and fiscal administration. Scope is agreed in writing before work begins. The expected commitment is approximately 10–20 hours over eight weeks, ending in a named written disposition published as submitted, including reservations or a hostile conclusion.
+
+The complete terms, core materials, reading order, and time budget are set out [For the review council](#for-the-review-council). Council review is not endorsement, co-authorship, campaign participation, or an attorney-client relationship.
+
+### Talk or refer
+
+A twenty-minute conversation, an institutional reaction, or the name of someone better placed is useful without any commitment to review. A conversation or referral is not published, attributed, or treated as approval unless expressly agreed.
+
+### What happens to a contribution
+
+Corrections enter [the Ledger](./LEDGER.md#part-i) beside the claim corrected and the resulting fix. An answer that changes the proposed text is logged and drafted into the [open cure queue](./audit/v3_5_cure_language.md) before the next revision is tagged. Attribution follows the contributor’s election, except that formal council dispositions are necessarily named.
+
+The statute and supporting text are public domain. No permission, attribution, endorsement, or continuing involvement is required to use or improve them.
 
 <a id="file-status-and-history"></a>
 ## File status and history
