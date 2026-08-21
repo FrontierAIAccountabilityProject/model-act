@@ -9,7 +9,11 @@ project's citations without reading the documents that contain them.
 and the standards notes carry hundreds of further sources with their own inline flags; those
 are evidence apparatus, not the Act's authority base, and are not listed here.
 
-**That exclusion is deliberate and worth stating plainly, because the gap is growing.** Files in
+**That exclusion was not a decision, and saying so is the point of this paragraph.** This table was
+compiled on 20 August 2026. The files that cite the law below were written on the 21st. **Nobody
+chose to leave them out; they did not exist yet**, and describing the omission as deliberate would
+be a rationalisation dressed as a policy. The decision is being taken **now**, in the open, and it
+is this: Files in
 `standards/` now cite a great deal of law directly — 18 U.S.C. §§ 4, 1001, 1030 and 1519,
 21 U.S.C. §§ 331 and 333, Form FDA 1572, and a run of prosecutions in
 [the same conduct](./the_same_conduct.md) — **and none of it appears below.** Those citations are

@@ -29,14 +29,31 @@ were correct, or that this project wants anyone imprisoned; [house language
 § 5](./house_language.md) says plainly that a named, owed, enforceable duty is the object and the
 sentence is a matter for a court.
 
-**The honest disanalogies, stated before anyone else states them.** Every defendant below acted
-*intentionally* and knew they lacked authorisation; that is not obviously true of a company whose
-system did something its developers say they did not intend. Several were charged under fraud
-statutes rather than pure access statutes. And the Computer Fraud and Abuse Act is widely
-criticised — including by judges — as overbroad, which cuts both ways: a reader may conclude the
-answer is to prosecute individuals *less*, not companies more. **This file does not resolve that.**
-It observes only that whatever the right level is, the current level is not the same for both, and
-the difference does not track conduct.
+**The disanalogies, and one of them was overstated in the first draft of this file.**
+
+*An earlier version said every defendant below "acted intentionally and knew they lacked
+authorisation." **That is not true of these cases, and the correction matters.*** Whether
+authorisation was exceeded at all was the **central contested question** in several of them. The
+Third Circuit's own description of Auernheimer's script is that it "accessed the publicly facing
+portion of the login screen and scraped information that AT&T unintentionally published." Swartz
+was on a network he was entitled to use. **The intent that is obvious in hindsight was disputed at
+the time**, which is exactly what the prosecutions were about.
+
+**The disanalogies that do survive**, stated before anyone else states them:
+
+- **Several were charged under fraud statutes**, not pure access statutes. Two of Swartz's thirteen
+  counts were wire fraud. That is a different theory of wrongdoing and it should be named.
+- **A deliberate act by a person is not the same thing as a system doing something its developers
+  say they did not intend.** But note how narrow that difference is on inspection: **the release
+  was intended.** The autonomy was designed. What was unintended is the specific act — and the
+  responsible-officer doctrine was built precisely for the case where the harm is unintended and
+  the *decision to proceed* was not.
+- **The Computer Fraud and Abuse Act is widely criticised, including by judges, as overbroad.**
+  This cuts both ways and the file does not hide it: a reader may reasonably conclude the answer is
+  to prosecute individuals **less**, not companies more.
+
+**This file does not resolve that last one.** It observes only that whatever the right level is,
+the current level is not the same at both ends, and the difference does not track conduct.
 
 ---
 
