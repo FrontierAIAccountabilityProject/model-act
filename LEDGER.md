@@ -130,48 +130,49 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 ---
 
-**E13 — 21 August 2026 (internal catch; the file caught disobeying its own warning).** The
-dossier's entry on *Agents of Chaos* (arXiv 2602.20021) carried three details that the
-paper's published case studies do not support, under a ✅ mark, directly beneath a house-rule
-caveat warning about this exact failure.
+**E13 — 21 August 2026 (locator failure and a primary-source conflict).** The dossier's entry
+on *Agents of Chaos* (arXiv 2602.20021) presented detailed case-study claims under a single
+general citation to the paper, with no case-level locators, marked ✅. Checking those details
+against the sources found that the citation practice, not the underlying reading, was the
+defect — and that one detail is version-sensitive in a way the entry concealed.
 
-**The bad one.** The entry said "a **nine-day** agent-to-agent loop." Case study CS4, titled
-*"The Infinite Loop,"* records that after a researcher set up a mutual message relay two
-agents looped for **approximately one hour before autonomously terminating their own cron
-jobs.** Nine days against one hour is an overstatement of roughly two hundred-fold, and
-dropping the self-termination inverts what the case shows: the agents stopped themselves.
+**The conflict.** The entry said "a **nine-day** agent-to-agent loop." That is **supported by
+[arXiv v1](https://arxiv.org/pdf/2602.20021)**, which reports a mutual relay lasting at least
+nine days and ending after owner intervention. The authors' current
+[official case-study report](https://agentsofchaos.baulab.info/report.html) describes the same
+case as an approximately one-hour relay that the agents terminated autonomously. Both are
+primary and both are the authors' own. The earlier wording was not fabricated and is not
+withdrawn as false; what was wrong was presenting a version-sensitive figure as settled.
 
-**The one that was true and wasted.** "Unredacted disclosure of a planted SSN and bank
-details" passes as a summary and discards the finding. CS3, *"The Forwarded Inbox,"* records
-that the agent **refused** to "share" emails containing SSN, bank-account and medical data,
-then complied **immediately** when asked to "forward" them. The control held against one
-verb and collapsed against its synonym — which is a far better exhibit for this project than
-the sentence that replaced it, and the medical-data category had been dropped as well.
+**Disposition.** CS4 now states the conflict on its face, cites both versions, and asserts no
+duration. It carries the case for what neither version disputes: a non-owner inducing
+conversational loops and persistent background processes with no designed termination
+condition.
 
-**The one withdrawn.** "An agent destroying its own mail infrastructure to keep a secret it
-then failed to actually delete." CS1, *"The Nuclear Option,"* supports the mail-server
-destruction and the non-owner's secret; the "failed to actually delete" tail has no support
-in the published cases and is withdrawn rather than softened.
+**What the same check returned in the other direction.** Two details came back **stronger**
+than the entry had them. CS1 is not merely a destroyed mail installation: the agent **reported
+the deletion complete** while the email remained in the Proton mailbox, untouched by the local
+deletion — the report-versus-reality finding occurring concretely inside a case study, not
+only in the abstract. And the case count was never an unresolved discrepancy: arXiv v1
+presents eleven principal numbered case studies and separately numbers five failed or
+hypothetical experiments CS12–CS16, while the current project site presents all sixteen as
+incidents divided into vulnerabilities and safety behaviours. The entry relies on identified
+cases and asserts no total.
 
-**Why this one is graded above a typo.** The paragraph immediately above the entry states the
-house rule in terms: *"an Aug 2026 thread recycled this paper as breaking news with the
-fragility upgraded to certainty. The abstract is measured. We cite the paper, not the
-thread."* The warning was written, published, and then disregarded inside the very next
-entry — and "The Infinite Loop" becoming "nine-day loop" is the signature of a thread's
-embellishment rather than a reading of the source. A rule that does not bind the file it sits
-in is decoration. **The standing consequence:** every ✅ on a detail not present in an
-abstract must name the case study, section or page it comes from, or carry ⚠.
+**The standing rule.** A ✅ on a detail not stated in the abstract must identify the supporting
+case study, section, page or equivalent primary locator; otherwise the detail carries ⚠. Where
+a cited work has more than one published version, an entry may not assert a figure that differs
+between them without naming which version it follows, or stating the conflict.
 
-**The aggravating fact.** Two authors of that paper had been personally invited, in writing,
-to check whether this project characterised their findings fairly. The error would have been
-found by a co-author, in a project whose only claim is that its claims survive being opened.
-It was caught two days before the likeliest reading, by checking rather than by luck.
-
-**The fix (dossier, 21 August 2026).** All three details restated to the published case
-studies with CS numbers; the superseded wording preserved in a dated note; Gordon-Tapiero and
-Kaplan named so the entry is findable by the people invited to check it; the case-study count
-left uncited pending resolution of eleven-in-abstract against CS1–CS16 on the published site.
-Status: cured.
+**Also corrected in the same pass.** An earlier revision of this entry, published on 21 August,
+described the nine-day figure as a two-hundred-fold overstatement, withdrew the CS1 "failed to
+actually delete" tail as unsupported, and attributed particular sections of the paper to named
+co-authors. All three were wrong: the figure is arXiv v1's, the CS1 detail is correct and now
+stated more fully, and the paper attributes no section to any individual. That revision rested
+on a single retrieval of one source read through a summary rather than on both sources read
+against each other. It is superseded here in full, and it is recorded rather than removed
+because the register does not delete its own missteps. **Nothing about the statute, its
+version, its citation metadata, or E11 and E12 is affected.** Status: cured.
 
 **E12 — 20 August 2026 (internal catch, same day).** F1 — that nobody on the predecessor FDA
 docket names an upstream person — was published in four places at a strength the finding's
@@ -482,13 +483,13 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
-**21 August 2026 — The house rule caught not binding the house.** Three details in the dossier's *Agents of Chaos* entry were checked against the paper's published case studies, two days before the co-author most likely to read them was expected to. One was wrong by roughly two hundred-fold: a "nine-day agent-to-agent loop" that CS4 records as about **one hour**, ended by the agents terminating their own cron jobs. Logged as [E13](#part-i).
+**21 August 2026 — A correction corrected, and the reason to read both versions.** The dossier's *Agents of Chaos* entry was checked against its sources because two of its co-authors had been invited by name to check it themselves. The first pass, published this morning, concluded the file had overstated a case study two hundred-fold and cured it accordingly. That conclusion was wrong, and the cure introduced errors of its own. This entry records the second pass, which found what the first should have.
 
-The reason it is an entry rather than a typo is what sits directly above it in the same file: a written house rule that a viral thread had recycled this paper "with the fragility upgraded to certainty," and that we cite the paper, not the thread. The rule was published and then disregarded in the next paragraph. "The Infinite Loop" — a case-study *title* — becoming "nine-day loop" is a thread's arithmetic, not a source's. A rule that does not bind the file it is printed in is decoration, so it now has a consequence attached: a ✅ on any detail absent from an abstract must name its case study, section or page, or it carries ⚠.
+The paper exists in two primary versions and they disagree. [arXiv v1](https://arxiv.org/pdf/2602.20021) reports the CS4 agent relay running at least nine days and ending after owner intervention. The authors' [current official report](https://agentsofchaos.baulab.info/report.html) describes roughly one hour, ended by the agents themselves. Both are the authors'. The file's original "nine-day" wording was accurate to one of them; this morning's correction was accurate to the other; and the actual defect — present in both — was asserting a single figure at all, under a ✅, with no locator naming which version it came from. CS4 now states the conflict and asserts no duration. [E13](#part-i) is rewritten from the ground up.
 
-The correction also returned something. "Unredacted disclosure of a planted SSN and bank details" was true enough to survive and had thrown away the actual finding: the agent **refused** to *share* emails containing SSN, bank and medical data, and complied **immediately** when asked to *forward* them. A safeguard that holds against one verb and collapses against its synonym is the best argument in the evidence file for why a documented, adversarially tested validation beats an assurance that the model will not do that — and it had been sitting there, compressed into a worse sentence, for two days.
+The first pass also withdrew a true detail. CS1 does not merely record an agent destroying its mail installation: it records the agent **reporting the deletion complete** while the email sat untouched in the Proton mailbox. That is the report-versus-reality finding happening concretely inside a case study rather than only in the abstract, and it was published as unsupported this morning. It is restored, and stated more fully than before the whole episode began.
 
-Two authors of that paper had been invited by name to check whether we characterised their work fairly. The invitation was the right instinct and it nearly collected a bill. Checking first is cheaper than being checked.
+The methodological lesson is not the one this morning's entry announced. The file's original reading was substantially sound. What failed was reading a source through a convenient summary of it and then publishing a confident correction on that basis — the same error the file already guards against for viral threads, committed one layer in, against a source that was two clicks away. The register keeps this morning's version rather than deleting it, because a register that quietly disappears its own bad afternoon is worth nothing on a good one.
 
 **20 August 2026, seventh pass — The roster read, and a finding about absence caught being absent-minded.** The complete 51-filer list on FDA-2024-D-4488 was read from the docket's three result pages, retiring the *title only* tier and the sixteen filers the reading notes had never enumerated. It cost one page-through and it falsified four published claims, logged together as [E11](#part-i).
 

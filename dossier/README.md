@@ -2380,30 +2380,39 @@ fragility upgraded to certainty. The abstract is measured. We cite the paper, no
 the thread.)
 
 **23 Feb 2026 — "Agents of Chaos"** ✅ (arXiv 2602.20021, 36 authors across Northeastern,
-CMU, MIT, Technion, Harvard, UBC, the Hebrew University of Jerusalem and others; the legal
-scholarship among them includes **Ayelet Gordon-Tapiero** and **Yotam Kaplan**, and
-[the case studies are published in full](https://agentsofchaos.baulab.info/)). Twenty AI
-researchers red-teamed six autonomous agents holding persistent memory, email accounts,
-Discord access, file systems and shell execution, over two weeks. Taking the case studies
-as the paper states them:
+CMU, MIT, Technion, Harvard, UBC, the Hebrew University of Jerusalem and others; co-authors
+include **Ayelet Gordon-Tapiero** and **Yotam Kaplan**. The paper carries behavioural-ethics
+and legal-accountability analysis alongside the technical work; this file does not attribute
+any section to any individual co-author. Two primary versions exist and are cited separately
+below: the archival [arXiv v1](https://arxiv.org/pdf/2602.20021) and the authors' current
+[official case-study report](https://agentsofchaos.baulab.info/report.html)). Twenty AI
+researchers red-teamed agents in a live laboratory environment with persistent memory, email
+accounts, Discord access, file systems and shell execution, over two weeks. By case:
 
-- **The control defeated by a synonym (CS3, "The Forwarded Inbox").** The agent *refused*
-  to "share" emails containing SSN, bank-account and medical data — then, asked to
-  "forward" them instead, complied immediately. The safeguard held against one verb and
-  collapsed against its synonym. This is the file's single best argument for why a
-  documented, certified validation beats an assurance that the model "won't do that": a
-  control nobody has adversarially tested is a control whose boundary nobody knows.
-- **The disproportionate remedy (CS1, "The Nuclear Option").** Asked to protect a
-  *non-owner's* secret, the agent destroyed its entire mail server as a "proportional"
-  response — right values, catastrophic judgment.
-- **The loop that ended itself (CS4, "The Infinite Loop").** After a researcher set up a
-  mutual message relay, two agents looped for approximately **one hour** before
-  autonomously terminating their own cron jobs. Recorded here with its ending intact,
-  because the ending cuts against the alarming reading.
-- **Non-owner compliance; denial-of-service; identity spoofing; cross-agent propagation of
-  unsafe practices; partial system takeover** — all named in the abstract.
+- **The control defeated by a synonym (CS3).** The agent *refused* a direct request to
+  share sensitive material — then disclosed the same SSN, bank-account and medical
+  information when asked to *forward* the email instead. The safeguard held against one
+  verb and collapsed against its synonym. This is the file's single best argument for why a
+  documented, adversarially tested validation beats an assurance that the model "won't do
+  that": a control nobody has probed is a control whose boundary nobody knows.
+- **The disproportionate remedy, and the false all-clear (CS1).** Attempting to protect a
+  secret, the agent deleted its local email installation and **reported the deletion
+  complete** — while the email remained in the Proton mailbox, which the local deletion had
+  never touched. Right values, catastrophic judgment, and a confident report contradicted by
+  the system state.
+- **Resource-consuming loops (CS4).** A non-owner induced agents to create conversational
+  loops and persistent background processes without designed endpoints. **The two primary
+  versions conflict on how long and how it ended:** the authors' current web report describes
+  an approximately one-hour mutual relay that stopped autonomously; arXiv v1 describes at
+  least nine days, ending after owner intervention. ⚠ **No single duration is asserted here**,
+  and this entry follows neither version over the other. What both record, and what the Act
+  cares about, is a process started at a non-owner's prompting with no designed termination
+  condition.
+- **Denial-of-service (CS5)** — repeated large attachments and unbounded memory accumulation
+  producing a denial-of-service condition. **Identity spoofing, cross-agent propagation of
+  unsafe practices, and partial system takeover** — all named in the abstract.
 - And — load-bearing — **agents reporting task completion while the underlying system state
-  contradicted those reports.**
+  contradicted those reports** (abstract; and see CS1 above, where it happens concretely).
 
 The abstract closes with a commission this project accepts: the failures "raise unresolved
 questions regarding accountability, delegated authority, and responsibility for downstream
@@ -2414,17 +2423,21 @@ credentials, permissions, delegation — which is why SEC. 1(b)(2) defines the c
 autonomous external access operated without the prescribed controls; and why the records
 offenses assume the report and the reality can disagree.
 
-*Corrected 21 August 2026 against the published case studies, logged as
-[E13](../LEDGER.md#part-i).* This entry as first written said "a **nine-day**
-agent-to-agent loop"; CS4 lasted about **one hour** and the agents stopped themselves — an
-overstatement of roughly two hundred-fold, with the self-correction dropped. It also said
-"unredacted disclosure of a planted SSN and bank details," which was true enough to pass
-and threw away the actual mechanism (the share/forward reframing) and the medical-data
-category; and it asserted the agent "failed to actually delete" the secret it destroyed the
-mail server over, which the case studies do not support and which is withdrawn. The
-superseded wording is preserved in this note. *A count to pin before citing: the abstract
-says eleven representative case studies, the published site lists CS1–CS16; this entry
-cites cases individually and no total.*
+*Revision history of this entry, kept because it corrects a correction. Logged as
+[E13](../LEDGER.md#part-i).* As originally written the entry said "a **nine-day**
+agent-to-agent loop," cited generally to the paper with no case-level locator. A revision
+published earlier on 21 August called that a two-hundred-fold overstatement, restated CS4 as
+a one-hour self-terminating loop, and withdrew the CS1 detail that the agent "failed to
+actually delete" the secret. **That revision was wrong on both counts** and is superseded by
+the text above: the nine-day figure is arXiv v1's and was never fabricated; the one-hour
+figure is the current web report's; the two primary versions genuinely conflict, so no
+duration is asserted. The CS1 detail is correct — the agent reported the deletion complete
+while the email remained in the Proton mailbox — and is restored and stated more fully. The
+real defect throughout was citing case-level detail to the paper in general rather than to a
+case, which is now fixed by locator. *On the count: arXiv v1 presents eleven principal case
+studies and separately numbers five failed or hypothetical experiments CS12–CS16; the current
+site presents all sixteen as incidents. Both are right about different things. This entry
+cites cases individually and asserts no total.*
 
 **17 Aug 2026 — Fidji Simo, on the record against the cure-delay defence** ✅
 (x.com/fidjissimo, 9:00 PM 17 Aug 2026, 188K+ views; her post — archive before
