@@ -175,7 +175,7 @@ archive, or a machine-readable file.
 | [`dossier/README.md`](./dossier/README.md) | The evidence file, seven chapters, every fact pinned ✅/⚠ |
 | [`audit/record.md`](./audit/record.md) | The frozen drafting record: how v3.2 became v3.3, the hostile brief, and the v3.4 cure record — beside it, the [sealed v3.4 queue](./audit/v3_4_cure_language.md) and the [open v3.5 queue](./audit/v3_5_cure_language.md) |
 
-On this page: [For the review council](#for-the-review-council) · [Questions this project is asked](#questions) · [The case](#the-case) ·
+On this page: [Start here](#start-here) · [Overview](#overview) · [For the review council](#for-the-review-council) · [Questions this project is asked](#questions) · [The case](#the-case) ·
 [Provenance and method](#provenance-and-method) · [Citation](#citation) ·
 [Contact and contributions](#contact-and-contributions) ·
 [File status and history](#file-status-and-history)
