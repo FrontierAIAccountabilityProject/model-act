@@ -28,6 +28,9 @@ downward readily. These files are the checking.*
   Twenty-eight years for a false certificate and twelve months for twenty-nine deaths with no
   document; Form FDA 1572; Sarbanes-Oxley; and the surgical checklist item that the surgeons
   resented and the nurses were grateful for.
+- [`why_the_disparity.md`](./why_the_disparity.md) — **twelve explanations for the gap**, drawn
+  from across the political spectrum and argued in their strongest form. Several are exculpatory,
+  several are incompatible, and each is followed to the remedy it implies.
 - [`the_same_conduct.md`](./the_same_conduct.md) — **a gallery of American computer-crime
   prosecutions**: five people, no physical injury, mostly no proven loss, announced exposure from
   ten to four hundred and forty years. Set beside conduct in 2026 that was broader on every axis

@@ -208,49 +208,51 @@ is the checking, and it is designed to be capable of failing.*
 
 **13 · [The frontier bill census](./standards/frontier_bill_census.md)** — Every frontier AI bill in America, read one at a time, with a confidence grade on every row and a tally that never exceeds the rows read.
 
-**14 · [The same conduct, prosecuted](./standards/the_same_conduct.md)** — Five people prosecuted for computer access, no physical injury, announced exposure from ten years to four hundred and forty. Beside them, conduct in 2026 that was broader on every axis and charged to nobody.
+**14 · [Why the disparity exists](./standards/why_the_disparity.md)** — Twelve explanations for why American law reaches an individual with four hundred and forty years of announced exposure and a frontier officer with nothing. Drawn from across the political spectrum, argued in their strongest form, several of them exculpatory — and each followed to the remedy it implies.
 
-**15 · [Why a signature works](./standards/why_a_signature_works.md)** — Twenty-eight years for a false certificate; twelve months for twenty-nine deaths and no document. Form FDA 1572, Sarbanes-Oxley, and the one item on the surgical checklist that the surgeons resented and the nurses welcomed.
+**15 · [The same conduct, prosecuted](./standards/the_same_conduct.md)** — Five people prosecuted for computer access, no physical injury, announced exposure from ten years to four hundred and forty. Beside them, conduct in 2026 that was broader on every axis and charged to nobody.
 
-**16 · [Already a crime, if you are a person](./standards/already_a_crime_for_you.md)** — All five offences this Act creates are already crimes for ordinary people, most with heavier maxima and one with no intent requirement at all.
+**16 · [Why a signature works](./standards/why_a_signature_works.md)** — Twenty-eight years for a false certificate; twelve months for twenty-nine deaths and no document. Form FDA 1572, Sarbanes-Oxley, and the one item on the surgical checklist that the surgeons resented and the nurses welcomed.
 
-**17 · [Does the frontier touch medicine?](./filings/frontier_ai_in_medicine.md)** — FDA has opened a generative-AI docket and says it "will explore methods to identify and tag" devices built on foundation models — meaning the regulator cannot yet count them. Meanwhile one in five American adults takes medical advice from a frontier model outside the system entirely.
+**17 · [Already a crime, if you are a person](./standards/already_a_crime_for_you.md)** — All five offences this Act creates are already crimes for ordinary people, most with heavier maxima and one with no intent requirement at all.
 
-**18 · [Who actually files](./filings/who_actually_files.md)** — Three hundred and forty million people; fifty-one comments; twenty-one from industry.
+**18 · [Does the frontier touch medicine?](./filings/frontier_ai_in_medicine.md)** — FDA has opened a generative-AI docket and says it "will explore methods to identify and tag" devices built on foundation models — meaning the regulator cannot yet count them. Meanwhile one in five American adults takes medical advice from a frontier model outside the system entirely.
 
-**19 · [The commentary sweep](./standards/commentary_sweep.md)** — One dedicated gap analysis enumerated twenty-six deficiencies; personal accountability was not among them.
+**19 · [Who actually files](./filings/who_actually_files.md)** — Three hundred and forty million people; fifty-one comments; twenty-one from industry.
 
-**20 · [FDA docket reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md)** — Every filer named, the substance of 22 of the 51 read, and the element none of those 22 names.
+**20 · [The commentary sweep](./standards/commentary_sweep.md)** — One dedicated gap analysis enumerated twenty-six deficiencies; personal accountability was not among them.
 
-**21 · [Comparative officer liability](./standards/comparative_officer_liability.md)** — s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA, and the claims cut for want of a source.
+**21 · [FDA docket reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md)** — Every filer named, the substance of 22 of the 51 read, and the element none of those 22 names.
 
-**22 · [Frontier self-reporting](./standards/frontier_self_reporting_note.md)** — What the laboratories already publish, what is technically inside those documents, and where an attestation would sit if anyone required one.
+**22 · [Comparative officer liability](./standards/comparative_officer_liability.md)** — s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA, and the claims cut for want of a source.
 
-**23 · [The dossier](./dossier/README.md)** — The evidence file, seven chapters, every fact graded and every grade explained.
+**23 · [Frontier self-reporting](./standards/frontier_self_reporting_note.md)** — What the laboratories already publish, what is technically inside those documents, and where an attestation would sit if anyone required one.
+
+**24 · [The dossier](./dossier/README.md)** — The evidence file, seven chapters, every fact graded and every grade explained.
 
 
 ### V · Reference
 
-**24 · [The adopted texts](./standards/interim_standards.md)** — The enacted standards SEC. 3(c)(4) freezes, pinned verbatim, and why Connecticut is not among them.
+**25 · [The adopted texts](./standards/interim_standards.md)** — The enacted standards SEC. 3(c)(4) freezes, pinned verbatim, and why Connecticut is not among them.
 
-**25 · [Table of authorities](./standards/table_of_authorities.md)** — Every authority cited, with the proposition it is cited for.
+**26 · [Table of authorities](./standards/table_of_authorities.md)** — Every authority cited, with the proposition it is cited for.
 
-**26 · [What these words mean](./standards/what_these_words_mean.md)** — A glossary for people who have to legislate about this. What a model, an algorithm, an agent and a frontier model literally are; what each can actually do; how each is sold. Plus mens rea, and why a model cannot have one.
+**27 · [What these words mean](./standards/what_these_words_mean.md)** — A glossary for people who have to legislate about this. What a model, an algorithm, an agent and a frontier model literally are; what each can actually do; how each is sold. Plus mens rea, and why a model cannot have one.
 
-**27 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
+**28 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
 
-**28 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
+**29 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
 
 
 ### VI · The record of accountability
 
-**29 · [The ledger](./ledger/README.md)** — Append-only, in three parts: **[the errata register](./ledger/errata.md)** — every published claim this project got wrong, with the fix; **[the changelog](./ledger/changelog.md)** — what changed in the statute and when, with hashes; **[the diary](./ledger/diary.md)** — the working account, day by day. For a project with no institution behind it, the register of its own mistakes is the only credential available, and it is offered as one.
+**30 · [The ledger](./ledger/README.md)** — Append-only, in three parts: **[the errata register](./ledger/errata.md)** — every published claim this project got wrong, with the fix; **[the changelog](./ledger/changelog.md)** — what changed in the statute and when, with hashes; **[the diary](./ledger/diary.md)** — the working account, day by day. For a project with no institution behind it, the register of its own mistakes is the only credential available, and it is offered as one.
 
-**30 · [The standing watch](./audit/standing_watch_2026-08-20.md)** — The periodic re-sweep of live bills, litigation and federal vehicles — with what each sweep found and, at § 7(5), what it missed.
+**31 · [The standing watch](./audit/standing_watch_2026-08-20.md)** — The periodic re-sweep of live bills, litigation and federal vehicles — with what each sweep found and, at § 7(5), what it missed.
 
-**31 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
+**32 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
 
-**32 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
+**33 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
 
 ## For sponsors and staff
 
