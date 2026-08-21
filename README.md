@@ -62,6 +62,32 @@ entity liability or the base offense into the enhanced tier.
 
 **On this page** — [Overview](#overview) · [Status](#status) · [Structure](#repository-structure) · [Contents](#contents) · [For sponsors](#for-sponsors-and-staff) · [For reviewers](#for-the-review-council) · [Recent](#recent) · [Provenance](#provenance-and-method)
 
+
+---
+
+### Can a model act?
+
+**No. A person does.**
+
+*This project is called a Model Act, and the joke is the argument. A **model** is a fitted object —
+a large set of numbers that turns an input into an output. It does not act, decide, want, or answer
+for anything. Somebody trains it. Somebody releases it. Somebody decides it is ready. **Those are
+acts, and acts have actors.***
+
+**Four facts a reader should have before anything else here:**
+
+- **"Frontier" means expensive, not unmapped.** Every enacted statute defines it by compute — above
+  10²⁶ operations, or over \$100,000,000 of it in the pending federal bill. It is a **priced tier**,
+  which is why the covered class is a double-digit number of firms rather than an industry.
+- **A model has no guilty mind, and cannot be given one.** Which is why the duty has to attach to a
+  person — not because machines are innocent, but because the concept does not apply to them.
+- **Every offence this Act creates is already a crime for ordinary people**, most with heavier
+  maximum penalties, one with no intent requirement at all.
+- **Enacted frontier law requires exactly one human signature, and it belongs to the auditor.**
+
+*The words above are set out in [what these words mean](./standards/what_these_words_mean.md); the
+receipts are in [why a signature works](./standards/why_a_signature_works.md).*
+
 ## Overview
 
 The one instrument with an eighty-year record of changing executive behaviour —

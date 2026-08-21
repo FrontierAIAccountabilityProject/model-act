@@ -46,6 +46,9 @@ downward readily. These files are the checking.*
 - [`for_legislators.md`](./for_legislators.md) — for sponsors and their staff: the verified
   absences, what the laboratories' own governance documents say, the comparative answer with
   primary text, and your own state's analogue.
+- [`what_these_words_mean.md`](./what_these_words_mean.md) — **a legislator's glossary.** What a
+  model, an algorithm, an agent and a frontier model literally are; what they can actually do; how
+  they are sold. Plus mens rea, and why a model cannot have one.
 - [`house_language.md`](./house_language.md) — the drafting rule. How this project describes
   frontier AI and the people who ship it; why *frontier* names a priced tier rather than a
   wilderness; and what happened on the other frontiers — steamboats, patent medicine, aviation,
