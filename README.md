@@ -50,8 +50,6 @@ liability into entity liability or the base offense into the enhanced tier.
    does not discharge personal liability; personal liability cannot be moved back onto
    the corporate balance sheet.
 
-   Delete the temporary “Working on today” notice and the existing “Invited to review?” line. Paste this immediately after the `## Overview` paragraph:
-
 ## Start here
 
 **Just reading?** [In one paragraph](#in-one-paragraph) is the two-minute version. The authoritative statutory text is [`model_act_v3_4.txt`](./model_act_v3_4.txt).
