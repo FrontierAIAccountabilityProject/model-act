@@ -1597,8 +1597,6 @@ version and the date; the main branch moves frequently.
 Cite it as what it is — model legislation, a research draft — never as enacted law; the
 companion's first note says the same, first.
 
-Replace everything from `<a id="contact-and-contributions"></a>` down to just before `<a id="file-status-and-history"></a>` with this:
-
 <a id="contact-and-contributions"></a>
 
 ## Contact and contributions
