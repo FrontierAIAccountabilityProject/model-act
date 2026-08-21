@@ -40,6 +40,8 @@ liability into entity liability or the base offense into the enhanced tier.
    does not discharge personal liability; personal liability cannot be moved back onto
    the corporate balance sheet.
 
+This is not veil piercing or automatic liability by title: entity and individual liability run in separate lanes, and the prosecution must prove the natural person’s practical power and failure of due care.
+
 ## Overview
 
 The one instrument with an eighty-year record of changing executive behaviour —
