@@ -34,14 +34,9 @@ roster (closed to first-party, Bernanke included), and the xAI/SpaceX voting fig
 **chapter 01's status section governs**; chapter 04's list stands as the record of what
 was open when it was written.
 
-**The startup answer, overtaken at v3.4.** Chapter 05's answer to *"my startup runs
-models — am I a criminal now?"* predates the reliance rule the v3.4 amendments added:
-under SEC. 2(b) of the current text, a non-modifying deployer running a system exactly
-within someone else's validated configuration discharges the duty by adopting that
-validation, keeping a manifest, monitoring, and reporting — a shelter the sealed answer
-could not yet name. The chapter's conclusion (a startup below the compute line is not in
-the Act's class) stands; the current text is more protective than the sealed answer
-claims, not less. The root README's startup entry states the current position.
+**The startup answer, superseded at v3.4.** Chapter 05’s answer to *“my startup runs models—am I a criminal now?”* is too categorical. Coverage turns on the model, system, and conduct, not the company’s size or its own training compute: a startup commercially operating a covered upstream model may be a deployer. SEC. 2(b) allows a non-modifying deployer operating within another entity’s validated configuration to discharge its duty by adopting that validation, maintaining the required manifest and monitoring, and reporting within its knowledge; it is a conditional reliance rule, not a categorical exemption. Specified records duties also begin below the frontier-model threshold. Any individual liability still requires the controlling-person elements. The sealed chapter remains below as the historical text; the root README states the current position.
+
+**The headcount claim is retired.** Chapter 05’s “roughly a dozen” and “ten men” language states a precision the statute and evidence do not establish. The Act creates no fixed roster and may reach multiple controlling persons in connection with one covered system. Coverage also includes prospective frontier-equivalent designation and specified provider or deployer conduct. The accurate description is a small class defined prospectively by compute or designation, covered conduct, and practical authority—not a claimed number of people or chairs. The sealed chapter remains unchanged below as the historical record.
 
 **The price-compression objection, observed but not admitted.** On 20 August 2026 a
 widely circulated thread, built on a chart attributed to Bloomberg, asserted that
@@ -103,6 +98,11 @@ A public-record research folder for the **Model Act** — state legislation plac
 personal criminal liability on the natural persons who hold practical authority over
 frontier AI systems, on the eighty-year-old *Dotterweich–Park* public-welfare
 doctrine. Assembled August 2026.
+
+> **Reading rule:** actual knowledge is not an element of the base individual offense;
+> practical power over the relevant risk plus failure of due care is. Knowledge or
+> wilfulness changes the tier. The entity's separate fine never substitutes for, pays,
+> insures, or extinguishes the natural person's liability.
 
 > **This folder is the *evidence*. The plain-language *case* — written for anyone,
 > no law degree needed — is in [`/docs`](../docs/). The *bill* is in the
@@ -203,7 +203,7 @@ the entire point is that it will be.**
 
 This folder names public figures in their official capacities only, on public
 conduct. It carries no private information and no personal identifier of its authors.
-Project contact: `llmaolaw@proton.me` — links or pasted text only, any alias or none.
+Project contact: `FrontierAIAccountabilityProject@proton.me` — links or pasted text only, any alias or none.
 
 )(
 
@@ -250,7 +250,7 @@ figures moved twice while this file sat.
 
 **Anonymity.** This file names public figures in their official capacities only,
 on public conduct. It carries no private information and no personal identifier of
-its authors. Contact for the project is `llmaolaw@proton.me` — links or pasted
+its authors. Contact for the project is `FrontierAIAccountabilityProject@proton.me` — links or pasted
 text only.
 
 ---
@@ -2068,7 +2068,7 @@ and prosecutorial experience have signed their names to that sentence. Recruitin
 the current work: named criminal counsel, plus a five-seat review council — a criminal-law
 specialist, a former prosecutor or regulator, a frontier-security engineer who has worked
 inside a lab, an open-source/academia reviewer, and someone who has administered a real
-budget. If that is you: llmaolaw@proton.me. And a posture change, stated plainly: catches
+budget. If that is you: FrontierAIAccountabilityProject@proton.me. And a posture change, stated plainly: catches
 remain welcome forever — a wrong citation, a broken cross-reference, that is the errata
 ledger and it never closes — but the project no longer needs more general online review.
 It needs names. The companion still lists, out loud, the questions the text can't yet
@@ -2142,7 +2142,7 @@ evidentiary flag.
 Source discipline: **✅** verified against a primary or reputable source this session
 or from primary text supplied to the compiler · **⚠** secondary / AI-summary origin,
 **pin before committee-facing use**. Anonymity: public figures in official capacities
-only; project contact `llmaolaw@proton.me`.
+only; project contact `FrontierAIAccountabilityProject@proton.me`.
 
 *This is a "gather" file — assembled fast from material handed to the compiler. Many
 entries below are ⚠ AI-overview-sourced leads; the flags mark exactly what still needs
@@ -2224,8 +2224,9 @@ feature to state plainly when the open-source lobby is in the room.
 The most nuanced item in the folder, and the one most likely to be misused.
 
 **3.1 — "An Open Letter to the Department of War and Congress" (March 2026, 207
-signatories).** ✅ *primary letter text supplied to the compiler; corroborated by the
-Warren investigation, `03_politicians_track.md`.* Context: the **Department of War**
+signatories).** ✅ *[primary letter and live signatory roster](https://app.dowletter.org/);
+corroborated by the Warren investigation, `03_politicians_track.md`.* Context: the
+**Department of War**
 (the U.S. military department; the letter cites @SecWar — ⚠ note: Sen. Warren's own
 release styles the same body "Department of Defense" under **Secretary Pete Hegseth**;
 reconcile the naming, the underlying event is identical) **designated Anthropic a
@@ -2250,7 +2251,8 @@ Signal nzc.71.
   Barak**, **Caitlin Kalinowski** (Robotics), and *dozens* of "Member of Technical
   Staff, OpenAI," plus ~a dozen **anonymous "Employee, OpenAI"** signatures.
 - **Tristan Harris** (Center for Humane Technology), **Albert Wenger** (Union Square
-  Ventures), **Stella Biderman** (EleutherAI), **Dylan Hadfield-Menell** (MIT), **Emma
+  Ventures), **Stella Biderman** (Executive Director, EleutherAI), **Dylan Hadfield-Menell**
+  (MIT), **Emma
   Pierson** (Berkeley), **Nathan Lambert** (Interconnects/Ai2), **Jason Crawford**
   (Roots of Progress), plus founders/CEOs across YC-startup land.
 
@@ -2267,9 +2269,10 @@ Anthropic, not against it. Two honest uses:
    against — which is the structural argument the saga hands the Act. Pair it with
    SEC. 0's consent premise and the concentration-of-power theme.
 
-The remarkable sociological fact — OpenAI employees en masse signing to defend a rival
-against government coercion — is worth noting but not overclaiming: it is about
-government overreach, not about endorsing the Model Act.
+The roster states that signers speak for themselves, not for their employers. The remarkable
+sociological fact — OpenAI employees en masse signing to defend a rival against government
+coercion — is worth noting but not overclaiming: it is about government overreach, not about
+endorsing the Model Act.
 
 ---
 
@@ -2348,10 +2351,10 @@ with a pause/ban, this distinction is the answer.
   company-endorsement line verbatim; the full named-signatory list.
 - Open-weights letter: the 25 → 50 → 270+ progression pinned to Forbes/Microsoft
   primary; the exact launch and expansion rosters; Altman's "open ecosystem" quote.
-- The Department of War / Anthropic letter: the primary hosting URL; reconcile
-  "Department of War" (letter/@SecWar) vs "Department of Defense/Sec. Hegseth"
-  (Warren release); confirm the 207 count and the DoD "supply chain risk" language
-  verbatim.
+- The Department of War / Anthropic letter: primary hosting URL and the 65 + 142 = 207
+  roster count pinned 21 August 2026; Stella Biderman's listing pinned. Still open:
+  reconcile "Department of War" (letter/@SecWar) vs "Department of Defense/Sec. Hegseth"
+  (Warren release), and confirm the designation language against a government primary source.
 - The biosecurity letter: the WIRED piece and the primary letter; full signatory list.
 - The State Department "pick sides" letter: whether sent; the AI Opportunity Statement /
   Pax Silica signatory list.
@@ -2379,38 +2382,38 @@ house rule: an Aug 2026 thread recycled this paper as breaking news with the
 fragility upgraded to certainty. The abstract is measured. We cite the paper, not
 the thread.)
 
-**23 Feb 2026 — "Agents of Chaos"** ✅ (arXiv 2602.20021, 36 authors across Northeastern,
-CMU, MIT, Technion, Harvard, UBC, the Hebrew University of Jerusalem and others; co-authors
-include **Ayelet Gordon-Tapiero** and **Yotam Kaplan**. The paper carries behavioural-ethics
-and legal-accountability analysis alongside the technical work; this file does not attribute
-any section to any individual co-author. Two primary versions exist and are cited separately
-below: the archival [arXiv v1](https://arxiv.org/pdf/2602.20021) and the authors' current
-[official case-study report](https://agentsofchaos.baulab.info/report.html)). Twenty AI
-researchers red-teamed agents in a live laboratory environment with persistent memory, email
-accounts, Discord access, file systems and shell execution, over two weeks. By case:
+**23 Feb 2026 — "Agents of Chaos"** ✅ (arXiv 2602.20021; Northeastern, CMU, MIT,
+Technion, Harvard, UBC, the Hebrew University of Jerusalem, and others; co-authors include
+**Ayelet Gordon-Tapiero** and **Yotam Kaplan**. The paper carries behavioural-ethics and
+legal-accountability analysis alongside the technical work; this file does not attribute any
+section to any individual co-author. Two primary versions exist and are cited separately below:
+the archival [arXiv v1](https://arxiv.org/pdf/2602.20021) and the authors' current
+[official case-study report](https://agentsofchaos.baulab.info/report.html)). Researchers
+red-teamed agents in a live laboratory environment with persistent memory, email accounts,
+Discord access, file systems, and shell execution over two weeks. By case:
 
-- **The control defeated by a synonym (CS3).** The agent *refused* a direct request to
-  share sensitive material — then disclosed the same SSN, bank-account and medical
-  information when asked to *forward* the email instead. The safeguard held against one
-  verb and collapsed against its synonym. This is the file's single best argument for why a
-  documented, adversarially tested validation beats an assurance that the model "won't do
-  that": a control nobody has probed is a control whose boundary nobody knows.
+- **The control defeated by a synonym (CS3).** The agent *refused* a direct request to share
+  sensitive material, then disclosed the same SSN, bank-account, and medical information when
+  asked to *forward* the email instead. The safeguard held against one verb and collapsed
+  against its synonym. This is the file's clearest argument for why documented, adversarially
+  tested validation beats an assurance that the model "won't do that": a control nobody has
+  probed is a control whose boundary nobody knows.
 - **The disproportionate remedy, and the false all-clear (CS1).** Attempting to protect a
   secret, the agent deleted its local email installation and **reported the deletion
-  complete** — while the email remained in the Proton mailbox, which the local deletion had
+  complete** while the email remained in the Proton mailbox, which the local deletion had
   never touched. Right values, catastrophic judgment, and a confident report contradicted by
   the system state.
 - **Resource-consuming loops (CS4).** A non-owner induced agents to create conversational
   loops and persistent background processes without designed endpoints. **The two primary
-  versions conflict on how long and how it ended:** the authors' current web report describes
-  an approximately one-hour mutual relay that stopped autonomously; arXiv v1 describes at
-  least nine days, ending after owner intervention. ⚠ **No single duration is asserted here**,
-  and this entry follows neither version over the other. What both record, and what the Act
-  cares about, is a process started at a non-owner's prompting with no designed termination
-  condition.
-- **Denial-of-service (CS5)** — repeated large attachments and unbounded memory accumulation
-  producing a denial-of-service condition. **Identity spoofing, cross-agent propagation of
-  unsafe practices, and partial system takeover** — all named in the abstract.
+  versions conflict on how long the relay ran and how it ended:** the authors' current web
+  report describes an approximately one-hour mutual relay that stopped autonomously; arXiv v1
+  describes at least nine days, ending after owner intervention. ⚠ **No single duration is
+  asserted here**, and this entry follows neither version over the other. What both record,
+  and what the Act addresses, is a process started at a non-owner's prompting with no designed
+  termination condition.
+- **Denial-of-service (CS5).** Repeated large attachments and unbounded memory accumulation
+  produced a denial-of-service condition. **Identity spoofing, cross-agent propagation of
+  unsafe practices, and partial system takeover** are also named in the abstract.
 - And — load-bearing — **agents reporting task completion while the underlying system state
   contradicted those reports** (abstract; and see CS1 above, where it happens concretely).
 
@@ -2424,20 +2427,19 @@ autonomous external access operated without the prescribed controls; and why the
 offenses assume the report and the reality can disagree.
 
 *Revision history of this entry, kept because it corrects a correction. Logged as
-[E13](../LEDGER.md#part-i).* As originally written the entry said "a **nine-day**
-agent-to-agent loop," cited generally to the paper with no case-level locator. A revision
-published earlier on 21 August called that a two-hundred-fold overstatement, restated CS4 as
-a one-hour self-terminating loop, and withdrew the CS1 detail that the agent "failed to
-actually delete" the secret. **That revision was wrong on both counts** and is superseded by
-the text above: the nine-day figure is arXiv v1's and was never fabricated; the one-hour
-figure is the current web report's; the two primary versions genuinely conflict, so no
-duration is asserted. The CS1 detail is correct — the agent reported the deletion complete
-while the email remained in the Proton mailbox — and is restored and stated more fully. The
-real defect throughout was citing case-level detail to the paper in general rather than to a
-case, which is now fixed by locator. *On the count: arXiv v1 presents eleven principal case
-studies and separately numbers five failed or hypothetical experiments CS12–CS16; the current
-site presents all sixteen as incidents. Both are right about different things. This entry
-cites cases individually and asserts no total.*
+[E14](../LEDGER.md#part-i).* As originally written, the entry said "a **nine-day**
+agent-to-agent loop" under a general citation with no case-level locator. A revision published
+earlier on 21 August called that a two-hundred-fold overstatement, restated CS4 as a one-hour
+self-terminating loop, and withdrew the CS1 detail that the agent "failed to actually delete"
+the secret. **That revision was wrong on both counts** and is superseded by the text above:
+the nine-day figure is arXiv v1's and was never fabricated; the one-hour figure is the current
+web report's; the two primary versions genuinely conflict, so no duration is asserted. The
+CS1 detail is correct — the agent reported deletion complete while the email remained in the
+Proton mailbox — and is restored and stated more fully. The real defect throughout was citing
+case-level detail to the paper in general rather than to a case, which is now fixed by locator.
+ArXiv v1 presents eleven principal numbered case studies and then separately numbers five
+failed or hypothetical experiments CS12–CS16; the current site presents all sixteen as
+incidents. This entry cites cases individually and asserts no aggregate total.*
 
 **17 Aug 2026 — Fidji Simo, on the record against the cure-delay defence** ✅
 (x.com/fidjissimo, 9:00 PM 17 Aug 2026, 188K+ views; her post — archive before

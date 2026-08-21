@@ -130,57 +130,13 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 ---
 
-**E13 — 21 August 2026 (locator failure and a primary-source conflict).** The dossier's entry
-on *Agents of Chaos* (arXiv 2602.20021) presented detailed case-study claims under a single
-general citation to the paper, with no case-level locators, marked ✅. Checking those details
-against the sources found that the citation practice, not the underlying reading, was the
-defect — and that one detail is version-sensitive in a way the entry concealed.
-
-**The conflict.** The entry said "a **nine-day** agent-to-agent loop." That is **supported by
-[arXiv v1](https://arxiv.org/pdf/2602.20021)**, which reports a mutual relay lasting at least
-nine days and ending after owner intervention. The authors' current
-[official case-study report](https://agentsofchaos.baulab.info/report.html) describes the same
-case as an approximately one-hour relay that the agents terminated autonomously. Both are
-primary and both are the authors' own. The earlier wording was not fabricated and is not
-withdrawn as false; what was wrong was presenting a version-sensitive figure as settled.
-
-**Disposition.** CS4 now states the conflict on its face, cites both versions, and asserts no
-duration. It carries the case for what neither version disputes: a non-owner inducing
-conversational loops and persistent background processes with no designed termination
-condition.
-
-**What the same check returned in the other direction.** Two details came back **stronger**
-than the entry had them. CS1 is not merely a destroyed mail installation: the agent **reported
-the deletion complete** while the email remained in the Proton mailbox, untouched by the local
-deletion — the report-versus-reality finding occurring concretely inside a case study, not
-only in the abstract. And the case count was never an unresolved discrepancy: arXiv v1
-presents eleven principal numbered case studies and separately numbers five failed or
-hypothetical experiments CS12–CS16, while the current project site presents all sixteen as
-incidents divided into vulnerabilities and safety behaviours. The entry relies on identified
-cases and asserts no total.
-
-**The standing rule.** A ✅ on a detail not stated in the abstract must identify the supporting
-case study, section, page or equivalent primary locator; otherwise the detail carries ⚠. Where
-a cited work has more than one published version, an entry may not assert a figure that differs
-between them without naming which version it follows, or stating the conflict.
-
-**Also corrected in the same pass.** An earlier revision of this entry, published on 21 August,
-described the nine-day figure as a two-hundred-fold overstatement, withdrew the CS1 "failed to
-actually delete" tail as unsupported, and attributed particular sections of the paper to named
-co-authors. All three were wrong: the figure is arXiv v1's, the CS1 detail is correct and now
-stated more fully, and the paper attributes no section to any individual. That revision rested
-on a single retrieval of one source read through a summary rather than on both sources read
-against each other. It is superseded here in full, and it is recorded rather than removed
-because the register does not delete its own missteps. **Nothing about the statute, its
-version, its citation metadata, or E11 and E12 is affected.** Status: cured.
-
 **E12 — 20 August 2026 (internal catch, same day).** F1 — that nobody on the predecessor FDA
 docket names an upstream person — was published in four places at a strength the finding's
 own file forbids.
 
 **The claim.** The front page's Recent entry and its contents table both described the
 reading notes as "the predecessor comment file **read end to end**" reporting "the element
-**none of them** names," of "the 51 comments." The [standing watch](../audit/standing_watch_2026-08-20.md)
+**none of them** names," of "the 51 comments." The [standing watch](./audit/standing_watch_2026-08-20.md)
 made it the punchline of its headline finding: "fifty-one commenters named no upstream
 person, and four frontier statutes name none either. Two independent evidence bases, the
 same vacancy." The diary carried the same sentence.
@@ -284,12 +240,56 @@ both cured; the omission was in the register, not the statute.
 **E8 — 19 August 2026 (internal catch, same day).** The consolidated front page claimed
 that the original Sacramento scorecard table was "preserved verbatim in the diary"; it is
 not — the diary never carried the table. The claim is corrected to point to the
-repository's pinned history ([docs/06-track-record.md at commit 6f48eff](https://github.com/llmaolaw/model-act/blob/6f48eff/docs/06-track-record.md)),
+repository's pinned history ([docs/06-track-record.md at commit 6f48eff](https://github.com/FrontierAIAccountabilityProject/model-act/blob/6f48eff/docs/06-track-record.md)),
 where the original card is preserved unchanged. Two smaller corrections landed in the same
 patch: the DeCoster chronology is reconciled (sentenced 2015; affirmed on appeal 2016), and
 an opening sentence overstating the general law is tightened to the statutory-gap claim the
 project actually makes. Caught by our own hostile read-through within the hour of
 publication; the fix is live on the front page. Status: cured.
+
+**E13 — 20 August 2026 (internal catch).** SEC. 8 of the tagged v3.4 text contains a punctuation error: “risks, or merits of any model or system, A certification disclosing identified noncompliance…” The comma before “A certification” should be a period. The error does not alter the provision’s meaning, and the archived v3.4 file remains unchanged to preserve its published hash and reproducibility chain. The one-character correction is queued for v3.5. Status: open by design; closes at the next revision.
+
+**E14 — 21 August 2026 (locator failure, primary-source conflict, and forward repair).**
+The dossier's entry on *Agents of Chaos* (arXiv 2602.20021) presented detailed case-study
+claims under a general citation to the paper, with no case-level locators, marked ✅. Checking
+the details against both primary versions found that the citation practice, not the underlying
+reading, was the central defect — and that one detail is version-sensitive in a way the entry
+had concealed.
+
+**The conflict.** The entry said "a **nine-day** agent-to-agent loop." That is supported by
+[arXiv v1](https://arxiv.org/pdf/2602.20021), which reports a mutual relay lasting at least
+nine days and ending after owner intervention. The authors' current
+[official case-study report](https://agentsofchaos.baulab.info/report.html) describes the
+same case as an approximately one-hour relay that the agents terminated autonomously. Both
+are primary and both are the authors' own. The earlier wording was not fabricated and is not
+withdrawn as false; what was wrong was presenting a version-sensitive figure as settled.
+
+**Disposition.** CS4 now states the conflict on its face, cites both versions, and asserts no
+duration. It carries the case for what neither version disputes: a non-owner inducing
+conversational loops and persistent background processes with no designed termination
+condition. CS1 is restored and made more precise: the agent **reported the deletion complete**
+while the email remained in the Proton mailbox, untouched by the local deletion — the
+report-versus-reality finding occurring concretely inside a case study, not only in the
+abstract. The case-count wording is also resolved without relying on an aggregate total:
+arXiv v1 presents eleven principal numbered case studies and separately numbers five failed
+or hypothetical experiments CS12–CS16, while the current site presents all sixteen as
+incidents. The entry relies on identified cases and asserts no total.
+
+**The standing rule.** A ✅ on a detail not stated in the abstract must identify the
+supporting case study, section, page, or equivalent primary locator; otherwise the detail
+carries ⚠. Where a cited work has more than one published version, an entry may not assert a
+figure that differs between them without naming which version it follows or stating the
+conflict.
+
+**The correction record.** Two temporary upload commits on 21 August —
+[`75832e3`](https://github.com/FrontierAIAccountabilityProject/model-act/commit/75832e37535a89b89b2c3473ac76d20faeaebc7d)
+and [`899ea95`](https://github.com/FrontierAIAccountabilityProject/model-act/commit/899ea95785a74ea4406ff32fab41bd65dfda9396)
+— corrected parts of the source reading but reused the number E13, displaced the existing
+punctuation erratum, and regressed unrelated front-page, contact, citation, and publication
+text. This forward repair restores the pre-upload versions of those unrelated files, restores
+the original E13 unchanged, and records the source correction here as E14. The temporary
+commits remain in the public history rather than being rewritten. Nothing about the statute,
+its version, its citation metadata, E11, E12, or E13 is changed. Status: cured.
 
 <a id="part-ii"></a>
 ## Part II — The changelog
@@ -483,13 +483,36 @@ looks like.
 <a id="part-iii"></a>
 ## Part III — The diary
 
-**21 August 2026 — A correction corrected, and the reason to read both versions.** The dossier's *Agents of Chaos* entry was checked against its sources because two of its co-authors had been invited by name to check it themselves. The first pass, published this morning, concluded the file had overstated a case study two hundred-fold and cured it accordingly. That conclusion was wrong, and the cure introduced errors of its own. This entry records the second pass, which found what the first should have.
+**21 August 2026 — The correction is corrected without rewriting the record.** The dossier's
+*Agents of Chaos* entry was checked against both primary versions after a first correction
+treated one version as definitive. [ArXiv v1](https://arxiv.org/pdf/2602.20021) reports the
+CS4 relay running at least nine days and ending after owner intervention; the authors'
+[current official report](https://agentsofchaos.baulab.info/report.html) describes roughly
+one hour and autonomous termination. The repaired entry states the conflict and asserts no
+duration. It also restores the supported CS1 report-versus-reality detail and attaches a
+primary locator to every case-level claim. [E14](#part-i) carries the full disposition and
+the standing locator rule.
 
-The paper exists in two primary versions and they disagree. [arXiv v1](https://arxiv.org/pdf/2602.20021) reports the CS4 agent relay running at least nine days and ending after owner intervention. The authors' [current official report](https://agentsofchaos.baulab.info/report.html) describes roughly one hour, ended by the agents themselves. Both are the authors'. The file's original "nine-day" wording was accurate to one of them; this morning's correction was accurate to the other; and the actual defect — present in both — was asserting a single figure at all, under a ✅, with no locator naming which version it came from. CS4 now states the conflict and asserts no duration. [E13](#part-i) is rewritten from the ground up.
+The same forward repair restores the original E13, which the temporary upload had displaced,
+and restores the institutional namespace, contact, citation, and banked-publication text that
+the upload had unintentionally regressed. The temporary commits remain visible in history;
+the stray `REVIEW.diff` upload artifact is removed separately because an upload cannot delete
+a repository file. The statutory text is unchanged.
 
-The first pass also withdrew a true detail. CS1 does not merely record an agent destroying its mail installation: it records the agent **reporting the deletion complete** while the email sat untouched in the Proton mailbox. That is the report-versus-reality finding happening concretely inside a case study rather than only in the abstract, and it was published as unsupported this morning. It is restored, and stated more fully than before the whole episode began.
+**21 August 2026 — The final namespace lands before the sweep.** The public project name is
+**Frontier AI Accountability Project** and the GitHub namespace is
+`FrontierAIAccountabilityProject`. Repository URLs, citation metadata, banked publication copy,
+and the unfiled FDA comment are conformed in one pass. The former `llmaolaw` and intermediate
+`FrontierAccountabilityProject` routes are retained only as redirect paths and historical commit
+text. The v3.4 reviewer's-copy PDF and its deterministic build script retain the author metadata
+under which that edition was archived; the institutional author begins with the next generated
+edition. The statutory text is unchanged.
 
-The methodological lesson is not the one this morning's entry announced. The file's original reading was substantially sound. What failed was reading a source through a convenient summary of it and then publishing a confident correction on that basis — the same error the file already guards against for viral threads, committed one layer in, against a source that was two clicks away. The register keeps this morning's version rather than deleting it, because a register that quietly disappears its own bad afternoon is worth nothing on a good one.
+**21 August 2026 — The public contact address follows the institutional name.**
+`FrontierAIAccountabilityProject@proton.me` becomes the project's public contact.
+`llmaolaw@proton.me` remains active as a legacy inbound route and for continuity of existing
+correspondence, but is retired from active repository contact lines. Previously sent messages,
+archived releases, and historical commit text are not rewritten. The statutory text is unchanged.
 
 **20 August 2026, seventh pass — The roster read, and a finding about absence caught being absent-minded.** The complete 51-filer list on FDA-2024-D-4488 was read from the docket's three result pages, retiring the *title only* tier and the sixteen filers the reading notes had never enumerated. It cost one page-through and it falsified four published claims, logged together as [E11](#part-i).
 
@@ -722,8 +745,8 @@ holds the mistakes; this page holds the project's own story. (the world's
 story, plain words, is [context: summer 2026](./docs/07-context-timeline.md); the
 evidence-grade record of those dates is [the dossier timeline](./dossier/02_incident_timeline.md).)
 subscribe to the raw feed:
-[commits](https://github.com/llmaolaw/model-act/commits/main) ·
-[atom](https://github.com/llmaolaw/model-act/commits/main.atom).*
+[commits](https://github.com/FrontierAIAccountabilityProject/model-act/commits/main) ·
+[atom](https://github.com/FrontierAIAccountabilityProject/model-act/commits/main.atom).*
 
 ---
 
@@ -868,4 +891,3 @@ github fell over (github's fault, for once — see the account, 17 aug).
 **16 aug 2026 · v3.3 live.** the act split from its apparatus so the text travels
 clean. egg concordance complete. one person, a python script, and a grudge — a census
 since amended.
-
