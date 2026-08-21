@@ -541,8 +541,9 @@ drafts.
 | **New York S 6953 / S 6953-A** (2025) | Drafted in full. **Removed at the B amendment**; the bill then passed and was signed without it |
 | **California SB 53** (2025, enacted) | ⚠ **No occurrence of *audit* at all.** California's successor statute does not carry the provision its own vetoed bill had drafted |
 | **Illinois P.A. 104-0538** (2026, enacted) | **Enacted, and in force.** The only surviving instance in American law |
+| **Louisiana SB 474** (2026) | Audit drafted, **signature not**. **Died in chamber** without a vote on its merits — see the section below |
 
-**Four drafts. One survivor.** And the survivor is the sole reason the census can report that any
+**Five drafts. One survivor.** And the survivor is the sole reason the census can report that any
 enacted American frontier statute requires a human signature at all.
 
 **Three things this does not establish, named so nobody reads them in.** It says nothing about
@@ -562,6 +563,68 @@ automatically. The Illinois text is held verbatim by this project and is the str
 here. **SB 53's nil result rests on a single retrieval and should be re-run before it is quoted**;
 a negative finding from one fetch is the shape of [E11(c)](../ledger/errata.md), where this project
 asserted a gap from arithmetic it never did.
+
+---
+
+### Searching for the provision's own words found a bill no list of ours contained
+
+**Method note, and it is the most useful thing in this section.** Every coverage failure this
+project has recorded — [E16](../ledger/errata.md) above all — came from assembling a watch out of
+lists: trackers, prior adoptions, states already known. **This search was run the other way.** The
+query was the provision's own language, not a jurisdiction. It immediately returned an instrument
+that appears **nowhere in this repository**, in a state no list here has ever named.
+
+**LOUISIANA — SB 474 (2026 Reg. Sess.) — Protecting Louisiana's Infrastructure from Artificial
+Intelligence Risk Act.** Sen. **Gregory Miller (R)**. Introduced 31 March 2026. **Died in chamber**,
+last action 21 April 2026: *"Read by title and returned to the Calendar, subject to call."*
+Proposed effective date 1 January 2027.
+
+From the bill's official Digest:
+
+> Proposed law requires a large frontier AI developer, **beginning July 1, 2028**, and annually
+> thereafter, to retain an **independent third-party auditor** to assess compliance with its
+> frontier AI framework and identify any material deviations from the framework.
+
+**The audit travelled. The signature did not.** On the Digest, Louisiana carries the annual
+independent third-party audit and **no lead-auditor signature**, and the commencement date has been
+moved off the inherited 1 January 2028 to 1 July 2028 — the one place the drafting was adjusted
+rather than carried.
+
+**And it disposes of the reading that this is a partisan provision.** A Republican senator in
+Louisiana put the same audit requirement in front of his chamber that a Democratic senator put in
+front of California's. It died without a vote on its merits.
+
+⚠ **Confidence: ⚠ F on the operative text.** Only the **Digest** — Louisiana's official
+staff-prepared summary, published with the bill — has been read. The Digest is not the statute, and
+the word test above is a test of a summary. **The engrossed text is owed** and is at
+<https://legiscan.com/LA/text/SB474/2026>. Status and sponsor are from LegiScan, ⚠ **R**.
+
+### The federal instinct points the same way: certify the inspector
+
+**VET AI Act — Validation and Evaluation for Trustworthy Artificial Intelligence Act.** Senators
+**John Hickenlooper (D-CO)** and **Shelley Moore Capito (R-WV)**, introduced **25 July 2024**. Also
+absent from this repository until now.
+
+It does not mandate an audit of anyone. It directs **NIST** to develop *voluntary* specifications
+and guidelines for third-party evaluators, and would establish an advisory committee to recommend
+criteria for *"individuals or organizations seeking to obtain certification of their ability to
+conduct internal or external assurance for AI systems."*
+
+**Read that against Illinois and the pattern is the finding.** Illinois requires one human
+signature and takes it from the auditor. The federal proposal reaches for a human too — and reaches
+for **the auditor again**, to credential him.
+
+> **When American AI law goes looking for a person, it finds the inspector.** It has now done so in
+> an enacted state statute, a bipartisan federal bill, and — in the negative — in every instrument
+> that dropped the provision. **The officer who decides that a system ships has not been reached in
+> any of them.**
+
+That is no longer a claim about a gap. It is a claim about a **habit**, and the habit is
+documented across five states, one federal chamber and three years.
+
+⚠ *VET AI is described from its sponsors' own press release, read once. The bill text has not been
+opened and no bill number is asserted here. Whether it has been reintroduced in a later Congress is
+**not established**.* ⚠ **R**.
 
 ---
 
@@ -634,6 +697,11 @@ nowhere in this repository:**
   not a census row, but the origin of the audit and lead-auditor language. See the lineage
   sections above.*
 - [ ] **California — SB 53, full row** — the word test is done; the four questions are not.
+- [ ] **Louisiana — SB 474** (2026, died in chamber) — ⚠ **Digest only.** The operative engrossed
+  text has not been opened: <https://legiscan.com/LA/text/SB474/2026>. A full row is owed, and
+  Louisiana must be added to the state list below, where it has never appeared.
+- [ ] **Federal — VET AI Act** (Hickenlooper/Capito, 25 July 2024) — press release only. Bill
+  number not asserted; text not opened; later-Congress reintroduction not established.
 
 **Then the rest, by state.** ⚠ *Counts below are the tracker's and are known to be unreliable:
 California and Illinois each had a bill listed twice, New York's list showed seven bills under a
