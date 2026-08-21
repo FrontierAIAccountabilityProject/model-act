@@ -28,7 +28,7 @@ responsible corporate officer · Park · Dotterweich · indemnif\* · disgorge\*
 Where a term is recorded absent, the absence is from the document as retrieved on
 21 August 2026. **Every entry below is strength-limited by § 4, and the limits are not
 decorative** — this sweep was conducted through automated retrieval, and the register's
-[E13](../LEDGER.md#part-i) records what that can cost. Nothing here is cited publicly until
+[E13](../ledger/errata.md) records what that can cost. Nothing here is cited publicly until
 a human has re-read the source with their own eyes.
 
 ---
@@ -137,7 +137,7 @@ control.*
    verified against the statute, which is pinned verbatim in
    [the adopted texts](./interim_standards.md).
 4. **The sweep was conducted through automated retrieval**, which
-   [E13](../LEDGER.md#part-i) records failing on 21 August 2026 in a way that nearly put a
+   [E13](../ledger/errata.md) records failing on 21 August 2026 in a way that nearly put a
    false correction into the evidence file. Every quotation here is to be re-read by a human
    against the source before it appears in any public claim, filing or campaign post.
 5. **Absence of evidence.** Seven documents is a sample, not a census of the literature. The
@@ -148,4 +148,4 @@ control.*
 ---
 
 *Compiled 21 August 2026. Corrections to the project contact; they enter
-[the errata register](../LEDGER.md#part-i) with the fix attached and permanent credit.*
+[the errata register](../ledger/errata.md) with the fix attached and permanent credit.*

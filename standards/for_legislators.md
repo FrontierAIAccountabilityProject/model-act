@@ -83,7 +83,7 @@ own verification limits.*
 **And thirty-two more, called one by one.** When Sacramento decided thirty-two AI bills in a
 single week, this project published a call on each before the votes, scored itself afterwards,
 and recorded its own misses. All thirty-two regulate the system. **None reached the person who
-ships it.** *Source: [the track record](../README.md#the-track-record), including the two calls
+ships it.** *Source: [the track record](../docs/the_case.md#the-track-record), including the two calls
 counted against ourselves for citing bill numbers that did not match the official record.*
 
 **The scope of that claim, stated so you can test it.** Thirty-seven bills, named and checkable —
@@ -91,8 +91,17 @@ counted against ourselves for citing bill numbers that did not match the officia
 thirty-two AI bills in a session, and there are forty-nine other states. Nobody has checked
 the remainder, including this project. If your office finds an American bill that places a
 duty on a named natural person, that is a correction this file wants: it enters
-[the register](../LEDGER.md#part-i) with credit, and it would be the most useful thing anyone
+[the register](../ledger/errata.md) with credit, and it would be the most useful thing anyone
 has sent.
+
+**And the room is nearly empty, which is a structural fact rather than a complaint.** Fifty-one
+comments, twenty-one of them from industry or its associations, four from the patient side —
+settling how these systems may be used on children, on minority groups, and on people in a clinic
+at their worst moment. Meanwhile 49% of American adults use these tools, **one in five for medical
+advice**, and 59% are not confident the companies will act responsibly. A protection that depends
+on the affected public turning up will systematically miss them, for reasons of notice, format and
+arithmetic rather than indifference. *Full working: [who actually
+files](../filings/who_actually_files.md).*
 
 **When the federal government asked the public how to regulate AI in medical devices, nobody
 named an upstream person.** Docket FDA-2024-D-4488, 51 comments. Every safety mechanism
@@ -235,5 +244,5 @@ enacted nowhere** and claims no completed expert review; it says so on its own f
 the project's known errors are published in an append-only register with their fixes attached,
 which is the only credential an independent drafting project can offer.
 
-*Corrections to the project contact; they enter [the errata register](../LEDGER.md#part-i) with
+*Corrections to the project contact; they enter [the errata register](../ledger/errata.md) with
 the fix attached and permanent credit.*

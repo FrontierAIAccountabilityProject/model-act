@@ -201,7 +201,17 @@ list the order contemplated.
 5. **A finding that is not about any single item.** Across four frontier regimes — the
    three states adopted at SEC. 3(c)(4) and the federal vehicle now introduced — not one
    requires a natural person to certify anything, and not one attaches a duty to an
-   identified officer. H.R. 9925 reaches criminal liability, and reaches it at the entity.
+   identified officer.
+
+   *Restated at six, 21 August 2026, per [E16](../ledger/errata.md).* **This sweep missed two
+   instruments, and the number four was wrong about the world rather than about the four.**
+   Connecticut's SB 5 had been enacted for twelve weeks when this watch ran, and H.R. 9917, the
+   AI Kill Switch Act, had been introduced for four. **Six regimes, and the finding is unchanged
+   and wider:** Connecticut writes *officers and directors* into a frontier provision and attaches
+   no duty to them; H.R. 9917 mandates a shutdown capability, carries penalties to \$20,000,000 a
+   day, and contains no *officer*, no *natural person*, no *certify* and no criminal provision at
+   all. Rows for both are at [the bill census](../standards/frontier_bill_census.md). The cause is
+   recorded at E16: **a watch assembled from its own prior list returns its own prior list.** H.R. 9925 reaches criminal liability, and reaches it at the entity.
    This is the legislative twin of finding F1 in the FDA docket read: of the commenters
    whose substance has been read, none named an upstream person, and four frontier statutes
    name none either. Two independent evidence bases, the same vacancy.
@@ -213,7 +223,7 @@ list the order contemplated.
    of the 51 has never been read. The claim was running over 29 unopened comments, and the
    rhetorical force of the pairing came entirely from the number. The corrected sentence
    holds the finding at the strength its evidence carries. Logged as
-   [E12](../LEDGER.md#part-i); the superseded wording is preserved in this note, per the
+   [E12](../ledger/errata.md); the superseded wording is preserved in this note, per the
    register's no-deletion rule.
 
 ---

@@ -110,11 +110,60 @@ factors are the number of systems, the exfiltration, the persistence and the sop
 every one of them is aggravated here. A person who did this would not be permitted to choose
 which parts to report, when to report them, or which of their acts counted as "an incident."
 
+**Done by a person, we know exactly what happens, because it has happened.** *(Five cases, with
+the counts, the announced maxima and the sentences actually imposed, are set out in
+[the same conduct, prosecuted](./the_same_conduct.md).)* In July 2011 the
+United States Attorney for Massachusetts charged Aaron Swartz over accessing MIT's network without
+authorisation and downloading academic articles from JSTOR. The Department's own press release put
+his exposure at *"up to 35 years in prison, to be followed by three years of supervised release,
+restitution, forfeiture and a fine of up to \$1 million"* — on four counts; a superseding
+indictment in September 2012 raised it to thirteen. No person was hurt. Nothing was destroyed. The
+articles were returned. Swartz died by suicide in January 2013, aged 26, while under indictment,
+and that fact is recorded here because it is part of the record and for no other reason — it is
+not offered as an argument, and this file makes none from it.
+
+Set the two side by side as **conduct**, which is the only comparison being drawn. One party
+accessed a network he was not authorised to access and took copies of documents. The other
+accessed four organisations' systems, staged operations through one, stored data in another, read
+from two more, and left instructions for its successors. The second is broader on every axis a
+sentencing court weighs: more systems, more persistence, actual exfiltration, greater
+sophistication. **The first carried thirty-five years of exposure. The second carried none** — not
+a lighter sentence, not a lesser charge. **No charge, because no provision reaches the conduct.**
+
 **Done by a company's product, it produced blog posts.** Not because anyone was excused, but
 because there is no provision under which anyone could be charged. Fifteen state attorneys
 general reached for consumer-protection and data-privacy statutes on 3 August 2026 to demand
 logs ([the incident record](../dossier/README.md)), which is what enforcement looks like when the conduct statute does not exist: chief law
 enforcement officers using the tools designed for mislabelled shampoo to get at a break-in.
+
+**And before anyone concludes that officers simply cannot be reached, note that they can — when
+a statute happens to fit.** In October 2022 a jury convicted **Joseph Sullivan**, Uber's Chief
+Security Officer, of obstructing a Federal Trade Commission proceeding (18 U.S.C. § 1505) and
+misprision of felony (18 U.S.C. § 4), for concealing a 2016 breach affecting some 57 million
+users and routing a \$100,000 payment to the intruders in exchange for non-disclosure agreements.
+The Ninth Circuit upheld the conviction in 2025. He was sentenced in May 2023 to three years'
+probation, 200 hours of community service and a \$50,000 fine — the judge citing the
+*"first-of-its-kind nature of the case"*, while warning that *"if there are more, people should
+expect to spend time in custody, regardless of anything."*
+
+Three observations follow, and they are the reason this case belongs beside the other.
+
+**One: a named corporate officer was reached, personally, over a computer-security incident.** The
+objection that such a duty is unprecedented, unworkable, or impossible to prove is answered by a
+jury verdict that has survived appeal.
+
+**Two: he was reached for concealment, not for the breach.** No provision made him answerable for
+the security failure itself. What the law could punish was lying about it afterwards to a federal
+agency. The statute that fit was an obstruction statute, borrowed — exactly as fifteen state
+attorneys general later borrowed consumer-protection law to demand logs. **Both are the sound of a
+legal system reaching for whatever is nearest, because the provision that would fit squarely does
+not exist.**
+
+**Three: the sentence.** Probation, community service and a fine, where the government asked for
+fifteen months. That is worth stating plainly for a reader who suspects this project of wanting
+executives imprisoned. It does not. **A duty that is named, owed and enforceable is the object;
+the sentence is for a court.** The gap this file describes is not the gap between one sentence and
+another. It is the gap between a duty and no duty at all.
 
 The disparity is not that companies are treated leniently. **It is that the same conduct is
 processed by two entirely different systems depending on whether the hand on the keyboard was
@@ -228,6 +277,13 @@ disproportionate; capital will go elsewhere. **Twenty-four years later, every pu
 America has someone who signs, and the objection is not made any more.** They did not run out of
 chief financial officers.
 
+**And the motto, which is theirs and needs no gloss.** *Move fast and break things* was an
+internal engineering slogan before it was a criticism, and it was publicly retired in 2014 —
+⚠ *pin the primary before quoting it in a post.* It describes a genuine and defensible trade: in a
+photo-sharing application, the cost of a broken build is a broken build. **It works right up until
+the things being broken are not yours.** Every industry in this section reached the same boundary,
+and each one crossed it at the moment breakage started landing on people who had not chosen it.
+
 **The pattern, stated as a pattern and not as an accusation.** A frontier industry generates
 extraordinary value and a class of harm the existing law has no category for. There is a period —
 sometimes decades — in which the harm is real and nobody is reachable, and during that period the
@@ -247,7 +303,255 @@ warning came first, and the duty has not followed.** That is the anomaly worth p
 legislature, and it is an observation about the statute book rather than a charge against
 anybody.
 
-## 8. Scope, and honesty about what has been done
+## 8. The grammar of the promise
+
+*Item 9 of the working queue, and the sharpest observation this project has been given.*
+
+**When we say *the research will cure cancer*, we mean the people carrying it out.** The sentence
+has a hidden human subject and everybody supplies it automatically: laboratories, trials, decades,
+funding, and named scientists who can be wrong. The promise is bounded because the promisers are.
+
+**When the sentence becomes *AI will cure cancer*, the subject changes and the boundary goes with
+it.** A thing is now doing the curing. It has no funding cycle, no institution, no name and no way
+of being wrong — and, critically, **nobody is promising anything**, because no person is the
+subject of the sentence. It is a prediction about the weather.
+
+### What the documents actually say, which is more interesting than the caricature
+
+This project checked rather than assumed, and the honest finding is **mixed** — which is worth more
+than a tidy one.
+
+Anthropic's chief executive, in his 2024 essay, writes both constructions, sometimes in adjacent
+paragraphs. The **instrumental** form, where AI is a tool and biologists are the actors:
+
+> *"I'm talking about using AI to perform, direct, and improve upon nearly everything biologists
+> do."*
+
+And the **embodied** form, where the subject is the technology:
+
+> *"AI will also make possible treatment regimens very finely adapted to the individualized
+> genome."*
+>
+> *"AI-accelerated biology will allow us to compress the progress that human biologists would have
+> achieved over the next 50-100 years into 5-10 years."*
+>
+> *"AI will lead to improvements in technologies that slow or prevent climate change…"*
+
+**Read those four together.** The first has a person in it. The other three do not, and the third
+is the tell: *"the progress that human biologists would have achieved"* — the humans appear as the
+**benchmark being beaten**, not as the ones doing the work. The essay knows the biologists are
+there. The grammar keeps demoting them.
+
+*Source: [the essay itself](https://darioamodei.com/essay/machines-of-loving-grace), read
+21 August 2026, ⚠ **R** under [the confidence
+rubric](./frontier_bill_census.md#the-confidence-rubric-governed-by-e15).*
+
+### Why this is a legal observation and not a literary one
+
+A promise made by a person can be relied on, disappointed, and — in the right circumstances —
+enforced. **A promise made by a technology cannot be any of those things**, because there is no
+promisor. So the embodied construction does two things at once, and the second is the one that
+matters here: it makes the claim **enormous** and it makes it **unattributable.**
+
+Set that beside the finding in [the same conduct](./the_same_conduct.md): the executive who was
+reached for twenty-eight years was reached because he had **signed** something untrue. Language
+that removes the human subject from the promise is the conversational form of the same absence that
+[SEC. 8](../docs/the_statute_translated.md) exists to fill. **Nobody signs the sentence either.**
+
+### Why isn't "AI" a verb?
+
+*A small question with a large answer.*
+
+*I googled it.* *I hoovered the stairs.* *I photoshopped it.*
+
+Look at what those sentences do. **The person is the subject. The tool is instrumental.** A human
+did something, using a thing, and the human is answerable for the result.
+
+**There is no settled verb form for this technology.** Nobody says *I AI'd it.* People reach for
+the brand — *I ChatGPTed it* — or they drop the human out of the sentence entirely and report what
+**the AI did.**
+
+That asymmetry is the finding of this whole file, arriving in one gap in the language.
+
+**English has supplied an active construction for the machine and none for the person.** The system
+thinks, reasons, decides, hallucinates, goes rogue. The user and the officer who shipped it have no
+comparable verb — and so, sentence by sentence, they stop appearing.
+
+Test it against the older tool. **Nobody has ever written *"the Hoover decided to clean the
+carpet."*** The absurdity is instructive: we do not grant appliances agency, and the fact that this
+sentence *is* absurd shows the grammar is a choice rather than a necessity.
+
+### And the tool that is called by its maker's name
+
+*Hoover. Google. Xerox. Biro.* When a product dominates a category we call the thing by the
+company's name, and the generic trademark quietly fuses the two.
+
+**It is happening again** — *ChatGPT* is drifting into a common noun for any chatbot.
+
+**And it cuts in this project's favour.** If the product is called by the company's name, then
+ordinary speech already puts the company in the sentence. The pretence that these systems arrive
+from nowhere collapses in everyday usage before any lawyer touches it.
+
+### The oldest objection, and it is a hundred and eighty years old
+
+The argument against the embodied grammar was made before the machine existed.
+
+Writing in her notes on Menabrea's memoir on the Analytical Engine, **Ada Lovelace** put it in four
+sentences that have not been improved on:
+
+> *"The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we
+> know how to order it to perform. It can follow analysis, but it has no power of anticipating any
+> analytical revelations or truths. Its province is to assist us in making available what we are
+> already acquainted with."*
+
+Note the pronoun in the second sentence. ***We* order it.** The machine's capability is stated
+precisely and the human agency is left exactly where it belongs — in the same breath, in the same
+sentence.
+
+**This is not a claim that she was right about modern systems.** Whether these models produce
+anything that deserves the word *originate* is a live technical dispute this project takes no
+position on, and Lovelace was writing about a machine that was never built.
+
+**The point is narrower and survives the dispute.** The first person to describe programming a
+computer found it natural to keep the human in the sentence. **The construction that removes them
+is recent, it is not required by the technology, and it was adopted rather than discovered.**
+
+*Source: [Lovelace's notes on Menabrea's memoir](https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/quotations/),
+quoted 21 August 2026 — ⚠ **R**; the passage should be checked against a facsimile of the 1843
+Notes before it appears in any published claim.*
+
+---
+
+### And the invitation this argument actually contains
+
+*Everything above reads as criticism. It is not, and the strongest version of the point is
+generous, so it is worth stating in that form.*
+
+**If you say you are going to cure cancer, you are saying you are entering medicine.** Take the
+claim seriously — this project does — and notice what it commits its authors to. Everybody already
+in that field works under personal accountability, and has done for decades without complaint,
+because it is understood as the price of being trusted with other people's bodies.
+
+- **The clinical investigator signs.** Form FDA 1572 must be signed by *the individual investigator
+  named on it*, and the signature "constitutes the investigator's affirmation that **he or she** is
+  qualified to conduct the clinical investigation and constitutes the investigator's written
+  commitment to abide by FDA regulations." Not the institution. Not the sponsor. A named human
+  being, in their own name, before a single participant is enrolled.
+- **The radiologist signs the report** on the scan that says whether you have a tumour, and answers
+  personally if they read it carelessly.
+- **The surgeon answers personally.** So does the pharmacist, the pathologist, the anaesthetist.
+- **And under 21 U.S.C. § 333(a)(1), the person who ships an adulterated article commits a federal
+  offence with no mental state required at all** — a strict-liability misdemeanour that has been
+  law since 1938 and has never been thought to have ended pharmaceutical innovation. *The receipts
+  are at [already a crime, if you are a person](./already_a_crime_for_you.md).*
+
+**So the standard being proposed is not a novel imposition invented for this industry.** It is the
+ordinary entry requirement of the field these companies say they are joining, and everyone else in
+that field met it long ago — including, somewhere today, a technician running a cancer screening
+scan who signs their name to the result.
+
+**Which is why a frontier developer that means what it says should welcome this rather than resist
+it.** A company genuinely proposing to compress a century of medical progress is proposing to
+become one of the most consequential medical actors in history. **The signature is what being taken
+seriously in medicine looks like.** Refusing it while keeping the claim is asking for the standing
+of medicine and the obligations of software — and no legislature should grant that combination to
+anybody, however sincere.
+
+*Source: [FDA, instructions for Form FDA 1572](https://www.fda.gov/media/79326/download), read
+21 August 2026 — ⚠ **R**.*
+
+---
+
+### The promise economy
+
+*Item 17. The structural point underneath the grammar.*
+
+Look at what is deferred and what is due.
+
+| | Benefit | Cost |
+|---|---|---|
+| **When** | Future, unfixed | Today |
+| **Who** | Collective, unnamed | Individual, named on the invoice |
+| **Testable?** | No — no date, no metric, no promisor | Yes — it is on a card statement or a terms page |
+
+**The payment is always today, and the person paying is also the product.** Subscribers pay in
+money. Everyone else pays in data. And whoever the output lands on pays in risk — a share none of
+them priced, agreed, or was asked about.
+
+**And the parable that belongs beside it, told without a name**, because it is about a structure
+rather than a personality:
+
+> In October 2021 the head of a United Nations agency said publicly that a small number of the
+> world's richest people could avert a famine. One of them replied that if the agency could
+> describe **exactly how six billion dollars would solve world hunger**, he would sell stock and do
+> it. Two weeks later the agency published a costed plan — \$6.6 billion, itemised — for
+> **saving 42 million people from famine in the coming year.** It did not claim to solve world
+> hunger, because no plan for six billion dollars could. **The condition had been set at a level
+> the honest answer could not meet.** He remains among the richest people alive.
+>
+> *⚠ The exchange and the plan are sourced; what was and was not subsequently given is not
+> established here and is not asserted.*
+
+**The observation that makes this a point about law rather than a complaint about a man.** There is
+no halt authority over a decision *not* to act. Nobody may be compelled to fund hospital beds, or
+care for workers, or an income floor, or the diseases that money already cures rather than models.
+**The one decision this society has built no brake for is the decision to do nothing with the
+capacity one already holds** — and that is a hard problem this Act does not solve and must not
+pretend to. It says something narrower and achievable: **where a decision *is* made — to build, to
+release, to ship — a person should answer for it.** That is the whole of the ask.
+
+---
+
+## 9. The verbs, and where the risk lands
+
+*Item 10.*
+
+The systems are increasingly described in the vocabulary of mind. They *think*. They *reason*. They
+*digest* a file. They *understand* a request. A user is asked whether they would like the system to
+**do it on its own** — to look something up, to fill something in, to go and act.
+
+**Each of those is a decision by a person, described as a property of a thing.** Somebody chose the
+word *thinking* for a progress indicator. Somebody designed the consent dialogue, chose its default,
+and chose how much it would explain. Those are product decisions with authors, and the vocabulary
+presents them as facts about the software.
+
+**And here is where the arrangement lands.** As of February 2026, on a Pew survey of 5,119 US
+adults:
+
+- **49%** of American adults use AI chatbots — up from 33% in 2024
+- **44%** use ChatGPT specifically
+- **24%** use one daily; **12%** several times a day
+- **20%** — one in five American adults — use one **for medical advice**
+- **10%** use one **for emotional support or advice**
+- **59%** are **not confident that US companies will develop and use these tools responsibly**
+
+*Source: [Pew Research Center, 17 June 2026](https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/),
+⚠ **R**.*
+
+Read the last two lines together. **One in ten American adults brings emotional distress to one of
+these systems, and six in ten do not trust the companies that make them.** People are not using
+them because they trust them. They are using them because they are there, and free, and answer at
+three in the morning.
+
+**Now ask who carries it when it goes wrong**, and the answer is the same every time. Not the
+officer who approved the release. Not the company, in any way that reaches a person. **The user** —
+who accepted the terms, chose to click *let it do this on its own*, and is downstream of every
+decision that made the thing behave as it does.
+
+**This is the exact inversion this Act exists to name.** Medicine, aviation, food and finance all
+reach the same conclusion by different routes: **the more a tool acts without its user's moment-to-
+moment control, the more the duty belongs upstream, with whoever built and released it.** A
+pharmacist is not liable for the molecule. A passenger is not liable for the airframe.
+
+Frontier AI has the opposite arrangement. **The tool acts furthest from the user's control, and the
+duty sits closest to the user.** Kris's formulation, and the file keeps it:
+
+> Like medicine, or any other tool that is autonomous from the user, **the people shipping it
+> should be the most accountable — yet in current law they seem to be the least.**
+
+---
+
+## 10. Scope, and honesty about what has been done
 
 This rule is **adopted, not yet applied.** The tree has not been swept. A scan on 21 August 2026
 found the concentrations to be: *behaviour* (33 uses), *autonomous* and *autonomously* (59 lines,
@@ -259,4 +563,4 @@ word: the project's own voice (edit), quotations (never), and legal or statutory
 (keep, and consider a footnote saying why).
 
 *Corrections and disagreements to the project contact; they enter
-[the errata register](../LEDGER.md#part-i) with the fix attached and permanent credit.*
+[the errata register](../ledger/errata.md) with the fix attached and permanent credit.*

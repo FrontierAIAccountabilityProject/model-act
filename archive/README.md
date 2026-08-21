@@ -17,7 +17,7 @@ are historical and correct as written.
 **`model_act_v3_2.pdf` / `model_act_v3_2.txt`** (superseded 16 August 2026 by v3.3).
 The v3.2 penalty arithmetic — the stacked-maximums figure that circulated — was corrected
 at v3.3: the valve is enacted sentencing law, not stacked statutory maximums. See
-[the Ledger, Part II](../LEDGER.md#part-ii) and
+[the Ledger, Part II](../ledger/changelog.md) and
 [/audit/chunk3_penalty_architecture.md](../audit/chunk3_penalty_architecture.md) for the
 architecture and the enacted-family numbers (CA/NY/IL: \$1M severity-scaled, "not to
 exceed," with recidivism steps).
@@ -25,3 +25,21 @@ exceed," with recidivism steps).
 **`model_act_v2.pdf`** (superseded August 2026). Kept as a signpost for old links.
 
 Quote whatever you like — quote the correction with it.
+
+---
+
+## page-images/
+
+Page images of the **withdrawn and superseded** typeset editions, kept because this project does
+not delete artefacts it has published. Twenty PNGs: `actv2-*` (v2, three pages), `actv32-*` (v3.2,
+seven pages) and `actv33-*` (v3.3, ten pages).
+
+They are **not** the text of the Act. The authoritative text is
+[`model_act_v3_4.txt`](../model_act_v3_4.txt); the current typeset edition is the reproducible
+[reviewer's copy](./model_act_v3_4_reviewers_copy.pdf), built from source by
+[a committed script](./build_reviewers_copy.py). Why the v3.3 typeset was withdrawn is recorded at
+[E7](../ledger/errata.md).
+
+*Consolidated here on 21 August 2026. The v3.2 and v3.3 images were previously in a top-level
+folder called `pages/`, which said nothing about what they were and sat beside live documents; the
+v2 images were already in this directory. One convention now, one location.*

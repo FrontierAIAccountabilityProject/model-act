@@ -13,6 +13,44 @@
 
 ---
 
+## OPEN QUESTION 1 — SEC. 3(c)(4): does Connecticut become a fourth interim standard?
+
+*Opened 21 August 2026 by [E16](../ledger/errata.md). **Not a cure — a drafting decision**, held
+here rather than made silently, because it changes the tagged statutory text and
+[E10](../ledger/errata.md) forbids editing a tagged file outside a revision.*
+
+**The fact.** Connecticut SB 5 was enacted 27 May 2026. It uses this Act's own threshold —
+computing power greater than 10²⁶ integer or floating-point operations — with a "large frontier
+developer" tier at \$500,000,000 in annual gross revenue. SEC. 3(c)(4) currently adopts three
+enacted state laws. There are four.
+
+**The argument for adopting it.** SEC. 3(c)(4) is drafted to track the enacted family, and a fourth
+member of that family now exists on an identical threshold. Omitting it invites the reasonable
+question why, and a reader who finds the omission before the file explains it will assume the
+project did not know — which, until 21 August, was true.
+
+**The argument against.** Connecticut's frontier provision is **not the same kind of duty**. The
+three adopted standards impose safety-framework obligations on the developer. Connecticut's
+operative requirement is an internal reporting channel: anonymous employee reports of catastrophic
+risk that *"shall be shared with the officers and directors of the large frontier developer at
+least quarterly,"* with a carve-out withholding a report from an officer it accuses — and **no duty
+of any kind attaching to those officers.** Adopting it as an interim *standard* would import a
+whistleblower mechanism into a slot built for framework duties, and SEC. 9 and SEC. 11 already
+cover reporting and whistleblower protection from a different direction.
+
+**The third option, which may be the right one.** Adopt nothing, and instead cite Connecticut in
+the companion as the closest any legislature has come to the vacancy this Act fills — a statute
+that puts catastrophic-risk information into named officers' hands quarterly and asks nothing of
+them. **That is worth more to this project as an exhibit than as an adopted standard.**
+
+**What is already done, pending the decision.** The absence is now explained where a reader will
+look for it, at [the adopted texts](../standards/interim_standards.md), so it reads as a decision
+rather than a gap. The full row is at [the bill census](../standards/frontier_bill_census.md).
+
+**Status: open. Decision owed at v3.5. Do not edit the tagged v3.4 text.**
+
+---
+
 ## CURE 1 — "Serious injury" source moves to 18 U.S.C. § 1365(h)(3)–(4)
 
 *Resolves READ FIRST item 3(b) (companion): the harm tier's injury definition leaves

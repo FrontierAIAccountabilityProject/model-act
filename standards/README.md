@@ -8,7 +8,7 @@ makes. Every file here states its own strength limits; none of them is authority
 - [`interim_standards.md`](./interim_standards.md) — the enacted texts SEC. 3(c)(4) freezes
   (California, New York, Illinois), pinned verbatim from the enrolled bills. **A fourth state,
   Connecticut, enacted a frontier statute on 27 May 2026 and is not adopted here** — see
-  [E16](../LEDGER.md#part-i).
+  [E16](../ledger/errata.md).
 - [`bracketed_matter.md`](./bracketed_matter.md) — the adopting state's worksheet: every
   bracketed choice, its section and line, and what the enacted family chose.
 - [`table_of_authorities.md`](./table_of_authorities.md) — every authority the statute and
@@ -23,6 +23,10 @@ frontier system. These files are the checking.*
 - [`frontier_bill_census.md`](./frontier_bill_census.md) — **every frontier AI bill in America,
   read one at a time.** One question per bill, a word test anyone can re-run, a confidence grade
   per row, and a tally that never exceeds the rows actually read.
+- [`the_same_conduct.md`](./the_same_conduct.md) — **a gallery of American computer-crime
+  prosecutions**: five people, no physical injury, mostly no proven loss, announced exposure from
+  ten to four hundred and forty years. Set beside conduct in 2026 that was broader on every axis
+  and charged to nobody.
 - [`commentary_sweep.md`](./commentary_sweep.md) — what the specialists say is missing from the
   enacted statutes. A dedicated gap analysis found twenty-six deficiencies; personal
   accountability was not among them.
@@ -44,5 +48,5 @@ frontier system. These files are the checking.*
 
 ---
 
-*Corrections to the project contact; they enter [the errata register](../LEDGER.md#part-i) with
+*Corrections to the project contact; they enter [the errata register](../ledger/errata.md) with
 the fix attached and permanent credit.*

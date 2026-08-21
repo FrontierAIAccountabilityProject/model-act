@@ -5,7 +5,22 @@ artificial intelligence framework duties of three enacted state laws, "each as i
 effect on [1 August 2026] ... as they so exist and not as they may afterward be
 amended, repealed, suspended, or invalidated in the enacting jurisdiction," and
 directs that "the Agency shall make the adopted texts publicly available without
-charge." A research draft has no Agency; it has a repository. This file practises
+charge." **A fourth state has since enacted one, and it is deliberately not below.** Connecticut's SB 5
+became law on 27 May 2026, on the same 10²⁶-operation threshold, with a large-developer tier at
+\$500,000,000 in annual revenue. It is **not** adopted at SEC. 3(c)(4), for two reasons stated here
+so that its absence is a decision rather than an oversight. First, adding an interim standard
+changes the tagged statutory text, and the reproducibility chain the reviewer's copy rests on
+forbids editing a tagged file — see [E10](../ledger/errata.md); it is therefore a v3.5 drafting
+question, held in [the open cure queue](../audit/v3_5_cure_language.md). Second, and substantively,
+Connecticut's frontier provision is an **internal whistleblower channel** rather than a
+safety-framework duty of the kind SEC. 3(c)(4) adopts — its operative requirement is that
+catastrophic-risk reports "shall be shared with the officers and directors of the large frontier
+developer at least quarterly", with no duty attaching to those officers. Whether that belongs among
+the adopted duties is a question for a drafter, not a housekeeping fix. The full row is at
+[the bill census](./frontier_bill_census.md); the miss that produced this paragraph is
+[E16](../ledger/errata.md).
+
+A research draft has no Agency; it has a repository. This file practises
 the rule before preaching it: the adopted texts, pinned here verbatim, free to
 read. State statutes are government edicts and carry no copyright (*Georgia v.
 Public.Resource.Org*, 590 U.S. 429 (2020)); the enacting jurisdictions' official

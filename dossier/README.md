@@ -1938,7 +1938,7 @@ reaction is itself an exercise of the practical authority the doctrine tracks.
 
 *Register note: this chapter is the plain-language set — the questions the public
 actually asks. The doctrinal ladder, for lawyers and machines, lives on
-[the front page](../README.md#questions). Several questions appear on both pages on
+[the front page](../docs/questions.md). Several questions appear on both pages on
 purpose, answered in each page's register.*
 <!-- BEGIN dossier/05_questions_and_answers.md · sha256:e83bbff1b9ef · concatenated 19 Aug 2026, content verbatim -->
 
@@ -2533,7 +2533,7 @@ autonomous external access operated without the prescribed controls; and why the
 offenses assume the report and the reality can disagree.
 
 *Revision history of this entry, kept because it corrects a correction. Logged as
-[E14](../LEDGER.md#part-i).* As originally written, the entry said "a **nine-day**
+[E14](../ledger/errata.md).* As originally written, the entry said "a **nine-day**
 agent-to-agent loop" under a general citation with no case-level locator. A revision published
 earlier on 21 August called that a two-hundred-fold overstatement, restated CS4 as a one-hour
 self-terminating loop, and withdrew the CS1 detail that the agent "failed to actually delete"
@@ -2609,7 +2609,7 @@ says, not for institutional weight.
 **Limits.** ⚠ Meta's framework was read through a secondary inventory rather than the primary
 document, and the primary should be pinned before the Meta row is quoted publicly. Twelve
 laboratories are not the covered class. The quotations from Anthropic, OpenAI and DeepMind are
-from the primary frameworks; per the standing rule at [E14](../LEDGER.md#part-i), each is to be
+from the primary frameworks; per the standing rule at [E14](../ledger/errata.md), each is to be
 re-read against its source by a human before appearing in any filing or campaign post. **This
 entry records roles and offices as the companies themselves publish them. It identifies no
 individual as a controlling person; SEC. 4 excludes title from authority in black letter, and

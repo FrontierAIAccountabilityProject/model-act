@@ -91,7 +91,7 @@ the number of rows actually read.*
 
 ### The confidence rubric, governed by E15
 
-[E15](../LEDGER.md#part-i) fixed what ✅ means for this project: **a ✅ requires that this project
+[E15](../ledger/errata.md) fixed what ✅ means for this project: **a ✅ requires that this project
 opened the source, not merely that a first party wrote it.** A census of statutes needs one
 further distinction, because there are two different ways a row can fall short, and collapsing
 them hides which fix is owed.
@@ -104,8 +104,8 @@ them hides which fix is owed.
 | ⚠ **P** | Read in part — some sections opened, others not | name which sections |
 
 **Every row in this file currently carries ⚠ R**, and that is the honest grade rather than a
-modest one: [E13](../LEDGER.md#part-i) records automated retrieval nearly putting a false
-correction into the evidence file, and [E14](../LEDGER.md#part-i) records two primary sources
+modest one: [E13](../ledger/errata.md) records automated retrieval nearly putting a false
+correction into the evidence file, and [E14](../ledger/errata.md) records two primary sources
 conflicting where a single fetch had reported certainty. Nothing here is quoted in a filing, a
 post or a sponsor package until a human has read the enrolled text.
 
@@ -207,7 +207,7 @@ quoting it — and the threshold, the penalty tiers and the placement of the car
 confirmed on a second pass. It has not been read by a human eye. Congress.gov could not be
 retrieved (robots), so cosponsor count and committee referral are **unrecorded, not zero**.
 
-*This row closes a queue item.* [E15](../LEDGER.md#part-i) listed "the AI Kill Switch Act's
+*This row closes a queue item.* [E15](../ledger/errata.md) listed "the AI Kill Switch Act's
 thresholds, penalties, and red-teaming carve-out" as ⚠ pending fetch with no primary opened. The
 primary is now open and the three items are answered — at ⚠ R, not ✅, because opening a document
 through a summarising model is not the same as reading it.
@@ -262,7 +262,7 @@ to the vacancy, and it stops one clause short.
 enforcement provisions, not the whole Act, which also carries employment, healthcare and
 online-safety titles this row does not speak to. The officers-and-directors clause and the
 compute threshold were each confirmed against a second independent source. Per
-[E13](../LEDGER.md#part-i), the quoted clause must be re-read by a human against the enrolled act
+[E13](../ledger/errata.md), the quoted clause must be re-read by a human against the enrolled act
 before it is used in any public claim, post or filing — **and this is the row most likely to be
 quoted, so it is the row that most needs it.**
 
@@ -428,5 +428,5 @@ anyone can falsify by producing one bill.
 The tally above never exceeds the rows completed, and a bill that reaches a natural person would
 be the most valuable entry in the file, not an inconvenience.
 
-*Corrections to the project contact; they enter [the errata register](../LEDGER.md#part-i) with
+*Corrections to the project contact; they enter [the errata register](../ledger/errata.md) with
 the fix attached and permanent credit.*
