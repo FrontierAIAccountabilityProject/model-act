@@ -62,10 +62,19 @@ And the room where they are settled held fifty-one people, of whom twenty-one se
 
 ---
 
-## 3. Why this is not a complaint about apathy
+## 3. The demand exists. The channel does not carry it.
 
-The obvious reading is that the public did not turn up. That reading is wrong, and it matters that
-it is wrong, because it points at the wrong fix.
+**The obvious reading is that the public did not turn up, and it is wrong.** People are asking for
+this constantly — **59% of American adults tell Pew they are not confident these companies will
+develop and use these tools responsibly**, and that is a settled majority position rather than a
+mood. Demand for accountability is not scarce.
+
+**What is scarce is any route from that demand to a statute.** A poll is not a comment. A majority
+is not a filing. The docket is the mechanism by which a view becomes part of an administrative
+record, and it is the one place the majority is absent — not because it has no view, but because
+nothing carries it there.
+
+That distinction matters because it points at a different fix.
 
 **Nobody knows the docket exists.** Notice is given in the *Federal Register*. There is no
 mechanism by which a person using a chatbot for medical advice would ever learn that the rules for

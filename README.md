@@ -61,8 +61,8 @@ entity liability or the base offense into the enhanced tier.
 **Start here** — [the case](./docs/the_case.md) · [the statute, translated](./docs/the_statute_translated.md) · [questions](./docs/questions.md)
 
 **New to the vocabulary?** [**What these words mean**](./standards/what_these_words_mean.md) — a
-glossary for people who have to legislate about this. Fifteen minutes, and it is the shortest route
-to reading everything else here critically.
+glossary for people who have to legislate about this. It is the shortest route to reading
+everything else here critically.
 
 **On this page** — [Overview](#overview) · [Status](#status) · [Structure](#repository-structure) · [Contents](#contents) · [For sponsors](#for-sponsors-and-staff) · [For reviewers](#for-the-review-council) · [Recent](#recent) · [Provenance](#provenance-and-method)
 
@@ -102,6 +102,32 @@ authority to prevent it.
 **Read the right-hand column before the left.** Every one of these is **already a crime in the
 United States for an ordinary person**, most with heavier maximum penalties than this Act proposes.
 **What this Act extends is not the criminal law. It is its reach.**
+
+### Has anyone ever actually gone to prison for these things?
+
+**Yes. For every one of them, in another industry, with a name and a date.**
+
+| The offence | The person who answered for it | Sentence |
+|---|---|---|
+| **Shipping without validation** | The president of a peanut company who fabricated **certificates of analysis** stating product was pathogen-free when no test had been run. Nine people died | **28 years** — and not one day of it for the deaths. It came from the documents |
+| **Gaming the safety test** | A Volkswagen **engineer** who built software that recognised when a vehicle was on the test rig and behaved differently on the road | **40 months** |
+| **Uncontrolled access causing a breach** | Five individuals. No physical injury in any case, mostly no proven loss. One had accessed a page a company published by accident | Announced exposure of **10 to 440 years**; sentences up to 41 months |
+| **Failing to report** | Uber's Chief Security Officer, for concealing a breach from a federal agency | Convicted 2022, **upheld on appeal in 2025** |
+| **Destroying or withholding records** | Anybody. 18 U.S.C. § 1519 reaches conduct *"in contemplation of"* a federal matter | **20 years**, before any investigation opens |
+| **Failing to prevent, as an officer** | A coal executive, after twenty-nine miners died. Convicted of a **misdemeanour**, acquitted of every felony | **12 months.** He had signed no document of the kind the peanut executive signed |
+
+**Read the first and last rows together and the mechanism is visible.** Twenty-eight years where a
+signed document existed and was untrue. Twelve months where twenty-nine people died and no such
+document did. **The variable was not the body count.**
+
+**So the question is not whether personal criminal liability for shipping decisions is thinkable.**
+It is ordinary, it is old, and it is operating in five industries today. **The question is why it
+stops at the compute frontier** — where twelve companies have published safety frameworks, not one
+requires a signature, and enacted law requires exactly one, from the auditor.
+
+*Every case above with counts, statutes and sources:*
+**[the same conduct, prosecuted](./standards/the_same_conduct.md)** *and*
+**[why a signature works](./standards/why_a_signature_works.md)**.
 
 ### The comparison that makes the point fastest
 
@@ -175,9 +201,6 @@ The text, sources, unresolved questions and revision history are public so that 
 - **Print edition:** a reproducible, line-numbered [reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf) (17pp, landscape, wide margin) is built from the source by [a committed script](./archive/build_reviewers_copy.py); plain text remains authoritative
 - **License:** CC0 — public domain
 - **Archived:** [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795) — CERN's Zenodo, permanent; every future release mints its own version DOI under this concept DOI
-
-**Reading time.** The statute, cover to cover: about 45 minutes. This page, in full: about
-90. A review lane, over eight weeks: 10–20 hours, scoped in writing before anything starts.
 
 ## Repository structure
 

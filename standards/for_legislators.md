@@ -12,8 +12,7 @@ someone else's checking.*
 industries that reached the same question earlier.*
 
 **If the vocabulary is unfamiliar, start with [what these words
-mean](./what_these_words_mean.md)** — fifteen minutes, and it covers the distinction every drafter
-needs: *frontier model*, *foundation model*, *generative AI* and *narrow task-specific model* are
+mean](./what_these_words_mean.md)** — it covers the distinction every drafter needs: *frontier model*, *foundation model*, *generative AI* and *narrow task-specific model* are
 not the same thing, and which one a bill names decides what it covers.
 
 **What this file is not.** Not legal advice, not a lobbying document, not a request. The
@@ -46,7 +45,15 @@ what other states are doing.
 
 It does not happen, for four structural reasons:
 
-1. **Nobody asks the question.** Fifty-one commenters answered FDA's request for feedback on
+1. **The demand exists; the channels do not carry it.** It is not true that nobody wants this.
+   Large majorities tell pollsters they do not trust these companies to act responsibly — 59% of
+   American adults, on Pew's February 2026 survey — and people ask for accountability constantly,
+   in surveys, in press coverage, in complaints, and in the ordinary way people talk about
+   products that frighten them. **What does not happen is the translation.** The demand is real
+   and arrives nowhere that drafts a statute. The specific legal question — *which named person
+   owes a duty* — is the one that goes unasked in the rooms where bills are written, and the
+   evidence for that is not public indifference but professional silence: fifty-one commenters
+   answered FDA's request for feedback on
    AI devices and not one named a person who should answer for shipping. A dedicated academic
    gap analysis of California's frontier-AI statute enumerated twenty-six deficiencies, and
    the absence of personal accountability was not among them. Six enacted or introduced
