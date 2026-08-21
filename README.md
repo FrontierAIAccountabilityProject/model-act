@@ -2,10 +2,6 @@
 
  
 **Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
-
-***Working on today (Fri 21 Aug 2026):** I’m working on this page today. I'm preserving the serious legal material, but changing its order. The new opening will give a two-minute reader, a ten-minute helper, and a formal reviewer different routes instead of making all three begin with a 90-minute README.*
-
-**Invited to review?** Start at [For the review council](#for-the-review-council) — the core set, your lane, and a time budget. Everything else on this page is context you are licensed to skip.
  
 Model state legislation applying the **responsible corporate officer doctrine** —
 *United States v. Dotterweich*, 320 U.S. 277 (1943); *United States v. Park*, 421 U.S.
@@ -53,6 +49,22 @@ liability into entity liability or the base offense into the enhanced tier.
 4. **The company and the natural person occupy parallel lanes.** Strict entity liability
    does not discharge personal liability; personal liability cannot be moved back onto
    the corporate balance sheet.
+
+   Delete the temporary “Working on today” notice and the existing “Invited to review?” line. Paste this immediately after the `## Overview` paragraph:
+
+## Start here
+
+**Just reading?** [In one paragraph](#in-one-paragraph) is the two-minute version. The authoritative statutory text is [`model_act_v3_4.txt`](./model_act_v3_4.txt).
+
+**Check one thing.** If you received a specific question by email, that question is the whole ask. Answer one [published open question](./model_act_v3_4_companion.md#read-first--open-items-for-the-next-revision-v35), correct one citation or source characterisation, or identify one defect. A sentence can be useful. Responses may be anonymous or credited, at your choice. You are not being asked to read or endorse the whole Act.
+
+**Review one lane.** The formal review council uses five professional lanes, each scoped in writing before work begins. The expected commitment is approximately 10–20 hours over eight weeks and a named written disposition, published as submitted—including reservations or a hostile conclusion. This is review, not endorsement, co-authorship, or campaign participation. [Read the council terms and materials](#for-the-review-council).
+
+**Talk or refer.** A twenty-minute conversation, an institutional reaction, or the name of someone better placed is useful without any commitment to review. A conversation or referral is not published or treated as approval unless expressly agreed.
+
+If you were contacted directly, reply through the channel that contacted you. Otherwise, write to **[llmaolaw@proton.me](mailto:llmaolaw@proton.me)** using links or pasted text rather than attachments.
+
+These routes are distinct. A short answer does not make someone a reviewer, and a conversation does not imply support for the Act.
 
 ## Overview
 
