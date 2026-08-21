@@ -371,6 +371,39 @@ decision, not housekeeping, and is held as **Open Question 1** in
 [E10](./errata.md). *`audit/record.md` is a frozen drafting record and its "three enacted states" was
 true on the day it was written; frozen files are not retrofitted.*
 
+**E17 — 21 August 2026 (outside catch; an overstated disanalogy, and a second overstatement in the
+cure for it).** [The same conduct, prosecuted](../standards/the_same_conduct.md), as first
+published, said of the five computer-crime defendants it gathers: *"Every defendant below acted
+intentionally and knew they lacked authorisation."*
+
+**That is not true of those cases, and the error was the load-bearing one in the section.** Whether
+authorisation had been exceeded at all was the **central contested question** in at least two of
+them. The Third Circuit's own description of Auernheimer's script is that it *"accessed the publicly
+facing portion of the login screen and scraped information that AT&T unintentionally published."*
+Swartz was on a network he was entitled to use. **The intent that looks obvious in hindsight was
+disputed at the time — which is what the prosecutions were about.**
+
+**Why it mattered.** The sentence appeared in a paragraph headed "the honest disanalogies, stated
+before anyone else states them" — a passage whose entire purpose was to concede the weaknesses of
+the comparison. **An overstatement inside a concession is worse than one inside an argument**,
+because a reader who checks it loses confidence in the concessions too, and the concessions are
+what make the file credible.
+
+**The fix.** The claim is withdrawn and named as withdrawn in place, rather than quietly deleted.
+Three disanalogies that do survive are stated instead — the fraud-statute point, the
+intended-release point, and the CFAA-overbreadth point, the last of which is left as a live
+alternative conclusion a reader may reasonably reach against this project.
+
+**And a second correction caught in the same exchange**, recorded here because it is the same
+species. The scope note added to [the table of authorities](../standards/table_of_authorities.md)
+described the omission of the `standards/` citations as *"deliberate."* **It was not.** The table
+was compiled on 20 August; the files citing that law were written on the 21st. Nobody decided
+anything — **the omission was an accident given a policy's clothing after the fact.** The note now
+says so, and takes the decision openly instead.
+
+**Credit:** both were caught by the maintainer on reading the drafts, not by the drafter. Status:
+**cured**; both files carry the corrected text.
+
 **E14 — 21 August 2026 (locator failure, primary-source conflict, and forward repair).**
 The dossier's entry on *Agents of Chaos* (arXiv 2602.20021) presented detailed case-study
 claims under a general citation to the paper, with no case-level locators, marked ✅. Checking

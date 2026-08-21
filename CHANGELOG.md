@@ -1,5 +1,9 @@
-# Changelog signpost
+# ⟶ MOVED — the changelog
 
-The project’s changelog is now maintained in [Part II of the Ledger](./LEDGER.md#part-ii).
+**This is not a document. It is a signpost**, kept so that links published before 21 August 2026
+continue to land.
 
-This file preserves the former path so historical links do not end in a 404.
+The content is now at [`ledger/changelog.md`](./ledger/changelog.md).
+
+The ledger was a single file until 21 August 2026 and is now three, indexed at
+[`ledger/README.md`](./ledger/README.md): the errata register, the changelog, and the diary.

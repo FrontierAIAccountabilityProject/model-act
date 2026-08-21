@@ -1,10 +1,9 @@
-# Errata register · Changelog
+# ⟶ MOVED — the errata register
 
-Both historic registers were merged into **the Ledger** on 19 August 2026, as part of
-the repository's consolidation into a small number of complete documents: the errata
-into **[Part I](./LEDGER.md#part-i)**, the changelog into **[Part II](./LEDGER.md#part-ii)**.
-Content is preserved there verbatim.
+**This is not a document. It is a signpost**, kept so that links published before 21 August 2026
+continue to land.
 
-On 19 August 2026 the two pointer files themselves became this one: `CHANGELOG.md`
-was retired with a ledger note, per the stones rule — paths are deletable, content
-never is, and git remembers every former path.
+The content is now at [`ledger/errata.md`](./ledger/errata.md).
+
+The ledger was a single file until 21 August 2026 and is now three, indexed at
+[`ledger/README.md`](./ledger/README.md): the errata register, the changelog, and the diary.
