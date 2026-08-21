@@ -502,6 +502,69 @@ else is still not a source we read.
 
 ---
 
+### And it did not start in New York. Four drafts, one survivor.
+
+*Traced 21 August 2026. **Same embargo as above.***
+
+The obvious next question was where New York got the language. **California, and there is a date in
+it that proves copying rather than convergence.**
+
+**California SB 1047 (2023–24), vetoed by Governor Newsom in September 2024**, at § 22603(e):
+
+> Beginning January 1, 2028, a developer of a covered model shall annually retain a third-party
+> auditor that conducts audits consistent with best practices for auditors to perform an
+> independent audit of compliance with the requirements of this section.
+
+and at § 22603(e)(2)(D):
+
+> The signature of the lead auditor certifying the results of the auditor.
+
+**Illinois, 430 ILCS 185/10(d), enacted 2026:**
+
+> **Beginning on January 1, 2028** or 90 days after a developer first qualifies as a large frontier
+> developer, whichever is later, a large frontier developer shall annually retain a third party to
+> perform an independent audit of compliance with the requirements of this Section. The third party
+> shall **conduct audits consistent with generally accepted auditing standards and best practices**…
+
+**Look at the date.** In a bill drafted in 2024, *January 1, 2028* is a four-year runway — a
+sensible lead time for an obligation nobody has built capacity for yet. In a statute enacted in
+2026 it is two years, and in a statute whose other duties commence in 2027 it is simply inherited.
+**A commencement date that made sense in the bill it came from and less sense in the one it landed
+in is a fingerprint.** So is *audits consistent with … best practices*, carried across three
+drafts.
+
+**The provision's full record, stated with the differences intact:**
+
+| | what happened to the audit and the lead-auditor signature |
+|---|---|
+| **California SB 1047** (2024) | Drafted in full. **The entire bill was vetoed** — the audit was not singled out, and this must not be described as a removal |
+| **New York S 6953 / S 6953-A** (2025) | Drafted in full. **Removed at the B amendment**; the bill then passed and was signed without it |
+| **California SB 53** (2025, enacted) | ⚠ **No occurrence of *audit* at all.** California's successor statute does not carry the provision its own vetoed bill had drafted |
+| **Illinois P.A. 104-0538** (2026, enacted) | **Enacted, and in force.** The only surviving instance in American law |
+
+**Four drafts. One survivor.** And the survivor is the sole reason the census can report that any
+enacted American frontier statute requires a human signature at all.
+
+**Three things this does not establish, named so nobody reads them in.** It says nothing about
+*why* the provision came out in New York, or who asked. It does not treat California's veto as a
+judgment on the audit — the Governor vetoed the whole bill, on grounds this file has not read.
+And it does not claim the drafters copied one another knowingly; **shared model language and shared
+advocacy drafting produce the same textual fingerprints as copying**, and the census cannot tell
+those apart from the text alone.
+
+**What it does establish is enough.** The audit-and-signature provision is not an Illinois
+peculiarity and not an oversight elsewhere. **It is a specific, repeatedly drafted piece of text
+that four legislatures had in front of them, and it is in force in one.**
+
+**Confidence. ⚠ R, and the weakest link is named.** SB 1047 and SB 53 were each read once, through
+LegiScan's copy of the bill text — a third-party host of a primary document, retrieved
+automatically. The Illinois text is held verbatim by this project and is the strongest element
+here. **SB 53's nil result rests on a single retrieval and should be re-run before it is quoted**;
+a negative finding from one fetch is the shape of [E11(c)](../ledger/errata.md), where this project
+asserted a gap from arithmetic it never did.
+
+---
+
 ## What the first three rows establish
 
 **One.** Two of the three bills a commercial tracker classified as frontier legislation are
@@ -564,7 +627,13 @@ nowhere in this repository:**
   is embargoed from every public use. Read
   <https://www.nysenate.gov/legislation/bills/2025/S6953/amendment/A> and record the subdivision
   number.
-- [ ] **California — SB 53** *Transparency in Frontier Artificial Intelligence Act*
+- [x] **California — SB 53** *Transparency in Frontier Artificial Intelligence Act* — word test run
+  21 Aug on the chaptered text. ⚠ **No occurrence of *audit*.** Single retrieval; re-run before
+  quoting. A full row is still owed.
+- [x] **California — SB 1047** (2023–24, vetoed) — traced 21 Aug. *Not an enacted statute and so
+  not a census row, but the origin of the audit and lead-auditor language. See the lineage
+  sections above.*
+- [ ] **California — SB 53, full row** — the word test is done; the four questions are not.
 
 **Then the rest, by state.** ⚠ *Counts below are the tracker's and are known to be unreliable:
 California and Illinois each had a bill listed twice, New York's list showed seven bills under a
