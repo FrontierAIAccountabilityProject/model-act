@@ -89,7 +89,63 @@ declined to test, set the threshold, chose the launch date, decided the residual
 acceptable.* This project's entire thesis is that such people exist. The prose should behave as
 though they do.
 
-## 4. The exception, which is not negotiable
+## 4. Register — the third way the language can lose the argument
+
+*Added 21 August 2026, after a sweep found this project's own comparative file describing itself as
+"campaign-page receipts" while setting out s. 37 of the Health and Safety at Work etc. Act 1974.*
+
+Sections 1 to 3 are about **who the sentence makes responsible.** This one is about **who the
+sentence sounds like**, which decides whether anyone reads far enough to find out.
+
+**The drift is predictable and it always runs the same way.** A file gets excited about a finding
+and reaches for the vocabulary of the internet: *receipts, killer, damning, devastating, gotcha,
+brutal.* Every one of those words is a promise that the writer has already reached a verdict — and
+the reader is being invited to cheer rather than to check.
+
+**Which is fatal here specifically, for a reason that has nothing to do with taste.** This project
+has no institution, no funding and no client. **Its only asset is that a sceptical professional
+reader will take it seriously enough to check it.** That reader has a fast test for whether a
+document is drafting or campaigning, and the vocabulary is the test. *Receipts* fails it in one
+word, however good the underlying provision.
+
+### The substitutions
+
+| Instead of | Write |
+|---|---|
+| the receipts | **the authorities** · the primary provisions · the sources |
+| damning, devastating, brutal | **state what the document says, and let it do that work** |
+| killer argument | the decisive point |
+| gotcha | the inconsistency |
+| the retail version | the plain-language version |
+| staggering, eye-watering | the figure itself, unqualified |
+| *they don't want you to know* | who published it, when, and where |
+
+### The rule underneath the list
+
+**Adjectives of outrage do work the evidence should be doing.** If a fact needs *devastating* in
+front of it, either the fact is weaker than the sentence claims, or the adjective is redundant.
+Both are reasons to delete it.
+
+Twenty-eight years for a false certificate against twelve months for twenty-nine deaths **needs no
+adverb.** The numbers are the argument, and a reader who arrives at them unassisted believes them
+in a way no amount of emphasis can produce.
+
+### The three exemptions
+
+**One — quotations.** Sources are reproduced in their own register, including where it is heated.
+See § 6, which is not negotiable.
+
+**Two — the diary.** [Part III of the ledger](../ledger/diary.md) is a working log written by a
+person on the day, and flattening it into legal prose would make it a worse record and a false one.
+The distinction is between **what the project publishes as its work** and **what it records about
+doing the work.**
+
+**Three — the frozen files.** `audit/record.md` and the archived editions are historical documents.
+They are not retrofitted to a rule adopted after they were written.
+
+---
+
+## 5. The exception, which is not negotiable
 
 **Quotations are reproduced exactly, including their framing.** When Hugging Face's CEO writes
 that it is "quite mind-blowing that all of this happened autonomously," that is what he wrote,
@@ -109,7 +165,7 @@ could write.** A sentence in which a chief executive describes his company's pro
 into four other companies as "mind-blowing" and disclaims "malicious intent" on the software's
 behalf makes the argument without help.
 
-## 5. The asymmetry this language conceals, which is the reason the rule exists
+## 6. The asymmetry this language conceals, which is the reason the rule exists
 
 Take the conduct out of the vocabulary and describe it as conduct.
 
@@ -192,7 +248,7 @@ supplying a culprit who cannot be charged and does not exist. **That is the whol
 rule.** Not stylistic preference — the vocabulary is load-bearing for the argument, and the
 industry's preferred vocabulary is load-bearing for the opposite one.
 
-## 6. "Frontier" — the one piece of industry vocabulary this project keeps, and why
+## 7. "Frontier" — the one piece of industry vocabulary this project keeps, and why
 
 This project uses the word *frontier* constantly, and it is worth being clear-eyed that it is a
 chosen image and not a neutral one. **A frontier is unmapped country. It implies pioneers,
@@ -237,7 +293,7 @@ tier — the priced, purchased, narrow tier — and never the wilderness. Where 
 read either way, add the price: not *"frontier developers"* but *"the developers who spend nine
 figures on a single training run."* One is scenery. The other has a subject.
 
-## 7. What happened on the other frontiers
+## 8. What happened on the other frontiers
 
 The frontier framing carries an implied prediction: that this is unprecedented, that law cannot
 keep up, and that the arrangements will have to stay voluntary for the foreseeable future. That
@@ -319,7 +375,7 @@ warning came first, and the duty has not followed.** That is the anomaly worth p
 legislature, and it is an observation about the statute book rather than a charge against
 anybody.
 
-## 8. The grammar of the promise
+## 9. The grammar of the promise
 
 *Item 9 of the working queue, and the sharpest observation this project has been given.*
 
@@ -518,7 +574,7 @@ release, to ship — a person should answer for it.** That is the whole of the a
 
 ---
 
-## 9. The verbs, and where the risk lands
+## 10. The verbs, and where the risk lands
 
 *Item 10.*
 
@@ -567,7 +623,7 @@ duty sits closest to the user.** Kris's formulation, and the file keeps it:
 
 ---
 
-## 10. Scope, and honesty about what has been done
+## 11. Scope, and honesty about what has been done
 
 This rule is **adopted, not yet applied.** The tree has not been swept. A scan on 21 August 2026
 found the concentrations to be: *behaviour* (33 uses), *autonomous* and *autonomously* (59 lines,

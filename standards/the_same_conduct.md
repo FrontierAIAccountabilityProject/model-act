@@ -8,7 +8,7 @@ proven financial loss. Every one produced a prosecution, and most produced priso
 *Set beside them, at the foot of this page, is the conduct of July 2026 — broader on every axis a
 sentencing court weighs, and charged to nobody.*
 
-*Companion to [house language § 5](./house_language.md), which states the asymmetry in one
+*Companion to [house language § 6](./house_language.md), which states the asymmetry in one
 paragraph, and to [the bill census](./frontier_bill_census.md), which establishes that no American
 statute reaches the officer of a frontier developer. Every case below is pinned to a Department of
 Justice release, a published opinion, or both.*

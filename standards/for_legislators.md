@@ -8,7 +8,7 @@ someone else's checking.*
 
 *Related: [the bill census](./frontier_bill_census.md) is the bill-by-bill checking behind § 1;
 [the commentary sweep](./commentary_sweep.md) is the same test run on the specialist literature;
-[house language § 7](./house_language.md) sets these findings beside the other frontier
+[house language § 8](./house_language.md) sets these findings beside the other frontier
 industries that reached the same question earlier.*
 
 **What this file is not.** Not legal advice, not a lobbying document, not a request. The

@@ -204,7 +204,7 @@ nobody who must pull it, and the only human signature it requires anywhere is th
 on the front page.*
 
 **The threshold, and why it is a drafting argument** — the general form of the point is at
-[house language § 6](./house_language.md), which sets out what every frontier definition in force
+[house language § 7](./house_language.md), which sets out what every frontier definition in force
 actually measures.
  Covered technology is defined by **the cost
 of the compute**: a system *"developed utilizing a quantity of computing power the cost of which

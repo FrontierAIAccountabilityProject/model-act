@@ -62,7 +62,7 @@ frontier model equally.
 | **Large language model (LLM)** | The same, at scale. | "Large" is undefined and moves every year. |
 | **Generative AI** | Models producing new output — text, images, audio, video — resembling their training data. | The category FDA's [August 2026 docket](../filings/frontier_ai_in_medicine.md) is about. |
 | **Foundation model** | A large model trained broadly and intended to be adapted to many uses. | The nearest thing to a technically honest term for what this Act covers. |
-| **Frontier model** | **A priced tier.** Defined in every enacted statute by compute — above 10²⁶ operations, or over \$100,000,000 of compute in H.R. 9917. | Not a capability claim. A purchase. See [house language § 6](./house_language.md). |
+| **Frontier model** | **A priced tier.** Defined in every enacted statute by compute — above 10²⁶ operations, or over \$100,000,000 of compute in H.R. 9917. | Not a capability claim. A purchase. See [house language § 7](./house_language.md). |
 | **General-purpose AI** | The EU's term for the same family, with a systemic-risk presumption above 10²⁵ FLOP. | Useful for comparative drafting. |
 | **Narrow / task-specific model** | A model trained for one job — reading a mammogram, flagging a transaction. | **Most FDA-authorised AI devices are these, not frontier models.** Conflating them is the commonest error in this debate. |
 | **AI-enabled medical device** | A regulated device incorporating any of the above. | A regulatory category, not a technical one. |
