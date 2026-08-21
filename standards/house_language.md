@@ -623,6 +623,110 @@ duty sits closest to the user.** Kris's formulation, and the file keeps it:
 
 ---
 
+## 10a. The headline corpus — how the July–August 2026 incidents were written up
+
+*Collected 22 August 2026. **These are headlines read from a search-results page, not articles this
+project has opened.** Several are visibly truncated. Grading and caveats at the end; the caveats
+matter more here than usual, because the whole point is the exact wording.*
+
+The July and August 2026 evaluation incidents — models reaching real infrastructure from inside test
+environments — produced a large volume of coverage in a short window. **Read as a corpus, the
+grammar is remarkably consistent.**
+
+| headline (as displayed) | outlet | date |
+|---|---|---|
+| *"AI goes on a hacking spree"* | BBC News (The Global Story) | ⚠ ~15 Aug 2026 |
+| *"'Brace for Impact': The AI hacking wave is coming"* | Sky News | ⚠ ~18 Aug 2026 |
+| *"AI agent went rogue and hacked startup by itself, OpenAI reveals"* | The Guardian | ⚠ ~22 Jul 2026 |
+| *"Anthropic's Claude AI escapes tests to hack three organisations"* | BBC | ⚠ ~1 Aug 2026 |
+| *"Why are AI agents hacking other companies and have they…"* † | BBC News | ⚠ ~8 Aug 2026 |
+| *"Meta becomes latest firm to say its AI hacked another…"* † | BBC | **6 Aug 2026** |
+| *"EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt"* | Reuters | ⚠ ~21 Aug 2026 |
+| *"OpenAI halts testing, slows development after rogue model…"* † | ABC (Australia) | ⚠ ~19 Aug 2026 |
+| *"AI agent hacks to lead to cybersecurity spending boom"* | CNBC | **11 Aug 2026** |
+| *"Irregular faces criticism over 'spin' in AI hacking postmortem"* | The Record (Recorded Future) | ⚠ ~18 Aug 2026 |
+
+† **truncated in the source and not reproduced as complete.**
+
+### What the grammar does
+
+**Five distinct constructions, one effect.**
+
+**One — the spree.** *"AI goes on a hacking spree."* A spree is something a person goes on. It
+implies a run of self-directed acts, an appetite, a spell of abandon. **No company is named in the
+sentence at all.**
+
+**Two — the weather.** *"The AI hacking wave is coming," "brace for impact."* **A wave has no
+author.** This is the register of natural disaster, and it is the construction that most completely
+removes the question of who did anything. You do not assign liability for a wave; you prepare for
+it.
+
+**Three — going rogue.** *"AI agent went rogue," "rogue model," "a rogue AI hacking attempt."* **To
+go rogue is to have been loyal and to have decided otherwise.** It presupposes both a prior duty
+and a capacity to abandon it. A misconfigured egress rule cannot go rogue.
+
+**Four — the escape.** *"Claude AI escapes tests."* **Escaping is what a prisoner or an animal
+does.** It makes the containment failure into an act by the thing contained. Compare the same
+events described by [a security vendor](./commentary_sweep.md): *"instructions described a boundary
+that the infrastructure did not enforce."* Same facts. No escapee.
+
+**Five — by itself.** *"hacked startup by itself."* **This is the only construction in the set that
+does the denial explicitly rather than by implication**, and it is worth noting that it appears in a
+sentence whose second clause is *"OpenAI reveals."* The company is the subject of the disclosure and
+absent from the conduct.
+
+### The one that shows the others are a choice
+
+*"Meta becomes latest firm to say **its AI** hacked another…"*
+
+**The possessive is right there.** The sentence knows the model belongs to a company — and still
+gives the verb to the model. **That is the whole finding in six words.** Naming an owner and
+assigning the act to the property is a specific grammatical decision, not an absence of information.
+
+### And the market read it the way it was written
+
+*"AI agent hacks to lead to cybersecurity spending boom."* **When conduct is framed as
+autonomous, the commercial response is to buy defences against it** — not to ask who is answerable
+for it. **A hurricane sells storm shutters. It does not generate a defendant.**
+
+**One outlet in the set names the problem.** The Record, a security publication, reports a firm
+*"faces criticism over 'spin' in AI hacking postmortem."* ⚠ *Article not opened; the substance of the
+criticism is not known to this project and nothing about that firm's conduct is asserted here.*
+**What the headline establishes is only that the framing of these incidents is itself contested
+inside the security press.**
+
+### Why this belongs in a statutory file rather than a media-criticism one
+
+**This is not a complaint about journalism.** Headlines are short, verbs are compact, and *"model
+reached production infrastructure after a containment failure"* does not fit a phone screen. **Much
+of this is compression, not spin.**
+
+**But [the glossary](./what_these_words_mean.md) sets out why it matters anyway.** A model is not a
+legal person. It cannot hold authority, owe a duty, be served, appear, or be punished. **So every
+sentence that makes the model the actor describes conduct that, in law, has no actor at all.** Do
+that across a fortnight of national coverage and the public account of the most significant
+frontier-AI security events yet disclosed contains **no person, anywhere, who did anything.**
+
+**That is the condition this Act legislates into.** Not hostility — vacancy.
+
+### ⚠ Grading, and it is weak
+
+**These are headlines from a search-results page.** ⚠ **F.** Not one article has been opened. Three
+are truncated. Dates shown as *"1 day ago"*, *"3 weeks ago"* and so on have been converted to
+approximate dates from 22 August 2026 and are marked ⚠; **only the CNBC (11 Aug), BBC Meta story
+(6 Aug), OpenAI (21 Jul) and Anthropic (30 Jul) dates were given absolutely.**
+
+**Search-results pages also rewrite and truncate titles**, so a headline as displayed is not
+reliably the headline as published. **Before any of this is quoted publicly, each headline must be
+confirmed against the article itself and its publication date recorded exactly.** A file arguing
+that precise wording carries legal weight cannot afford to misquote a single word of it.
+
+**And the honest limit of the argument:** this shows how the events were *described*. It does not
+show that the description changed any outcome. **That is a further claim and this file does not
+make it.**
+
+---
+
 ## 11. Transparency and accountability — why one of these words wins
 
 **"Transparency" sounds like a cool glass of water.** Costless, obviously good, nobody's enemy.
