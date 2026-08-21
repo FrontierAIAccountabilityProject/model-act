@@ -85,7 +85,7 @@ the number of rows actually read.*
 | Frontier bills identified (⚠ tracker figure, duplicates suspected) | ~34, across 10 states + federal |
 | **Read and answered** | **6** (H.R. 9917, Connecticut SB 5, Idaho S 1297, Nebraska LB 525, Illinois P.A. 104-0538, New York ch. 96 of 2026) |
 | Of those read: reaching a natural person **as an officer of a developer** | **0** |
-| Of those read: naming officers and directors in the operative text | **1** (Connecticut, as recipients of a report — no duty attaches) |
+| Of those read: naming officers and directors in the operative text | **2** (Connecticut and California SB 53 — both as recipients of a quarterly report, no duty attaching to either) |
 | Of those read: requiring a human signature **from anyone at all** | **1** (Illinois — and it is the outside auditor's) |
 | Of those read: requiring a signature from **anyone inside the developer** | **0** |
 | Of those read: any criminal liability at all, entity or person | **0** |
@@ -609,6 +609,90 @@ asserted a gap from arithmetic it never did.
 
 ---
 
+### California SB 53, read in full — and it is the text New York now has
+
+*Read 21 August 2026 from the chaptered text, in full, by the project maintainer. **✅.** This
+replaces the single automated retrieval the file previously relied on, and that retrieval was
+right about the nil result and blind to everything else in this section.*
+
+**The nil result stands.** Chapter 138 of 2025 contains **no occurrence of `audit`, `signature`,
+`certify` or `certification`.** California's enacted statute does not carry the provision
+California's own vetoed bill drafted.
+
+#### But it does name officers and directors, and the census said it did not
+
+**Labor Code § 1107.1(e)(2)(A)**, added by SB 53:
+
+> Except as provided in subparagraph (B), the disclosures and responses of the process required by
+> this subdivision **shall be shared with officers and directors of the large frontier developer at
+> least once each quarter.**
+
+**(B)** disapplies it to an officer or director accused of the wrongdoing.
+
+**This is the Connecticut provision.** This census records Connecticut SB 5 as routing quarterly
+anonymous catastrophic-risk reports to *"the officers and directors of the large frontier
+developer"* and attaching no duty to receiving them, and reported it as **the only** instrument
+naming officers and directors in operative text. **That was wrong.** California does the same thing,
+on the same quarterly cadence, with the same absence of any consequent obligation. The tally is
+corrected above from one to two. *Filed as [E20](../ledger/errata.md).*
+
+**And the correction strengthens what Connecticut was evidence for.** One state routing risk reports
+to named officers and asking nothing of them is a drafting choice. **Two states doing it identically
+is a template.**
+
+#### The larger finding: New York's enacted Act is substantially this statute
+
+Three provisions, compared against the project's pinned copy of New York chapter 96 of 2026:
+
+| California SB 53 | New York, enacted |
+|---|---|
+| § 22757.12(c)(1)(B) — *"A mechanism that enables a natural person to communicate with the frontier developer"* | *"a mechanism that enables a natural person to communicate with the"* division — **the sole occurrence of *natural person* in New York's enacted law** |
+| § 22757.12(c)(2)(C) — *"The extent to which third-party evaluators were involved"* | *"the extent to which third-party evaluators were involved"* — **verbatim** |
+| § 22757.12(e)(1)(A) and (B) — *"materially false or misleading statement about catastrophic risk… or its management of catastrophic risk"* and *"…about its implementation of, or compliance with, its frontier AI framework"* | **both, verbatim, in the same order** |
+
+**So the provision this file called "the one that comes closest" in New York's enacted law — the
+duty not to make materially false statements about catastrophic risk — is California's sentence.**
+
+#### Two lineages, and only one of them spread
+
+Set the two traces beside each other.
+
+**The accountability line.** California SB 1047 drafts an annual independent audit, a lead-auditor
+signature, and assessment of designated and empowered senior personnel. **Vetoed with its bill.**
+New York carries it at S 6953-A § 1421(4), together with veil-piercing, officer whistleblower
+protection and a bar on unreasonably risky deployment. **Struck at the B amendment, six days before
+passage.** Louisiana drafts the audit without the signature. **Dies in chamber.** Illinois enacts it.
+**One survivor in four attempts.**
+
+**The transparency line.** California SB 53 — framework, transparency report, incident reporting,
+no audit, no signature, officers and directors as recipients of a quarterly report they owe nothing
+about. **Enacted in California. Substantially adopted in New York's enacted text. The
+officers-and-directors mechanism appears identically in Connecticut.** Three states.
+
+> **The model with a person accountable in it has been drafted four times and enacted once. The
+> model without one has been enacted three times in a year.**
+
+That is the census's finding, stated at last with a mechanism rather than as an absence.
+
+#### What is not claimed
+
+**Direction of travel is not established by textual identity alone.** These provisions may descend
+from a common draft, from the same advocacy or model-legislation source, or from legislatures
+reading each other. **This file records that the texts are the same and does not assert who copied
+whom.** The dates are compatible with California-to-New-York — SB 53 chaptered 29 September 2025,
+New York's chapter amendment in 2026 — but compatible is not the same as demonstrated.
+
+**Nor is any of this a criticism of the transparency model**, which does real work: mandatory
+frameworks, incident reporting to a state agency, whistleblower protection with fee-shifting and a
+reversed burden of proof. **The observation is narrower.** Every duty in it runs to a company, and
+where a human being is named, it is to receive a report.
+
+**Confidence. ✅** for SB 53 — the chaptered text read in full. **⚠ R** for the comparisons against
+New York chapter 96, run by automated search against this project's pinned copy. **⚠ R** for
+SB 1047, still read once and not by a human eye.
+
+---
+
 ### Searching for the provision's own words found a bill no list of ours contained
 
 **Method note, and it is the most useful thing in this section.** Every coverage failure this
@@ -729,9 +813,9 @@ nowhere in this repository:**
 - [x] **New York — S 6953-A** — **done, 21 Aug, ✅.** Read in full from nysenate.gov by the
   maintainer and pinned verbatim in the New York repository. The audit is § 1421(4); Illinois's
   (d)(2)(C) and (G) are its (C)(III) and (C)(IV). **Embargo lifted.**
-- [x] **California — SB 53** *Transparency in Frontier Artificial Intelligence Act* — word test run
-  21 Aug on the chaptered text. ⚠ **No occurrence of *audit*.** Single retrieval; re-run before
-  quoting. A full row is still owed.
+- [x] **California — SB 53** *Transparency in Frontier Artificial Intelligence Act* — **done,
+  21 Aug, ✅.** Chaptered text read in full. No *audit*, no *signature*, no *certify*. Names
+  officers and directors at Labor Code § 1107.1(e)(2)(A). See the section above.
 - [x] **California — SB 1047** (2023–24, vetoed) — traced 21 Aug. *Not an enacted statute and so
   not a census row, but the origin of the audit and lead-auditor language. See the lineage
   sections above.*

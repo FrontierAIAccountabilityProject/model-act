@@ -557,6 +557,42 @@ record rather than tidying them — so this note is the only thing that distingu
 reading the deployed files rather than the local ones. **The push had reported success.** Status:
 **cured**; both files verified against the remote on 21 August 2026.
 
+**E20 — 21 August 2026 (internal catch, same day). "The only instrument naming officers and
+directors" was not the only one.**
+
+**The claim** (`standards/frontier_bill_census.md`, tally, and the Connecticut row's verdict). The
+census reported **1** under *"naming officers and directors in the operative text"*, attributing it
+to Connecticut SB 5 alone, and the Connecticut row was written as the singular case: a frontier
+statute that routes quarterly catastrophic-risk reports to *"the officers and directors of the large
+frontier developer"* and asks nothing of them in return.
+
+**The text it missed.** California SB 53, chapter 138 of 2025, adds Labor Code § 1107.1(e)(2)(A):
+*"the disclosures and responses of the process required by this subdivision shall be shared with
+officers and directors of the large frontier developer at least once each quarter."* Subparagraph
+(B) disapplies it to an officer or director accused of the wrongdoing. **Same recipients, same
+quarterly cadence, same absence of any consequent duty.**
+
+**Cause.** SB 53 had been word-tested for *audit*, *signature*, *certify* and *certification* — the
+terms the lineage work was chasing — and the nil result was correct. **The word test the census's
+own method prescribes was not run**, and that list contains *officer* and *director*. A partial
+search was recorded as though it were the file's standard one.
+
+**Why it is graded rather than fixed silently.** The census's whole value is that its counts are
+floors it can defend. **A count of one, published as the only case, is a stronger claim than a count
+of two** — it says a thing is anomalous. Two states doing something identically is a template, which
+is a different and better finding. The error made the evidence look thinner than it is while making
+the claim sound sharper than it was.
+
+**The fix (copy, applied 21 August 2026).** The tally reads **2** and names both. The new SB 53
+section states the parallel and draws the conclusion the correction supports: *one state routing
+risk reports to named officers and asking nothing of them is a drafting choice; two states doing it
+identically is a template.* No statutory change.
+
+**Credit:** caught when the maintainer read the SB 53 chaptered text in full and pasted it, after
+the file had recorded a single automated retrieval of that same statute. **The retrieval was right
+about what it was asked and blind to everything else** — which is the standing argument for reading
+the primary. Status: **cured**.
+
 <a id="part-ii"></a>
 
 ---
