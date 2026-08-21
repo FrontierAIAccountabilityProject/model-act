@@ -3,7 +3,7 @@
  
 **Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
 
-***Working on today (Fri 21 Aug 2026):** I’m preserving the serious legal material, but changing its order. The new opening will give a two-minute reader, a ten-minute helper, and a formal reviewer different routes instead of making all three begin with a 90-minute README.*
+***Working on today (Fri 21 Aug 2026):** I’m working on this page today. I'm preserving the serious legal material, but changing its order. The new opening will give a two-minute reader, a ten-minute helper, and a formal reviewer different routes instead of making all three begin with a 90-minute README.*
 
 **Invited to review?** Start at [For the review council](#for-the-review-council) — the core set, your lane, and a time budget. Everything else on this page is context you are licensed to skip.
  
