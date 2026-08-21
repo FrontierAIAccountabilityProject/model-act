@@ -21,7 +21,8 @@ are marked open at the end, and are open on purpose.
 
 *PRC Criminal Law art. 31.*
 
-*Answers: "This is a Chinese psyop — look, it has MAO in it."*
+*Answers: "How does this proposal compare with officer-liability regimes in other
+jurisdictions?"*
 
 **The proposition.** Chinese criminal law already imposes dual punishment — the entity
 fined, the responsible individuals criminally punished — generally across the code, and
@@ -279,33 +280,12 @@ strategically, and this file records both.
 
 ---
 
-## 5. The name
-
-*Answers, in its lighter half: the same objection as § 1.*
-
-The two founding cases of the responsible corporate officer doctrine are *United States
-v. Dotterweich*, 320 U.S. 277 (1943), and *United States v. Park*, 421 U.S. 658 (1975).
-Joseph Dotterweich was president of Buffalo Pharmacal Company; John R. Park was chief
-executive of Acme Markets. Both were American businessmen prosecuted under American
-food-and-drug law. The front page's line — that one surname reads German and one reads
-Korean — is an observation about how names read, not a claim about either man's origin,
-and it is made to retire the premise that a name indicates a jurisdiction.
-
-A second coincidence, noted and deliberately left off the front page as unpinned in the
-session that found it: *LLMAO* is reportedly also the name of a fault-localisation tool
-presented at ICSE 2024, which scores which line of code is most likely at fault. If
-someone pins it, the joke — that both LLMAOs score suspiciousness, one over source code
-and one over org charts — earns its place.
-
----
-
 ## Open items in this file
 
 1. The Copenhagen dispatch (§ 3), unpinned and therefore unused.
-2. The LLMAO fault-localisation tool (§ 5), unpinned and therefore unused.
-3. PRC Criminal Law Amendment XII (adopted December 2023, effective 1 March 2024) raised
+2. PRC Criminal Law Amendment XII (adopted December 2023, effective 1 March 2024) raised
    penalties for certain breach-of-duty and bribery offences by personnel of private
-   enterprises. An earlier draft of the psyop answer stated more broadly that several
+   enterprises. An earlier draft of the § 1 answer stated more broadly that several
    maxima rose from five years to ten; the wider claim was not verified and was cut. The
    narrower, verifiable version may be worth pinning if the comparison ever needs it.
 
