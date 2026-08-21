@@ -259,6 +259,49 @@ misdemeanour with a one-year cap. Holmes was convicted on the **investor** count
 representations she made, and **acquitted on the patient counts** — the ones about people whose
 blood was actually tested.
 
+### The salmonella case is closer than it looks, and it is the industry's own metaphor
+
+**A discipline first, because this section could easily break this project's own rule.** *Viral*,
+*self-replicating* and *spreading* are embodied metaphors of exactly the kind
+[house language](./house_language.md) says to distrust. **This file does not adopt them.** What it
+does is note who is using them — **and it is the laboratories' own researchers.**
+
+In August 2026 a paper titled *"Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems"*
+was published by authors from the **Anthropic Fellows Program and EPFL**. It documents ideas that
+spread through systems of agents by inducing the agents that adopt them to pass them onward,
+including across sessions where memory is wiped, and an emergent **"viral persona."** *The authors'
+own limit travels with the finding: they conclude it poses "a real but currently limited risk."*
+*Full entry, graded, at [the dossier](../dossier/README.md).*
+
+**Now put that beside Parnell.**
+
+Peanut Corporation of America shipped a product carrying a **self-replicating biological agent.**
+The harm did not stop at the point of sale — it multiplied, travelled, and reached people who had
+no relationship with the company at all. Nine died. Seven hundred fell ill. **The officer got
+twenty-eight years.**
+
+**The legal architecture that made that possible is not exotic.** Anglo-American law has spent two
+centuries building doctrine for products whose harm propagates beyond the transaction: adulterated
+food, contaminated blood, defective vaccines, escaped organisms. The doctrine's central move is to
+**locate a person before the product leaves**, because once it has left there is nobody to reach.
+
+**So when a frontier laboratory's own researchers describe their systems producing self-propagating
+material, they are describing a harm shaped like the one that doctrine exists for** — and doing it
+voluntarily, in a paper, with their names on it.
+
+**This is not a claim that a language model is a pathogen.** It plainly is not, the paper says the
+risk is currently limited, and treating the metaphor as a fact would be exactly the error this
+project's language rule was written to prevent.
+
+**The claim is narrower.** If the people closest to the work reach for *viral* and *self-propagating*
+to describe what they are shipping, then the objection that these harms are too speculative to
+legislate for is being answered by the industry rather than by us. **And in the one case where a
+product's harm genuinely did replicate its way through the public, the United States imposed
+twenty-eight years on the man who signed the paperwork falsely.** Nobody at a frontier developer
+signs any paperwork at all.
+
+---
+
 ### Why this is the argument for SEC. 8, and the strongest version of it
 
 This project has argued that the certification requirement matters because it creates an artefact

@@ -9,7 +9,10 @@ administrative record and this folder should be diffable.
 |---|---|---|---|---|
 | [FDA-2026-N-7874](https://www.regulations.gov/docket/FDA-2026-N-7874) | GenAI-enabled medical devices — discussion paper | 18, 21, 25, 26 | 19 Oct 2026 | **Draft** — [`fda_2026_n_7874_comment.md`](./fda_2026_n_7874_comment.md) |
 
-**Also on this shelf.** [Who actually files](./who_actually_files.md) — three hundred and forty
+**Also on this shelf.** [Does the frontier touch medicine?](./frontier_ai_in_medicine.md) — what
+FDA can and cannot currently see, and why one in five American adults is already taking medical
+advice from a frontier model outside every mechanism designed to catch it.
+[Who actually files](./who_actually_files.md) — three hundred and forty
 million people, fifty-one comments, twenty-one of them industry, deciding how these systems may be
 used on children and on people at their worst moments. [The field
 guide](./how_to_file_a_federal_comment.md) — how

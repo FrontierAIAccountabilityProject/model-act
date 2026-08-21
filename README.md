@@ -160,37 +160,41 @@ is the checking, and it is designed to be capable of failing.*
 
 **13 · [The same conduct, prosecuted](./standards/the_same_conduct.md)** — Five people prosecuted for computer access, no physical injury, announced exposure from ten years to four hundred and forty. Beside them, conduct in 2026 that was broader on every axis and charged to nobody.
 
-**14 · [Already a crime, if you are a person](./standards/already_a_crime_for_you.md)** — All five offences this Act creates are already crimes for ordinary people, most with heavier maxima and one with no intent requirement at all.
+**14 · [Why a signature works](./standards/why_a_signature_works.md)** — Twenty-eight years for a false certificate; twelve months for twenty-nine deaths and no document. Form FDA 1572, Sarbanes-Oxley, and the one item on the surgical checklist that the surgeons resented and the nurses welcomed.
 
-**15 · [Who actually files](./filings/who_actually_files.md)** — Three hundred and forty million people; fifty-one comments; twenty-one from industry.
+**15 · [Already a crime, if you are a person](./standards/already_a_crime_for_you.md)** — All five offences this Act creates are already crimes for ordinary people, most with heavier maxima and one with no intent requirement at all.
 
-**16 · [The commentary sweep](./standards/commentary_sweep.md)** — One dedicated gap analysis enumerated twenty-six deficiencies; personal accountability was not among them.
+**16 · [Does the frontier touch medicine?](./filings/frontier_ai_in_medicine.md)** — FDA has opened a generative-AI docket and says it "will explore methods to identify and tag" devices built on foundation models — meaning the regulator cannot yet count them. Meanwhile one in five American adults takes medical advice from a frontier model outside the system entirely.
 
-**17 · [FDA docket reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md)** — Every filer named, the substance of 22 of the 51 read, and the element none of those 22 names.
+**17 · [Who actually files](./filings/who_actually_files.md)** — Three hundred and forty million people; fifty-one comments; twenty-one from industry.
 
-**18 · [Comparative officer liability](./standards/comparative_officer_liability.md)** — s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA, and the claims cut for want of a source.
+**18 · [The commentary sweep](./standards/commentary_sweep.md)** — One dedicated gap analysis enumerated twenty-six deficiencies; personal accountability was not among them.
 
-**19 · [The dossier](./dossier/README.md)** — The evidence file, seven chapters, every fact graded and every grade explained.
+**19 · [FDA docket reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md)** — Every filer named, the substance of 22 of the 51 read, and the element none of those 22 names.
+
+**20 · [Comparative officer liability](./standards/comparative_officer_liability.md)** — s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA, and the claims cut for want of a source.
+
+**21 · [The dossier](./dossier/README.md)** — The evidence file, seven chapters, every fact graded and every grade explained.
 
 
 ### V · Reference
 
-**20 · [The adopted texts](./standards/interim_standards.md)** — The enacted standards SEC. 3(c)(4) freezes, pinned verbatim, and why Connecticut is not among them.
+**22 · [The adopted texts](./standards/interim_standards.md)** — The enacted standards SEC. 3(c)(4) freezes, pinned verbatim, and why Connecticut is not among them.
 
-**21 · [Table of authorities](./standards/table_of_authorities.md)** — Every authority cited, with the proposition it is cited for.
+**23 · [Table of authorities](./standards/table_of_authorities.md)** — Every authority cited, with the proposition it is cited for.
 
-**22 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
+**24 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
 
-**23 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
+**25 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
 
 
 ### VI · The record of accountability
 
-**24 · [The ledger](./ledger/README.md)** — Errata, changelog, diary, append-only. The register of this project's own mistakes is the only credential it can offer, and it is offered as one.
+**26 · [The ledger](./ledger/README.md)** — Errata, changelog, diary, append-only. The register of this project's own mistakes is the only credential it can offer, and it is offered as one.
 
-**25 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
+**27 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
 
-**26 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
+**28 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
 
 ## For sponsors and staff
 

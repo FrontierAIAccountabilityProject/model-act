@@ -24,6 +24,10 @@ downward readily. These files are the checking.*
 - [`frontier_bill_census.md`](./frontier_bill_census.md) — **every frontier AI bill in America,
   read one at a time.** One question per bill, a word test anyone can re-run, a confidence grade
   per row, and a tally that never exceeds the rows actually read.
+- [`why_a_signature_works.md`](./why_a_signature_works.md) — **the SEC. 8 case, consolidated.**
+  Twenty-eight years for a false certificate and twelve months for twenty-nine deaths with no
+  document; Form FDA 1572; Sarbanes-Oxley; and the surgical checklist item that the surgeons
+  resented and the nurses were grateful for.
 - [`the_same_conduct.md`](./the_same_conduct.md) — **a gallery of American computer-crime
   prosecutions**: five people, no physical injury, mostly no proven loss, announced exposure from
   ten to four hundred and forty years. Set beside conduct in 2026 that was broader on every axis
