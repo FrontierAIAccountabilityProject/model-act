@@ -60,6 +60,18 @@ reporting a conference talk: *das Team vergessen, eine zum Auftrag gehörende Da
 **The team forgot to upload a file.** The only human subject in the entire corpus — third-hand,
 translated, and graded that way.
 
+Findings that hold: UK government says personal accountability once in nine chapters and spends it on a named official.
+
+AISI lists five causes and every one is a human decision, in a report nobody signed. 
+
+Hugging Face disclosed five days before OpenAI. 
+
+Meta blamed its tester — the first real blame in a frontier incident went to the auditor, which is exactly where Illinois puts the only required signature. 
+
+And somewhere in a German article, four paragraphs down: the team forgot to upload a file. 
+
+Only human subject in the whole corpus.
+
 **Two broken delivery scripts, both mine.** macOS `base64` will not take a positional input file.
 Then a verification `grep` written against text that had never been grepped — the string was split
 by markdown emphasis and wrapped across a line. **The same mistake twice in one session, and the same
