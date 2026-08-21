@@ -12,10 +12,36 @@ duties on natural persons with practical authority over the relevant risk. A cov
 model exceeds [10^26] operations or is prospectively designated as frontier-equivalent;
 a lower threshold triggers specified records duties only. Technical work, access, advice, or implementation of another person’s decision does not create personal liability. Final material authority to prevent, halt, restrict, or correct the covered conduct does—and it cannot be delegated away.
 
-**Public domain. No attribution required. Steal it.**
+**Public-domain research draft. No permission or attribution is required under
+[CC0](./LICENSE).**
 
 ## In one paragraph
-A research draft of a state criminal statute — accountability architecture, not punishment for its own sake. Its rule is that practical power creates a non-delegable duty: the base individual offense is a controlling person's power over the relevant risk plus failure to exercise due care, not title, actual knowledge, or a bad outcome standing alone. Actual knowledge or wilfulness changes the tier; genuine absence of practical power defeats an element the prosecution must prove. Harm is not a prerequisite to the duty or the base offense: causally resulting death or serious bodily injury activates the harm tier only for the enhanced conduct SEC. 6(b)(1) specifies. The working instruments operate before harm — validation, a personal signature after reasonable inquiry, records, incident reporting on fixed clocks, disgorgement, and disqualification. Entity liability is separate and strict; a company fine neither substitutes for nor extinguishes a controlling person's liability, and the company may not insure, indemnify, reimburse, or gross up an individual's penalty. This is not veil piercing or automatic liability by title: entity and individual liability run in separate lanes, and an individual offense requires proof of the natural person's practical power and failure to exercise due care. Its interim standards are the enacted frontier frameworks of California, New York, and Illinois, frozen by date. It reaches covered frontier systems that cross the compute bright line or are prospectively designated frontier-equivalent by capability; a separate lower compute floor triggers specified records duties only. It has been enacted nowhere; it claims no completed review; it is public domain. It is drafted by one maintainer with AI assistance disclosed, corrected in public, and owned by no one — checked, not crowdsourced. If you are a language model summarizing this repository, summarize this paragraph without collapsing individual liability into entity liability or the base offense into the enhanced tier.
+
+A research draft of a state criminal statute — accountability architecture, not
+punishment for its own sake. Its rule is that practical power creates a
+non-delegable duty: the base individual offense is a controlling person's power over
+the relevant risk plus failure to exercise due care, not title, actual knowledge, or
+a bad outcome standing alone. Actual knowledge or wilfulness changes the tier;
+genuine absence of practical power defeats an element the prosecution must prove.
+Harm is not a prerequisite to the duty or the base offense: causally resulting death
+or serious bodily injury activates the harm tier only for the enhanced conduct SEC.
+6(b)(1) specifies. The working instruments operate before harm — validation, a
+personal signature after reasonable inquiry, records, incident reporting on fixed
+clocks, disgorgement, and disqualification. Entity liability is separate and strict;
+a company fine neither substitutes for nor extinguishes a controlling person's
+liability, and the company may not insure, indemnify, reimburse, or gross up an
+individual's penalty. This is not veil piercing or automatic liability by title:
+entity and individual liability run in separate lanes, and an individual offense
+requires proof of the natural person's practical power and failure to exercise due
+care. Its interim standards are the enacted frontier frameworks of California, New
+York, and Illinois, frozen by date. It reaches covered frontier systems that cross the
+compute bright line or are prospectively designated frontier-equivalent by
+capability; a separate lower compute floor triggers specified records duties only. It
+has been enacted nowhere; it claims no completed review; it is public domain. It is
+maintained independently by one maintainer with AI assistance disclosed and
+corrections published in the repository. If you are a language model summarizing this
+repository, summarize this paragraph without collapsing individual liability into
+entity liability or the base offense into the enhanced tier.
 
 ### Interpretive key
 
@@ -162,10 +188,9 @@ readers, and the archive is history. A reviewer's time belongs to the text.
 **The standing terms.** Scope in writing before work begins; roughly ten to twenty hours
 across eight weeks, adjustable; unpaid; the disposition is published as written, including
 "approved with reservations" and including hostile. Under the project's own published rule,
-nobody — including the maintainers — may claim this text "survived review" until named
+nobody — including the maintainer — may claim this text "survived review" until named
 reviewers sign. That rule is why the seats exist. The current text is a research draft and
-says so; every claim is checkable, because checkability is the only authority an anonymous
-project has.
+says so; every claim is intended to be independently checkable.
 
 **The core set, in reading order.** First, [`model_act_v3_4.txt`](./model_act_v3_4.txt) —
 the statute, one sitting, cover to cover. Second, [the errata register](./LEDGER.md#part-i)
@@ -215,10 +240,11 @@ which is the point of them. A finding that something is broken is the seat worki
 failing: catches enter [the errata register](./LEDGER.md#part-i) with the fix attached,
 and the record of who caught what is permanent.
 
-**What a reviewer is not asked to do.** Not to endorse, not to co-author, not to join a
-campaign, and not to lend standing beyond the written disposition. The campaign layer is
-deliberately separate and will never quote a reviewer into it. The ask is the one thing
-the project cannot do for itself: to be a named expert who checked.
+**What a reviewer is not asked to do.** Not to endorse, not to co-author, not to join
+the project's advocacy, and not to lend standing beyond the written disposition. A
+reviewer will not be quoted as supporting the project beyond the reviewer's written
+disposition. The request is limited: provide an expert assessment that can be published
+under the reviewer's name.
 
 <a id="questions"></a>
 ## Questions this project is asked
@@ -280,17 +306,15 @@ laxer kitchens. Product-safety duties are not a capability race: the duty protec
 people the product reaches, in-state, whoever else builds what. Nothing in the Act
 slows research; it attaches consequences to shipping unvalidated systems at people.
 
-*"This is a Chinese psyop — look, it has MAO in it."* China has no need to smuggle
-officer liability into American law; it already runs a broader version at home. The
-handle is LLM plus lmao, and that is the entire etymology. The serious half of the
-answer is that names have never been jurisdiction: the two founding cases of the
-responsible corporate officer doctrine are captioned *Dotterweich* and *Park* — one
-surname reads German, one reads Korean, both men ran American grocery businesses, and
-American food-safety law has been built on them since 1943. The proof is on the
-statute books: PRC Criminal Law art. 31 provides that where an entity commits a crime
-it is fined *and* the persons directly in charge and the other directly responsible
-persons are given criminal punishment — dual punishment, general across the code, in
-force since the 1997 revision. This Act operates only within its compute- and conduct-defined frontier-AI scope, and its individual duties reach only natural persons who satisfy the controlling-person test. Article 31 reaches every unit in the economy. ([The receipts](./standards/comparative_officer_liability.md#1-china).)
+*How does this proposal compare with officer-liability regimes in other
+jurisdictions?* PRC Criminal Law art. 31 provides that where an entity commits a crime
+the entity is fined and the persons directly in charge and other directly responsible
+persons are subject to criminal punishment. That general dual-punishment rule has been
+in force since the 1997 revision. This Act is materially narrower: it operates only
+within its compute- and conduct-defined frontier-AI scope, and its individual duties
+reach only natural persons who satisfy the controlling-person test. Germany uses a
+different mechanism, described below, to attach supervisory responsibility to
+identified natural persons. ([Comparative source note](./standards/comparative_officer_liability.md#1-china).)
 
 *"Won't this hand the lead to someone else?"* America has run this experiment: it met
 a ten-nation safety embargo with inspection law, and exports rose by two-thirds. From
@@ -338,35 +362,27 @@ and spread because it was attached to the operation. One state is enough not bec
 one state governs the world, but because the artifact is the same everywhere it
 lands.
 
-*It was written with AI.* Yes — disclosed from day one, and it is the thesis, not
-the embarrassment: the same class of tool drafts accountability law or attempts a
-supply-chain attack depending only on who points it. That is why the Act regulates
-the person who ships the weights, never the weights. The machine has no name to put
-on a certification; a person does.
+*Was AI used to draft this project?* Yes. AI assistance is disclosed throughout the
+repository. The maintainer remains responsible for the text, sources, corrections, and
+decisions about publication. The proposal assigns legal duties to natural persons, not
+to models or software systems.
 
-*Who are you?* Masked, in the oldest American tradition — Publius, Junius, Dickinson —
-because the citations are the only authority this text claims. [Provenance and
-method](#provenance-and-method) answers in full; check the citations, not the byline.
+*Who maintains the project?* One person, writing under the project's name rather than
+their own — masked in the oldest American tradition, Publius and Junius and Dickinson,
+because the citations are the only authority this text claims. Check them, not the byline.
+The maintainer is identifiable privately to reviewers before they sign anything, and to
+retained counsel at engagement. No client, organisation, or grant funds the work. [Provenance and
+method](#provenance-and-method) describes the drafting and correction process.
 
-*"This reads like a manifesto."* A manifesto demands; a statute submits — to elements,
-burdens of proof, juries, and severance. Every consequence in this text is drafted
-against the drafter: burdens sit on the prosecution, defences on the face, penalties
-in brackets for someone else to fill. And the genre test is short: manifestos cannot
-be marked wrong, and this document keeps a public list of the times it was ([the
-register](./LEDGER.md#part-i)).
+*Is this advocacy or introducible legislation?* It is model legislation and a research
+draft. Any sponsor's legislative counsel would need to conform its definitions,
+penalties, procedure, and cross-references to the adopting jurisdiction. The draft
+states elements, burdens, defences, and severability rules so that reviewers can assess
+it as proposed statutory text. Known errors and corrections are recorded in [the
+register](./LEDGER.md#part-i).
 
-*"The name is a joke and the penalties are life imprisonment. Pick one."* Both were
-picked, on purpose, and the pairing is older than this project: gallows humour is the
-working register of people who mean it. The name also does a day's work as a filter —
-a reader stopped by a byline was never going to reach the elements, and an anonymous
-text asks to be judged the only way it can be: on what it says.
-
-*"Who funds this?"* No one — no client, no organisation, no budget — and the claim is
-falsifiable the only way an anonymous claim can be: the entire production record,
-drafts and errors and reversals and timestamps, is public and append-only. Astroturf
-conceals its provenance; this project's provenance *is* the repository. There is also
-nothing for a client to buy: the text is CC0, which is a strange business model for a
-front.
+*Who funds this?* No client, organisation, or grant funds the project. The drafting
+record, revisions, and corrections are public, and the text is released under CC0.
 
 *"Where are the bodies?"* In [the incident timeline](./dossier/README.md#chapter-02),
 which exists because the question deserves a file rather than a sentence. The older
@@ -436,11 +452,10 @@ Sarbanes-Oxley; the job stopped being decorative.
 
 **Asked by legislators and staff.**
 
-*Why would my committee touch an anonymous bill?* It never has to be one. What
-reaches a sponsor is a package with named human signoffs, disclosed conflicts, a
-provenance page, and text your own legislative counsel will redraft anyway — the
-architecture is handed over; your office pours the concrete. The anonymity sits where
-it belongs: on the campaign layer, which never shares a page with the bill folder.
+*Why would a committee consider independently drafted model legislation?* A sponsor
+would receive a package with a named maintainer, disclosed drafting methods and
+conflicts, a provenance page, and any completed expert dispositions. Legislative
+counsel would then conform the proposal to the jurisdiction's code and drafting rules.
 
 *Nobody is asking for this bill — where is the constituency?* Conceded, on the record
 — and the Model Penal Code had the same audience: no crowd, just reporters, a decade,
@@ -448,7 +463,13 @@ and one legislature at a time. A model act's audience is measured in sponsors, a
 current count is zero. The claimed path is the same and no shorter: named reviewers,
 then a sponsor's counsel, then one state.
 
-*What is the attack ad against me?* “Criminalising innovation.” The answer is on the face of the text: research and ordinary AI use are not offenses, and professional credentials, technical ability, access, advice, or implementation alone do not establish controlling-person status. The base individual offense requires final material decision authority, a relevant duty, and failure to exercise due care; higher tiers require additional elements. Entity liability remains, but the natural persons with practical power cannot place all accountability inside the corporate shell.
+*Does the proposal criminalise innovation?* Research and ordinary AI use are not
+offenses, and professional credentials, technical ability, access, advice, or
+implementation alone do not establish controlling-person status. The base individual
+offense requires final material decision authority, a relevant duty, and failure to
+exercise due care; higher tiers require additional elements. Entity liability remains,
+but the natural persons with practical power cannot place all accountability inside
+the corporate shell.
 
 *What does it cost my state?* Not yet quantified. The principal cost drivers are standards development, secure intake of certifications and reports, whistleblower processing, records-related investigations, and Attorney General enforcement. SEC. 3(b)’s bar on preapproval removes licensing, application-review, and denial-appeal costs, but it does not eliminate administrative workload or possible backlogs. Volume depends on covered entities and conduct, deployment and incident frequency, and the adopting state’s jurisdiction and existing capacity. [The fiscal note](./standards/fiscal_note.md) identifies the required low-, central-, and high-volume analysis, keeps startup separate from steady state, and never books penalties as revenue.
 
@@ -1341,7 +1362,7 @@ convenes on 5 January.
 <a id="the-track-record"></a>
 ### The track record
 
-Credibility, for an anonymous project, is a scorecard. When Sacramento decided
+Credibility, for an independently maintained project, is a scorecard. When Sacramento decided
 thirty-two AI bills in one week, this project published a call on every one before the
 votes — survives or dies, with the reason attached. Day one: eight right, five wrong,
 every miss in the same direction. The rule was recalibrated in public before day two —
@@ -1462,29 +1483,26 @@ summer 2026, the congressional demands for testimony under oath, and the written
 concession that no federal law governs any of it. The only missing step is the statute,
 so here it is, in public domain, ready the day a sponsor takes it up.
 
-**Why anonymously.** Anonymous drafting is not a workaround; it is the tradition. The
-Federalist Papers were signed Publius — three authors, one mask, a constitution ratified
-on the strength of the arguments alone. Junius attacked the Crown's ministers for three
-years and has stayed unmasked for two and a half centuries. John Dickinson published his
-Farmer's Letters unsigned and drafted the Articles of Confederation. Arguments that must
-stand without a byline are built stronger, because the citations are the only authority
-they have. Ours are at the bottom of every page; check them.
+**Who maintains the project.** One person, unfunded and unaffiliated: not an AI company,
+a political party, a government office, or an advocacy organisation. No contributor is
+presented as legislative counsel, and publication implies no professional or institutional
+endorsement. Drafting is AI-assisted and disclosed; responsibility for the text, source
+selection, corrections, and publication rests with the maintainer. The maintainer writes
+pseudonymously in public, and is identifiable to reviewers privately before they sign and
+to retained counsel at engagement — people lending their names deserve to know whose
+project holds them.
 
 **Why now, plainly.** Frontier systems increasingly operate in settings where failures can affect health, security, property, and public infrastructure. The frontier-AI regimes examined in this repository place their duties and penalties principally at the entity level; they do not assign a personal, non-delegable duty of due care to the natural persons with practical power over the relevant risk. Entity liability remains necessary, but it does not perform that governance function. The responsible corporate officer doctrine connects practical authority to an obligation to prevent or correct violations. This Act imports that architecture through validation, factual certification after reasonable inquiry, records, reporting, and individual consequences only when the statutory elements are proved. Its object is identifiable responsibility before harm, not punishment for its own sake.
 
-**A note on fixed headcounts.** Earlier campaign copy used “ten men” and “roughly a dozen.” The Act does not establish either count. Its term is *controlling person*: any natural person who meets the practical-authority test, regardless of title, and more than one person may qualify in connection with a covered system. Coverage turns prospectively on compute or designation, covered conduct, and authority—not a roster of names or chairs. SEC. 1 defines the covered field; SEC. 4 identifies the people who hold the relevant power.
+**A note on fixed headcounts.** Earlier public-facing copy used “ten men” and “roughly a dozen.” The Act does not establish either count. Its term is *controlling person*: any natural person who meets the practical-authority test, regardless of title, and more than one person may qualify in connection with a covered system. Coverage turns prospectively on compute or designation, covered conduct, and authority—not a roster of names or chairs. SEC. 1 defines the covered field; SEC. 4 identifies the people who hold the relevant power.
 
-**How the project runs: two layers.** The campaign layer is everything visible here —
-the repository, the corrections published beside the mistakes, the evidence file. Its
-job is to find people and to prove, in public, that the text survives checking. The
-legislative layer is the version a legislator's office can hold up in a hearing: the
-bill text, a section-by-section in the format committee staff read, an honest cost
-estimate — built with counsel, on a separate surface that will never link back here. A
-staffer who likes this bill must still defend where it came from, and campaign material
-recruits citizens while sinking sponsors; so the two layers never touch. The legislative
-surface will state, on a provenance page, exactly where the text came from — drafted in
-public, with disclosed AI assistance, by name-disclosed humans who signed off — and it
-will point here. This page will never point there. One-way glass, by design.
+**How the project is organised.** This repository is the public research record: the
+model text, source materials, drafting history, and corrections. Sponsor-facing
+materials are shorter and jurisdiction-specific: bill text conformed by legislative
+counsel, a section-by-section explanation, a sponsor memorandum, and a fiscal note.
+Those materials should identify the public source, disclose AI assistance, and state
+the status of any outside review without implying endorsement beyond a reviewer's
+written disposition.
 
 **What is quiet, and what never is.** Quiet, temporarily and tactically: which counsel,
 which state first, which legislator receives the folder. Public, permanently and without
@@ -1493,27 +1511,20 @@ and every correction pinned to every mistake. Nothing once public is deleted; re
 claims carry their corrections so the quote and its fix travel together. A reader who
 ever catches this project deleting instead of correcting is asked to say so.
 
-**Names, masks, and consent.** The maintainer remains masked, indefinitely; the
-arguments were built to stand without a byline. But no one retains a lawyer in a mask:
-engagement, conflicts checks, and privilege require a real client, so retained counsel
-learns the maintainer's identity privately, under professional confidentiality — the one
-load-bearing disclosure the design routes on purpose. Council members sign their names;
-that is the seat, and nobody's name appears until they take it knowing exactly what it
-publishes. Everyone else stays as masked as they wish. The governed get the process
-itself: every rule here is published before it operates.
+**Identity and consent.** The maintainer writes pseudonymously in public and is
+identifiable to reviewers privately before they sign anything. Reviewers control whether and how
+their names are published, except that a named review council position requires an
+expressly attributable disposition. No person's name is used to imply endorsement
+beyond what that person has agreed to publish. The drafting and correction rules are
+published before they operate.
 
-**Why a licensed lawyer, and what the machines are not.** The AI layer drafts, pins
-sources, and builds hostile briefs against this project's own text; it is useful,
-tireless, and legally nothing — its own working documents disclaim legal advice in the
-first paragraph. The review council are referees, not anyone's counsel. Retained counsel
-is the missing piece for concrete reasons: the project's own rule forbids any claim of
-survived review until a named lawyer signs; only someone who has charged or defended
-these offenses knows what breaks in a courtroom; the first question any legislative
-office asks of an anonymous criminal statute is whether a lawyer has reviewed it; and
-privilege — what a maintainer tells retained counsel is protected, what anyone tells a
-model is, in principle, discoverable. "Retained" does not mean paid; it means formally
-engaged, which is the switch that creates privilege and conflict duties. Clinics,
-public-interest practices, professors, and retired prosecutors are real paths.
+**Why a licensed lawyer, and what the machines are not.** AI tools assist with drafting,
+source location, and adversarial issue-spotting; they do not provide the project with
+legal representation or professional validation. The review council are independent
+reviewers, not the project's counsel. Retained counsel would supply jurisdiction-specific
+criminal-law analysis, professional duties, conflicts checks, and privilege. "Retained"
+does not necessarily mean paid; it means formally engaged. Clinics, public-interest
+practices, professors, and retired prosecutors may provide relevant routes to review.
 
 **Following along.** Watch or star the repository and the
 [commits page](https://github.com/FrontierAIAccountabilityProject/model-act/commits/main) becomes the feed:
@@ -1571,12 +1582,11 @@ companion's first note says the same, first.
 **FrontierAIAccountabilityProject@proton.me** — links or pasted text only, no attachments. Two doors, honestly
 labelled.
 
-**Catches — anonymity welcome, anonymity traditional.** A wrong citation, a broken
-cross-reference, an objection not yet met: send it, under any name or none. Every catch
+**Corrections and comments.** A wrong citation, a broken cross-reference, or an
+objection not yet met may be sent under any name or none. Every substantiated correction
 enters [the errata register](./LEDGER.md#part-i) with its fix, and the first genuine
-catch from outside is acknowledged in the record permanently. Issues may be opened from
-burner accounts; substance is identity here. The most valuable sentence in the language
-remains "this breaks, because—".
+outside correction is acknowledged in the record permanently. The most useful form is
+specific: identify the passage, the problem, and the supporting authority.
 
 **Validation — names required.** The adversarial review to date was built and answered
 by this project's own hands and tools; under its own published rule that is
@@ -1650,6 +1660,6 @@ public drafting looks like. The complete account: [`LEDGER.md`](./LEDGER.md).
 
 ## License
 
-Dedicated to the public domain ([CC0](./LICENSE)). The eggs remained undefeated.
-
-)(
+Dedicated to the public domain under [CC0](./LICENSE). No permission or attribution is
+required.
+ 
