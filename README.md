@@ -207,7 +207,7 @@ before the next revision. Fourth,
 notes; skim all, read closely where the lane points. Fifth,
 [the hostile brief](./audit/record.md#chunk-7) — the Act as read by the other side's
 counsel; if an objection is already there, grade our answer; if it is not, that finding is
-what the seat is for.
+what the formal review is for.
 
 **The lanes.** *Criminal law* — the statute's SEC. 1, 4, 5–6, and 10(b)–(c); cures 2, 5,
 and 13 in the queue; the penalty and harm-tier chunks of [the record](./audit/record.md#chunk-3).
@@ -231,12 +231,11 @@ budget office.
 and the lane's cure entries. Full pass: the lane's companion notes and record chunks, then
 the disposition. Anything beyond that is generosity, not scope.
 
-**Filing a disposition.** Email llmaolaw@proton.me — links or pasted text, no attachments
-— in any form: a memo, a marked-up copy, a numbered list of findings. Or, if you have been contacted by the maintainer via a different account, please reply through the channel you were contacted on. It is published as
-written, credited or anonymous at the reviewer's choice; council seats publish with names,
-which is the point of them. A finding that something is broken is the seat working, not
-failing: catches enter [the errata register](./LEDGER.md#part-i) with the fix attached,
-and the record of who caught what is permanent.
+**Filing a disposition.** Email **[llmaolaw@proton.me](mailto:llmaolaw@proton.me)** using links or pasted text rather than attachments. A disposition may be a memo, a marked-up copy, or a numbered list of findings. If the maintainer contacted you through another account, reply through that channel.
+
+A formal council disposition is published as submitted under the reviewer’s name; named authorship is the external validation the council exists to provide. Short answers and corrections submitted outside the council remain anonymous or credited at the contributor’s choice, as described in [Start here](#start-here).
+
+A finding that something is broken means the review is working. The finding and resulting fix enter [the Ledger](./LEDGER.md#part-i) permanently; attribution outside the council follows the contributor’s election.
 
 **What a reviewer is not asked to do.** Not to endorse, not to co-author, not to join a
 campaign, and not to lend standing beyond the written disposition. The campaign layer is
