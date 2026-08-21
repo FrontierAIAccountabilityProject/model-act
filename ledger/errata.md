@@ -593,6 +593,103 @@ the file had recorded a single automated retrieval of that same statute. **The r
 about what it was asked and blind to everything else** — which is the standing argument for reading
 the primary. Status: **cured**.
 
+---
+
+## E21 — Dates converted from "N days ago" run a day late, systematically
+
+**Filed 22 August 2026. Severity: low individually, method-level in aggregate.**
+
+**The error.** [House language § 10a](../standards/house_language.md) collected ten headlines from a
+search-results page. Dates displayed as *"1 day ago"*, *"3 weeks ago"* and so on were converted by
+counting back from 22 August 2026 and marked ⚠ approximate.
+
+**Two of those approximations became checkable when the underlying articles were opened. Both were
+wrong. Both were wrong by one day, in the same direction.**
+
+| item | § 10a estimate | actual | error |
+|---|---|---|---|
+| The Record | ⚠ ~18 Aug 2026 | 17 Aug 2026 | one day late |
+| Reuters | ⚠ ~21 Aug 2026 | 20 Aug 2026 | one day late |
+
+**Cause.** A relative timestamp is a floor, not a point. *"3 days ago"* on a page rendered 22 August
+covers anything from the 19th back into the 18th, and rounding to the nearest whole day lands late.
+**The ⚠ mark recorded that the dates were approximate. It did not record that the approximation had a
+known direction, which is the part that makes it correctable.**
+
+**Why it matters more than two days.** This project's argument in that section is that exact wording
+carries legal weight. **A file making that argument cannot publish dates it has not pinned** — and a
+one-day error is enough to misorder a sequence, which is exactly what
+[who has to tell you § 4a](../standards/who_has_to_tell_you.md) now turns on.
+
+**The fix (copy, applied 22 August 2026).** § 10a's grading section states the bias and instructs that
+every remaining ⚠ date be read as *"probably a day earlier than shown"* and published as none.
+Confirmed dates now come from the articles. No statutory change.
+
+**Credit:** surfaced by the maintainer supplying the article texts. Status: **cured for the checked
+items; six unopened headlines remain ⚠.**
+
+---
+
+## E22 — A quotation held in a working summary is not a quotation
+
+**Filed 22 August 2026. Severity: high — this one nearly published.**
+
+**The error.** A research file, [press corpus](../research/press_corpus_july_august_2026.md), was
+written carrying four quotations attributed to four named people at four outlets. **They came from a
+working summary of an earlier reading session, not from article text the project could still put its
+hands on.** They were graded on the strength of *"a human read the article in full"* — true of the
+reading, and irrelevant to the transcription. **They were withdrawn within minutes**, before the file
+left the working copy, when the primary texts arrived and did not contain them.
+
+**Cause, stated precisely because it will recur.** The confidence rubric grades **how a source was
+obtained.** It has no column for **how the words travelled from the source into the file.** A
+quotation that has passed through a summary is a paraphrase wearing quotation marks, and it passes
+every check the rubric currently runs.
+
+**Why it is the most dangerous entry in this register so far.** [E15](#e15) was about grading a claim
+on who wrote a source. **This is worse: the source was real, the reading was real, the grade was
+honest, and the words were still not safe.** One of the four — an expert account with no agency in it,
+sitting inside an article whose headline gave the verb to the model — would have been the single
+strongest item in § 10a. **The best-sounding quotation in the batch was the one with no text behind
+it. That is the shape of the failure and it is not a coincidence:** a remembered quotation drifts
+toward whatever the file needed it to say.
+
+**The fix (copy and method, applied 22 August 2026).**
+
+1. All four are quarantined in § 6 of the press corpus file, marked **withdrawn**, with the articles
+   listed as leads to re-open.
+2. **New standing rule.** A quotation enters a repository file **only from text open at the moment of
+   writing.** If the text has to be remembered, the sentence is written as a claim about what the
+   source says — never as words the source said.
+3. **Rubric note.** ✅ describes acquisition, not transcription. **A ✅ source can carry a ⚠
+   quotation**, and the two must be graded separately.
+
+No statutory change.
+
+**Credit:** caught by the arrival of the primary texts — which is luck. **Rule 2 exists because luck
+is not a control.** Status: **cured; the four leads remain open.**
+
+---
+
+## E23 — Precision note: three quotations re-verified against the live page before publication
+
+**Filed 22 August 2026. Not an error. Recorded because the register should show the rule working, not
+only the rule being broken.**
+
+Immediately after [E22](#e22), Chapter 3 of the UK **Government Cyber Action Plan** was added to
+[why a signature works § 2a](../standards/why_a_signature_works.md#2a) — a section whose entire weight
+rests on three strings: *"personal accountability"*, *"a senior, capable individual with authority"*,
+and *"novel technologies, such as generative AI"*.
+
+**All three were re-fetched from
+[the live gov.uk page](https://www.gov.uk/government/publications/government-cyber-action-plan/government-cyber-action-plan)
+and confirmed verbatim before the section was written**, along with the publication date (6 January
+2026) and last-updated date (20 March 2026), neither of which was in the supplied text.
+
+**The re-fetch also produced a finding the reading had not:** the phrase *"personal accountability"*
+occurs **exactly once** in the document. That is now the sharpest sentence in the section, and it
+exists because the check was run. **E22's rule paid for itself the same day it was written.**
+
 <a id="part-ii"></a>
 
 ---

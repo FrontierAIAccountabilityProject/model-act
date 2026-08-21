@@ -105,6 +105,123 @@ piece of paper.**
 
 ---
 
+## 2a. And in this exact domain, a government has already built the architecture
+
+*Source: UK **[Government Cyber Action Plan](https://www.gov.uk/government/publications/government-cyber-action-plan/government-cyber-action-plan)**,
+Department for Science, Innovation and Technology, **published 6 January 2026, last updated 20 March
+2026**. Chapter 3: Accountability, read in full 22 August 2026. **✅** — every quotation below
+re-verified against the live page the same day.*
+
+**Everything in § 2 is an analogy from another field. This is not an analogy.** It is cyber risk,
+including AI risk, in 2026, with an accountability architecture already written — and every load-
+bearing element of it is a named human being.
+
+### The diagnosis, in the government's own words
+
+> **"Current accountability structures have failed to achieve the right level of resilience.
+> Responsibilities for cyber risks are unclear at all levels of government, including across the
+> supply chain. Leaders lack visibility and understanding of the risk and resilience levels within
+> their purview."**
+
+**That is [the census's](./frontier_bill_census.md) central finding, written by a state about
+itself.** Not *we lack controls*. Not *we lack technology*. **Responsibilities are unclear.**
+
+And the remedy is stated as a relationship, not a control:
+
+> *"The government needs to reset its relationship with cyber risk by ensuring that it is visible,
+> understood, **owned** and actively managed."*
+
+### The sentence
+
+> **"The Accounting Officer is the senior official (Permanent Secretary or CEO) with overall
+> accountability for an organisation. This includes **personal accountability** for the cyber risk of
+> that organisation."**
+
+**Personal accountability. A named natural person, identified by office, for cyber risk.** It already
+exists, it is already in force across the whole of British central government, and nobody argued that
+no competent person would take the job.
+
+**And the phrase appears exactly once in the entire plan.** A document of nine chapters about
+accountability uses the words *personal accountability* one time, and spends them on the Accounting
+Officer. **Everything else in it is owned by units, functions, boards and departments.** The plan is
+not casual about this: it knows the difference between an organisation being accountable and a person
+being accountable, and it makes the distinction once, deliberately, at the top.
+
+### And the duties read like SEC. 8 with the numbers filed off
+
+The plan lists what an Accounting Officer must do. Compare it to what this Act asks:
+
+| Accounting Officer responsibility | this Act |
+|---|---|
+| *"ensuring that controls to remain within risk appetite are implemented **and effective**"* | SEC. 8 — certification **after reasonable inquiry**, not on assurance received |
+| *"appoint a senior, capable individual **with authority** to manage organisation-wide cyber security"* | the controlling person — practical authority, not title |
+| *"appoint a senior, capable individual **with authority** for organisation-wide digital and information technology"* | as above |
+| *"appoint an informed board member with expertise in cyber security and resilience"* | the empowerment limb |
+| *"ensure escalation of risks outside cross-government risk appetite"* | incident reporting on fixed clocks |
+| *"ensure routine reporting to departmental board"* | records duties |
+
+**Read the phrase that appears twice: *"a senior, capable individual with authority."*** That is
+Illinois's *"designation **and empowerment** of senior personnel"* — [the four words § 5 of this file
+is about](#5-the-gap-stated-in-one-paragraph) — **written as a duty owed by a named person, instead
+of as a box for an auditor to tick.**
+
+**Illinois asks an outside contractor to confirm that such a person exists. The UK requires a named
+official to appoint them, and answers for it if they do not.** Same requirement. Different end of the
+telescope.
+
+### And generative AI is already classified as the risk no single organisation can hold
+
+The plan divides cyber risk in two. **Government-wide risks** are defined as *"risks with
+severity/complexity that would be unmanageable by a single organisation"* — and the listed examples
+include:
+
+> *"Risks created by widespread adoption of **novel technologies, such as generative AI**."*
+
+**Those risks are owned by the DSIT Permanent Secretary, as Government Technology Risk Owner.** One
+post. One person. The stated objective is to *"establish central accountability for risks that
+departments or organisations cannot reasonably be expected to manage."*
+
+> **A government has formally judged that generative-AI risk exceeds what any single organisation can
+> hold, and responded by naming one individual to hold it.**
+
+**Set that beside [the census](./frontier_bill_census.md).** Enacted American frontier statutes assign
+the same class of risk to *large frontier developers* — corporate persons — and to no natural person
+at all. **Two jurisdictions reached opposite conclusions about the same technology in the same year,
+and only one of them wrote down a name.**
+
+### The limits, and they are real
+
+**This is not criminal liability and this file must not imply that it is.** The Accounting Officer
+regime is constitutional and administrative: an AO answers to Parliament and the Public Accounts
+Committee, and the sanction is political and professional, not custodial. **Nobody goes to prison
+under Chapter 3.**
+
+**It also governs the public sector, not private frontier developers.** Suppliers appear only through
+contract — *"good procurement practices, contractual security and resilience terms and audit and
+review processes"* — which is precisely the weaker instrument this project argues is insufficient
+where the duty ought to be direct.
+
+**So what it proves is bounded, and it is the bound that matters.** Not that criminal certification
+works. **That personal, non-delegable accountability for AI-related cyber risk, attached to a named
+individual with authority, is not a radical proposal, an untested one, or an unworkable one.** It is
+what a G7 government wrote down for itself when it decided that unclear responsibility was the thing
+that had failed.
+
+**The burden the objection carries is therefore heavier than it looks.** Anyone arguing that a
+frontier developer cannot have a responsible officer has to explain why the arrangement the British
+state imposed on itself — for this technology, this risk, this year — is impossible for the companies
+that build it.
+
+*⚠ **Checks owed.** Confirm the Accounting Officer duty against
+[Government Functional Standard 007: Security](https://www.gov.uk/government/publications/government-functional-standard-govs-007-security)
+and *Managing Public Money*, which are its primary sources — the Action Plan restates the duty, it
+does not create it. Establish whether any Accounting Officer has ever been **personally sanctioned**
+over cyber risk. **If none ever has, that is a finding against this section, it belongs in the file,
+and it goes in the register** — because it would make Chapter 3 evidence that the architecture is
+normal and no evidence at all that it bites.*
+
+---
+
 ## 3. What a signature actually does, from the field that measured it
 
 The best evidence that naming a person changes behaviour does not come from law. It comes from
@@ -206,6 +323,62 @@ voluntarily are the standard of care they can be measured against.**
 encourage more experience and training."* More research. Better evaluations. Gawande's entire book
 is the demonstration that this does not work at scale, in a field with far more training than this
 one.
+
+---
+
+## 4a. "This will flood the system" — and the answer, written down by a government
+
+**The commonest practical objection to a personal criminal duty is volume.** Investigations
+everywhere. Defensive paperwork. Prosecutors with no capacity chasing conduct they cannot assess.
+Engineers who lawyer up instead of writing incident reports. **It is a serious objection and it is
+about enforcement capacity, which is the scarce resource in every regulatory regime ever built.**
+
+**The UK government answered it in June 2026 while trying to do something else entirely.** Running
+frontier models against government code across nine organisations, the Government Cyber Coordination
+Centre found that the models produced candidate findings far faster than humans could check them,
+and wrote down the lesson:
+
+> *"Triage is essential. Agents generate candidate findings far faster than humans can validate them.
+> Poorly scoped runs burn tokens on low-value targets; weak review dumps the load onto stretched
+> security teams… **As in traditional vulnerability management, it's not how many issues are found,
+> but whether triage points limited resource where it matters.**"*
+>
+> — DSIT and NCSC, *When AI Leaves the Lab*, 12 June 2026
+
+**Read that as a statement about statutes and it is the whole design brief.**
+
+**A regime is not measured by how much conduct it covers. It is measured by where it points.** A duty
+laid on everyone reaches nobody, because limited enforcement resource spreads until it is invisible.
+**A duty laid on one person with a named power is a triage point.**
+
+### Which is exactly what enacted frontier law lacks
+
+**The corpus [the census](./frontier_bill_census.md) reads is a findings machine with no triage
+point.** Illinois requires an annual independent audit, a detailed assessment of internal controls,
+and an unredacted report retained *"for as long as a frontier model is deployed plus 5 years."*
+Connecticut routes quarterly catastrophic-risk reports to *"the officers and directors."* Twelve
+companies publish safety frameworks. H.R. 9917 would mandate a shutdown capability and \$20,000,000
+a day.
+
+**All of that generates findings. None of it says who the findings are about.** The same case study
+puts the second half of the point in four words:
+
+> **"Finding isn't the same as fixing."**
+
+**That is [the transparency/accountability distinction](./house_language.md#11) arriving in a
+government document.** Disclosure produces information. Only a duty produces a person who has to act
+on it.
+
+### And it is why the auditor is the wrong target, stated as a resourcing argument
+
+**Exposure aimed at people without halt authority is the definition of untriaged enforcement.** It
+spends scarce resource on participants who could not have prevented the outcome, and it degrades the
+input the whole system runs on, because **loading risk onto the person brought in to report honestly
+is how you stop getting honest reports.**
+
+**A certification requirement does not widen the net. It puts a handle on it.** One person, one
+document, one moment — chosen because it is the moment at which a system ships and the person who
+decided that it would.
 
 ---
 

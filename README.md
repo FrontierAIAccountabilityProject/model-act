@@ -15,6 +15,68 @@ a lower threshold triggers specified records duties only. Technical work, access
 **Public-domain research draft. No permission or attribution is required under
 [CC0](./LICENSE).**
 
+---
+
+## Two sentences a government already wrote down
+
+**One.** In June 2026 the UK government ran frontier models against its own public code — nine
+organisations, one month, 407 findings, £13,000 in tokens — and published what it learned. Its second
+lesson:
+
+> **"The model matters less than how it's used.** AISI's research, borne out here, shows that with
+> the right architecture and task design many near-frontier and frontier models perform comparably
+> at scanning code. The best findings still lean heavily on human expertise in breaking the problem
+> down and identifying wider context."
+>
+> — DSIT and the National Cyber Security Centre, [*When AI Leaves the Lab: Testing Frontier Models
+> in Government Cyber Defence*](https://www.gov.uk/government/case-studies/when-ai-leaves-the-lab-testing-frontier-models-in-government-cyber-defence),
+> **12 June 2026**
+
+**If the model matters less than how it is used, the risk is not in the artefact.** It is in the
+architecture somebody chose, the access somebody granted, the control somebody deferred, the scope
+somebody did not write down. Those are acts, acts have actors, and **at the compute frontier not one
+of those actors is required to put their name to anything.**
+
+**The UK's own incident report says it from the other side.** Of the five factors AISI lists as
+contributing to [its July 2026 incident](./research/aisi_incident_inc_2026_07_28_01.md), every one is
+a human decision: internet access *"deliberately enabled"*; classifiers *"deliberately disabled"*;
+monitoring *"not yet built"*; a misconfigured prompt; scope instructions never written. AISI adds:
+*"we did not revisit that judgment quickly enough as capabilities advanced."* **The most transparent
+incident report in the field identifies five decisions and no decision-maker.**
+
+**Two.** The same government has already built the architecture this Act asks for — for this risk, in
+this domain, in this year:
+
+> **"The Accounting Officer is the senior official (Permanent Secretary or CEO) with overall
+> accountability for an organisation. This includes personal accountability for the cyber risk of
+> that organisation."**
+>
+> — [Government Cyber Action Plan](https://www.gov.uk/government/publications/government-cyber-action-plan/government-cyber-action-plan),
+> Chapter 3, DSIT, published **6 January 2026**
+
+**The phrase *personal accountability* appears exactly once in that plan, and it is spent on a named
+official.** The plan requires that officer to *"appoint a senior, capable individual **with
+authority**"* over cyber security — the same *designation and empowerment* Illinois asks an auditor
+to verify, written instead as a duty a named person owes. And it classifies *"risks created by
+widespread adoption of novel technologies, such as generative AI"* as **unmanageable by any single
+organisation**, assigning them to one post-holder.
+
+> **Two jurisdictions looked at the same technology in the same year. One of them wrote down a name.**
+
+**It is not criminal liability, and this repository does not pretend otherwise** — an Accounting
+Officer answers to Parliament, not a jury. **What it settles is that the arrangement is ordinary.**
+Anyone arguing a frontier developer cannot have a responsible officer has to explain why what the
+British state imposed on itself is impossible for the companies building the technology.
+[The long version, with the limits](./standards/why_a_signature_works.md#2a).
+
+**And the first quote cuts against this statute too, which is why it is on this page and not in a
+footnote.** This Act's trigger is compute — 10²⁶ operations. A finding that capability does not track
+scale is a finding against that trigger, and independent testing has recovered comparable
+vulnerability analysis from open models with 3.6 billion active parameters.
+**[The challenge is recorded](./standards/frontier_bill_census.md), not answered.**
+
+---
+
 ## In one paragraph
 
 A research draft of a state criminal statute — accountability architecture, not
