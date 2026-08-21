@@ -357,6 +357,13 @@ Auernheimer read a page AT&T had published by accident.
 
 **Counts filed: none. Provisions available: none.**
 
+**And be precise about that, because the loose version is refutable.** American law reaches natural
+persons over AI readily — a sole operator running a chatbot is personally inside Nebraska's Act;
+sellers and distributors are reachable under other bodies of law. **What no American provision does
+is reach the officer of a covered frontier developer for the decision to release.** Part I of this
+file is the law reaching *down*, to five people with no institution behind them. This section is
+the same apparatus reaching *up*, and finding nothing there.
+
 Not a lighter sentence. Not a lesser charge. Not prosecutorial discretion exercised in someone's
 favour. **There is no provision under which anyone could be charged**, which is why fifteen state
 attorneys general reached for consumer-protection and data-privacy statutes on 3 August 2026 to

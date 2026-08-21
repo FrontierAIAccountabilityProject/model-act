@@ -59,16 +59,9 @@ entity liability or the base offense into the enhanced tier.
    does not discharge personal liability; personal liability cannot be moved back onto
    the corporate balance sheet.
 
-*The three long documents are in [`docs/`](./docs/).*
+**Start here** — [the case](./docs/the_case.md) · [the statute, translated](./docs/the_statute_translated.md) · [questions](./docs/questions.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[The case](./docs/the_case.md) — the argument, end to end  
-&nbsp;&nbsp;&nbsp;&nbsp;[The statute, translated](./docs/the_statute_translated.md) — SEC. 0–13 in plain language  
-&nbsp;&nbsp;&nbsp;&nbsp;[Questions](./docs/questions.md) — what this project is asked, and what it will not claim
-
-*On this page —* [Overview](#overview) · [Status](#status) · [Structure](#repository-structure) ·
-[Contents](#contents) · [For sponsors and staff](#for-sponsors-and-staff) ·
-[For the review council](#for-the-review-council) · [Recent](#recent) ·
-[Provenance](#provenance-and-method) · [Citation](#citation)
+**On this page** — [Overview](#overview) · [Status](#status) · [Structure](#repository-structure) · [Contents](#contents) · [For sponsors](#for-sponsors-and-staff) · [For reviewers](#for-the-review-council) · [Recent](#recent) · [Provenance](#provenance-and-method)
 
 ## Overview
 
@@ -125,121 +118,79 @@ model-act/
 *Grouped by what a reader would want it for. Every file states its own strength limits; nothing
 here is authority for the statute except the statute.*
 
----
 
 ### I · The statute
 
-&nbsp;&nbsp;**1**&nbsp;&nbsp;[The Act](./model_act_v3_4.txt) · `model_act_v3_4.txt`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*SEC. 0–13. Research draft, enacted nowhere; the authoritative text.*
+**1 · [The Act](./model_act_v3_4.txt)** — SEC. 0–13. Research draft, enacted nowhere; the authoritative text.
 
-&nbsp;&nbsp;**2**&nbsp;&nbsp;[Bill-folder text](./model_act_v3_4_jacket_clean.txt) · `model_act_v3_4_jacket_clean.txt`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The bare statutory text, stripped of apparatus.*
+**2 · [Bill-folder text](./model_act_v3_4_jacket_clean.txt)** — The bare statutory text, stripped of apparatus.
 
-&nbsp;&nbsp;**3**&nbsp;&nbsp;[Companion](./model_act_v3_4_companion.md) · `model_act_v3_4_companion.md`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Drafting notes n.1–n.43, the constitutional defence, and the open items for v3.5.*
+**3 · [Companion](./model_act_v3_4_companion.md)** — Drafting notes n.1–n.43, the constitutional defence, and the open items for v3.5.
 
-&nbsp;&nbsp;**4**&nbsp;&nbsp;[Implementing regulations](./model_regulations_v1_draft.md) · `model_regulations_v1_draft.md`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*First draft, unadopted.*
+**4 · [Implementing regulations](./model_regulations_v1_draft.md)** — The draft implementing regulations, unadopted.
+
 
 ### II · Reading it
 
-&nbsp;&nbsp;**5**&nbsp;&nbsp;[The case](./docs/the_case.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The argument, end to end: the problem, the precedents, what the Act provides,*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*the cross-examination, and how a bill is handed over.*
+**5 · [The case](./docs/the_case.md)** — The argument end to end: the problem, the precedents, what the Act provides, the cross-examination, and how a bill is handed over.
 
-&nbsp;&nbsp;**6**&nbsp;&nbsp;[The statute, translated](./docs/the_statute_translated.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*SEC. 0–13 in plain language, beside what the text actually says.*
+**6 · [The statute, translated](./docs/the_statute_translated.md)** — SEC. 0–13 in plain language, beside what the text actually says.
 
-&nbsp;&nbsp;**7**&nbsp;&nbsp;[Questions](./docs/questions.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*What this project is asked — including the questions it answers against itself.*
+**7 · [Questions](./docs/questions.md)** — What this project is asked, including the questions it answers against itself.
+
 
 ### III · For a sponsor's office
 
-&nbsp;&nbsp;**8**&nbsp;&nbsp;[For legislators and their staff](./standards/for_legislators.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The four things this project checked so your staff need not: the verified absences,*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*what the laboratories' own frameworks say, the comparative answer with primary text,*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*and your own state's analogue.*
+**8 · [For legislators and their staff](./standards/for_legislators.md)** — The four things checked so your staff need not, the verified absences, what the laboratories' own frameworks say, the comparative answer, and your state's analogue.
 
-&nbsp;&nbsp;**9**&nbsp;&nbsp;[The bracketed-matter worksheet](./standards/bracketed_matter.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Every bracketed choice, its section and line, and what the enacted family chose.*
+**9 · [The bracketed-matter worksheet](./standards/bracketed_matter.md)** — Every bracketed choice, its section and line, and what the enacted family chose.
 
-&nbsp;**10**&nbsp;&nbsp;[Fiscal note](./standards/fiscal_note.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*What the Act costs an adopting state. Startup kept apart from steady state; no revenue*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*in the arithmetic.*
+**10 · [Fiscal note](./standards/fiscal_note.md)** — What the Act costs an adopting state, startup kept apart from steady state.
 
-&nbsp;**11**&nbsp;&nbsp;[How to file a federal comment](./filings/how_to_file_a_federal_comment.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The field guide to regulations.gov, and the fact that inverts the civic instinct:*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*the process is not a vote.*
+**11 · [How to file a federal comment](./filings/how_to_file_a_federal_comment.md)** — The field guide to regulations.gov, and the fact that inverts the civic instinct, the process is not a vote.
+
 
 ### IV · The research behind the central claim
 
-*The claim: no American law places a duty on a named natural person who decides to ship a
-frontier system. What follows is the checking, and it is designed to be capable of failing.*
+*The claim: no American law places a duty on **the officer of a covered frontier developer** for
+the decision to ship — not that no law reaches any natural person, since several do. What follows
+is the checking, and it is designed to be capable of failing.*
 
-&nbsp;**12**&nbsp;&nbsp;[The frontier bill census](./standards/frontier_bill_census.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Every frontier AI bill in America, read one at a time. One question per bill, a word*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*test anyone can re-run, a confidence grade on every row, and a tally that never*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*exceeds the rows actually read.*
+**12 · [The frontier bill census](./standards/frontier_bill_census.md)** — Every frontier AI bill in America, read one at a time, with a confidence grade on every row and a tally that never exceeds the rows read.
 
-&nbsp;**13**&nbsp;&nbsp;[The same conduct, prosecuted](./standards/the_same_conduct.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*What American law does when a person accesses systems without authorisation: five*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*cases, no physical injury, mostly no proven loss, and announced exposure running from*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ten years to four hundred and forty. Beside them, conduct in 2026 that was broader on*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*every axis and charged to nobody.*
+**13 · [The same conduct, prosecuted](./standards/the_same_conduct.md)** — Five people prosecuted for computer access, no physical injury, announced exposure from ten years to four hundred and forty. Beside them, conduct in 2026 that was broader on every axis and charged to nobody.
 
-&nbsp;**14**&nbsp;&nbsp;[The commentary sweep](./standards/commentary_sweep.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*What the specialists say is missing. One dedicated gap analysis enumerated twenty-six*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*deficiencies; personal accountability was not among them.*
+**14 · [Already a crime, if you are a person](./standards/already_a_crime_for_you.md)** — All five offences this Act creates are already crimes for ordinary people, most with heavier maxima and one with no intent requirement at all.
 
-&nbsp;**14**&nbsp;&nbsp;[Who actually files](./filings/who_actually_files.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Three hundred and forty million people; fifty-one comments; twenty-one of them from*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*industry. What was being decided in that room, and why the emptiness is arithmetic*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*rather than apathy.*
+**15 · [Who actually files](./filings/who_actually_files.md)** — Three hundred and forty million people; fifty-one comments; twenty-one from industry.
 
-&nbsp;**15**&nbsp;&nbsp;[FDA docket reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The predecessor comment file: every filer named, the substance of 22 of the 51 read,*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*and the element none of those 22 names.*
+**16 · [The commentary sweep](./standards/commentary_sweep.md)** — One dedicated gap analysis enumerated twenty-six deficiencies; personal accountability was not among them.
 
-&nbsp;**15**&nbsp;&nbsp;[Comparative officer liability](./standards/comparative_officer_liability.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The receipts: s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA senior-manager*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*responsibilities — and the claims this project drafted and cut for want of a source.*
+**17 · [FDA docket reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md)** — Every filer named, the substance of 22 of the 51 read, and the element none of those 22 names.
 
-&nbsp;**16**&nbsp;&nbsp;[The dossier](./dossier/README.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The evidence file, seven chapters, every fact graded and every grade explained.*
+**18 · [Comparative officer liability](./standards/comparative_officer_liability.md)** — s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA, and the claims cut for want of a source.
+
+**19 · [The dossier](./dossier/README.md)** — The evidence file, seven chapters, every fact graded and every grade explained.
+
 
 ### V · Reference
 
-&nbsp;**17**&nbsp;&nbsp;[The adopted texts](./standards/interim_standards.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The enacted standards SEC. 3(c)(4) freezes — California, New York, Illinois — pinned*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*verbatim. A fourth state, Connecticut, enacted a frontier statute on 27 May 2026 and*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*is deliberately not adopted; see [E16](./ledger/errata.md).*
+**20 · [The adopted texts](./standards/interim_standards.md)** — The enacted standards SEC. 3(c)(4) freezes, pinned verbatim, and why Connecticut is not among them.
 
-&nbsp;**18**&nbsp;&nbsp;[Table of authorities](./standards/table_of_authorities.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Every authority cited, with the proposition it is cited for. Built for verification.*
+**21 · [Table of authorities](./standards/table_of_authorities.md)** — Every authority cited, with the proposition it is cited for.
 
-&nbsp;**19**&nbsp;&nbsp;[House language](./standards/house_language.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The drafting rule: how this project describes frontier AI and the people who ship it,*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*why* frontier *names a priced tier rather than a wilderness, and what happened on the*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*other frontiers.*
+**22 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
 
-&nbsp;**20**&nbsp;&nbsp;[The docket shelf](./filings/README.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*What has been filed, where, and on what deadline.*
+**23 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
+
 
 ### VI · The record of accountability
 
-&nbsp;**21**&nbsp;&nbsp;[The ledger](./ledger/README.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Errata, changelog, diary — append-only. For an unfunded drafting project with no*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*institution behind it, the register of its own mistakes is the only credential*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*available, and it is offered as one.*
+**24 · [The ledger](./ledger/README.md)** — Errata, changelog, diary, append-only. The register of this project's own mistakes is the only credential it can offer, and it is offered as one.
 
-&nbsp;**22**&nbsp;&nbsp;[The drafting record](./audit/record.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*How v3.2 became v3.3, the hostile brief, and the cure record — beside the*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[sealed v3.4 queue](./audit/v3_4_cure_language.md) and the [open v3.5 queue](./audit/v3_5_cure_language.md).*
+**25 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
 
-&nbsp;**23**&nbsp;&nbsp;[Archive](./archive/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Superseded versions, the print edition, and the script that reproducibly builds it.*
-
----
+**26 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
 
 ## For sponsors and staff
 

@@ -5,12 +5,38 @@ say; to [the commentary sweep](./commentary_sweep.md), which asks whether anyone
 them has noticed; and to [the sponsors' file](./for_legislators.md), which states the finding
 these rows are evidence for. Terms used here follow [the house language rule](./house_language.md).*
 
-*The question: **does it reach a natural person?** Not the company — a human being who can be
-named, who owes a duty, who signs something, or who answers personally when it goes wrong.*
+*The question: **does it reach the officer of a frontier developer?** Not the company, and not
+just any human being — the person inside a covered developer who decides that a system ships, and
+who could be named, could owe a duty, could sign something, and could answer personally when it
+goes wrong.*
 
 *Status: **in progress.** Every row below is either **read** and answered, or marked
 **⚠ unverified** and answered by nobody. No row is filled by inference, and no total is claimed
 until the rows support it.*
+
+
+---
+
+## Who this is about, and who it is not
+
+**About:** the **officers of frontier developers** — the small number of companies training models
+above 10²⁶ operations, or spending nine figures on a single training run. On the enacted family's
+own thresholds that is a **double-digit number of firms worldwide**, and inside them a smaller
+number of people who decide what ships.
+
+**Not about:** open-source contributors. Startups. Academic researchers. Deployers, hospitals,
+schools or employers using these tools. Small operators. **Users.**
+
+**And a distinction this project got wrong at first, corrected here.** It is not true that *no
+American law reaches a natural person* in connection with AI — it does, and readily. Nebraska's
+Conversational AI Safety Act defines an "operator" as a *person*, which includes a natural person,
+so a sole trader running a chatbot is inside it in his own name. Other bodies of law reach sellers
+and distributors too.
+
+**The true claim is narrower and worse.** *No American law places a duty on the officer of a
+covered frontier developer for the decision to release.* The law reaches **down** to the smallest
+participant and **not up** to the largest. That is the finding, and it is sharper than the
+overstatement it replaces.
 
 ---
 
@@ -425,8 +451,10 @@ the strongest version of this project's central claim — and unlike an argument
 anyone can falsify by producing one bill.
 
 **Not for:** a league table, a scorecard of legislators, or a claim about bills nobody has read.
-The tally above never exceeds the rows completed, and a bill that reaches a natural person would
-be the most valuable entry in the file, not an inconvenience.
+The tally above never exceeds the rows completed. And a bill that reaches **the officer of a
+covered frontier developer** would be the most valuable entry in this file, not an inconvenience —
+**note the precision**: not a bill reaching any natural person, which several already do, but one
+reaching the person who decides to release a frontier system.
 
 *Corrections to the project contact; they enter [the errata register](../ledger/errata.md) with
 the fix attached and permanent credit.*

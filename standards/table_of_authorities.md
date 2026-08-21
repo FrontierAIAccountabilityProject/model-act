@@ -7,7 +7,18 @@ project's citations without reading the documents that contain them.
 
 **Scope.** Statute and companion only. The drafting record (`audit/record.md`), the dossier,
 and the standards notes carry hundreds of further sources with their own inline flags; those
-are evidence apparatus, not the Act's authority base, and are not listed here. **Status.**
+are evidence apparatus, not the Act's authority base, and are not listed here.
+
+**That exclusion is deliberate and worth stating plainly, because the gap is growing.** Files in
+`standards/` now cite a great deal of law directly — 18 U.S.C. §§ 4, 1001, 1030 and 1519,
+21 U.S.C. §§ 331 and 333, Form FDA 1572, and a run of prosecutions in
+[the same conduct](./the_same_conduct.md) — **and none of it appears below.** Those citations are
+graded where they sit, under [the confidence
+rubric](./frontier_bill_census.md#the-confidence-rubric-governed-by-e15), which marks whether the
+primary was opened and by whom. Two different disciplines for two different jobs: this table is the
+**authority base of the statute**, kept small enough to stay accurate; the standards files are
+**evidence**, graded in place. An out-of-date table of authorities would be worse than none, so
+this one is not allowed to grow past what it can verify. **Status.**
 Compiled 20 August 2026 from the tagged v3.4 files. Pincites are given where the citing
 document gives them; where it does not, the entry says so, and closing that column is the
 remaining half of READ FIRST item 10 (the consolidated cite-check). Nothing here is a new

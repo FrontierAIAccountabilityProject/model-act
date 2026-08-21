@@ -124,6 +124,11 @@ strict-liability federal offence. A person who shreds a document in contemplatio
 matter faces twenty years. A young man who downloaded articles he was entitled to read faced a
 public figure of thirty-five.
 
+**And the direction of the gap, stated exactly.** The five statutes above reach natural persons
+without difficulty — including small operators, shift supervisors and sole traders. What none of
+them reaches is **the officer of a covered frontier developer, for the decision to release.** The
+law is not absent. It is pointed downward.
+
 **The extension this Act proposes is not of the criminal law. It is of its reach.** The five duties
 are the ordinary duties of a person who ships things, reports things, tells the truth to the
 government and keeps the records. What is unusual is not that a statute would impose them. **It is

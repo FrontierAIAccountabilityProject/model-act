@@ -17,8 +17,9 @@ makes. Every file here states its own strength limits; none of them is authority
 
 ## The research behind the central claim
 
-*The claim being: no American law places a duty on a named natural person who decides to ship a
-frontier system. These files are the checking.*
+*The claim being: no American law places a duty on **the officer of a covered frontier developer**
+for the decision to ship. Not that no law reaches any natural person — several do, and reach
+downward readily. These files are the checking.*
 
 - [`frontier_bill_census.md`](./frontier_bill_census.md) — **every frontier AI bill in America,
   read one at a time.** One question per bill, a word test anyone can re-run, a confidence grade

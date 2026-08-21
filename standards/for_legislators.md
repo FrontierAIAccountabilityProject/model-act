@@ -45,7 +45,11 @@ It does not happen, for four structural reasons:
 
 *Nobody publishes absences. These are the ones this project checked and can defend.*
 
-**Six frontier regimes checked, and not one reaches a natural person.** California's SB 53,
+**Six frontier regimes checked, and not one reaches the officer who decides to release.** *(Stated
+precisely, because the loose version is false: American law reaches natural persons over AI readily
+enough — Nebraska's "operator" includes one, so a sole trader running a chatbot is personally
+inside that statute. What no American law does is place a duty on **an officer of a covered
+frontier developer for the decision to ship.** The law reaches down, not up.)* California's SB 53,
 New York's RAISE Act, Illinois's Act and Connecticut's SB 5 are enacted; H.R. 9925 and H.R. 9917
 are introduced. Not one requires
 a natural person to certify anything, and not one attaches a duty to an identified officer.
