@@ -467,6 +467,8 @@ is the checking, and it is designed to be capable of failing.*
 
 **31 · [The standing watch](./audit/standing_watch_2026-08-20.md)** — The periodic re-sweep of live bills, litigation and federal vehicles — with what each sweep found and, at § 7(5), what it missed.
 
+**31a · [The lane sweep](./audit/v3_5_lane_sweep.md)** — An in-house pre-review across all five council lanes, 22 August 2026. Seven findings graded fatal — four in the tagged statute, three in the drafting the open queue proposes. **Not a review and never described as one**; it exists so a reviewer's hours are not spent rediscovering what we could find ourselves, and so that a reviewer can diff their findings against ours.
+
 **32 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
 
 **33 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
@@ -598,6 +600,12 @@ is never sold as self-funding,
 penalties are never booked as revenue, and startup costs are stated apart from steady
 state. Core question: whether the administrability story survives contact with a real
 budget office.
+
+**Before you start — what we already found ourselves.** [The lane sweep](./audit/v3_5_lane_sweep.md)
+is an in-house pre-review run across all five lanes on 22 August 2026. It is issue-spotting, not
+review, and it changes nothing about the rule that this text has not survived one. It is published
+so your hours go to the questions it could not answer — and each lane closes with exactly those.
+**Where you disagree with a sweep finding, you are right and the disagreement is a finding.**
 
 **Time budget.** First hour: the statute, straight through. First sitting: add the errata
 and the lane's cure entries. Full pass: the lane's companion notes and record chunks, then

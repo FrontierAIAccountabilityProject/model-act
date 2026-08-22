@@ -11,6 +11,33 @@
 *Convention: **ANCHOR** quotes v3.4 verbatim so the edit lands mechanically.
 **STRIKE/INSERT** gives the operation. **NEW TEXT** is the full inserted language.*
 
+> ## ⚠ HOLD — the lane sweep of 22 August 2026 supersedes parts of this queue
+>
+> An in-house pre-review across the five council lanes
+> ([the lane sweep](./v3_5_lane_sweep.md)) returned **seven findings graded fatal**, four in the
+> tagged statute and three in drafting proposed here, and it identified required amendments to
+> **CURE 6 and CURE 7 before either may land**. No entry in this file should be spliced into the
+> statute until the corresponding sweep finding is resolved. In summary:
+>
+> - **CURE 6** — the deployer carve-out omits *modifies*, *fine-tunes* and *trains upon*, while
+>   Operation 1 reaches "the developer that trained **or materially modified**" the model. As
+>   drafted, a research group that publishes a *frontier* safety protocol self-designates its
+>   fine-tunes into scope at any compute level, with retraction expressly ineffective. Needs: the
+>   modification verbs added to the carve-out; a compute floor on the route; an express textual
+>   rebuttal.
+> - **CURE 7** — market capitalisation and "most recent arm's-length valuation" cannot be elements
+>   of a criminal scope term; "mass-market scale" has no number and no rule-hook; "finances"
+>   reaches a lender; the supplier definition self-satisfies its own scale condition, so
+>   function-plus-scale does not operate for suppliers; and the capacity threshold reaches public
+>   and academic supercomputing. The **dollar thresholds themselves survive** — vagueness doctrine
+>   polices indeterminacy of standard, not absence of a donor statute.
+> - **CURE 1's held-open bifurcation — answered no.** See the entry below.
+> - **A new OPEN QUESTION 4** records the jurisdictional finding, which is the most consequential
+>   thing the sweep produced.
+> - **Process rule adopted:** every entry in this queue must carry a one-line **administrative
+>   load** note before adoption. CURE 7 added two rulemakings and a securities-analyst coverage
+>   inquiry without anyone in the fiscal lane being asked.
+
 ---
 
 ## OPEN QUESTION 1 — SEC. 3(c)(4): does Connecticut become a fourth interim standard?
@@ -109,6 +136,65 @@ make.
 
 ---
 
+## OPEN QUESTION 4 — SEC. 2(a) and SEC. 1(c): the Act does not reach the conduct it was written after
+
+*Opened 22 August 2026 by [the lane sweep](./v3_5_lane_sweep.md), enforcement lane, graded **fatal**.
+Not a cure — the most consequential scope question in the file, and the one a reviewer should read
+first.*
+
+**The fact.** SEC. 2(a): "A duty under this Act arises upon, and by reason of, the deployment,
+material expansion, release, or continued operation of a covered system in or into this State, **and
+not otherwise**." SEC. 1(c): a person who "does not deploy a covered system in or into this State,
+does not make it available to residents of this State, and does not release its weights, is not
+subject to this Act as to that system."
+
+Now apply that to the record this project was built on. The Anthropic incidents (three) and the
+Meta incident occurred in a third-party evaluator's environment **in Tel Aviv**. The AISI incident
+occurred **in the United Kingdom**. Only OpenAI's chain ran through the developer's own sandbox.
+**In an adopting state that is not California, five of six documented incidents fall outside the Act
+at the threshold.**
+
+SEC. 3(b) compounds it rather than saving it: validation attaches to "an identified model version
+**and deployment configuration**," and an evaluation configuration — production classifiers
+disabled, unfiltered internet — is by definition not the validated commercial one. So the eval
+configuration is an unvalidated covered system that was never deployed in-state, while the
+in-state validated configuration is not the one that did anything.
+
+**Why SEC. 0 does not rescue it.** SEC. 0(a)(3) reaches conduct that "concerns a covered system
+deployed or released in or into this State," and the models involved *are* commercially deployed.
+But SEC. 0 is uncodified findings — the companion's PLACEMENT section says to enact it outside the
+code precisely so that it creates no duties — and the operative text points the other way.
+
+**The proposed amendment**, which the sweep calls the highest-value change it produced. Amend
+SEC. 2(a)'s second sentence to add a second limb:
+
+> upon the evaluation, testing, or red-teaming of a covered frontier model that is deployed,
+> released, or made available in or into this State, or that the person conducting or commissioning
+> the evaluation intends so to deploy, release, or make available, where the evaluation is conducted
+> in a configuration granting the model an autonomous external-access capability or removing or
+> disabling a safeguard present in a deployed configuration; and not otherwise. Where an evaluation
+> within this subsection is conducted by or through another person, the duty attaches to the person
+> who commissioned it as to the decisions that person made or had authority to make, including the
+> decision to permit external access and the decision to remove or disable a safeguard.
+
+Conform SEC. 1(c) by adding evaluation so described to the conduct that subjects a person to the
+Act.
+
+**Why this is held rather than drafted into a cure.** It changes the Act's jurisdictional reach,
+which is the architecture SEC. 13's preemption posture and the dormant-commerce defence both rest
+on. Extending duties to conduct occurring abroad, on the basis of an intention to deploy in-state,
+is exactly the extraterritoriality question READ FIRST item 5 reserves for a federalism litigator.
+**It also disposes of OPEN QUESTION 2** — the safeguards-disabled evaluation — on the enforcement
+side, and is a precondition to any useful answer to OPEN QUESTION 3.
+
+**Administrative load:** widens the population of duty-holders to include developers commissioning
+offshore evaluations; no new rulemaking.
+
+**Status: open. For the enforcement, criminal-law and federalism lanes jointly. The single most
+important item in this queue.**
+
+---
+
 ## CURE 1 — "Serious injury" source moves to 18 U.S.C. § 1365(h)(3)–(4)
 
 *Resolves READ FIRST item 3(b) (companion): the harm tier's injury definition leaves
@@ -149,12 +235,34 @@ parenthetical becomes wrong the moment Operation 1 lands. Strike it and read: *1
 bodily injury": as defined in SEC. 1(b)(8) of the Act (18 U.S.C. § 1365(h)(3)–(4) pattern).*
 The regulations track the Act's defined term; they never restate it.
 
-**Held open — one design note.** Whether the SEC. 9 *reporting* trigger should keep
-broader language (report widely on the (h)(4) base; convict precisely on (h)(3)) while
-the SEC. 10(c) *element* takes (h)(3) alone. Report-vs-element bifurcation is a
-drafting-session decision for v3.5, flagged for the criminal-law seat alongside READ
-FIRST 3(c), the bracketed [two]-year minimum, which this cure does not touch and which
-remains open.
+**Held open — one design note, now answered by the sweep: NO.** The question was whether the
+SEC. 9 *reporting* trigger should keep broader language (report widely on the (h)(4) base; convict
+precisely on (h)(3)) while the SEC. 10(c) *element* takes (h)(3) alone. **The criminal-law lane of
+[the sweep](./v3_5_lane_sweep.md) rejects the framing:** it assumes the reporting side is the safe
+place for breadth, and in this Act it is not. SEC. 5(c) makes failure to report a prohibited act;
+SEC. 6(a) attaches a custodial offense to a due-care failure as to it; both operate from the
+effective date. Widening the SEC. 9 trigger therefore widens a crime punishable by imprisonment,
+and (h)(4) reaches "a cut, abrasion, bruise … or any other injury to the body, no matter how
+temporary." **Use (h)(3) for both.** If earlier warning is wanted, take it from an objective
+observable with its own donor — an injury requiring medical treatment beyond first aid, within the
+meaning of 29 C.F.R. § 1904.7(b)(5) — which is a fact rather than a characterisation, and so keeps
+faith with SEC. 9(c) and n.16.
+
+**One further amendment the sweep requires.** Most state penal codes already define "serious bodily
+injury" or "serious physical injury" differently, and the companion directs codification among the
+offenses against the person. Two definitions of one term in one code is a construction trap
+resolved against the State. Either use a statute-unique term — *covered serious bodily injury* — or
+add: *"This definition governs this Act notwithstanding any other definition of the same or a
+similar term in the law of this State."*
+
+**Still open:** READ FIRST 3(c), the bracketed [two]-year minimum. The sweep finds the *number*
+defensible — it attaches only to a knowing or wilful violation that proximately causes death, and
+is the lowest figure in its donor neighbourhood — but finds it **cosmetic without a non-suspension
+clause**, because in most states a "minimum" is satisfied by a suspended sentence with probation
+unless the statute says otherwise. It also collides with the state's own homicide grid with no
+priority rule. Both need a criminal-law seat.
+
+**Administrative load:** none. Definitional substitution only.
 
 **Substantive note for the changelog.** Prong (D) reaches protracted impairment of a
 *mental* faculty — coverage the § 803.3(w) body-function language never cleanly gave,
@@ -413,6 +521,40 @@ drafting session may disagree.
 
 **Held open — capability parity as a self-executing route.** A fourth route was considered and is not drafted solo: a model is covered where it performs, on the Agency's enumerated public benchmark suites, at or above the level of a model already covered under the compute or self-designation routes — closing the gap for a developer that discloses no compute and holds nothing out. The existing Agency limb already reaches capability, but only through Agency action; a *self-executing* capability trigger would need an objective, Agency-published benchmark list to avoid vagueness in a criminal scope term. That is exactly the pattern CURE 4 Operation 2 used for the evaluation-finding trigger — no duty until a threshold is prescribed by rule, the concept captured meanwhile in the record. Whether capability parity should become a self-executing route on that pattern is a provability judgment for the enforcement and security seats, and is flagged, not drafted here.
 
+**⚠ AMENDMENTS REQUIRED BEFORE THIS CURE LANDS — [lane sweep](./v3_5_lane_sweep.md), open-source lane, graded fatal.**
+
+*(1) The carve-out omits the modification verbs.* Operation 2 excludes a person that "only makes
+available, operates, integrates, resells, or deploys another developer's model" — but Operation 1's
+own attachment sentence reaches "the developer that trained **or materially modified** the model."
+The two sentences are drafted against each other, and anyone who materially modifies an open-weight
+model is expressly *in* under the first and not carved out by the second. **Add "modifies,
+fine-tunes, or trains upon"** to Operation 2's verb list, and add: *"A person does not become a
+developer under this subparagraph by reason of a derivation that does not extend a lineage under
+subparagraph (B)."*
+
+*(2) The route needs a compute floor.* As drafted it attaches at **any** compute level. A university
+group that publishes a "Frontier Safety Evaluation" protocol and applies it to models it fine-tunes
+has self-designated those fine-tunes into scope — and the anti-evasion clause forecloses retraction.
+The rational response is to stop publishing safety frameworks, which inverts the Act's purpose.
+**Floor the route** so it attaches only where the developer's own training or derivation compute
+exceeds [10^24]. That preserves the route's stated purpose — reaching undisclosed-compute flagships
+— without reaching adapters.
+
+*(3) The rebuttal needs a textual home.* The cure's reasoning says a developer "remains free in
+principle to rebut" the jurisdictional fact. Operation 1 gives that no textual expression. **Add:**
+*"A developer may rebut coverage under this subparagraph by showing that the model's training and
+lineage compute does not exceed the figure in this paragraph."*
+
+*(4) Flagged, not resolved — a First Amendment question this cure cannot answer itself.* The route
+attaches criminal-statute scope to a person's own published characterisation of its own work and
+forbids retraction. SEC. 0(a)(4) is drafted for the opposite problem (compelled speech) and does not
+answer this one. Whether "we operate at the frontier" is a jurisdictional fact or a contested
+characterisation is precisely the question the route needs to be wrong about to work. **For a First
+Amendment reader; see [the sweep](./v3_5_lane_sweep.md).**
+
+**Administrative load:** widens the covered-model population by an indeterminate amount, which the
+fiscal note is not drafted against — the note's volume discussion assumes a compute-defined class.
+
 **Consequential check — no cascade break.** The limb adds a route into the defined term "covered frontier model"; every section keyed to that term inherits the wider scope automatically and correctly. SEC. 8 certification is unaffected: a self-designated developer knows it self-designated, having published the words, so the duty to certify is coherent on the new route as on the compute route. SEC. 12 records duties widen with scope, as intended. The lineage sub-rules at (A)–(C) are keyed to "the figure in this paragraph" — the compute figure — and are unaffected; a derived model may enter scope by self-designation on the same terms as any other model. One tidy is left for assembly: the existing sentence "The compute figure is a bright-line trigger; capability designation under SEC. 3 reaches models below it" remains true as written and need not change, but may take a clause at v3.5 noting the self-designation route is independent of both. Flagged, not drafted.
 
 ---
@@ -533,6 +675,66 @@ authority."
 > only where the relying person provided reasonable access to relevant information, considered the
 > findings, and documented any material disagreement; the appointment alone neither establishes a
 > defense nor, of itself, establishes liability.
+
+**⚠ AMENDMENTS REQUIRED BEFORE THIS CURE LANDS — [lane sweep](./v3_5_lane_sweep.md), criminal-law, security, open-source and fiscal lanes.**
+
+*(1) Strike market capitalisation and valuation from (12)(iv).* They change intraday, sit outside
+the actor's control, and cannot be known at the time of conduct — the fair-notice failure
+*Connally* describes. "Most recent arm's-length valuation" for a private company is an
+expert-versus-expert question the State would have to prove beyond reasonable doubt. **The dollar
+thresholds themselves survive**: vagueness doctrine polices indeterminacy of standard, not absence
+of a donor statute. Keep only facts fixed and knowable in advance — annual gross revenue as
+reported in the most recent audited statements issued before the conduct.
+
+*(2) Give "mass-market scale" a number or a rule-hook.* Unlike the dollar limbs it states no
+figure at all, so no bracket can cure it. Use CURE 4 Operation 2's pattern: *"at a scale prescribed
+by rule under SEC. 3, no condition arising under this clause until such a rule takes effect."*
+
+*(3) Fix the self-satisfying scale condition.* (12) requires function **plus** a scale condition —
+but scale condition (ii) is "capacity described in paragraph (11)," which is identical to function
+(B). **Every frontier compute supplier automatically satisfies its own scale condition**, so the
+conjunctive architecture this cure advertises does not operate for suppliers at all. Give suppliers
+a real second element — capacity *dedicated* to an identified covered model or developer under a
+materially exclusive arrangement — and delete (ii) as redundant.
+
+*(4) Strike "finances," and exclude public research computing.* "Finances" makes a lender a
+frontier compute supplier, and the ordinary-commodity exclusion does not reach financing because
+financing is neither a good nor a service in ordinary usage. Separately, at mixed precision the
+capacity floor reaches **public and academic supercomputing** — DOE leadership-class and NSF-class
+machines, and NAIRR pilot sites. **Add an express exclusion** for capacity operated by a public or
+nonprofit research institution and allocated by open peer review.
+
+*(5) The ordinary-commodity exclusion is circular as drafted.* It excludes conduct the definition
+never reached: the definition's own elements *are* the "more." Replace with an operative test —
+*"A person that supplies computing capacity on generally available commercial or academic terms,
+without knowledge that the capacity is dedicated to the training or deployment of a covered frontier
+model, is not a frontier compute supplier."* Knowledge and dedication are what distinguish a partner
+from a utility.
+
+*(6) The SEC. 4(b) presumption question, answered: do not extend it by enterprise status.* A compute
+supplier's chief executive is not more likely than not to hold practical authority over a
+**customer's** deployment decisions, so the inference fails *Ulster County v. Allen*. Extend the
+presumption **by function** instead — the chief executive of an entity that performs the covered
+function to which the violation relates, plus the person designated under Operation 3 — which
+reaches every supplier's officer as to the supply of compute and no further. This cure's own slogan
+is *duty follows the function*; a presumption keyed to status contradicts the sentence it sits under.
+
+*(7) Consider gating criminal status on the rule.* Because enterprise status would be an element of
+any offense charged against a supplier's controlling person, add: *"No person's status as a covered
+frontier enterprise or frontier compute supplier is an element of any offense under this Act
+carrying a term of imprisonment until the Agency has by rule prescribed the thresholds in
+SEC. 1(b)(11) and (12)."* That keeps the widening doing what this cure says it does — records,
+security and reporting — without putting a valuation fight in front of a criminal jury.
+
+**Administrative load: high, and the fiscal lane's objection is that this cure should probably wait.**
+It adds two rulemakings (a capacity threshold with no donor, and the supplier duty set), plus
+coverage determinations that are securities-analyst work — aggregate commitments and revenue
+aggregated across "materially dedicated infrastructure arrangements," which is an investigation
+rather than a records review. Because the supplier duties are rule-gated, a low-capacity first
+adopter gets **two rulemakings it cannot perform and zero incremental enforceable duty**. The fiscal
+lane recommends sequencing the enterprise category to v4, for a state with a functioning agency,
+rather than v3.5 for a first adopter. **That recommendation is recorded, not accepted; it is a
+maintainer decision.**
 
 **Why this shape.** The category is criteria, never names: a statute imposing special criminal
 duties on enumerated companies would invite a bill-of-attainder challenge and read as an enemies
