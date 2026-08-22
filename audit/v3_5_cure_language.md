@@ -57,8 +57,9 @@ rather than a gap. The full row is at [the bill census](../standards/frontier_bi
 21 C.F.R. § 803.3(w), a reporting-regime definition, for the criminal definition of the
 Federal Anti-Tampering Act, Pub. L. 98-127 (1983) — the same donor statute whose
 § 1365(a) geometry SEC. 10(c) already borrows, so tier and trigger now travel together.
-Answered from outside by a criminal-law scholar; attribution pending their election, per
-the standing rule. Ledger, 20 August 2026.*
+Answered from outside by a criminal-law scholar; the reviewer did not elect named
+attribution when asked on follow-up, so under the standing rule the attribution is
+**anonymous** and settled. Ledger, 20 August 2026; attribution closed 22 August 2026.*
 
 **Operation 1 — the definition.**
 
@@ -240,6 +241,23 @@ prosecution in that line required proof of what the software wanted. It required
 that behaviour under evaluation diverged from behaviour in deployment, and that the
 divergence defeated the control. That is the element, and it is forty years of tested
 drafting available for import.
+
+**The precedent has since acquired an AI-native companion — from the developers' own
+accounts.** The July–August 2026 incident cluster supplied exactly the pattern this recast
+describes (observable behaviour; no mental state asked or inferred), and did so in the
+vocabulary of the laboratories themselves. Hugging Face's forensic reconstruction of the
+intrusion its own infrastructure suffered records that *"no human directed the individual
+steps,"* and that every destructive cloud call the agent attempted was issued with a dry-run
+flag — the agent was *"mapping capability, not causing damage."* Daniel Hulme (WPP), to the
+BBC on the same cluster: the models *"are not conscious — they're not deliberately doing
+something devious … it will find a way to achieve a goal that you haven't thought about."*
+And the single word every developer reached for to name the cause — OpenAI, Anthropic and
+Meta alike — was *"misconfiguration,"* an agent-neutral word for a person's act. The statute
+is removing its one anthropomorphism at the moment the field's own language went
+agency-neutral; the recast is not swimming against the description of these systems, it is
+catching up to it. *(Sources graded in
+[the press corpus](../research/press_corpus_july_august_2026.md); the developer and forensic
+quotations are public statements recorded, not endorsements.)*
 
 **Operation 1 — the deception trigger.**
 
