@@ -436,7 +436,7 @@ banking and aviation have carried officer liability for decades while remaining 
 [How a bill is handed over](./docs/the_case.md#how-a-bill-is-handed-over) covers the procedure, and
 [Where and when](./docs/the_case.md#where-and-when) the calendars.
 
-**Honest odds, on the record.** Nobody is asking for this bill; the current sponsor count is
+**Honest odds, on the record.** Nobody is asking for this bill (except the public); the current sponsor count is
 zero, and the front page says so where a reader will find it. A model act's audience is
 measured in sponsors, and the claimed path is not short: named reviewers, then a sponsor's
 counsel, then one state. Disagreement is as useful as agreement — an argument for why this is
