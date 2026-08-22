@@ -30,8 +30,12 @@ technically distinct and map to different clauses.
 | **Threat-intelligence reports** | Observed misuse, actor patterns, enforcement actions | Ad hoc |
 
 Only the first is mandated anywhere: California Business and Professions Code
-§ 22757.12 and New York General Business Law § 1421 require the publication of a
-framework, on the terms pinned verbatim in `interim_standards.md` in this folder.
+§ 22757.12, New York General Business Law § 1421, **and Illinois 430 ILCS 185/10**
+("Section 10. Frontier AI framework") require the publication of a framework, on the terms
+pinned verbatim in [`interim_standards.md`](./interim_standards.md) in this folder — the
+three that SEC. 3(c)(4) adopts as interim standards. *(Illinois added 22 August 2026: this
+sentence named two of the three framework statutes while citing, in the same breath, the
+file that pins all three.)*
 Nothing in enacted U.S. state law currently requires the second, third, or fourth
 class. They exist because their authors chose to produce them.
 

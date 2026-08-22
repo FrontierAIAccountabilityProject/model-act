@@ -3,6 +3,11 @@
 Reference texts and working files for SEC. 3, and the research behind the claims the front page
 makes. Every file here states its own strength limits; none of them is authority for the statute.
 
+*What this shelf does **not** hold: the frontier-scope evidence — the coverage set, the compute
+table, and the source record — which lives in [`research/`](../research/), and the two definitions
+of *frontier*, which live at [`docs/the_definition.md`](../docs/the_definition.md). See
+[the map](../MAP.md) for which file owns which question.*
+
 ## The adopted texts
 
 - [`interim_standards.md`](./interim_standards.md) — the enacted texts SEC. 3(c)(4) freezes
@@ -43,12 +48,19 @@ downward readily. These files are the checking.*
 - [`comparative_officer_liability.md`](./comparative_officer_liability.md) — the primary provisions behind
   the comparative answers: s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA senior-manager
   responsibilities, and the claims this project declined to make.
+- [`already_a_crime_for_you.md`](./already_a_crime_for_you.md) — the statutory text behind the
+  front page's claim that **every offence this Act creates is already a crime for an ordinary
+  person**, most with heavier maxima and one with no intent requirement at all.
+- [`who_has_to_tell_you.md`](./who_has_to_tell_you.md) — ⚠ **a hypothesis, graded as one, not a
+  finding.** That the duty to disclose a breach attaches to the party intruded upon rather than to
+  whoever shipped the defective code. Published with the four checks it still needs listed at its
+  end, and quoted nowhere until they are done.
 
 ## For readers who are not lawyers
 
-- [`for_legislators.md`](./for_legislators.md) — for sponsors and their staff: the verified
-  absences, what the laboratories' own governance documents say, the comparative answer with
-  primary text, and your own state's analogue.
+- [`for_legislators.md`](./for_legislators.md) — for legislative sponsors and their staff: the
+  verified absences, what the laboratories' own governance documents say, the comparative answer
+  with primary text, and your own state's analogue.
 - [`what_these_words_mean.md`](./what_these_words_mean.md) — **a legislator's glossary.** What a
   model, an algorithm, an agent and a frontier model literally are; what they can actually do; how
   they are sold. Plus mens rea, and why a model cannot have one.

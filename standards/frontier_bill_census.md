@@ -296,9 +296,13 @@ unfair-trade-practices statute, again AG-enforced, again no private right.)
 
 **Criminal exposure.** None, at the entity or anywhere else.
 
-**Verdict.** *Connecticut is the first American statute to put catastrophic-risk reports into a
-named officer's hands every quarter — and the only thing it asks that officer to do with them is
-receive them.*
+**Verdict.** *Connecticut is the **second** American statute to put catastrophic-risk reports into
+a named officer's hands every quarter — after California's SB 53 — and the only thing either asks
+that officer to do with them is receive them.* **The recurrence is the finding, not the primacy:**
+two legislatures, fourteen months apart, independently decided the officers should be told, and
+neither asked the officer told to do anything at all. *(Verdict conformed 22 August 2026:
+[E20](../ledger/errata.md) corrected this row's tally to two and named both, and this sentence —
+the quotable one — was not conformed with it.)*
 
 **Why this row matters more than its penalty.** The *Park* formula is authority, knowledge, and
 failure to act. Connecticut has now legislated the knowledge: quarterly, in writing, to officers

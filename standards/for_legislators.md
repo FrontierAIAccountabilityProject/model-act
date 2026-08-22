@@ -101,13 +101,20 @@ appears.** The single human signature the bill requires is the sponsor's own on 
 project's census and the smallest personal consequence in it. *Source:
 [the bill census](./frontier_bill_census.md), H.R. 9917 row.*
 
-**One of the six names officers — and asks nothing of them.** Connecticut's SB 5, enacted
-27 May 2026, is the first American statute to write corporate roles into a frontier provision.
-Large frontier developers must channel employees' anonymous reports of catastrophic risk, and
+**Two of the six name officers — and ask nothing of them.** California's SB 53, chaptered
+29 September 2025, was first: it routes employees' anonymous catastrophic-risk reports to officers
+and directors. Connecticut's SB 5, enacted 27 May 2026, is the fuller drafting of the same idea, on
+this Act's own compute threshold. *(Corrected 22 August 2026 — this passage read "one of the six"
+and called Connecticut the first American statute to write corporate roles into a frontier
+provision, which [E20](../ledger/errata.md) had already disproved.)*
+Under Connecticut, large frontier developers must channel employees' anonymous reports of
+catastrophic risk, and
 each report *"shall be shared with the officers and directors of the large frontier developer at
 least quarterly"* — with a carve-out withholding a report from an officer or director it accuses.
-So a legislature has now put catastrophic-risk information into named officers' hands on a
-schedule, and attached to it **no duty to respond, no signature, and no liability.** The penalty
+So **two legislatures, fourteen months apart, have independently put catastrophic-risk information
+into named officers' hands on a schedule** — and both attached to it **no duty to respond, no
+signature, and no liability.** That the instinct recurred without either asking anything of the
+officer told is the finding; the primacy is not. The penalty
 remains \$1,000 per violation against the company, Attorney General only, no private right of
 action. *Source: [the bill census](./frontier_bill_census.md), Connecticut row, which states its
 own verification limits.*
@@ -190,8 +197,11 @@ and a Director of Alignment and Risk. NVIDIA names a committee.
 
 **The rest describe a procedure with no actor in it.** OpenAI routes its Safety Advisory
 Group's recommendation to *"OpenAI Leadership"* — a direction, not an office. Google DeepMind
-commits to safety-case reviews and never says who approves. Six others specify no decision
-authority at all.
+commits to safety-case reviews and never says who approves. Microsoft's framework is reviewed by
+its Chief Responsible AI Officer and names no deployment approver. **The remaining six — xAI,
+Amazon, Cohere, Magic, NAVER and G42 — specify no decision authority at all.** *(Microsoft added
+22 August 2026: three plus two plus six accounts for eleven of the twelve, while
+[the dossier](../dossier/README.md) chapter this section draws on accounts for all twelve.)*
 
 **None of them requires a signature.** Not one framework requires an attestation,
 certification or authentication of the deployment decision. At the best-documented laboratory
