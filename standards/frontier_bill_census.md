@@ -85,14 +85,23 @@ the number of rows actually read.*
 | | Count |
 |---|---|
 | Frontier bills identified (⚠ tracker figure, duplicates suspected) | ~34, across 10 states + federal |
-| **Read and answered** | **6** (H.R. 9917, Connecticut SB 5, Idaho S 1297, Nebraska LB 525, Illinois P.A. 104-0538, New York ch. 96 of 2026) |
+| **Read and answered** | **7** (H.R. 9917, Connecticut SB 5, Idaho S 1297, Nebraska LB 525, Illinois P.A. 104-0538, New York ch. 96 of 2026, California SB 53) |
 | Of those read: reaching a natural person **as an officer of a developer** | **0** |
 | Of those read: naming officers and directors in the operative text | **2** (Connecticut and California SB 53 — both as recipients of a quarterly report, no duty attaching to either) |
 | Of those read: requiring a human signature **from anyone at all** | **1** (Illinois — and it is the outside auditor's) |
 | Of those read: requiring a signature from **anyone inside the developer** | **0** |
 | Of those read: any criminal liability at all, entity or person | **0** |
-| Of those read: **actually frontier bills** | **4 of 6** — two were chatbot statutes miscategorised by the tracker |
+| Of those read: **actually frontier bills** | **5 of 7** — two were chatbot statutes miscategorised by the tracker |
 | Highest penalty found | **\$20,000,000 per day** (H.R. 9917), payable by the company |
+
+*The count moved from six to seven on 22 August 2026, and the artefact was the same one twice.
+**California SB 53 had been read in full on 21 August — by a human eye, from the chaptered text,
+graded ✅ — and was not being counted**, while its findings were being used in the rows below it:
+the officers-and-directors line cited SB 53 inside a denominator SB 53 was not in. That is the
+Illinois error repeated, so the fix is the same: it is counted now. The tally's promise is that it
+never exceeds the rows actually read, and the corollary — that it must not fall short of them
+either — is the half that failed twice. **Standing rule, added here: a row graded ✅ enters the
+count in the same edit that grades it.***
 
 *The count moved from four to six on 21 August 2026. New York was read that day. **Illinois had
 been read and answered since the 20th and was not being counted**, because its row sits above as

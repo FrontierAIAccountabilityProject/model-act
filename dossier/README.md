@@ -1,10 +1,14 @@
 # The dossier
 
-This document is the project's evidence file in full: the seven chapters formerly kept as
-separate files, concatenated verbatim on 19 August 2026 as part of the repository's
-consolidation. Content is unchanged; each chapter retains its original heading, and every
-fact keeps its pin (✅ verified against a primary source; ⚠ pending verification). The
-original chapter paths remain in place as signposts, so existing links continue to land.
+**What this file is.** The project's evidence record as it stood in **August 2026** — seven
+chapters, concatenated verbatim on 19 August with their checksums. It is **sealed**: the text below
+is never edited, because a record whose contents change is not a record. Every fact keeps its pin
+(✅ verified against a primary source; ⚠ pending verification).
+
+**What this file is not.** It is not the project's current position on anything. Where a chapter
+has been overtaken, the correction lives in the table immediately below, and the current statement
+lives in [`docs/`](../docs/). **Where the sealed text and a live file disagree, the live file
+governs.** ([The map](../MAP.md) records which file owns which question.)
 
 Chapters: [00 — contents](#chapter-00) · [01 — the power map](#chapter-01) ·
 [02 — the incident timeline](#chapter-02) · [03 — the congressional record](#chapter-03) ·
@@ -13,11 +17,34 @@ Chapters: [00 — contents](#chapter-00) · [01 — the power map](#chapter-01) 
 
 ---
 
-### Reading notes for the concatenated chapters
+## Corrections table — what the sealed chapters get wrong
 
-*These notes sit outside the sealed text. The chapters below are preserved verbatim with
-their checksums; where a chapter has been overtaken, the correction is recorded here
-rather than edited into it.*
+*Read this before the chapters. Each row names a superseded claim, where it sits, and the file that
+now governs. The long-form notes follow the table for anyone who wants the reasoning; the table is
+the part a reader needs.*
+
+| Where | The sealed text says | Now | Current owner |
+|---|---|---|---|
+| ch. 00, 01 | The statute is `model_act_v3_3.txt` | v3.4 since 19 Aug 2026; section numbers still land | [`model_act_v3_4.txt`](../model_act_v3_4.txt) |
+| ch. 04 | The OPEN PINS list | Superseded on five items by ch. 01's status section, which governs | ch. 01 status section |
+| ch. 05 | "My startup runs models — am I a criminal now?" answered categorically | Too categorical. Coverage turns on model, system and conduct, not company size; a startup commercially operating a covered upstream model may be a **deployer**, and SEC. 2(b) gives it a conditional route to discharge the duty, not an exemption | [the case](../docs/the_case.md#who-this-is-about) |
+| ch. 05, and passim | "Roughly a dozen," "ten men" | Retired. The Act creates no roster; *controlling person* is a function test, and more than one person may qualify per system | [README, fixed headcounts](../README.md#provenance-and-method) |
+| ch. 01 § A.4 (and any chapter implying otherwise) | — | **Correct as written and worth restating:** Irregular's environment ties the **Anthropic and Meta** incidents; **OpenAI's chain did not run through it**. A 22 Aug drafting error briefly overwrote this and was cured at [E29](../ledger/errata.md) | [the press corpus](../research/press_corpus_july_august_2026.md) |
+| ch. 01, 02 | Three lab disclosures | **Five incidents across three developers** (OpenAI 1, Anthropic 3, Meta 1) — see [E27](../ledger/errata.md) | [the press corpus](../research/press_corpus_july_august_2026.md) § 7 |
+| ch. 01, 02 | The incidents as self-disclosure | True of the pattern, but **the victim disclosed first** in the largest case: Hugging Face 16 July, OpenAI 21 July — see [E28](../ledger/errata.md) | [known objections](../docs/known_objections.md) |
+| ch. 01 Layer 4 | The twelve-company framework inventory | Still correct, but **"twelve" is now ambiguous** — the framework twelve is a different list from the twelve-company coverage set, overlapping at eight | [the frontier enterprises](../research/frontier_enterprises.md) |
+| ch. 02 | The incident timeline | Does **not** carry the Mexican-agencies operation the front page cites; still owed a pin. Two honest dispositions remain open: pin it, or strike the front-page sentence | open |
+| ch. 03 | Re-sweep set for on/after 25 Aug 2026 | **Still owed.** Whether OpenAI and Anthropic answered the 24 Aug deadline bears on SEC. 6, 9 and 12; silence is itself the SEC. 9 argument | [the standing watch](../audit/standing_watch_2026-08-20.md) |
+| throughout | Wealth and valuation figures | Dated snapshots that move. Two in circulation lack a source (Anthropic ≈$965B, OpenAI ≈$852B); the verified figures are $380B and ≈$500B | [the verification record](../research/verification_record.md) |
+| throughout | Net-worth and seat data | Seats move — the DeepMind seat changed mid-compilation, which is the chapter's own point. Treat every figure as dated | ch. 01 standing caution |
+
+---
+
+### Reading notes — the long form
+
+*These notes sit outside the sealed text and record the reasoning behind the table above. The
+chapters below are preserved verbatim with their checksums; where a chapter has been overtaken, the
+correction is recorded here rather than edited into it.*
 
 **The statute's filename.** Chapters 00 and 01 point to `model_act_v3_3.txt`. The
 authoritative text has been [`model_act_v3_4.txt`](../model_act_v3_4.txt) since 19 August

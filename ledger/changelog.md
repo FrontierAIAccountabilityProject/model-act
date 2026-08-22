@@ -3,6 +3,20 @@
 
 ## Part II — The changelog
 
+**Between versions — 22 August 2026, the enterprise pass.** Still no change to the tagged statute.
+The scope architecture arrived in the apparatus: [CURE 7](../audit/v3_5_cure_language.md) drafts
+the covered frontier enterprise into the queue — scope follows the ecosystem, duty follows the
+function, wealth alone covers nobody — with exact splices into SEC. 1(b), SEC. 2(a), and SEC. 4,
+advance designation of one responsible officer per covered function, and the auditor and evaluator
+named into the non-shield list (part answer to Open Question 3). The evidence base entered as
+[research/frontier_enterprises.md](../research/frontier_enterprises.md) (the twelve-company
+coverage set, four layers, verbatim self-designations, ownership and control from public filings);
+the public face as [docs/the_definition.md](../docs/the_definition.md) (the two definitions,
+technical beside legal) and [docs/known_objections.md](../docs/known_objections.md) (the strongest
+objections published with their answers, the sections that already answer them cited). The front
+page was inverted around the two definitions, and the disclosure gained the funding line: not
+seeking funding; any change disclosed before a penny is accepted.
+
 **Between versions — 22 August 2026.** No change to the tagged statute (`model_act_v3_4.txt`
 stands). Companion and apparatus only: the [v3.5 queue](../audit/v3_5_cure_language.md) settled
 CURE 1's attribution to anonymous, gave CURE 4's anthropomorphism recast AI-native precedent from
@@ -18,19 +32,58 @@ was compiled from the Epoch AI dataset and paired with the developers' own *fron
 developer holds out as frontier — with an anti-evasion clause and a deployer carve-out. Recorded here
 because the register should show the apparatus moving between tagged versions, not only the versions.
 
-**Between versions — 22 August 2026, the enterprise pass.** Still no change to the tagged statute.
-The scope architecture arrived in the apparatus: [CURE 7](../audit/v3_5_cure_language.md) drafts
-the covered frontier enterprise into the queue — scope follows the ecosystem, duty follows the
-function, wealth alone covers nobody — with exact splices into SEC. 1(b), SEC. 2(a), and SEC. 4,
-advance designation of one responsible officer per covered function, and the auditor and evaluator
-named into the non-shield list (part answer to Open Question 3). The evidence base entered as
-[research/frontier_enterprises.md](../research/frontier_enterprises.md) (the twelve-company
-coverage set, four layers, verbatim self-designations, ownership and control from public filings);
-the public face as [docs/the_definition.md](../docs/the_definition.md) (the two definitions,
-technical beside legal) and [docs/known_objections.md](../docs/known_objections.md) (the strongest
-objections published with their answers, the sections that already answer them cited). The front
-page was inverted around the two definitions, and the disclosure gained the funding line: not
-seeking funding; any change disclosed before a penny is accepted.
+## Repository restructure — 21 August 2026 (v3.4 statutory text unchanged)
+
+**No change to `model_act_v3_4.txt`.** Its sha256 and the reviewer's-copy reproducibility chain are
+untouched. This entry is packaging, apparatus and new research files only.
+
+**Structure.**
+- Front page split: 1,726 lines → ~600. The argument moved to `docs/the_case.md`,
+  `docs/the_statute_translated.md` and `docs/questions.md`.
+- `LEDGER.md` split: 1,128 lines → a 49-line index over `ledger/errata.md`, `ledger/changelog.md`
+  and `ledger/diary.md`. The `#part-i`, `#part-ii` and `#part-iii` anchors are preserved on the
+  index because they are cited in published material.
+- `pages/` retired into `archive/page-images/`; all twenty images of the withdrawn v2, v3.2 and
+  v3.3 typeset editions now sit in one place. `git mv` used, so history is preserved.
+- `CHANGELOG.md`, `ERRATA.md` and `model_act_v3_3.txt` retitled at the root as explicit signposts.
+  No link breakage.
+- The nine retired `docs/` signposts re-pointed from README anchors to their new pages.
+- Contents rebuilt as thirty-three single-line entries after a table and then a nested list both
+  rendered badly.
+
+**New files.**
+`standards/the_same_conduct.md` · `standards/already_a_crime_for_you.md` ·
+`standards/why_a_signature_works.md` · `standards/why_the_disparity.md` ·
+`standards/what_these_words_mean.md` · `filings/who_actually_files.md` ·
+`filings/frontier_ai_in_medicine.md`. `standards/commentary_sweep.md`, written 21 August, was filed
+for the first time.
+
+**Substantive amendments to existing files.**
+- The central claim narrowed everywhere from *"no American law reaches a natural person"* to *"no
+  American law places a duty on the officer of a covered frontier developer for the decision to
+  release"* — the loose form being refutable. Five files.
+- A scope block added to nine files stating who they are about and who they are not.
+- `standards/house_language.md` extended with **§ 4 Register**, § 7 "Frontier" as a priced tier,
+  § 8 the other frontiers, § 9 the grammar of the promise, § 10 the verbs; sections renumbered 1–11
+  and all external cross-references re-pointed.
+- `standards/interim_standards.md` records why Connecticut's SB 5 is not adopted at SEC. 3(c)(4).
+- `audit/standing_watch_2026-08-20.md` § 7(5) restated from four frontier regimes to six.
+- `audit/v3_5_cure_language.md` opens **Open Question 1** — whether SEC. 3(c)(4) should adopt
+  Connecticut at v3.5. Held rather than decided; the tagged text is not edited.
+- Campaign register replaced with legal register across nine files.
+- The front page carries the model-act question below the Interpretive key, narrowed to the legal
+  sense.
+
+**Errata opened.** [E16](./errata.md) — a coverage failure; the standing watch missed Connecticut
+SB 5, enacted twelve weeks earlier, and H.R. 9917, introduced four weeks earlier. Closed the same
+day, with a correction to its own prescribed cure. [E17](./errata.md) — an overstated disanalogy
+and a rationalisation described as a decision. Both cured.
+
+---
+
+*Moved 22 August 2026: this entry was written after the 19 August merge and sat inside the
+sealed CHANGELOG.md block below, out of newest-first order. The sealed block now carries a
+closing marker so the boundary of the verbatim content is visible.*
 
 **v3.4 — 19 August 2026.** The sixteen findings of the adversarial review of 17–18
 August, cured. Fifteen amendments entered the statute verbatim from the published queue
@@ -85,55 +138,6 @@ changelog is a dated record.
 
 # CHANGELOG — Model Act (Frontier AI Public Welfare Offenses)
 
-
-## Repository restructure — 21 August 2026 (v3.4 statutory text unchanged)
-
-**No change to `model_act_v3_4.txt`.** Its sha256 and the reviewer's-copy reproducibility chain are
-untouched. This entry is packaging, apparatus and new research files only.
-
-**Structure.**
-- Front page split: 1,726 lines → ~600. The argument moved to `docs/the_case.md`,
-  `docs/the_statute_translated.md` and `docs/questions.md`.
-- `LEDGER.md` split: 1,128 lines → a 49-line index over `ledger/errata.md`, `ledger/changelog.md`
-  and `ledger/diary.md`. The `#part-i`, `#part-ii` and `#part-iii` anchors are preserved on the
-  index because they are cited in published material.
-- `pages/` retired into `archive/page-images/`; all twenty images of the withdrawn v2, v3.2 and
-  v3.3 typeset editions now sit in one place. `git mv` used, so history is preserved.
-- `CHANGELOG.md`, `ERRATA.md` and `model_act_v3_3.txt` retitled at the root as explicit signposts.
-  No link breakage.
-- The nine retired `docs/` signposts re-pointed from README anchors to their new pages.
-- Contents rebuilt as thirty-three single-line entries after a table and then a nested list both
-  rendered badly.
-
-**New files.**
-`standards/the_same_conduct.md` · `standards/already_a_crime_for_you.md` ·
-`standards/why_a_signature_works.md` · `standards/why_the_disparity.md` ·
-`standards/what_these_words_mean.md` · `filings/who_actually_files.md` ·
-`filings/frontier_ai_in_medicine.md`. `standards/commentary_sweep.md`, written 21 August, was filed
-for the first time.
-
-**Substantive amendments to existing files.**
-- The central claim narrowed everywhere from *"no American law reaches a natural person"* to *"no
-  American law places a duty on the officer of a covered frontier developer for the decision to
-  release"* — the loose form being refutable. Five files.
-- A scope block added to nine files stating who they are about and who they are not.
-- `standards/house_language.md` extended with **§ 4 Register**, § 7 "Frontier" as a priced tier,
-  § 8 the other frontiers, § 9 the grammar of the promise, § 10 the verbs; sections renumbered 1–11
-  and all external cross-references re-pointed.
-- `standards/interim_standards.md` records why Connecticut's SB 5 is not adopted at SEC. 3(c)(4).
-- `audit/standing_watch_2026-08-20.md` § 7(5) restated from four frontier regimes to six.
-- `audit/v3_5_cure_language.md` opens **Open Question 1** — whether SEC. 3(c)(4) should adopt
-  Connecticut at v3.5. Held rather than decided; the tagged text is not edited.
-- Campaign register replaced with legal register across nine files.
-- The front page carries the model-act question below the Interpretive key, narrowed to the legal
-  sense.
-
-**Errata opened.** [E16](./errata.md) — a coverage failure; the standing watch missed Connecticut
-SB 5, enacted twelve weeks earlier, and H.R. 9917, introduced four weeks earlier. Closed the same
-day, with a correction to its own prescribed cure. [E17](./errata.md) — an overstated disanalogy
-and a rationalisation described as a decision. Both cured.
-
----
 
 ## Citation & signpost patch — 18 August 2026 (v3.3 text unchanged; packaging and citability only)
 
@@ -290,6 +294,8 @@ looks like.
 ---
 
 <a id="part-iii"></a>
+
+<!-- END CHANGELOG.md · merged content ends here -->
 
 ---
 
