@@ -1096,6 +1096,25 @@ and the register will say so either way.
 
 ---
 
+### The work in hand rule
+
+**No text produced by this project — published, drafted, or sent — may characterise another person's
+work unless that work is in hand at the time of writing.** Not a summary of it. Not a memory of
+having read it. Not a citation to it in a third source. The work.
+
+This is [E22](../ledger/errata.md#e22) generalised, and the reasoning is recorded at
+[E32](../ledger/errata.md#e32). E22 was written about quotations: a quotation held in a working
+summary is not a quotation, because the confidence rubric grades *how a source was obtained* and has
+no column for *how the words travelled from the source into the file*. **Characterisations travel
+the same way and decay in the same direction** — toward what the writer needed the source to say.
+
+**The circumstance that makes it acute is worth naming**, because it is the one this project is
+permanently in: describing a scholar's published position as adjacent to your own. That is where the
+pressure toward a flattering reading is strongest, and it is also where the error is least
+survivable, because the one reader guaranteed to catch it is the author.
+
+---
+
 ## 12. Scope, and honesty about what has been done
 
 This rule is **adopted, not yet applied.** The tree has not been swept. A scan on 21 August 2026

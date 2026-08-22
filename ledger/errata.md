@@ -903,6 +903,51 @@ non-monotonic for reasons several entries explain, and that is a feature of an a
 not a defect. Second, a **sequence check** joins the push routine: before any push that adds an
 entry, read the register's numbers in order and confirm no collision and no gap. Status: cured.
 
+---
+
+<a id="e32"></a>
+
+## E32 — [E22](#e22) extended from the repository to correspondence
+
+**Filed 22 August 2026. Severity: rule change. The incident itself is outside this register's scope
+and is not recorded here.**
+
+**What happened, in the only terms this file can carry.** In project correspondence, the maintainer
+described a named scholar's published article as supporting a position the article does not take.
+The error was not one of transcription. **The characterisation was drafted from a recollection of
+the article rather than from the article**, and it inverted three of its load-bearing features: the
+body of law it belongs to, the defendant it runs against, and the thing its standard measures. It
+was retracted in writing to the same recipient, with the correction placed in the opening paragraph
+rather than a footnote.
+
+**Why it is filed here at all, given that nothing published carried it.** A check of the tracked
+files was run and returned clean — no repository file cites the work, and no published claim rested
+on the mischaracterisation. So there is no published erratum to file, and the individual is not
+named, because [the project's standing rule](../README.md) keeps the names of people approached out
+of the repository. What is filed is **the rule the incident produced**, because that rule now
+governs work this register does cover.
+
+**The rule.** [E22](#e22) established that a quotation held in a working summary is not a quotation
+— that the confidence rubric grades *how a source was obtained* and has no column for *how the words
+travelled from the source into the file*. E22 was written about quotations in research files. **The
+same defect operates on characterisations, and it operates outside the repository as readily as
+inside it.** A remembered argument decays in the same interested direction a remembered quotation
+does: toward what the person remembering it needed it to say. Describing a scholar's position as
+adjacent to your own is exactly the circumstance in which that pressure is strongest, and it is also
+the circumstance in which the error is most visible to the one reader who cannot miss it.
+
+Accordingly, E22's discipline is extended and restated in general form:
+
+> **No text produced by this project — published, drafted, or sent — may characterise another
+> person's work unless that work is in hand at the time of writing.** Not a summary of it, not a
+> memory of having read it, not a citation to it in a third source. The work.
+
+**Consequence for the register.** This is the second entry ([E23](#e23) was the first) recorded not
+because something published was wrong but because the register should show the rules moving. The
+distinction is worth keeping visible: **a register that only ever grows by failure teaches nothing
+about what the project does when it is working.** Status: **rule adopted; no repository text
+affected.**
+
 <a id="part-ii"></a>
 
 ---
