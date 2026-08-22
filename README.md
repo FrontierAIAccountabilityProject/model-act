@@ -660,38 +660,57 @@ companion's first note says the same, first.
 <a id="contact-and-contributions"></a>
 ## Contact and contributions
 
-**FrontierAIAccountabilityProject@proton.me** — links or pasted text only, no attachments. Two doors, honestly
-labelled.
+**FrontierAIAccountabilityProject@proton.me** — links or pasted text only, no attachments.
+**Three doors, honestly labelled**, because they are three different relationships with
+different commitments and different identity rules, and presenting them as one asks every
+visitor for everything at once. Pick the one that fits. Ordinary reading needs no door.
 
-**Corrections and comments.** A wrong citation, a broken cross-reference, or an
-objection not yet met may be sent under any name or none. Every substantiated correction
-enters [the errata register](./ledger/errata.md) with its fix, and the first genuine
-outside correction is acknowledged in the record permanently. The most useful form is
-specific: identify the passage, the problem, and the supporting authority.
+**Door one — check one thing.** Ten minutes or less: a wrong citation, a broken
+cross-reference, a defect not yet met, or an answer to one of the scoped open questions
+below. Send it under any name or none. A substantiated catch enters
+[the errata register](./ledger/errata.md) with its fix attached, and the first genuine
+outside correction is acknowledged in the record permanently; an answer to an open
+question lands in [the open v3.5 queue](./audit/v3_5_cure_language.md) as drafted language.
+The most useful form is specific: the passage, the problem, the authority. *This is not
+hypothetical — one open question has already been answered this way from outside, and the
+text changed to match; it is drafted into v3.5.*
 
-**Validation — names required.** The adversarial review to date was built and answered
-by this project's own hands and tools; under its own published rule that is
-issue-spotting, not legal validation. What the next phase requires is named review:
-retained criminal counsel, and the five-seat council whose terms are
-[above](#for-the-review-council). Council names go on the provenance record; that is
-their point.
+*The questions currently open, each drafted to the edge of one missing reader:* the
+interim-standards version-pin mechanics (a standards-literate technologist); the
+conforming-amendment scaffold (state legislative counsel — the mechanical half is now
+drafted as [the bracketed-matter worksheet](./standards/bracketed_matter.md)); the harm
+tier's bracketed minimum (a criminal-law scholar or former prosecutor — the companion
+"serious injury" source question was answered from outside and is drafted for v3.5 in
+[the open queue](./audit/v3_5_cure_language.md)); the sentencing valve against fifty state
+proportionality clauses (a proportionality scholar); the preemption armour as the
+litigation develops (a federalism litigator); the modifiability budget (an evaluations
+researcher); the control objectives against laboratory practice (a security engineer); and
+the consolidated citation check (any law-review student with a Bluebook). The companion's
+READ FIRST page carries the full brief for each. *Closed, so the movement is visible:*
+penalty calibration ended at v3.3 with the numbers three governors already signed, and the
+six explainer contradictions found by the project's own audit sit in the register with
+their fixes.
 
-**What is open for the next version.** Eight problems are scoped, sourced, and drafted
-to the edge of one missing reader: the interim-standards version-pin mechanics (a
-standards-literate technologist); the conforming-amendment scaffold (state legislative
-counsel — the mechanical half is now drafted as [the bracketed-matter
-worksheet](./standards/bracketed_matter.md)); the harm tier's bracketed minimum (a criminal-law scholar or former
-prosecutor — the companion "serious injury" source question was answered from outside and
-is drafted for v3.5 in [the open queue](./audit/v3_5_cure_language.md)); the sentencing valve against fifty state proportionality
-clauses (a proportionality scholar); the preemption armour as the litigation develops (a
-federalism litigator); the modifiability budget (an evaluations researcher); the control
-objectives against laboratory practice (a security engineer); and the consolidated
-citation check (any law-review student with a Bluebook). The companion's READ FIRST page
-carries the full brief for each. Closed, so the movement is visible: penalty calibration
-ended at v3.3 with the numbers three governors already signed, and the six explainer
-contradictions found by our own audit sit in the register with their fixes. This project
-finishes things; bring the one thing only you can finish. The text is public domain —
-nothing above is a reason to wait, and all of it is a reason to begin.
+**Door two — review one lane.** The formal council: one of the five seats, a written
+disposition published under your name, roughly ten to twenty hours across eight weeks,
+unpaid, hostile welcome. The full terms, the core reading set, and the lane briefs are
+[above](#for-the-review-council). This is the door the project's own validation rule is
+waiting on — the adversarial review to date was built and answered by this project's own
+hands and tools, which is issue-spotting, not legal validation, and nobody, the maintainer
+included, may claim the text "survived review" until named reviewers sign. A reviewer is
+not asked to endorse, co-author, join the advocacy, or lend standing beyond the written
+disposition. Council names go on the provenance record; that is their point.
+
+**Door three — talk, or point.** Twenty minutes by phone to say whether the premise
+belongs in your lane, or the name of the prosecutor, scholar, institution, or state-law
+specialist better placed than you. **This is not review and is never described as review**
+— it is how the right reviewer gets found, and a referral is worth nearly as much as a yes.
+No commitment beyond the call.
+
+*Legislative and sponsor contact is a separate track, not one of these three doors — see
+[for sponsors and staff](#for-sponsors-and-staff). This project finishes things; bring the
+one thing only you can finish. The text is public domain: nothing here is a reason to wait,
+and all of it is a reason to begin.*
 
 <a id="file-status-and-history"></a>
 ## File status and history
