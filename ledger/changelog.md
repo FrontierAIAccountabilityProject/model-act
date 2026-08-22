@@ -11,8 +11,12 @@ third-party-evaluator gap); the [glossary](../standards/what_these_words_mean.md
 legal/technical two-column view and a definition of *accountability*; the
 [table of authorities](../standards/table_of_authorities.md) added *Moffatt v. Air Canada* and
 Desai & Riedl as candidate authorities not yet cited; and the front-page contribution ask was recast
-as three labelled doors. Recorded here because the register should show the apparatus moving between
-tagged versions, not only the versions.
+as three labelled doors; and, later the same day, the [frontier-models reference](../research/frontier_models.md)
+was compiled from the Epoch AI dataset and paired with the developers' own *frontier* self-designations
+(five labs by name, twelve companies by published framework, per METR), and
+[CURE 6](../audit/v3_5_cure_language.md) proposed a third route into SEC. 1(b)(1) scope — a model its
+developer holds out as frontier — with an anti-evasion clause and a deployer carve-out. Recorded here
+because the register should show the apparatus moving between tagged versions, not only the versions.
 
 **v3.4 — 19 August 2026.** The sixteen findings of the adversarial review of 17–18
 August, cured. Fifteen amendments entered the statute verbatim from the published queue

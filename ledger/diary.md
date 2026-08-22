@@ -9,6 +9,11 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 this diary, the [changelog](./changelog.md), and the [errata register](./errata.md). The full
 day-by-day account is below; this is the quick scan.*
 
+- **22 Aug 2026** — the global frontier models compiled from Epoch AI data into
+  [research/frontier_models.md](../research/frontier_models.md), paired with the developers' own
+  *frontier* self-designations (five labs by name, the METR twelve by framework);
+  [CURE 6](../audit/v3_5_cure_language.md) proposes the self-designation route into SEC. 1(b)(1)
+  scope, with an anti-evasion clause and a deployer carve-out.
 - **22 Aug 2026** — the July–August research folded into the standards: a two-column
   legal/technical view and a definition of *accountability* enter
   [the glossary](../standards/what_these_words_mean.md); the contribution ask splits into
@@ -32,6 +37,19 @@ day-by-day account is below; this is the quick scan.*
 - **19 Aug 2026** — v3.4 tagged: fifteen cures entered the statute verbatim.
 
 ---
+
+**22 August 2026 (later) — Scope: the developer's own word becomes a route into coverage.**
+
+The frontier-models reference was built from the Epoch AI dataset and returned one finding before any
+argument: the current flagship models of the five largest developers publish no training compute, so a
+compute-only scope is unverifiable from outside for exactly the models that matter most. The same
+developers, however, call their own models, safety programmes, and products *frontier* in public — five
+by name, twelve by published framework (METR, December 2025). [CURE 6](../audit/v3_5_cure_language.md)
+proposes to make that admission a route into SEC. 1(b)(1) scope: a model its developer holds out as
+frontier is covered, with an anti-evasion clause against later deletion and an express carve-out so a
+downstream deployer is not swept in. The capability-parity route — cover a model measured as capable as
+an admitted one — was considered and held for the enforcement and security seats, on CURE 4's pattern of
+gating a criminal trigger on an objective Agency benchmark before it bites.
 
 **22 August 2026 — Integration: the research folded in, and the front page's asks split into three doors.**
 

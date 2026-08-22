@@ -63,6 +63,39 @@ also among the developers with documented conduct the Act would cover. The Chine
 best estimates are below the threshold; whether their current models exceed it cannot be determined
 from public data.
 
+## The developers' own designation as frontier
+
+Training compute is undisclosed, but the developers answer the scope question themselves: each of the
+largest developers applies the word *frontier* to its own models, safety programme, or products, on
+its own website. These are published acts by the developer, recorded verbatim.
+
+- **OpenAI.** Its safety policy is the *Preparedness Framework*, described as OpenAI's approach to
+  "frontier capabilities"; its public policy agenda has a section headed "Frontier model safety,
+  security, and accountability." Its enterprise product is named *OpenAI Frontier*, and it publishes
+  "Offering Zero Data Retention for frontier models." (openai.com, accessed 22 Aug. 2026.)
+- **xAI.** "Grok 4.6 achieves frontier intelligence across several agentic coding and knowledge work
+  benchmarks." (x.ai/news/grok-4-6, 12 Aug. 2026.)
+- **Anthropic.** It operates a "Frontier Red Team" that "stress-tests AI systems to understand the
+  full extent of their current capabilities," and publishes a "Frontier Safety Roadmap."
+  (anthropic.com, accessed 22 Aug. 2026.)
+- **Meta.** "Our Frontier AI Framework focuses on the most critical risks in the areas of
+  cybersecurity threats and risks from chemical and biological" weapons. (about.fb.com, 3 Feb. 2025.)
+- **Google DeepMind.** Publishes a *Frontier Safety Framework*. ⚠ Full sentence to pin verbatim from
+  the source before public use.
+
+The inventory is wider than the five operating labs. **Twelve companies have published *frontier*
+safety frameworks** (METR's December 2025 inventory, pinned in [the dossier](../dossier/README.md)):
+the five above plus **Microsoft, Amazon, Nvidia, G42, Cohere, Naver,** and **Magic.** Each framework's
+use of the word is itself a self-designation. The specific verbatim phrasing for the latter seven is
+⚠ to pin from each company's own framework before public use, but the scope point holds for all
+twelve: each has, in a published document, called its own safety work *frontier*.
+
+Each statement is the developer applying the word *frontier* to its own model, programme, or product.
+Under a scope definition that reaches a model its developer holds out as frontier (see the proposed
+SEC. 1(b)(1) limb at [CURE 6 in the v3.5 queue](../audit/v3_5_cure_language.md)), these are self-executing: the
+developer's own published words place the model in scope, with no estimate of its compute required.
+These are corporate self-descriptions on the developers' own domains; no individual officer is named.
+
 ## Other definitions of a covered developer
 
 The compute threshold is one of several definitions in force. A reader comparing statutes will meet
