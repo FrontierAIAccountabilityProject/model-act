@@ -193,7 +193,20 @@ claim: every line restates a citation already published elsewhere in the reposit
 
 ---
 
-## VI. Open items in this table
+## VI. Candidate authorities — read since v3.4, not yet cited
+
+*The July–August 2026 research produced two authorities strong enough to name here, held
+separately because neither is yet cited in the operative text or the companion. They are
+candidates for v3.5, flagged for the enforcement and premise lanes.*
+
+| Authority | Bears on | For |
+|---|---|---|
+| *Moffatt v. Air Canada*, 2024 BCCRT 149 (14 Feb. 2024) | SEC. 0; the "can a model act" premise | An **adjudicated** rejection of the defence that software is "a separate legal entity that is responsible for its own actions" (¶27). A tribunal has already answered the core "but the AI did it" objection: liability stays with the legal person who deployed it. |
+| Desai & Riedl, *Responsible AI Agents* (draft, 20 Feb. 2025), arXiv:2502.18359 | SEC. 0; the personhood premise | "Humans are responsible for AI Agents' actions"; software should not be given legal personhood, because personhood becomes a liability shield. ⚠ **Ally on the premise, not the mechanism** — the authors prefer design standards and product-liability benchmarks to personal criminal duties, and must be cited for the premise only, never as endorsing the Act's method. |
+
+---
+
+## VII. Open items in this table
 
 The cite-check queue (companion, READ FIRST item 10) as it bears on the entries above:
 U.S.S.G. § 5G1.2(d) against the 2025 Manual print (archive-pinned only); Model Penal Code

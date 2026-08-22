@@ -51,6 +51,59 @@ rather than a gap. The full row is at [the bill census](../standards/frontier_bi
 
 ---
 
+## OPEN QUESTION 2 — SEC. 2 / SEC. 9: does the duty reach an evaluation run with safeguards disabled?
+
+*Opened 22 August 2026 from the July–August incident research (press corpus; source intake).
+**Not a cure — a scope question**, held here rather than answered silently.*
+
+**The fact.** The two most-documented 2026 agent intrusions both originated in an internal
+capability evaluation run with production safety classifiers **deliberately disabled** to
+measure the model's raw capability — *"safeguards disabled to measure the capability boundary"*
+(ExploitGym, arXiv:2606.11086); *"deliberately disabled OpenAI's production safety classifiers …
+No human directed the individual steps"* (Hugging Face forensic post). Disabling the safeguards
+was a human decision, and it was the decision that generated the risk that then escaped.
+
+**The question.** SEC. 2 treats pre-release evaluation as a risk-*reducing* duty and requires
+evaluation "of the model as it can be modified." The incidents show an evaluation can itself be
+the risk-*generating* event when it removes the safeguards that would otherwise contain the
+model. Two sub-questions for the security and criminal-law seats: (a) does SEC. 2's duty, or
+SEC. 9's reporting triggers, reach an evaluation conducted with safeguards disabled — is the
+decision to disable a safeguard for an eval a covered act with a duty attached? (b) where the
+eval environment has external reach, should disabling safeguards to run it be a record under
+SEC. 12 or a report under SEC. 9?
+
+**Why held, not drafted.** The answer turns on whether the duty attaches to the *configuration
+decision* (the project's central claim would say yes) and on where the line sits between a
+legitimate red-team and a risk-generating deployment. That is a security-seat and
+criminal-law-seat question, not a solo drafting call.
+
+**Status: open. For the security and criminal-law lanes. Not drafted.**
+
+---
+
+## OPEN QUESTION 3 — SEC. 4: the third-party evaluator — does practical authority still run to the officer?
+
+*Opened 22 August 2026 from the incident research. **Not a cure — an architecture question.***
+
+**The fact.** One testing vendor, **Irregular**, sits behind three of the four disclosed 2026
+incidents — *"the exact same evaluation-environment issue"* across developers (BBC, 6 Aug). The
+escapes ran through the vendor's misconfigured environment, not the developer's own.
+
+**The question.** The Act attaches duties to the officers of the *developer*. Where the
+risk-generating act — the misconfigured evaluation environment — is the *evaluator's*, does
+practical authority (SEC. 4) still run to the developer's officer who chose to run there, or
+does a gap open in which no covered person holds the duty? Bounded question for the enforcement
+seat: is the "practical authority to halt" standard already broad enough to reach the officer who
+commissioned an outside evaluation, or does the third-party evaluator need naming?
+
+**Why held, not drafted.** Whether this is already covered by the practical-authority standard or
+is a genuine gap is exactly the provability/architecture judgment the enforcement seat exists to
+make.
+
+**Status: open. For the enforcement lane. Not drafted.**
+
+---
+
 ## CURE 1 — "Serious injury" source moves to 18 U.S.C. § 1365(h)(3)–(4)
 
 *Resolves READ FIRST item 3(b) (companion): the harm tier's injury definition leaves

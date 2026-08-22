@@ -294,7 +294,26 @@ too-good-to-check finding that E15 and E22 exist to catch.**
 
 ## 7. What is still owed
 
+**Discharged 22 August 2026** — primaries now read in full, graded and dated in the intake:
+
+- **Item 1 (Meta/BBC, 6 Aug):** opened. It is the ✅ verbatim **English** source for the Hulme
+  quotation (*"not conscious — they're not deliberately doing something devious … it will find a way
+  to achieve a goal that you haven't thought about"*), which retires the German rendering to
+  corroboration, and for the *"fourth recent incident"* framing.
+- **Item 5 (HF 16 & 27 Jul; OpenAI & Anthropic disclosures):** read as primaries. **The three
+  lab incidents are no longer second-hand.** The notification order is confirmed at the source (the
+  victim detected, contained, and disclosed first), as is the agency-neutral framing — Hugging Face's
+  *"no human directed the individual steps"* and every developer's shared word, *"misconfiguration."*
+- **Item 10 (the count):** resolved. **Three developers disclosed — OpenAI, Anthropic, Meta —
+  across four incidents**, because Anthropic disclosed more than one. The BBC counts incidents
+  ("fourth"); tagesschau counts developers ("third software"). Both are right about different nouns,
+  and the census now says so rather than a news outlet.
+
+The rest remain owed:
+
 1. **Open the Meta/BBC article of 6 August 2026** and the three sibling BBC pieces named in § 3.
+   *(The Meta/BBC article itself is now opened — see discharge above; the three sibling pieces are
+   still owed.)*
 2. **Open the Bishop Fox original of 31 July 2026.** The NHIMG editorial is an intermediary.
 3. **Pin the BBC "OpenAI slows training" publication date** — currently ⚠ derived from a relative
    timestamp.
