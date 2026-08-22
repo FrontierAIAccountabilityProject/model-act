@@ -23,7 +23,10 @@
 
 **About:** the officers of frontier developers — companies training models above 10²⁶ operations.
 
-**Not about:** open-source contributors, startups, researchers, deployers or users.
+**Not about:** open-source contributors, startups, researchers, ordinary deployers and API
+customers, or users. *A deployer is a defined class under the Act and always has been
+(SEC. 1(b)(3)); what the thin ones get is a route to discharge the duty, not an exemption from it
+(SEC. 2(b)). See [the case](../docs/the_case.md#who-this-is-about).*
 
 **And what this file is not.** Not a technical authority. It is a legislator's glossary, written so
 that someone drafting a definition knows which word does what. **Where the honest answer is

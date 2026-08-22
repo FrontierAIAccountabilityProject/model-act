@@ -16,7 +16,8 @@ different question from the one asked.*
 
 **About:** the officers of frontier developers — companies training above 10²⁶ operations.
 
-**Not about:** open-source contributors, startups, researchers, deployers or users.
+**Not about:** open-source contributors, startups, researchers, ordinary deployers and API
+customers, or users. *On deployers precisely, see [the case](../docs/the_case.md#who-this-is-about).*
 
 **And what this file will not do.** Pick a winner. **Several of these explanations are true at
 once**, and the useful question for a drafter is not *which one* but *which remedy each implies*,

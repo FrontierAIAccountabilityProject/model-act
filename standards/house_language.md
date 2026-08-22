@@ -14,8 +14,15 @@ operations, or spending nine figures on a single training run. On the enacted fa
 thresholds that is a **double-digit number of firms worldwide**, and inside them a smaller number of
 people who decide what ships.
 
-**Not about:** open-source contributors, startups, academic researchers, deployers, hospitals,
-schools, employers, small operators, or **users**.
+**Not about:** open-source contributors, startups, academic researchers, hospitals, schools,
+employers, small operators, ordinary deployers and API customers, or **users**. *On deployers,
+precisely: the Act has always defined deployer as a covered class (SEC. 1(b)(3)) and has always
+given the thin ones a route to discharge the duty rather than an exemption from it — adopt the
+upstream validation, keep the manifest, monitor, report (SEC. 2(b)). What the open queue would add
+at [CURE 7](../audit/v3_5_cure_language.md) reaches a deployer only at consequential scale — mass
+market, or into government, military, financial, health or critical-infrastructure functions — and
+only for its own deployment decisions, never as the developer of a model it did not train. A
+company using a commercial model through an API is not covered by that fact.*
 
 **And the claim, stated precisely.** Not that no American law reaches a natural person over AI — it
 does, readily; Nebraska's "operator" includes one, so a sole trader running a chatbot is personally
@@ -284,9 +291,22 @@ whole industry. But the industry's *own* definition of the covered class does th
 before the statute says a word. A hundred million dollars of compute per training run is not a
 sector. **It is a double-digit number of firms, and inside them a smaller number of people who
 decide what ships.** A duty that reaches them reaches nobody else: not the open-source
-contributor, not the startup, not the researcher, not the deployer. The threshold is the
+contributor, not the startup, not the researcher, not the ordinary deployer running someone
+else's validated system. The threshold is the
 proportionality argument, already written, already enacted in four states, and already accepted
 by the parties it covers.
+
+**One precision, because the loose version of that sentence is false.** *Deployer* has never been
+outside this Act: SEC. 1(b)(3) defines it as a covered class, and SEC. 2(b) gives a non-modifying
+deployer a way to **discharge** the duty — adopt the upstream validation, keep the manifest,
+monitor, report — which is a conditional reliance rule, not an exemption. The open queue's
+[CURE 7](../audit/v3_5_cure_language.md) would go further, reaching a deployer at consequential
+scale for its own deployment decisions only, never as the developer of a model it did not train.
+**So the house rule is: write *ordinary deployer*, or *API customer*, or *deployer operating within
+a validated configuration* — never the bare *deployer*,** which promises an exclusion the text does
+not give. The reassurance stays true by being specific: duties climb toward the people who decide
+what a frontier system is and where it acts; they do not land on a company that bought access to
+one.
 
 **So the word stays, used against the grain.** When this project writes *frontier*, it means the
 tier — the priced, purchased, narrow tier — and never the wilderness. Where a sentence could be

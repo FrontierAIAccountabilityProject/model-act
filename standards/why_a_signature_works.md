@@ -13,7 +13,9 @@ absence of one signed document decided what happened to somebody.***
 **About:** the officer of a frontier developer — the person inside a company training above 10²⁶
 operations who decides that a system ships.
 
-**Not about:** engineers, researchers, open-source contributors, deployers or users. SEC. 8 asks one
+**Not about:** engineers, researchers, open-source contributors, ordinary deployers and API
+customers, or users. *On deployers precisely, see [the case](../docs/the_case.md#who-this-is-about).*
+SEC. 8 asks one
 person to sign one thing. Nobody else acquires a duty because of it.
 
 ---

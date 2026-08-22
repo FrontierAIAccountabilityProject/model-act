@@ -20,8 +20,15 @@ operations, or spending nine figures on a single training run. On the enacted fa
 thresholds that is a **double-digit number of firms worldwide**, and inside them a smaller number of
 people who decide what ships.
 
-**Not about:** open-source contributors, startups, academic researchers, deployers, hospitals,
-schools, employers, small operators, or **users**.
+**Not about:** open-source contributors, startups, academic researchers, hospitals, schools,
+employers, small operators, ordinary deployers and API customers, or **users**. *On deployers,
+precisely: the Act has always defined deployer as a covered class (SEC. 1(b)(3)) and has always
+given the thin ones a route to discharge the duty rather than an exemption from it — adopt the
+upstream validation, keep the manifest, monitor, report (SEC. 2(b)). What the open queue would add
+at [CURE 7](../audit/v3_5_cure_language.md) reaches a deployer only at consequential scale — mass
+market, or into government, military, financial, health or critical-infrastructure functions — and
+only for its own deployment decisions, never as the developer of a model it did not train. A
+company using a commercial model through an API is not covered by that fact.*
 
 **And the claim, stated precisely.** Not that no American law reaches a natural person over AI — it
 does, readily; Nebraska's "operator" includes one, so a sole trader running a chatbot is personally

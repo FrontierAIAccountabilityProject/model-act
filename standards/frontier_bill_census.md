@@ -24,8 +24,10 @@ above 10²⁶ operations, or spending nine figures on a single training run. On 
 own thresholds that is a **double-digit number of firms worldwide**, and inside them a smaller
 number of people who decide what ships.
 
-**Not about:** open-source contributors. Startups. Academic researchers. Deployers, hospitals,
-schools or employers using these tools. Small operators. **Users.**
+**Not about:** open-source contributors. Startups. Academic researchers. Hospitals, schools,
+employers and ordinary deployers using these tools. Small operators. **Users.** *(On deployers
+precisely — a defined class under the Act, given a route to discharge the duty rather than an
+exemption from it — see [the case](../docs/the_case.md#who-this-is-about).)*
 
 **And a distinction this project got wrong at first, corrected here.** It is not true that *no
 American law reaches a natural person* in connection with AI — it does, and readily. Nebraska's
