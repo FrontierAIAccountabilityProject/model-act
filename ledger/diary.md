@@ -9,6 +9,12 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 this diary, the [changelog](./changelog.md), and the [errata register](./errata.md). The full
 day-by-day account is below; this is the quick scan.*
 
+- **22 Aug 2026** — the enterprise pass: [CURE 7](../audit/v3_5_cure_language.md) drafts the
+  covered frontier enterprise (scope follows the ecosystem, duty follows the function);
+  [the coverage set](../research/frontier_enterprises.md) — twelve companies, four layers, their
+  own word *frontier* verbatim; [the definition](../docs/the_definition.md) and
+  [known objections](../docs/known_objections.md) published; the front page inverted around the
+  two definitions.
 - **22 Aug 2026** — the global frontier models compiled from Epoch AI data into
   [research/frontier_models.md](../research/frontier_models.md), paired with the developers' own
   *frontier* self-designations (five labs by name, the METR twelve by framework);
@@ -37,6 +43,25 @@ day-by-day account is below; this is the quick scan.*
 - **19 Aug 2026** — v3.4 tagged: fifteen cures entered the statute verbatim.
 
 ---
+
+**22 August 2026 (evening) — The two definitions, and the enterprise.**
+
+The day's second turn was larger than its first. The question "how do we define frontier" resolved
+into an architecture: the laboratories keep the technical definition; the Act states a legal one.
+A covered frontier enterprise is function plus scale — developing the model, controlling the
+compute, deploying into consequential institutions — and its officers answer for the function that
+enterprise actually holds, never for a layer they do not. CURE 7 put the operative language in the
+queue with exact splices; the twelve-company coverage set entered the research with each company's
+own use of the word *frontier*, verbatim and sourced, ownership and control from the proxies; the
+definition and the known objections became public pages, the objections published with their
+answers before any reviewer arrives. The front page now opens with the two definitions. Two
+discipline notes for the record: the bracketed scale figures in CURE 7 have no donor statute and
+say so — proposals, bracketed, for review to attack; and the day's drafting briefly overstated two
+search misses as negative findings before the maintainer's sourced record corrected it — caught
+before anything published, and the sourcing rule now states both routes a quotation may enter by.
+Parked deliberately: sponsorship (the disclosure now carries the not-seeking-funding line instead);
+the capability-parity route (with the enforcement seat); the solo v3.5 assembly, which follows
+this pass rather than preceding it.
 
 **22 August 2026 (later) — Scope: the developer's own word becomes a route into coverage.**
 

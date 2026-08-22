@@ -10,10 +10,75 @@ Model state legislation applying the **responsible corporate officer doctrine** 
 658 (1975) — to frontier artificial intelligence. It places personal, non-delegable
 duties on natural persons with practical authority over the relevant risk. A covered
 model exceeds [10^26] operations or is prospectively designated as frontier-equivalent;
-a lower threshold triggers specified records duties only. Technical work, access, advice, or implementation of another person’s decision does not create personal liability. Final material authority to prevent, halt, restrict, or correct the covered conduct does—and it cannot be delegated away.
+a lower threshold triggers specified records duties only. The laboratories hold a
+technical definition of *frontier*; this project holds a legal one — [two definitions](#two-definitions-of-frontier), below. Technical work, access, advice, or implementation of another person’s decision does not create personal liability. Final material authority to prevent, halt, restrict, or correct the covered conduct does—and it cannot be delegated away.
 
 **Public-domain research draft. No permission or attribution is required under
 [CC0](./LICENSE).**
+
+---
+
+## Two definitions of "frontier"
+
+**AI laboratories hold a technical definition of frontier AI** — systems near the state of the art
+in capability, autonomy, or training compute. **The proposed legislation holds a separate legal
+definition**, and does not need to win a vocabulary argument with the laboratories to hold it: the
+law does not decide which company has the best model; it decides which companies and officers have
+enough capability, control, wealth, and institutional reach to create or materially amplify
+frontier-AI risk. Coverage attaches where three things meet:
+
+> **frontier system + frontier activity + control or scale.**
+
+Wealth alone covers nobody. Wealth combined with a material frontier function — training the model,
+supplying the compute, deploying it into consequential institutions — covers everyone who matters.
+
+**The industry chose the word first.** Google DeepMind: *"We call our most powerful foundation
+models 'frontier models'."* xAI's homepage: *"Frontier AI models for everything you imagine."*
+Meta's own governance framework adopts *"at least 10^26 integer or floating point operations"* as
+its criterion — the same figure this Act uses. OpenAI sells an enterprise product named
+**Frontier**. Twelve companies have published a *frontier* safety framework. The legislature is
+not inventing a term; it is specifying the legal consequences of one the industry uses to sell
+the product. Verbatim record, with sources: [the frontier enterprises](./research/frontier_enterprises.md)
+and [the models table](./research/frontier_models.md).
+
+**The frontier is a system, not a model file** — chips, data centres, cloud access, models,
+deployment platforms, sensitive data, institutional permissions, and the capital that sustains the
+whole. Which is why the legal definition reaches the chain of control:
+
+> A model developer cannot say the cloud provider was responsible; the cloud provider cannot say it
+> only hosted the model; the deployment company cannot say it merely integrated someone else's
+> system. A law that covers only the model trainer leaves the other decisive points of control
+> legally invisible.
+
+The illustrative coverage set — criteria applied to the facts of August 2026, never a list of
+names in any statute:
+
+| Layer | Companies | In their own words |
+|---|---|---|
+| **Model creation** | OpenAI · Anthropic · xAI · Google DeepMind · Meta | "frontier AI developer" (OpenAI); the "Frontier Red Team" (Anthropic); "Grok 4.6 achieves frontier intelligence" (xAI); "our most powerful foundation models" are "frontier models" (Google DeepMind); "Frontier AI" defined at ≥10²⁶ operations (Meta) |
+| **Compute creation and control** | NVIDIA · Microsoft · Amazon · Oracle | "pushing the frontier of AI" (Altman, in NVIDIA's materials); "no shortcuts to the frontier" (Microsoft AI); "build your own frontier models" (Amazon); "frontier AI infrastructure" (Oracle) |
+| **Physical-world autonomy** | Tesla | "autonomy at scale in vehicles, robots and more" — its register is *autonomy*; coverage follows the function, not the vocabulary |
+| **Institutional deployment and data** | Palantir · Databricks | "the frontier labs" as the category Palantir works around (Karp); "enterprise demand for frontier AI is accelerating" (OpenAI's COO, in Databricks' release) |
+
+Duty then follows the function: each enterprise's officers answer for the layer that enterprise
+actually controls — training, compute supply, deployment — and never for a layer they do not hold.
+The full argument: [the definition](./docs/the_definition.md) · the evidence:
+[the frontier enterprises](./research/frontier_enterprises.md).
+
+**What we expect you to attack.** The project does not assume these definitions are legally
+sufficient. Whether the enterprise category and its bracketed scale conditions are precise enough,
+whether the responsible-corporate-officer doctrine can be adapted from food and drug law to
+frontier AI, how responsibility divides between developers, compute suppliers, and deployers, and
+what mens rea and safe-harbour provisions are constitutionally necessary — these are the review
+council's central questions, and the strongest objections the project knows are published with its
+answers at [known objections](./docs/known_objections.md). A reviewer may conclude the central
+theory should be removed. That conclusion would be published.
+
+**Where the operative text stands.** Nothing on this page pretends: the tagged statute
+([v3.4](./model_act_v3_4.txt)) defines its frontier by compute and Agency designation. The
+self-designation route and the covered-frontier-enterprise architecture are drafted, anchored, and
+open for attack in [the v3.5 queue](./audit/v3_5_cure_language.md); they enter the statute only at
+the v3.5 revision.
 
 ---
 
@@ -126,7 +191,7 @@ entity liability or the base offense into the enhanced tier.
 glossary for people who have to legislate about this. It is the shortest route to reading
 everything else here critically.
 
-**On this page** — [Overview](#overview) · [Status](#status) · [Structure](#repository-structure) · [Contents](#contents) · [For sponsors](#for-sponsors-and-staff) · [For reviewers](#for-the-review-council) · [Recent](#recent) · [Provenance](#provenance-and-method)
+**On this page** — [Two definitions](#two-definitions-of-frontier) · [Overview](#overview) · [Status](#status) · [Structure](#repository-structure) · [Contents](#contents) · [For sponsors](#for-sponsors-and-staff) · [For reviewers](#for-the-review-council) · [Recent](#recent) · [Provenance](#provenance-and-method)
 
 
 ---
@@ -249,7 +314,7 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 
 ## Project disclosure
 
-The Model Act is an independent, pseudonymous and unfunded public drafting project. It is not affiliated with an AI company, political party, government office or advocacy organisation. No contributor is presented as legislative counsel, and publication does not imply professional or institutional endorsement. Maintained pseudonymously by one person; AI assistance disclosed.
+The Model Act is an independent, pseudonymous and unfunded public drafting project. It is not affiliated with an AI company, political party, government office or advocacy organisation. No contributor is presented as legislative counsel, and publication does not imply professional or institutional endorsement. Maintained pseudonymously by one person; AI assistance disclosed. The project is not seeking funding; if that ever changes, the source, amount and conditions will be disclosed here before any funds are accepted.
 
 The text, sources, unresolved questions and revision history are public so that specialists can verify, criticise and improve the work on its merits.
 
@@ -258,7 +323,7 @@ The text, sources, unresolved questions and revision history are public so that 
 - **Current text:** v3.4 — tagged; sha256 checksums in [`LEDGER.md`, Part II](./ledger/changelog.md)
 - **Nature:** research draft, never enacted; bracketed matter is an adopting state's choice
 - **v3.4 amendments:** entered verbatim from the published cure queue — announcement and statute are diffable
-- **Next revision:** v3.5 in preparation; the open [cure queue](./audit/v3_5_cure_language.md) holds proposed language, none of it in any tagged text yet
+- **Next revision:** v3.5 in preparation; the open [cure queue](./audit/v3_5_cure_language.md) holds proposed language — now including the scope architecture: the self-designation route (CURE 6) and the covered frontier enterprise (CURE 7) — none of it in any tagged text yet
 - **Review:** council assembly under way; this text claims no "survived review" until named reviewers sign
 - **Print edition:** a reproducible, line-numbered [reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf) (17pp, landscape, wide margin) is built from the source by [a committed script](./archive/build_reviewers_copy.py); plain text remains authoritative
 - **License:** CC0 — public domain
@@ -316,6 +381,10 @@ has its own index.*
 
 **7 · [Questions](./docs/questions.md)** — What this project is asked, including the questions it answers against itself.
 
+**7a · [The definition](./docs/the_definition.md)** — Two definitions of "frontier": the laboratories' technical one and this Act's legal one, side by side, with the selection test and the protective clauses.
+
+**7b · [Known objections](./docs/known_objections.md)** — The strongest objections the project knows, published with its answers before any reviewer arrives — including the ones the tagged statute already answers in black letter.
+
 
 ### III · For a sponsor's office
 
@@ -337,6 +406,10 @@ the decision to ship — not that no law reaches any natural person, since sever
 is the checking, and it is designed to be capable of failing.*
 
 **13 · [The frontier bill census](./standards/frontier_bill_census.md)** — Every frontier AI bill in America, read one at a time, with a confidence grade on every row and a tally that never exceeds the rows read.
+
+**13a · [The frontier models](./research/frontier_models.md)** — Which models meet the compute threshold, who builds them, where based, and which developers have conduct the Act would cover — Epoch AI data, the developers' own *frontier* self-designations, and the disclosure gap stated flat.
+
+**13b · [The frontier enterprises](./research/frontier_enterprises.md)** — The coverage set: twelve companies across four layers — model creation, compute control, embodied autonomy, institutional deployment — with ownership, control, scale, and each company's own use of the word *frontier*, verbatim and sourced.
 
 **14 · [Why the disparity exists](./standards/why_the_disparity.md)** — Twelve explanations for why American law reaches an individual with four hundred and forty years of announced exposure and a frontier officer with nothing. Drawn from across the political spectrum, argued in their strongest form, several of them exculpatory — and each followed to the remedy it implies.
 

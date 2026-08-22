@@ -18,6 +18,20 @@ was compiled from the Epoch AI dataset and paired with the developers' own *fron
 developer holds out as frontier — with an anti-evasion clause and a deployer carve-out. Recorded here
 because the register should show the apparatus moving between tagged versions, not only the versions.
 
+**Between versions — 22 August 2026, the enterprise pass.** Still no change to the tagged statute.
+The scope architecture arrived in the apparatus: [CURE 7](../audit/v3_5_cure_language.md) drafts
+the covered frontier enterprise into the queue — scope follows the ecosystem, duty follows the
+function, wealth alone covers nobody — with exact splices into SEC. 1(b), SEC. 2(a), and SEC. 4,
+advance designation of one responsible officer per covered function, and the auditor and evaluator
+named into the non-shield list (part answer to Open Question 3). The evidence base entered as
+[research/frontier_enterprises.md](../research/frontier_enterprises.md) (the twelve-company
+coverage set, four layers, verbatim self-designations, ownership and control from public filings);
+the public face as [docs/the_definition.md](../docs/the_definition.md) (the two definitions,
+technical beside legal) and [docs/known_objections.md](../docs/known_objections.md) (the strongest
+objections published with their answers, the sections that already answer them cited). The front
+page was inverted around the two definitions, and the disclosure gained the funding line: not
+seeking funding; any change disclosed before a penny is accepted.
+
 **v3.4 — 19 August 2026.** The sixteen findings of the adversarial review of 17–18
 August, cured. Fifteen amendments entered the statute verbatim from the published queue
 (`audit/v3_4_cure_language.md`); finding 4 (the harm tier) was already satisfied by

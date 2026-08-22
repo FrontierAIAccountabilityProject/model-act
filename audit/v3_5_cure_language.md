@@ -410,3 +410,158 @@ drafting session may disagree.
 
 **Consequential check — no cascade break.** The limb adds a route into the defined term "covered frontier model"; every section keyed to that term inherits the wider scope automatically and correctly. SEC. 8 certification is unaffected: a self-designated developer knows it self-designated, having published the words, so the duty to certify is coherent on the new route as on the compute route. SEC. 12 records duties widen with scope, as intended. The lineage sub-rules at (A)–(C) are keyed to "the figure in this paragraph" — the compute figure — and are unaffected; a derived model may enter scope by self-designation on the same terms as any other model. One tidy is left for assembly: the existing sentence "The compute figure is a bright-line trigger; capability designation under SEC. 3 reaches models below it" remains true as written and need not change, but may take a clause at v3.5 noting the self-designation route is independent of both. Flagged, not drafted.
 
+---
+
+## CURE 7 — the covered frontier enterprise: scope follows the ecosystem, duty follows the function
+
+*Opened 22 August 2026 from the frontier-enterprise research
+([research/frontier_enterprises.md](../research/frontier_enterprises.md);
+[docs/the_definition.md](../docs/the_definition.md)). **A scope-architecture extension with
+adopt-ready text**, keyed to v3.4 with exact splices. Per [E10](../ledger/errata.md), the tagged
+text is not edited; this is proposed language for v3.5. The bracketed scale figures have no donor
+statute — they are this project's proposals, bracketed as adopting-state choices like every other
+bracketed number in the Act, and are flagged as such rather than dressed as settled. Not legal
+advice.*
+
+**The gap it closes.** The Act reaches the developer, substantial modifier, provider, and deployer
+of a covered model (SEC. 1(b)(3)) — the model side of the frontier. It does not reach the compute
+the frontier runs on. Compute is increasingly rented: a developer can train on a partner's cloud,
+an infrastructure company can supply capacity dedicated to a frontier run, and after a failure each
+can point at the other — the developer did not operate the data centre; the supplier only provided
+neutral services. The 2026 incident record shows the fragmentation is not hypothetical: the most
+consequential risk-generating environment of the July–August cluster belonged to a third-party
+vendor, not to any developer ([Open Question 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer)).
+Frontier risk is produced through a chain of controlled decisions; a statute that sees only the
+entity that pressed *train* leaves the other decisive points of control legally invisible.
+
+**The architecture, stated once.** Scope follows the ecosystem; duty follows the function. The
+enterprise category widens who is *inside* the Act; it does not widen what anyone must do. The
+offences stay anchored where they are — the covered system's lifecycle, and the controlling person
+who failed the duty attached to the authority that person actually held (SEC. 2(a), SEC. 4, SEC. 6).
+A compute supplier's duties are the records, security, and reporting duties prescribed for the
+supply of compute, and nothing else; a deployer-integrator's duties are the deployer's duties the
+Act already states; no one answers for a layer they do not hold. Wealth alone covers nobody;
+wealth plus a material frontier function is what the scale conditions measure.
+
+**Operation 1 — the definitions.** Insert two definitions after SEC. 1(b)(10) and before
+subsection (c).
+
+**ANCHOR (end of SEC. 1(b)(10), verbatim):** "The Agency may specify classes of such capability by
+rule; the absence of a rule neither suspends nor narrows SEC. 5(b) once the controls that section
+presupposes have been prescribed under SEC. 3."
+
+**NEW TEXT — definitions (11) and (12), inserted after that sentence:**
+
+> (11) "Frontier compute supplier": an entity that owns, operates, designs, finances, reserves, or
+> supplies computing infrastructure materially capable of the training or deployment of a covered
+> frontier model, where the capacity owned, operated, reserved, or supplied exceeds [a threshold
+> prescribed by rule under SEC. 3, and not less than capacity reasonably capable of performing
+> 10^26 integer or floating-point operations within [one year]]. The ordinary sale or provision of
+> general-purpose goods or services, without more, does not make a person a frontier compute
+> supplier. (12) "Covered frontier enterprise": an entity that (A) is a developer, substantial
+> modifier, provider, or deployer of a covered frontier model or covered system, or (B) is a
+> frontier compute supplier, and that meets at least one of the following frontier-scale
+> conditions: (i) training and lineage compute as provided in paragraph (1); (ii) ownership,
+> operation, or reservation of capacity described in paragraph (11); (iii) deployment or
+> integration of a covered system at mass-market scale or into governmental, military, financial,
+> health, or critical-infrastructure functions; or (iv) [aggregate AI-related infrastructure,
+> development, or compute commitments exceeding $[10,000,000,000]; or market capitalization or
+> most recent arm's-length valuation exceeding $[100,000,000,000]; or annual gross revenue
+> exceeding $[50,000,000,000]] — in each case only together with a function under subparagraph (A)
+> or (B). No entity is a covered frontier enterprise solely because of its wealth, market value,
+> revenue, use of artificial intelligence, association with a covered frontier enterprise, or
+> provision of ordinary commercial goods or services; coverage requires a material frontier
+> function and a frontier-scale condition. Function and scale under this paragraph are determined
+> by aggregating controlled subsidiaries, affiliates, joint ventures, and exclusive or materially
+> dedicated infrastructure arrangements.
+
+**Operation 2 — the attachment sentence extended to the supplier's own function.** SEC. 2(a)
+already states the Act's function-matching rule; this adds the supplier to the list on the same
+terms, with the duty gated on rules the way SEC. 5(b) already gates.
+
+**ANCHOR (SEC. 2(a), verbatim):** "each controlling person as to the exercise of the authority
+that person holds."
+
+**NEW TEXT — the sentence as it ends after insertion:**
+
+> the frontier compute supplier as to the security, records, and reporting duties prescribed by
+> rule under SEC. 3 for the supply, reservation, or operation of that infrastructure, and not
+> otherwise, no duty arising under this clause until such a rule takes effect; each controlling
+> person as to the exercise of the authority that person holds.
+
+**Operation 3 — advance designation of the responsible officer, per function.** New subsection
+SEC. 4(d). One named officer per covered function — development, compute, deployment, security —
+identified before the activity begins; an accountability anchor, not a scapegoat, and never a
+shield for anyone else.
+
+**ANCHOR (SEC. 4(c), final sentence, verbatim):** "Liability is several as to each person
+independently meeting the elements of this Act."
+
+**NEW TEXT — SEC. 4(d), inserted after that sentence:**
+
+> (d) Advance designation. Before commencing a covered activity — the training of a covered
+> frontier model; a reservation, supply, or operation of capacity described in SEC. 1(b)(11); the
+> deployment, release, or material expansion of a covered system; or the operation of security and
+> incident response for any of the foregoing — a covered frontier enterprise shall identify, in a
+> record under SEC. 12, each natural person who possesses practical authority to authorize,
+> continue, expand, suspend, prevent, or correct that activity, designating one primary
+> responsible officer for the activity and every other person holding independent authority over
+> it. A designation is evidence of authority; the absence, refusal, or inaccuracy of a designation
+> neither creates nor defeats status under subsection (a), which alone determines authority; and a
+> failure to designate is a violation of the records duty. Nothing in this subsection diminishes
+> subsection (c).
+
+**Operation 4 — the auditor and evaluator enter the non-shield list.** SEC. 4(c) already refuses
+the shield to "a safety officer, compliance officer, committee, subsidiary, contractor, or other
+intermediary"; the 2026 incidents ran through an outside evaluator, so the evaluator is named
+rather than left to "other intermediary," and good-faith reliance is given its conditions.
+
+**ANCHOR (SEC. 4(c), verbatim):** "No appointment of a safety officer, compliance officer,
+committee, subsidiary, contractor, or other intermediary shields a person who retains such
+authority."
+
+**NEW TEXT:**
+
+> No appointment of a safety officer, compliance officer, committee, subsidiary, contractor,
+> independent auditor or evaluator, or other intermediary shields a person who retains such
+> authority. Good-faith reliance on a competent independent auditor or evaluator bears on due care
+> only where the relying person provided reasonable access to relevant information, considered the
+> findings, and documented any material disagreement; the appointment alone neither establishes a
+> defense nor, of itself, establishes liability.
+
+**Why this shape.** The category is criteria, never names: a statute imposing special criminal
+duties on enumerated companies would invite a bill-of-attainder challenge and read as an enemies
+list, so the illustrative set lives in [the research](../research/frontier_enterprises.md) and the
+findings, and the elements live here. Wealth appears only inside the scale conditions, bracketed,
+always conjoined to a function, and answered in advance by the protective sentence — the two
+strongest anticipated attacks (arbitrary wealth-based coverage; liability without control) are met
+in the definition itself and in SEC. 4's existing exclusions. The aggregation sentence closes the
+subsidiary dodge: a training run moved to a contractor, or capacity reserved through an
+intermediary, still counts. Operation 2's "and not otherwise … until such a rule takes effect"
+keeps the supplier's exposure records-and-reporting-tier and rule-gated, on the exact pattern
+CURE 4 Operation 2 used — the Act does not sprawl into a second regulatory field, which is what its
+own front page promises ("not more agencies, not more audits"). Operation 3 gives every covered
+function a named human owner before the activity begins, while the existing subsection (c)
+sentence — designation "neither diminishes nor creates any presumption against the responsibility
+of any other controlling person" — keeps the anchor from becoming a scapegoat or a shield.
+Operation 4 answers the outsourcing defence the incident record actually produced.
+
+**Consequential check.** SEC. 1(b)(3) is untouched: integrators and platforms were already
+deployers and providers when they operate covered systems, and nothing here deems anyone the
+developer of a model it did not train — CURE 6's carve-out stands. SEC. 2(b)'s closing sentence
+("Nothing in this subsection conditions any duty, or the discharge of any duty, upon the revenue,
+size, or resources of any person") is conformed with, not contradicted: scale conditions decide
+*coverage* of enterprises; they never condition the discharge of any duty, and the small-deployer
+reliance path is unchanged. SEC. 6's offense structure is untouched — controlling person, duty,
+failure of due care. SEC. 1(c) jurisdiction is untouched and will need a conforming look for the
+supplier clause at assembly (in-state capacity as a nexus), flagged below. SEC. 4(b)'s
+presumptions currently name the chief executive "of a developer or provider"; whether the
+presumption should extend to the chief executive of any covered frontier enterprise is a
+criminal-law-lane question, flagged, not drafted.
+
+**Held open.** The bracket values in (11) and (12)(iv) — rule-floor capacity, dollar thresholds,
+and the [one-year] window — are adopting-state choices with no donor statute, to be pressure-tested
+in review. The SEC. 4(b) presumption extension. The supplier nexus under SEC. 1(c). The interaction
+of the (12)(iv) revenue alternative with OPEN QUESTION 1's Connecticut tier. And the capability
+question of CURE 6 remains where CURE 6 left it: for the enforcement and security seats.
+
