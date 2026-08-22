@@ -550,20 +550,35 @@ notes; skim all, read closely where the lane points. Fifth,
 counsel; if an objection is already there, grade our answer; if it is not, that finding is
 what the seat is for.
 
-**The lanes.** *Criminal law* — the statute's SEC. 1, 4, 5–6, and 10(b)–(c); cures 2, 5,
-and 13 in the queue; the penalty and harm-tier chunks of [the record](./audit/record.md#chunk-3).
-Core questions: do the elements hold as charged offenses; is the due-care floor the right
+**The lanes.** Numbering note: "v3.4 cures" below are the sealed queue, already landed and
+diffable; items marked *open queue* are in [the v3.5 queue](./audit/v3_5_cure_language.md),
+which is where this review's findings land — several of its entries are addressed to a seat
+by name. *Criminal law* — the statute's SEC. 1, 4, 5–6, and 10(b)–(c); v3.4 cures 2, 5,
+and 13; the penalty and harm-tier chunks of [the record](./audit/record.md#chunk-3). Open
+queue: CURE 1's report-versus-element bifurcation; CURE 7's enterprise category — the
+bracketed scale conditions against vagueness, and whether SEC. 4(b)'s presumption should
+extend past "developer or provider"; Open Question 2, jointly with security. Core
+questions: do the elements hold as charged offenses; is the due-care floor the right
 floor; do the absent defenses belong absent. *Enforcement and prosecution* — SEC. 5, 9,
 10, and 12; [chunk 3](./audit/record.md#chunk-3) and [chunk 5](./audit/record.md#chunk-5).
-Core questions: provability, charging practicality, and what an attorney general's office
+Open queue: Open Question 3, the third-party evaluator — CURE 7 Operation 4 answers part
+of it; is the remainder a gap; CURE 4's recast triggers, as provability; CURE 6's held-open
+capability-parity route; SEC. 4(d) advance designation as charging evidence. Core
+questions: provability, charging practicality, and what an attorney general's office
 does with this in year one. *Frontier security* — [the regulations](./model_regulations_v1_draft.md)
-as the primary text, then SEC. 2, 3, and 9(a); cures 11, 12, and 14. Core question: where
+as the primary text, then SEC. 2, 3, and 9(a); v3.4 cures 11, 12, and 14. Open queue:
+Open Question 2 — the safeguards-disabled evaluation, jointly with criminal law; and
+CURE 7's compute-supplier duties against real infrastructure practice. Core question: where
 the text meets laboratory practice, and where practice would laugh. *Open source and
-academia* — SEC. 1(b)(9) and 1(b)(1), SEC. 2's modification budget; cures 1, 9, and 16.
-Core question: whether the release provisions deliver the promise — duties climbing to
+academia* — SEC. 1(b)(9) and 1(b)(1), SEC. 2's modification budget; v3.4 cures 1, 9, and 16.
+Open queue: CURE 6's self-designation route and its deployer carve-out; CURE 7's
+ordinary-commodity exclusion — whether the shields hold as drafted. Core question: whether
+the release provisions deliver the promise — duties climbing to
 those with the power to halt, freedoms flowing down to everyone else — or leak. *Fiscal and administration* — [the fiscal note](./standards/fiscal_note.md) as the
 primary text, then SEC. 10(a) and (f), SEC. 11, SEC. 3; [chunk 3](./audit/record.md#chunk-3),
-part D. The standing fiscal rule to hold us to: enforcement is never sold as self-funding,
+part D. Open queue: what CURE 7's enterprise category and the SEC. 4(d) designation
+records cost an agency to administer. The standing fiscal rule to hold us to: enforcement
+is never sold as self-funding,
 penalties are never booked as revenue, and startup costs are stated apart from steady
 state. Core question: whether the administrability story survives contact with a real
 budget office.
