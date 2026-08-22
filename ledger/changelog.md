@@ -3,6 +3,17 @@
 
 ## Part II — The changelog
 
+**Between versions — 22 August 2026.** No change to the tagged statute (`model_act_v3_4.txt`
+stands). Companion and apparatus only: the [v3.5 queue](../audit/v3_5_cure_language.md) settled
+CURE 1's attribution to anonymous, gave CURE 4's anthropomorphism recast AI-native precedent from
+the July–August incident record, and opened two new questions (a safeguards-disabled evaluation; the
+third-party-evaluator gap); the [glossary](../standards/what_these_words_mean.md) gained a
+legal/technical two-column view and a definition of *accountability*; the
+[table of authorities](../standards/table_of_authorities.md) added *Moffatt v. Air Canada* and
+Desai & Riedl as candidate authorities not yet cited; and the front-page contribution ask was recast
+as three labelled doors. Recorded here because the register should show the apparatus moving between
+tagged versions, not only the versions.
+
 **v3.4 — 19 August 2026.** The sixteen findings of the adversarial review of 17–18
 August, cured. Fifteen amendments entered the statute verbatim from the published queue
 (`audit/v3_4_cure_language.md`); finding 4 (the harm tier) was already satisfied by

@@ -3,6 +3,51 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 
 ## Part III — The diary
 
+### Recent — the artefact index (newest first)
+
+*Moved here 22 August 2026 from the front page, where it had become a confusing fourth log beside
+this diary, the [changelog](./changelog.md), and the [errata register](./errata.md). The full
+day-by-day account is below; this is the quick scan.*
+
+- **22 Aug 2026** — the July–August research folded into the standards: a two-column
+  legal/technical view and a definition of *accountability* enter
+  [the glossary](../standards/what_these_words_mean.md); the contribution ask splits into
+  [three labelled doors](../README.md#contact-and-contributions); [CURE 4](../audit/v3_5_cure_language.md)
+  gains AI-native precedent and the queue two new open questions;
+  [the press corpus](../research/press_corpus_july_august_2026.md) discharges its owed items;
+  *Moffatt v. Air Canada* and Desai & Riedl enter [the authorities](../standards/table_of_authorities.md)
+  as candidates.
+- **20 Aug 2026** — [reading notes](../filings/docket_fda_2024_d_4488_reading_notes.md) on the 51
+  FDA comments; [the field guide to filing a federal comment](../filings/how_to_file_a_federal_comment.md).
+- **20 Aug 2026** — [the comparative file](../standards/comparative_officer_liability.md) pins
+  PRC art. 31, § 130 OWiG, and the 1890–91 export-inspection acts.
+- **20 Aug 2026** — Illinois pinned: P.A. 104-0538 § 10 enters [the adopted
+  texts](../standards/interim_standards.md); the "v4" header bracket logged as
+  [E10](./errata.md) and corrected at v3.5 rather than edited in place.
+- **20 Aug 2026** — the withdrawn typeset edition replaced by a line-numbered
+  [reviewer's copy](../archive/model_act_v3_4_reviewers_copy.pdf); READ FIRST 3(b) answered from
+  outside (CURE 1); [table of authorities](../standards/table_of_authorities.md) and
+  [bracketed-matter worksheet](../standards/bracketed_matter.md) published; repository archived at
+  CERN with a DOI.
+- **19 Aug 2026** — v3.4 tagged: fifteen cures entered the statute verbatim.
+
+---
+
+**22 August 2026 — Integration: the research folded in, and the front page's asks split into three doors.**
+
+A build day, not a drafting day: the tagged statute did not move; what moved around it. The
+July–August incident research stopped being an intake pile and became support for provisions. The
+glossary gained the two columns a lawyer expects — legal sense beside machine sense — and finally
+defined its own central word, *accountability*, from Binns and the UK Command Paper: "ownership,
+responsibility and consequences." [CURE 4](../audit/v3_5_cure_language.md), the recast of the
+statute's one anthropomorphism, picked up AI-native precedent to sit beside Volkswagen — the labs'
+own agency-neutral vocabulary, *no human directed the individual steps*, *misconfiguration*. Two new
+open questions the incidents opened were logged rather than answered. *Moffatt v. Air Canada* — a
+tribunal already refusing the "software is a separate legal person" defence — entered the authorities
+as a candidate. A private audit of the outreach found the front page asking every visitor for
+everything at once; it is now three labelled doors. And this activity log itself moved off the front
+page into this file, where the running record belongs.
+
 **21–22 August 2026, overnight — The project caught itself doing the thing it was writing about.**
 
 *⚠ Dating note. The previous entry is stamped 21 August, late. Today's files are stamped 22 August

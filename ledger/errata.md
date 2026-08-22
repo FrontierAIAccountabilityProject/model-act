@@ -721,6 +721,22 @@ and confirmed verbatim before the section was written**, along with the publicat
 occurs **exactly once** in the document. That is now the sharpest sentence in the section, and it
 exists because the check was run. **E22's rule paid for itself the same day it was written.**
 
+## E24 — the front page conflated four different asks into one "get involved"
+
+**Filed 22 August 2026. A presentation defect in published material, caught by a private outreach
+audit, corrected the same day.**
+
+The README's contribution section presented four distinct relationships — a formal council seat, a
+single bounded expert question, a talk-or-referral, and an anonymous citation catch — as one blended
+invitation, so a visitor could not tell which commitment was being asked of them, and the page
+appeared to ask everyone for everything. This is not a factual error in a claim; it is a defect in
+how the asks were shown, which matters because a review-recruitment page whose terms are unclear
+misstates, in effect, what a reviewer is agreeing to.
+
+**Fix:** the section is recast as [three labelled doors](./README.md#contact-and-contributions) —
+check one thing, review one lane, talk or refer — with legislative and sponsor contact routed to its
+own track. The five-seat council terms are unchanged. Status: cured on the front page.
+
 <a id="part-ii"></a>
 
 ---

@@ -513,46 +513,6 @@ disposition. The request is limited: provide an expert assessment that can be pu
 under the reviewer's name.
 
 
-## Recent
-
-Newest first; every entry links to the artefact, not to a promise.
-
-- **20 Aug 2026** — the predecessor comment file, rostered in full and read in part:
-  [reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md) on the 51 comments FDA
-  received the last time it asked how to regulate AI devices — every filer named, the
-  substance of 22 of them read, and the element none of those 22 names.
-- **20 Aug 2026** — the docket door gets its manual: [the field guide to filing a federal
-  comment](./filings/how_to_file_a_federal_comment.md) — the identity cards and category
-  codes decoded, the government's own craft sheets pinned, and the one fact that inverts
-  the civic instinct: the process is not a vote.
-- **20 Aug 2026** — the question ladder's comparative answers gain their sources:
-  [the comparative file](./standards/comparative_officer_liability.md) pins PRC art. 31,
-  § 130 OWiG, and the 1890–91 export-inspection acts, and lists the three claims that
-  were drafted and cut for want of a primary source.
-- **20 Aug 2026** — Illinois pinned: P.A. 104-0538 § 10 enters [the adopted
-  texts](./standards/interim_standards.md) verbatim from the enrolled bill, and the last
-  "capture pending" on a SEC. 3(c)(4) interim standard retires.
-- **20 Aug 2026** — a stale word found inside the tagged statute and deliberately left there:
-  the header bracket still says "v4" where the next revision is v3.5. Non-operative text, and
-  editing one byte would falsify the reproducibility chain the reviewer's copy rests on, so it
-  is logged as [ERRATA E10](./ledger/errata.md) and corrected at v3.5 instead.
-- **20 Aug 2026** — the withdrawn typeset edition is replaced by a line-numbered
-  [reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf), generated deterministically
-  from the statute by [a committed script](./archive/build_reviewers_copy.py); rebuild it and
-  the hashes match, which is what the withdrawal was waiting for ([how to check](./archive/REVIEWERS_COPY.md)).
-- **20 Aug 2026** — READ FIRST item 3(b) answered from outside: the harm tier's injury
-  definition moves to 18 U.S.C. § 1365(h)(3)–(4) at v3.5, drafted as CURE 1 in
-  [the open queue](./audit/v3_5_cure_language.md). Attribution is the answering scholar's
-  election and has not been made; until it is, the record names nobody.
-- **20 Aug 2026** — [Table of authorities](./standards/table_of_authorities.md) and
-  [the bracketed-matter worksheet](./standards/bracketed_matter.md) published; the
-  repository archived at CERN with a DOI.
-- **19 Aug 2026** — v3.4 tagged: fifteen cures entered the statute verbatim from
-  [the published queue](./audit/v3_4_cure_language.md), announcement and destination
-  diffable.
-
-The complete account, in order, is [the diary](./ledger/diary.md).
-
 ## Provenance and method
 
 **Why the statute precedes the catastrophe.** Public-welfare law has always been written
