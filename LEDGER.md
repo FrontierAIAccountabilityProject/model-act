@@ -3,22 +3,18 @@
 This document is the project's single record of accountability, in three parts. Part I is
 the errata register: claims we published that were wrong, each quoted beside its correction.
 Part II is the changelog: what changed in the statutory text at each version, and why.
-Part III is the diary: what the project did, one entry per upload, newest first. The three
-were maintained as separate files until 19 August 2026 and are merged here with their
-content preserved verbatim, including the original prose style of earlier entries; the old
-paths remain as signposts. New entries are written in the register you are reading now.
-Nothing in this document is ever deleted; corrections are appended beside the claims they
-correct.
+Part III is the diary: what the project did, one entry per upload, newest first.
+
+**This file is an index.** The three parts were separate files until 19 August 2026, were merged
+into a single ledger of 1,128 lines, and were split again on 21 August into
+[`ledger/`](./ledger/), where they are now maintained. Nothing was ever removed, and no entry is
+ever deleted: corrections are appended beside the claims they correct. **New entries are written in
+the three files linked below, not in this one.** The anchors on this page are preserved because they
+are cited across this repository and in published material, and they continue to land.
 
 Parts: [I — the errata register](#part-i) · [II — the changelog](#part-ii) · [III — the diary](#part-iii)
 
 ---
-
-<a id="part-i"></a>
-
-**This file is now an index.** The ledger was a single file of 1,128 lines until 21 August 2026 and
-is now three, in [`ledger/`](./ledger/). Nothing was removed. The anchors below are preserved
-because they are cited across this repository and in published material.
 
 <a id="part-i"></a>
 ## Part I — The errata register

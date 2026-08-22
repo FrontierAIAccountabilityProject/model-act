@@ -9,6 +9,10 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 this diary, the [changelog](./changelog.md), and the [errata register](./errata.md). The full
 day-by-day account is below; this is the quick scan.*
 
+- **22 Aug 2026** — the conformance pass: [the verification record](../research/verification_record.md)
+  published as the owner of every source and grade, with the nine claims that failed verification;
+  the incident count corrected to five across three developers; E25–E31 filed, including the
+  register's own duplicate number.
 - **22 Aug 2026** — the enterprise pass: [CURE 7](../audit/v3_5_cure_language.md) drafts the
   covered frontier enterprise (scope follows the ecosystem, duty follows the function);
   [the coverage set](../research/frontier_enterprises.md) — twelve companies, four layers, their
@@ -28,6 +32,11 @@ day-by-day account is below; this is the quick scan.*
   [the press corpus](../research/press_corpus_july_august_2026.md) discharges its owed items;
   *Moffatt v. Air Canada* and Desai & Riedl enter [the authorities](../standards/table_of_authorities.md)
   as candidates.
+- **21 Aug 2026** — the repository restructure: the single ledger splits into
+  [errata](./errata.md), [changelog](./changelog.md) and this diary; the cite-check and census pass
+  files E14–E20, including the Connecticut/California correction; the Illinois-repository incident
+  logged at [E19](./errata.md); the overnight primary-source pass opens the AISI report and the
+  Government Cyber Action Plan.
 - **20 Aug 2026** — [reading notes](../filings/docket_fda_2024_d_4488_reading_notes.md) on the 51
   FDA comments; [the field guide to filing a federal comment](../filings/how_to_file_a_federal_comment.md).
 - **20 Aug 2026** — [the comparative file](../standards/comparative_officer_liability.md) pins

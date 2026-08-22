@@ -59,6 +59,28 @@ as tagged:
 `model_act_v3_4_companion.md` 92d279044c19e67a6fbd314538601797c167ee274e5b02b717babab8e9d306f8 ·
 `model_regulations_v1_draft.md` a96289777b63a705f7ff724aa8d7ce49f58dbbbffec907ec9c15804a60178319
 
+**Checksum note, added 22 August 2026 — read this before running `sha256sum`.** Two of the four
+hashes above no longer reproduce against the files in the repository, and the reason is presentation
+rather than text. **The statute and the jacket still verify** — `model_act_v3_4.txt` and
+`model_act_v3_4_jacket_clean.txt` return exactly the digests recorded above, which is the fact that
+matters, because those two are the authoritative text. **The companion and the regulations do not**,
+because both were modified after tagging: first by the repository-wide escaping of dollar signs
+(`\$`, so that pairs of figures on one line render as money rather than as mathematical notation),
+and the companion by later edits recorded in this file and the diary. Current digests, computed
+22 August 2026:
+
+`model_act_v3_4_companion.md` 7d919f5541de0778134a539b5ff847f81ab891c68b8354aaaeef0c299c148ada ·
+`model_regulations_v1_draft.md` 40a2f424be47585c8d8cfe53b0a60e063c7fd1ff418494f8cd269a9bee1e98a1
+
+The as-tagged digests are retained above and are not amended: they record the state at the v3.4 tag,
+which is what a checksum in a changelog is for. The convention is the one
+[the drafting record](../audit/record.md) already uses for its chunk heads — the checksum was taken
+before the escape pass was applied. A reviewer verifying the tag should verify the statute and the
+jacket; a reviewer verifying the companion or the regulations as they stand today should use the
+22 August digests. Caught by the repository consistency audit; recorded here rather than in the
+errata register because nothing published was false — the hashes were true when written, and a
+changelog is a dated record.
+
 <!-- BEGIN CHANGELOG.md · sha256:113b96eaca21 · merged 19 Aug 2026, content verbatim -->
 
 # CHANGELOG — Model Act (Frontier AI Public Welfare Offenses)

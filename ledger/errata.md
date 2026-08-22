@@ -117,6 +117,8 @@ Explainer line numbers are as of the 17 August 2026 revision. Statutory citation
 
 ---
 
+<a id="e12"></a>
+
 **E12 — 20 August 2026 (internal catch, same day).** F1 — that nobody on the predecessor FDA
 docket names an upstream person — was published in four places at a strength the finding's
 own file forbids.
@@ -224,7 +226,14 @@ or resources (companion n.28). The dossier Q&A's startup answer, which carries t
 E5's own addendum, is accordingly overtaken and should be conformed at the next docs pass. Status:
 both cured; the omission was in the register, not the statute.
 
-**E8 — 19 August 2026 (internal catch, same day).** The consolidated front page claimed
+<a id="e30"></a>
+
+**E30 — 19 August 2026 (internal catch, same day).** *(Renumbered from "E8" on 22 August 2026:
+this entry and the "In one paragraph" entry above were both filed as E8, unrelated to each other.
+The strict-liability entry keeps E8, because [E12](#e12) cites it by that number in published text;
+this one takes the next free number. The collision itself is recorded at [E31](#e31). Original
+number retained here so a reader following an old citation lands correctly.)* The consolidated
+front page claimed
 that the original Sacramento scorecard table was "preserved verbatim in the diary"; it is
 not — the diary never carried the table. The claim is corrected to point to the
 repository's pinned history ([docs/06-track-record.md at commit 6f48eff](https://github.com/FrontierAIAccountabilityProject/model-act/blob/6f48eff/docs/06-track-record.md)),
@@ -296,6 +305,8 @@ Outside catch, in the useful sense: the question that produced this entry was wh
 conducted by companies about themselves can be trusted. The first honest answer turned out to be
 about this project's own reading, not theirs. Status: open; closes item by item as each primary
 is fetched.
+
+<a id="e16"></a>
 
 **E16 — 21 August 2026 (internal catch; a coverage failure, not a false statement).** The
 standing watch of 20 August, and the finding it carries at § 7(5), say **"across four frontier
@@ -403,6 +414,8 @@ says so, and takes the decision openly instead.
 
 **Credit:** both were caught by the maintainer on reading the drafts, not by the drafter. Status:
 **cured**; both files carry the corrected text.
+
+<a id="e14"></a>
 
 **E14 — 21 August 2026 (locator failure, primary-source conflict, and forward repair).**
 The dossier's entry on *Agents of Chaos* (arXiv 2602.20021) presented detailed case-study
@@ -733,9 +746,11 @@ appeared to ask everyone for everything. This is not a factual error in a claim;
 how the asks were shown, which matters because a review-recruitment page whose terms are unclear
 misstates, in effect, what a reviewer is agreeing to.
 
-**Fix:** the section is recast as [three labelled doors](./README.md#contact-and-contributions) —
+**Fix:** the section is recast as [three labelled doors](../README.md#contact-and-contributions) —
 check one thing, review one lane, talk or refer — with legislative and sponsor contact routed to its
 own track. The five-seat council terms are unchanged. Status: cured on the front page.
+
+<a id="e25"></a>
 
 ## E25 — the two-twelves note miscounted the overlap it existed to clarify
 
@@ -758,6 +773,8 @@ have been checkable in ten seconds by any reader with both lists open.
 added to [the models file](../research/frontier_models.md), which introduces the framework twelve and
 previously carried no cross-reference at all. Status: cured.
 
+<a id="e26"></a>
+
 ## E26 — H.R. 9917 was labelled the FRONTIER vehicle; it is the AI Kill Switch Act
 
 **Filed 22 August 2026. Internal catch, same day, by the repository consistency audit.**
@@ -775,6 +792,8 @@ rows can be checked. The two vehicles were already distinguished correctly in tw
 this was drift within one table, not a misunderstanding.
 
 **Fix:** the row now reads "Federal — AI Kill Switch Act (H.R. 9917)". Status: cured.
+
+<a id="e27"></a>
 
 ## E27 — the incident count was the BBC's noun, in the file that exists to stop that
 
@@ -802,6 +821,8 @@ sits still.
 explains that the outlets are each consistent about their own noun; the four dependent files are
 conformed. Status: cured.
 
+<a id="e28"></a>
+
 ## E28 — "all self-disclosed," in the same repository that argues the victim disclosed first
 
 **Filed 22 August 2026. Internal catch, same day, by the repository consistency audit.**
@@ -822,6 +843,8 @@ found the contradiction would have been entitled to ask which page the project b
 **Fix:** the case now opens "The incidents — disclosed, but not all by the developers," states the
 16 July / 21 July order in the text, and carries a new paragraph on what the disclosure sequence
 proves. Status: cured.
+
+<a id="e29"></a>
 
 ## E29 — an evaluator was placed behind an incident a prior correction had already removed it from
 
@@ -848,6 +871,37 @@ one), while OpenAI's chain ran through its own sandbox and a Modal customer's ha
 dossier correction. Status: cured. **Standing consequence:** a new file that restates a fact already
 graded elsewhere must cite the file that owns it, which is what the ownership rule now published in
 [the verification record](../research/verification_record.md) exists to enforce.
+
+<a id="e31"></a>
+
+## E31 — the register used one number twice
+
+**Filed 22 August 2026. Internal catch, by the repository consistency audit. A defect in the
+register itself, which is the one place this project cannot afford them.**
+
+**E8 was assigned to two unrelated entries.** The first, filed 20 August, is the "In one paragraph"
+correction — the front-page summary said the base duty is "not strict liability" while SEC. 6(c) and
+SEC. 10(a) make *entity* liability strict. The second, filed 19 August, is the Sacramento-scorecard
+correction — the front page claimed a table was "preserved verbatim in the diary" when the diary
+never carried it. Two different claims, two different dates, one number.
+
+**Why it matters.** This register is the project's only credential: it has no institution behind it,
+and it asks reviewers to trust a text on the strength of the fact that its mistakes are published
+with their fixes attached. A register that cannot count its own entries invites the obvious
+question about everything else it counts. [E14](#e14) recorded and repaired exactly this failure
+mode for E13 and did not catch this instance, which means the check that found it — a full read of
+the register in sequence — was not being run.
+
+**Fix.** The strict-liability entry **keeps E8**, because [E12](#e12) cites it by that number in
+published text and a citation that has travelled should not be broken to tidy a sequence. The
+Sacramento entry is renumbered **[E30](#e30)**, carrying a note of its original number so a reader
+following an old link lands correctly. Nothing is deleted.
+
+**Two standing consequences.** First, the next free number is now E32, and the register's numbers
+are to be read as identifiers rather than as an ordering — filing order in this file is already
+non-monotonic for reasons several entries explain, and that is a feature of an append-only record,
+not a defect. Second, a **sequence check** joins the push routine: before any push that adds an
+entry, read the register's numbers in order and confirm no collision and no gap. Status: cured.
 
 <a id="part-ii"></a>
 
