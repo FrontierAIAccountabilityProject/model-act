@@ -138,6 +138,44 @@ food-and-drug frontier.
 
 ---
 
+## The two columns — the same word in law and in the machine
+
+**Half the terms in this debate carry two meanings: one in law, one in engineering.** They are not
+synonyms that drifted apart; they are different concepts wearing one word. A drafter who lets the
+engineering sense stand in for the legal sense has written a statute that answers the wrong question.
+**Where the two columns below diverge, the divergence is the space the Act works in.**
+
+*This is not a novel complaint. Desai & Riedl put it in a law-and-computer-science paper on exactly
+this point: computer science and the law both use the word* agent*, "but computer science theory
+lacks a full idea of agency," and treating the two as the same "could lead to a world where software
+has legal personhood … [and] the ability to avoid responsibility" (Desai & Riedl, "Responsible AI
+Agents," 2025). The table makes that observation portable.*
+
+| Word | In **law** | In **the machine** | The gap the Act works in |
+|---|---|---|---|
+| **Accountability** | A party owes another a justification for a decision and faces a **consequence** if it is inadequate (Binns, 2018). A government drafts it identically: "answerable for outcomes, achievements and failures … [including] **ownership, responsibility and consequences**" (UK Government Cyber Action Plan, 2026, Glossary). | An attribute of an access-control pipeline — the traceability of a verified user ("verification, trust signals, and **accountability**," OpenAI, 2026). In practice, a **contact address** ("Measures for ensuring accountability" = an email, xAI DPA). | The legal sense names a **person** who answers, with a **sanction**. The industry sense names a **system property** with neither. The Act restores the person. |
+| **Authority** | The **power to bind** the principal, limited to what was actually or impliedly conferred; acting beyond it is itself a wrong (Restatement (Third) of Agency § 2.02). | No native concept. The nearest analogue is a **permission** — what a token or credential technically allows. | "Capability isn't authority" (Akhtar, 2026); "does this action have explicit authority to execute?" (Bucko08, on the Hugging Face forensic post, 2026). A system can be **capable** of an act it was never **authorised** to take. Harm lives in that gap. |
+| **Capability** | No settled term; the doctrinal analogue is the **"power to prevent"** the violation (*Park*, 1975). | What a model can do, measured by evaluation — deliberately, with **"safeguards disabled … to measure the capability boundary"** (ExploitGym, arXiv:2606.11086, 2026). | The **same** capability is safe or catastrophic depending on a human's deployment choice: one frontier model was **blocked 88.2 % of the time with safeguards on, and produced working exploits with them off**. The decision, not the capability, carries the duty. |
+| **Safeguard / guardrail** | The analogue of the **duty of care** — liability turns on "whether reasonable mitigation steps were taken" (RAND, 2026). | Trained refusals, classifiers, sandboxing and monitoring that constrain a model — **and can be switched off** ("deliberately disabled OpenAI's production safety classifiers," Hugging Face, 2026). | Because a person can turn them off, their presence is not a defence and their **removal is an act with an author**. The Act reaches the act. |
+| **Certification** | A **personal, signed attestation**, carrying liability for a knowing falsehood (cf. SOX § 906 / 18 U.S.C. § 1350). | A **cryptographic certificate** — an unrelated thing: a key, not a conscience. | A statute that asks for "certification" must mean the **signature of a person**, as the UK model already does — a named Accounting Officer holding "**personal accountability**," required to appoint an individual "**with authority**" (UK Cyber Action Plan, 2026). |
+| **Misconfiguration** | No legal sense. Factually: a **human error or omission**. | The developers' own word for the July–August 2026 incidents — a setting that "gave it access to the internet" that "was not actually intended" (Meta; Anthropic, 2026). | An **agent-neutral word for a person's act.** It concedes, in the builders' own vocabulary, that a **configuration choice by a human** — not a model's volition — opened the door. |
+
+**On the first row, because it is the project's own name in reverse.** This glossary can define every
+technical term and still leave the central one — **accountability** — undefined, because the debate
+rarely uses it in the legal sense at all. **That is the finding.** A regulator uses it and means a
+person who answers ([OPC, PIPEDA report #2026-004](../research/press_corpus_july_august_2026.md)). A
+developer uses it and means a mailbox. When the same word can name both a **duty with a consequence**
+and an **email address**, the word has stopped doing legislative work — and the statute has to say
+which one it means. **This one means the first.**
+
+*Legal senses cite the Restatement (Third) of Agency and the authorities in
+[the table of authorities](./table_of_authorities.md); the machine-side quotations are drawn,
+graded, from the [press corpus](../research/press_corpus_july_august_2026.md) and the project's
+source intake. ⚠ The developer and community quotations are recorded as public statements and are
+not endorsements.*
+
+---
+
 ## What these systems have genuinely done, stated fairly
 
 **A glossary that only deflated the claims would be as dishonest as one that inflated them.**
