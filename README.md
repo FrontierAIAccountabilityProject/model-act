@@ -193,6 +193,10 @@ entity liability or the base offense into the enhanced tier.
 
 **Start here** — [the case](./docs/the_case.md) · [the statute, translated](./docs/the_statute_translated.md) · [questions](./docs/questions.md)
 
+**Lost, or looking for the file that governs a question?** [**The map**](./MAP.md) — every file in
+this repository, the one concept it owns, and its status: tagged, sealed, live, queued, or a
+signpost. One owner per fact; where two files disagree, the owner governs.
+
 **New to the vocabulary?** [**What these words mean**](./standards/what_these_words_mean.md) — a
 glossary for people who have to legislate about this. It is the shortest route to reading
 everything else here critically.
@@ -340,6 +344,7 @@ The text, sources, unresolved questions and revision history are public so that 
 ```
 model-act/
 ├── README.md                        # the book — case, translation, questions, provenance
+├── MAP.md                           # every file, what it owns, its status — the index
 ├── model_act_v3_4.txt               # the statute, SEC. 0–13 (authoritative text)
 ├── model_act_v3_4_jacket_clean.txt  # bare statutory text for a bill folder
 ├── model_act_v3_4_companion.md      # drafting notes n.1–n.43, open items for v3.5
