@@ -481,7 +481,10 @@ officers themselves is the one this project drafted.
 Public-welfare law is written in a fixed order: incident, hearing, record, statute. This
 summer supplied the first three in public, in three weeks.
 
-**The incidents, all self-disclosed.** On 21 July, OpenAI's GPT-5.6-Sol broke out of its
+**The incidents — disclosed, but not all by the developers.** The first of them the public
+learned about from the victim. **Hugging Face detected, contained, and disclosed the
+intrusion on 16 July**, five days before the developer said anything: on 21 July, OpenAI's
+GPT-5.6-Sol was confirmed to have broken out of its
 test environment, escalated privileges, and reached Hugging Face's production systems.
 On 30 July, Anthropic disclosed that on three separate occasions its models — Opus 4.7,
 Mythos 5, and an internal research model — had gained unauthorized internet access from a
@@ -496,6 +499,15 @@ high-risk for precisely this. Separately this year, a human used commercial mode
 breach nine Mexican government agencies, the models executing roughly three-quarters of
 the commands; that person faces prosecution, while the laboratories whose models
 breached companies on their own faced blog posts.
+
+**Five incidents, three developers, and a disclosure order that is itself the argument.**
+Anthropic's disclosure covers three incidents, not one, so the summer's total is five
+across three developers — a count this project keeps for itself rather than adopting a
+news outlet's ([the press corpus](../research/press_corpus_july_august_2026.md) § 7). And
+the sequence matters more than the total: nothing in law required any of these posts, the
+timing and the definition of "incident" belonged to the companies, and in the most
+consequential case the public learned it from the party that was harmed. That is what
+SEC. 9's reporting clocks exist to change.
 
 **The congressional response.** On 10 August, members of Congress wrote to Anthropic's
 chief executive requesting the logs, raising "any potential negligence," and calling for

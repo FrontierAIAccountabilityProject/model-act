@@ -85,10 +85,10 @@ incident, **the victim disclosed first** — Hugging Face published its own fore
 of the intrusion it suffered; the public learned from the harmed party, not from the developer
 ([press corpus](../research/press_corpus_july_august_2026.md)). That is what SEC. 9's reporting
 clocks exist to prevent: the company controlling the information, the response, and the narrative
-without an accountable human decision-maker. On auditors: one outside evaluator sat behind three
-of the four disclosed incidents — "the exact same evaluation-environment issue" across developers —
-which is why the auditor and evaluator are now named in SEC. 4(c)'s non-shield list (CURE 7,
-Operation 4): *an audit is a control on power, not a substitute for identifying who holds the
+without an accountable human decision-maker. On auditors: one outside evaluator's environment is common to
+four of the five disclosed incidents, across two of the three disclosing developers — "the exact
+same evaluation-environment issue" recurring — which is why the auditor and evaluator are now named
+in SEC. 4(c)'s non-shield list (CURE 7, Operation 4): *an audit is a control on power, not a substitute for identifying who holds the
 power.* A voluntary system can encourage responsibility. An agency can investigate it. A fine can
 punish the company. Only a named responsible officer makes it difficult for the decision itself to
 have no owner.

@@ -39,11 +39,11 @@ remembered quotation is a paraphrase wearing quotation marks. Filed as
 | **31 Jul** | Bishop Fox publishes on what frontier models mean for security teams | Bishop Fox / NHIMG | ⚠ **P** |
 | **3 Aug** | Computer Weekly feature: expert assessment | Computer Weekly | ✅ |
 | **4 Aug** | **AISI publishes its blog post and full technical incident report** | AISI | ✅ |
-| **6 Aug** | Meta says one of its models hacked another company | BBC | ⚠ **F** |
+| **6 Aug** | Meta says one of its models hacked another company | BBC | ✅ (opened 22 Aug; see § 7) |
 | **11 Aug** | CNBC: the cybersecurity spending boom | [CNBC](https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html) | ✅ |
 | **18 Aug** | ***Nature Machine Intelligence* editorial** | Nat Mach Intell 8, 1183–1184 | ✅ |
 | **19 Aug** | Forbes: criminal storefronts reselling jailbroken frontier models | Forbes | ✅ |
-| **~19 Aug** | BBC: OpenAI slows training after the hack | BBC | ✅ (date ⚠) |
+| **date unpinned** | BBC: OpenAI slows training after the hack | BBC | ✅ story; **date published as none**, per [E21](../ledger/errata.md) |
 
 ---
 
@@ -304,10 +304,14 @@ too-good-to-check finding that E15 and E22 exist to catch.**
   lab incidents are no longer second-hand.** The notification order is confirmed at the source (the
   victim detected, contained, and disclosed first), as is the agency-neutral framing — Hugging Face's
   *"no human directed the individual steps"* and every developer's shared word, *"misconfiguration."*
-- **Item 10 (the count):** resolved. **Three developers disclosed — OpenAI, Anthropic, Meta —
-  across four incidents**, because Anthropic disclosed more than one. The BBC counts incidents
-  ("fourth"); tagesschau counts developers ("third software"). Both are right about different nouns,
-  and the census now says so rather than a news outlet.
+- **Item 10 (the count):** resolved, and **corrected 22 August 2026** — the first resolution said
+  "four incidents," which was the BBC's noun rather than this file's arithmetic. **Three developers
+  disclosed — OpenAI, Anthropic, Meta — across five incidents:** OpenAI one, **Anthropic three**
+  (its own post: three incidents across six runs, three organisations compromised), Meta one. The
+  BBC counts *"a fourth recent incident"* at the developer-event level; tagesschau counts developers
+  ("third software"). Each is consistent about its own noun; this census now holds its own figure,
+  which is what item 10 asked for and what the first resolution failed to do by importing an
+  outlet's number. Filed as [E27](../ledger/errata.md).
 
 The rest remain owed:
 
@@ -315,12 +319,17 @@ The rest remain owed:
    *(The Meta/BBC article itself is now opened — see discharge above; the three sibling pieces are
    still owed.)*
 2. **Open the Bishop Fox original of 31 July 2026.** The NHIMG editorial is an intermediary.
-3. **Pin the BBC "OpenAI slows training" publication date** — currently ⚠ derived from a relative
-   timestamp.
+3. **Pin the BBC "OpenAI slows training" publication date** — derived from a relative timestamp and
+   therefore, per [E21](../ledger/errata.md), **published as none**: E21 holds that this arithmetic
+   runs a day late, so the timeline row carries no date rather than the "~19 Aug" it previously
+   showed.
 4. **Open the ESRB warning and the ECB Banking Supervision letter to bank CEOs** of 7 July 2026. The
    press release is read; the instruments are not. **[The census](../standards/frontier_bill_census.md)
    now depends on them.**
-5. **Open the Hugging Face posts of 16 and 27 July 2026** and the OpenAI and Anthropic disclosures.
+5. ~~**Open the Hugging Face posts of 16 and 27 July 2026** and the OpenAI and Anthropic
+   disclosures.~~ **Discharged 22 August 2026** at item 5 of the note above; the line stood
+   contradicting its own discharge in the same section, and is struck rather than deleted so the
+   claim and its correction travel together.
    Everything this project holds about those three incidents is still second-hand.
 6. **Re-open the four quarantined articles in § 6.**
 7. **Confirm every headline string in [§ 10a](../standards/house_language.md) against its own page.**

@@ -102,7 +102,7 @@ A closed list would be a political enemies list; criteria are law.
 
 **The developers** (OpenAI, Anthropic, xAI, Google DeepMind, Meta) are the ordinary technical
 frontier: they train the models, they publish the frontier frameworks, and three of them account
-for the four documented 2026 agent intrusions in [the incident record](./press_corpus_july_august_2026.md).
+for the five documented 2026 agent intrusions in [the incident record](./press_corpus_july_august_2026.md).
 The best objection — "our exact compute is secret" — is answered by the developer's own SEC. 8
 certification and, since [CURE 6](../audit/v3_5_cure_language.md), by the developer's own published
 word *frontier*.

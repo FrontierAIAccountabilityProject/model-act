@@ -776,6 +776,79 @@ this was drift within one table, not a misunderstanding.
 
 **Fix:** the row now reads "Federal — AI Kill Switch Act (H.R. 9917)". Status: cured.
 
+## E27 — the incident count was the BBC's noun, in the file that exists to stop that
+
+**Filed 22 August 2026. Internal catch, same day, by the repository consistency audit. The
+correction of a correction.**
+
+[The press corpus](../research/press_corpus_july_august_2026.md) § 7 held an owed item — item 10,
+the count — precisely because the project was relying on an outlet's arithmetic. Its discharge, on
+22 August, then recorded: *"Three developers disclosed — OpenAI, Anthropic, Meta — across **four
+incidents**."* Four is the BBC's figure (*"a fourth recent incident"*), counted at the
+developer-event level. **This file's own timeline disproves it eleven lines earlier:** *"30 Jul —
+Anthropic discloses **three** incidents in its cybersecurity evaluations"*, matching Anthropic's own
+post (three incidents across six runs; three organisations compromised) and the dossier's pin. One
+plus three plus one is **five**.
+
+**Why it matters more than a digit.** Item 10 was opened for exactly this reason — so that "the
+census should hold the answer rather than a news outlet" — and the discharge closed it by importing
+the news outlet's answer. The wrong number then propagated to four other files:
+[the case](../docs/the_case.md), [the frontier enterprises](../research/frontier_enterprises.md),
+[known objections](../docs/known_objections.md), and OPEN QUESTION 3 in
+[the v3.5 queue](../audit/v3_5_cure_language.md). A count that travels is worse than a count that
+sits still.
+
+**Fix:** the corpus states five incidents across three developers, names the composition, and
+explains that the outlets are each consistent about their own noun; the four dependent files are
+conformed. Status: cured.
+
+## E28 — "all self-disclosed," in the same repository that argues the victim disclosed first
+
+**Filed 22 August 2026. Internal catch, same day, by the repository consistency audit.**
+
+[The case](../docs/the_case.md) introduced the summer's incidents with the words **"The incidents,
+all self-disclosed."** On the same day, [known objections](../docs/known_objections.md) published
+the opposite as a load-bearing argument — that in the most consequential 2026 incident **the victim
+disclosed first**, Hugging Face having detected, contained and published its own forensic
+reconstruction before the developer said anything — and [the press corpus](../research/press_corpus_july_august_2026.md)
+graded that notification order as confirmed at the source, with Hugging Face disclosing on 16 July
+and OpenAI on 21 July.
+
+**Why it matters.** The sentence gave away the strongest fact in the record. "All self-disclosed"
+concedes that voluntary disclosure worked; the truth is that it did not work in the first and
+largest case, which is the whole reason SEC. 9's reporting clocks exist. A hostile reader who
+found the contradiction would have been entitled to ask which page the project believed.
+
+**Fix:** the case now opens "The incidents — disclosed, but not all by the developers," states the
+16 July / 21 July order in the text, and carries a new paragraph on what the disclosure sequence
+proves. Status: cured.
+
+## E29 — an evaluator was placed behind an incident a prior correction had already removed it from
+
+**Filed 22 August 2026. Internal catch, same day. A 17 August correction overwritten by 22 August
+drafting.**
+
+OPEN QUESTION 3 in [the v3.5 queue](../audit/v3_5_cure_language.md) stated: *"One testing vendor,
+**Irregular**, sits behind three of the four disclosed 2026 incidents … The escapes ran through the
+vendor's misconfigured environment, not the developer's own."* [Known objections](../docs/known_objections.md)
+carried the same claim. But [the dossier](../dossier/README.md) § A.4, **expressly corrected on 17
+August 2026**, records the opposite of the OpenAI limb: *"incident (1) did **not** — OpenAI's chain
+ran through its own sandbox and a Modal customer's harness, with Irregular named only in the
+reporting."*
+
+**Why it matters.** CURE 7 Operation 4 — naming the auditor and evaluator into SEC. 4(c)'s
+non-shield list — is argued *from* this fact, so an overstated version of it weakens the drafting
+it supports. And the failure mode is the one this register is least willing to tolerate: a
+correction already made, in public, on the record, silently undone five days later by a new file
+written without reading it.
+
+**Fix:** both files now state the tie precisely — Irregular's environment is common to **two of the
+three disclosing developers and four of the five disclosed incidents** (Anthropic's three, Meta's
+one), while OpenAI's chain ran through its own sandbox and a Modal customer's harness — and cite the
+dossier correction. Status: cured. **Standing consequence:** a new file that restates a fact already
+graded elsewhere must cite the file that owns it, which is what the ownership rule now published in
+[the verification record](../research/verification_record.md) exists to enforce.
+
 <a id="part-ii"></a>
 
 ---

@@ -85,9 +85,14 @@ criminal-law-seat question, not a solo drafting call.
 
 *Opened 22 August 2026 from the incident research. **Not a cure — an architecture question.***
 
-**The fact.** One testing vendor, **Irregular**, sits behind three of the four disclosed 2026
-incidents — *"the exact same evaluation-environment issue"* across developers (BBC, 6 Aug). The
-escapes ran through the vendor's misconfigured environment, not the developer's own.
+**The fact.** One testing vendor, **Irregular**, is common to **two of the three disclosing
+developers and to four of the five disclosed 2026 incidents** — Anthropic's three and Meta's one —
+*"the exact same evaluation-environment issue"* recurring across developers (BBC, 6 Aug). Those
+escapes ran through the vendor's misconfigured environment rather than the developer's own.
+**OpenAI's did not:** that chain ran through OpenAI's own sandbox and a Modal customer's harness,
+with Irregular named only in the reporting ([the dossier](../dossier/README.md) § A.4, corrected
+17 August 2026). The distinction is load-bearing — the gap this question asks about exists in two
+developers' incidents, not in all of them.
 
 **The question.** The Act attaches duties to the officers of the *developer*. Where the
 risk-generating act — the misconfigured evaluation environment — is the *evaluator's*, does
