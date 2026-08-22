@@ -737,6 +737,45 @@ misstates, in effect, what a reviewer is agreeing to.
 check one thing, review one lane, talk or refer — with legislative and sponsor contact routed to its
 own track. The five-seat council terms are unchanged. Status: cured on the front page.
 
+## E25 — the two-twelves note miscounted the overlap it existed to clarify
+
+**Filed 22 August 2026. Internal catch, same day, by the repository consistency audit.**
+
+[The frontier enterprises](../research/frontier_enterprises.md) introduced a twelve-company coverage
+set alongside the existing **framework twelve** — the companies METR records as having published a
+*frontier* safety framework — and added a note headed "Two twelves, disambiguated" to stop a reader
+merging them. That note said **"Five companies appear on both."** The overlap is **eight**: the five
+developers (OpenAI, Anthropic, xAI, Google DeepMind, Meta) plus **Microsoft, Amazon and NVIDIA**,
+each of which appears on the framework inventory this repository itself pins and in the coverage
+set's compute layer. The one sentence whose whole function was disambiguation carried the arithmetic
+error.
+
+**Why it matters beyond the number.** An undercount understates the very point the coverage set
+makes — that the compute layer self-designates as frontier just as the developers do — and it would
+have been checkable in ten seconds by any reader with both lists open.
+
+**Fix:** corrected to eight, with the three named, in the enterprises file; the same disambiguation
+added to [the models file](../research/frontier_models.md), which introduces the framework twelve and
+previously carried no cross-reference at all. Status: cured.
+
+## E26 — H.R. 9917 was labelled the FRONTIER vehicle; it is the AI Kill Switch Act
+
+**Filed 22 August 2026. Internal catch, same day, by the repository consistency audit.**
+
+[The frontier models file](../research/frontier_models.md) tabled other legal definitions of a
+covered developer and gave the row **"Federal FRONTIER vehicle (H.R. 9917) | Over \$100,000,000 of
+training-compute cost."** The threshold and the bill number are right and belong together; the
+*name* is wrong. **H.R. 9917 is the AI Kill Switch Act** (as [the bill census](../standards/frontier_bill_census.md)
+records, and as [E16](#e16) already established); the **FRONTIER Act is H.R. 9925**, cited correctly
+elsewhere in the same repository, including in CURE 4's comparative note.
+
+**Why it matters.** A misnamed federal bill in a comparison table is the kind of error that costs a
+reader's trust in every other row, and this project's whole claim on a reviewer's time is that its
+rows can be checked. The two vehicles were already distinguished correctly in two other files, so
+this was drift within one table, not a misunderstanding.
+
+**Fix:** the row now reads "Federal — AI Kill Switch Act (H.R. 9917)". Status: cured.
+
 <a id="part-ii"></a>
 
 ---

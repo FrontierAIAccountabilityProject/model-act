@@ -13,16 +13,18 @@ company level: no individual is connected here to any incident.
 
 **Two twelves, disambiguated.** This coverage set (twelve companies across four layers) is a
 different list from the **framework twelve** — the twelve companies METR records as having published
-a *frontier* safety framework (see [the models file](./frontier_models.md)). Five companies appear
-on both. The lists serve different purposes: the framework twelve evidences self-designation; the
+a *frontier* safety framework (see [the models file](./frontier_models.md)). **Eight** companies
+appear on both — the five developers plus Microsoft, Amazon and NVIDIA. The lists serve different
+purposes: the framework twelve evidences self-designation; the
 coverage set demonstrates the legal category.
 
-**Sourcing.** Every quotation carries its source. Quotations enter this file two ways — retrieved
-verbatim from the cited page by the project, or recorded from the maintainer's sourced research with
-the citation given — and the project's verification record tracks which, so any line can be
-re-pinned to its page on demand. ⚠ marks only a figure that still lacks a citation. Valuations are
-approximate as of August 2026 and move daily; private valuations are softer than market
-capitalisations.
+**Sourcing.** Every quotation carries its source, and
+**[the verification record](./verification_record.md) owns the apparatus** — every URL, retrieval
+date, grade, and the list of claims that were checked and *failed*. Quotations enter two ways:
+opened by the project at the cited page, or recorded from the maintainer's sourced research with its
+citation; the record marks which, so any line here can be re-pinned on demand. ⚠ marks a figure that
+still lacks a citation. Valuations are approximate as of August 2026 and move daily; private
+valuations are softer than market capitalisations.
 
 ---
 
@@ -163,7 +165,7 @@ agree it is a "frontier company" for coverage to follow the facts.
 
 Ranked by approximate value, the set reads: NVIDIA ≈$5.2T; Alphabet ≈$4.2T; Microsoft ≈$3.6T;
 Amazon ≈$2.8–3T; Tesla ≈$1.4T; Meta ≈$1.4T; combined SpaceX–xAI ≈$1.25T; OpenAI and Anthropic in
-the high hundreds of billions (private, softer figures); Palantir ≈$412B; Oracle ≈$422B; Databricks
+the high hundreds of billions (private, softer figures); Oracle ≈$422B; Palantir ≈$412B; Databricks
 ≈$190B. This is the concentration the findings describe: the technology, the compute, the capital,
 and the institutional reach of the frontier sit inside roughly a dozen American companies, several
 individually worth more than the annual output of most countries — and, at present, no natural
@@ -172,9 +174,9 @@ systems can cause. Wealth is where the findings point; function is what the elem
 
 ## Sources and verification
 
-Quotations were retrieved from the cited primary pages on 22 August 2026 unless flagged ⚠; the
-verification record, with full URLs, retrieval notes, and the items that failed verification, is
-maintained in the project's research files. Compute estimates are Epoch AI's, used under CC BY 4.0
+Quotations carry their sources above; the apparatus behind them — full URLs, retrieval dates,
+per-item grades, and the nine claims that were checked and did not survive — is
+[the verification record](./verification_record.md), which governs where the two disagree. Compute estimates are Epoch AI's, used under CC BY 4.0
 with the citation given in [the models file](./frontier_models.md); they are estimates, not
 disclosures — the absence of disclosure is itself a finding the Act's SEC. 8 and SEC. 9 address.
 Ownership and control facts are from proxy statements, SEC filings, and the companies' own

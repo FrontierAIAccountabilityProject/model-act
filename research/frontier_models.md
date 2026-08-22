@@ -18,8 +18,12 @@ Applying that threshold to the current market produces one finding before any ta
 Gemini 3.5, Meta's Muse Spark — the independent tracker Epoch AI records a training-compute figure
 for **none** of them. The figure is withheld by the developer in every case.
 
-Only three models carry an Epoch compute estimate at or above 10²⁶ operations, and all three were
-released in 2025 by United States developers:
+Only three models carry an Epoch **point estimate** at or above 10²⁶ operations, and all three were
+released in 2025 by United States developers. (Stated as point estimates deliberately: Epoch's
+tentative *range* for Claude Opus 4 — 5 × 10²⁵ to 2 × 10²⁶ — crosses the threshold at its upper
+bound, so a range-based count would not be three. The reconciliation, and the standing caution that
+web retrievals of Epoch's figures disagree with the dataset in hand, are in
+[the verification record](./verification_record.md) § 3.)
 
 | Model | Developer | Country | Epoch training-compute estimate | Epoch confidence |
 |---|---|---|---|---|
@@ -78,17 +82,35 @@ its own website. These are published acts by the developer, recorded verbatim.
 - **Anthropic.** It operates a "Frontier Red Team" that "stress-tests AI systems to understand the
   full extent of their current capabilities," and publishes a "Frontier Safety Roadmap."
   (anthropic.com, accessed 22 Aug. 2026.)
-- **Meta.** "Our Frontier AI Framework focuses on the most critical risks in the areas of
-  cybersecurity threats and risks from chemical and biological" weapons. (about.fb.com, 3 Feb. 2025.)
-- **Google DeepMind.** Publishes a *Frontier Safety Framework*. ⚠ Full sentence to pin verbatim from
-  the source before public use.
+- **Meta.** "Today, we're sharing our Frontier AI Framework, which outlines our consideration of
+  risk in our model-release decisions." (about.fb.com, 3 Feb. 2025.) **Renamed in April 2026** the
+  *Advanced AI Scaling Framework* v2, which keeps *Frontier AI* as its defined term — "a new or
+  substantially modified highly capable general-purpose generative AI model that we are developing
+  for deployment" — and adopts the Act's own figure as a criterion: "We trained the model using at
+  least 10^26 integer or floating point operations." (ai.meta.com, v2, Apr. 2026.) **The rename is
+  the live example of [CURE 6](../audit/v3_5_cure_language.md)'s anti-evasion clause**: a
+  holding-out is not undone by later withdrawal, deletion, or amendment, and here the developer
+  amended the title while keeping the term and the threshold.
+- **Google DeepMind.** "We call our most powerful foundation models 'frontier models'." It also
+  publishes a *Frontier Safety Framework*, described as "a set of protocols that ensure our most
+  advanced AI models remain reliable, thoroughly tested, and aligned with human values."
+  (deepmind.google/frontier-safety, retrieved 22 Aug. 2026. The ⚠ this entry carried is discharged;
+  the sentence was opened and reproduced identically on two retrievals — see
+  [the verification record](./verification_record.md).)
 
 The inventory is wider than the five operating labs. **Twelve companies have published *frontier*
 safety frameworks** (METR's December 2025 inventory, pinned in [the dossier](../dossier/README.md)):
 the five above plus **Microsoft, Amazon, Nvidia, G42, Cohere, Naver,** and **Magic.** Each framework's
-use of the word is itself a self-designation. The specific verbatim phrasing for the latter seven is
-⚠ to pin from each company's own framework before public use, but the scope point holds for all
-twelve: each has, in a published document, called its own safety work *frontier*.
+use of the word is itself a self-designation. Microsoft's and Amazon's verbatim usages are now pinned
+in [the verification record](./verification_record.md); the phrasing for **G42, Cohere, Naver** and
+**Magic** is ⚠ to pin from each company's own framework before public use. The scope point holds for
+all twelve: each has, in a published document, called its own safety work *frontier*.
+
+> **Two twelves — do not conflate them.** The **framework twelve** above (companies that have
+> published a *frontier* safety framework) is a different list from the **coverage set** of twelve
+> companies across four layers in [the frontier enterprises](./frontier_enterprises.md). The two
+> lists overlap at **eight**: the five developers plus Microsoft, Amazon and NVIDIA. The framework
+> twelve evidences self-designation; the coverage set demonstrates the legal category.
 
 Each statement is the developer applying the word *frontier* to its own model, programme, or product.
 Under a scope definition that reaches a model its developer holds out as frontier (see the proposed
@@ -104,7 +126,7 @@ these:
 | Instrument | Definition of scope |
 |---|---|
 | California SB 53; the enacted state family | Training compute above **10²⁶** operations |
-| Federal FRONTIER vehicle (H.R. 9917) | Over **\$100,000,000** of training-compute cost |
+| Federal — AI Kill Switch Act (H.R. 9917) | Over **\$100,000,000** of training-compute cost |
 | EU AI Act | Systemic-risk GPAI presumed above **10²⁵ FLOP** (one order of magnitude lower) |
 | Connecticut (large frontier developer tier) | **\$500,000,000** in annual gross revenue |
 

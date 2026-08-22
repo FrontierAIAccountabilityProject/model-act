@@ -1,0 +1,171 @@
+# The verification record
+
+This file is the source record behind the project's frontier-scope research. It exists because
+[the frontier enterprises](./frontier_enterprises.md) and [the frontier models](./frontier_models.md)
+assert quotations and figures, and a reader is entitled to know which were opened by this project,
+which came in by another route, and — the half that matters most — **which claims were checked and
+did not survive.**
+
+**Owner rule.** This file owns every source, URL, retrieval date, and verification grade in the
+frontier-scope research. The argument files carry the quotations and point here; they do not
+maintain their own source apparatus. Where this file and another disagree, this file governs.
+
+**Grades.** ✅ = the cited page was opened by this project and the wording reproduced identically
+on two independent retrievals. ⭘ = opened once. ⚠ = recorded from the maintainer's sourced
+research or from secondary reporting, with its citation, and not yet opened here. ✗ = checked and
+failed; see the failures section, and do not use.
+
+*Compiled 22 August 2026. Valuations are approximate at that date and move daily; private
+valuations are softer than market capitalisations.*
+
+---
+
+## 1. The developers' own designations
+
+| Company | Quotation, verbatim | Source | Date | Grade |
+|---|---|---|---|---|
+| **Google DeepMind** | "We call our most powerful foundation models 'frontier models'." | deepmind.google/frontier-safety | undated page, retrieved 22 Aug 2026 | ✅ |
+| **Google DeepMind** | "The Frontier Safety Framework is a set of protocols that ensure our most advanced AI models remain reliable, thoroughly tested, and aligned with human values." | deepmind.google/frontier-safety | retrieved 22 Aug 2026 | ✅ |
+| **Google DeepMind** | *Frontier Safety Framework* v2.0 (document title) | storage.googleapis.com — DeepMind blog asset | 4 Feb 2025 | ⭘ |
+| **Meta** | "Frontier AI in our Framework refers to a new or substantially modified highly capable general-purpose generative AI model that we are developing for deployment." | ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2 | v2, Apr 2026 | ✅ |
+| **Meta** | "This Advanced AI Scaling Framework outlines how Meta manages and prepares for Frontier AI capabilities that could lead to severe, large-scale outcomes." | same | Apr 2026 | ✅ |
+| **Meta** | "We trained the model using at least 10^26 integer or floating point operations (to include material modifications to the model through fine-tuning, reinforcement learning training, and other training steps), or another threshold as may be defined by evolving standards or industry best practices." | same, Terminology appendix | Apr 2026 | ✅ |
+| **Meta** | "Today, we're sharing our Frontier AI Framework, which outlines our consideration of risk in our model-release decisions" | about.fb.com/news/2025/02/meta-approach-frontier-ai | 3 Feb 2025 | ⭘ |
+| **OpenAI** | "If another frontier AI developer releases a high-risk system without comparable safeguards, we may adjust our requirements." | openai.com/index/updating-our-preparedness-framework | 15 Apr 2025 | ✅ |
+| **OpenAI** | "Frontier AI models have the potential to benefit all of humanity, but also pose increasingly severe risks." | openai.com/global-affairs/our-approach-to-frontier-risk | 26 Oct 2023 | ✅ |
+| **OpenAI** | *OpenAI Frontier* — enterprise agent product; agents that "do real work" | openai.com/index/introducing-openai-frontier | 2026 | ⚠ |
+| **Anthropic** | "As frontier AI models advance, we believe they will bring about transformative benefits for our society and economy." | anthropic.com/responsible-scaling-policy | updated 14 Aug 2026 | ✅ |
+| **Anthropic** | "Frontier AI models also, however, present new challenges and risks that warrant careful study and effective safeguards." | same | 14 Aug 2026 | ✅ |
+| **Anthropic** | *Frontier Red Team* — named programme | anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team | 19 Mar 2025 | ✅ |
+| **Anthropic** | "We believe it would be good for the world to have the option to slow or temporarily pause frontier AI development." | anthropic.com/institute/recursive-self-improvement | 2026 | ⚠ |
+| **xAI** | "This Frontier AI Framework ('FAIF') outlines xAI's approach to policies for mitigation of significant risks associated with the development, deployment, and release of xAI's frontier AI models, such as Grok." | media.x.ai — *xAI Frontier Artificial Intelligence Framework* PDF | effective 30 Jun 2026 | ✅ |
+| **xAI** | "As xAI advances frontier model development, we continuously evaluate whether emerging risk domains meet our significance and severity thresholds, and update our control architectures accordingly." | same | 30 Jun 2026 | ✅ |
+| **xAI** | "Grok 4.6 achieves frontier intelligence across several agentic coding and knowledge work benchmarks. It matches GPT-5.6 Sol on the composite score of nine benchmarks." | x.ai/news/grok-4-6 | 12 Aug 2026 | ⚠ |
+| **xAI** | "Frontier AI models for everything you imagine. Reasoning, code, voice, images, and video. Trained on the world's largest supercluster." | x.ai (homepage) | retrieved 22 Aug 2026 | ⚠ |
+| **Microsoft** | "The compute used to train frontier models has increased by a factor of one trillion." — Mustafa Suleyman, CEO of Microsoft AI | microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models | 2 Jun 2026 | ✅ |
+| **Microsoft** | "At Microsoft AI, we recognize that there are no shortcuts to the frontier." — Suleyman | same | 2 Jun 2026 | ✅ |
+| **Microsoft** | "We call this Microsoft Frontier Tuning." | same | 2 Jun 2026 | ✅ |
+| **Microsoft** | "To build a frontier firm, you have to optimize frontier performance against cost." | microsoft.ai/news/optimizing-the-frontier-performance-curve | 2026 | ⚠ |
+| **Microsoft** | "the Frontier Firm — built around intelligence on tap, human-agent teams and a new role for everyone: agent boss" | blogs.microsoft.com — Work Trend Index | 23 Apr 2025 | ✅ |
+| **Amazon** | "high-performance inference with leading selection of frontier models (Bedrock)" — Andy Jassy, letter to shareholders | aboutamazon.com | Apr 2026 | ⭘ |
+| **Amazon** | "Today, we're introducing Amazon Nova Forge, a new service to build your own frontier models using Nova." | aws.amazon.com/blogs/aws | 2 Dec 2025 | ⭘ |
+| **Amazon** | "Frontier intelligence and industry-leading price performance" | aws.amazon.com/nova | meta-updated 20 Aug 2026 | ⭘ |
+| **Amazon** | "The more compute that is dedicated to training this frontier model, the smarter and more accurate it will become." (re Claude, on Project Rainier) | aboutamazon.com/news/aws | 24 Jun 2025 | ⭘ |
+| **Amazon** | *Amazon's Frontier Model Safety Framework* (document title); "the capabilities of Amazon's frontier models" | amazon.science | — | ⚠ |
+| **NVIDIA** | "the frontier of AI, maximum intellectual capability, is going up and up" — **Sam Altman**, quoted on NVIDIA's blog | blogs.nvidia.com/blog/openai-nvidia | 22 Sep 2025 | ⭘ |
+| **NVIDIA** | NVIDIA infrastructure is "the foundation that lets us keep pushing the frontier of AI" — Altman, NVIDIA investor materials; release titled *NVIDIA Vera Rubin Opens Agentic AI Frontier* | investor.nvidia.com | 2026 | ⚠ |
+| **NVIDIA** | "CoreWeave is a world-class new generation AI-Native cloud." / "…to power the world's AI." — Jensen Huang | coreweave.com/news (CoreWeave release) | 16 Mar 2026 | ⭘ |
+| **Oracle** | "Organizations training and serving frontier AI models require infrastructure engineered for extreme throughput" | blogs.oracle.com/cloud-infrastructure | 17 Mar 2026 | ⭘ |
+| **Oracle** | "integrating secure frontier AI into classified environments will accelerate data synthesis…" — **unattributed press-release body text, not a named person's quote** | oracle.com/news/announcement — Department of War agreement | 1 May 2026 | ⭘ |
+| **Oracle** | "frontier AI infrastructure" | oracle.com/ai-world/cloud | — | ⚠ — see failure F2 |
+| **CoreWeave** | "This expansion reinforces our position as the essential partner for any organization navigating the complexities of frontier-scale AI." — Michael Intrator, CEO | coreweave.com/news | 16 Mar 2026 | ⭘ |
+| **Databricks** | "Enterprise demand for frontier AI is accelerating, and with Databricks, we're making its deployment even simpler without compromising the high bar for performance and production." — **Brad Lightcap, COO of OpenAI**, in Databricks' own release, headed "Frontier Models on Enterprise Data" | databricks.com/company/newsroom | 25 Sep 2025 (syndicated copies 3 Oct — date ⚠) | ⭘ |
+| **Palantir** | "It's not just the man and woman on the street who are unhappy with the frontier labs" — Alex Karp, CEO | theregister.com | 11 Jun 2026 | ✅ |
+| **Tesla** | "autonomy at scale in vehicles, robots and more" | tesla.com/AI | — | ⚠ |
+| **Tesla** | "Tesla's New Frontier: Embodied AI" — **publication's headline, not a Tesla statement** | site.financialmodelingprep.com | 8 Apr 2026 | ⭘ |
+
+## 2. Ownership and control
+
+All from proxy statements, SEC filings, company governance pages, or named reporting.
+
+| Company | Fact | Source | Grade |
+|---|---|---|---|
+| OpenAI | OpenAI Foundation controls OpenAI Group PBC; "appoints all members of the board of directors of OpenAI Group and can replace directors at any time"; Foundation ≈26%, Microsoft ≈27%, employees and investors ≈47%; recapitalisation closed 28 Oct 2025 | openai.com/our-structure | ✅ |
+| Anthropic | Delaware PBC; Long-Term Benefit Trust holds Class T stock electing board members, to a majority within four years | anthropic.com/news/the-long-term-benefit-trust (19 Sep 2023) | ⭘ (current trustee composition unconfirmed) |
+| Anthropic | $30B Series G at **$380B** post-money, led by GIC and Coatue | anthropic.com newsroom, 12 Feb 2026 | ⭘ |
+| xAI | SpaceX combined with xAI, early Feb 2026, ≈$1.25T combined | Bloomberg 2 Feb 2026; CNBC 3 Feb 2026 | ⭘ |
+| xAI | "xAI LLC" remains the named developer in its own framework dated 30 Jun 2026 — i.e. a subsidiary/brand within SpaceX, not dissolved | media.x.ai FAIF | ✅ |
+| Alphabet | Page 27.1% and Brin 25.2% of voting power ≈ **52.3%**, via ten-vote Class B | Alphabet 2025 proxy statement, beneficial-ownership table | ⭘ |
+| Meta | "Because Mr. Zuckerberg controls a majority of our outstanding voting power, we are a 'controlled company'" — Meta's own 2026 proxy, **which prints no percentage** | sec.gov, meta-20260416 | ⭘ |
+| Meta | The **≈61%** figure is from a shareholder-proponent Notice of Exempt Solicitation, **not Meta's own disclosure** — cite as approximate with that caveat | sec.gov, r57250px14a6g | ⭘ |
+| Microsoft | Single share class, one vote per share; no controlling shareholder; institutional ownership ≈71% (holder percentages secondary) | charter; secondary aggregator | ⚠ on percentages |
+| NVIDIA | Jensen Huang, founder and chief executive; market capitalisation **$5.213T**, most valuable company | companiesmarketcap.com, Aug 2026 | ⭘ |
+| Amazon | Jeff Bezos, founder and executive chair; capitalisation topped **$3T** on 3 Aug 2026 | CNBC | ⚠ |
+| Oracle | Larry Ellison, founder, reported **40.6%** holder; co-CEOs Magouyrk and Sicilia since Sep 2025; capitalisation ≈**$421.9B** | Motley Fool 29 Jul 2026; companiesmarketcap.com | ⚠ on the stake |
+| Tesla | Musk largest individual holder at ≈**20%**; no super-voting class; capitalisation ≈$1.4T | Motley Fool, 9 Aug 2026 | ⭘ |
+| Palantir | Class F founder voting trust (Karp, Thiel, Cohen) engineered to just under half of total voting power regardless of economic stake; capitalisation ≈**$412B** (19 Aug 2026) | Palantir 2025 proxy, sec.gov; stockanalysis.com | ✅ (proxy) |
+| Databricks | Private; seven co-founders, Ghodsi CEO; **$5B** round closed 13 Aug 2026 at ≈**$190B**, led by Coatue | TechCrunch, 13 Aug 2026 | ⭘ |
+| CoreWeave | Public since 28 Mar 2025 (Nasdaq: CRWV); founders Intrator, Venturo, McBee; NVIDIA a shareholder ($2B added Jan 2026); capitalisation ≈$48.5B | en.wikipedia.org; companiesmarketcap.com | ⚠ |
+
+## 3. Compute
+
+Training-compute figures for current flagship models are **not disclosed by any developer**. The
+figures this project uses are Epoch AI estimates, taken from the dataset files held by the project
+(CC BY 4.0; citation at [the models file](./frontier_models.md)), not from web summaries.
+
+**Standing caution.** Two separate web retrievals of Epoch's published figures returned
+*different* mantissas for the same models (Grok 3 at 3.5 × 10²⁶ vs 4.6 × 10²⁶; GPT-4.5 at
+2.1 × 10²⁶ vs 3.8 × 10²⁶). The dataset files in hand are therefore the authority for any figure
+this project publishes, and no precise FLOP figure should be taken from a summarised fetch.
+Robust across retrievals: Grok 3, Grok 4 and GPT-4.5 sit at a few × 10²⁶; Claude Opus 4 sits
+**near** the 10²⁶ line on a range (reported 5 × 10²⁵–2 × 10²⁶, tentative); GPT-4 ≈ 2 × 10²⁵;
+Claude 3.5 Sonnet ≈ 2.7 × 10²⁵. Epoch publishes no estimate for GPT-5 or Claude Opus 4.5.
+
+**Consequence for the models file.** Because Opus 4's range crosses the threshold at its upper
+bound, the claim "only three models carry an estimate at or above 10²⁶" is true of **point
+estimates** and must be stated that way. Recorded here so the two research files cannot drift
+apart again.
+
+## 4. What failed verification
+
+The useful half of the record. None of the following may be used.
+
+**F1 — Tesla has no first-party "frontier" usage.** Searched across tesla.com and Musk's public
+posts; Tesla's own register is *autonomy* and *real-world AI*. The "frontier" framing around
+Tesla is third-party editorial (FMP headline, 8 Apr 2026; a Forbes Technology Council piece
+applying "frontier" to embodied AI as a field). **Consequence:** Tesla's coverage rests on
+function, never on self-designation — and the gap is itself evidence that a self-designation
+limb cannot stand alone.
+
+**F2 — Oracle does not say "frontier AI infrastructure."** The literal phrase was not found on
+the Oracle pages fetched. Oracle's verbatim usages are "secure frontier AI" (unattributed press-
+release text) and "frontier AI models" / "frontier model training". The phrase remains in
+circulation from the working research and is marked ⚠ above; **do not quote it as Oracle's words**
+until the exact page is produced.
+
+**F3 — The Altman/NVIDIA line differs from the working version.** The working table carried
+NVIDIA infrastructure as "the foundation that lets us keep pushing the frontier of AI." What was
+verified on NVIDIA's own blog is: "the frontier of AI, maximum intellectual capability, is going
+up and up" (22 Sep 2025). Both are attributed to Altman in NVIDIA materials; only the second was
+opened here. Prefer the second.
+
+**F4 — Two NVIDIA attribution traps.** "The next frontier of AI is physical AI, Huang explained"
+(CES blog, 6 Jan 2025) is the **blog author's paraphrase**, never a Huang quotation. And the
+"AI-Native cloud" line is Huang's, but contains no instance of the word *frontier*.
+
+**F5 — Palantir's August 2026 "frontier AI labs" phrasing is journalism, not Karp.** In coverage
+of the Q2 2026 call, "frontier AI labs" appears in the outlets' framing; TechCrunch's rendering
+inserts "[the frontier labs]" as an editorial bracket. The verified verbatim Karp sentence is the
+11 June 2026 one recorded above. Palantir's own shareholder letter is client-rendered and could
+not be read; **no verified written quotation from Palantir's own materials exists yet** — the
+route is the 8-K exhibit on SEC EDGAR.
+
+**F6 — Oracle's classified-deployment sentence is unattributed.** It is descriptive body text in
+the press release; the named quotations on that page (Kim Lynch, Oracle; Emil Michael, Under
+Secretary of War) contain no instance of *frontier*. Never attribute it to Ellison or to any
+person.
+
+**F7 — Two valuations in circulation lack a source.** Anthropic at ≈$965B and OpenAI at ≈$852B
+appear in the working research; the verified figures are Anthropic **$380B** (own newsroom,
+12 Feb 2026) and OpenAI ≈**$500B** implied at the October 2025 recapitalisation. The higher
+figures may reflect later rounds this project has not opened. Until pinned, publish the verified
+figures with the higher ones flagged, never the reverse.
+
+**F8 — "SpaceXAI" is not a corporate name.** It is a journalists' portmanteau for the combined
+entity. The legal developer name remains xAI LLC. The merger itself is real and sourced above.
+
+**F9 — Meta's framework was renamed, and the rename matters.** The *Frontier AI Framework*
+(Feb 2025) became the *Advanced AI Scaling Framework* v2 (Apr 2026), retaining "Frontier AI" as
+its defined term. Any file citing the old title alone is stale. **This is the strongest live
+example of [CURE 6](../audit/v3_5_cure_language.md)'s anti-evasion clause** — a holding-out is
+not undone by later amendment — and should be cited there rather than left as a footnote.
+
+## 5. Corrections this record forced
+
+Logged so the trail is visible: the two-twelves overlap was published as five companies and is
+**eight** (the five developers plus Microsoft, Amazon and NVIDIA); the compute-threshold
+comparison table labelled H.R. 9917 the "FRONTIER vehicle" when H.R. 9917 is the **AI Kill
+Switch Act** and the FRONTIER Act is H.R. 9925. Both entered [the errata register](../ledger/errata.md).
+
+*Owner of this record: nothing else in the repository maintains a competing source list. Argument
+files point here. Corrections enter [the errata register](../ledger/errata.md).*
