@@ -223,6 +223,45 @@ officer is a role that owns *defending* the company, not one that owns *shipping
 
 ---
 
+### The practitioner and safety-community commentary of 18–23 August — intake of 23 Aug
+
+*All from public posts supplied 23 August as validated paste. Grade for every entry: ⚠ **P** —
+the words are as posted, but source documents behind them are owed (see the intake's wants in the
+private tracker). This subsection is the landing the
+[standing watch § 8.1](../audit/standing_watch_2026-08-20.md) parenthesis names. Each entry is
+mapped to the provision it speaks to; none of this enters an argument file until its source lands.*
+
+**Steven Adler** (ex-OpenAI safety research; Guidelight AI Standards), interview clip in
+circulation: *"Imagine you ran a bank, and you want the bank to not get robbed. The way you do this
+is not setting up a security camera and every hour you check the feed … You certainly don't leave
+it where a criminal could walk into the bank and turn off the camera, and that's the equivalent of
+what's happening at AI labs today, not just in terms of automated AI R&D and recursive
+self-improvement, but broadly across the board."* The camera a robber can switch off is SEC. 9(a)'s
+"deception of safety or monitoring controls" and the AG letter's monitoring-disconnection red flag,
+in one image. Speaks to Part 6's monitoring objectives — the security lane's open ground.
+(Attribution anchor is the handle in the circulating caption; the clip's chyron garbles the
+surname, so the video itself is the confirming source and is owed.)
+
+**Miles Brundage** (AVERI), quoting his own launch essay: *"AI not even having the level of
+scrutiny we apply to normal technologies … is totally insane."* Beside it, **Joshua Saxe**: the AI
+industry's *"safety to capability investment ratio is far less than in other industries"*; *"[j]ust
+treating AI as a 'normal' new-technology safety problem would apparently be a big win."* Together
+they answer the "exceptional regulation" objection from inside the field: the ask is not
+exceptional scrutiny but ordinary-technology scrutiny not yet applied. Belongs beside
+[known objections](../docs/known_objections.md) when sourced.
+
+**Zack Korman** (Embroidery; the practitioner whose factual claims are held at § 9a): the design
+position — *"Legal compliance checkboxes aren't good security. Impose massive penalties for
+incidents instead."* This is the sweep's own critique of Part 6 (process without substance), stated
+from the security trade — and it is an argument *for* this Act's SEC. 10 side made *against* its
+Part 6 side. The honest use is both halves at once: the strongest practitioner case against
+process mandates is simultaneously a case for outcome liability, which is the half of this Act its
+critics rarely read. Also his, for texture on the incident-commerce point in § 4: *"The whole
+internet is becoming the ai cyber range."*
+
+**Connor Leahy** (ControlAI), on Democracy Now: AI is *"more like grown rather than written."*
+Texture for the unforeseeability findings; low weight; the broadcast is the source and is owed.
+
 ## 6. Quarantine — held, unverifiable, not for use
 
 **Four quotations were carried into this repository from a working summary rather than from article
