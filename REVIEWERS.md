@@ -2,7 +2,7 @@
 
 *This page is the reviewer's path: the ask, the reading order, your lane, and what happens to your
 findings. A reviewer's time belongs to the text, so the path is bounded — and everything beyond it
-is laid out, one file at a time, in [the outline](./OUTLINE.md), so anything you skip is a decision
+is laid out, one file at a time, in [the map, Part I](./MAP.md), so anything you skip is a decision
 rather than a guess.*
 
 *Arrived from an invitation email that linked [the lane sweep](./audit/v3_5_lane_sweep.md)? That
@@ -63,6 +63,10 @@ exists. It claims **checkability**: every layer above is built to be verified by
 not trust us.
 
 ## The path — the six to eight hours
+
+**0 · The front page.** [README](./README.md) — the argument in one paragraph, the coverage
+table, and the status block that names the known defects first; the guide at its top maps the
+rest of the page.
 
 **1 · The statute.** [`model_act_v3_4.txt`](./model_act_v3_4.txt) — one sitting, cover to cover.
 
@@ -212,7 +216,7 @@ published under the reviewer's name.
 ## The whole repository
 
 Everything here — every file, in chapter order, with what each is for — is at
-[the outline](./OUTLINE.md). Nothing in it is required for a disposition; all of it is available
+[the map, Part I](./MAP.md). Nothing in it is required for a disposition; all of it is available
 to one.
 
 ---

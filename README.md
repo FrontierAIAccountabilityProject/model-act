@@ -3,7 +3,7 @@
  
 **Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
 
-**Invited to review?** Start at [For the review council](#for-the-review-council) — the core set, your lane, and a time budget. Everything else on this page is context you are licensed to skip.
+**Invited to review?** This page is worth reading in full — the guide just below maps it. Then [REVIEWERS.md](./REVIEWERS.md) carries your bounded path, your lane's brief, and the terms.
  
 Model state legislation applying the **responsible corporate officer doctrine** —
 *United States v. Dotterweich*, 320 U.S. 277 (1943); *United States v. Park*, 421 U.S.
@@ -17,6 +17,20 @@ technical definition of *frontier*; this project holds a legal one — [two defi
 [CC0](./LICENSE).**
 
 ---
+
+## What is on this page
+
+*The front page is the book's spine, and it is long on purpose. In order:*
+
+- [Two definitions of "frontier"](#two-definitions-of-frontier) — the coverage architecture: system + activity + control, and the twelve-company table.
+- [Two sentences a government already wrote down](#two-sentences-a-government-already-wrote-down) — the UK's own evidence for a named responsible officer.
+- [In one paragraph](#in-one-paragraph) — the whole Act, precisely, with the interpretive key beneath it.
+- [Can a model act?](#can-a-model-act) through [the comparison that makes the point fastest](#the-comparison-that-makes-the-point-fastest) — the criminal-law case in four short exhibits.
+- [Overview](#overview) · [project disclosure](#project-disclosure) · [Status](#status) — the known defects named first.
+- [Repository structure](#repository-structure) and [Contents](#contents) — the shelf; the chapter view is [the map, Part I](./MAP.md).
+- [For legislative sponsors and staff](#for-legislative-sponsors-and-staff) · [for the review council](#for-the-review-council) — the two audiences; a reviewer's working page is [REVIEWERS.md](./REVIEWERS.md).
+- [Provenance and method](#provenance-and-method) — who maintains this, how, and what is never quiet.
+- [Citation](#citation) · [contact and contributions](#contact-and-contributions) · [file status and history](#file-status-and-history) · [license](#license).
 
 ## Two definitions of "frontier"
 
@@ -340,7 +354,7 @@ The text, sources, unresolved questions and revision history are public so that 
 - **License:** CC0 — public domain
 - **Archived:** [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795) — CERN's Zenodo, permanent; every future release mints its own version DOI under this concept DOI
 
-## Repository structure
+## Repository structure and contents
 
 ```
 model-act/
@@ -364,115 +378,10 @@ model-act/
 └── (page images of the withdrawn typeset editions live in archive/page-images/)
 ```
 
-## Contents
-
-*Grouped by what a reader would want it for. Every file states its own strength limits; nothing
-here is authority for the statute except the statute.*
-
-*Not listed individually, by design: the numbered signposts in [`docs/`](./docs/) and
-[`dossier/`](./dossier/) are retired paths kept so old links still land; the numbered chunks in
-[`audit/`](./audit/) are components of the drafting record and are reached through it. Most folders
-carry their own index.*
-
-
-### I · The statute
-
-**1 · [The Act](./model_act_v3_4.txt)** — SEC. 0–13. Research draft, enacted nowhere; the authoritative text.
-
-**2 · [Bill-folder text](./model_act_v3_4_jacket_clean.txt)** — The bare statutory text, stripped of apparatus.
-
-**3 · [Companion](./model_act_v3_4_companion.md)** — Drafting notes n.1–n.43, the constitutional defence, and the open items for v3.5.
-
-**4 · [Implementing regulations](./model_regulations_v1_draft.md)** — The draft implementing regulations, unadopted.
-
-
-### II · Reading it
-
-**5 · [The case](./docs/the_case.md)** — The argument end to end: the problem, the precedents, what the Act provides, the cross-examination, and how a bill is handed over.
-
-**6 · [The statute, translated](./docs/the_statute_translated.md)** — SEC. 0–13 in plain language, beside what the text actually says.
-
-**7 · [Questions](./docs/questions.md)** — What this project is asked, including the questions it answers against itself.
-
-**7a · [The definition](./docs/the_definition.md)** — Two definitions of "frontier": the laboratories' technical one and this Act's legal one, side by side, with the selection test and the protective clauses.
-
-**7b · [Known objections](./docs/known_objections.md)** — The strongest objections the project knows, published with its answers before any reviewer arrives — including the ones the tagged statute already answers in black letter.
-
-
-### III · For a sponsor's office
-
-**8 · [For legislators and their staff](./standards/for_legislators.md)** — The four things checked so your staff need not, the verified absences, what the laboratories' own frameworks say, the comparative answer, and your state's analogue.
-
-**9 · [The bracketed-matter worksheet](./standards/bracketed_matter.md)** — Every bracketed choice, its section and line, and what the enacted family chose.
-
-**10 · [Fiscal note](./standards/fiscal_note.md)** — What the Act costs an adopting state, startup kept apart from steady state.
-
-**11 · [The pending comment — FDA-2026-N-7874](./filings/fda_2026_n_7874_comment.md)** — **Draft, not yet filed.** This project's submission to FDA's generative-AI device docket, closing 19 October 2026. Published as a draft so it can be criticised before it is sent.
-
-**12 · [How to file a federal comment](./filings/how_to_file_a_federal_comment.md)** — The field guide to regulations.gov, and the fact that inverts the civic instinct, the process is not a vote.
-
-
-### IV · The research behind the central claim
-
-*The claim: no American law places a duty on **the officer of a covered frontier developer** for
-the decision to ship — not that no law reaches any natural person, since several do. What follows
-is the checking, and it is designed to be capable of failing.*
-
-**13 · [The frontier bill census](./standards/frontier_bill_census.md)** — Every frontier AI bill in America, read one at a time, with a confidence grade on every row and a tally that never exceeds the rows read.
-
-**13a · [The frontier models](./research/frontier_models.md)** — Which models meet the compute threshold, who builds them, where based, and which developers have conduct the Act would cover — Epoch AI data, the developers' own *frontier* self-designations, and the disclosure gap stated flat.
-
-**13b · [The frontier enterprises](./research/frontier_enterprises.md)** — The coverage set: twelve companies across four layers — model creation, compute control, embodied autonomy, institutional deployment — with ownership, control, scale, and each company's own use of the word *frontier*, verbatim and sourced.
-
-**14 · [Why the disparity exists](./standards/why_the_disparity.md)** — Twelve explanations for why American law reaches an individual with four hundred and forty years of announced exposure and a frontier officer with nothing. Drawn from across the political spectrum, argued in their strongest form, several of them exculpatory — and each followed to the remedy it implies.
-
-**14a · [Who has to tell you](./standards/who_has_to_tell_you.md)** — ⚠ **Hypothesis, not a finding, and graded as such.** The duty to disclose a breach attaches to the party that got intruded upon — not to whoever shipped the defective code, and not directly to the people whose data it was. And because the trigger turns on evidence of acquisition, an organisation that logs poorly may owe less. Published with the four checks it needs listed at the end, and quoted nowhere until they are done.
-
-**15 · [The same conduct, prosecuted](./standards/the_same_conduct.md)** — Five people prosecuted for computer access, no physical injury, announced exposure from ten years to four hundred and forty. Beside them, conduct in 2026 that was broader on every axis and charged to nobody.
-
-**16 · [Why a signature works](./standards/why_a_signature_works.md)** — Twenty-eight years for a false certificate; twelve months for twenty-nine deaths and no document. Form FDA 1572, Sarbanes-Oxley, and the one item on the surgical checklist that the surgeons resented and the nurses welcomed.
-
-**17 · [Already a crime, if you are a person](./standards/already_a_crime_for_you.md)** — All five offences this Act creates are already crimes for ordinary people, most with heavier maxima and one with no intent requirement at all.
-
-**18 · [Does the frontier touch medicine?](./filings/frontier_ai_in_medicine.md)** — FDA has opened a generative-AI docket and says it "will explore methods to identify and tag" devices built on foundation models — meaning the regulator cannot yet count them. Meanwhile one in five American adults takes medical advice from a frontier model outside the system entirely.
-
-**19 · [Who actually files](./filings/who_actually_files.md)** — Three hundred and forty million people; fifty-one comments; twenty-one from industry.
-
-**20 · [The commentary sweep](./standards/commentary_sweep.md)** — One dedicated gap analysis enumerated twenty-six deficiencies; personal accountability was not among them.
-
-**21 · [FDA docket reading notes](./filings/docket_fda_2024_d_4488_reading_notes.md)** — Every filer named, the substance of 22 of the 51 read, and the element none of those 22 names.
-
-**22 · [Comparative officer liability](./standards/comparative_officer_liability.md)** — s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA, and the claims cut for want of a source.
-
-**23 · [Frontier self-reporting](./standards/frontier_self_reporting_note.md)** — What the laboratories already publish, what is technically inside those documents, and where an attestation would sit if anyone required one.
-
-**24 · [The dossier](./dossier/README.md)** — The evidence file, seven chapters, every fact graded and every grade explained.
-
-
-### V · Reference
-
-**25 · [The adopted texts](./standards/interim_standards.md)** — The enacted standards SEC. 3(c)(4) freezes, pinned verbatim, and why Connecticut is not among them.
-
-**26 · [Table of authorities](./standards/table_of_authorities.md)** — Every authority cited, with the proposition it is cited for.
-
-**27 · [What these words mean](./standards/what_these_words_mean.md)** — A glossary for people who have to legislate about this. What a model, an algorithm, an agent and a frontier model literally are; what each can actually do; how each is sold. Plus mens rea, and why a model cannot have one.
-
-**28 · [House language](./standards/house_language.md)** — The drafting rule, how this project describes frontier AI and the people who ship it, and what happened on the other frontiers.
-
-**29 · [The docket shelf](./filings/README.md)** — What has been filed, where, and on what deadline.
-
-
-### VI · The record of accountability
-
-**30 · [The ledger](./ledger/README.md)** — Append-only, in three parts: **[the errata register](./ledger/errata.md)** — every published claim this project got wrong, with the fix; **[the changelog](./ledger/changelog.md)** — what changed in the statute and when, with hashes; **[the diary](./ledger/diary.md)** — the working account, day by day. For a project with no institution behind it, the register of its own mistakes is the only credential available, and it is offered as one.
-
-**31 · [The standing watch](./audit/standing_watch_2026-08-20.md)** — The periodic re-sweep of live bills, litigation and federal vehicles — with what each sweep found and, at § 7(5), what it missed.
-
-**31a · [The lane sweep](./audit/v3_5_lane_sweep.md)** — An in-house pre-review across all five council lanes, 22 August 2026. Seven findings graded fatal — four in the tagged statute, three in the drafting the open queue proposes. **Not a review and never described as one**; it exists so a reviewer's hours are not spent rediscovering what we could find ourselves, and so that a reviewer can diff their findings against ours.
-
-**32 · [The drafting record](./audit/record.md)** — How v3.2 became v3.3, the hostile brief, and the cure record, beside the sealed and open cure queues.
-
-**33 · [Archive](./archive/)** — Superseded versions, the print edition, and the script that reproducibly builds it.
+**The full contents live in [the map](./MAP.md)** — Part I is the whole repository in chapter
+order, every file once, grouped by the job it does; Part II is ownership, file by file, with the
+question-to-file index. This page no longer duplicates it: one owner per fact applies to indexes
+too.
 
 ## For legislative sponsors and staff
 
@@ -538,136 +447,13 @@ wrong, sent to the address below, enters the public register with its answer att
 
 ## For the review council
 
-This section exists so that no reviewer needs the rest of the repository. Five seats, one
-core set, one lane each. Everything not named here is context a reviewer is licensed to
-skip: the dossier is evidence assembled for journalists, the case below is written for lay
-readers, and the archive is history. A reviewer's time belongs to the text.
-
-**The standing terms.** Scope in writing before work begins; roughly ten to twenty hours
-across eight weeks, adjustable; unpaid; the disposition is published as written, including
-"approved with reservations" and including hostile. Under the project's own published rule,
-nobody — including the maintainer — may claim this text "survived review" until named
-reviewers sign. That rule is why the seats exist. The current text is a research draft and
-says so; every claim is intended to be independently checkable.
-
-**The core set, in reading order.** First, [`model_act_v3_4.txt`](./model_act_v3_4.txt) —
-the statute, one sitting, cover to cover. Second, [the lane sweep](./audit/v3_5_lane_sweep.md) — the
-in-house pre-review of 22 August 2026, which is **the document that has most changed what this
-seat is for**: it returned seven findings graded fatal, four of them in the tagged text, and
-drafted responses to most. Read it after the statute and before anything else, because your lane's
-brief below is now written against it. Third, [the errata register](./ledger/errata.md)
-— what we already know is wrong, so no reviewer spends hours rediscovering published
-mistakes. Beside it, [the table of authorities](./standards/table_of_authorities.md) — every
-citation in the statute and companion with what it is cited for, so verification is a scan
-rather than an excavation. If you would rather work on paper, the
-[reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf) is line-numbered to the source,
-so a note written at p. 6, l. 236 lands on the same text as `model_act_v3_4.txt#L236`. Fourth, [the cure
-queue](./audit/v3_4_cure_language.md) — the fifteen fixes, published in advance and
-landed verbatim at v3.4; the departure announcement and the destination are diffable. Its
-successor, [the open v3.5 queue](./audit/v3_5_cure_language.md), is where a finding from
-this review becomes drafted language — a disposition filed today can be splice-ready
-before the next revision. Fifth,
-[the companion](./model_act_v3_4_companion.md) — the READ FIRST open items and the drafting
-notes; skim all, read closely where the lane points. Sixth,
-[the hostile brief](./audit/record.md#chunk-7) — the Act as read by the other side's
-counsel; if an objection is already there, grade our answer; if it is not, that finding is
-what the seat is for.
-
-**The lanes — and what your seat is now for.** The sweep changed the ask. It is no longer *find
-the defects*; each lane below states what the sweep found in your area and what, if anything, has
-been drafted in response. **Your seat is to say whether we are right, whether the fix is sound, and
-what we still cannot see.** A finding that the sweep is wrong is the most valuable disposition this
-project can receive, because we have acted on it. *Numbering note: "v3.4 cures" are the sealed
-queue, already landed and diffable; "CURE 8–16" are sweep-derived and expressly not
-maintainer-drafted; open questions 1–4 are decisions, not defects.*
-
-*Criminal law* — the statute's SEC. 1, 4, 5–6, and 10(b)–(c); v3.4 cures 2, 5, and 13; the penalty
-and harm-tier chunks of [the record](./audit/record.md#chunk-3). **What the sweep says, all of it
-contestable:** SEC. 6(a) **cannot be pleaded** — no element requires that a SEC. 5 violation
-occurred, nothing connects the due-care failure to it, and "the relevant risk" has no antecedent in
-the section; SEC. 5(d) is a **strict-liability false-statement crime** whose own drafting note cites
-a statute requiring knowledge; SEC. 6(b)(2) attaches a felony with no fault element; SEC. 6(e)
-silently widens the "practical power" SEC. 4(a) narrowed; SEC. 6(d) deletes *Park*'s production
-burden, which may be why the offense would never be charged. **Drafted in response:** CUREs 8, 11,
-12. **Your questions:** is the reconstructed SEC. 6(a) chargeable; is due care as an element the
-right cure for the *Alleyne* problem; does the restored burden survive; is CURE 1's answer (one
-injury definition, not two) right; and the two the sweep could not settle — whether a state's
-suspended-sentence law defeats the harm-tier minimum, and whether per-victim counting survives the
-state's merger doctrine.
-
-*Enforcement and prosecution* — SEC. 5, 9, 10, and 12; [chunk 3](./audit/record.md#chunk-3) and
-[chunk 5](./audit/record.md#chunk-5). **What the sweep says:** **OPEN QUESTION 4 is the most
-consequential item in the repository** — SEC. 2(a)'s "and not otherwise" and SEC. 1(c) tether every
-duty to in-state deployment, while the 2026 incidents were *evaluation* conduct, mostly offshore, so
-five of six fall outside the Act at the threshold. Also: SEC. 5(e) criminalises refusing a demand
-**no provision authorises**; SEC. 5(b), the only offense matching the conduct, is rule-gated into
-year four; SEC. 9(b)'s clock is unprovable against the real timelines and rewards certifying less
-monitoring; SEC. 3(c)(2)(D) makes the honest filer the easier defendant. **Drafted in response:**
-CUREs 9, 10, 14, 15, 16, and OQ4's amendment. **Your questions:** would you charge any of this; does
-the OQ4 amendment reach too far extraterritorially; are the four interim controls at CURE 10 the
-right four; and what does an attorney general's office actually do with this in year one.
-
-*Frontier security* — [the regulations](./model_regulations_v1_draft.md) as the primary text, then
-SEC. 2, 3, and 9(a); v3.4 cures 11, 12, and 14. **What the sweep says, and note that this lane's
-fixes are *not* drafted:** the safeguards-disabled evaluation with external reach falls into a hole
-between SEC. 2(c) and SEC. 2(a), so **nothing in the Act reaches the most dangerous configuration in
-the 2026 record**; and Part 6's control objectives are process without substance — the incident
-record names five contributing factors, none of them a model property, and **the intersection with
-Part 6's six objectives is empty**. Also flagged: the halt capability is specified in hours against
-a kill chain that completes in minutes; the monitoring objective permits the very asynchronous
-review that produced the detection gap; nothing requires proof of what was actually serving.
-**Your questions:** where would practice laugh; should disabling a safeguard for an evaluation carry
-a duty, including the case *against*; and what six control objectives would you write instead.
-
-*Open source and academia* — SEC. 1(b)(9) and 1(b)(1), SEC. 2's modification budget; v3.4 cures 1,
-9, and 16. **What the sweep says:** SEC. 1(b)(1)(B)'s "does not, standing alone, **extend a
-lineage**" is undefined in a criminal scope term, and the hostile reading covers every fine-tune of
-every open-weight frontier model; the interim standards apply with the enacting states' revenue
-screens **deliberately stripped**, to a criminally enforced duty, from day 180; SEC. 2(c) excludes
-the agentic and tool-use research it most needs to protect; SEC. 8's personal certification
-**survives inside** SEC. 2(c), so a university president must personally certify before a lab may
-stand up a contained instance; SEC. 10(d)(2) suspension reaches every downstream in-state operator
-of a released open-weight model. **Drafted in response:** CURE 13 only — the rest are unfixed.
-**Your questions:** is the severance rule right; is the [10^24] floor in the right place for 2026
-hardware; and would your institution's counsel permit a SEC. 2(c) deployment as drafted.
-
-*Fiscal and administration* — [the fiscal note](./standards/fiscal_note.md) as the primary text,
-then SEC. 10(a) and (f), SEC. 11, SEC. 3; [chunk 3](./audit/record.md#chunk-3), part D. **What the
-sweep says, none of it yet fixed:** the note carries **no dollar figure anywhere**, which is honest
-and administratively fatal, because "indeterminate" is the label that sends a bill to interim study;
-steady state exceeds startup, which is impossible on the statute's own clock; there is **no line for
-defending the Act**, though a first adopter's largest year-one legal cost is a pre-enforcement
-facial challenge; there is no corrections or judiciary impact section, which some states require
-before a felony bill is considered at all; the function table omits at least eight duties, including
-frontier-equivalent capability designation, the most technically demanding act in the Act; and the
-whistleblower award is a mandatory entitlement on a fund that may be permanently empty. The standing
-fiscal rule to hold us to: enforcement is never sold as self-funding, penalties are never booked as
-revenue, and startup costs are stated apart from steady state. **Your questions:** is a note with no
-numbers reportable in your state; what would you need to make it so; and should CURE 7 be sequenced
-to v4 on administrability grounds, as the sweep's fiscal lane recommends and the maintainer has not
-accepted.
-
-**Time budget — restated honestly, because the sweep changed it.** The old figure was ten to twenty
-hours to find defects. Verifying a sweep is different work and can be **bounded**: first hour, the
-statute straight through; second, your lane's section of the sweep; then **three findings of your
-choosing, verified or refuted, with reasons**. That is a complete and publishable disposition and it
-is perhaps six to eight hours. Everything past it — the companion notes, the record chunks, the
-cures drafted in response — is generosity, not scope. **A disposition that refutes one finding is
-worth more to this project than a full pass that agrees with everything.**
-
-**Filing a disposition.** Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments
-— in any form: a memo, a marked-up copy, a numbered list of findings. Or, if you have been contacted by the maintainer via a different account, please reply through the channel you were contacted on. It is published as
-written, credited or anonymous at the reviewer's choice; council seats publish with names,
-which is the point of them. A finding that something is broken is the seat working, not
-failing: catches enter [the errata register](./ledger/errata.md) with the fix attached,
-and the record of who caught what is permanent.
-
-**What a reviewer is not asked to do.** Not to endorse, not to co-author, not to join
-the project's advocacy, and not to lend standing beyond the written disposition. A
-reviewer will not be quoted as supporting the project beyond the reviewer's written
-disposition. The request is limited: provide an expert assessment that can be published
-under the reviewer's name.
-
+*This section moved to [REVIEWERS.md](./REVIEWERS.md) on 23 August 2026 — the bounded path, the
+five lane briefs each with its shelf, the print-copy mechanics, filing, and the terms, in one page
+that changes in the same commit as the reading order changes. What stands here is the part that
+never moves: scope in writing before work begins; unpaid; dispositions published as written,
+including "approved with reservations" and including hostile; and under the project's own published
+rule nobody — the maintainer included — may claim this text "survived review" until named reviewers
+sign. That rule is why the seats exist.*
 
 ## Provenance and method
 
@@ -736,48 +522,30 @@ reader at [commits/main.atom](https://github.com/FrontierAIAccountabilityProject
 <a id="citation"></a>
 ## Citation
 
-**Citing a provision.** Cite by section — *Model Act § 4(b)(2) (v3.4)* — and link by line:
-GitHub opens a text file at a line with `#L`, so
-[`model_act_v3_4.txt#L236`](./model_act_v3_4.txt#L236) lands on SEC. 4. For a link that
-survives every future edit, open the file, press `y` to swap the branch name for the commit
-hash, then add the line anchor. Section starts against the v3.4 tag: SEC. 0 — L9 · SEC. 1 —
-L44 · SEC. 2 — L103 · SEC. 3 — L149 · SEC. 4 — L236 · SEC. 5 — L265 · SEC. 6 — L284 ·
-SEC. 7 — L316 · SEC. 8 — L365 · SEC. 9 — L394 · SEC. 10 — L417 · SEC. 11 — L479 · SEC. 12 —
-L493 · SEC. 13 — L527.
+Cite by section — *Model Act § 4(b)(2) (v3.4)* — and pin the version and date; the main branch
+moves frequently. Section starts against the v3.4 tag: SEC. 0 — L9 · SEC. 1 — L44 · SEC. 2 — L103
+· SEC. 3 — L149 · SEC. 4 — L236 · SEC. 5 — L265 · SEC. 6 — L284 · SEC. 7 — L316 · SEC. 8 — L365 ·
+SEC. 9 — L394 · SEC. 10 — L417 · SEC. 11 — L479 · SEC. 12 — L493 · SEC. 13 — L527. So
+[`model_act_v3_4.txt#L236`](./model_act_v3_4.txt#L236) opens SEC. 4.
 
-**Verifying the citations.** Every authority the statute and companion rely on is listed,
-with its provision and the proposition it is cited for, in
-[the table of authorities](./standards/table_of_authorities.md).
+Archived at CERN's Zenodo; the DOI — [10.5281/zenodo.22029795](https://doi.org/10.5281/zenodo.22029795)
+— survives any rename or takedown, so cite it in preference to the URL. Every authority the statute
+relies on is listed with its proposition in [the table of authorities](./standards/table_of_authorities.md).
 
-**The permanent identifier.** The repository is archived at CERN and carries a DOI:
-**10.5281/zenodo.22029795**. It resolves to the latest archived version and survives the
-repository being renamed, moved, or taken down — cite it in preference to the URL.
+**Bluebook (22d ed.), R. 12.9.4:** Model Act — Frontier AI Pub. Welfare Offenses § 4(b)(2)
+(Frontier AI Accountability Project 2026), https://doi.org/10.5281/zenodo.22029795.
 
-A [`CITATION.cff`](./CITATION.cff) file supports GitHub's "cite this repository"
-function; release v3.4 is tagged with sha256 checksums recorded in the ledger's changelog, and v3.4.2 is the archived release that carries the DOI; and
-CC0 imposes no attribution requirement — citation is a courtesy to the reader. Pin the
-version and the date; the main branch moves frequently.
+**APA:** Frontier AI Accountability Project. (2026). *Model Act — Frontier AI Public Welfare
+Offenses* (Version 3.4.2, research draft) [Model legislation]. Zenodo.
+https://doi.org/10.5281/zenodo.22029795
 
-> **Bluebook (22d ed. 2025), R. 12.9.4 — model codes and uniform acts.** In law-review
-> typeface the title takes large and small caps:
->
-> Model Act — Frontier AI Pub. Welfare Offenses § 4(b)(2) (Frontier AI Accountability Project 2026),
-> https://doi.org/10.5281/zenodo.22029795.
->
-> **BibTeX.** Generated from [`CITATION.cff`](./CITATION.cff) by GitHub's "Cite this
-> repository" panel, or by `cffconvert -f bibtex`.
->
-> **APA** — Frontier AI Accountability Project. (2026). *Model Act — Frontier AI Public Welfare Offenses*
-> (Version 3.4.2, research draft) [Model legislation]. Zenodo. https://doi.org/10.5281/zenodo.22029795
->
-> **MHRA** — Frontier AI Accountability Project, *Model Act — Frontier AI Public Welfare Offenses*, v3.4.2 research
-> draft (2026) <https://doi.org/10.5281/zenodo.22029795> [accessed 20 August 2026]
+**MHRA:** Frontier AI Accountability Project, *Model Act — Frontier AI Public Welfare Offenses*,
+v3.4.2 research draft (2026) <https://doi.org/10.5281/zenodo.22029795> [accessed 20 August 2026]
 
+**BibTeX:** GitHub's "Cite this repository" panel generates it from [CITATION.cff](./CITATION.cff).
 
-Cite it as what it is — model legislation, a research draft — never as enacted law; the
-companion's first note says the same, first.
+Cite it as what it is — model legislation, a research draft — never as enacted law.
 
-<a id="contact-and-contributions"></a>
 ## Contact and contributions
 
 **FrontierAIAccountabilityProject@proton.me** — links or pasted text only, no attachments.

@@ -948,6 +948,30 @@ distinction is worth keeping visible: **a register that only ever grows by failu
 about what the project does when it is working.** Status: **rule adopted; no repository text
 affected.**
 
+---
+
+<a id="e33"></a>
+
+## E33 — a filename is not a source either
+
+**Filed 23 August 2026. Severity: low — live for minutes, corrected the same hour, and filed
+because the register does not price errors by how briefly they were visible.**
+
+**The error.** The chapter outline published at commit a4aa8d4 described the FDA submission as
+*"a real federal filing, published as filed."* It is a draft, published for criticism **before**
+filing; the docket closes 19 October 2026; the front page said so all along.
+
+**Cause.** The description was written from the filename and the folder's reputation, not from the
+file. That is the [E32](#e32) failure operating on the project's own repository within a day of the
+rule being written — which is worth recording precisely because it shows where the rule's edge is.
+
+**Fix.** Corrected in the consolidation that moved the chapters into the map; the outline's
+standalone path was withdrawn from tracking minutes after creation, never having been mailed, with
+every link retargeted.
+
+**Rule sharpened.** The work-in-hand rule extends inward: **describe a file's status only from the
+file's own text** — never from its name, its folder, or the author's memory of writing it.
+
 <a id="part-ii"></a>
 
 ---
