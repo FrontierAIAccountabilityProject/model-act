@@ -24,8 +24,8 @@ CURE 6/7 summaries were reduced to pointers at the ⚠ blocks inside the entries
 repeating them; and four instances of command-voice aimed at readers ("a reviewer should…")
 were conformed to the project's stance that the path is offered, never assigned — on the front
 page, the sweep's header, and the queue. Substance unchanged throughout. And the rendered
-mirror went live the same night — frontieraiaccountabilityproject.github.io/model-act, one
-committed theme line, republishing itself on every push — with the front page now linking it;
+mirror went live the same night — frontieraiaccountabilityproject.github.io/model-act, a committed
+configuration, republishing itself on every push — with the front page now linking it;
 the repository remains the authoritative record.
 
 **Between versions — 23 August 2026, the research sweep.** No change to the tagged statute. The

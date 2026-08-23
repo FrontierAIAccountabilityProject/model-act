@@ -1,0 +1,88 @@
+// The statute register, in type. Two families with two jobs: the text block is set in
+// a book serif (Charter first — the face designed for exactly this kind of long,
+// plain document), the apparatus — headings, sidebar, search, labels — in the system
+// sans. Base size is deliberately generous for long reading on a laptop, one step
+// short of large-print. System fonts only: no webfont requests, nothing to maintain.
+
+html {
+  font-size: 18px;
+}
+@media (min-width: 76rem) {
+  html {
+    font-size: 19px;
+  }
+}
+
+.main-content {
+  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  line-height: 1.65;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: -0.01em;
+}
+
+// Underlined links in the text block — the convention legal readers trust —
+// with visited links quietly distinguishable, which scholars notice and like.
+.main-content a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+.main-content a:visited {
+  color: #4c5566;
+}
+.site-nav a,
+.aux-nav a,
+.site-title {
+  text-decoration: none;
+}
+
+// Quotations carry an ink rule, not a grey one: the Ball epigraph is evidence, not decor.
+.main-content blockquote {
+  margin-left: 0;
+  padding-left: 1rem;
+  border-left: 3px solid #17181c;
+  color: #2a2b31;
+  font-style: normal;
+}
+
+// Tables: lining figures that align, no zebra stripes, hairlines only.
+.main-content table {
+  font-variant-numeric: tabular-nums;
+}
+
+// Nothing moves on hover. Hover may recolor or thicken an underline — both
+// layout-neutral — but text never widens, bolds, or reflows under the cursor,
+// and selection for copying and highlighting stays calm and predictable.
+.main-content a,
+.site-nav a,
+.aux-nav a {
+  transition: none;
+}
+.main-content a:hover {
+  text-decoration-thickness: 2px;
+}
+.main-content {
+  -webkit-user-select: text;
+  user-select: text;
+}
+::selection {
+  background: #d9e1ed;
+  color: #17181c;
+}
+
+// Statute blocks and the file tree read as fixed matter, slightly subordinate.
+.main-content code,
+.main-content pre {
+  font-size: 0.85em;
+}
+.highlight pre {
+  line-height: 1.45;
+}

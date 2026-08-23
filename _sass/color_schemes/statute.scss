@@ -1,0 +1,17 @@
+// Statute — the site's one color scheme. Paper and ink, with a single institutional
+// navy spent almost entirely on links. No second accent, no decoration: the register
+// of law-report and legislative-counsel printing, not of a product page.
+@import "./color_schemes/light";
+
+$body-background-color: #fcfcfa; // paper: warm white, never cream
+$body-text-color: #17181c;       // ink: near-black
+$body-heading-color: #17181c;
+$link-color: #1e3a5f;            // deep navy — institutional, non-partisan, printable
+$btn-primary-color: #1e3a5f;
+$sidebar-color: #f6f5f1;         // the apparatus margin, a shade off the paper
+$border-color: #e5e2da;          // hairlines, not boxes
+$search-background-color: #ffffff;
+$search-result-preview-color: #4c5566;
+$table-background-color: #fcfcfa;
+$code-background-color: #f4f2ec; // statute blocks and the file tree
+$feedback-color: #efede7;

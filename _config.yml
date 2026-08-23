@@ -1,8 +1,67 @@
-# GitHub Pages mirror — deliberately the zero-maintenance version.
-# This file is the entire configuration: the theme below, plus Pages' own defaults
-# (relative .md links become page links; the README serves as the front page; each
-# page takes its title from its first heading; every push republishes automatically).
-# Nothing here ever needs editing when content changes.
+# GitHub Pages mirror — the zero-maintenance configuration, all of it in this file
+# plus two small committed style files under _sass/. Theme: Just the Docs (pinned),
+# which adds full-text search, a navigation sidebar, and documentation typography.
+# Pages' own defaults do the rest: relative .md links become page links, the README
+# serves as the front page, each page takes its title from its first heading, and
+# every push republishes automatically. Nothing here needs editing when content changes.
 title: "Model Act — Frontier AI Public Welfare Offenses"
 description: "A public-domain model state statute extending responsible-officer liability to frontier AI — drafted in public, with its audits, errata, and full drafting record published beside it."
-theme: jekyll-theme-minimal
+
+url: "https://frontieraiaccountabilityproject.github.io"
+baseurl: "/model-act"
+lang: en
+
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag    # canonical URLs, meta descriptions, Open Graph, JSON-LD — per page, automatic
+  - jekyll-sitemap    # sitemap.xml for search engines, regenerated on every push
+
+# Just the Docs
+color_scheme: statute
+search_enabled: true
+heading_anchors: true
+enable_copy_code_button: true
+back_to_top: true
+back_to_top_text: "Back to top"
+aux_links:
+  "The repository — authoritative record":
+    - "https://github.com/FrontierAIAccountabilityProject/model-act"
+footer_content: "Public domain (CC0) · v3.4 tagged, checksums in the ledger · This site mirrors the repository; the repository is the authoritative record."
+
+# The sidebar lists only the reading surfaces (the docs chapters, the packets, the
+# reviewer page, the map). Everything else stays one search or one link away — and
+# search indexes the whole repository except superseded texts and the frozen record.
+defaults:
+  - scope:
+      path: ""
+    values:
+      nav_exclude: true
+  - scope:
+      path: "docs"
+    values:
+      nav_exclude: false
+  - scope:
+      path: "docs/0"          # the retired numbered signpost cards stay out of the sidebar
+    values:
+      nav_exclude: true
+  - scope:
+      path: "packets"
+    values:
+      nav_exclude: false
+  - scope:
+      path: "REVIEWERS.md"
+    values:
+      nav_exclude: false
+  - scope:
+      path: "MAP.md"
+    values:
+      nav_exclude: false
+  - scope:
+      path: "archive"         # superseded versions: reachable by link, never by search
+    values:
+      search_exclude: true
+  - scope:
+      path: "audit/record.md" # the 364KB frozen record would drown the search index
+    values:
+      search_exclude: true
