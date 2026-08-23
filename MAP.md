@@ -52,6 +52,7 @@ and the corrections at [E25–E31](./ledger/errata.md) are what drift looked lik
 | [`research/frontier_models.md`](./research/frontier_models.md) | **Compute and the threshold** — which models cross 10²⁶, the disclosure gap, the other legal definitions in force. | live |
 | [`research/press_corpus_july_august_2026.md`](./research/press_corpus_july_august_2026.md) | **The incident count and the disclosure order.** Five incidents, three developers; the victim disclosed first. Every file citing incident numbers cites this one. | live |
 | [`research/aisi_incident_inc_2026_07_28_01.md`](./research/aisi_incident_inc_2026_07_28_01.md) | The UK AISI incident report, read in full — the record's one independent, government-authored entry. | live |
+| [`research/state_enforcement_record_2026.md`](./research/state_enforcement_record_2026.md) | **Live state enforcement against frontier developers and their officers** — the Florida officer suit, the 42-state investigation, the 15-state preservation demand, and what each does to OPEN QUESTION 4. No other file may restate an enforcement action. | live |
 
 ## The record of accountability — `ledger/`
 
@@ -120,6 +121,7 @@ and the corrections at [E25–E31](./ledger/errata.md) are what drift looked lik
 | Which companies, and why those? | [the frontier enterprises](./research/frontier_enterprises.md) |
 | Where did that quotation come from? | [the verification record](./research/verification_record.md) |
 | How many incidents, and who disclosed? | [the press corpus](./research/press_corpus_july_august_2026.md) § 7 |
+| What are states already doing to officers? | [the state enforcement record](./research/state_enforcement_record_2026.md) |
 | What's the answer to *[objection]*? | [known objections](./docs/known_objections.md) |
 | What is proposed but not yet law? | [the v3.5 queue](./audit/v3_5_cure_language.md) |
 | What did the project get wrong? | [the errata register](./ledger/errata.md) |
