@@ -279,6 +279,45 @@ it can name one.**
 Priority order follows the session calendar in the front page's *Where and when*:
 Pennsylvania, Texas, California, Washington, New York, New Mexico.
 
+**First build-out, 23 August 2026 — the environmental branch of the answer, from a survey now in
+hand.** The academic treatment this section paraphrased above has been identified and read:
+Lyness, *Revitalizing the State Environmental Responsible Corporate Officer Doctrine*, 64 B.C. L.
+Rev. 253 (2023) (Parts II–III read in full; held on
+[the shelf](../research/verification_record.md)). Its Part III is a ten-state survey of the state
+*environmental* officer doctrine — one branch of the question this section asks, not the whole of
+it (food-and-drug and consumer-protection branches remain to be built) — and it permits ten rows
+now, each carrying the survey's citation:
+
+| State | Form | The anchor, per Lyness Part III |
+|---|---|---|
+| Alabama | statutory | "Responsible corporate officer" inside the definition of "person," Ala. Code § 22-22-1(b)(7), with a wilful/gross-negligence mens rea — *stricter than the federal "knowing"* (at 278) |
+| California | judicial | *People v. Matthews*, 9 Cal. Rptr. 2d 348 (Ct. App. 1992) (hazardous waste; strict-liability public-welfare reasoning); *People v. Roscoe*, 87 Cal. Rptr. 3d 187 (Ct. App. 2008) (tank laws, doctrine adopted expressly) (at 278–80) |
+| Connecticut | judicial, broad | *BEC Corp.*, 775 A.2d 928 (Conn. 2001) (strict-liability form); *Celentano*, 923 A.2d 709 (Conn. 2007) (extends to any "strict liability public welfare statute"); tempered by *Underpass Auto Parts*, 123 A.3d 1192 (Conn. 2015) (criminal yes, civil no, under one act) (at 280–81) |
+| Delaware | judicial, narrow | *T.V. Spano*, 628 A.2d 53 (Del. 1993) ("directed, ordered, ratified, approved, or consented" — narrower than *Park*) (at 282) |
+| Hawaii | **codified in the penal code** | Haw. Rev. Stat. § 702-228 — an agent "having primary responsibility for the discharge of the duty is legally accountable for a reckless omission to perform the required act to the same extent as if the duty were imposed by law directly upon the agent"; § 342D-37 adopts "any responsible corporate officer" on the CWA model (at 282–84) |
+| Illinois | judicial, well-developed | *People ex rel. Burris v. C.J.R. Processing*, 647 N.E.2d 1035 (Ill. App. Ct. 1995), and a consistent line since, under the omnibus IEPA — "well-developed … in part due to the state's comprehensive environmental law" (at 284–85) |
+| Indiana | judicial (civil) | *RLG, Inc.*, 755 N.E.2d 556 (Ind. 2001) — civil form adopted because "civil liability is more expansive than criminal liability" (at 286–87) |
+| Minnesota | judicial — the national template | *In re Dougherty*, 482 N.W.2d 485 (Minn. Ct. App. 1992) — the three factors (position of responsibility; nexus between position and violation; actions or inactions facilitated it) "adopted by other state courts as the essential elements" (at 287–88) |
+| New Jersey | statutory + judicial, extensive | "Any responsible corporate official" in N.J. Stat. Ann. § 58:10A-3(l), construed to *Dotterweich/Park* in *Standard Tank Cleaning*, 665 A.2d 753 (App. Div. 1995); extended judicially to solid waste and dams — rejecting a reading that would let officers "shirk responsibility … using holding companies" (at 289–90) |
+| Washington | judicial | *Lundgren*, 971 P.2d 948 (Wash. Ct. App. 1999) (knowledge + control); broadened in *McNamara*, 292 P.3d 812 (Wash. Ct. App. 2013) to "the corporate officer's ability to prevent or correct a violation" (at 290–92) |
+
+**Three uses, stated precisely.** *For the sponsor conversation:* in ten states, "your state
+already does this" is checkable against the rows above — and in Hawaii it is in the penal code
+itself. *For the honest caution:* the survey's own conclusion is this section's existing warning,
+now with a citation — forty states have not adopted the doctrine; where adopted it is "limited,
+narrow, and concentrated," piecemeal, and in one state criminal-but-not-civil (at 292–94). *For
+the design argument:* the survey's remedy list — individual civil liability, liability without a
+mens rea requirement, uniformity, broad enforceability — is what this Act's SEC. 6, SEC. 1(a),
+the model-act form, and SEC. 10 respectively provide; the fragmentation the survey documents is
+the argument for a drafted uniform text rather than thirty years of case-by-case accretion. Two
+venue notes fall out: Connecticut's courts already extend the doctrine to any strict-liability
+public-welfare statute (*Celentano*) — a fact for [OPEN QUESTION 1](../audit/v3_5_cure_language.md);
+and Illinois pairs a "well-developed" judicial doctrine with the strongest enacted frontier
+statute, which sharpens § 5's Illinois entry. *Washington's* McNamara formulation — ability to
+prevent or correct — is SEC. 6(e)'s own phrase, in a state appellate holding.
+
+
+
 ---
 
 ## 5. Where this lands first — a reading of the 2026 map, added 23 August

@@ -214,9 +214,15 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | DOJ release, Jensen guilty pleas (D. Colo.) | **Retrieved 23 Aug** (justice.gov, ⚠ R) | the gallery's escape section |
 | NPR, Schmidt sentencing (6 Dec 2017) | **Retrieved 23 Aug** (⚠ R) | the gallery's escape section |
 | NY S 10456 (Gounardes, 15 May 2026) | **Primary full text in hand, 23 Aug** (one-section bill, nysenate.gov page supplied) — fixes RAISE's citation: GBL Article 44-B, ch. 96 of 2026 | census queue |
+| 42 C.F.R. § 73.11 (select-agent security plans) | **Elements summarised from the eCFR, 23 Aug** (⚠ R); full-text read pending before any quotation beyond the summarised elements | [the fatals pass](../audit/v3_5_cure_language.md) (CURE 10, CURE 7) |
+| Idaho H.B. 720 (2022), Idaho Code § 5-346 | **Operative sentence retrieved verbatim, 23 Aug** (legislature.idaho.gov PDF, ⚠ R) | CURE 19 |
+| Utah H.B. 249 (2024) | Identified via Liebman extract; text not opened | CURE 19 |
+| Tennessee SB 837 / HB 849 (114th G.A.) | Identified (trackbill; local coverage); **enrolled text not in hand** — capitol PDF blocks automated retrieval; pull manually | CURE 19 |
+| Liebman, 61 Wake Forest L. Rev. 115 (2026) | Extract retrieved 23 Aug (⚠ R); full PDF wanted for the shelf | CURE 19 |
 | 33 U.S.C. § 1319(c)(6) | **Retrieved verbatim, 23 Aug** (uscode.house.gov, ⚠ R) | [comparative § 5](../standards/comparative_officer_liability.md) |
 | 42 U.S.C. § 7413(c)(6) | **Retrieved verbatim, 23 Aug** (LII, ⚠ R) | comparative § 5 |
 | Lyness, 64 B.C. L. Rev. 253 (2023) | **In hand (shelf); TOC, abstract and Part II §§ A–B read 23 Aug**; Parts III–V unread — the state-by-state survey awaits [for legislators § 4](../standards/for_legislators.md) | comparative § 5 |
+| Lyness — read-status upgrade, same evening | **Part III read in full** (the ten-state survey, pp. 277–93); Parts IV–V remain unread | [for legislators § 4 build-out](../standards/for_legislators.md); the fatals pass |
 | Hustis & Gotanda, 25 Loy. U. Chi. L.J. 169 (1994) | **In hand (shelf); title pages and introduction read 23 Aug**; body unread | comparative § 5 |
 | CRS-type report, "Enforcement of Federal Pollution Control Laws" | **In hand (shelf); unread** — nothing cites it yet | — |
 | DLA Piper, *AI Laws of the World* handbook | **In hand (shelf); unread** — nothing cites it yet | — |

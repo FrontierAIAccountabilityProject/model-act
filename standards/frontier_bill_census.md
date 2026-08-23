@@ -878,6 +878,13 @@ opened)*:
 - [ ] **Idaho and Tennessee — the AI-personhood-denial acts** (CDT) — statutes providing AI
   systems are not legal persons. Bill numbers to confirm; primary texts unopened; used at
   [known objections](../docs/known_objections.md) at the surveyor's grade only.
+  **Update, same evening:** mostly resolved, with two corrections to the surveyor. Idaho is
+  **H.B. 720 (2022)** — not a 2026 act — Idaho Code § 5-346, operative sentence retrieved
+  verbatim. **Utah H.B. 249 (2024)** joins the enacted set (the surveyor omitted it here).
+  Tennessee is **SB 837 / HB 849** (114th G.A.), identified, enrolled text still to pull. North
+  Dakota proposed and then amended the ban away — a caution against overcounting. Scholarly map:
+  Liebman, 61 Wake Forest L. Rev. 115 (2026). Rows on these enter when the remaining texts are
+  opened; [CURE 19](../audit/v3_5_cure_language.md) carries the drafting consequence.
 
 **Then the rest, by state.** ⚠ *Counts below are the tracker's and are known to be unreliable:
 California and Illinois each had a bill listed twice, New York's list showed seven bills under a

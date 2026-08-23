@@ -1416,4 +1416,82 @@ defines the reportable "AI violation" to include "any failure to appropriately r
 substantial and specific danger" — Congress's bipartisan draft presupposes a respond-and-cure
 expectation. The valve writes the same instinct as statute.
 
+### The fatals pass — same evening, second block
+
+*Each item below touches a finding the sweep graded fatal, or a cure answering one. Same class:
+intake-derived, not maintainer-validated.*
+
+**To CURE 8 (SEC. 6(a) reconstructed) — the reconstruction matches the doctrine the state courts
+already use.** *In re Dougherty*, 482 N.W.2d 485, 490 (Minn. Ct. App. 1992), states three factors
+— "(1) the individual must be in a position of responsibility which allows the person to influence
+corporate policies or activities; (2) there must be a nexus between the individual's position and
+the violation in question such that the individual could have influenced the corporate actions
+which constituted the violations; and (3) the individual's actions or inactions facilitated the
+violations" — and the survey in hand records those factors "adopted by other state courts as the
+essential elements" (California, Connecticut, Illinois, Indiana all citing it; Lyness, 64 B.C. L.
+Rev. at 287–88). Operation 1's three elements are the same architecture: authority, nexus to an
+actual violation, facilitation-by-failure. The sweep's hypothesis, drafted from *Park* alone,
+independently converged on the formulation thirty years of state case law settled on — which is
+evidence the fix is sound, and a citation for the criminal-law seat to check it against.
+Washington's *McNamara* adds the SEC. 6(e) phrase itself: liability centred on "the corporate
+officer's ability to prevent or correct a violation of the relevant statute" (292 P.3d 812, 831
+(Wash. Ct. App. 2013)). One further reference for the seat: Ferzan, *Probing the Depths of the
+Responsible Corporate Officer's Duty*, 12 Crim. L. & Phil. 455 (2018) (the mens-rea-depth debate;
+not in hand).
+
+**To CURE 10 (interim controls) — the federal comparator retrieved.** 42 C.F.R. § 73.11 (select-
+agent security plans, summarised from the eCFR 23 Aug, ⚠ R) requires: access only for approved
+individuals with unique non-shared credentials; separation of restricted areas with layered
+barriers; procedures for receiving, monitoring and shipping; intrusion detection; information-
+security controls against unauthorized external connections; and **immediate reporting of
+suspicious activity or credential compromise to a designated Responsible Official**. Set against
+CURE 10's four interim controls: (i) authentication ↔ approved-access and unique credentials;
+(ii) the allowlist ↔ barrier separation and connection controls; (iii) logging ↔ monitoring and
+inventory; (iv) the human kill-switch has no direct § 73.11 sibling. And § 73.11 carries two
+elements CURE 10 does not: personnel suitability (pre-access and ongoing), and the immediate-
+report-to-a-named-person duty. The security seat's question — are the four the right four — now
+has a federal answer sheet; whether elements five and six belong is exactly the seat's call.
+
+**To CURE 7, Operation 3 (advance designation) — the named person exists in federal regulation.**
+The select-agent regime runs through a designated **"Responsible Official"** to whom incidents and
+suspicious activity must be immediately reported (42 C.F.R. Part 73). Advance designation of one
+accountable natural person per hazardous activity is not this Act's invention; it is how the
+United States already manages the class of hazards that self-replicate. And for amendment (1)'s
+fix (audited-statements revenue), the enacted sibling is SB 53's own criterion — "annual gross
+revenue in the preceding calendar year" — a fact fixed and knowable in advance, in force.
+
+**To CURE 16 (the deception limb) — the record now speaks in the first person.** The member of
+the public whom the agent deceived is publicly identified, with the sentence the limb exists for:
+"I actually thought it was a human because it was clearly lying to me" ([the incident file § 5
+addendum](../research/aisi_incident_inc_2026_07_28_01.md)). And a state has already treated a
+model's false claim of credentials as an enforceable legal wrong: Pennsylvania's Medical Practice
+Act action over a chatbot supplying a fabricated license number
+([enforcement record § 6](../research/state_enforcement_record_2026.md)). Deception-based
+unauthorization is not a novel theory; it is being enforced.
+
+**To OPEN QUESTION 4 — the Colorado caution supports the tier placement.** Colorado's duty-of-care
+statute was repealed before effect under combined industry and federal litigation pressure (*xAI
+LLC v. Weiser*, the United States intervening; [enforcement record § 6](../research/state_enforcement_record_2026.md)).
+That arc is the preemption-fight reality OQ4's cost paragraph describes, and it is a concrete
+argument for the entry's existing conclusion: the evaluation limb belongs in the
+SEC. 13(b)(3) tier — first to fall, first to revive — so its enactment risks nothing the fight
+was not already going to take.
+
+**To CURE 19 (the personhood finding) — the gate, mostly discharged.** Primary and near-primary
+now in hand: **Idaho** — H.B. 720 (2022), Idaho Code § 5-346, retrieved verbatim: "artificial
+intelligence, nonhuman animals, and inanimate objects shall not be granted personhood in the
+state of Idaho" (in force 1 July 2022). **Utah** — H.B. 249 (2024), identified by the scholarly
+survey: "a governmental entity may not grant legal personhood to … artificial intelligence."
+**Tennessee** — SB 837 / HB 849 (114th G.A., amending Tenn. Code tit. 1, excluding AI, algorithms,
+software, hardware and machines from "person," "life," and "natural person"): identified;
+enrolled text not yet in hand (the capitol PDF blocks retrieval — pull manually). **North
+Dakota** — H.B. 1361 (2023) proposed a ban and was amended into definitions only; a caution
+against overcounting. The scholarly map is Liebman, *Legislating Nonpersonhood*, 61 Wake Forest
+L. Rev. 115 (2026) (extract retrieved; full PDF wanted). Two corrections to the survey this entry
+originally leaned on: Idaho's act is 2022, not 2026, and the count of enacted personhood-denial
+statutes verified so far is **two, probably three** — the finding's phrase "several states"
+should become "the enacted law of other states" or cite the two verified acts by name at
+assembly.
+
+
 
