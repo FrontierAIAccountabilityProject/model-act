@@ -3,6 +3,10 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, format only.** REVIEWERS.md's five lane briefs converted from
+prose to per-lane tables (same six rows each; substance, links, and questions unchanged), per that
+page's own maintenance rule. No change to the tagged statute or to any other file's content.
+
 **Between versions — 23 August 2026, the research sweep.** No change to the tagged statute. The
 day's intake entered at its owners: the enacted-family primary texts reached the shelf (CA SB 53,
 IL P.A. 104-0538, CT P.A. 26-15, H.R. 8094, S. 1792 read in full); the escape-crime gallery

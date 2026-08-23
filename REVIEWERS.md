@@ -117,101 +117,65 @@ sweep is wrong is the most valuable disposition this project can receive, becaus
 it. *Numbering note: "v3.4 cures" are the sealed set, already landed and diffable; "CURE 8–16" are
 sweep-derived and expressly not maintainer-drafted; open questions are decisions, not defects.*
 
-*Criminal law* — the statute's SEC. 1, 4, 5–6, and 10(b)–(c); v3.4 cures 2, 5, and 13; the penalty
-and harm-tier chunks of [the record](./audit/record.md#chunk-3). **What the sweep says, all of it
-contestable:** SEC. 6(a) **cannot be pleaded** — no element requires that a SEC. 5 violation
-occurred, nothing connects the due-care failure to it, and "the relevant risk" has no antecedent in
-the section; SEC. 5(d) is a **strict-liability false-statement crime** whose own drafting note cites
-a statute requiring knowledge; SEC. 6(b)(2) attaches a felony with no fault element; SEC. 6(e)
-silently widens the "practical power" SEC. 4(a) narrowed; SEC. 6(d) deletes *Park*'s production
-burden, which may be why the offense would never be charged. **Drafted in response:** CUREs 8, 11,
-12. **Your questions:** is the reconstructed SEC. 6(a) chargeable; is due care as an element the
-right cure for the *Alleyne* problem; does the restored burden survive; is CURE 1's answer (one
-injury definition, not two) right; and the two the sweep could not settle — whether a state's
-suspended-sentence law defeats the harm-tier minimum, and whether per-victim counting survives the
-state's merger doctrine.
-**Your shelf:** the statute · the sweep's criminal section · CUREs 1, 8, 11, 12 ·
-[comparative officer liability](./standards/comparative_officer_liability.md) · the companion where
-the lane points. *Donor material added 23–24 Aug:* CURE 8's reconstruction now sits beside the
-*Dougherty* three-factor formulation the state courts adopted (the queue's fatals pass;
-[comparative § 5](./standards/comparative_officer_liability.md)) — checking one against the other
-is the fastest version of your first question.
+*Each lane is one table, same six rows: what you read, what the sweep found there, what has been
+drafted in answer, the questions that are yours, the shelf, and the donor material the intake of
+23–24 August added. Substance unchanged from the prose version this replaces; the changelog has
+the date.*
 
-*Enforcement and prosecution* — SEC. 5, 9, 10, and 12; [chunk 3](./audit/record.md#chunk-3) and
-[chunk 5](./audit/record.md#chunk-5) of the record. **What the sweep says:** **OPEN QUESTION 4 is
-the most consequential item in the repository** — SEC. 2(a)'s "and not otherwise" and SEC. 1(c)
-tether every duty to in-state deployment, while the 2026 incidents were *evaluation* conduct,
-mostly offshore, so five of six fall outside the Act at the threshold. Also: SEC. 5(e) criminalises
-refusing a demand **no provision authorises**; SEC. 5(b), the only offense matching the conduct, is
-rule-gated into year four; SEC. 9(b)'s clock is unprovable against the real timelines and rewards
-certifying less monitoring; SEC. 3(c)(2)(D) makes the honest filer the easier defendant. **Drafted
-in response:** CUREs 9, 10, 14, 15, 16, and OQ4's amendment. **Your questions:** would you charge
-any of this; does the OQ4 amendment reach too far extraterritorially; are the four interim controls
-at CURE 10 the right four; and what does an attorney general's office actually do with this in year
-one.
-**Your shelf:** the statute · the sweep's enforcement section · OPEN QUESTION 4 ·
-[the state enforcement record](./research/state_enforcement_record_2026.md) · record chunks 3 and 5.
-*Donor material added 23–24 Aug (the queue's fatals pass):* the select-agent comparator for CURE
-10's four controls; a named public witness and an enforced state theory for CURE 16; the Colorado
-repeal arc for OQ4's tier placement.
+### Criminal law
 
-*Frontier security* — [the regulations](./model_regulations_v1_draft.md) as the primary text, then
-SEC. 2, 3, and 9(a); v3.4 cures 11, 12, and 14. **What the sweep says, and note that this lane's
-fixes are *not* drafted:** the safeguards-disabled evaluation with external reach falls into a hole
-between SEC. 2(c) and SEC. 2(a), so **nothing in the Act reaches the most dangerous configuration
-in the 2026 record**; and Part 6's control objectives are process without substance — the incident
-record names five contributing factors, none of them a model property, and **the intersection with
-Part 6's six objectives is empty**. Also flagged: the halt capability is specified in hours against
-a kill chain that completes in minutes; the monitoring objective permits the very asynchronous
-review that produced the detection gap; nothing requires proof of what was actually serving.
-**Your questions:** where would practice laugh; should disabling a safeguard for an evaluation
-carry a duty, including the case *against*; and what six control objectives would you write
-instead.
-**Your shelf:** the regulations' Part 6 · the sweep's security section ·
-[the AISI incident file](./research/aisi_incident_inc_2026_07_28_01.md) ·
-[the watch § 8](./audit/standing_watch_2026-08-20.md) · SEC. 2, 8, and 9 of the statute. *Donor material added 23 Aug:* 42 C.F.R. §§ 73.11 and 73.19 — the select-agent security-plan
-and escape-notification pattern, the federal template for "secure and isolated" written down
-([the gallery's escape section](./standards/the_same_conduct.md#when-the-escaped-thing-was-the-crime));
-your "what six objectives would you write instead" now has a federal answer sheet to mark against.
+| | |
+|---|---|
+| **Your text** | SEC. 1, 4, 5–6, and 10(b)–(c) of the statute · v3.4 cures 2, 5, and 13 · the penalty and harm-tier chunks of [the record](./audit/record.md#chunk-3) |
+| **The sweep's findings** *(all contestable)* | SEC. 6(a) **cannot be pleaded** — no element requires that a SEC. 5 violation occurred, nothing connects the due-care failure to it, and "the relevant risk" has no antecedent in the section · SEC. 5(d) is a **strict-liability false-statement crime** whose own drafting note cites a statute requiring knowledge · SEC. 6(b)(2) attaches a felony with no fault element · SEC. 6(e) silently widens the "practical power" SEC. 4(a) narrowed · SEC. 6(d) deletes *Park*'s production burden, which may be why the offense would never be charged |
+| **Drafted in response** | CUREs 8, 11, 12 |
+| **Your questions** | (1) Is the reconstructed SEC. 6(a) chargeable? (2) Is due care as an element the right cure for the *Alleyne* problem? (3) Does the restored burden survive? (4) Is CURE 1's answer — one injury definition, not two — right? (5–6) The two the sweep could not settle: does a state's suspended-sentence law defeat the harm-tier minimum, and does per-victim counting survive the state's merger doctrine? |
+| **Your shelf** | the statute · the sweep's criminal section · CUREs 1, 8, 11, 12 · [comparative officer liability](./standards/comparative_officer_liability.md) · the companion where the lane points |
+| **Donor, 23–24 Aug** | CURE 8's reconstruction now sits beside the *Dougherty* three-factor formulation the state courts adopted (the queue's fatals pass; [comparative § 5](./standards/comparative_officer_liability.md)) — checking one against the other is the fastest version of your first question |
 
-*Open source and academia* — SEC. 1(b)(9) and 1(b)(1), SEC. 2's modification budget; v3.4 cures 1,
-9, and 16. **What the sweep says:** SEC. 1(b)(1)(B)'s "does not, standing alone, **extend a
-lineage**" is undefined in a criminal scope term, and the hostile reading covers every fine-tune of
-every open-weight frontier model; the interim standards apply with the enacting states' revenue
-screens **deliberately stripped**, to a criminally enforced duty, from day 180; SEC. 2(c) excludes
-the agentic and tool-use research it most needs to protect; SEC. 8's personal certification
-**survives inside** SEC. 2(c), so a university president must personally certify before a lab may
-stand up a contained instance; SEC. 10(d)(2) suspension reaches every downstream in-state operator
-of a released open-weight model. **Drafted in response:** CURE 13 only — the rest are unfixed.
-**Your questions:** is the severance rule right; is the [10^24] floor in the right place for 2026
-hardware; and would your institution's counsel permit a SEC. 2(c) deployment as drafted.
-**Your shelf:** SEC. 1(b) and 2(c) of the statute · the sweep's open-source section · CURE 6 and
-its amendment block · [the definition](./docs/the_definition.md). *Donor material added 24 Aug:*
-the lineage-counting rule your lane attacks now has a bipartisan federal sibling — H.R. 8094
-counts original run plus fine-tuning, RL and material modification above the same 10²⁶ line
-([the definition](./docs/the_definition.md); the census row) — which reframes, without settling,
-both the [10^24]-floor question and CURE 13.
+### Enforcement and prosecution
 
-*Fiscal and administration* — [the fiscal note](./standards/fiscal_note.md) as the primary text,
-then SEC. 10(a) and (f), SEC. 11, SEC. 3; [chunk 3](./audit/record.md#chunk-3), part D. **What the
-sweep says, none of it yet fixed:** the note carries **no dollar figure anywhere**, which is honest
-and administratively fatal, because "indeterminate" is the label that sends a bill to interim
-study; steady state exceeds startup, which is impossible on the statute's own clock; there is **no
-line for defending the Act**, though a first adopter's largest year-one legal cost is a
-pre-enforcement facial challenge; there is no corrections or judiciary impact section, which some
-states require before a felony bill is considered at all; the function table omits at least eight
-duties, including frontier-equivalent capability designation, the most technically demanding act in
-the Act; and the whistleblower award is a mandatory entitlement on a fund that may be permanently
-empty. The standing fiscal rule to hold us to: enforcement is never sold as self-funding, penalties
-are never booked as revenue, and startup costs are stated apart from steady state. **Your
-questions:** is a note with no numbers reportable in your state; what would you need to make it so;
-and should CURE 7 be sequenced to v4 on administrability grounds, as the sweep's fiscal lane
-recommends and the maintainer has not accepted.
-**Your shelf:** the fiscal note · the sweep's fiscal section · SEC. 3, 10(f), and 12 of the
-statute · record chunk 3, part D. *Donor material added 23 Aug:* the penalty brackets now carry enacted siblings
-([bracketed matter](./standards/bracketed_matter.md) — CA/NY/IL all at \$1M), and the opposition's
-own cost claim — compliance "verifiable in seconds" — is logged at
-[the fiscal note § 5](./standards/fiscal_note.md).
+| | |
+|---|---|
+| **Your text** | SEC. 5, 9, 10, and 12 · [chunk 3](./audit/record.md#chunk-3) and [chunk 5](./audit/record.md#chunk-5) of the record |
+| **The sweep's findings** | **OPEN QUESTION 4 is the most consequential item in the repository** — SEC. 2(a)'s "and not otherwise" and SEC. 1(c) tether every duty to in-state deployment, while the 2026 incidents were *evaluation* conduct, mostly offshore, so five of six fall outside the Act at the threshold · SEC. 5(e) criminalises refusing a demand **no provision authorises** · SEC. 5(b), the only offense matching the conduct, is rule-gated into year four · SEC. 9(b)'s clock is unprovable against the real timelines and rewards certifying less monitoring · SEC. 3(c)(2)(D) makes the honest filer the easier defendant |
+| **Drafted in response** | CUREs 9, 10, 14, 15, 16, and OQ4's amendment |
+| **Your questions** | (1) Would you charge any of this? (2) Does the OQ4 amendment reach too far extraterritorially? (3) Are the four interim controls at CURE 10 the right four? (4) What does an attorney general's office actually do with this in year one? |
+| **Your shelf** | the statute · the sweep's enforcement section · OPEN QUESTION 4 · [the state enforcement record](./research/state_enforcement_record_2026.md) · record chunks 3 and 5 |
+| **Donor, 23–24 Aug** | From the queue's fatals pass: the select-agent comparator for CURE 10's four controls · a named public witness and an enforced state theory for CURE 16 · the Colorado repeal arc for OQ4's tier placement |
+
+### Frontier security
+
+| | |
+|---|---|
+| **Your text** | [the regulations](./model_regulations_v1_draft.md) as the primary text, then SEC. 2, 3, and 9(a) · v3.4 cures 11, 12, and 14 |
+| **The sweep's findings** *(this lane's fixes are* not *drafted)* | The safeguards-disabled evaluation with external reach falls into a hole between SEC. 2(c) and SEC. 2(a), so **nothing in the Act reaches the most dangerous configuration in the 2026 record** · Part 6's control objectives are process without substance — the incident record names five contributing factors, none a model property, and **the intersection with Part 6's six objectives is empty** · the halt capability is specified in hours against a kill chain that completes in minutes · the monitoring objective permits the very asynchronous review that produced the detection gap · nothing requires proof of what was actually serving |
+| **Drafted in response** | Nothing — **the seat is the response** |
+| **Your questions** | (1) Where would practice laugh? (2) Should disabling a safeguard for an evaluation carry a duty — including the case *against*? (3) What six control objectives would you write instead? |
+| **Your shelf** | the regulations' Part 6 · the sweep's security section · [the AISI incident file](./research/aisi_incident_inc_2026_07_28_01.md) · [the watch § 8](./audit/standing_watch_2026-08-20.md) · SEC. 2, 8, and 9 of the statute |
+| **Donor, 23 Aug** | 42 C.F.R. §§ 73.11 and 73.19 — the select-agent security-plan and escape-notification pattern, the federal template for "secure and isolated" written down ([the gallery's escape section](./standards/the_same_conduct.md#when-the-escaped-thing-was-the-crime)); your question (3) now has a federal answer sheet to mark against |
+
+### Open source and academia
+
+| | |
+|---|---|
+| **Your text** | SEC. 1(b)(9) and 1(b)(1), SEC. 2's modification budget · v3.4 cures 1, 9, and 16 |
+| **The sweep's findings** | SEC. 1(b)(1)(B)'s "does not, standing alone, **extend a lineage**" is undefined in a criminal scope term, and the hostile reading covers every fine-tune of every open-weight frontier model · the interim standards apply with the enacting states' revenue screens **deliberately stripped**, to a criminally enforced duty, from day 180 · SEC. 2(c) excludes the agentic and tool-use research it most needs to protect · SEC. 8's personal certification **survives inside** SEC. 2(c), so a university president must personally certify before a lab may stand up a contained instance · SEC. 10(d)(2) suspension reaches every downstream in-state operator of a released open-weight model |
+| **Drafted in response** | CURE 13 only — the rest are unfixed |
+| **Your questions** | (1) Is the severance rule right? (2) Is the [10^24] floor in the right place for 2026 hardware? (3) Would your institution's counsel permit a SEC. 2(c) deployment as drafted? |
+| **Your shelf** | SEC. 1(b) and 2(c) of the statute · the sweep's open-source section · CURE 6 and its amendment block · [the definition](./docs/the_definition.md) |
+| **Donor, 24 Aug** | The lineage-counting rule your lane attacks now has a bipartisan federal sibling — H.R. 8094 counts original run plus fine-tuning, RL and material modification above the same 10²⁶ line ([the definition](./docs/the_definition.md); the census row) — which reframes, without settling, both the [10^24]-floor question and CURE 13 |
+
+### Fiscal and administration
+
+| | |
+|---|---|
+| **Your text** | [the fiscal note](./standards/fiscal_note.md) as the primary text, then SEC. 10(a) and (f), SEC. 11, SEC. 3 · [chunk 3](./audit/record.md#chunk-3), part D |
+| **The sweep's findings** *(none yet fixed)* | The note carries **no dollar figure anywhere** — honest, and administratively fatal, because "indeterminate" is the label that sends a bill to interim study · steady state exceeds startup, impossible on the statute's own clock · **no line for defending the Act**, though a first adopter's largest year-one legal cost is a pre-enforcement facial challenge · no corrections or judiciary impact section, which some states require before a felony bill is considered at all · the function table omits at least eight duties, including frontier-equivalent capability designation, the most technically demanding act in the Act · the whistleblower award is a mandatory entitlement on a fund that may be permanently empty |
+| **Drafted in response** | Nothing — **the seat is the response.** The standing fiscal rule to hold us to: enforcement is never sold as self-funding, penalties are never booked as revenue, and startup costs are stated apart from steady state |
+| **Your questions** | (1) Is a note with no numbers reportable in your state? (2) What would you need to make it so? (3) Should CURE 7 be sequenced to v4 on administrability grounds, as the sweep's fiscal lane recommends and the maintainer has not accepted? |
+| **Your shelf** | the fiscal note · the sweep's fiscal section · SEC. 3, 10(f), and 12 of the statute · record chunk 3, part D |
+| **Donor, 23 Aug** | The penalty brackets now carry enacted siblings ([bracketed matter](./standards/bracketed_matter.md) — CA/NY/IL all at \$1M) · the opposition's own cost claim — compliance "verifiable in seconds" — is logged at [the fiscal note § 5](./standards/fiscal_note.md) |
 
 ## Filing a disposition
 
