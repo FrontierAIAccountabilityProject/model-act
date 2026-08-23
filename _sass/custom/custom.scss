@@ -61,16 +61,18 @@ html {
 // specific than a bare selector, so match it and let the header grow.
 .side-bar .site-header,
 .site-header {
-  height: auto;
-  max-height: none;
-  min-height: 0;
+  height: auto !important;
+  max-height: none !important;
+  min-height: 0 !important;
+  overflow: visible !important;
 }
 .side-bar .site-title,
 .site-title {
   white-space: normal;
-  line-height: 1.3;
-  padding-top: 1.1rem;
-  padding-bottom: 0.8rem;
+  font-size: 1.05rem !important;
+  line-height: 1.35;
+  padding-top: 1rem;
+  padding-bottom: 0.75rem;
   font-weight: 700;
   color: #141519;
 }

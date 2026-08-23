@@ -1,4 +1,4 @@
-// Statute — the site's one color scheme. Paper and ink, with a single institutional
+// Statute — the site's one color scheme, kept deliberately plain: white page, neutral
 // spruce — the exact complement of law-report maroon — spent almost entirely on links. No second accent, no decoration: the register
 // of law-report and legislative-counsel printing, not of a product page.
 @import "./color_schemes/light";
@@ -8,10 +8,10 @@ $body-text-color: #141519;       // ink: near-black, one step darker for authori
 $body-heading-color: #141519;
 $link-color: #1f6a5b;            // spruce — the exact complement of law-report maroon, darkened one step for contrast
 $btn-primary-color: #1f6a5b;
-$sidebar-color: #f3f1eb;         // the apparatus margin: off-grey, clearly not the page
-$border-color: #e2ded4;         // hairlines, not boxes
+$sidebar-color: #fafafa;         // the apparatus margin: neutral grey, no warmth
+$border-color: #e4e4e4;        // hairlines, not boxes
 $search-background-color: #ffffff;
-$search-result-preview-color: #4c5566;
+$search-result-preview-color: #57606a;
 $table-background-color: #ffffff;
-$code-background-color: #f4f2ec; // statute blocks and the file tree
-$feedback-color: #efede7;
+$code-background-color: #f6f6f6; // statute blocks and the file tree
+$feedback-color: #f0f0f0;
