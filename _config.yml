@@ -29,34 +29,45 @@ aux_links:
     - "https://github.com/FrontierAIAccountabilityProject/model-act"
 footer_content: "Public domain (CC0) · v3.4 tagged, checksums in the ledger · This site mirrors the repository; the repository is the authoritative record."
 
-# The sidebar lists only the reading surfaces (the docs chapters, the packets, the
-# reviewer page, the map). Everything else stays one search or one link away — and
-# search indexes the whole repository except superseded texts and the frozen record.
+# The sidebar is a curated reading order, ten entries, not a directory listing:
+# the reviewer page, the packets, the long documents, the glossary, the map.
+# Everything else stays one search or one link away. Each entry is named by exact
+# path — the matcher takes whole paths, not prefixes.
 defaults:
   - scope:
       path: ""
     values:
       nav_exclude: true
   - scope:
-      path: "docs"
-    values:
-      nav_exclude: false
-  - scope:
-      path: "docs/0"          # the retired numbered signpost cards stay out of the sidebar
-    values:
-      nav_exclude: true
-  - scope:
-      path: "packets"
-    values:
-      nav_exclude: false
-  - scope:
       path: "REVIEWERS.md"
-    values:
-      nav_exclude: false
+    values: { nav_exclude: false, nav_order: 1 }
+  - scope:
+      path: "packets/README.md"
+    values: { nav_exclude: false, nav_order: 2 }
+  - scope:
+      path: "packets/criminal_law.md"
+    values: { nav_exclude: false, nav_order: 3 }
+  - scope:
+      path: "docs/the_case.md"
+    values: { nav_exclude: false, nav_order: 4 }
+  - scope:
+      path: "docs/the_statute_translated.md"
+    values: { nav_exclude: false, nav_order: 5 }
+  - scope:
+      path: "docs/questions.md"
+    values: { nav_exclude: false, nav_order: 6 }
+  - scope:
+      path: "docs/the_definition.md"
+    values: { nav_exclude: false, nav_order: 7 }
+  - scope:
+      path: "docs/known_objections.md"
+    values: { nav_exclude: false, nav_order: 8 }
+  - scope:
+      path: "standards/what_these_words_mean.md"
+    values: { nav_exclude: false, nav_order: 9 }
   - scope:
       path: "MAP.md"
-    values:
-      nav_exclude: false
+    values: { nav_exclude: false, nav_order: 10 }
   - scope:
       path: "archive"         # superseded versions: reachable by link, never by search
     values:

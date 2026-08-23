@@ -58,6 +58,19 @@ html {
   font-variant-numeric: tabular-nums;
 }
 
+// The sidebar title runs to three lines; the theme allots it a fixed height and
+// clips the overflow. Let the header grow to fit its title at every width.
+.site-header {
+  height: auto;
+  min-height: 0;
+}
+.site-title {
+  white-space: normal;
+  line-height: 1.3;
+  padding-top: 1rem;
+  padding-bottom: 0.75rem;
+}
+
 // Nothing moves on hover. Hover may recolor or thicken an underline — both
 // layout-neutral — but text never widens, bolds, or reflows under the cursor,
 // and selection for copying and highlighting stays calm and predictable.
