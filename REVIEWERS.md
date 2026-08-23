@@ -213,6 +213,42 @@ beyond the written disposition. A reviewer will not be quoted as supporting the 
 reviewer's written disposition. The request is limited: provide an expert assessment that can be
 published under the reviewer's name.
 
+
+## The state of play — every open item, one line each
+
+*This table is the whole open programme. The [drafting file](./audit/v3_5_cure_language.md) behind
+it is a working record — HOLDs, amendment blocks, entries in working order — and nobody is asked to
+read it top to bottom: come here, pick your lane's rows, follow the links you need. States:
+**DECISION** — the maintainer owes a call; **HELD** — a question awaiting a seat; **DRAFTED** —
+language written and checked; **⚠ AMEND FIRST** — drafted, but the sweep requires named amendments
+before it may land; **HYPOTHESIS** — sweep-derived language, expressly not settled drafting;
+**NO DRAFTED RESPONSE** — the honest state, and why that lane's seat matters most.*
+
+| Item | In one line | State | Lane |
+|---|---|---|---|
+| [OPEN QUESTION 1](./audit/v3_5_cure_language.md#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) | Does Connecticut become a fourth interim standard? Recommendation on file: exhibit, not adopted. | **DECISION owed at v3.5** | criminal law |
+| [OPEN QUESTION 2](./audit/v3_5_cure_language.md#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) | Does the duty reach an evaluation run with safeguards disabled? Largely disposed if OQ4's amendment lands. | **HELD** | security · criminal law |
+| [OPEN QUESTION 3](./audit/v3_5_cure_language.md#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) | Third-party evaluator: does practical authority still run to the commissioning officer? | **HELD** | enforcement |
+| [OPEN QUESTION 4](./audit/v3_5_cure_language.md#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) | The Act does not reach the conduct it was written after — five of six incidents fall outside at the threshold. Amendment drafted. The single most important item. | **OPEN — amendment drafted** | enforcement · criminal · federalism |
+| [CURE 1](./audit/v3_5_cure_language.md#cure-1--serious-injury-source-moves-to-18-usc--1365h34) | Injury definition moves to 18 U.S.C. § 1365(h)(3)–(4) — reaches mental-faculty impairment; addendum maps the old definition's blind spot. | **DRAFTED (outside-answered)** | criminal law |
+| [CURE 2](./audit/v3_5_cure_language.md#cure-2--sec-13c-a-review-valve-on-the-suspension-order) | A review valve on the preemption suspension order, forward-only. | **DRAFTED** | federalism |
+| [CURE 3](./audit/v3_5_cure_language.md#cure-3--the-regulations-conformed-to-v34) | The regulations conformed to v3.4 (near-miss, signatories, cadence, header). | **DRAFTED** | mechanical |
+| [CURE 4](./audit/v3_5_cure_language.md#cure-4--sec-9a-the-two-characterisation-shaped-triggers-recast-as-observable-events) | The two characterisation-shaped reporting triggers recast as observable events (the VW defeat-device pattern). | **DRAFTED** | criminal · security |
+| [CURE 5](./audit/v3_5_cure_language.md#cure-5--sec-8-punctuation) | SEC. 8 punctuation. | **DRAFTED (mechanical)** | — |
+| [CURE 6](./audit/v3_5_cure_language.md#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) | Self-designation route into scope — a developer's own 'frontier' claim as a jurisdictional fact. | **DRAFTED — ⚠ 4 amendments required first (incl. a First Amendment question)** | open-source · constitutional |
+| [CURE 7](./audit/v3_5_cure_language.md#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) | The covered frontier enterprise — compute suppliers and scale conditions. | **DRAFTED — ⚠ 7 amendments required first; fiscal lane recommends sequencing to v4 (undecided)** | all lanes |
+| [CURE 8](./audit/v3_5_cure_language.md#cure-8--sec-6-the-individual-liability-offense-reconstructed) | SEC. 6 reconstructed so the central offense can be pleaded: predicate violation, nexus, Park's burden restored. | **HYPOTHESIS (sweep-derived)** | criminal law |
+| [CURE 9](./audit/v3_5_cure_language.md#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) | The records-demand authority the Act forgot to import (§ 331(e) without § 374). | **HYPOTHESIS (sweep-derived)** | enforcement |
+| [CURE 10](./audit/v3_5_cure_language.md#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) | Four interim controls so SEC. 5(b) is not dormant until year four. | **HYPOTHESIS (sweep-derived)** | enforcement · security |
+| [CURE 11](./audit/v3_5_cure_language.md#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) | Name the obligor; write the reporting duty in the active voice. | **HYPOTHESIS (sweep-derived)** | criminal law |
+| [CURE 12](./audit/v3_5_cure_language.md#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) | Restore the scienter SEC. 5(d)'s own donor requires. | **HYPOTHESIS (sweep-derived)** | criminal law |
+| [CURE 13](./audit/v3_5_cure_language.md#cure-13--sec-1b1b-say-sever-not-extend) | 'Sever,' not 'extend' — the open-weight fine-tune lineage fix. | **HYPOTHESIS (sweep-derived)** | open-source |
+| [CURE 14](./audit/v3_5_cure_language.md#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) | A detection clock that cannot be gamed, plus notice to the people whose systems were breached. | **HYPOTHESIS (sweep-derived)** | enforcement |
+| [CURE 15](./audit/v3_5_cure_language.md#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour) | A disclose-and-cure valve, because the text currently punishes candour. | **HYPOTHESIS (sweep-derived)** | enforcement |
+| [CURE 16](./audit/v3_5_cure_language.md#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) | A deception limb, because Van Buren excludes what actually happened. | **HYPOTHESIS (sweep-derived)** | enforcement |
+| Security-lane findings | The SEC. 2(c)/2(a) hole around safeguards-disabled evaluations; Part 6's control objectives as process without substance; halt timing; monitoring. | **NO DRAFTED RESPONSE — the seat is the response** | security |
+| Fiscal-lane findings | No dollar figures; no defence line; no corrections section; eight omitted duties; an entitlement on an empty fund. | **NO DRAFTED RESPONSE — the seat is the response** | fiscal |
+
 ## The whole repository
 
 Everything here — every file, in chapter order, with what each is for — is at

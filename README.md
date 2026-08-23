@@ -650,3 +650,7 @@ public drafting looks like. The complete account: [`LEDGER.md`](./LEDGER.md).
 
 Dedicated to the public domain under [CC0](./LICENSE). No permission or attribution is
 required.
+
+---
+
+*Reached the bottom and reviewing? The path, your lane, and the one-page state of play: [REVIEWERS.md](./REVIEWERS.md).*
