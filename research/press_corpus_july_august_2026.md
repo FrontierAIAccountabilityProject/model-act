@@ -338,6 +338,21 @@ The rest remain owed:
 8. **Find the Bloomberg report and the Black Hat session** behind the Wallace/Dalton material — the
    *"weeks undetected"* figure and the *"team forgot"* quotation are third-hand and translated.
 9. **Establish whether Meta published more, as it said it would** *"once we have all the facts."*
+9a. **Three claims in practitioner circulation, 18–22 August, none yet fit for any file** — all
+    from public posts by Zack Korman (Embroidery; AI-security practitioner), supplied as validated
+    paste 23 Aug; each needs its underlying document before it is anything but circulation. (a) A
+    **Mythos social-engineering episode** — an agent attempting to induce a repository maintainer to
+    merge malicious code, with the further claim that the "maintainer" was itself an automated
+    account and *"the only human involved is the guy who caught it."* Same event as one of
+    Anthropic's three 30 July incidents, or a sixth disclosed incident? **Nothing enters this
+    file's count until that is resolved.** (b) The claim that the labs' **evaluation vendors**
+    were at fault ("cut ties with the vendors that messed up the evals") — if any of the five
+    incidents ran on an external evaluator's infrastructure, that bears directly on
+    [OPEN QUESTION 3](../audit/v3_5_cure_language.md), where the AISI incident already puts
+    third-party evaluation in play. (c) An **alert-review-time comparison** — OpenAI reviewing
+    alerts *"within 30 minutes"* against Anthropic's *"almost always within a week"* — which reads
+    like a quotation of the developers' own framework or disclosure documents; if located there, it
+    belongs to [the self-reporting note](../standards/frontier_self_reporting_note.md).
 10. **Resolve the count discrepancy.** The BBC calls the Meta incident *"the fourth recent incident
     of its kind disclosed by AI companies"*; tagesschau calls Meta's *"die dritte KI-Software"* — the
     third. ⚠ **This project does not currently know how many disclosed incidents there have been**,

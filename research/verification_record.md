@@ -183,8 +183,8 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 |---|---|---|
 | UK AISI incident report INC-2026-07-28-01 (4 Aug) | **Read in full** | [its own file](./aisi_incident_inc_2026_07_28_01.md) — the record's one government-authored entry |
 | 15-state AG preservation letter (3 Aug) | **Read in full, 23 Aug** (five pages; held privately, outside the repository) | [enforcement record § 3](./state_enforcement_record_2026.md), graded against it |
-| Hugging Face technical timeline (27–28 Jul) | **Cited with detail; read-status unrecorded.** An earlier session may have read it in full; this record never logged it. Before any reliance beyond what the dossier already carries: fetch, read, and log here. | dossier ×3; the 17,000-actions figure also travels through the AG letter |
-| OpenAI incident statement (21 Jul) | Cited as the disclosure-order anchor; read-status unrecorded | dossier § disclosure order; enforcement record § 3 (as the letter's own link) |
+| Hugging Face technical timeline (27–28 Jul) | **Read in full, 22 Aug** — the read was recorded at [press corpus § 7](./press_corpus_july_august_2026.md) (item 5 discharge: the HF posts of 16 and 27 July "read as primaries"), invisible from here until this index existed. Conformed 23 Aug, one day after this table was built: the read existed; only its visibility was broken. | dossier ×3; press corpus timeline (~17,600 attacker actions); the AG letter quotes "more than 17,000" — consistent |
+| OpenAI incident statement (21 Jul) | **Read in full, 22 Aug** — same press corpus § 7 item 5 discharge (OpenAI and Anthropic disclosures "read as primaries") | dossier § disclosure order; enforcement record § 3 (as the letter's own link) |
 | Florida v. OpenAI filed complaint (1 Jun) | **Excerpt only** — full read gates any further quotation | [enforcement record § 1](./state_enforcement_record_2026.md) |
 | 42-state subpoena (12 Jun) | **Not public** — nothing may be attributed to its text | enforcement record § 2 |
 | The AG letter's own press base (Reuters 24 Jul; Tom's Hardware; BBC) | Cited via the letter's five embedded links, extracted 23 Aug | enforcement record § 3 |
