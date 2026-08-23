@@ -118,13 +118,13 @@ html {
 // The sidebar is a numbered reading order, and the number answers "where am I?" —
 // you are on 4 of 10. The current page carries a spruce rail and a firmer weight,
 // unmissable against the margin.
-.site-nav > .nav-list {
+.site-nav {
   counter-reset: navstep;
 }
-.site-nav > .nav-list > .nav-list-item {
+.site-nav .nav-list .nav-list-item {
   counter-increment: navstep;
 }
-.site-nav > .nav-list > .nav-list-item > .nav-list-link::before {
+.site-nav .nav-list .nav-list-item .nav-list-link::before {
   content: counter(navstep) " \00b7  ";
   color: #8a8676;
   font-variant-numeric: tabular-nums;
