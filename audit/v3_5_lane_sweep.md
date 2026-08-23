@@ -1,5 +1,7 @@
 # The lane sweep — an in-house pre-review, 22 August 2026
 
+*Arrived here from an invitation? This is step 2 of the reviewer path — the whole path, your lane's brief, and the terms: [REVIEWERS.md](../REVIEWERS.md). The whole repository, in chapter order: [the outline](../OUTLINE.md).*
+
 > **This is not a review, and nothing here may be described as one.** The project's standing rule
 > is that nobody, the maintainer included, may claim this text "survived review" until named
 > reviewers sign. This document does not change that. It is **issue-spotting**, run in-house with
