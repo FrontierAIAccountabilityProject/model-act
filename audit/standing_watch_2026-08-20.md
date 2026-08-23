@@ -189,6 +189,49 @@ list the order contemplated.
 
 ---
 
+## 8. Post-sweep intake, 23 August — two movements, both toward the testing room
+
+**8.1 OpenAI asks California to regulate models under evaluation.** OpenAI Global Affairs, 21
+August (LinkedIn; screenshot supplied 23 Aug as validated paste; post URL pending; Politico of 22
+August — "OpenAI calls for stronger AI laws in California" — corroborates, article pending):
+
+> "As California continues to lead on frontier safety, we are committed to working with the
+> California legislature and the Governor to strengthen California SB 53. We believe the law should
+> be amended to expand safeguards, including by requiring monitoring of frontier models under
+> training or evaluation for potential serious incidents, namely conduct that could bypass a third
+> party's security controls and compromise the third party's confidential information. We also
+> support strengthening cybersecurity protections throughout the model-development lifecycle,
+> specifically to prevent frontier models from circumventing internal security controls."
+
+Three things this does to open items. **First**, the asked-for trigger — conduct that could bypass
+a third party's security controls — is, nearly clause for clause, the trigger this Act already
+carries at SEC. 9(a) ("autonomous access by a covered system to protected third-party systems";
+"deception of safety or monitoring controls"). Section 4 above records that the federal drafters
+**dropped** that trigger from their draft; the developer whose evaluation escaped now asks a state
+to **add** it. Both facts are CURE 4 evidence, in opposite directions, and the second is the
+stronger. **Second**, "under training or evaluation" is the testing room: the largest developer has
+publicly endorsed evaluation-phase regulation, which is the territory
+[OPEN QUESTION 4](./v3_5_cure_language.md) asks whether the Act should reach — see the note filed
+there today. **Third**, the posture cuts against the industry-side administrability objection to
+CURE 6/monitoring duties: the objection must now explain why the duty is unworkable when its
+loudest proposed adopter is the party that would bear it. (The practitioner counter-position is
+already in circulation and belongs to the commentary corpus when it lands: compliance mandates as
+checkbox security; "impose massive penalties for incidents instead" — which is an argument *for*
+this Act's SEC. 10 side, made against its Part 6 side.)
+
+**8.2 A GAAIA co-drafter signals a federal disclosure push.** Rep. Lori Trahan — with Rep.
+Obernolte one of the two named drafters of the discussion draft in § 4 — posting on or about 22
+August (validated paste, post truncated; full thread owed): "AI models are breaking out of
+containment and hacking into other companies. To make matters worse, there's no federal law that
+requires the disclosure of these breaches whatsoever. Congress has a duty to protect Americans from
+the catastrophic risks of advanced AI, including …" A preemption-vehicle author asserting the
+absence of a federal disclosure law is watch-significant twice over: it is the premise of SEC. 9
+stated by a federal drafter, and it signals movement on the vehicle whose § 121 would suspend the
+Act's development-touching provisions. What follows the truncation is owed before anything cites
+this beyond the watch.
+
+---
+
 ## 7. What this sweep produced
 
 1. **CURE 4** entered in `audit/v3_5_cure_language.md` — the SEC. 9(a) recast, promoted

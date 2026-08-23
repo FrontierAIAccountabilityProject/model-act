@@ -201,6 +201,17 @@ side, and is a precondition to any useful answer to OPEN QUESTION 3.
 **Administrative load:** widens the population of duty-holders to include developers commissioning
 offshore evaluations; no new rulemaking.
 
+**New since filing, 23 August — the territory moved toward the Act, twice.** The fifteen-state
+preservation letter, now read in full ([enforcement record § 3](../research/state_enforcement_record_2026.md)),
+demands that OpenAI "immediately cease and desist" from the evaluation class at issue — sitting
+officers asserting a protective interest in the testing room on general-law theories. And OpenAI
+itself now asks California to amend SB 53 to require "monitoring of frontier models under training
+or evaluation for potential serious incidents" ([standing watch § 8](./standing_watch_2026-08-20.md))
+— the developer of the escaped evaluation endorsing evaluation-phase duties, in nearly the clause
+this Act carries at SEC. 9(a). Neither settles the preemption cost recorded above (an evaluation
+limb still widens the § 121(b) surface, and belongs in the SEC. 13(b)(3) tier); both strip the
+question of its "no one regulates the testing room" premise.
+
 **Status: open. For the enforcement, criminal-law and federalism lanes jointly. The single most
 important item in this queue.**
 
