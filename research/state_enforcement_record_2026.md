@@ -9,8 +9,9 @@ what none of them holds: the enforcement actions themselves, and what they estab
 questions the [v3.5 queue](../audit/v3_5_cure_language.md) holds open.*
 
 *Sourcing per the register's rule ([E22, E32](../ledger/errata.md)): every quotation below sits in
-source text retrieved 23 August 2026 at the URL given. Where the underlying instrument (a filed
-complaint, the letter itself) has been read only in excerpt, the grade says so.*
+source text retrieved 23 August 2026 at the URL given. Where an underlying instrument has been
+read only in excerpt (now only the filed Florida complaint), the grade says so; the 15-state letter
+was read in full on 23 August and § 3 is graded against it.*
 
 ---
 
