@@ -841,18 +841,57 @@ nowhere in this repository:**
 - [ ] **Federal — VET AI Act** (Hickenlooper/Capito, 25 July 2024) — press release only. Bill
   number not asserted; text not opened; later-Congress reintroduction not established.
 
+**Done 23 August, from the day's intake** *(each against primary text; the tracker's category
+was wrong in every checked case, which is now six reasons not to trust the list)*:
+
+- [x] **Federal — S. 1792** — done, 23 Aug, ✅ **primary XML read in full** (public domain; held
+  on [the shelf](../research/verification_record.md)). The **AI Whistleblower Protection Act**
+  (Grassley + five, bipartisan; introduced 15 May 2025) — anti-retaliation only, employees and
+  contractors; **no disclosure mandate; no officer duty; no signature.** The tracker filed it as
+  "safety incident reporting"; it is not. Full reading at
+  [who has to tell you § 4b](./who_has_to_tell_you.md).
+- [x] **New York — S 10456** — done, 23 Aug, ✅ **primary full text in hand** (one-section bill).
+  Gounardes (RAISE's own sponsor): the DIGIT office in the Department of Financial Services must
+  adopt **minimum standards** for large frontier developers' frameworks by 1 July 2028, reviewed
+  annually against "critical safety incidents that have occurred." The family's author legislating
+  the grade-your-own-homework problem — movement toward substance, none toward persons. Bonus: its
+  effective-date clause fixes RAISE's proper citation as **GBL Article 44-B, ch. 96 of 2026**.
+- [x] **California — AB 2653** — identified, 23 Aug, ⚠. A **Public Contract Code**
+  state-procurement reporting bill (Asm. Lee; held under submission May 2026), not frontier
+  governance; the tracker's "frontier model disclosure" category is its sixth verified error. No
+  row owed; leginfo link banked.
+
+**Added to the queue 23 August** *(leads from CSIS 3 Aug, CDT 20 Aug, and a law-firm alert of
+10 Jun — secondaries with primary links carried; nothing below is asserted until its text is
+opened)*:
+
+- [ ] **Colorado — SB 26-189** — the transparency-only replacement after SB 24-205's repeal;
+  effective 1 Jan 2027. The repeal's litigation context — *xAI LLC v. Weiser*, No. 1:26-cv-01515
+  (D. Colo.), the United States intervening against the state — is held at
+  [the enforcement record § 6](../research/state_enforcement_record_2026.md).
+- [ ] **Virginia — HB 797** — enacted IVO licensing via VITA (CDT). The Senate-side substitute,
+  SB 384, is on [the shelf](../research/verification_record.md) and is not the enacted vehicle.
+- [ ] **Washington — SB 5395** — health-insurance AI open to audit by the Insurance Commissioner;
+  the narrow end of the audit spectrum (CDT).
+- [ ] **Michigan — HB 4668** and **Massachusetts — S 2630** — the pending frontier-family bills
+  in the CSIS nine-framework comparison; texts unopened.
+- [ ] **Idaho and Tennessee — the AI-personhood-denial acts** (CDT) — statutes providing AI
+  systems are not legal persons. Bill numbers to confirm; primary texts unopened; used at
+  [known objections](../docs/known_objections.md) at the surveyor's grade only.
+
 **Then the rest, by state.** ⚠ *Counts below are the tracker's and are known to be unreliable:
 California and Illinois each had a bill listed twice, New York's list showed seven bills under a
 count of eight, and the federal row named six numbers under a count of five.*
 
-- **California** — AB 2653 *(listed twice by the tracker)*
+- **California** — ~~AB 2653~~ *(identified 23 Aug — procurement bill, no row owed; see above)*
 - **Illinois** — HB 3506 · HB 4705 · SB 3261 · HB 4799 *(listed twice)* · SB 3444 · SB 3312
 - **Maryland** — HB 1399 · HB 1477
 - **Minnesota** — HF 4532
 - **New Jersey** — AR 158 · SR 121 · SR 52 *(resolutions, not statutes — check whether they
   belong in a bill census at all)*
-- **New York** — A 07278 · A 06453 · A 10583 · S 10373 · S 10456
-- **Federal** — H.R. 3460 · H.R. 5315 · H.R. 3434 · H.R. 8094 · S. 1792 · S. 1775, plus
+- **New York** — A 07278 · A 06453 · A 10583 · S 10373 · ~~S 10456~~ *(done 23 Aug, above)*
+- **Federal** — H.R. 3460 · H.R. 5315 · H.R. 3434 · H.R. 8094 *(introduced text now on
+  [the shelf](../research/verification_record.md))* · ~~S. 1792~~ *(done 23 Aug, above)* · S. 1775, plus
   **H.R. 9925** *(the FRONTIER Act, tracked in [the standing watch](../audit/standing_watch_2026-08-20.md)
   and apparently absent from the tracker's federal list — which is itself a reason not to trust
   the list)*

@@ -188,6 +188,14 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | Florida v. OpenAI filed complaint (1 Jun) | **Excerpt only** — full read gates any further quotation | [enforcement record § 1](./state_enforcement_record_2026.md) |
 | 42-state subpoena (12 Jun) | **Not public** — nothing may be attributed to its text | enforcement record § 2 |
 | The AG letter's own press base (Reuters 24 Jul; Tom's Hardware; BBC) | Cited via the letter's five embedded links, extracted 23 Aug | enforcement record § 3 |
+| Reuters, "How a Texas student blew the whistle…" (20 Aug) | **Read in full, 23 Aug**, via WHTC syndication (reuters.com copy paywalled) | [the incident file § 5 addendum](./aisi_incident_inc_2026_07_28_01.md) |
+| Ball post + thread, 8–10 Aug (X) | ⚠ P — post pages supplied 23 Aug, validated; URLs pinned | [press corpus § 5](./press_corpus_july_august_2026.md); README |
+| Ball, "A Cascade of Conscientiousness" (Hyperdimensional, 28 May) | ⚠ P — full essay supplied 23 Aug | press corpus § 5; fiscal note; known objections |
+| Ball & Ramakrishnan, "Entity-Based Regulation…" (Carnegie, 7 Jul 2025) | ⚠ P — full text supplied 23 Aug | [enterprise file addendum](./frontier_enterprises.md) |
+| CSIS, Caroli & Mehta, "Toward a Federal Framework" (3 Aug) | ⚠ P — full text supplied 23 Aug; PDF link carried | census sources; [why the disparity addendum](../standards/why_the_disparity.md) |
+| CDT, "2026 State and Federal AI Legislation Updates" (20 Aug) | ⚠ P — full text supplied 23 Aug; CDT content freely reusable with credit | census sources; known objections |
+| Akerman alert on Illinois SB 315 (Dayal, 10 Jun) | ⚠ P — full text supplied 23 Aug | census sources |
+| PA press release: Shapiro administration sues Character.AI (5 May) | **Retrieved 23 Aug** (pa.gov, ⚠ R) | [enforcement record § 6](./state_enforcement_record_2026.md) |
 
 ### Legal texts the queue leans on
 
@@ -199,6 +207,31 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | *United States v. Park*, 421 U.S. 658 (1975) | Three burden passages **verified against the reported opinion, 22 Aug** (prima facie at 673–74; impossibility at 672–73; the two burdens at 673); full-opinion read pending before CURE 8 lands | [CURE 8](../audit/v3_5_cure_language.md); companion notes |
 | 18 U.S.C. § 1365(h)(3)–(4) | **Verified verbatim, 23 Aug** | CURE 1 and its addendum |
 | 21 C.F.R. § 803.3(w) | **Verified via the live eCFR** | SEC. 1(b)(8); the CURE 1 addendum |
+| S. 1792 (119th), AI Whistleblower Protection Act | **Primary XML read in full, 23 Aug** — public domain; held on the shelf below | [who has to tell you § 4b](../standards/who_has_to_tell_you.md); census queue |
+| 42 C.F.R. § 73.19 (select-agent theft/loss/release notification) | **Retrieved 23 Aug** (eCFR, ⚠ R) | [the gallery's escape section](../standards/the_same_conduct.md); who has to tell you § 4b |
+| 7 U.S.C. § 7734 (Plant Protection Act penalties) | **Retrieved 23 Aug** (uscode.house.gov, ⚠ R) | the gallery's escape section |
+| *United States v. Morris*, 928 F.2d 504 (2d Cir. 1991) | **Key holdings retrieved 23 Aug** (Justia, ⚠ R); full-opinion human read pending | the gallery's escape section |
+| DOJ release, Jensen guilty pleas (D. Colo.) | **Retrieved 23 Aug** (justice.gov, ⚠ R) | the gallery's escape section |
+| NPR, Schmidt sentencing (6 Dec 2017) | **Retrieved 23 Aug** (⚠ R) | the gallery's escape section |
+| NY S 10456 (Gounardes, 15 May 2026) | **Primary full text in hand, 23 Aug** (one-section bill, nysenate.gov page supplied) — fixes RAISE's citation: GBL Article 44-B, ch. 96 of 2026 | census queue |
+
+### The shelf — instruments held in the project library, outside the repository
+
+*Added 23 August. Copyrighted and evidentiary files never enter the public repository; they are
+held in a private library folder. This list exists so the repository knows what the project holds
+without anyone opening the folder. One row per file; read-status lives in the tables above.*
+
+| Held | What it is |
+|---|---|
+| 15_state_AG_letter_OpenAI_2026-08-03.pdf | The preservation demand, five pages |
+| Employed_Algorithms_Diamantis_72_Duke_LJ_797_2023.pdf | Diamantis, 72 Duke L.J. 797 (2023) |
+| CA SB 53 enrolled (LegiScan PDF) | Primary chaptered text |
+| IL SB 315 enrolled (LegiScan PDF) | Primary enrolled text, P.A. 104-0538 |
+| Connecticut SB 5 chaptered (P.A. 26-15) | Primary chaptered text |
+| US Congress H.R. 8094 introduced (PDF) | Federal compute-threshold bill, primary |
+| Virginia SB 384 committee substitute (28 Jan 2026) | Senate-side IVO architecture (the enacted vehicle was HB 797 — distinct) |
+| S1792_AI_Whistleblower_Protection_Act_119th…xml | Primary bill XML, public domain |
+| One evidence image (withheld from description here) | Evidentiary artefact of the AISI incident's fake persona; never for publication |
 
 *Rule, from the incident that created this section: when a file cites an instrument this table does
 not carry, the citation is the defect — add the row before the reliance.*

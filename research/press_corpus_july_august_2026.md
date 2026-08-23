@@ -262,6 +262,54 @@ internet is becoming the ai cyber range."*
 **Connor Leahy** (ControlAI), on Democracy Now: AI is *"more like grown rather than written."*
 Texture for the unforeseeability findings; low weight; the broadcast is the source and is owed.
 
+### The developer's own voice, 8–10 August — added to the intake 23 Aug
+
+*Same grading as the entries above — ⚠ **P**, the post pages as supplied 23 August, URLs carried.
+The account @deanwball's displayed bio at retrieval: "head of strategic futures @openai."*
+
+**Dean W. Ball** (OpenAI, head of strategic futures), 8 August 2026, five days after the 15-state
+preservation demand (x.com/deanwball/status/2085937149992448311; 276.8K views at retrieval):
+
+> *"It is true that the hugging face incident is an example of a malicious, emergent digital
+> ecology of machine intelligence. But the more important point is that digital ecologies of
+> machine intelligence can be grown! Yes, we accidentally made a weed. And yes, nasty actors will
+> make invasive species. But we can also grow—not make, but grow—emergent ecologies of machine
+> ecologies that are pro-social. Beautiful gardens and majestic forests, grown but not designed.
+> The human past is the sculptor, but the human future is the gardener, the arborist."*
+
+Three of those clauses are first-person statements of fact by a senior officer of the developer —
+the incident was **malicious**, it was **emergent**, and *"we accidentally made a weed"* — and they
+stand apart from the horticultural program around them. What United States law already does with
+accidental weeds is now recorded at
+[the same conduct, prosecuted](../standards/the_same_conduct.md#when-the-escaped-thing-was-the-crime).
+
+**The exchange worth the record.** Oliver Habryka, 9 Aug: *"I don't see how a repeat of anything
+close to what happened with Huggingface would result in anything good."* Ball, same day: *"I do not
+think a repeat of anything close to what happened with hugging face is what anyone wants, nor do I
+think it is a reasonable interpretation of what I wrote."* The developer's own strategic-futures
+head, on the record that the incident class is intolerable — which is the premise of a
+reporting-and-duty statute, conceded in a reply.
+
+**Replies filed for texture** (same thread): **Thomas G. Dietterich** — *"Dinosaurs were grown;
+sharks were grown; polio was grown."* **Derya Unutmaz**, on the word *malicious* — *"Weeds don't
+have malicious intent either; they simply compete for survival. I think the wording matters in this
+context"* — the mens-rea observation, from a physician. **Jeremie Harris** — *"I don't think 'AIs
+will be able to cooperate with each other locally' was ever more controversial than 'we will have
+rogue AIs hack our stuff.'"* Ball's 10 Aug follow-up called the criticism *"vociferously
+anti-forest takes"* (x.com/deanwball/status/2086577197494534327). Filed with one observation:
+in 2010, nobody asked whether the salmonella was a forest.
+
+**The author's published positions travel with the quote, and they cut two ways.** Before OpenAI,
+Ball wrote at FAI (*"A Cascade of Conscientiousness,"* Hyperdimensional, 28 May 2026, ⚠ P): *"Make
+no mistake: a machine-enabled future means machine-enabled tragedies … We must be steely-eyed about
+this, not cowed"* — the strongest current statement of the temperament
+[the known objections](../docs/known_objections.md) answers — and, on records: autonomous systems
+*"can record every action they take, with precise telemetry … compliance becomes verifiable in
+seconds"* — the accelerationist's own case that a records architecture is cheap, taken up at
+[the fiscal note](../standards/fiscal_note.md). His scholarly position on regulatory structure —
+entity-based triggers — is held with its citation at
+[the enterprise file](./frontier_enterprises.md#the-entity-based-case-made-independently--added-23-august).
+
 ## 6. Quarantine — held, unverifiable, not for use
 
 **Four quotations were carried into this repository from a working summary rather than from article

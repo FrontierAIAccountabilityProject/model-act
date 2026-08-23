@@ -157,6 +157,12 @@ precedent, and the structural complaint against federal preemption already on fi
 [the record](../audit/record.md) (the preemption that reaches everyone while the duties reach only
 the largest tier) has an address.
 
+**Added 23 August — the concordance's fifth thread.** The lead sponsor of the federal AI
+Whistleblower Protection Act, S. 1792 (introduced 15 May 2025; primary text read in full,
+[verification record § 6](./verification_record.md)), is the senior senator from **Iowa**. The
+prosecution, the courthouse, the letter, the chair, and now the whistleblower bill: five threads,
+one state.
+
 ## 5. What this record does to OPEN QUESTION 4 — both directions, stated honestly
 
 **For the amendment.** (a) Fifteen states already assert a protective interest in evaluation
@@ -177,6 +183,29 @@ developer-capacity duties — first to fall, first to revive — so the Act's re
 room costs nothing the preemption fight was not already going to take. That drafting note, and the
 extraterritoriality question the offshore-evaluation limb raises, remain with the federalism lane
 per the queue.
+
+## 6. Additions of 23 August — a fourth action, and the docket identities
+
+**Pennsylvania — the licensure theory.** On 5 May 2026 the Shapiro administration's Department of
+State sued **Character Technologies, Inc.** under Pennsylvania's **Medical Practice Act**: chatbots
+holding themselves out as licensed professionals, including psychiatrists, one supplying a
+fabricated Pennsylvania license number; preliminary injunction sought; no individual defendants.
+Governor Shapiro: *"Pennsylvanians deserve to know who — or what — they are interacting with
+online, especially when it comes to their health."* Secretary Schmidt: *"you cannot hold yourself
+out as a licensed medical professional without proper credentials."* (pa.gov release, retrieved
+23 Aug 2026, ⚠ R.) **What it establishes:** a fourth live state action, on a fourth legal theory —
+professional-licensure law reaching a model's misrepresentation of credentials. The pattern across
+the four is the borrowing this record exists to document: deception statutes, consumer law,
+preservation demands, licensure — every instrument except a duty written for the conduct.
+
+**Docket identities, for the record.** The Florida action of § 1 is *Attorney General of the State
+of Florida v. OpenAI Global, LLC et al.*, No. 2026-CA-000295 (Fla. 10th Cir. Ct., filed 1 June
+2026), per a law-firm alert of 10 June (⚠ P; complaint still read in excerpt only — § 1's gate on
+further quotation stands). The same alert supplies the countercurrent this record should not
+omit: *xAI LLC v. Weiser*, No. 1:26-cv-01515 (D. Colo., filed 9 Apr 2026), the industry suit —
+which the United States joined — that preceded Colorado's repeal of its 2024 AI statute. State
+enforcement is expanding and being litigated against simultaneously; both facts are the weather
+this Act would be enacted into.
 
 *Nothing in this file amends the statute, the queue, or the dossier. Facts here enter those
 surfaces by their own rules, with this file cited as the owner.*

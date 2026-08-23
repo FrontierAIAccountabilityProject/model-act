@@ -237,6 +237,37 @@ sequence is not a legal finding, and the temptation to treat it as one is exactl
 
 ---
 
+## 4b. Two federal instruments read in full — the first statutes this file can actually cite
+
+*Added 23 August. §§ 1–4's caveat stands: no breach-notification statute has been read and the
+queue in § 5 is undischarged. These two instruments are adjacent law, read in full, and they
+bracket the disclosure question from both sides.*
+
+**The clock that already exists — for pathogens.** 42 C.F.R. § 73.19 (read in full at the eCFR,
+23 Aug): upon discovery of a *release* of a select agent causing occupational exposure, the entity
+"must immediately notify CDC or APHIS" — telephone suffices — and file APHIS/CDC Form 3 within
+seven calendar days stating the agent, quantity, duration, environment affected and persons
+potentially exposed. Federal law already operates a mandatory escape-disclosure regime for
+self-replicating hazards, with a form, and its clock is faster than any window in the frontier
+family. The § 4a finding — that none of 2026's disclosures was legally compelled — is therefore
+not a claim that such regimes are unknown to American law. It is a claim about which hazards get
+one.
+
+**The protection that exists on paper — and who it would not have covered.** S. 1792 (119th
+Cong.), the AI Whistleblower Protection Act (Grassley, with Coons, Blackburn, Klobuchar, Hawley
+and Schatz; introduced 15 May 2025; primary XML read in full, 23 Aug): anti-retaliation for
+reporting "AI security vulnerabilities" and "AI violations" — a term that includes *"any failure
+to appropriately respond to a substantial and specific danger"* to public safety — with AIR21's
+burden-shifting imported and arbitration waivers voided. Three findings. It mandates **no
+disclosure to anyone**: it protects employees and contractors who choose to speak, which leaves
+§ 4a's sequence exactly as voluntary as it was. Its "covered individual" is an employee, former
+employee, or contractor — **the uninvolved member of the public who actually detected and
+disclosed the AISI intrusion ([the incident file § 5](../research/aisi_incident_inc_2026_07_28_01.md))
+is outside it**, as he is outside every framework in [the census](./frontier_bill_census.md). And
+its § 2(2)(B) quietly presupposes this project's premise: reporting a *failure to respond* can
+only be protected conduct if responding is somebody's obligation. Congress's bipartisan draft
+assumes the duty this Act writes down.
+
 ## 5. What is owed before any of this is used
 
 **§§ 1–4 are a structural argument built from general knowledge of how these regimes work, and remain

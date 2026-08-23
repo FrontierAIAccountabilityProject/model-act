@@ -16,6 +16,15 @@ technical definition of *frontier*; this project holds a legal one — [two defi
 **Public-domain research draft. No permission or attribution is required under
 [CC0](./LICENSE).**
 
+> *"It is true that the hugging face incident is an example of a malicious, emergent digital
+> ecology of machine intelligence … Yes, we accidentally made a weed."*
+> — **Dean W. Ball, OpenAI's head of strategic futures, 8 August 2026** ([the record](./research/press_corpus_july_august_2026.md))
+
+In 2010, nobody asked whether the salmonella was an emergent ecology. An outbreak is an event with
+an owner, and the law's whole job is to know the owner's name before the next one. What American
+law already does when the escaped thing is a worm, a weed, or a pathogen:
+[the same conduct, prosecuted](./standards/the_same_conduct.md#when-the-escaped-thing-was-the-crime).
+
 ---
 
 ## What is on this page

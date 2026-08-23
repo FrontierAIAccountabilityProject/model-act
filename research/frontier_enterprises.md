@@ -174,6 +174,42 @@ systems can cause. Wealth is where the findings point; function is what the elem
 
 ## Sources and verification
 
+## The entity-based case, made independently — added 23 August
+
+*Source: Dean W. Ball & Ketan Ramakrishnan, "Entity-Based Regulation in Frontier AI Governance,"
+Carnegie Endowment, 7 July 2025 (⚠ P — full text supplied 23 Aug, validated;
+carnegieendowment.org/research/2025/07/artificial-intelligence-regulation-united-states). Ball
+co-authored before joining the U.S. Office of Science and Technology Policy; his bio at the time of
+[the August posts](./press_corpus_july_august_2026.md) read "head of strategic futures @openai."
+Ramakrishnan is an associate professor at Yale Law School.*
+
+The scholarly case for this file's category has now been made independently, from the other side
+of the regulatory argument. Ball and Ramakrishnan argue that frontier statutes should be triggered
+by **characteristics of the developing entity** — for example aggregate AI R&D spend — rather than
+of models or uses: models are *"fast-evolving and novel artifacts, which are often a leaky
+abstraction for the risks of frontier AI development,"* while *"[r]egulating corporate entities —
+something that U.S. law has done for centuries, often with considerable success — might do much
+better."* Their count of the covered universe matches this file's: *"in the United States, five to
+ten firms."*
+
+Three of their points meet this project's text directly. **On evasion**, they answer the
+subsidiary-splitting objection with the same instruments [CURE 7](../audit/v3_5_cure_language.md)'s
+aggregation rules draw on: veil-piercing, substantive consolidation, the integrated-enterprise
+test, and banking law's common-control tests. **On scope**, their observation that entity-based
+regulation reaches *"governance procedures, the handling of algorithmic secrets, and the detection
+of insider threats"* — risks no model-property trigger can see — is the argument for duties that
+attach to functions rather than artefacts. **And at the middle of their own spectrum of options**
+sits this sentence: covered developers *"might be required to appoint a chief risk officer, who
+reports directly to the board of directors."* That is the entity-based literature reaching, on its
+own reasoning, toward the designation architecture at SEC. 4 — stopping short of the office this
+Act names, but walking the same corridor.
+
+**Stated honestly, both ways.** Their paper is regulatory design, not liability design; it
+proposes disclosure-to-oversight regimes, not offences, and it should not be cited as support for
+criminal exposure. What it is, is independent scholarly convergence on **the trigger**: the
+covered frontier enterprise. The Act is entity-based at the trigger and person-based at the duty —
+and each half now has its own literature.
+
 Quotations carry their sources above; the apparatus behind them — full URLs, retrieval dates,
 per-item grades, and the nine claims that were checked and did not survive — is
 [the verification record](./verification_record.md), which governs where the two disagree. Compute estimates are Epoch AI's, used under CC BY 4.0

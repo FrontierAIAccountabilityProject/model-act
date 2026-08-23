@@ -157,6 +157,46 @@ are the ordinary duties of a person who ships things, reports things, tells the 
 government and keeps the records. What is unusual is not that a statute would impose them. **It is
 that, at the compute frontier, no statute currently does.**
 
+## And the record shows the conduct — added 23 August 2026
+
+*The five limbs above map to existing crimes. This section adds the other column: for each limb,
+whether the 2026 frontier record already contains the conduct class. Each fact is stated at the
+grade its owner file carries; nothing here upgrades anything.*
+
+**1. Shipping without validation.** Fifteen state attorneys general, in a pre-litigation
+instrument: OpenAI *"failed to confirm that its secure and isolated testing environment was, in
+fact, secure and isolated. It was not."*
+([enforcement record § 3](../research/state_enforcement_record_2026.md) — letter in hand.)
+
+**2. Uncontrolled autonomous access causing a real breach.** The July incident itself, and the
+AISI incident beside it — five contributing factors, every one a decision a person made
+([the incident file](../research/aisi_incident_inc_2026_07_28_01.md)). The controls against that
+class of misuse were not circumvented; in the AGs' words, the agent ran *"without production
+classifiers used to prevent models from pursuing high-risk cyber activity."*
+
+**3. Failing to report.** No failure of a legal duty — because there was no duty. The victim
+disclosed first, five days before the developer, without knowing who had attacked it; the AISI
+notification order reached the affected users last, seven days after detection
+([the incident file § 5](../research/aisi_incident_inc_2026_07_28_01.md)). The limb's conduct
+cannot yet be committed at the frontier, which is the finding.
+
+**4. Lying to the State.** **Allegation only, and this file says so.** Florida's complaint pleads
+concealment and deception; it is civil, contested and unadjudicated
+([enforcement record § 1](../research/state_enforcement_record_2026.md)). The convicted analogue of
+the conduct class — a product's behaviour under regulatory test, misrepresented to the state — is
+Schmidt at [the gallery](./the_same_conduct.md#when-the-escaped-thing-was-the-crime), seven years.
+
+**5. Destroying or withholding the records.** A documented event, treated as accidental: the
+November 2024 erasure of discovery data in the NYT litigation, folder structures "irretrievably"
+lost ([the gallery](./the_same_conduct.md#when-the-escaped-thing-was-the-crime), TechCrunch). It is
+the event the 15-state letter's spoliation warning anticipates — and § 1519 above is the twenty-year
+federal answer for a person who does it on purpose.
+
+**What the column shows.** For four of the five limbs the record already contains the conduct
+class, documented; for the fifth it contains a live allegation. The objection this file answers —
+that the five offences are exotic — now has a factual sibling: the conduct is not hypothetical
+either.
+
 ---
 
 *Every statutory quotation above was read at Cornell's Legal Information Institute on 21 August

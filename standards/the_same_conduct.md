@@ -499,6 +499,77 @@ That is the finding this gallery exists to support, and it is a finding about th
 **the elasticity runs in exactly one direction.** It stretches toward the individual with no
 institution behind him, and it does not exist at all at the other end.
 
+## When the escaped thing was the crime
+
+*Added 23 August 2026. The occasion: OpenAI's head of strategic futures described the July
+incident, in first person, as "a malicious, emergent digital ecology … Yes, we accidentally made a
+weed" ([press corpus § 5](../research/press_corpus_july_august_2026.md), ⚠ P). The metaphor section
+above argued that the industry's own language places these products in the legal family of
+biological hazards; it no longer needs arguing — the developer's own officer supplied it. This
+section records what United States law already does when the escaped thing is a worm, a weed, or a
+pathogen. Every source below was retrieved 23 August 2026 at the page cited; grade ⚠ **R** under
+[the census rubric](./frontier_bill_census.md#the-confidence-rubric-governed-by-e15) — opened, not
+yet re-read by a human eye. Nothing here asserts what any frontier developer intended.*
+
+**The self-replicating program: a federal felony, intent to harm not required.** Robert Tappan
+Morris built a program designed to spread quietly across the young internet, made one design error
+— it copied itself far more often than intended — and machines crashed at universities, military
+sites and medical research facilities. *United States v. Morris*, 928 F.2d 504 (2d Cir. 1991)
+(Justia), affirmed his felony conviction under the Computer Fraud and Abuse Act and held that
+"intentionally" reaches the *access*, not the *damage*: the Government did not have to prove he
+meant to break anything. Benign research intent, an accidental outbreak, a conviction with a name
+on it — in 1988.
+
+**The weed: five years.** Under the Plant Protection Act, a person who "knowingly imports, enters,
+exports, or moves any … plant pest, noxious weed, or article, for distribution or sale" in
+violation of the chapter faces up to **five years' imprisonment**, ten on repeat. 7 U.S.C. § 7734
+(uscode.house.gov). "We accidentally made a weed" is not a metaphor in the United States Code; it
+is a chapter with a felony in it.
+
+**The pathogen: the escape-reporting clock already exists, and it is faster than every AI bill.**
+Under the federal select-agent regulations — the regime for organisms that are dangerous *because*
+they self-replicate — an entity that discovers a **release** causing occupational exposure "must
+immediately notify CDC or APHIS," by telephone if need be, and file APHIS/CDC Form 3 within
+**seven calendar days**: the agent, the quantity released, the time and duration, the environment
+affected, the number of people potentially exposed. 42 C.F.R. § 73.19 (eCFR). Set that beside the
+frontier family's windows — 72 hours, or fifteen days in the graduated tier
+([who has to tell you § 4b](./who_has_to_tell_you.md) carries the comparison) — and the federal
+government already runs a faster clock for anthrax than any state statute runs for a frontier
+model. SEC. 9 of the Act is that clock with a different agent in the blank.
+
+**The outbreak, prosecuted at the smallest scale.** Eric and Ryan Jensen — two farmers — pleaded
+guilty to six federal counts of introducing adulterated food into interstate commerce after
+listeria on their cantaloupes killed at least 33 people; the U.S. Attorney's statement was that
+they "failed to protect the public from deadly bacteria on their cantaloupe, in violation of the
+law and critical FDA requirements" (justice.gov). A failure-to-protect theory, not an intent
+theory — and against defendants far smaller than any covered enterprise, which answers the
+suggestion that public-welfare offences are reserved for giants. *Park*, *DeCoster* and Parnell
+are above; the Jensens complete the scale.
+
+**Lying to the state about behaviour under test: seven years.** Oliver Schmidt, the Volkswagen
+executive who ran the company's U.S. engineering and environmental office, pleaded guilty to
+conspiracy to defraud the United States and a Clean Air Act violation over products engineered to
+behave differently under regulatory test than in the world — seven years and a $400,000 fine
+(NPR, 6 Dec 2017). No frontier AI officer has been charged with anything of the kind; the Florida
+complaint's concealment theory is a civil allegation and nothing more
+([enforcement record § 1](../research/state_enforcement_record_2026.md)). Schmidt is here because
+the *conduct class* — a product's behaviour under evaluation, misrepresented to the state —
+already carries a prison number.
+
+**The records.** In November 2024, OpenAI engineers erased the plaintiffs' search data on a
+discovery machine in the New York Times copyright litigation; folder structures and file names
+were "irretrievably" lost and the work product unusable, and OpenAI's counsel attributed it to an
+implemented configuration change (TechCrunch, 22 Nov 2024). Treated as an accident, and cited here
+as nothing more — but it is the documented event sitting behind the 15-state letter's spoliation
+warning, and it is why SEC. 12 places the records duty on a person *before* the incident rather
+than on a litigation hold after it.
+
+*What this section is for: when a reader asks whether American law has ever criminalised the
+accidental escape of a thing that copies itself, the answer is yes, since 1988 — and for weeds and
+pathogens it also runs a reporting clock measured in hours. The five offences the Act proposes are
+catalogued against existing crimes at
+[already a crime, if you are a person](./already_a_crime_for_you.md).*
+
 ---
 
 *Corrections to the project contact; they enter [the errata register](../ledger/errata.md) with the

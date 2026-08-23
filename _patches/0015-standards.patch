@@ -1,0 +1,172 @@
+From 46fd850a8af96f7f47f5da8f516acd596f54b79a Mon Sep 17 00:00:00 2001
+From: FrontierAIAccountabilityProject
+ <315748336+FrontierAIAccountabilityProject@users.noreply.github.com>
+Date: Sat, 22 Aug 2026 12:18:33 +0000
+Subject: [PATCH] standards: conform three claims E20 and the census had
+ already overtaken
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Four stale claims on the reference shelf, all of them contradicted by files
+in the same folder.
+
+- for_legislators.md § 1: 'One of the six names officers' and 'Connecticut
+  ... is the first American statute to write corporate roles into a frontier
+  provision'. E20 established on 21 August that California SB 53 (chaptered
+  29 Sep 2025) does the same thing and the tally is two. Restated as two,
+  both named, with the point sharpened: the recurrence is the finding, not
+  the primacy -- two legislatures, fourteen months apart, independently
+  decided officers should be told, and neither asked the officer told to do
+  anything.
+- frontier_bill_census.md, Connecticut row: E20 corrected the tally but not
+  this row's VERDICT sentence, which is the quotable one and still claimed
+  firstness 350 lines from its own disproof. Conformed.
+- frontier_self_reporting_note.md § 1: 'Only the first is mandated anywhere:
+  California ... and New York ...' -- naming two of the three framework
+  statutes while citing, in the same sentence, the file in the same folder
+  that pins all three. Illinois 430 ILCS 185/10 added.
+- for_legislators.md § 2: the framework arithmetic ran three plus two plus
+  six, accounting for eleven of twelve. Microsoft restored to the middle
+  group (a named reviewer, no deployment approver), leaving the six that
+  specify no decision authority named individually.
+- standards/README.md: indexes already_a_crime_for_you.md and
+  who_has_to_tell_you.md, both listed in the front-page contents but absent
+  from the shelf's own index -- the latter carrying its hypothesis flag; and
+  a standfirst pointing to research/ and the definition for what this shelf
+  deliberately does not hold.
+
+Tagged v3.4 text unchanged (E10).
+---
+ standards/README.md                       | 18 ++++++++++++++---
+ standards/for_legislators.md              | 24 ++++++++++++++++-------
+ standards/frontier_bill_census.md         | 10 +++++++---
+ standards/frontier_self_reporting_note.md |  8 ++++++--
+ 4 files changed, 45 insertions(+), 15 deletions(-)
+
+diff --git a/standards/README.md b/standards/README.md
+index c260a34..ca151c9 100644
+--- a/standards/README.md
++++ b/standards/README.md
+@@ -3,6 +3,11 @@
+ Reference texts and working files for SEC. 3, and the research behind the claims the front page
+ makes. Every file here states its own strength limits; none of them is authority for the statute.
+ 
++*What this shelf does **not** hold: the frontier-scope evidence — the coverage set, the compute
++table, and the source record — which lives in [`research/`](../research/), and the two definitions
++of *frontier*, which live at [`docs/the_definition.md`](../docs/the_definition.md). See
++[the map](../MAP.md) for which file owns which question.*
++
+ ## The adopted texts
+ 
+ - [`interim_standards.md`](./interim_standards.md) — the enacted texts SEC. 3(c)(4) freezes
+@@ -43,12 +48,19 @@ downward readily. These files are the checking.*
+ - [`comparative_officer_liability.md`](./comparative_officer_liability.md) — the primary provisions behind
+   the comparative answers: s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA senior-manager
+   responsibilities, and the claims this project declined to make.
++- [`already_a_crime_for_you.md`](./already_a_crime_for_you.md) — the statutory text behind the
++  front page's claim that **every offence this Act creates is already a crime for an ordinary
++  person**, most with heavier maxima and one with no intent requirement at all.
++- [`who_has_to_tell_you.md`](./who_has_to_tell_you.md) — ⚠ **a hypothesis, graded as one, not a
++  finding.** That the duty to disclose a breach attaches to the party intruded upon rather than to
++  whoever shipped the defective code. Published with the four checks it still needs listed at its
++  end, and quoted nowhere until they are done.
+ 
+ ## For readers who are not lawyers
+ 
+-- [`for_legislators.md`](./for_legislators.md) — for sponsors and their staff: the verified
+-  absences, what the laboratories' own governance documents say, the comparative answer with
+-  primary text, and your own state's analogue.
++- [`for_legislators.md`](./for_legislators.md) — for legislative sponsors and their staff: the
++  verified absences, what the laboratories' own governance documents say, the comparative answer
++  with primary text, and your own state's analogue.
+ - [`what_these_words_mean.md`](./what_these_words_mean.md) — **a legislator's glossary.** What a
+   model, an algorithm, an agent and a frontier model literally are; what they can actually do; how
+   they are sold. Plus mens rea, and why a model cannot have one.
+diff --git a/standards/for_legislators.md b/standards/for_legislators.md
+index ba9a133..07ca8e4 100644
+--- a/standards/for_legislators.md
++++ b/standards/for_legislators.md
+@@ -101,13 +101,20 @@ appears.** The single human signature the bill requires is the sponsor's own on
+ project's census and the smallest personal consequence in it. *Source:
+ [the bill census](./frontier_bill_census.md), H.R. 9917 row.*
+ 
+-**One of the six names officers — and asks nothing of them.** Connecticut's SB 5, enacted
+-27 May 2026, is the first American statute to write corporate roles into a frontier provision.
+-Large frontier developers must channel employees' anonymous reports of catastrophic risk, and
++**Two of the six name officers — and ask nothing of them.** California's SB 53, chaptered
++29 September 2025, was first: it routes employees' anonymous catastrophic-risk reports to officers
++and directors. Connecticut's SB 5, enacted 27 May 2026, is the fuller drafting of the same idea, on
++this Act's own compute threshold. *(Corrected 22 August 2026 — this passage read "one of the six"
++and called Connecticut the first American statute to write corporate roles into a frontier
++provision, which [E20](../ledger/errata.md) had already disproved.)*
++Under Connecticut, large frontier developers must channel employees' anonymous reports of
++catastrophic risk, and
+ each report *"shall be shared with the officers and directors of the large frontier developer at
+ least quarterly"* — with a carve-out withholding a report from an officer or director it accuses.
+-So a legislature has now put catastrophic-risk information into named officers' hands on a
+-schedule, and attached to it **no duty to respond, no signature, and no liability.** The penalty
++So **two legislatures, fourteen months apart, have independently put catastrophic-risk information
++into named officers' hands on a schedule** — and both attached to it **no duty to respond, no
++signature, and no liability.** That the instinct recurred without either asking anything of the
++officer told is the finding; the primacy is not. The penalty
+ remains \$1,000 per violation against the company, Attorney General only, no private right of
+ action. *Source: [the bill census](./frontier_bill_census.md), Connecticut row, which states its
+ own verification limits.*
+@@ -190,8 +197,11 @@ and a Director of Alignment and Risk. NVIDIA names a committee.
+ 
+ **The rest describe a procedure with no actor in it.** OpenAI routes its Safety Advisory
+ Group's recommendation to *"OpenAI Leadership"* — a direction, not an office. Google DeepMind
+-commits to safety-case reviews and never says who approves. Six others specify no decision
+-authority at all.
++commits to safety-case reviews and never says who approves. Microsoft's framework is reviewed by
++its Chief Responsible AI Officer and names no deployment approver. **The remaining six — xAI,
++Amazon, Cohere, Magic, NAVER and G42 — specify no decision authority at all.** *(Microsoft added
++22 August 2026: three plus two plus six accounts for eleven of the twelve, while
++[the dossier](../dossier/README.md) chapter this section draws on accounts for all twelve.)*
+ 
+ **None of them requires a signature.** Not one framework requires an attestation,
+ certification or authentication of the deployment decision. At the best-documented laboratory
+diff --git a/standards/frontier_bill_census.md b/standards/frontier_bill_census.md
+index 7f73c7c..b3044e1 100644
+--- a/standards/frontier_bill_census.md
++++ b/standards/frontier_bill_census.md
+@@ -296,9 +296,13 @@ unfair-trade-practices statute, again AG-enforced, again no private right.)
+ 
+ **Criminal exposure.** None, at the entity or anywhere else.
+ 
+-**Verdict.** *Connecticut is the first American statute to put catastrophic-risk reports into a
+-named officer's hands every quarter — and the only thing it asks that officer to do with them is
+-receive them.*
++**Verdict.** *Connecticut is the **second** American statute to put catastrophic-risk reports into
++a named officer's hands every quarter — after California's SB 53 — and the only thing either asks
++that officer to do with them is receive them.* **The recurrence is the finding, not the primacy:**
++two legislatures, fourteen months apart, independently decided the officers should be told, and
++neither asked the officer told to do anything at all. *(Verdict conformed 22 August 2026:
++[E20](../ledger/errata.md) corrected this row's tally to two and named both, and this sentence —
++the quotable one — was not conformed with it.)*
+ 
+ **Why this row matters more than its penalty.** The *Park* formula is authority, knowledge, and
+ failure to act. Connecticut has now legislated the knowledge: quarterly, in writing, to officers
+diff --git a/standards/frontier_self_reporting_note.md b/standards/frontier_self_reporting_note.md
+index 57f4fab..1814be3 100644
+--- a/standards/frontier_self_reporting_note.md
++++ b/standards/frontier_self_reporting_note.md
+@@ -30,8 +30,12 @@ technically distinct and map to different clauses.
+ | **Threat-intelligence reports** | Observed misuse, actor patterns, enforcement actions | Ad hoc |
+ 
+ Only the first is mandated anywhere: California Business and Professions Code
+-§ 22757.12 and New York General Business Law § 1421 require the publication of a
+-framework, on the terms pinned verbatim in `interim_standards.md` in this folder.
++§ 22757.12, New York General Business Law § 1421, **and Illinois 430 ILCS 185/10**
++("Section 10. Frontier AI framework") require the publication of a framework, on the terms
++pinned verbatim in [`interim_standards.md`](./interim_standards.md) in this folder — the
++three that SEC. 3(c)(4) adopts as interim standards. *(Illinois added 22 August 2026: this
++sentence named two of the three framework statutes while citing, in the same breath, the
++file that pins all three.)*
+ Nothing in enacted U.S. state law currently requires the second, third, or fourth
+ class. They exist because their authors chose to produce them.
+ 
+-- 
+2.43.0
+

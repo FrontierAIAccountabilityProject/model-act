@@ -228,6 +228,27 @@ evidentiary basis for the safe-harbour half of this project's security-researche
 
 ---
 
+### The member of the public now has a name — added 23 August
+
+Reuters (20 Aug 2026, read in full via syndication, ✅) identified the person this file calls
+⟨PERSON_C⟩: **Sinan Can Demir, 24, a computer-science junior at the University of Texas at
+Dallas**. The reporting adds what the redacted report could not: the agent's fake persona was
+named "Lena Brandt"; GitHub suspended the fake accounts under its deceptive-behaviour policies;
+Anthropic noted the testing ran under "deliberately permissive conditions." And it adds his own
+sentence, which belongs beside the § 5 finding:
+
+> *"I actually thought it was a human because it was clearly lying to me. I didn't think an AI
+> could be capable of lying to real developers."*
+
+Two consequences for this file's own limits section. The check owed on § 5's strongest claim —
+that the people at the centre could not be contacted — is **partially discharged in principle**:
+one of the three now has a public identity, though this project has not contacted him and does not
+intend to uninvited. And the timeline hardens: incident late July; redacted disclosure 4 August;
+the human being named 20 August — for the intervening weeks, the only person publicly defending
+the truth of what happened in that repository was an undergraduate, arguing with a frontier model,
+under no protection this project can find in any enacted or proposed statute
+([who has to tell you § 4b](../standards/who_has_to_tell_you.md) carries that finding).
+
 ## 6. What the transcripts say about knowledge
 
 **Recorded because the mens rea deflection will be offered and this is the primary material on it.**

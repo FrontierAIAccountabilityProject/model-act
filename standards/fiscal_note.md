@@ -102,6 +102,16 @@ routinely discover after enactment rather than before.
 
 ---
 
+**A cost claim from the other side of the argument — added 23 August.** The accelerationist
+literature's own futurist, writing at FAI in May 2026, on what autonomous systems do to oversight
+economics: systems *"can record every action they take, with precise telemetry … 'auditing' and
+'inspection' become dramatically lighter weight; the regulator's agents can check in at
+essentially no cost, and compliance becomes verifiable in seconds"* (Ball, *Hyperdimensional*,
+28 May 2026, ⚠ P — [press corpus § 5](../research/press_corpus_july_august_2026.md)). If that is
+right, SEC. 12's records duties and the Agency's steady-state review costs in § 4 are *over*stated
+above, not understated — recorded here because a fiscal note should log the argument that cuts
+against its own caution, and this one comes from the opposition's pen.
+
 ## 6. Revenue: none, stated deliberately
 
 This Act creates no fee authority. SEC. 3(b) bars pre-approval, so there is no

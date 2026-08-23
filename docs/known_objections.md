@@ -112,6 +112,36 @@ the activity begins, with authority always controlling over designation. It is a
 the alternatives: more precise than punishing the entire company, narrower than exposing every
 employee, and honest about where the power actually sat.
 
+## Three additions from the August record — added 23 August
+
+**The temperament, stated by its best writer.** The strongest current statement of the opposing
+disposition is Ball (FAI, May 2026, before his OpenAI role): *"a machine-enabled future means
+machine-enabled tragedies, both accidents and those intentionally caused by malicious actors. We
+must be steely-eyed about this, not cowed."* The answer is not that tragedy can be legislated away
+— it is that *steely-eyed* has a legal meaning, and it is the one this Act supplies: a machine
+future that tolerates tragedy without owners is not steely-eyed, it is ownerless. The same essay
+concedes the cost point: autonomous systems make *"compliance … verifiable in seconds"* — the
+records architecture's expense argued away by its opponents' own futurist
+([press corpus § 5](../research/press_corpus_july_august_2026.md); the fiscal use at
+[the fiscal note](../standards/fiscal_note.md)).
+
+**"Development will flee" now runs into a mapped world.** The claimed destination regulates:
+China has operated security-reviewed AI regulation since 2017 and proposes a global governance
+body (ANSI summary, ⚠ P). And the flight itself now has a bloc price: Reuters reports the U.S.
+preparing to tell partner countries they must choose between the U.S.-led AI coalition and
+Beijing's framework — exclusion being the cost of signing both (Reuters, 14 and 19 Aug 2026, ⚠ P).
+An officer-liability statute does not move the development offshore any faster than the offshore
+already regulates — and the genuinely open offshore question, evaluation conduct, is held
+honestly at OPEN QUESTION 4, not here.
+
+**"The AI did it" is now foreclosed by statute in two states.** Idaho and Tennessee have enacted
+laws providing that AI systems are not legal persons — ensuring, in the surveying organisation's
+words, that liability falls *"on formal legal persons (either individuals or corporations) rather
+than on AI systems"* (CDT, 20 Aug 2026, reusable with credit; primary texts queued at
+[the census](../standards/frontier_bill_census.md#the-queue)). Two legislatures have already
+answered the personhood deflection. The only question left standing is *which* legal person —
+which is this Act's entire subject.
+
 *The argument this page defends: [the case](./the_case.md). The definitions it defends:
 [the definition](./the_definition.md). The operative language under attack:
 [the statute](../model_act_v3_4.txt) and [the v3.5 queue](../audit/v3_5_cure_language.md).*

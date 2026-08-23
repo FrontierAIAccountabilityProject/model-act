@@ -304,6 +304,24 @@ story should notice that A, B, C and H each predict the same vacancy with no bad
 
 ---
 
+## The surveys agree — added 23 August
+
+Two independent surveys of the 2026 landscape now state this file's finding in their own words.
+CSIS, comparing nine frameworks across two continents (Caroli & Mehta, 3 Aug 2026, ⚠ P): *"Many of
+the frameworks do not include the appointment of senior personnel to oversee the safety framework
+… This may demonstrate a reluctance by policymakers to impose personal accountability by law, as
+well as pushback from an industry comfortable with self-implementation of safety requirements but
+opposed to highly prescriptive governance requirements that delineate specific top-level managers
+responsible for the safety of models."* And CDT, surveying the year's most active legislative area
+(20 Aug 2026, reusable with credit): across the chatbot-safety wave, *"[l]iability falls only on
+the direct deployers … providing protection to original developers of foundation models."* The
+law reaches down, not up — measured across 146 bills. Explanation **H** predicted that the vacancy
+persists among people acting in good faith until the question is asked well once; two surveys have
+now documented the vacancy without either treating it as a question. The same CSIS report supplies
+the restraint corollary: on the one documented voluntary withholding of a frontier model, *"[n]o
+authority could have compelled that decision … Only a legally binding regime can guarantee such
+restraint as a matter of right rather than goodwill."*
+
 ## What a drafter should take from twelve explanations
 
 **They do not all imply the same remedy, and that is the useful finding.**

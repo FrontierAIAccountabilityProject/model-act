@@ -281,6 +281,40 @@ Pennsylvania, Texas, California, Washington, New York, New Mexico.
 
 ---
 
+## 5. Where this lands first — a reading of the 2026 map, added 23 August
+
+*Not a recommendation to any office; a reading of the public record, each fact at its owner's
+grade. Four states, four different theories of adoption.*
+
+**Iowa is the enforcement venue.** The office that led the only multistate action over an
+evaluation incident; the home circuit where *DeCoster* binds; the courthouse of the
+testing-gone-wrong exhibit; the chair held by the culpability scholarship's author; and the
+federal AI whistleblower bill's lead sponsor. Five threads, one state —
+[the enforcement record § 4](../research/state_enforcement_record_2026.md).
+
+**New York is the amendment vehicle.** The RAISE Act — General Business Law Article 44-B, ch. 96
+of 2026 — is enacted, was amended within months, and its own sponsor is already adding sections to
+it: S 10456 (primary text read, [census queue](./frontier_bill_census.md#the-queue)) would order
+minimum standards for the frameworks the Article currently lets developers write for themselves.
+A live, actively amended statutory surface is the rarest thing a model-bill project can be offered:
+somewhere for officer provisions to *go*.
+
+**Illinois is the legislature that kept the teeth.** P.A. 104-0538 passed 110–0 and 52–5 over
+organised industry opposition, kept the mandatory independent audit both coastal statutes
+dropped, and took the family's one required human signature — the auditor's
+([the census's lineage finding](./frontier_bill_census.md)). A chamber that holds a provision
+under that pressure is the chamber to bring the next provision to.
+
+**Pennsylvania has the enforcement instinct without the vehicle.** A signatory attorney general;
+a governor's administration already suing a chatbot company under licensure law
+([enforcement record § 6](../research/state_enforcement_record_2026.md)); the district where the
+Synthes officers went to prison. What it lacks is any frontier statute to amend — which makes it
+a first-enactment candidate, not an amendment one.
+
+*Colorado is the caution on the same map: a duty-of-care statute repealed before effect under
+industry-and-federal litigation pressure. Any sponsor should read that arc first — it is why this
+Act's severability ladder and its narrow, conduct-anchored duties are drafted the way they are.*
+
 ## What a sponsor's office would actually receive
 
 Not this repository. A sponsor package is shorter and jurisdiction-specific: bill text conformed
