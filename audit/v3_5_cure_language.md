@@ -281,6 +281,50 @@ and the coverage an AI statute needs, arriving pre-litigated.
 
 ---
 
+### ⚠ Addendum to CURE 1, 23 August 2026 — the operative definition's blind spot, mapped; what Operation 1 already closes; the residue
+
+*Found outside the lanes, reading the definitions in order. Filed here rather than as a new open
+question because the queue already holds most of the answer.*
+
+**The blind spot in the operative text.** SEC. 1(b)(8) as tagged imports 21 C.F.R. § 803.3(w) — a
+medical-device reporting definition, and an entirely somatic one: "body function," "body
+structure," medical or surgical intervention. Walked through the Act, three consequences follow.
+A person driven into psychiatric crisis by a covered system suffers no "serious injury" anywhere in
+the operative text. It is therefore not a reportable incident: SEC. 9(a) lists "death or serious
+injury materially caused by a covered system" (string occurs once), and psychological harm short of
+death never enters the list — no 72-hour clock, no report, no record. And death enters only through
+"materially caused" — the hardest element in precisely these cases — into a report that SEC. 9(c)
+provides "is not required to be published."
+
+**What Operation 1 already closes — and this addendum exists to say so before anyone files the
+blind spot as a new defect.** The § 1365(h)(3)–(4) donor is not somatic. Under (h)(4)(D),
+impairment of the function of a **mental faculty** is "bodily injury"; under (h)(3)(D), protracted
+impairment of a mental faculty is **serious** bodily injury; and (h)(3)(A)'s substantial risk of
+death reaches the life-threatening psychiatric emergency. Operation 2's rename cascade then carries
+that limb into the SEC. 9 incident definition and the SEC. 10(c)(2) harm tier automatically. Four
+decades of construction of the same words travel with it. The 22 August email raising this finding
+with a plaintiff-side reader described the operative text accurately and this queue incompletely;
+recorded here so the record is straight.
+
+**The residue, stated so it is not mistaken for accident.** Three things stay true after CURE 1
+lands. (1) Acute, non-protracted psychological harm without substantial risk of death remains
+outside "serious bodily injury" — and the sweep's own ruling in this entry (use (h)(3) for both;
+(h)(4) breadth widens a custodial offense) makes that a **choice**, not an oversight. The lever a
+state wants for earlier warning is already named above: the 29 C.F.R. § 1904.7(b)(5) observable,
+not a wider injury term. (2) Causation. "Materially caused" is where these cases are actually
+fought — the live Florida record (see
+[the state enforcement record](../research/state_enforcement_record_2026.md) § 1) is a criminal
+investigation built on chat logs. Evidentiary, for the criminal-law lane; no drafted response.
+(3) Even fully cured, every report runs to the Agency and SEC. 9(c) keeps it unpublished; no duty
+anywhere in the Act tells an injured **person** anything. CURE 14's notice duty runs to persons
+whose *systems* were accessed, not persons *injured*. Whether an injured-person notice belongs in a
+public-welfare statute — or belongs to tort, discovery, and the enforcement record's FDUTPA lane —
+is a design question for the plaintiff-side perspective and the legislative-sponsor audience, held
+open here, undrafted.
+
+**Administrative load:** none — this addendum drafts no operation; it maps consequences of the
+operative text, records what CURE 1 already resolves, and holds one question open.
+
 ## CURE 2 — SEC. 13(c): a review valve on the suspension order
 
 *Cures finding F4 (drafting record, [chunk 7](./record.md#chunk-7) §3.9; register ★★★, new
