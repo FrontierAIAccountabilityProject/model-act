@@ -3,6 +3,8 @@
  
 **Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
 
+**Readable as a website:** [frontieraiaccountabilityproject.github.io/model-act](https://frontieraiaccountabilityproject.github.io/model-act/) — the same pages, styled for reading. This repository remains the authoritative record.
+
 **Invited to review?** This page is worth reading in full — the guide just below maps it. Then [REVIEWERS.md](./REVIEWERS.md) carries your bounded path, your lane's brief, and the terms.
  
 Model state legislation applying the **responsible corporate officer doctrine** —

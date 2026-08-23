@@ -23,7 +23,10 @@ concordance mapping its working vocabulary onto the state-of-play states, and it
 CURE 6/7 summaries were reduced to pointers at the ⚠ blocks inside the entries, which were
 repeating them; and four instances of command-voice aimed at readers ("a reviewer should…")
 were conformed to the project's stance that the path is offered, never assigned — on the front
-page, the sweep's header, and the queue. Substance unchanged throughout.
+page, the sweep's header, and the queue. Substance unchanged throughout. And the rendered
+mirror went live the same night — frontieraiaccountabilityproject.github.io/model-act, one
+committed theme line, republishing itself on every push — with the front page now linking it;
+the repository remains the authoritative record.
 
 **Between versions — 23 August 2026, the research sweep.** No change to the tagged statute. The
 day's intake entered at its owners: the enacted-family primary texts reached the shelf (CA SB 53,
