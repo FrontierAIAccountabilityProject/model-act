@@ -10,14 +10,16 @@ FrontierAIAccountabilityProject@proton.me.*
 
 ## The ask
 
-One seat, one lane, scope in writing before work begins. The bounded form: the statute straight
-through, then this packet, then **three findings of your choosing, verified or refuted, with
-reasons** — a complete and publishable disposition, perhaps six to eight hours. Your disposition
-is published as written, including "approved with reservations," including hostile. **A
-disposition that refutes one finding is worth more to this project than a full pass that agrees
-with everything.** The three findings are yours to choose; the questions and drafted responses in
-this packet are the menu they may be chosen from, not additional work — answering any one numbered
-question is a complete finding.
+One seat, one lane, scope in writing before work begins. Unpaid. The bounded form: the statute
+straight through, then this packet, then **three findings, verified or refuted, with reasons** — a
+complete and publishable disposition, perhaps six to eight hours. Your disposition is published as
+written, including "approved with reservations," including hostile. **A disposition that refutes
+one finding is worth more to this project than a full pass that agrees with everything.**
+
+**The arithmetic, so the packet's size never reads as the ask:** everything below is a menu of
+candidate findings — six questions, six drafted repairs — and **any three items complete the
+disposition**. One answered question is one finding. One repair verified, or refuted, is one
+finding. A defect of your own discovery outranks anything on the menu.
 
 ## Read first — the statute itself
 
@@ -73,7 +75,8 @@ and nothing answers the care half.
 
 *Reproduced verbatim from [the queue](../audit/v3_5_cure_language.md), grading intact:
 sweep-derived and intake-derived entries are hypotheses, expressly not settled drafting, and the
-intake-derived entries are additionally AI-assisted and not maintainer-validated.*
+intake-derived entries are additionally AI-assisted and not maintainer-validated. Each entry is a
+candidate finding — verifying or refuting one is a complete finding for the disposition.*
 
 ## OPEN QUESTION 1 — SEC. 3(c)(4): does Connecticut become a fourth interim standard?
 
@@ -462,7 +465,9 @@ to the Agency, gives rise to a civil action for reinstatement, double back pay, 
 
 ---
 
-## III. Your six questions
+## III. The question menu — any three complete the disposition
+
+Six candidates; each answered is one finding. Replace any of them with findings of your own.
 
 1. Is the reconstructed SEC. 6(a) chargeable?
 2. Is due care as an element the right cure for the *Alleyne* problem?

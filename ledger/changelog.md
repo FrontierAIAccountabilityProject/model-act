@@ -23,7 +23,11 @@ concordance mapping its working vocabulary onto the state-of-play states, and it
 CURE 6/7 summaries were reduced to pointers at the ⚠ blocks inside the entries, which were
 repeating them; and four instances of command-voice aimed at readers ("a reviewer should…")
 were conformed to the project's stance that the path is offered, never assigned — on the front
-page, the sweep's header, and the queue. Substance unchanged throughout. And the rendered
+page, the sweep's header, and the queue. Substance unchanged throughout. And a late
+correction to the packet's own arithmetic: six questions and six drafted repairs beside an ask
+for three findings read as contradiction, so the packet and the lane tables now state the rule in
+their structure — the questions are a menu, any three items complete a disposition — and the
+packet's ask regained the word "Unpaid," which the compression had dropped. And the rendered
 mirror went live the same night — frontieraiaccountabilityproject.github.io/model-act, a committed
 configuration, republishing itself on every push — with the front page now linking it;
 the repository remains the authoritative record.
