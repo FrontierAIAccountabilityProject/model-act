@@ -122,6 +122,7 @@ and the corrections at [E25–E31](./ledger/errata.md) are what drift looked lik
 | Where did that quotation come from? | [the verification record](./research/verification_record.md) |
 | How many incidents, and who disclosed? | [the press corpus](./research/press_corpus_july_august_2026.md) § 7 |
 | What are states already doing to officers? | [the state enforcement record](./research/state_enforcement_record_2026.md) |
+| Which primary instruments has the project actually read? | [the verification record § 6](./research/verification_record.md) |
 | What's the answer to *[objection]*? | [known objections](./docs/known_objections.md) |
 | What is proposed but not yet law? | [the v3.5 queue](./audit/v3_5_cure_language.md) |
 | What did the project get wrong? | [the errata register](./ledger/errata.md) |

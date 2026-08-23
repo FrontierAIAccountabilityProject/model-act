@@ -167,5 +167,43 @@ Logged so the trail is visible: the two-twelves overlap was published as five co
 comparison table labelled H.R. 9917 the "FRONTIER vehicle" when H.R. 9917 is the **AI Kill
 Switch Act** and the FRONTIER Act is H.R. 9925. Both entered [the errata register](../ledger/errata.md).
 
+## 6. The instruments — read in full, cited from coverage, pending
+
+*Added 23 August 2026, after a demonstration of why it was needed: the Hugging Face technical
+timeline was cited three times in [the dossier](../dossier/README.md), down to the
+lowered-refusals detail, while this record — the file that claims to own every source — had no
+entry for it. A fresh reader therefore reported it "unread." Whether it was read is exactly what
+this record failed to say. This section ends that class of error: **an instrument appears here
+before any file relies on it, and its read-status is a recorded fact, not a recollection.**
+"Cited from coverage" is a status, not a shame; invisible status is the defect.*
+
+### Instruments of the 2026 record
+
+| Instrument | Read-status | Relied on at |
+|---|---|---|
+| UK AISI incident report INC-2026-07-28-01 (4 Aug) | **Read in full** | [its own file](./aisi_incident_inc_2026_07_28_01.md) — the record's one government-authored entry |
+| 15-state AG preservation letter (3 Aug) | **Read in full, 23 Aug** (five pages; held privately, outside the repository) | [enforcement record § 3](./state_enforcement_record_2026.md), graded against it |
+| Hugging Face technical timeline (27–28 Jul) | **Cited with detail; read-status unrecorded.** An earlier session may have read it in full; this record never logged it. Before any reliance beyond what the dossier already carries: fetch, read, and log here. | dossier ×3; the 17,000-actions figure also travels through the AG letter |
+| OpenAI incident statement (21 Jul) | Cited as the disclosure-order anchor; read-status unrecorded | dossier § disclosure order; enforcement record § 3 (as the letter's own link) |
+| Florida v. OpenAI filed complaint (1 Jun) | **Excerpt only** — full read gates any further quotation | [enforcement record § 1](./state_enforcement_record_2026.md) |
+| 42-state subpoena (12 Jun) | **Not public** — nothing may be attributed to its text | enforcement record § 2 |
+| The AG letter's own press base (Reuters 24 Jul; Tom's Hardware; BBC) | Cited via the letter's five embedded links, extracted 23 Aug | enforcement record § 3 |
+
+### Legal texts the queue leans on
+
+| Text | Read-status | Relied on at |
+|---|---|---|
+| Cal. SB 53 (Stats. 2025, ch. 138) | **Relevant provisions reproduced in the repository** | [interim standards](../standards/interim_standards.md) |
+| GAAIA discussion draft § 121 (4 Jun; not introduced) | Subsections (b) and (e) **pinned verbatim**; full-draft read unrecorded | [the record § C.2](../audit/record.md) |
+| FRONTIER Act, H.R. 9925, § 9 | Characterised; full-text read unrecorded | the record; [standing watch](../audit/standing_watch_2026-08-20.md) |
+| *United States v. Park*, 421 U.S. 658 (1975) | Three burden passages **verified against the reported opinion, 22 Aug** (prima facie at 673–74; impossibility at 672–73; the two burdens at 673); full-opinion read pending before CURE 8 lands | [CURE 8](../audit/v3_5_cure_language.md); companion notes |
+| 18 U.S.C. § 1365(h)(3)–(4) | **Verified verbatim, 23 Aug** | CURE 1 and its addendum |
+| 21 C.F.R. § 803.3(w) | **Verified via the live eCFR** | SEC. 1(b)(8); the CURE 1 addendum |
+
+*Rule, from the incident that created this section: when a file cites an instrument this table does
+not carry, the citation is the defect — add the row before the reliance.*
+
+---
+
 *Owner of this record: nothing else in the repository maintains a competing source list. Argument
 files point here. Corrections enter [the errata register](../ledger/errata.md).*
