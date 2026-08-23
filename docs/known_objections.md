@@ -142,6 +142,37 @@ than on AI systems"* (CDT, 20 Aug 2026, reusable with credit; primary texts queu
 answered the personhood deflection. The only question left standing is *which* legal person —
 which is this Act's entire subject.
 
+## "So this is an FDA for AI?" — no, and the difference is the design — added 24 August
+
+The question arrives from both directions: critics who fear a licensing agency, and allies who
+ask why the Act does not create one. The answer is on the statute's face. SEC. 3(b): *"No
+standard, rule, or mode of validation under this Act may condition any deployment, expansion, or
+release upon the prior affirmative approval of the Agency or of any officer of this State."*
+**The Act takes the FDA's doctrine and refuses the FDA's licence.** From food-and-drug law it
+borrows the responsible-relation principle — duty on the person standing between a public danger
+and the public — and the post-market machinery: records, reporting clocks, certification,
+enforcement. What it deliberately does not borrow is premarket approval: no queue outside an
+agency's door, no examiner deciding what may ship, no bottleneck for the innovation objection to
+point at.
+
+The literature the project holds argues both sides, and the design answers each. Against
+approval-regulation: the pharmaceutical model fits a protracted, stable development process, and
+frontier development "could not be more different" (the entity-based paper's contrast, citing
+Carpenter & Ezell's *An FDA for AI?* — the pitfalls analysis). For it: the 2026 record shows the
+government reaching for pre-release review the moment a model frightened it — the Mythos
+restriction, the White House's brief exploration of predeployment review, the voluntary
+framework it settled into (E.O. 14409), and CAISI's predeployment agreements
+([the census](../standards/frontier_bill_census.md) and
+[the watch](../audit/standing_watch_2026-08-20.md) own the facts). The survey literature's own
+verdict is that a licensing or pretesting regime *"can only be part of the story"* — effective
+governance also requires *"continuous postmarket monitoring, incident response, and enforcement
+mechanisms"* (CSIS, Aug 2026, ⚠ P). **That second half is what this Act is.** Where the voluntary
+predeployment regime depends on the developer's continued goodwill, the Act attaches duties that
+survive the handshake — and it does so without ever making the State a gatekeeper, which is both
+the constitutional posture (no prior restraint anywhere in the design) and the honest answer to
+the innovation objection: nothing in this Act delays a single deployment by a single day. It
+prices the decision; it never takes the decision away.
+
 *The argument this page defends: [the case](./the_case.md). The definitions it defends:
 [the definition](./the_definition.md). The operative language under attack:
 [the statute](../model_act_v3_4.txt) and [the v3.5 queue](../audit/v3_5_cure_language.md).*

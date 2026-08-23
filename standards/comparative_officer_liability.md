@@ -331,6 +331,50 @@ penalties, enforced for fifty years — in the field whose hazards (diffuse, del
 institutional) most resemble this one's. The Act's innovation is the subject matter, not the
 mechanism.
 
+### § 5 addendum, same night — a precision owed, and three finds from the shelf's long documents
+
+**The precision (candidate erratum, maintainer to number).** The paragraph above maps Lyness's
+four-goal agenda onto the Act's own provisions. His Part IV, read in full after that paragraph was
+committed, sharpens the fit and the honest statement is this: on three of the four goals — no
+mens-rea requirement (in the civil form), uniform application, broad enforceability — the
+convergence holds. On the first, it does not: **Lyness argues for individual civil liability and
+"only civil liability,"** expressly excluding the criminal form as the target of the "extreme and
+illegitimate" critiques (64 B.C. L. Rev. at 297–99). The Act takes the criminal road with a
+due-care culpability floor (SEC. 6(c)) — the design he would critique, answered at
+[the case](../docs/the_case.md) and [known objections](../docs/known_objections.md), not assumed
+away. His fourth goal also names a mechanism the Act deliberately lacks: **citizen suits.** The
+Act's route for private information is the SEC. 11 award (private knowledge funding public
+enforcement), not a private action; a reader pressing the citizen-suit question should be pointed
+at that design choice, which [bracketed matter](./bracketed_matter.md) does not currently discuss
+and a drafting session may wish to.
+
+**Find one — the doctrine reaches inside government.** *United States v. Dee*, 912 F.2d 741,
+747–49 (4th Cir. 1990), cert. denied, 499 U.S. 919 (1991): civilian **U.S. Army managers** of a
+federal chemical facility, convicted under RCRA, their culpability arising *"solely from their
+ongoing failure to comply … during the period they were responsible"* (as summarised at Hustis &
+Gotanda, 25 Loy. U. Chi. L.J. at 172 n.15, article in hand). The responsible-officer principle is
+not confined to the private sector — a fact with obvious weight in a record whose most-documented
+incident occurred at a government institute.
+
+**Find two — the enforcement wave, quantified.** The same article's opening pages record a DOJ
+official's estimates from the early-1990s wave: officers and managers were 80% of individuals
+prosecuted for environmental crimes since 1983, and **68% of all jail time ever served for
+environmental violations was imposed in that period** (at 169–70 & n.4). And the modern
+counterpoint, from Lyness's Part IV: by FY2020 federal environmental enforcement had fallen to
+its lowest levels in twenty years — 82 civil judicial cases concluded, 81 criminal referrals
+(at 295). The pairing is the state-tool argument in two numbers: the doctrine works when
+enforced, and federal enforcement is not a constant anyone may assume.
+
+**Find three — the case studies, and a fifth venue.** Lyness's Part V (read in full) offers
+Massachusetts and Oregon as adoption models: Massachusetts as the **"ideal jurisdiction"** —
+near-uniform environmental definitions of "person" that already include *"any officer, employee,
+or agent of said person"* (Mass. Gen. Laws ch. 21C, § 2), so that *"[a]ll it would take is for
+one advocate to convince one judge"* (at 303–05); Oregon as the case where piecemeal definitions
+mean *"legislative adoption would be more comprehensive. A single statute could create a uniform
+category"* (at 305–06). The second sentence is the model-act argument, stated by the doctrine's
+own scholar; the first adds Massachusetts to the venue map — see
+[for legislators §§ 4–5](./for_legislators.md).
+
 ## Open items in this file
 
 1. The Copenhagen dispatch (§ 3), unpinned and therefore unused.

@@ -219,6 +219,11 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | Utah H.B. 249 (2024) | Identified via Liebman extract; text not opened | CURE 19 |
 | Tennessee SB 837 / HB 849 (114th G.A.) | Identified (trackbill; local coverage); **enrolled text not in hand** — capitol PDF blocks automated retrieval; pull manually | CURE 19 |
 | Liebman, 61 Wake Forest L. Rev. 115 (2026) | Extract retrieved 23 Aug (⚠ R); full PDF wanted for the shelf | CURE 19 |
+| H.R. 8094 (119th), AI Foundation Model Transparency Act of 2026 | **Primary read in full (16 pp.), night of 23–24 Aug** — introduced print on the shelf | census; [the definition](../docs/the_definition.md) |
+| Lyness — second upgrade | **Parts IV–V read in full, same night** — the whole article is now read | comparative § 5 addendum; for legislators § 4 |
+| Hustis & Gotanda — upgrade | **Introduction and Part I–II opening read** (pp. 169–73): the 80%/68% enforcement-wave estimates; *United States v. Dee*; the three-theories map. Body Parts III–VII unread | comparative § 5 addendum |
+| CRS-style compilation, "Enforcement of Federal Pollution Control Laws" | **Identified only** — the congress.gov capture renders unreadably small; the criminal-provision tables are visible as structure. Text edition wanted before any citation | — |
+| DLA Piper *AI Laws of the World*; Binns | **Still unread** — honest state; queued for the next scan | — |
 | 33 U.S.C. § 1319(c)(6) | **Retrieved verbatim, 23 Aug** (uscode.house.gov, ⚠ R) | [comparative § 5](../standards/comparative_officer_liability.md) |
 | 42 U.S.C. § 7413(c)(6) | **Retrieved verbatim, 23 Aug** (LII, ⚠ R) | comparative § 5 |
 | Lyness, 64 B.C. L. Rev. 253 (2023) | **In hand (shelf); TOC, abstract and Part II §§ A–B read 23 Aug**; Parts III–V unread — the state-by-state survey awaits [for legislators § 4](../standards/for_legislators.md) | comparative § 5 |

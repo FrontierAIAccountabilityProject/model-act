@@ -314,7 +314,18 @@ venue notes fall out: Connecticut's courts already extend the doctrine to any st
 public-welfare statute (*Celentano*) — a fact for [OPEN QUESTION 1](../audit/v3_5_cure_language.md);
 and Illinois pairs a "well-developed" judicial doctrine with the strongest enacted frontier
 statute, which sharpens § 5's Illinois entry. *Washington's* McNamara formulation — ability to
-prevent or correct — is SEC. 6(e)'s own phrase, in a state appellate holding.
+prevent or correct — is SEC. 6(e)'s own phrase, in a state appellate holding. **Addendum, same night — the survey's own case studies, and a fifth venue.** Lyness's Part V
+(now read in full) models adoption in two further states. **Massachusetts** is his "ideal
+jurisdiction": its environmental statutes define "person" near-uniformly to include *"any
+officer, employee, or agent of said person"* (Mass. Gen. Laws ch. 21C, § 2) — and Massachusetts
+also carries a pending frontier-family bill (S 2630, the census). A state whose code already
+names the officer, meeting a frontier bill already in its legislature, is a venue theory of its
+own: the doctrine-ready state. **Oregon** supplies the closing argument instead: with piecemeal
+definitions, *"legislative adoption would be more comprehensive. A single statute could create a
+uniform category of individual civil liability … enforceable by the state and citizens alike"*
+(at 305–06) — the case for a drafted uniform text, made by the doctrine's own scholar. One
+honesty note travels with both: Lyness's revitalisation is **civil-only** by design; the
+criminal tier is this Act's choice, defended at its own files, not his.
 
 
 

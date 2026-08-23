@@ -878,6 +878,22 @@ opened)*:
 - [ ] **Idaho and Tennessee — the AI-personhood-denial acts** (CDT) — statutes providing AI
   systems are not legal persons. Bill numbers to confirm; primary texts unopened; used at
   [known objections](../docs/known_objections.md) at the surveyor's grade only.
+- [x] **Federal — H.R. 8094** — done, night of 23–24 Aug, ✅ **primary read in full, all sixteen
+  pages** (introduced print on [the shelf](../research/verification_record.md)). The **AI
+  Foundation Model Transparency Act of 2026** (Beyer, Lawler, Jacobs — bipartisan; introduced
+  26 Mar 2026; Energy & Commerce). FTC-administered transparency regulations for foundation
+  models; enforcement as an FTC unfair-or-deceptive-practices rule violation, entity-level; a
+  full open-source exemption; small-business grace period. **No officer, no signature, no
+  incident reporting, and no preemption provision anywhere in it.** The row's find is the
+  coverage clause, (l)(3)(A)(iv): a covered entity includes one whose model *"was trained using
+  a quantity of computing power greater than 10²⁶ integer or floating point operations,
+  including computing used by the entity for the original training run and for any subsequent
+  fine-tuning, reinforcement learning, or other material modifications the entity applies"* —
+  **this Act's lineage-compute counting, in a bipartisan federal bill**, beside a
+  capability-risk trigger, two adoption-scale triggers (10M users; 10M downloads), and
+  rule-updatable thresholds. The drafting convergence is recorded at
+  [the definition](../docs/the_definition.md); the central finding stands — another federal
+  vehicle, and nobody in it is a person.
   **Update, same evening:** mostly resolved, with two corrections to the surveyor. Idaho is
   **H.B. 720 (2022)** — not a 2026 act — Idaho Code § 5-346, operative sentence retrieved
   verbatim. **Utah H.B. 249 (2024)** joins the enacted set (the surveyor omitted it here).

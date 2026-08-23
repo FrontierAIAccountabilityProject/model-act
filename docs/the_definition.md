@@ -108,7 +108,13 @@ any model below the number, prospectively; the open queue adds the developer's o
 proposal. The scoping contrast with the enacted family makes the same point from the other side:
 California's revenue screen covers, on the survey's count, exactly **two developers** (CSIS, Aug
 2026, via Epoch's May 2026 census — three public models above 10²⁶). A trigger that narrow is a
-choice; this Act's function-plus-scale architecture is the answer to it.
+choice; this Act's function-plus-scale architecture is the answer to it. **And the lineage-counting rule now has a federal sibling** (added the same night): H.R. 8094,
+the bipartisan AI Foundation Model Transparency Act of 2026, reaches a model *"trained using a
+quantity of computing power greater than 10²⁶ … including … the original training run and … any
+subsequent fine-tuning, reinforcement learning, or other material modifications"* — the same
+figure, counted the same lineage-inclusive way, with thresholds updatable by rule
+([the census](../standards/frontier_bill_census.md#the-queue) carries the full row). The Act's
+most-criticised definitional choice is now also Congress's bipartisan drafting instinct.
 
 ## Where the operative text stands
 
