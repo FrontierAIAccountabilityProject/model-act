@@ -1,0 +1,8 @@
+# GitHub Pages mirror — deliberately the zero-maintenance version.
+# This file is the entire configuration: the theme below, plus Pages' own defaults
+# (relative .md links become page links; the README serves as the front page; each
+# page takes its title from its first heading; every push republishes automatically).
+# Nothing here ever needs editing when content changes.
+title: "Model Act — Frontier AI Public Welfare Offenses"
+description: "A public-domain model state statute extending responsible-officer liability to frontier AI — drafted in public, with its audits, errata, and full drafting record published beside it."
+theme: jekyll-theme-primer
