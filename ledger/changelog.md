@@ -3,9 +3,20 @@
 
 ## Part II — The changelog
 
-**Between versions — 24 August 2026, format only.** REVIEWERS.md's five lane briefs converted from
-prose to per-lane tables (same six rows each; substance, links, and questions unchanged), per that
-page's own maintenance rule. No change to the tagged statute or to any other file's content.
+**Between versions — 24 August 2026, the reviewer surface.** No change to any tagged text. Two
+passes, same day. First, format: the five lane briefs converted from prose to per-lane tables.
+Second, workflow — built around the observation that a reviewer works from one place or not at
+all: every drafted-response reference in the lane tables now links to its queue entry; each lane
+table gained a row of the errata already filed in that lane (pointers into
+[the register](./errata.md), never copies); the state-of-play table moved ahead of the filing
+instructions, its row states conformed to its own legend, and it now names the companion's READ
+FIRST table as the senior index — the four still-open READ FIRST items with no queue counterpart
+entered as HELD rows, the cross-identities (item 6 = the open-source floor question; item 8 = the
+security objectives question; item 11 = CURE 4's target) stated in place, and conforming the
+companion's own table listed for the v3.5 landing. And the first single-page lane packet —
+criminal law, at `packets/` — is assembled by committed script from the sweep, the queue, and the
+register, so a reviewer can print one document and work from it; the sources remain the
+authority.
 
 **Between versions — 23 August 2026, the research sweep.** No change to the tagged statute. The
 day's intake entered at its owners: the enacted-family primary texts reached the shelf (CA SB 53,

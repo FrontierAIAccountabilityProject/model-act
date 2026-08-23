@@ -117,10 +117,15 @@ sweep is wrong is the most valuable disposition this project can receive, becaus
 it. *Numbering note: "v3.4 cures" are the sealed set, already landed and diffable; "CURE 8–16" are
 sweep-derived and expressly not maintainer-drafted; open questions are decisions, not defects.*
 
-*Each lane is one table, same six rows: what you read, what the sweep found there, what has been
-drafted in answer, the questions that are yours, the shelf, and the donor material the intake of
-23–24 August added. Substance unchanged from the prose version this replaces; the changelog has
-the date.*
+*Each lane is one table, same seven rows: what you read, what the sweep found there, what has been
+drafted in answer, the questions that are yours, the shelf, the errata already filed in your lane,
+and the donor material the intake of 23–24 August added. Five register entries are method-wide
+rather than lane-specific — E21, E22 (extended by E32), E27, and E33 — and govern how every date,
+quotation, count, and file-status claim in the evidence base was made;
+[the register](./ledger/errata.md) itself is short and worth ten minutes. The criminal lane
+additionally has the first [single-page packet](./packets/criminal_law.md) — its whole apparatus
+inlined in reading order, assembled by committed script so it cannot silently drift; the other
+four lanes follow the same builder.*
 
 ### Criminal law
 
@@ -128,9 +133,10 @@ the date.*
 |---|---|
 | **Your text** | SEC. 1, 4, 5–6, and 10(b)–(c) of the statute · v3.4 cures 2, 5, and 13 · the penalty and harm-tier chunks of [the record](./audit/record.md#chunk-3) |
 | **The sweep's findings** *(all contestable)* | SEC. 6(a) **cannot be pleaded** — no element requires that a SEC. 5 violation occurred, nothing connects the due-care failure to it, and "the relevant risk" has no antecedent in the section · SEC. 5(d) is a **strict-liability false-statement crime** whose own drafting note cites a statute requiring knowledge · SEC. 6(b)(2) attaches a felony with no fault element · SEC. 6(e) silently widens the "practical power" SEC. 4(a) narrowed · SEC. 6(d) deletes *Park*'s production burden, which may be why the offense would never be charged |
-| **Drafted in response** | CUREs 8, 11, 12 |
+| **Drafted in response** | [CURE 8](./audit/v3_5_cure_language.md#cure-8--sec-6-the-individual-liability-offense-reconstructed), [CURE 11](./audit/v3_5_cure_language.md#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice), [CURE 12](./audit/v3_5_cure_language.md#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) |
 | **Your questions** | (1) Is the reconstructed SEC. 6(a) chargeable? (2) Is due care as an element the right cure for the *Alleyne* problem? (3) Does the restored burden survive? (4) Is CURE 1's answer — one injury definition, not two — right? (5–6) The two the sweep could not settle: does a state's suspended-sentence law defeat the harm-tier minimum, and does per-victim counting survive the state's merger doctrine? |
 | **Your shelf** | the statute · the sweep's criminal section · CUREs 1, 8, 11, 12 · [comparative officer liability](./standards/comparative_officer_liability.md) · the companion where the lane points |
+| **Errata in your lane** | [E1](./ledger/errata.md#e1--engineer-exemption-claimed-as-written-in-fact-implied-not-yet-express) — the engineer exemption was claimed as written; it is implied, not yet express · [E8](./ledger/errata.md#e8--in-one-paragraph-true-of-the-duty-silent-on-the-entity-in-the-paragraph-built-to-be-quoted) — the entity tier is strict liability; the front-page summary once said otherwise |
 | **Donor, 23–24 Aug** | CURE 8's reconstruction now sits beside the *Dougherty* three-factor formulation the state courts adopted (the queue's fatals pass; [comparative § 5](./standards/comparative_officer_liability.md)) — checking one against the other is the fastest version of your first question |
 
 ### Enforcement and prosecution
@@ -139,9 +145,10 @@ the date.*
 |---|---|
 | **Your text** | SEC. 5, 9, 10, and 12 · [chunk 3](./audit/record.md#chunk-3) and [chunk 5](./audit/record.md#chunk-5) of the record |
 | **The sweep's findings** | **OPEN QUESTION 4 is the most consequential item in the repository** — SEC. 2(a)'s "and not otherwise" and SEC. 1(c) tether every duty to in-state deployment, while the 2026 incidents were *evaluation* conduct, mostly offshore, so five of six fall outside the Act at the threshold · SEC. 5(e) criminalises refusing a demand **no provision authorises** · SEC. 5(b), the only offense matching the conduct, is rule-gated into year four · SEC. 9(b)'s clock is unprovable against the real timelines and rewards certifying less monitoring · SEC. 3(c)(2)(D) makes the honest filer the easier defendant |
-| **Drafted in response** | CUREs 9, 10, 14, 15, 16, and OQ4's amendment |
+| **Drafted in response** | [CURE 9](./audit/v3_5_cure_language.md#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import), [CURE 10](./audit/v3_5_cure_language.md#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four), [CURE 14](./audit/v3_5_cure_language.md#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring), [CURE 15](./audit/v3_5_cure_language.md#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour), [CURE 16](./audit/v3_5_cure_language.md#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened), and [OQ4's amendment](./audit/v3_5_cure_language.md#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) |
 | **Your questions** | (1) Would you charge any of this? (2) Does the OQ4 amendment reach too far extraterritorially? (3) Are the four interim controls at CURE 10 the right four? (4) What does an attorney general's office actually do with this in year one? |
 | **Your shelf** | the statute · the sweep's enforcement section · OPEN QUESTION 4 · [the state enforcement record](./research/state_enforcement_record_2026.md) · record chunks 3 and 5 |
+| **Errata in your lane** | [E3](./ledger/errata.md#e3--no-signature-no-shipping-the-signature-is-not-a-gate-and-a-signed-confession-currently-counts) — a signed confession currently satisfies the certification · [E6](./ledger/errata.md#e6--commencement-the-copy-error-corrected-today) — commencement is layered, not day-one across the board · [E28](./ledger/errata.md#e28) — "all self-disclosed" was wrong; the victim disclosed first · [E29](./ledger/errata.md#e29) — OQ3's evaluator sentence was corrected once already; read the current text |
 | **Donor, 23–24 Aug** | From the queue's fatals pass: the select-agent comparator for CURE 10's four controls · a named public witness and an enforced state theory for CURE 16 · the Colorado repeal arc for OQ4's tier placement |
 
 ### Frontier security
@@ -151,8 +158,9 @@ the date.*
 | **Your text** | [the regulations](./model_regulations_v1_draft.md) as the primary text, then SEC. 2, 3, and 9(a) · v3.4 cures 11, 12, and 14 |
 | **The sweep's findings** *(this lane's fixes are* not *drafted)* | The safeguards-disabled evaluation with external reach falls into a hole between SEC. 2(c) and SEC. 2(a), so **nothing in the Act reaches the most dangerous configuration in the 2026 record** · Part 6's control objectives are process without substance — the incident record names five contributing factors, none a model property, and **the intersection with Part 6's six objectives is empty** · the halt capability is specified in hours against a kill chain that completes in minutes · the monitoring objective permits the very asynchronous review that produced the detection gap · nothing requires proof of what was actually serving |
 | **Drafted in response** | Nothing — **the seat is the response** |
-| **Your questions** | (1) Where would practice laugh? (2) Should disabling a safeguard for an evaluation carry a duty — including the case *against*? (3) What six control objectives would you write instead? |
+| **Your questions** | (1) Where would practice laugh? (2) Should disabling a safeguard for an evaluation carry a duty — including the case *against*? (3) What six control objectives would you write instead? — this is READ FIRST item 8 in [the companion](./model_act_v3_4_companion.md#read-first--open-items-for-the-next-revision-v35) |
 | **Your shelf** | the regulations' Part 6 · the sweep's security section · [the AISI incident file](./research/aisi_incident_inc_2026_07_28_01.md) · [the watch § 8](./audit/standing_watch_2026-08-20.md) · SEC. 2, 8, and 9 of the statute |
+| **Errata in your lane** | [E2](./ledger/errata.md#e2--certification-cadence-every-quarter-is-not-in-the-statute) — the certification is event-based, not quarterly · [E3](./ledger/errata.md#e3--no-signature-no-shipping-the-signature-is-not-a-gate-and-a-signed-confession-currently-counts) — the signature is not a shipping gate |
 | **Donor, 23 Aug** | 42 C.F.R. §§ 73.11 and 73.19 — the select-agent security-plan and escape-notification pattern, the federal template for "secure and isolated" written down ([the gallery's escape section](./standards/the_same_conduct.md#when-the-escaped-thing-was-the-crime)); your question (3) now has a federal answer sheet to mark against |
 
 ### Open source and academia
@@ -161,9 +169,10 @@ the date.*
 |---|---|
 | **Your text** | SEC. 1(b)(9) and 1(b)(1), SEC. 2's modification budget · v3.4 cures 1, 9, and 16 |
 | **The sweep's findings** | SEC. 1(b)(1)(B)'s "does not, standing alone, **extend a lineage**" is undefined in a criminal scope term, and the hostile reading covers every fine-tune of every open-weight frontier model · the interim standards apply with the enacting states' revenue screens **deliberately stripped**, to a criminally enforced duty, from day 180 · SEC. 2(c) excludes the agentic and tool-use research it most needs to protect · SEC. 8's personal certification **survives inside** SEC. 2(c), so a university president must personally certify before a lab may stand up a contained instance · SEC. 10(d)(2) suspension reaches every downstream in-state operator of a released open-weight model |
-| **Drafted in response** | CURE 13 only — the rest are unfixed |
-| **Your questions** | (1) Is the severance rule right? (2) Is the [10^24] floor in the right place for 2026 hardware? (3) Would your institution's counsel permit a SEC. 2(c) deployment as drafted? |
+| **Drafted in response** | [CURE 13](./audit/v3_5_cure_language.md#cure-13--sec-1b1b-say-sever-not-extend) only — the rest are unfixed |
+| **Your questions** | (1) Is the severance rule right? (2) Is the [10^24] floor in the right place for 2026 hardware? — READ FIRST item 6's question, narrowed to review (3) Would your institution's counsel permit a SEC. 2(c) deployment as drafted? |
 | **Your shelf** | SEC. 1(b) and 2(c) of the statute · the sweep's open-source section · CURE 6 and its amendment block · [the definition](./docs/the_definition.md) |
+| **Errata in your lane** | [E5](./ledger/errata.md#e5--it-was-never-going-to-be-you-true-for-the-weekend-model-not-yet-true-for-the-startup) — "it was never going to be you": true of the weekend model, not yet of the startup · [E26](./ledger/errata.md#e26) — a federal comparator bill was mislabelled once; the census row now carries the correction |
 | **Donor, 24 Aug** | The lineage-counting rule your lane attacks now has a bipartisan federal sibling — H.R. 8094 counts original run plus fine-tuning, RL and material modification above the same 10²⁶ line ([the definition](./docs/the_definition.md); the census row) — which reframes, without settling, both the [10^24]-floor question and CURE 13 |
 
 ### Fiscal and administration
@@ -175,7 +184,61 @@ the date.*
 | **Drafted in response** | Nothing — **the seat is the response.** The standing fiscal rule to hold us to: enforcement is never sold as self-funding, penalties are never booked as revenue, and startup costs are stated apart from steady state |
 | **Your questions** | (1) Is a note with no numbers reportable in your state? (2) What would you need to make it so? (3) Should CURE 7 be sequenced to v4 on administrability grounds, as the sweep's fiscal lane recommends and the maintainer has not accepted? |
 | **Your shelf** | the fiscal note · the sweep's fiscal section · SEC. 3, 10(f), and 12 of the statute · record chunk 3, part D |
+| **Errata in your lane** | [E4](./ledger/errata.md#e4--no-waiting-for-an-agency-vs-the-agency-approval-validation-mode) — the Agency-approval validation mode contradicted the no-gate design (struck at v3.4; the history matters to administrability) · [E6](./ledger/errata.md#e6--commencement-the-copy-error-corrected-today) — the commencement layers, and the copy error that hid them |
 | **Donor, 23 Aug** | The penalty brackets now carry enacted siblings ([bracketed matter](./standards/bracketed_matter.md) — CA/NY/IL all at \$1M) · the opposition's own cost claim — compliance "verifiable in seconds" — is logged at [the fiscal note § 5](./standards/fiscal_note.md) |
+
+## The state of play — every open item, one line each
+
+*This table is the whole open programme in one place. Senior to it is the companion's own
+[READ FIRST index](./model_act_v3_4_companion.md#read-first--open-items-for-the-next-revision-v35), tagged at v3.4 — eleven numbered
+items, each naming its missing reader. Its still-open items with no queue counterpart appear as
+rows below (READ FIRST 3's remainder, 4, 5, and 10); two more are the lanes' own questions in
+different clothes (item 6 = the open-source floor question; item 8 = the security objectives
+question); item 11 is what CURE 4 lands; its three state-specific items and one closed item are
+instructions for an adopting state and live only there. Conforming that table is on the v3.5
+landing list. The [drafting file](./audit/v3_5_cure_language.md) behind the rows is a working
+record — HOLDs, amendment blocks, entries in working order — and nobody is asked to read it top to
+bottom: come here, pick your lane's rows, follow the links you need. States: **DECISION** — the
+maintainer owes a call; **HELD** — a question awaiting a seat; **DRAFTED** — language written and
+checked; **⚠ AMEND FIRST** — drafted, but the sweep requires named amendments before it may land;
+**HYPOTHESIS** — sweep- or intake-derived language, expressly not settled drafting (intake-derived
+entries are additionally AI-assisted and not maintainer-validated); **NO DRAFTED RESPONSE** — the
+honest state, and why that lane's seat matters most.*
+
+*Twenty-nine rows: one decision owed, seven held, five drafted, two ⚠ amend-first, twelve
+hypotheses, and two lanes whose response is the seat.*
+
+| Item | In one line | State | Lane |
+|---|---|---|---|
+| [OPEN QUESTION 1](./audit/v3_5_cure_language.md#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) | Does Connecticut become a fourth interim standard? Recommendation on file: exhibit, not adopted. | **DECISION — owed at v3.5** | criminal |
+| [OPEN QUESTION 2](./audit/v3_5_cure_language.md#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) | Does the duty reach an evaluation run with safeguards disabled? Largely disposed if OQ4's amendment lands. | **HELD** | security · criminal |
+| [OPEN QUESTION 3](./audit/v3_5_cure_language.md#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) | Third-party evaluator: does practical authority still run to the commissioning officer? | **HELD** | enforcement |
+| [OPEN QUESTION 4](./audit/v3_5_cure_language.md#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) | The Act does not reach the conduct it was written after — five of six incidents fall outside at the threshold. Amendment drafted. **The single most important item.** | **HELD — amendment drafted** | enforcement · criminal · federalism |
+| [READ FIRST 3, remainder](./model_act_v3_4_companion.md#read-first--open-items-for-the-next-revision-v35) | The death-results minimum and the report-versus-element distinction — the injury half is CURE 1's. | **HELD** | criminal |
+| [READ FIRST 4](./model_act_v3_4_companion.md#read-first--open-items-for-the-next-revision-v35) | The drafted sentencing valve awaits a proportionality scholar's test against state constitutional clauses. | **HELD** | criminal |
+| [READ FIRST 5](./model_act_v3_4_companion.md#read-first--open-items-for-the-next-revision-v35) | Preemption architecture under live litigation; a federalism litigator's test as the cases develop — [the watch](./audit/standing_watch_2026-08-20.md) monitors. | **HELD — monitored** | federalism |
+| [READ FIRST 10](./model_act_v3_4_companion.md#read-first--open-items-for-the-next-revision-v35) | The consolidated Bluebook check — "a 2L with a Bluebook closes most of it in an afternoon." | **HELD** | — |
+| [CURE 1](./audit/v3_5_cure_language.md#cure-1--serious-injury-source-moves-to-18-usc--1365h34) | Injury definition moves to 18 U.S.C. § 1365(h)(3)–(4) — reaches mental-faculty impairment; addendum maps the old definition's blind spot. READ FIRST item 3's injury half. | **DRAFTED — outside-answered** | criminal |
+| [CURE 2](./audit/v3_5_cure_language.md#cure-2--sec-13c-a-review-valve-on-the-suspension-order) | A review valve on the preemption suspension order, forward-only. | **DRAFTED** | federalism |
+| [CURE 3](./audit/v3_5_cure_language.md#cure-3--the-regulations-conformed-to-v34) | The regulations conformed to v3.4 (near-miss, signatories, cadence, header). | **DRAFTED** | mechanical |
+| [CURE 4](./audit/v3_5_cure_language.md#cure-4--sec-9a-the-two-characterisation-shaped-triggers-recast-as-observable-events) | The two characterisation-shaped reporting triggers recast as observable events (the VW defeat-device pattern). Lands READ FIRST item 11. | **DRAFTED** | criminal · security |
+| [CURE 5](./audit/v3_5_cure_language.md#cure-5--sec-8-punctuation) | SEC. 8 punctuation. | **DRAFTED — mechanical** | — |
+| [CURE 6](./audit/v3_5_cure_language.md#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) | Self-designation route into scope — a developer's own 'frontier' claim as a jurisdictional fact. | **⚠ AMEND FIRST — 4 amendments, incl. a First Amendment question** | open-source · constitutional |
+| [CURE 7](./audit/v3_5_cure_language.md#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) | The covered frontier enterprise — compute suppliers and scale conditions. | **⚠ AMEND FIRST — 7 amendments; fiscal lane recommends sequencing to v4 (undecided)** | all lanes |
+| [CURE 8](./audit/v3_5_cure_language.md#cure-8--sec-6-the-individual-liability-offense-reconstructed) | SEC. 6 reconstructed so the central offense can be pleaded: predicate violation, nexus, Park's burden restored. | **HYPOTHESIS — sweep-derived** | criminal |
+| [CURE 9](./audit/v3_5_cure_language.md#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) | The records-demand authority the Act forgot to import (§ 331(e) without § 374). | **HYPOTHESIS — sweep-derived** | enforcement |
+| [CURE 10](./audit/v3_5_cure_language.md#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) | Four interim controls so SEC. 5(b) is not dormant until year four. | **HYPOTHESIS — sweep-derived** | enforcement · security |
+| [CURE 11](./audit/v3_5_cure_language.md#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) | Name the obligor; write the reporting duty in the active voice. | **HYPOTHESIS — sweep-derived** | criminal |
+| [CURE 12](./audit/v3_5_cure_language.md#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) | Restore the scienter SEC. 5(d)'s own donor requires. | **HYPOTHESIS — sweep-derived** | criminal |
+| [CURE 13](./audit/v3_5_cure_language.md#cure-13--sec-1b1b-say-sever-not-extend) | 'Sever,' not 'extend' — the open-weight fine-tune lineage fix. | **HYPOTHESIS — sweep-derived** | open-source |
+| [CURE 14](./audit/v3_5_cure_language.md#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) | A detection clock that cannot be gamed, plus notice to the people whose systems were breached. | **HYPOTHESIS — sweep-derived** | enforcement |
+| [CURE 15](./audit/v3_5_cure_language.md#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour) | A disclose-and-cure valve, because the text currently punishes candour. | **HYPOTHESIS — sweep-derived** | enforcement |
+| [CURE 16](./audit/v3_5_cure_language.md#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) | A deception limb, because Van Buren excludes what actually happened. | **HYPOTHESIS — sweep-derived** | enforcement |
+| [CURE 17](./audit/v3_5_cure_language.md#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) | Whistleblower remedies that fit a reporter outside employment — the record's actual reporter was one. | **HYPOTHESIS — intake-derived** | criminal |
+| [CURE 18](./audit/v3_5_cure_language.md#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) | An immediate-notice tier for incidents in progress, on the select-agent escape-clock donor. | **HYPOTHESIS — intake-derived** | enforcement · security |
+| [CURE 19](./audit/v3_5_cure_language.md#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) | A SEC. 0 finding: a system is not a person. Gate mostly discharged — Idaho Code § 5-346 verbatim in hand; Utah identified; Tennessee's text still to pull. | **HYPOTHESIS — intake-derived** | — |
+| [Security-lane findings](./audit/v3_5_lane_sweep.md#f5--the-safeguards-off-evaluation-falls-into-a-hole-between-sec-2c-and-sec-2a-security) | The SEC. 2(c)/2(a) hole around safeguards-disabled evaluations; Part 6's control objectives as process without substance; halt timing; monitoring. | **NO DRAFTED RESPONSE — the seat is the response** | security |
+| [Fiscal-lane findings](./audit/v3_5_lane_sweep.md#the-rest-of-the-register-in-brief) | No dollar figures; no defence line; no corrections section; eight omitted duties; an entitlement on an empty fund. | **NO DRAFTED RESPONSE — the seat is the response** | fiscal |
 
 ## Filing a disposition
 
@@ -195,43 +258,6 @@ reviewer's written disposition. The request is limited: provide an expert assess
 published under the reviewer's name.
 
 
-## The state of play — every open item, one line each
-
-*This table is the whole open programme. The [drafting file](./audit/v3_5_cure_language.md) behind
-it is a working record — HOLDs, amendment blocks, entries in working order — and nobody is asked to
-read it top to bottom: come here, pick your lane's rows, follow the links you need. States:
-**DECISION** — the maintainer owes a call; **HELD** — a question awaiting a seat; **DRAFTED** —
-language written and checked; **⚠ AMEND FIRST** — drafted, but the sweep requires named amendments
-before it may land; **HYPOTHESIS** — sweep-derived language, expressly not settled drafting;
-**NO DRAFTED RESPONSE** — the honest state, and why that lane's seat matters most.*
-
-| Item | In one line | State | Lane |
-|---|---|---|---|
-| [OPEN QUESTION 1](./audit/v3_5_cure_language.md#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) | Does Connecticut become a fourth interim standard? Recommendation on file: exhibit, not adopted. | **DECISION owed at v3.5** | criminal law |
-| [OPEN QUESTION 2](./audit/v3_5_cure_language.md#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) | Does the duty reach an evaluation run with safeguards disabled? Largely disposed if OQ4's amendment lands. | **HELD** | security · criminal law |
-| [OPEN QUESTION 3](./audit/v3_5_cure_language.md#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) | Third-party evaluator: does practical authority still run to the commissioning officer? | **HELD** | enforcement |
-| [OPEN QUESTION 4](./audit/v3_5_cure_language.md#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) | The Act does not reach the conduct it was written after — five of six incidents fall outside at the threshold. Amendment drafted. The single most important item. | **OPEN — amendment drafted** | enforcement · criminal · federalism |
-| [CURE 1](./audit/v3_5_cure_language.md#cure-1--serious-injury-source-moves-to-18-usc--1365h34) | Injury definition moves to 18 U.S.C. § 1365(h)(3)–(4) — reaches mental-faculty impairment; addendum maps the old definition's blind spot. | **DRAFTED (outside-answered)** | criminal law |
-| [CURE 2](./audit/v3_5_cure_language.md#cure-2--sec-13c-a-review-valve-on-the-suspension-order) | A review valve on the preemption suspension order, forward-only. | **DRAFTED** | federalism |
-| [CURE 3](./audit/v3_5_cure_language.md#cure-3--the-regulations-conformed-to-v34) | The regulations conformed to v3.4 (near-miss, signatories, cadence, header). | **DRAFTED** | mechanical |
-| [CURE 4](./audit/v3_5_cure_language.md#cure-4--sec-9a-the-two-characterisation-shaped-triggers-recast-as-observable-events) | The two characterisation-shaped reporting triggers recast as observable events (the VW defeat-device pattern). | **DRAFTED** | criminal · security |
-| [CURE 5](./audit/v3_5_cure_language.md#cure-5--sec-8-punctuation) | SEC. 8 punctuation. | **DRAFTED (mechanical)** | — |
-| [CURE 6](./audit/v3_5_cure_language.md#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) | Self-designation route into scope — a developer's own 'frontier' claim as a jurisdictional fact. | **DRAFTED — ⚠ 4 amendments required first (incl. a First Amendment question)** | open-source · constitutional |
-| [CURE 7](./audit/v3_5_cure_language.md#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) | The covered frontier enterprise — compute suppliers and scale conditions. | **DRAFTED — ⚠ 7 amendments required first; fiscal lane recommends sequencing to v4 (undecided)** | all lanes |
-| [CURE 8](./audit/v3_5_cure_language.md#cure-8--sec-6-the-individual-liability-offense-reconstructed) | SEC. 6 reconstructed so the central offense can be pleaded: predicate violation, nexus, Park's burden restored. | **HYPOTHESIS (sweep-derived)** | criminal law |
-| [CURE 9](./audit/v3_5_cure_language.md#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) | The records-demand authority the Act forgot to import (§ 331(e) without § 374). | **HYPOTHESIS (sweep-derived)** | enforcement |
-| [CURE 10](./audit/v3_5_cure_language.md#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) | Four interim controls so SEC. 5(b) is not dormant until year four. | **HYPOTHESIS (sweep-derived)** | enforcement · security |
-| [CURE 11](./audit/v3_5_cure_language.md#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) | Name the obligor; write the reporting duty in the active voice. | **HYPOTHESIS (sweep-derived)** | criminal law |
-| [CURE 12](./audit/v3_5_cure_language.md#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) | Restore the scienter SEC. 5(d)'s own donor requires. | **HYPOTHESIS (sweep-derived)** | criminal law |
-| [CURE 13](./audit/v3_5_cure_language.md#cure-13--sec-1b1b-say-sever-not-extend) | 'Sever,' not 'extend' — the open-weight fine-tune lineage fix. | **HYPOTHESIS (sweep-derived)** | open-source |
-| [CURE 14](./audit/v3_5_cure_language.md#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) | A detection clock that cannot be gamed, plus notice to the people whose systems were breached. | **HYPOTHESIS (sweep-derived)** | enforcement |
-| [CURE 15](./audit/v3_5_cure_language.md#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour) | A disclose-and-cure valve, because the text currently punishes candour. | **HYPOTHESIS (sweep-derived)** | enforcement |
-| [CURE 16](./audit/v3_5_cure_language.md#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) | A deception limb, because Van Buren excludes what actually happened. | **HYPOTHESIS (sweep-derived)** | enforcement |
-| Security-lane findings | The SEC. 2(c)/2(a) hole around safeguards-disabled evaluations; Part 6's control objectives as process without substance; halt timing; monitoring. | **NO DRAFTED RESPONSE — the seat is the response** | security |
-| Fiscal-lane findings | No dollar figures; no defence line; no corrections section; eight omitted duties; an entitlement on an empty fund. | **NO DRAFTED RESPONSE — the seat is the response** | fiscal |
-| [CURE 17](./audit/v3_5_cure_language.md#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) | Whistleblower remedies that fit a reporter outside employment — the record's actual reporter was one. | **HYPOTHESIS (intake-derived)** | criminal law |
-| [CURE 18](./audit/v3_5_cure_language.md#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) | An immediate-notice tier for incidents in progress, on the select-agent escape-clock donor. | **HYPOTHESIS (intake-derived)** | enforcement · security |
-| [CURE 19](./audit/v3_5_cure_language.md#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) | A SEC. 0 finding: a system is not a person. Gate mostly discharged — Idaho Code § 5-346 verbatim in hand; Utah identified; Tennessee's text still to pull. | **HYPOTHESIS (intake-derived)** | — |
 
 ## The whole repository
 
