@@ -295,3 +295,23 @@ polish.
 or as open questions with owners named; nothing in this document is in any tagged text. The
 statute's status is unchanged: [v3.4](../model_act_v3_4.txt), research draft, enacted nowhere,
 claiming no completed review.*
+
+---
+
+## Addendum — one finding after the sweep, 23 August 2026
+
+The day after this sweep closed, a walk through SEC. 1's definitions in order — not a lane, just
+reading — produced one further finding: under the tagged text's injury definition
+(21 C.F.R. § 803.3(w), entirely somatic), psychological harm is invisible to the SEC. 9(a) incident
+list and to the harm tier, and death enters only through "materially caused" into a report SEC. 9(c)
+leaves unpublished. It is recorded as an
+[addendum to CURE 1](./v3_5_cure_language.md) rather than as a new finding of this sweep, because
+the queue already held most of the repair: CURE 1's § 1365(h)(3)–(4) donor reaches protracted
+impairment of a mental faculty, and the addendum maps what that closes and the residue it does not —
+including that no duty anywhere in the Act runs to an injured person. The method point belongs in
+this document: **the five lanes did not find this, because none of the five was asked to read the
+definitions against the harms in the 2026 consumer-facing record.** A sixth reading — the
+plaintiff's — is not among the seats, and this is the finding that argues it should be.
+
+*The addendum drafts no operation and changes no tagged text; the sweep's framing is unchanged —
+this is not a review, and nothing here may be described as one.*
