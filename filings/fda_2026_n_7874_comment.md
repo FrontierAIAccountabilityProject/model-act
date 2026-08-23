@@ -20,6 +20,21 @@ as-filed comment, with the filing date and tracking number (if a receipt is elec
   26 remain unseen. If confirmed, it enters; until then the comment claims only what the
   cited exhibits themselves say.
 - **Two-surface note:** this artifact cites the repository only; no campaign surface is named here, per the project's standing rule
+- **Reader profile and the agency's own register — added 24 Aug** (from press coverage of the
+  docket's launch, ⚠ P, library): the discussion paper belongs to the **Digital Health Center of
+  Excellence**, directed since February 2026 by **Rick Abramson, MD** (a radiologist), under CDRH
+  director **Michelle Tarver, MD, PhD** — the comment's first readers. The agency's stated
+  vocabulary for this docket: a "risk-based approach"; "least burdensome principles"; a "nimble
+  regulatory approach"; "timely access to safe and effective medical devices"; a "transparent
+  process" that "safeguards patients and consumers"; Abramson's triad — "enable beneficial
+  innovation, protect public health and preserve trust"; and Tarver's "a potential model for
+  regulators around the world." **Filing-day drafting notes — the body sits at the character
+  limit, so any weave is a swap, not an addition:** (1) the architecture proposed already IS the
+  register — risk-based (duties scale to the deployed configuration), least-burdensome (no
+  premarket gate anywhere in it; SEC. 3(b) forbids one), timely-access-preserving (nothing in it
+  delays a deployment; it prices the decision) — and saying so in the agency's own words costs
+  about sixty characters. (2) The closer's candidate echo: the agency asked for "a potential
+  model"; a model, in statutory form, is what this comment attaches.
 
 ---
 

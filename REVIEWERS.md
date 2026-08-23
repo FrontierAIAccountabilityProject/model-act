@@ -41,8 +41,9 @@ every source, maintains its own incident census — three developers, five incid
 importing any outlet's number, and filed an erratum when it failed that rule;
 [the UK AISI incident report](./research/aisi_incident_inc_2026_07_28_01.md), read in full — the
 record's one government-authored entry; [a live state-enforcement record](./research/state_enforcement_record_2026.md)
-— the Florida suit naming an officer personally, the 42-state investigation, the fifteen-state
-letter read in full and its signature block resolved against the instrument; and
+— the Florida suit naming an officer personally (now with its docket identity), the 42-state
+investigation, the fifteen-state letter read in full and its signature block resolved against the
+instrument, and the Pennsylvania licensure action against a chatbot's fabricated credentials; and
 [a verification record](./research/verification_record.md) whose § 4 lists the claims that
 **failed** verification and whose § 6 gives every instrument the project relies on a recorded
 read-status.
@@ -53,8 +54,8 @@ across existing regimes; [a census of the frontier bills](./standards/frontier_b
 [a fiscal note](./standards/fiscal_note.md) that states its own defects; and close analyses of the
 field's language and practice, named in the tour below.
 
-**The ledger.** [An append-only errata register](./ledger/errata.md) — nineteen entries under
-numbers that reach E32, the numbers being identifiers rather than an ordering, each mistake
+**The ledger.** [An append-only errata register](./ledger/errata.md) — twenty entries under
+numbers that reach E33, the numbers being identifiers rather than an ordering, each mistake
 published with its fix attached, including entries that record a *rule* changing rather than a
 claim failing. [A changelog](./ledger/changelog.md) with tag checksums. [A diary](./ledger/diary.md).
 
@@ -131,7 +132,10 @@ suspended-sentence law defeats the harm-tier minimum, and whether per-victim cou
 state's merger doctrine.
 **Your shelf:** the statute · the sweep's criminal section · CUREs 1, 8, 11, 12 ·
 [comparative officer liability](./standards/comparative_officer_liability.md) · the companion where
-the lane points.
+the lane points. *Donor material added 23–24 Aug:* CURE 8's reconstruction now sits beside the
+*Dougherty* three-factor formulation the state courts adopted (the queue's fatals pass;
+[comparative § 5](./standards/comparative_officer_liability.md)) — checking one against the other
+is the fastest version of your first question.
 
 *Enforcement and prosecution* — SEC. 5, 9, 10, and 12; [chunk 3](./audit/record.md#chunk-3) and
 [chunk 5](./audit/record.md#chunk-5) of the record. **What the sweep says:** **OPEN QUESTION 4 is
@@ -147,6 +151,9 @@ at CURE 10 the right four; and what does an attorney general's office actually d
 one.
 **Your shelf:** the statute · the sweep's enforcement section · OPEN QUESTION 4 ·
 [the state enforcement record](./research/state_enforcement_record_2026.md) · record chunks 3 and 5.
+*Donor material added 23–24 Aug (the queue's fatals pass):* the select-agent comparator for CURE
+10's four controls; a named public witness and an enforced state theory for CURE 16; the Colorado
+repeal arc for OQ4's tier placement.
 
 *Frontier security* — [the regulations](./model_regulations_v1_draft.md) as the primary text, then
 SEC. 2, 3, and 9(a); v3.4 cures 11, 12, and 14. **What the sweep says, and note that this lane's
@@ -179,7 +186,11 @@ of a released open-weight model. **Drafted in response:** CURE 13 only — the r
 **Your questions:** is the severance rule right; is the [10^24] floor in the right place for 2026
 hardware; and would your institution's counsel permit a SEC. 2(c) deployment as drafted.
 **Your shelf:** SEC. 1(b) and 2(c) of the statute · the sweep's open-source section · CURE 6 and
-its amendment block · [the definition](./docs/the_definition.md).
+its amendment block · [the definition](./docs/the_definition.md). *Donor material added 24 Aug:*
+the lineage-counting rule your lane attacks now has a bipartisan federal sibling — H.R. 8094
+counts original run plus fine-tuning, RL and material modification above the same 10²⁶ line
+([the definition](./docs/the_definition.md); the census row) — which reframes, without settling,
+both the [10^24]-floor question and CURE 13.
 
 *Fiscal and administration* — [the fiscal note](./standards/fiscal_note.md) as the primary text,
 then SEC. 10(a) and (f), SEC. 11, SEC. 3; [chunk 3](./audit/record.md#chunk-3), part D. **What the
@@ -256,7 +267,7 @@ before it may land; **HYPOTHESIS** — sweep-derived language, expressly not set
 | Fiscal-lane findings | No dollar figures; no defence line; no corrections section; eight omitted duties; an entitlement on an empty fund. | **NO DRAFTED RESPONSE — the seat is the response** | fiscal |
 | [CURE 17](./audit/v3_5_cure_language.md#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) | Whistleblower remedies that fit a reporter outside employment — the record's actual reporter was one. | **HYPOTHESIS (intake-derived)** | criminal law |
 | [CURE 18](./audit/v3_5_cure_language.md#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) | An immediate-notice tier for incidents in progress, on the select-agent escape-clock donor. | **HYPOTHESIS (intake-derived)** | enforcement · security |
-| [CURE 19](./audit/v3_5_cure_language.md#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) | A SEC. 0 finding: a system is not a person; two states have enacted it. Gated on reading both acts. | **HYPOTHESIS (intake-derived)** | — |
+| [CURE 19](./audit/v3_5_cure_language.md#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) | A SEC. 0 finding: a system is not a person. Gate mostly discharged — Idaho Code § 5-346 verbatim in hand; Utah identified; Tennessee's text still to pull. | **HYPOTHESIS (intake-derived)** | — |
 
 ## The whole repository
 
