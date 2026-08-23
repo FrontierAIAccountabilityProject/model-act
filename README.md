@@ -3,7 +3,7 @@
  
 **Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
 
-**Readable as a website:** [frontieraiaccountabilityproject.github.io/model-act](https://frontieraiaccountabilityproject.github.io/model-act/) — the same pages, styled for reading. This repository remains the authoritative record.
+**One text, two doors:** [the website](https://frontieraiaccountabilityproject.github.io/model-act/) — these pages styled for reading, with search — and [the file repository](https://github.com/FrontierAIAccountabilityProject/model-act) — the versioned source files, which remain the authoritative record. On the website, the file repository is also the top-right link.
 
 **Invited to review?** This page is worth reading in full — the guide just below maps it. Then [REVIEWERS.md](./REVIEWERS.md) carries your bounded path, your lane's brief, and the terms.
  

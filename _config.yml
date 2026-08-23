@@ -25,7 +25,7 @@ enable_copy_code_button: true
 back_to_top: true
 back_to_top_text: "Back to top"
 aux_links:
-  "The repository — authoritative record":
+  "The file repository — authoritative record":
     - "https://github.com/FrontierAIAccountabilityProject/model-act"
 footer_content: "Public domain (CC0) · v3.4 tagged, checksums in the ledger · This site mirrors the repository; the repository is the authoritative record."
 
@@ -40,34 +40,34 @@ defaults:
       nav_exclude: true
   - scope:
       path: "REVIEWERS.md"
-    values: { nav_exclude: false, nav_order: 1 }
+    values: { nav_exclude: false, nav_order: 1, title: "For reviewers" }
   - scope:
       path: "packets/README.md"
-    values: { nav_exclude: false, nav_order: 2 }
+    values: { nav_exclude: false, nav_order: 2, title: "The packets" }
   - scope:
       path: "packets/criminal_law.md"
-    values: { nav_exclude: false, nav_order: 3 }
+    values: { nav_exclude: false, nav_order: 3, title: "The criminal-law packet" }
   - scope:
       path: "docs/the_case.md"
-    values: { nav_exclude: false, nav_order: 4 }
+    values: { nav_exclude: false, nav_order: 4, title: "The case" }
   - scope:
       path: "docs/the_statute_translated.md"
-    values: { nav_exclude: false, nav_order: 5 }
+    values: { nav_exclude: false, nav_order: 5, title: "The statute, translated" }
   - scope:
       path: "docs/questions.md"
-    values: { nav_exclude: false, nav_order: 6 }
+    values: { nav_exclude: false, nav_order: 6, title: "Questions" }
   - scope:
       path: "docs/the_definition.md"
-    values: { nav_exclude: false, nav_order: 7 }
+    values: { nav_exclude: false, nav_order: 7, title: "The definition" }
   - scope:
       path: "docs/known_objections.md"
-    values: { nav_exclude: false, nav_order: 8 }
+    values: { nav_exclude: false, nav_order: 8, title: "Known objections" }
   - scope:
       path: "standards/what_these_words_mean.md"
-    values: { nav_exclude: false, nav_order: 9 }
+    values: { nav_exclude: false, nav_order: 9, title: "The glossary" }
   - scope:
       path: "MAP.md"
-    values: { nav_exclude: false, nav_order: 10 }
+    values: { nav_exclude: false, nav_order: 10, title: "The map" }
   - scope:
       path: "archive"         # superseded versions: reachable by link, never by search
     values:
