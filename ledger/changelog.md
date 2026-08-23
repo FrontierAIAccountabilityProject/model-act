@@ -26,7 +26,8 @@ were conformed to the project's stance that the path is offered, never assigned 
 page, the sweep's header, and the queue. Substance unchanged throughout. And a late
 correction to the packet's own arithmetic: six questions and six drafted repairs beside an ask
 for three findings read as contradiction, so the packet and the lane tables now state the rule in
-their structure — the questions are a menu, any three items complete a disposition — and the
+their structure — the questions are a menu, any three items complete a disposition, and the full
+form is now defined rather than gestured at — the menu worked through whole is the seat — and the
 packet's ask regained the word "Unpaid," which the compression had dropped. And the rendered
 mirror went live the same night — frontieraiaccountabilityproject.github.io/model-act, a committed
 configuration, republishing itself on every push — with the front page now linking it;

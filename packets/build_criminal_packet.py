@@ -72,16 +72,18 @@ FrontierAIAccountabilityProject@proton.me.*
 
 ## The ask
 
-One seat, one lane, scope in writing before work begins. Unpaid. The bounded form: the statute
+One seat, one lane, scope in writing before work begins. Unpaid. **The floor:** the statute
 straight through, then this packet, then **three findings, verified or refuted, with reasons** — a
-complete and publishable disposition, perhaps six to eight hours. Your disposition is published as
+complete and publishable disposition, perhaps six to eight hours. **The whole seat:** the menu
+below worked through in full — every question answered, every drafted repair verified or refuted —
+roughly ten to twenty hours across eight weeks. Both are dispositions; both are published as
 written, including "approved with reservations," including hostile. **A disposition that refutes
 one finding is worth more to this project than a full pass that agrees with everything.**
 
-**The arithmetic, so the packet's size never reads as the ask:** everything below is a menu of
-candidate findings — six questions, six drafted repairs — and **any three items complete the
-disposition**. One answered question is one finding. One repair verified, or refuted, is one
-finding. A defect of your own discovery outranks anything on the menu.
+**The arithmetic:** everything below is the menu — six questions, six drafted repairs. Any three
+items are a complete disposition; all of them are the seat done whole. One answered question is
+one finding. One repair verified, or refuted, is one finding. A defect of your own discovery
+outranks anything on the menu.
 
 ## Read first — the statute itself
 
@@ -128,9 +130,10 @@ candidate finding — verifying or refuting one is a complete finding for the di
     """
 ---
 
-## III. The question menu — any three complete the disposition
+## III. The question menu
 
-Six candidates; each answered is one finding. Replace any of them with findings of your own.
+Any three answered are a disposition; all six, with the repairs above verified or refuted, are
+the seat done whole. Replace any of them with findings of your own.
 
 1. Is the reconstructed SEC. 6(a) chargeable?
 2. Is due care as an element the right cure for the *Alleyne* problem?
