@@ -140,6 +140,15 @@ claim: every line restates a citation already published elsewhere in the reposit
 | 33 U.S.C. § 1319(d) | SEC. 10(a); n.10, n.19 | Per-day accrual; the economic-benefit floor and factors |
 | 15 U.S.C. § 7243 (SOX § 304) | n.7, n.18 | No-fault clawback — kept for severity, not architecture |
 | 15 U.S.C. § 78u-6 (Exchange Act § 21F) | n.11 | The whistleblower award structure |
+| 33 U.S.C. § 1319(c)(6) | [comparative § 5](./comparative_officer_liability.md#5-the-united-states-today--the-codified-officer) | "Person" includes "any responsible corporate officer" — the doctrine codified, criminal subsection, felony tier |
+| 42 U.S.C. § 7413(c)(6) | comparative § 5 | The same codification in the Clean Air Act, added 1977 — post-*Park* |
+| *United States v. Iverson*, 162 F.3d 1015 (9th Cir. 1998) | comparative § 5 | Post-*Park* retention read as congressional ratification (at 1023–24) |
+| *United States v. Hodges X-Ray, Inc.*, 759 F.2d 557 (6th Cir. 1985) | comparative § 5 | The officer rationale "even more persuasive" for civil liability (at 561) |
+| *United States v. Morris*, 928 F.2d 504 (2d Cir. 1991) | [the gallery's escape section](./the_same_conduct.md#when-the-escaped-thing-was-the-crime); [already a crime § limb 2](./already_a_crime_for_you.md) | "Intentionally" attaches to access, not damage; the accidental self-replicating outbreak, convicted |
+| 7 U.S.C. § 7734 | the gallery's escape section | Knowing movement of a noxious weed: five-year felony |
+| 42 C.F.R. § 73.19 | the gallery's escape section; [who has to tell you § 4b](./who_has_to_tell_you.md); [CURE 18](../audit/v3_5_cure_language.md) | The select-agent escape clock: immediate notice, Form 3 in seven days |
+| Lyness, 64 B.C. L. Rev. 253 (2023) | comparative § 5; [for legislators § 4](./for_legislators.md) | The federal and state environmental RCO survey; the four-goal revitalisation agenda |
+| Hustis & Gotanda, 25 Loy. U. Chi. L.J. 169 (1994) | comparative § 5 | The enforcement-wave record (officers 80% of individuals prosecuted); the objection's title |
 | 15 U.S.C. §§ 7901–7903 (PLCAA) | field notes 3 (objection bank) | Gun-maker immunity as a legislative choice, not a default |
 | 42 U.S.C. § 2210 (Price-Anderson) | field notes 6 | The purchased shield — cap paid for with channelled liability |
 | 10 C.F.R. Part 55; § 50.5 | field notes 6 | Individually licensed operators; the deliberate-misconduct rule |

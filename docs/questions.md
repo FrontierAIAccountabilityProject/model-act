@@ -434,6 +434,18 @@ suspended provisions if a federal switch-off later lapses. State criminal law ov
 conduct harming people in-state is the last thing preemption reaches, which is why
 the core was built there.
 
+**Added 23 August 2026, for a First Amendment reader.** The self-designation route (CURE 6)
+treats a developer's own published "frontier" designation as evidence of a jurisdictional fact.
+Compelled *disclosure* of purely factual, uncontroversial commercial information receives
+*Zauderer* review; compelled adoption of contested positions receives strict scrutiny (*NIFLA*;
+*X Corp v. Bonta*, 116 F.4th 888 (9th Cir. 2024)). The bounded question: **does a statute that
+takes the company's own marketing designation as a rebuttable jurisdictional fact — compelling
+nothing, adopting nothing, requiring no publication — implicate the compelled-speech doctrine at
+all, and if so, on which side of *Zauderer* does a self-chosen commercial designation fall?** The
+Act's design facts for whoever takes it up: SEC. 0(a)(4); SEC. 8's statements-of-fact limit;
+SEC. 9(c)'s no-characterisation rule; and CURE 4, which removes the statute's last
+characterisation-shaped trigger.
+
 None of the hardest questions above began as hypotheticals. Objections arriving in
 the wild are preserved, with the answers that survived them, in
 [the field notes](../audit/record.md#field-notes) — the leash, the gun analogy, the

@@ -9,6 +9,15 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 this diary, the [changelog](./changelog.md), and the [errata register](./errata.md). The full
 day-by-day account is below; this is the quick scan.*
 
+- **23 Aug 2026** — the research sweep, and the day the sources came to us: the enacted family's
+  primary texts onto the shelf; six tracker errors caught by checking primaries; the developer's
+  own officer supplied the front page's quote; the AISI incident's stranger got a name (Reuters);
+  the codified officer (CWA/CAA) finally entered the comparative file after hiding in plain sight
+  for the project's whole life; three intake cures queued (17–19), five addenda, all flagged
+  AI-drafted pending the maintainer's read. Push cycles ran through the day; the workspace bridge
+  spent the evening wedged and the batch went through the file bridge instead. *Assistance
+  disclosure, as always: drafting and retrieval in this entry's period were AI-assisted
+  throughout; every quotation traces to a source the record grades.*
 - **22 Aug 2026** — the conformance pass: [the verification record](../research/verification_record.md)
   published as the owner of every source and grade, with the nine claims that failed verification;
   the incident count corrected to five across three developers; E25–E31 filed, including the

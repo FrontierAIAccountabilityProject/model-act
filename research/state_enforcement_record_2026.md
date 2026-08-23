@@ -39,7 +39,9 @@ It is civil, and it is a *deception* theory (the officer must have directed or k
 SEC. 6's due-care offense is precisely the ground [CURE 8](../audit/v3_5_cure_language.md) rebuilds,
 and the comparison belongs in any conversation with the criminal-law seat: the nexus element a
 civil officer-liability statute already carries is the element the sweep's F1 found missing from
-the criminal one.
+the criminal one. The complaint also supplies a live illustration of SEC. 4(b)'s civil presumption:
+it pleads that the chief executive "has personally directed the design, development, safety
+policies" — the presumption's exact factual predicate, pleaded by a sitting attorney general.
 
 **Sources.** FL AG release, myfloridalegal.com (primary, ✅, retrieved 23 Aug 2026); the filed
 complaint, myfloridalegal.com/sites/default/files/openai-filed-stamped-complaint.pdf (primary,

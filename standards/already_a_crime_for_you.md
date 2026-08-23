@@ -79,7 +79,10 @@ The Computer Fraud and Abuse Act reaches unauthorised access as such. [The
 gallery](./the_same_conduct.md) sets out what that has meant in practice for five individuals:
 announced exposure from ten years to four hundred and forty, sentences up to forty-one months, and
 in not one case any physical injury or, mostly, any proven loss. One defendant was prosecuted for
-reading a page a company had published by accident.
+reading a page a company had published by accident. And the construction is settled and old: since *United
+States v. Morris*, 928 F.2d 504 (2d Cir. 1991), "intentionally" has attached to the access, not
+the damage — a benign purpose is no defence
+([the gallery's escape section](./the_same_conduct.md#when-the-escaped-thing-was-the-crime)).
 
 **On the misuse defence.** This Act excuses a developer where a third party misused the system —
 *unless the controls against that class of misuse were simply absent.* That carve-out is not an

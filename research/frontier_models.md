@@ -36,6 +36,13 @@ Even these are estimates, not disclosures. This is the transparency gap the Act'
 withheld, which is why the enacted statutes pair it with developer-scale tiers (see "other
 definitions" below).
 
+**External cross-check, added 23 August 2026.** CSIS's August 2026 survey, using Epoch AI's May
+2026 census, counts **three** public models above 10²⁶ (Grok 3, Grok 4, GPT-4.5) and roughly
+fifteen between 10²⁵ and 10²⁶ — and notes that California's revenue-screened trigger covers, on
+that count, exactly two developers (⚠ P, survey in hand; Epoch under CC BY as below). Recorded
+beside this file's own table as an independent count, not adopted in place of it; where the two
+disagree, the disagreement is the finding.
+
 ## The current frontier developers and their flagship models
 
 The table below lists the developers operating at or near frontier scale, their most recent flagship

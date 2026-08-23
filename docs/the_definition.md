@@ -93,6 +93,23 @@ litigation:
 > to prevent, halt, restrict, or correct the violation. Scope follows the ecosystem; duty follows
 > the function. No one answers for a layer they do not hold.
 
+## The threshold objections, answered from the text — added 23 August 2026
+
+The strongest published critique of compute-threshold triggers (Ball & Ramakrishnan, Carnegie,
+July 2025 — the entity-based paper held at
+[the enterprise file](../research/frontier_enterprises.md#the-entity-based-case-made-independently--added-23-august))
+runs: inference-time compute now rivals training compute; small distilled models inherit frontier
+capability below any line; "training compute" invites definitional games (restarts, synthetic
+data, failed runs); and a fixed number ages. Each lands on a statute that uses compute *alone*.
+This Act does not. SEC. 1(b)(1) counts **lineage** compute and expressly names fine-tuning,
+distillation, merging and aggregation, with rule elaboration; capability **designation** reaches
+any model below the number, prospectively; the open queue adds the developer's own
+**self-designation** (CURE 6) and the **enterprise** category (CURE 7) — which is the paper's own
+proposal. The scoping contrast with the enacted family makes the same point from the other side:
+California's revenue screen covers, on the survey's count, exactly **two developers** (CSIS, Aug
+2026, via Epoch's May 2026 census — three public models above 10²⁶). A trigger that narrow is a
+choice; this Act's function-plus-scale architecture is the answer to it.
+
 ## Where the operative text stands
 
 Nothing on this page pretends. The tagged statute is

@@ -110,6 +110,12 @@ are telling paying clients what to worry about, and personal exposure is not on 
 because under these statutes there is none to report. *Strength: solid, three independent
 firms.*
 
+**Addendum, 23 August 2026 — the test re-ran itself.** A fourth firm brief entered the record: a
+full constitutional workup of the strongest enacted statute (Akerman, on Illinois SB 315, 10 June
+2026, ⚠ P — compelled speech, vagueness, dormant commerce). It, too, never mentions personal
+exposure. Four firms, four alerts, zero warnings to any natural person — the census grows and the
+finding does not move.
+
 ### G3 — The sentence a compliance guide could not write
 
 Nelson Mullins's compliance guide, asked who must sign the frameworks and reports the

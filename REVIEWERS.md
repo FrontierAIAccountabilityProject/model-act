@@ -162,7 +162,10 @@ carry a duty, including the case *against*; and what six control objectives woul
 instead.
 **Your shelf:** the regulations' Part 6 · the sweep's security section ·
 [the AISI incident file](./research/aisi_incident_inc_2026_07_28_01.md) ·
-[the watch § 8](./audit/standing_watch_2026-08-20.md) · SEC. 2, 8, and 9 of the statute.
+[the watch § 8](./audit/standing_watch_2026-08-20.md) · SEC. 2, 8, and 9 of the statute. *Donor material added 23 Aug:* 42 C.F.R. §§ 73.11 and 73.19 — the select-agent security-plan
+and escape-notification pattern, the federal template for "secure and isolated" written down
+([the gallery's escape section](./standards/the_same_conduct.md#when-the-escaped-thing-was-the-crime));
+your "what six objectives would you write instead" now has a federal answer sheet to mark against.
 
 *Open source and academia* — SEC. 1(b)(9) and 1(b)(1), SEC. 2's modification budget; v3.4 cures 1,
 9, and 16. **What the sweep says:** SEC. 1(b)(1)(B)'s "does not, standing alone, **extend a
@@ -194,7 +197,10 @@ questions:** is a note with no numbers reportable in your state; what would you 
 and should CURE 7 be sequenced to v4 on administrability grounds, as the sweep's fiscal lane
 recommends and the maintainer has not accepted.
 **Your shelf:** the fiscal note · the sweep's fiscal section · SEC. 3, 10(f), and 12 of the
-statute · record chunk 3, part D.
+statute · record chunk 3, part D. *Donor material added 23 Aug:* the penalty brackets now carry enacted siblings
+([bracketed matter](./standards/bracketed_matter.md) — CA/NY/IL all at \$1M), and the opposition's
+own cost claim — compliance "verifiable in seconds" — is logged at
+[the fiscal note § 5](./standards/fiscal_note.md).
 
 ## Filing a disposition
 
@@ -248,6 +254,9 @@ before it may land; **HYPOTHESIS** — sweep-derived language, expressly not set
 | [CURE 16](./audit/v3_5_cure_language.md#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) | A deception limb, because Van Buren excludes what actually happened. | **HYPOTHESIS (sweep-derived)** | enforcement |
 | Security-lane findings | The SEC. 2(c)/2(a) hole around safeguards-disabled evaluations; Part 6's control objectives as process without substance; halt timing; monitoring. | **NO DRAFTED RESPONSE — the seat is the response** | security |
 | Fiscal-lane findings | No dollar figures; no defence line; no corrections section; eight omitted duties; an entitlement on an empty fund. | **NO DRAFTED RESPONSE — the seat is the response** | fiscal |
+| [CURE 17](./audit/v3_5_cure_language.md#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) | Whistleblower remedies that fit a reporter outside employment — the record's actual reporter was one. | **HYPOTHESIS (intake-derived)** | criminal law |
+| [CURE 18](./audit/v3_5_cure_language.md#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) | An immediate-notice tier for incidents in progress, on the select-agent escape-clock donor. | **HYPOTHESIS (intake-derived)** | enforcement · security |
+| [CURE 19](./audit/v3_5_cure_language.md#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) | A SEC. 0 finding: a system is not a person; two states have enacted it. Gated on reading both acts. | **HYPOTHESIS (intake-derived)** | — |
 
 ## The whole repository
 

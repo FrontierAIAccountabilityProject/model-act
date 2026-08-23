@@ -280,6 +280,57 @@ strategically, and this file records both.
 
 ---
 
+## 5. The United States, today — the codified officer
+
+*Added 23 August 2026. The sections above trace the doctrine abroad and in history. This one
+records something nearer and stranger to miss: **Congress has twice written the phrase
+"responsible corporate officer" into the United States Code itself** — not doctrine applied by
+courts, but the words, enacted, in the criminal definition of "person." Both provisions retrieved
+verbatim 23 Aug 2026 (uscode.house.gov / LII; ⚠ R under
+[the census rubric](./frontier_bill_census.md#the-confidence-rubric-governed-by-e15)); the
+scholarly apparatus is from two sources held on [the shelf](../research/verification_record.md).*
+
+**The Clean Water Act.** 33 U.S.C. § 1319(c)(6): *"For the purpose of this subsection, the term
+'person' means, in addition to the definition contained in section 1362(5) of this title, any
+responsible corporate officer."* The subsection it serves is the **criminal** one, and its
+offences are **felonies** with a "knowing" element — a more aggressive structure than
+*Dotterweich*'s and *Park*'s misdemeanours. The Ninth Circuit reads Congress's retention of the
+phrase after *Park* as ratification of the doctrine (*United States v. Iverson*, 162 F.3d 1015,
+1023–24 (9th Cir. 1998), quoting *United States v. Brittain*, 931 F.2d 1413, 1419 (10th Cir.
+1991)); convictions of officers under it have been affirmed across circuits (*Iverson*; *United
+States v. Hansen*, 262 F.3d 1217 (11th Cir. 2001); *United States v. Ming Hong*, 242 F.3d 528
+(4th Cir. 2001)). And the doctrine has been extended to **civil** penalties: "the rationale for
+holding corporate officers criminally responsible … is even more persuasive where only civil
+liability is involved" (*United States v. Hodges X-Ray, Inc.*, 759 F.2d 557, 561 (6th Cir. 1985),
+imputed to the CWA by district courts since).
+
+**The Clean Air Act.** 42 U.S.C. § 7413(c)(6): *"For the purpose of this subsection, the term
+'person' includes, in addition to the entities referred to in section 7602(e) of this title, any
+responsible corporate officer."* Added in **1977 — after *Park*** — which courts likewise treat as
+congressional approval of the doctrine.
+
+**The scholarship, in hand.** Lyness, *Revitalizing the State Environmental Responsible Corporate
+Officer Doctrine*, 64 B.C. L. Rev. 253 (2023) — the survey this section draws on (its Part II
+read; its Part III catalogues the **state** environmental officer doctrines, ten states, the
+groundwork for [for legislators § 4](./for_legislators.md)) — describes the doctrine as "a potent
+tool for federal environmental enforcement for over half a century," and its revitalisation agenda
+for the states runs: individual civil liability; liability without a mens rea requirement;
+uniformity; broad enforceability. **Those four goals are this Act's own design list** — SEC. 6 and
+SEC. 10(b); the public-welfare classification of SEC. 1(a); the model-act form; SEC. 10's remedy
+set. Beside it: Hustis & Gotanda, *The Responsible Corporate Officer: Designated Felon or Legal
+Fiction?*, 25 Loy. U. Chi. L.J. 169 (1994) — practitioners writing while the enforcement wave
+crested: officers and managers were **80% of all individuals prosecuted for environmental crimes
+since 1983**, under an explicit EPA/DOJ policy of charging "the highest ranking officers … for
+whom personal culpability can be shown." Its title survives as the objection's honest form; its
+first pages record that the felony question was settled by enactment.
+
+**What this section does for the Act.** The strongest form of the "extraordinary doctrine"
+objection assumes the doctrine lives only in two old cases about drugs and eggs. It does not. It
+lives in the Code, twice, as felony architecture, ratified after *Park*, extended to civil
+penalties, enforced for fifty years — in the field whose hazards (diffuse, delayed, catastrophic,
+institutional) most resemble this one's. The Act's innovation is the subject matter, not the
+mechanism.
+
 ## Open items in this file
 
 1. The Copenhagen dispatch (§ 3), unpinned and therefore unused.

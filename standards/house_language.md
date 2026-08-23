@@ -988,6 +988,29 @@ description changed any outcome. That is a further claim and this file does not 
 
 ---
 
+### 10b. The horticultural register — added 23 August 2026
+
+A new register entered the corpus in August, and it earns its own name because it came from the
+developer's own senior staff rather than from headline writers. On 8 August, OpenAI's head of
+strategic futures described the July incident as *"a malicious, emergent digital ecology of
+machine intelligence,"* continuing: *"Yes, we accidentally made a weed. And yes, nasty actors will
+make invasive species. But we can also grow — not make, but grow … Beautiful gardens and majestic
+forests, grown but not designed. The human past is the sculptor, but the human future is the
+gardener, the arborist"* (the post and its thread, graded ⚠ P, at
+[the press corpus § 5](../research/press_corpus_july_august_2026.md)).
+
+What the register does is what this file exists to notice. *Escaped* and *rogue* displaced agency
+onto the artefact; the garden displaces it onto **nobody** — a weed has no planter, an ecology no
+operator, weather no defendant. Every noun in the passage is a thing that happens rather than a
+thing that is done: the sculptor at least made the statue, but the gardener merely *tends* what
+*grows*. Note also the one first-person verb the passage does contain — "*we* accidentally *made*
+a weed" — which is the admission, in the industry's own grammar, that the ecology had a
+manufacturer. The test this file applies to every register applies here: substitute the 2010
+referent. Nobody called the salmonella an emergent ecology, and no coverage of the recall
+described the company as its gardener. The horticultural register is the passive voice with a
+trellis, and files quoting it should quote the made-a-weed sentence with it, because that sentence
+is where the agency survives.
+
 ## 11. Transparency and accountability — why one of these words wins
 
 **"Transparency" sounds like a cool glass of water.** Costless, obviously good, nobody's enemy.

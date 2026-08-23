@@ -165,6 +165,12 @@ oath; the letters, with every signatory, are in
 grammar is 1943's: personal accountability, asked of the officers with authority, before
 any statute exists to require it.
 
+**And the doctrine is not only case law.** Congress has twice enacted the phrase itself —
+"responsible corporate officer" — into the criminal definition of "person," in the Clean Water Act
+and the Clean Air Act, as felony architecture, retained and extended after *Park*. The provisions,
+verbatim, with the enforcement record behind them:
+[the comparative file § 5](../standards/comparative_officer_liability.md#5-the-united-states-today--the-codified-officer).
+
 <a id="what-the-act-provides"></a>
 ## What the Act provides
 

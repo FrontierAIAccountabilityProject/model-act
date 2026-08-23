@@ -3,6 +3,19 @@
 
 ## Part II — The changelog
 
+**Between versions — 23 August 2026, the research sweep.** No change to the tagged statute. The
+day's intake entered at its owners: the enacted-family primary texts reached the shelf (CA SB 53,
+IL P.A. 104-0538, CT P.A. 26-15, H.R. 8094, S. 1792 read in full); the escape-crime gallery
+section landed ([the same conduct](../standards/the_same_conduct.md)) with the front page carrying
+the developer's own "we accidentally made a weed"; the five limbs were mapped to the 2026 record;
+the entity-based case entered the enterprise file; the AISI incident's member of the public gained
+his public name; the enforcement record gained Pennsylvania and the docket identities; and the
+codified officer — 33 U.S.C. § 1319(c)(6), 42 U.S.C. § 7413(c)(6) — entered
+[the comparative file § 5](../standards/comparative_officer_liability.md). The queue took three
+intake-derived entries (CUREs 17–19) and five addenda, all marked not maintainer-validated. The
+census logged six verified tracker errors. Sources and read-statuses at
+[the verification record § 6](../research/verification_record.md).
+
 **Between versions — 22 August 2026, the enterprise pass.** Still no change to the tagged statute.
 The scope architecture arrived in the apparatus: [CURE 7](../audit/v3_5_cure_language.md) drafts
 the covered frontier enterprise into the queue — scope follows the ecosystem, duty follows the
