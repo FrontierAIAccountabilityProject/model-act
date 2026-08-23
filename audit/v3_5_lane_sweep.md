@@ -9,7 +9,7 @@
 > defines — so that a reviewer's ten to twenty hours are not spent rediscovering what we could
 > have found ourselves.
 >
-> **A reviewer arriving later should diff their findings against these.** Where a reviewer
+> **A reviewer arriving later can diff their findings against these.** Where a reviewer
 > disagrees with a finding below, the reviewer is right and the disagreement is itself a finding.
 > Where a reviewer finds something this sweep missed, that is the seat working, and it enters
 > [the errata register](../ledger/errata.md) with credit attached.

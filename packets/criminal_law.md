@@ -15,7 +15,9 @@ through, then this packet, then **three findings of your choosing, verified or r
 reasons** — a complete and publishable disposition, perhaps six to eight hours. Your disposition
 is published as written, including "approved with reservations," including hostile. **A
 disposition that refutes one finding is worth more to this project than a full pass that agrees
-with everything.**
+with everything.** The three findings are yours to choose; the questions and drafted responses in
+this packet are the menu they may be chosen from, not additional work — answering any one numbered
+question is a complete finding.
 
 ## Read first — the statute itself
 

@@ -317,7 +317,7 @@ protection individual researchers have asked for and never had.**
 **[the same conduct, prosecuted](./standards/the_same_conduct.md)**. *The statutory text behind the
 table above:* [already a crime, if you are a person](./standards/already_a_crime_for_you.md).*
 
-**Four facts a reader should have before anything else here:**
+**Four facts to have before anything else here:**
 
 - **"Frontier" means expensive, not unmapped.** Every enacted statute defines it by compute — above
   10²⁶ operations, or over \$100,000,000 of it in the pending federal bill. It is a **priced tier**,

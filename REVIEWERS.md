@@ -18,6 +18,11 @@ published as written, including "approved with reservations," including hostile.
 project's published rule, nobody — including the maintainer — may claim this text "survived
 review" until named reviewers sign. That rule is why this page exists. **A disposition that
 refutes one finding is worth more to this project than a full pass that agrees with everything.**
+And the three findings are yours to choose: everything downstream of this section — the lane
+tables' numbered questions, the state of play's held rows, the companion's READ FIRST items — is
+the menu they may be chosen from, not additional work. Answering any one numbered question, or
+verifying or refuting any one row, is a complete finding; the questions mark where a seat's
+judgment is most wanted, and they bind nobody.
 
 ## What has been done here — the scope, shown
 
@@ -118,7 +123,8 @@ it. *Numbering note: "v3.4 cures" are the sealed set, already landed and diffabl
 sweep-derived and expressly not maintainer-drafted; open questions are decisions, not defects.*
 
 *Each lane is one table, same seven rows: what you read, what the sweep found there, what has been
-drafted in answer, the questions that are yours, the shelf, the errata already filed in your lane,
+drafted in answer, the questions that are yours (a menu for the three findings, not a syllabus), the shelf, the
+errata already filed in your lane,
 and the donor material the intake of 23–24 August added. Five register entries are method-wide
 rather than lane-specific — E21, E22 (extended by E32), E27, and E33 — and govern how every date,
 quotation, count, and file-status claim in the evidence base was made;

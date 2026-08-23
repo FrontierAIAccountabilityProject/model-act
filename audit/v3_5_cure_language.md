@@ -2,8 +2,12 @@
 
 *Reviewing? **You are not expected to read this file top to bottom.** It is the working
 drafting record — entries sit in working order, not numeric order, and several carry HOLD or
-amendment blocks. The one-page state of play, your lane's brief, and the three-step process are at
-[REVIEWERS.md](../REVIEWERS.md). Index, numeric: [OPEN QUESTION 1](#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) · [OPEN QUESTION 2](#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) · [OPEN QUESTION 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) · [OPEN QUESTION 4](#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) · [CURE 1](#cure-1--serious-injury-source-moves-to-18-usc--1365h34) · [CURE 2](#cure-2--sec-13c-a-review-valve-on-the-suspension-order) · [CURE 3](#cure-3--the-regulations-conformed-to-v34) · [CURE 4](#cure-4--sec-9a-the-two-characterisation-shaped-triggers-recast-as-observable-events) · [CURE 5](#cure-5--sec-8-punctuation) · [CURE 6](#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) · [CURE 7](#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) · [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) · [CURE 9](#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) · [CURE 10](#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) · [CURE 11](#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) · [CURE 12](#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) · [CURE 13](#cure-13--sec-1b1b-say-sever-not-extend) · [CURE 14](#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) · [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour) · [CURE 16](#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) · [CURE 17](#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) · [CURE 18](#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) · [CURE 19](#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact).*
+amendment blocks. The one-page state of play, your lane's table, and the reviewer path are at
+[REVIEWERS.md](../REVIEWERS.md); the criminal lane's whole apparatus is one printable page at
+[the packet](../packets/criminal_law.md). This file's working labels map to the state-of-play
+column so the two never disagree in substance: *decision owed* = **DECISION**; *not drafted /
+for the … lane* = **HELD**; *adopt-ready* = **DRAFTED**; *⚠ amendments required before landing*
+= **⚠ AMEND FIRST**; *sweep-derived* and *intake-derived* = **HYPOTHESIS**. Index, numeric: [OPEN QUESTION 1](#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) · [OPEN QUESTION 2](#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) · [OPEN QUESTION 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) · [OPEN QUESTION 4](#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) · [CURE 1](#cure-1--serious-injury-source-moves-to-18-usc--1365h34) · [CURE 2](#cure-2--sec-13c-a-review-valve-on-the-suspension-order) · [CURE 3](#cure-3--the-regulations-conformed-to-v34) · [CURE 4](#cure-4--sec-9a-the-two-characterisation-shaped-triggers-recast-as-observable-events) · [CURE 5](#cure-5--sec-8-punctuation) · [CURE 6](#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) · [CURE 7](#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) · [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) · [CURE 9](#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) · [CURE 10](#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) · [CURE 11](#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) · [CURE 12](#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) · [CURE 13](#cure-13--sec-1b1b-say-sever-not-extend) · [CURE 14](#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) · [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour) · [CURE 16](#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) · [CURE 17](#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) · [CURE 18](#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) · [CURE 19](#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact).*
 
 
 > **STATUS — OPEN QUEUE. Nothing below is yet in the statute.** The operative text
@@ -25,18 +29,9 @@ amendment blocks. The one-page state of play, your lane's brief, and the three-s
 > **CURE 6 and CURE 7 before either may land**. No entry in this file should be spliced into the
 > statute until the corresponding sweep finding is resolved. In summary:
 >
-> - **CURE 6** — the deployer carve-out omits *modifies*, *fine-tunes* and *trains upon*, while
->   Operation 1 reaches "the developer that trained **or materially modified**" the model. As
->   drafted, a research group that publishes a *frontier* safety protocol self-designates its
->   fine-tunes into scope at any compute level, with retraction expressly ineffective. Needs: the
->   modification verbs added to the carve-out; a compute floor on the route; an express textual
->   rebuttal.
-> - **CURE 7** — market capitalisation and "most recent arm's-length valuation" cannot be elements
->   of a criminal scope term; "mass-market scale" has no number and no rule-hook; "finances"
->   reaches a lender; the supplier definition self-satisfies its own scale condition, so
->   function-plus-scale does not operate for suppliers; and the capacity threshold reaches public
->   and academic supercomputing. The **dollar thresholds themselves survive** — vagueness doctrine
->   polices indeterminacy of standard, not absence of a donor statute.
+> - **CURE 6 and CURE 7** each carry a **⚠ AMENDMENTS REQUIRED** block inside the entry itself —
+>   the full lists live there, beside the text they amend, and are not repeated here. Neither cure
+>   may land until its block is discharged.
 > - **CURE 1's held-open bifurcation — answered no.** See the entry below.
 > - **A new OPEN QUESTION 4** records the jurisdictional finding, which is the most consequential
 >   thing the sweep produced.
@@ -46,8 +41,8 @@ amendment blocks. The one-page state of play, your lane's brief, and the three-s
 > - **CURES 8–16 are the sweep's own drafted responses**, filed 22 August 2026 and marked
 >   **sweep-derived, not maintainer-drafted**. Every ANCHOR in them was verified verbatim against
 >   the tagged statute, each occurring exactly once. They have *not* been through the scrutiny the
->   v3.4 cures received, and they are published in that state deliberately: a reader should treat
->   them as a hypothesis about the fix, not as settled drafting.
+>   v3.4 cures received, and they are published in that state deliberately: a hypothesis about the
+>   fix, not settled drafting.
 >
 > **What this means for v3.5.** The queue now holds sixteen cures and four open questions, and the
 > defects reach the offense the Act exists to create (SEC. 6), the authority to obtain records
@@ -156,8 +151,8 @@ make.
 ## OPEN QUESTION 4 — SEC. 2(a) and SEC. 1(c): the Act does not reach the conduct it was written after
 
 *Opened 22 August 2026 by [the lane sweep](./v3_5_lane_sweep.md), enforcement lane, graded **fatal**.
-Not a cure — the most consequential scope question in the file, and the one a reviewer should read
-first.*
+Not a cure — the most consequential scope question in the file, and the first thing to read
+here.*
 
 **The fact.** SEC. 2(a): "A duty under this Act arises upon, and by reason of, the deployment,
 material expansion, release, or continued operation of a covered system in or into this State, **and

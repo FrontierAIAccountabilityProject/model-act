@@ -16,7 +16,14 @@ security objectives question; item 11 = CURE 4's target) stated in place, and co
 companion's own table listed for the v3.5 landing. And the first single-page lane packet —
 criminal law, at `packets/` — is assembled by committed script from the sweep, the queue, and the
 register, so a reviewer can print one document and work from it; the sources remain the
-authority.
+authority. Third, the same evening: the bounded ask and the apparatus reconciled — the reviewer
+page now states that the lane questions, held rows, and READ FIRST items are the *menu* the
+three findings may be chosen from, not additional work; the queue's header gained a label
+concordance mapping its working vocabulary onto the state-of-play states, and its HOLD block's
+CURE 6/7 summaries were reduced to pointers at the ⚠ blocks inside the entries, which were
+repeating them; and four instances of command-voice aimed at readers ("a reviewer should…")
+were conformed to the project's stance that the path is offered, never assigned — on the front
+page, the sweep's header, and the queue. Substance unchanged throughout.
 
 **Between versions — 23 August 2026, the research sweep.** No change to the tagged statute. The
 day's intake entered at its owners: the enacted-family primary texts reached the shelf (CA SB 53,
