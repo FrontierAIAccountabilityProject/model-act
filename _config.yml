@@ -67,7 +67,7 @@ defaults:
     values: { nav_exclude: false, nav_order: 9, title: "The glossary" }
   - scope:
       path: "MAP.md"
-    values: { nav_exclude: false, nav_order: 10, title: "The map" }
+    values: { nav_exclude: false, nav_order: 10, title: "Everything — the full index" }
   - scope:
       path: "archive"         # superseded versions: reachable by link, never by search
     values:
