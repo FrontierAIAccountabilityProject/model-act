@@ -1,7 +1,5 @@
-// The statute register, in type. Two families with two jobs: the text block is set in
-// a book serif (Charter first — the face designed for exactly this kind of long,
-// plain document), the apparatus — headings, sidebar, search, labels — in the system
-// sans. Base size is deliberately generous for long reading on a laptop, one step
+// The statute register, in type: one system sans throughout — text, headings, and
+// apparatus — at a deliberately generous size for long reading on a laptop, one step
 // short of large-print. System fonts only: no webfont requests, nothing to maintain.
 
 html {
@@ -14,8 +12,8 @@ html {
 }
 
 .main-content {
-  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
-  line-height: 1.65;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
 }
 
 .main-content h1,
