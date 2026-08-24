@@ -9,6 +9,22 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 this diary, the [changelog](./changelog.md), and the [errata register](./errata.md). The full
 day-by-day account is below; this is the quick scan.*
 
+- **24 Aug 2026** — the longest day in the ledger. The mailbox archive rebuilt the outreach
+  record (a first reply arrived from a New York Assembly office — courteous, engaged, and the
+  sponsor lost his seat in June; the amendment outlives him). The AI Futures corpus and the
+  White House Action Plan were both read against the Act and became two research pages — the
+  forecasters' arithmetic, and the two visions with the page missing from both. The site broke
+  in the morning (a redesign pushed unseen; reverted within the hour) and was re-landed by
+  evening through a new rule — no visual change ships without an approved preview — wearing
+  paper, law-report serif, and the maroon the spruce was always the complement of. Six reviewer
+  packets were built in an afternoon, each with a committed builder; the dispositions register
+  opened, empty on purpose; nine standing decisions were ruled in one sitting; E34, E35, and
+  E36 entered the register — the last after my own evening retrievals (three gates: Connecticut
+  read and OQ1 resolved; Tennessee's Public Chapter 781 verbatim; the Colorado delay verified,
+  and its successor note halving the first price in the genre). Nineteen more primaries landed
+  by midnight: EO 14365 by number, the ceiling drafts, all five witness statements. Tomorrow
+  the eleven follow-ups go out; Thursday, the criminal-law call. *Assistance disclosed as
+  always; the reading, retrieving, and every ruling were the maintainer's.*
 - **23 Aug 2026** — the research sweep, and the day the sources came to us: the enacted family's
   primary texts onto the shelf; six tracker errors caught by checking primaries; the developer's
   own officer supplied the front page's quote; the AISI incident's stranger got a name (Reuters);

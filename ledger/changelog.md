@@ -3,6 +3,12 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, last entry of the day — a status claim withdrawn, and the
+diary written.** Four packets described the criminal-law lane as "under review now"; the true
+state is a packet delivered and a call pending, and this project does not round that up. The
+claim is removed at the builders and the packets regenerated: no lane is described as under
+review until a named review exists. The diary carries the day.
+
 **Between versions — 24 August 2026, the second retrieval wave — nineteen instruments, one
 erratum, three ⚠ retirements.** No change to any tagged text. The maintainer pulled bands B and
 D of the retrieval list in one evening and the reads land everywhere at once. **E36:** the
