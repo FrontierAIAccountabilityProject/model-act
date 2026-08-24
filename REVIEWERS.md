@@ -60,8 +60,8 @@ across existing regimes; [a census of the frontier bills](./standards/frontier_b
 [a fiscal note](./standards/fiscal_note.md) that states its own defects; and close analyses of the
 field's language and practice, named in the tour below.
 
-**The ledger.** [An append-only errata register](./ledger/errata.md) — twenty entries under
-numbers that reach E33, the numbers being identifiers rather than an ordering, each mistake
+**The ledger.** [An append-only errata register](./ledger/errata.md) — twenty-two entries under
+numbers that reach E35, the numbers being identifiers rather than an ordering, each mistake
 published with its fix attached, including entries that record a *rule* changing rather than a
 claim failing. [A changelog](./ledger/changelog.md) with tag checksums. [A diary](./ledger/diary.md).
 
@@ -225,12 +225,12 @@ checked; **⚠ AMEND FIRST** — drafted, but the sweep requires named amendment
 entries are additionally AI-assisted and not maintainer-validated); **NO DRAFTED RESPONSE** — the
 honest state, and why that lane's seat matters most.*
 
-*Twenty-nine rows: one decision owed, seven held, five drafted, two ⚠ amend-first, twelve
+*Thirty-one rows: one parked pending a retrieval, seven held, five drafted, two ⚠ amend-first, fourteen
 hypotheses, and two lanes whose response is the seat.*
 
 | Item | In one line | State | Lane |
 |---|---|---|---|
-| [OPEN QUESTION 1](./audit/v3_5_cure_language.md#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) | Does Connecticut become a fourth interim standard? Recommendation on file: exhibit, not adopted. | **DECISION — owed at v3.5** | criminal |
+| [OPEN QUESTION 1](./audit/v3_5_cure_language.md#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) | Does Connecticut become a fourth interim standard? Parked by maintainer ruling, 24 Aug: no decision until the Connecticut act is retrieved and read; working default, three suffice. | **PARKED — pending retrieval** | criminal |
 | [OPEN QUESTION 2](./audit/v3_5_cure_language.md#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) | Does the duty reach an evaluation run with safeguards disabled? Largely disposed if OQ4's amendment lands. | **HELD** | security · criminal |
 | [OPEN QUESTION 3](./audit/v3_5_cure_language.md#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) | Third-party evaluator: does practical authority still run to the commissioning officer? | **HELD** | enforcement |
 | [OPEN QUESTION 4](./audit/v3_5_cure_language.md#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) | The Act does not reach the conduct it was written after — five of six incidents fall outside at the threshold. Amendment drafted. **The single most important item.** | **HELD — amendment drafted** | enforcement · criminal · federalism |
@@ -256,7 +256,9 @@ hypotheses, and two lanes whose response is the seat.*
 | [CURE 16](./audit/v3_5_cure_language.md#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) | A deception limb, because Van Buren excludes what actually happened. | **HYPOTHESIS — sweep-derived** | enforcement |
 | [CURE 17](./audit/v3_5_cure_language.md#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) | Whistleblower remedies that fit a reporter outside employment — the record's actual reporter was one. | **HYPOTHESIS — intake-derived** | criminal |
 | [CURE 18](./audit/v3_5_cure_language.md#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) | An immediate-notice tier for incidents in progress, on the select-agent escape-clock donor. | **HYPOTHESIS — intake-derived** | enforcement · security |
-| [CURE 19](./audit/v3_5_cure_language.md#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) | A SEC. 0 finding: a system is not a person. Gate mostly discharged — Idaho Code § 5-346 verbatim in hand; Utah identified; Tennessee's text still to pull. | **HYPOTHESIS — intake-derived** | — |
+| [CURE 19](./audit/v3_5_cure_language.md#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) | A SEC. 0 finding: a system is not a person. Wording ruled 24 Aug: the finding tracks Idaho's retrieved verbatim text; Tennessee cited as corroborating enactment, its wording not borrowed (text still to pull, on the retrieval list). | **HYPOTHESIS — intake-derived; wording ruled** | — |
+| [CURE 20](./audit/v3_5_cure_language.md#cure-20--the-chosen-stick-clause-conformity-outside-the-act-credits-nothing) | The chosen-stick clause: conformity with any framework outside the Act's standards is evidence, weighed — never a duty satisfied, never a defense. Numbered from pre-review finding PF-2. | **HYPOTHESIS — pre-review-derived** | criminal · federalism |
+| [CURE 21](./audit/v3_5_cure_language.md#cure-21--sec-8-the-certification-register-facts-public-content-protected) | SEC. 8 gains a public register of certifications — signer, entity, version, date, compliance-or-disclosure — content beyond those facts protected. Numbered from pre-review finding PF-3. | **HYPOTHESIS — pre-review-derived** | criminal · security |
 | [Security-lane findings](./audit/v3_5_lane_sweep.md#f5--the-safeguards-off-evaluation-falls-into-a-hole-between-sec-2c-and-sec-2a-security) | The SEC. 2(c)/2(a) hole around safeguards-disabled evaluations; Part 6's control objectives as process without substance; halt timing; monitoring. | **NO DRAFTED RESPONSE — the seat is the response** | security |
 | [Fiscal-lane findings](./audit/v3_5_lane_sweep.md#the-rest-of-the-register-in-brief) | No dollar figures; no defence line; no corrections section; eight omitted duties; an entitlement on an empty fund. | **NO DRAFTED RESPONSE — the seat is the response** | fiscal |
 

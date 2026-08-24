@@ -3,6 +3,15 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026 — the reviewer page made current for the wave (logged
+freeze exemption, second and final).** Factual currency only, before eleven follow-ups point at
+the page: the errata description reads twenty-two entries reaching E35; the state of play gains
+rows for CUREs 20 and 21 and its tally becomes thirty-one; OPEN QUESTION 1's row records the
+24 August parking (no decision until the Connecticut act is read); CURE 19's row records the
+wording ruling (Idaho's text tracked, Tennessee cited). The ask, the terms, the lane tables'
+substance, and everything the engaged reviewer holds remain untouched; the structural wiring
+still waits at the freeze door.
+
 **Between versions — 24 August 2026 — the menus audited: no reviewer does the project's
 homework.** No change to any tagged text. Every packet's question menu was tested against one
 rule — a question a reviewer's seat is asked to answer must not be answerable by easy research
