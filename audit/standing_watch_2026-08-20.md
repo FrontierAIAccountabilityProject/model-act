@@ -324,3 +324,17 @@ SB 26-189 final fiscal note records that "the Attorney General was ordered by U.
 Court to not initiate enforcement" — *X.AI LLC v. Weiser* — the first judicial constraint on a
 state AI enforcer in this record; the order itself joins the retrieval list. § 4's "onerous"
 Commerce list remains unpublished.
+
+**Addendum, 24 August (late) — the Apollo breach ⚠.** Apollo Global Management, a private-equity
+manager of roughly $1T, disclosed a breach in which attackers reportedly posing as IT staff
+obtained access by social engineering and spent about four days inside the firm's cloud
+platforms, with personal data including Social Security numbers exposed ⚠ (recorded from
+*Bloomberg*, *TechCrunch*, and *The Register*, 21–24 August 2026; the firm's own notification is
+on the retrieval list and nothing here hardens until it is read). Its relevance to this record is
+to the security lane, and it is a candidate example, not yet a cited one: an institution whose
+security budget is not the constraint lost its cloud environment for days to conversation, not to
+cryptography. If it survives retrieval, it belongs beside the weight-security material as evidence
+that the duty SEC. 2 places on a person — who may authorise access, who must be able to halt it —
+is the layer that actually fails, and as an answer to the objection that state-of-the-art
+technical security makes an officer duty redundant. Reporting also places it within a wider
+2026 wave against financial institutions ⚠.
