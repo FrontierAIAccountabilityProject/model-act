@@ -1,0 +1,193 @@
+From 81e91cc1dc35927958773124273a2ac8ef7e7bfd Mon Sep 17 00:00:00 2001
+From: FrontierAIAccountabilityProject
+ <315748336+FrontierAIAccountabilityProject@users.noreply.github.com>
+Date: Mon, 24 Aug 2026 17:15:00 +0000
+Subject: [PATCH 26/26] Navigation: a route back from every packet, the retired
+ signposts out of search, the packets in the map
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Three small gaps the packet work exposed.
+
+A reviewer who lands on a packet from an invitation email had the sidebar and
+nothing else — no line saying where the terms, the lane table, or the other packets
+live. Each builder now writes a one-line route into the packet's header: the
+reviewer page for the seat's terms, the packets index one level up. Regenerated,
+per the rule.
+
+The nine retired docs/0X signposts existed so old links land; they were also in the
+search index, so searching "track record" surfaced the signpost above the page it
+points to. They are now search_exclude in _config.yml — reachable by link, invisible
+to search, same treatment the archive already had.
+
+MAP.md claims to answer "which file owns this question" for the whole repository and
+had no row for packets/. It now has a table: the index owns the packet rule; the
+three packets are marked derived and owning nothing, because the sweep, the queue
+and the register remain the authority — the map now says out loud what the packets'
+own headers say.
+---
+ MAP.md                              |  9 ++++++++
+ _config.yml                         | 36 +++++++++++++++++++++++++++++
+ packets/build_criminal_packet.py    |  3 +++
+ packets/build_enforcement_packet.py |  3 +++
+ packets/build_security_packet.py    |  3 +++
+ packets/criminal_law.md             |  3 +++
+ packets/enforcement.md              |  3 +++
+ packets/security.md                 |  3 +++
+ 8 files changed, 63 insertions(+)
+
+diff --git a/MAP.md b/MAP.md
+index 7b8f207..dafd614 100644
+--- a/MAP.md
++++ b/MAP.md
+@@ -158,6 +158,15 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
+ | [`docs/questions.md`](./docs/questions.md) | The doctrinal question ladder — the lawyer-and-machine register. (The plain-language register is dossier chapter 05, sealed.) | live |
+ | `docs/01-` … `docs/09-` | Retired paths from the pre-consolidation arrangement. | signpost |
+ 
++## The review packets — `packets/`
++
++| File | Owns | Status |
++|---|---|---|
++| [`packets/README.md`](./packets/README.md) | **What a packet is and the rule that governs all of them** — a script-assembled reading copy per lane, never hand-edited; if a packet and a source differ, the source is right. | live |
++| [`packets/criminal_law.md`](./packets/criminal_law.md) | The criminal-law seat's whole apparatus on one page, by committed builder. **Owns nothing** — every section is reproduced from the sweep, the queue and the register, which stay the authority. | derived |
++| [`packets/enforcement.md`](./packets/enforcement.md) | The enforcement-and-prosecution seat's apparatus on one page, OPEN QUESTION 4 first. Same rule: derived, owns nothing. | derived |
++| [`packets/security.md`](./packets/security.md) | The frontier-security seat's apparatus on one page — the lane with nothing drafted, so the packet carries the findings, Part 6 whole, and the federal comparator. Derived, owns nothing. | derived |
++
+ ## The evidence base — `research/`
+ 
+ | File | Owns | Status |
+diff --git a/_config.yml b/_config.yml
+index 5d80cf7..daea5cd 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -82,6 +82,42 @@ defaults:
+       path: "archive"         # superseded versions: reachable by link, never by search
+     values:
+       search_exclude: true
++  - scope:
++      path: "docs/01-the-problem.md"     # retired signpost: the link lands, search should not
++    values:
++      search_exclude: true
++  - scope:
++      path: "docs/02-the-precedents.md"     # retired signpost: the link lands, search should not
++    values:
++      search_exclude: true
++  - scope:
++      path: "docs/03-whats-in-the-act.md"     # retired signpost: the link lands, search should not
++    values:
++      search_exclude: true
++  - scope:
++      path: "docs/04-how-to-hand-over-a-bill.md"     # retired signpost: the link lands, search should not
++    values:
++      search_exclude: true
++  - scope:
++      path: "docs/05-where-and-when.md"     # retired signpost: the link lands, search should not
++    values:
++      search_exclude: true
++  - scope:
++      path: "docs/06-track-record.md"     # retired signpost: the link lands, search should not
++    values:
++      search_exclude: true
++  - scope:
++      path: "docs/07-context-timeline.md"     # retired signpost: the link lands, search should not
++    values:
++      search_exclude: true
++  - scope:
++      path: "docs/08-behind-the-scenes.md"     # retired signpost: the link lands, search should not
++    values:
++      search_exclude: true
++  - scope:
++      path: "docs/09-the-government-caught-one.md"     # retired signpost: the link lands, search should not
++    values:
++      search_exclude: true
+   - scope:
+       path: "audit/record.md" # the 364KB frozen record would drown the search index
+     values:
+diff --git a/packets/build_criminal_packet.py b/packets/build_criminal_packet.py
+index f76172d..0efac3f 100644
+--- a/packets/build_criminal_packet.py
++++ b/packets/build_criminal_packet.py
+@@ -70,6 +70,9 @@ the lane can be read, printed, and marked up as one document. If this page and a
+ the source is right and the difference is a defect worth reporting to
+ FrontierAIAccountabilityProject@proton.me.*
+ 
++*Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
++[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
++
+ ## The ask
+ 
+ One seat, one lane, scope in writing before work begins. Unpaid. **The floor:** the statute
+diff --git a/packets/build_enforcement_packet.py b/packets/build_enforcement_packet.py
+index 33872af..73b4ca8 100644
+--- a/packets/build_enforcement_packet.py
++++ b/packets/build_enforcement_packet.py
+@@ -82,6 +82,9 @@ lane can be read, printed, and marked up as one document. If this page and a sou
+ source is right and the difference is a defect worth reporting to
+ FrontierAIAccountabilityProject@proton.me.*
+ 
++*Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
++[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
++
+ ## The ask
+ 
+ One seat, one lane, scope in writing before work begins. Unpaid. **The floor:** the statute
+diff --git a/packets/build_security_packet.py b/packets/build_security_packet.py
+index f49d142..8a6eeb4 100644
+--- a/packets/build_security_packet.py
++++ b/packets/build_security_packet.py
+@@ -75,6 +75,9 @@ lane can be read, printed, and marked up as one document. If this page and a sou
+ source is right and the difference is a defect worth reporting to
+ FrontierAIAccountabilityProject@proton.me.*
+ 
++*Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
++[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
++
+ ## The ask
+ 
+ One seat, one lane, scope in writing before work begins. Unpaid. **The floor:** the regulations
+diff --git a/packets/criminal_law.md b/packets/criminal_law.md
+index ed36cf0..f686b83 100644
+--- a/packets/criminal_law.md
++++ b/packets/criminal_law.md
+@@ -8,6 +8,9 @@ the lane can be read, printed, and marked up as one document. If this page and a
+ the source is right and the difference is a defect worth reporting to
+ FrontierAIAccountabilityProject@proton.me.*
+ 
++*Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
++[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
++
+ ## The ask
+ 
+ One seat, one lane, scope in writing before work begins. Unpaid. **The floor:** the statute
+diff --git a/packets/enforcement.md b/packets/enforcement.md
+index d3cc523..9beb231 100644
+--- a/packets/enforcement.md
++++ b/packets/enforcement.md
+@@ -9,6 +9,9 @@ lane can be read, printed, and marked up as one document. If this page and a sou
+ source is right and the difference is a defect worth reporting to
+ FrontierAIAccountabilityProject@proton.me.*
+ 
++*Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
++[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
++
+ ## The ask
+ 
+ One seat, one lane, scope in writing before work begins. Unpaid. **The floor:** the statute
+diff --git a/packets/security.md b/packets/security.md
+index d7fed81..d14f7bb 100644
+--- a/packets/security.md
++++ b/packets/security.md
+@@ -9,6 +9,9 @@ lane can be read, printed, and marked up as one document. If this page and a sou
+ source is right and the difference is a defect worth reporting to
+ FrontierAIAccountabilityProject@proton.me.*
+ 
++*Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
++[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
++
+ ## The ask
+ 
+ One seat, one lane, scope in writing before work begins. Unpaid. **The floor:** the regulations
+-- 
+2.43.0
+

@@ -58,6 +58,12 @@ defaults:
       path: "packets/security.md"
     values: { nav_exclude: false, parent: "The review packets", nav_order: 3, title: "Frontier security" }
   - scope:
+      path: "packets/fiscal.md"
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 4, title: "Fiscal and administration" }
+  - scope:
+      path: "packets/federalism.md"
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 5, title: "Federalism and preemption" }
+  - scope:
       path: "docs/the_case.md"
     values: { nav_exclude: false, nav_order: 3, title: "The case" }
   - scope:

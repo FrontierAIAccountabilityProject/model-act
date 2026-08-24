@@ -19,7 +19,15 @@ Built so far:
   answer: two fatal findings, the regulations' Part 6 reproduced whole because it is what they are
   about, and the federal comparator to mark six new control objectives against.
 
-The other two lanes (open source and academia; fiscal and administration) follow the same builder
-pattern. The lane definitions live on
+- [Fiscal and administration](./fiscal.md) — the note's rules enforced on the note itself: the
+  sweep's six fiscal findings, the first real-world price in the genre, the commencement
+  postures costed, and the forecasters' magnitudes (⚠ forecast-grade). Assembled directly on
+  24 August; its builder follows, and the regeneration rule applies from its next revision.
+- [Federalism and preemption](./federalism.md) — the ceiling weather read as a negotiation
+  (four reservations on record), SEC. 13's design and its drafted valve, the SEC. 1(c) nexus
+  against the Commerce Clause. Assembled directly on 24 August; builder to follow.
+
+The remaining lanes (open source and academia; the sweep's proportionality and torts/design
+lanes) follow the same pattern. The lane definitions live on
 [the reviewer page](../REVIEWERS.md); the statute itself is never reproduced in a packet — the
 tagged text and its print copy are the statute's only homes.

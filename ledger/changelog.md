@@ -3,6 +3,23 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026 — two more packets: the fiscal lane and the federalism
+lane.** No change to any tagged text. The packet shelf goes from three lanes to five in one
+day. Fiscal: the note's own rules enforced against it — the sweep's six findings put to the
+seat unanswered on purpose, the Colorado floor as the genre's first real arithmetic, the
+commencement postures costed, the forecasters' fine-absorption magnitudes carried ⚠
+forecast-grade, and the CURE 7 sequencing recommendation put to the reviewer as an undecided
+question. Federalism: the ceiling weather read as a negotiation, four general-applicability
+reservations deep; SEC. 13's severance and suspension design with CURE 2's drafted valve
+(proposal, not enacted); the SEC. 1(c) nexus against the dormant Commerce Clause; and the
+lane's charge stated plainly — the whole repository's posture rests on the carve-out holding,
+so refuting it would be the most valuable disposition the lane can produce. Both packets carry
+the new cross-lane section — how the seats interrelate, the maintainer's bounded role, and the
+anonymous correction doors — which the earlier three packets gain at their next regeneration.
+Both were assembled directly; builders follow, and the regeneration rule applies from each
+packet's next revision. Reviewer surfaces stay frozen; wiring into REVIEWERS lane tables joins
+the freeze-lift batch.
+
 **Between versions — 24 August 2026 — the officer word, conformed (E35).** No change to any
 tagged text. Three files called the source of the 8 August admissions "a senior officer of the
 developer"; his role is head of strategic futures — the advice layer the front page itself
