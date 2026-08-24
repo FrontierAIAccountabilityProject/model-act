@@ -130,9 +130,13 @@ html {
 }
 .site-nav .nav-list-link.active {
   background: $cream-deep;
-  box-shadow: inset 3px 0 0 $maroon;
-  font-weight: 600;
-  color: $ink;
+  box-shadow: inset 4px 0 0 $maroon;
+  font-weight: 700;
+  color: $maroon;
+}
+.site-nav .nav-list .nav-list-item .nav-list-link.active::before {
+  color: $maroon;
+  font-weight: 700;
 }
 .site-nav .nav-list-link:hover {
   background: #efe9da;
@@ -198,3 +202,13 @@ html {
 .timeline dt { font-weight: 700; font-variant-numeric: tabular-nums; margin-top: 0.9rem; position: relative; }
 .timeline dt::before { content: ""; position: absolute; left: calc(-1.4rem - 5px); top: 0.42em; width: 8px; height: 8px; border-radius: 50%; background: #5c1f1c; }
 .timeline dd { margin: 0.1rem 0 0.4rem 0; }
+
+
+// Where you are: the page begins with air, and the title does not crowd the masthead.
+.main-content > h1:first-child {
+  margin-top: 1.5rem;
+}
+.main-header {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
