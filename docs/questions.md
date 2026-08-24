@@ -38,9 +38,9 @@ begin ("does this affect me?") and climbing to doctrinal design. This is the har
 the project's two question pages: the objections that professionals, and lately the
 answer engines, circulate — answered at full strength, name-free and wealth-free by
 rule. The plain-language set, the questions the public actually asks, angry ones
-included, is [the dossier's Q&A chapter](../dossier/README.md#chapter-05); several
+included, is [the dossier's Q&A chapter](../dossier/README.md#questions-and-answers); several
 questions appear on both pages on purpose, answered in each page's register. The
-maximal case against this text is [the hostile brief](../audit/record.md#chunk-7).
+maximal case against this text is [the hostile brief](../audit/record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel).
 Several answers below are honestly "open" — naming them is what a research draft is for.
 
 **Asked first.**
@@ -156,7 +156,7 @@ their own — masked in the oldest American tradition, Publius and Junius and Di
 because the citations are the only authority this text claims. Check them, not the byline.
 The maintainer is identifiable privately to reviewers before they sign anything, and to
 retained counsel at engagement. No client, organisation, or grant funds the work. [Provenance and
-method](#provenance-and-method) describes the drafting and correction process.
+method](../README.md#provenance-and-method) describes the drafting and correction process.
 
 *Is this advocacy or introducible legislation?* It is model legislation and a research
 draft. Any sponsor's legislative counsel would need to conform its definitions,
@@ -168,7 +168,7 @@ register](../ledger/errata.md).
 *Who funds this?* No client, organisation, or grant funds the project. The drafting
 record, revisions, and corrections are public, and the text is released under CC0.
 
-*"Where are the bodies?"* In [the incident timeline](../dossier/README.md#chapter-02),
+*"Where are the bodies?"* In [the incident timeline](../dossier/README.md#dossier-appendix--the-incident-timeline),
 which exists because the question deserves a file rather than a sentence. The older
 answer is structural: the offence is shipping unvalidated, precisely so the count
 stays where it is — prevention that works is always accused of solving nothing.
@@ -384,7 +384,7 @@ certifications — and documentary cases are the ones offices actually bring. Th
 the signature does the element's work: the person who certified under SEC. 8 is the
 person who claimed the authority, in writing. The FDCA comparison also cuts backwards
 — *Park* prosecutions are rare because the exposure works ex ante. Whether SEC. 4
-survives a real charging memo is [the enforcement seat's](#for-the-review-council)
+survives a real charging memo is [the enforcement seat's](../REVIEWERS.md#enforcement-and-prosecution)
 core question — open, and the seat exists because it is.
 
 *"Your records duties turn emergency patching into evidence tampering."* Backwards on
@@ -426,7 +426,7 @@ in-state advantage, no out-of-state burden an in-state actor doing the same cond
 escapes — and the findings disclaim any duty arising from research, training, or
 development that neither occurs in-state nor concerns a system sent there (SEC.
 0(a)(3)). The sibling formulas are enacted law in the interim standards' home states;
-the full map is [chunk 2](../audit/record.md#chunk-2).
+the full map is [chunk 2](../audit/record.md#chunk-2--preemption-armour-for-v33).
 
 *Why won't federal preemption kill it?* It may try; the armour is operative text, not
 cover copy — SEC. 0 states the core, SEC. 13 orders the severance and revives
@@ -448,9 +448,9 @@ characterisation-shaped trigger.
 
 None of the hardest questions above began as hypotheticals. Objections arriving in
 the wild are preserved, with the answers that survived them, in
-[the field notes](../audit/record.md#field-notes) — the leash, the gun analogy, the
+[the field notes](../audit/record.md#field-notes-for-assembly--chunk-6-inputs) — the leash, the gun analogy, the
 Price-Anderson bargain, and the cheapest gut among them — and every objection met is
-kept, sourced, in [the question-and-answer chapter](../dossier/README.md#chapter-05).
+kept, sourced, in [the question-and-answer chapter](../dossier/README.md#questions-and-answers).
 The first genuine outside catch is credited permanently as E7 in
 [the register](../ledger/errata.md). Criticism is raw material here; send more.
 

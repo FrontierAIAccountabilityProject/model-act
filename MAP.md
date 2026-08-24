@@ -92,7 +92,7 @@ through it: [REVIEWERS.md](./REVIEWERS.md).*
 * **[Known objections](./docs/known_objections.md)**: The counter-arguments, strongest included, answered.
 * **[Questions and answers](./dossier/05_questions_and_answers.md)**: The same, as a journalist would ask them.
 * **[The lane sweep](./audit/v3_5_lane_sweep.md)**: Our own five-lane pre-review — seven defects graded fatal, four in the tagged statute.
-* **[The drafting record](./audit/record.md)**: Eight audits merged; at [chunk 7](./audit/record.md#chunk-7), the hostile brief — the Act as opposing counsel reads it.
+* **[The drafting record](./audit/record.md)**: Eight audits merged; at [chunk 7](./audit/record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel), the hostile brief — the Act as opposing counsel reads it.
 * **[Assembly field notes](./audit/field_notes_for_assembly.md)**: The workbench of the current text, preserved.
 
 *The proposed reform:*
@@ -187,7 +187,7 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
 |---|---|---|
 | [`audit/v3_5_cure_language.md`](./audit/v3_5_cure_language.md) | **The open queue.** CURE 1–7 and OPEN QUESTIONS 1–3, each with an exact ANCHOR into v3.4 and its NEW TEXT. **CURE 6** owns the self-designation route; **CURE 7** owns the covered frontier enterprise and the function-matched officer. This is where a reviewer's finding becomes drafted language. | queue |
 | [`audit/v3_4_cure_language.md`](./audit/v3_4_cure_language.md) | The fifteen cures that landed verbatim at v3.4 — the redline behind the current statute. | sealed |
-| [`audit/record.md`](./audit/record.md) | The frozen drafting record, chunks 1–8, including [the hostile brief](./audit/record.md#chunk-7). | sealed |
+| [`audit/record.md`](./audit/record.md) | The frozen drafting record, chunks 1–8, including [the hostile brief](./audit/record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel). | sealed |
 | [`audit/standing_watch_2026-08-20.md`](./audit/standing_watch_2026-08-20.md) | The periodic re-sweep of live bills, litigation and federal vehicles — including what each sweep missed. | live |
 | `audit/chunk1-8`, `audit/field_notes_for_assembly.md` | Components of the record, reached through it. | sealed |
 

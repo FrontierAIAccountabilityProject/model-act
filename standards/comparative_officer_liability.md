@@ -387,6 +387,6 @@ own scholar; the first adds Massachusetts to the venue map — see
 
 ---
 
-*Corrections to FrontierAIAccountabilityProject@proton.me; they enter [the errata register](../LEDGER.md#part-i)
+*Corrections to FrontierAIAccountabilityProject@proton.me; they enter [the errata register](../LEDGER.md#part-i--the-errata-register)
 like everything else. Nothing in this file is legal advice, and nothing in it is cited by
 the statute.*

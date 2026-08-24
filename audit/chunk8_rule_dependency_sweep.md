@@ -1,5 +1,5 @@
 # Chunk 8
 
-This file was merged into **[the drafting record](./record.md#chunk-8)** on 19 August 2026, as part of the
+This file was merged into **[the drafting record](./record.md#chunk-8--the-rule-dependency-sweep-interim-defaults-for-everything-that-waits)** on 19 August 2026, as part of the
 repository's consolidation into a small number of complete documents. Its content is
 preserved there verbatim. This path remains so that existing links continue to land.

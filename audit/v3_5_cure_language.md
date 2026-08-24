@@ -343,7 +343,7 @@ operative text, records what CURE 1 already resolves, and holds one question ope
 
 ## CURE 2 — SEC. 13(c): a review valve on the suspension order
 
-*Cures finding F4 (drafting record, [chunk 7](./record.md#chunk-7) §3.9; register ★★★, new
+*Cures finding F4 (drafting record, [chunk 7](./record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel) §3.9; register ★★★, new
 17 August 2026), uncured at v3.4: the conforming-operation order carries no standard of
 review, no mechanism to challenge an order as too broad, and no route to vacatur — while
 SEC. 13(c)(3) bars conviction for conduct during a suspension and SEC. 13(d) makes revival

@@ -215,7 +215,7 @@ certification or authentication of the deployment decision. At the best-document
 on earth there is a decision-maker and no artefact of the decision.
 
 *The full entry, with sources and its own limits, is at
-[the dossier, chapter 06](../dossier/README.md#chapter-06).*
+[the dossier, chapter 06](../dossier/README.md#dossier--the-open-letters-record).*
 
 **And the asymmetry to put to a committee in one line.** Every fact in this section is
 retractable by the party it describes. Every fact in section 1 is a statute. The accountability

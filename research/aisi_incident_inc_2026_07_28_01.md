@@ -223,7 +223,7 @@ Also from the *Nature* editorial, on Hugging Face's **"asymmetry problem"**:
 > Instead, it relied on an open-weight frontier model running on its own infrastructure."**
 
 **The breached party was refused by the guardrails while investigating the breach.** This
-independently confirms what [Forescout reported](../standards/commentary_sweep.md#g6) and is the
+independently confirms what [Forescout reported](../standards/commentary_sweep.md#g6--somebody-finally-asked-the-question-in-a-headline-and-stopped-at-the-company) and is the
 evidentiary basis for the safe-harbour half of this project's security-researcher argument.
 
 ---

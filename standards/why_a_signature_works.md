@@ -394,7 +394,7 @@ puts the second half of the point in four words:
 
 > **"Finding isn't the same as fixing."**
 
-**That is [the transparency/accountability distinction](./house_language.md#11) arriving in a
+**That is [the transparency/accountability distinction](./house_language.md#11-transparency-and-accountability--why-one-of-these-words-wins) arriving in a
 government document.** Disclosure produces information. Only a duty produces a person who has to act
 on it.
 

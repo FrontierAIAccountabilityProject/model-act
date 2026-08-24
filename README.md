@@ -49,7 +49,7 @@ technical definition of *frontier*; this project holds a legal one — [two defi
 - [In one paragraph](#in-one-paragraph) — the whole Act, precisely, with the interpretive key beneath it.
 - [Can a model act?](#can-a-model-act) through [the comparison that makes the point fastest](#the-comparison-that-makes-the-point-fastest) — the criminal-law case in four short exhibits.
 - [Overview](#overview) · [project disclosure](#project-disclosure) · [Status](#status) — the known defects named first.
-- [Repository structure](#repository-structure) and [Contents](#contents) — the shelf; the chapter view is [the map, Part I](./MAP.md).
+- [Repository structure](#repository-structure-and-contents) and [Contents](#repository-structure-and-contents) — the shelf; the chapter view is [the map, Part I](./MAP.md).
 - [For legislative sponsors and staff](#for-legislative-sponsors-and-staff) · [for the review council](#for-the-review-council) — the two audiences; a reviewer's working page is [REVIEWERS.md](./REVIEWERS.md).
 - [Provenance and method](#provenance-and-method) — who maintains this, how, and what is never quiet.
 - [Citation](#citation) · [contact and contributions](#contact-and-contributions) · [file status and history](#file-status-and-history) · [license](#license).
@@ -169,7 +169,7 @@ organisation**, assigning them to one post-holder.
 Officer answers to Parliament, not a jury. **What it settles is that the arrangement is ordinary.**
 Anyone arguing a frontier developer cannot have a responsible officer has to explain why what the
 British state imposed on itself is impossible for the companies building the technology.
-[The long version, with the limits](./standards/why_a_signature_works.md#2a).
+[The long version, with the limits](./standards/why_a_signature_works.md#2a-and-in-this-exact-domain-a-government-has-already-built-the-architecture).
 
 **And the first quote cuts against this statute too, which is why it is on this page and not in a
 footnote.** This Act's trigger is compute — 10²⁶ operations. A finding that capability does not track
@@ -237,7 +237,7 @@ signpost. One owner per fact; where two files disagree, the owner governs.
 glossary for people who have to legislate about this. It is the shortest route to reading
 everything else here critically.
 
-**On this page** — [Two definitions](#two-definitions-of-frontier) · [Overview](#overview) · [Status](#status) · [Structure](#repository-structure) · [Contents](#contents) · [For legislative sponsors](#for-sponsors-and-staff) · [For reviewers](#for-the-review-council) · [Provenance](#provenance-and-method) · [Recent activity](./ledger/diary.md)
+**On this page** — [Two definitions](#two-definitions-of-frontier) · [Overview](#overview) · [Status](#status) · [Structure](#repository-structure-and-contents) · [Contents](#repository-structure-and-contents) · [For legislative sponsors](#for-legislative-sponsors-and-staff) · [For reviewers](#for-the-review-council) · [Provenance](#provenance-and-method) · [Recent activity](./ledger/diary.md)
 
 
 ---
@@ -629,7 +629,7 @@ specialist better placed than you. **This is not review and is never described a
 No commitment beyond the call.
 
 *Legislative and sponsor contact is a separate track, not one of these three doors — see
-[for sponsors and staff](#for-sponsors-and-staff). This project finishes things; bring the
+[for sponsors and staff](#for-legislative-sponsors-and-staff). This project finishes things; bring the
 one thing only you can finish. The text is public domain: nothing here is a reason to wait,
 and all of it is a reason to begin.*
 

@@ -20,11 +20,11 @@ line render as money rather than as mathematical notation. The escape is a prese
 character; no word, figure, or punctuation mark of the concatenated text is altered, and the
 checksums stamped at each chunk head were taken before it was applied.*
 
-Parts: [reader's guide](#readme) · [1 — landscape](#chunk-1) · [2 — preemption armour](#chunk-2) ·
-[3 — penalty architecture](#chunk-3) · [4 — harm-tier rebuild](#chunk-4) ·
-[5 — commencement and records](#chunk-5) · [6 — assembly](#chunk-6) ·
-[7 — the hostile brief](#chunk-7) · [8 — rule-dependency sweep](#chunk-8) ·
-[field notes](#field-notes)
+Parts: [reader's guide](#the-audit-directory) · [1 — landscape](#chunk-1--landscape-audit-for-v33) · [2 — preemption armour](#chunk-2--preemption-armour-for-v33) ·
+[3 — penalty architecture](#chunk-3--penalty-architecture-for-v33-sec-7-rework-and-bracket-calibration) · [4 — harm-tier rebuild](#chunk-4--the-harm-tier-rebuilt-proportionality-valve-recidivist-path-and-retention-harmonisation-for-v33) ·
+[5 — commencement and records](#chunk-5--commencement-rebuilt-immediate-duties-the-interim-standards-bridge-the-modifiability-floor-and-the-sec-5e-decision) · [6 — assembly](#chunk-6--v33-assembly-record) ·
+[7 — the hostile brief](#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel) · [8 — rule-dependency sweep](#chunk-8--the-rule-dependency-sweep-interim-defaults-for-everything-that-waits) ·
+[field notes](#field-notes-for-assembly--chunk-6-inputs)
 
 
 ---

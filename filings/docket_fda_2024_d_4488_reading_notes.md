@@ -403,4 +403,4 @@ remembering when this project drafts its own.
 *Compiled 20 August 2026 from the agency's posted comments. Quotations are verbatim from
 the posted text; where any quotation differs from the agency's posting, the agency's
 posting controls and a correction here is an erratum for
-[the register](../LEDGER.md#part-i). Statutory citations are to `model_act_v3_4.txt`.*
+[the register](../LEDGER.md#part-i--the-errata-register). Statutory citations are to `model_act_v3_4.txt`.*

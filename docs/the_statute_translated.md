@@ -10,7 +10,7 @@ where this page and the statute differ, the statute governs and the difference i
 What follows is the complete Act in plain language — every section, faithful to the
 v3.4 text as landed. Two rules govern this translation. First: it is a translation,
 not the text; where this summary and [the statute](../model_act_v3_4.txt) differ, the
-statute controls, and the strict verification prompt in [Verify it](#verify-it) works
+statute controls, and the strict verification prompt in [Verify it](./the_case.md#verify-it) works
 on this section too. Second: matter in [brackets] is an adopting state's choice — a
 number or a name the legislature fills in, not a gap.
 
@@ -297,7 +297,7 @@ days, and the provision wakes back up, prospectively. A federal switch-off statu
 that later dies cannot leave this Act dark.
 
 *That is the whole law. Fourteen sections; the doctrine is eighty years old; the
-only new part is who it reaches. [Verify it](#verify-it).*
+only new part is who it reaches. [Verify it](./the_case.md#verify-it).*
 
 
 ---

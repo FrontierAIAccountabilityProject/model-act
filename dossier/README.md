@@ -10,10 +10,10 @@ has been overtaken, the correction lives in the table immediately below, and the
 lives in [`docs/`](../docs/). **Where the sealed text and a live file disagree, the live file
 governs.** ([The map](../MAP.md) records which file owns which question.)
 
-Chapters: [00 — contents](#chapter-00) · [01 — the power map](#chapter-01) ·
-[02 — the incident timeline](#chapter-02) · [03 — the congressional record](#chapter-03) ·
-[04 — wealth and control](#chapter-04) · [05 — questions and answers](#chapter-05) ·
-[06 — the open letters](#chapter-06)
+Chapters: [00 — contents](#the-frontier-ai-accountability-dossier) · [01 — the power map](#the-frontier-ai-accountability-dossier-1) ·
+[02 — the incident timeline](#dossier-appendix--the-incident-timeline) · [03 — the congressional record](#dossier--the-politicians-track-the-record-already-exists) ·
+[04 — wealth and control](#dossier--wealth-control-and-the-sec-4-seat-deep-dive) · [05 — questions and answers](#questions-and-answers) ·
+[06 — the open letters](#dossier--the-open-letters-record)
 
 ---
 

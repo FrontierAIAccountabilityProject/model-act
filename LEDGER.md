@@ -12,7 +12,7 @@ ever deleted: corrections are appended beside the claims they correct. **New ent
 the three files linked below, not in this one.** The anchors on this page are preserved because they
 are cited across this repository and in published material, and they continue to land.
 
-Parts: [I — the errata register](#part-i) · [II — the changelog](#part-ii) · [III — the diary](#part-iii)
+Parts: [I — the errata register](#part-i--the-errata-register) · [II — the changelog](#part-ii--the-changelog) · [III — the diary](#part-iii--the-diary)
 
 ---
 

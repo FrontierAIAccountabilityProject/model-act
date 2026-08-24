@@ -1128,8 +1128,8 @@ and the register will say so either way.
 work unless that work is in hand at the time of writing.** Not a summary of it. Not a memory of
 having read it. Not a citation to it in a third source. The work.
 
-This is [E22](../ledger/errata.md#e22) generalised, and the reasoning is recorded at
-[E32](../ledger/errata.md#e32). E22 was written about quotations: a quotation held in a working
+This is [E22](../ledger/errata.md#e22--a-quotation-held-in-a-working-summary-is-not-a-quotation) generalised, and the reasoning is recorded at
+[E32](../ledger/errata.md#e32--e22-extended-from-the-repository-to-correspondence). E22 was written about quotations: a quotation held in a working
 summary is not a quotation, because the confidence rubric grades *how a source was obtained* and has
 no column for *how the words travelled from the source into the file*. **Characterisations travel
 the same way and decay in the same direction** — toward what the writer needed the source to say.

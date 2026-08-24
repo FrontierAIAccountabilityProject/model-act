@@ -1,6 +1,6 @@
 # Behind the scenes
 
-This page has moved to **[behind the scenes](../LEDGER.md#part-iii)**.
+This page has moved to **[behind the scenes](../LEDGER.md#part-iii--the-diary)**.
 
 It was merged into the front page on 19 August 2026, during the repository's consolidation into a
 small number of complete documents, and moved again on 21 August 2026 when that front page was

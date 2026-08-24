@@ -188,7 +188,7 @@ editorial about it and must not be cited as Bishop Fox's view.*
 > *"A: Accountability sits with **the teams** that own identity, access, and resilience controls, not
 > just security tooling."*
 
-**Teams.** *"The organisation must own shorter access lifetimes."* **This is [G6](../standards/commentary_sweep.md#g6)
+**Teams.** *"The organisation must own shorter access lifetimes."* **This is [G6](../standards/commentary_sweep.md#g6--somebody-finally-asked-the-question-in-a-headline-and-stopped-at-the-company)
 happening again in a different corner of the industry: the question is asked precisely, and the
 answer stops at a collective noun.** The words *officer*, *natural person*, *certify*, *signature*
 and *personally* do not appear.
@@ -198,7 +198,7 @@ and *personally* do not appear.
 *Cliff Saran, "Cyber protection against advances in frontier AI models."*
 
 **Rik Ferguson**, VP of security intelligence at Forescout — the same firm behind
-[G6](../standards/commentary_sweep.md#g6):
+[G6](../standards/commentary_sweep.md#g6--somebody-finally-asked-the-question-in-a-headline-and-stopped-at-the-company):
 
 > **"The capability gap between the two leading frontier models is narrower than the coverage
 > implies. The governance gap is considerably wider."**

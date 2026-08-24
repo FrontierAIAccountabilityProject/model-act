@@ -28,7 +28,7 @@ outranks anything on the menu.
 The tagged text is not reproduced here. Read `model_act_v3_4.txt` at the repository root (print
 copy: `archive/model_act_v3_4_reviewers_copy.pdf`). Your sections: **SEC. 1, 4, 5–6, and
 10(b)–(c)**, with the v3.4 cures 2, 5, and 13 and the penalty and harm-tier chunks of
-[the drafting record](../audit/record.md#chunk-3) behind them.
+[the drafting record](../audit/record.md#chunk-3--penalty-architecture-for-v33-sec-7-rework-and-bracket-calibration) behind them.
 
 ---
 
@@ -81,6 +81,10 @@ intake-derived entries are additionally AI-assisted and not maintainer-validated
 candidate finding — verifying or refuting one is a complete finding for the disposition.*
 
 ## OPEN QUESTION 1 — SEC. 3(c)(4): does Connecticut become a fourth interim standard?
+
+*Status (24 Aug 2026, maintainer): **parked by decision** — no ruling until the Connecticut act
+is retrieved and read (retrieval list). Working default: three interim standards suffice; the
+read confirms or overturns it.*
 
 *Opened 21 August 2026 by [E16](../ledger/errata.md). **Not a cure — a drafting decision**, held
 here rather than made silently, because it changes the tagged statutory text and
@@ -481,7 +485,7 @@ the seat done whole. Replace any of them with findings of your own.
 6. Does per-victim counting survive the state's merger doctrine? *(nor this)*
 
 Senior to all six, from the companion's
-[READ FIRST index](../model_act_v3_4_companion.md#read-first--open-items-for-the-next-revision-v35):
+[READ FIRST index](../model_act_v3_4_companion.md#read-first--questions-for-the-next-revision-v35):
 item 3's remainder (the death-results minimum and the report-versus-element distinction) and
 item 4 (the sentencing valve against state proportionality clauses) are this lane's too.
 

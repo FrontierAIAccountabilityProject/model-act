@@ -33,7 +33,7 @@ v3.4; [draft implementing regulations](./model_regulations_v1_draft.md); and
 surface rather than concealing it.
 
 **The self-scrutiny.** Eight drafting-era audits merged into [one record](./audit/record.md),
-including [a hostile brief](./audit/record.md#chunk-7) written as opposing counsel would write it;
+including [a hostile brief](./audit/record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel) written as opposing counsel would write it;
 [a fifteen-fix cure queue](./audit/v3_4_cure_language.md) published *in advance* of the revision
 that landed it, departure and destination diffable; [an open successor queue](./audit/v3_5_cure_language.md)
 where findings become drafted language; [a five-lane in-house sweep](./audit/v3_5_lane_sweep.md)
@@ -97,7 +97,7 @@ decisions, not defects.
 **6 · The companion.** [Drafting notes and READ FIRST items](./model_act_v3_4_companion.md) — skim
 all, close-read where your lane points.
 
-**7 · The hostile brief.** [The record, chunk 7](./audit/record.md#chunk-7) — if your objection is
+**7 · The hostile brief.** [The record, chunk 7](./audit/record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel) — if your objection is
 already there, grade our answer; if it is not, that finding is what the seat is for.
 
 **Lost at any point?** [The map](./MAP.md) answers "which file owns this question" for the whole
@@ -140,7 +140,7 @@ order, assembled by committed script so it cannot silently drift:
 
 | | |
 |---|---|
-| **Your text** | SEC. 1, 4, 5–6, and 10(b)–(c) of the statute · v3.4 cures 2, 5, and 13 · the penalty and harm-tier chunks of [the record](./audit/record.md#chunk-3) |
+| **Your text** | SEC. 1, 4, 5–6, and 10(b)–(c) of the statute · v3.4 cures 2, 5, and 13 · the penalty and harm-tier chunks of [the record](./audit/record.md#chunk-3--penalty-architecture-for-v33-sec-7-rework-and-bracket-calibration) |
 | **The sweep's findings** *(all contestable)* | SEC. 6(a) **cannot be pleaded** — no element requires that a SEC. 5 violation occurred, nothing connects the due-care failure to it, and "the relevant risk" has no antecedent in the section · SEC. 5(d) is a **strict-liability false-statement crime** whose own drafting note cites a statute requiring knowledge · SEC. 6(b)(2) attaches a felony with no fault element · SEC. 6(e) silently widens the "practical power" SEC. 4(a) narrowed · SEC. 6(d) deletes *Park*'s production burden, which may be why the offense would never be charged |
 | **Drafted in response** | [CURE 8](./audit/v3_5_cure_language.md#cure-8--sec-6-the-individual-liability-offense-reconstructed), [CURE 11](./audit/v3_5_cure_language.md#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice), [CURE 12](./audit/v3_5_cure_language.md#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) |
 | **Your questions — any three are a disposition; all are the seat** | (1) Is the reconstructed SEC. 6(a) chargeable? (2) Is due care as an element the right cure for the *Alleyne* problem? (3) Does the restored burden survive? (4) Is CURE 1's answer — one injury definition, not two — right? (5–6) The two the sweep could not settle: does a state's suspended-sentence law defeat the harm-tier minimum, and does per-victim counting survive the state's merger doctrine? |
@@ -152,12 +152,12 @@ order, assembled by committed script so it cannot silently drift:
 
 | | |
 |---|---|
-| **Your text** | SEC. 5, 9, 10, and 12 · [chunk 3](./audit/record.md#chunk-3) and [chunk 5](./audit/record.md#chunk-5) of the record |
+| **Your text** | SEC. 5, 9, 10, and 12 · [chunk 3](./audit/record.md#chunk-3--penalty-architecture-for-v33-sec-7-rework-and-bracket-calibration) and [chunk 5](./audit/record.md#chunk-5--commencement-rebuilt-immediate-duties-the-interim-standards-bridge-the-modifiability-floor-and-the-sec-5e-decision) of the record |
 | **The sweep's findings** | **OPEN QUESTION 4 is the most consequential item in the repository** — SEC. 2(a)'s "and not otherwise" and SEC. 1(c) tether every duty to in-state deployment, while the 2026 incidents were *evaluation* conduct, mostly offshore, so five of six fall outside the Act at the threshold · SEC. 5(e) criminalises refusing a demand **no provision authorises** · SEC. 5(b), the only offense matching the conduct, is rule-gated into year four · SEC. 9(b)'s clock is unprovable against the real timelines and rewards certifying less monitoring · SEC. 3(c)(2)(D) makes the honest filer the easier defendant |
 | **Drafted in response** | [CURE 9](./audit/v3_5_cure_language.md#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import), [CURE 10](./audit/v3_5_cure_language.md#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four), [CURE 14](./audit/v3_5_cure_language.md#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring), [CURE 15](./audit/v3_5_cure_language.md#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour), [CURE 16](./audit/v3_5_cure_language.md#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened), and [OQ4's amendment](./audit/v3_5_cure_language.md#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) |
 | **Your questions — any three are a disposition; all are the seat** | (1) Would you charge any of this? (2) Does the OQ4 amendment reach too far extraterritorially? (3) Are the four interim controls at CURE 10 the right four? (4) What does an attorney general's office actually do with this in year one? |
 | **Your shelf** | the statute · the sweep's enforcement section · OPEN QUESTION 4 · [the state enforcement record](./research/state_enforcement_record_2026.md) · record chunks 3 and 5 |
-| **Errata in your lane** | [E3](./ledger/errata.md#e3--no-signature-no-shipping-the-signature-is-not-a-gate-and-a-signed-confession-currently-counts) — a signed confession currently satisfies the certification · [E6](./ledger/errata.md#e6--commencement-the-copy-error-corrected-today) — commencement is layered, not day-one across the board · [E28](./ledger/errata.md#e28) — "all self-disclosed" was wrong; the victim disclosed first · [E29](./ledger/errata.md#e29) — OQ3's evaluator sentence was corrected once already; read the current text |
+| **Errata in your lane** | [E3](./ledger/errata.md#e3--no-signature-no-shipping-the-signature-is-not-a-gate-and-a-signed-confession-currently-counts) — a signed confession currently satisfies the certification · [E6](./ledger/errata.md#e6--commencement-the-copy-error-corrected-today) — commencement is layered, not day-one across the board · [E28](./ledger/errata.md#e28--all-self-disclosed-in-the-same-repository-that-argues-the-victim-disclosed-first) — "all self-disclosed" was wrong; the victim disclosed first · [E29](./ledger/errata.md#e29--an-evaluator-was-placed-behind-an-incident-a-prior-correction-had-already-removed-it-from) — OQ3's evaluator sentence was corrected once already; read the current text |
 | **Donor, 23–24 Aug** | From the queue's fatals pass: the select-agent comparator for CURE 10's four controls · a named public witness and an enforced state theory for CURE 16 · the Colorado repeal arc for OQ4's tier placement |
 
 ### Frontier security
@@ -181,14 +181,14 @@ order, assembled by committed script so it cannot silently drift:
 | **Drafted in response** | [CURE 13](./audit/v3_5_cure_language.md#cure-13--sec-1b1b-say-sever-not-extend) only — the rest are unfixed |
 | **Your questions — any three are a disposition; all are the seat** | (1) Is the severance rule right? (2) Is the [10^24] floor in the right place for 2026 hardware? — READ FIRST item 6's question, narrowed to review (3) Would your institution's counsel permit a SEC. 2(c) deployment as drafted? |
 | **Your shelf** | SEC. 1(b) and 2(c) of the statute · the sweep's open-source section · CURE 6 and its amendment block · [the definition](./docs/the_definition.md) |
-| **Errata in your lane** | [E5](./ledger/errata.md#e5--it-was-never-going-to-be-you-true-for-the-weekend-model-not-yet-true-for-the-startup) — "it was never going to be you": true of the weekend model, not yet of the startup · [E26](./ledger/errata.md#e26) — a federal comparator bill was mislabelled once; the census row now carries the correction |
+| **Errata in your lane** | [E5](./ledger/errata.md#e5--it-was-never-going-to-be-you-true-for-the-weekend-model-not-yet-true-for-the-startup) — "it was never going to be you": true of the weekend model, not yet of the startup · [E26](./ledger/errata.md#e26--hr-9917-was-labelled-the-frontier-vehicle-it-is-the-ai-kill-switch-act) — a federal comparator bill was mislabelled once; the census row now carries the correction |
 | **Donor, 24 Aug** | The lineage-counting rule your lane attacks now has a bipartisan federal sibling — H.R. 8094 counts original run plus fine-tuning, RL and material modification above the same 10²⁶ line ([the definition](./docs/the_definition.md); the census row) — which reframes, without settling, both the [10^24]-floor question and CURE 13 |
 
 ### Fiscal and administration
 
 | | |
 |---|---|
-| **Your text** | [the fiscal note](./standards/fiscal_note.md) as the primary text, then SEC. 10(a) and (f), SEC. 11, SEC. 3 · [chunk 3](./audit/record.md#chunk-3), part D |
+| **Your text** | [the fiscal note](./standards/fiscal_note.md) as the primary text, then SEC. 10(a) and (f), SEC. 11, SEC. 3 · [chunk 3](./audit/record.md#chunk-3--penalty-architecture-for-v33-sec-7-rework-and-bracket-calibration), part D |
 | **The sweep's findings** *(none yet fixed)* | The note carries **no dollar figure anywhere** — honest, and administratively fatal, because "indeterminate" is the label that sends a bill to interim study · steady state exceeds startup, impossible on the statute's own clock · **no line for defending the Act**, though a first adopter's largest year-one legal cost is a pre-enforcement facial challenge · no corrections or judiciary impact section, which some states require before a felony bill is considered at all · the function table omits at least eight duties, including frontier-equivalent capability designation, the most technically demanding act in the Act · the whistleblower award is a mandatory entitlement on a fund that may be permanently empty |
 | **Drafted in response** | Nothing — **the seat is the response.** The standing fiscal rule to hold us to: enforcement is never sold as self-funding, penalties are never booked as revenue, and startup costs are stated apart from steady state |
 | **Your questions — any three are a disposition; all are the seat** | (1) Is a note with no numbers reportable in your state? (2) What would you need to make it so? (3) Should CURE 7 be sequenced to v4 on administrability grounds, as the sweep's fiscal lane recommends and the maintainer has not accepted? |

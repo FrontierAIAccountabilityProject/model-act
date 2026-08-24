@@ -26,7 +26,7 @@ Docket FDA-2024-D-4488. Fifty-one comments. By what the filer is:
 
 **Twenty-one of fifty-one — a clear plurality — are the regulated industry or its associations.
 Four are patient-side.** The judgment calls behind those categories are stated and disputable in
-[the reading notes](./docket_fda_2024_d_4488_reading_notes.md#3), which also records that the
+[the reading notes](./docket_fda_2024_d_4488_reading_notes.md#3-findings-at-the-strength-the-evidence-supports), which also records that the
 substance of 29 of the 51 has not been read by this project.
 
 **What this file does not claim.** That any filer acted improperly — filing on a public docket is

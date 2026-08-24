@@ -36,7 +36,7 @@ file. It does **not** discharge **post 6**, which is a claim about what filers *
 and therefore needs substance, not names. The substance of 29 of the 51 is still unread, so
 post 6 is rewritten to say 22 out loud rather than implying 51. That is a weaker tweet and
 the only honest one; the version that said "51 comments" is the error logged as
-[E12](../LEDGER.md#part-i). The account is never community-noted, and it is never
+[E12](../LEDGER.md#part-i--the-errata-register). The account is never community-noted, and it is never
 community-noted because of paragraphs like this one.
 
 ## 2. Move the docket (fire while FDA-2026-N-7874 is young; counter series starts on post)
@@ -148,7 +148,7 @@ truer thing.
 
 ## 6. The stand (fire with or after the cross-examination section publishes)
 
-*Source: [the cross-examination](../README.md#the-cross-examination), front page; every step
+*Source: [the cross-examination](../docs/the_case.md#the-cross-examination), front page; every step
 cited to the statute there. The post states the dilemma; the section carries the honest last
 page — the conforming answer that survives — so the thread never overclaims what a reply can
 check.*

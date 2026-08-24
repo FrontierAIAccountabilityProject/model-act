@@ -161,7 +161,7 @@ around it.
 **And the tradition is already being reached for.** In August 2026, members of Congress
 called for the chief executives of the largest AI companies to answer questions under
 oath; the letters, with every signatory, are in
-[the dossier](../dossier/README.md#chapter-03). A letter is not yet a subpoena — but the
+[the dossier](../dossier/README.md#dossier--the-politicians-track-the-record-already-exists). A letter is not yet a subpoena — but the
 grammar is 1943's: personal accountability, asked of the officers with authority, before
 any statute exists to require it.
 
@@ -226,7 +226,7 @@ penalties, whistleblowers, and machinery; SEC. 13 makes the whole severable and 
 *"It will kill innovation"* — pharmaceuticals, banking, and aviation all carry this rule
 and all still exist. *"You cannot regulate what you do not understand"* — the Act does not
 regulate the mathematics; it regulates the person who ships it. The longer answers are in
-[the dossier's question-and-answer chapter](../dossier/README.md#chapter-05).
+[the dossier's question-and-answer chapter](../dossier/README.md#questions-and-answers).
 
 **The section-by-section translation of the statute used to sit here.** It is now its own
 document — [the statute, translated](./the_statute_translated.md) — because it is reference rather
@@ -532,7 +532,7 @@ wrote to three chief executives urging a pause, warning that corporations "have 
 lost control." A letter is not a subpoena; but the grammar has changed, and the
 mechanism being reached for — personal accountability for the officers with authority —
 is the mechanism this Act writes down. The letters in full, with every signatory, are in
-[the dossier](../dossier/README.md#chapter-03).
+[the dossier](../dossier/README.md#dossier--the-politicians-track-the-record-already-exists).
 
 **The government's own exhibit.** The AISI incident deserves its own account, because
 everything in it comes from one public document: the Institute's report

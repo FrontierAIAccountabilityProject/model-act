@@ -230,8 +230,8 @@ both cured; the omission was in the register, not the statute.
 
 **E30 — 19 August 2026 (internal catch, same day).** *(Renumbered from "E8" on 22 August 2026:
 this entry and the "In one paragraph" entry above were both filed as E8, unrelated to each other.
-The strict-liability entry keeps E8, because [E12](#e12) cites it by that number in published text;
-this one takes the next free number. The collision itself is recorded at [E31](#e31). Original
+The strict-liability entry keeps E8, because [E12](#precision-notes-audit-record) cites it by that number in published text;
+this one takes the next free number. The collision itself is recorded at [E31](#e31--the-register-used-one-number-twice). Original
 number retained here so a reader following an old citation lands correctly.)* The consolidated
 front page claimed
 that the original Sacramento scorecard table was "preserved verbatim in the diary"; it is
@@ -659,7 +659,7 @@ obtained.** It has no column for **how the words travelled from the source into 
 quotation that has passed through a summary is a paraphrase wearing quotation marks, and it passes
 every check the rubric currently runs.
 
-**Why it is the most dangerous entry in this register so far.** [E15](#e15) was about grading a claim
+**Why it is the most dangerous entry in this register so far.** [E15](#precision-notes-audit-record) was about grading a claim
 on who wrote a source. **This is worse: the source was real, the reading was real, the grade was
 honest, and the words were still not safe.** One of the four — an expert account with no agency in it,
 sitting inside an article whose headline gave the verb to the model — would have been the single
@@ -720,8 +720,8 @@ Status: **cured. One of four leads released with corrections attached; three rem
 **Filed 22 August 2026. Not an error. Recorded because the register should show the rule working, not
 only the rule being broken.**
 
-Immediately after [E22](#e22), Chapter 3 of the UK **Government Cyber Action Plan** was added to
-[why a signature works § 2a](../standards/why_a_signature_works.md#2a) — a section whose entire weight
+Immediately after [E22](#e22--a-quotation-held-in-a-working-summary-is-not-a-quotation), Chapter 3 of the UK **Government Cyber Action Plan** was added to
+[why a signature works § 2a](../standards/why_a_signature_works.md#2a-and-in-this-exact-domain-a-government-has-already-built-the-architecture) — a section whose entire weight
 rests on three strings: *"personal accountability"*, *"a senior, capable individual with authority"*,
 and *"novel technologies, such as generative AI"*.
 
@@ -783,7 +783,7 @@ previously carried no cross-reference at all. Status: cured.
 covered developer and gave the row **"Federal FRONTIER vehicle (H.R. 9917) | Over \$100,000,000 of
 training-compute cost."** The threshold and the bill number are right and belong together; the
 *name* is wrong. **H.R. 9917 is the AI Kill Switch Act** (as [the bill census](../standards/frontier_bill_census.md)
-records, and as [E16](#e16) already established); the **FRONTIER Act is H.R. 9925**, cited correctly
+records, and as [E16](#precision-notes-audit-record) already established); the **FRONTIER Act is H.R. 9925**, cited correctly
 elsewhere in the same repository, including in CURE 4's comparative note.
 
 **Why it matters.** A misnamed federal bill in a comparison table is the kind of error that costs a
@@ -888,13 +888,13 @@ never carried it. Two different claims, two different dates, one number.
 **Why it matters.** This register is the project's only credential: it has no institution behind it,
 and it asks reviewers to trust a text on the strength of the fact that its mistakes are published
 with their fixes attached. A register that cannot count its own entries invites the obvious
-question about everything else it counts. [E14](#e14) recorded and repaired exactly this failure
+question about everything else it counts. [E14](#precision-notes-audit-record) recorded and repaired exactly this failure
 mode for E13 and did not catch this instance, which means the check that found it — a full read of
 the register in sequence — was not being run.
 
-**Fix.** The strict-liability entry **keeps E8**, because [E12](#e12) cites it by that number in
+**Fix.** The strict-liability entry **keeps E8**, because [E12](#precision-notes-audit-record) cites it by that number in
 published text and a citation that has travelled should not be broken to tidy a sequence. The
-Sacramento entry is renumbered **[E30](#e30)**, carrying a note of its original number so a reader
+Sacramento entry is renumbered **[E30](#precision-notes-audit-record)**, carrying a note of its original number so a reader
 following an old link lands correctly. Nothing is deleted.
 
 **Two standing consequences.** First, the next free number is now E32, and the register's numbers
@@ -907,7 +907,7 @@ entry, read the register's numbers in order and confirm no collision and no gap.
 
 <a id="e32"></a>
 
-## E32 — [E22](#e22) extended from the repository to correspondence
+## E32 — [E22](#e22--a-quotation-held-in-a-working-summary-is-not-a-quotation) extended from the repository to correspondence
 
 **Filed 22 August 2026. Severity: rule change. The incident itself is outside this register's scope
 and is not recorded here.**
@@ -927,7 +927,7 @@ named, because [the project's standing rule](../README.md) keeps the names of pe
 of the repository. What is filed is **the rule the incident produced**, because that rule now
 governs work this register does cover.
 
-**The rule.** [E22](#e22) established that a quotation held in a working summary is not a quotation
+**The rule.** [E22](#e22--a-quotation-held-in-a-working-summary-is-not-a-quotation) established that a quotation held in a working summary is not a quotation
 — that the confidence rubric grades *how a source was obtained* and has no column for *how the words
 travelled from the source into the file*. E22 was written about quotations in research files. **The
 same defect operates on characterisations, and it operates outside the repository as readily as
@@ -942,7 +942,7 @@ Accordingly, E22's discipline is extended and restated in general form:
 > person's work unless that work is in hand at the time of writing.** Not a summary of it, not a
 > memory of having read it, not a citation to it in a third source. The work.
 
-**Consequence for the register.** This is the second entry ([E23](#e23) was the first) recorded not
+**Consequence for the register.** This is the second entry ([E23](#e23--precision-note-three-quotations-re-verified-against-the-live-page-before-publication) was the first) recorded not
 because something published was wrong but because the register should show the rules moving. The
 distinction is worth keeping visible: **a register that only ever grows by failure teaches nothing
 about what the project does when it is working.** Status: **rule adopted; no repository text
@@ -962,7 +962,7 @@ because the register does not price errors by how briefly they were visible.**
 filing; the docket closes 19 October 2026; the front page said so all along.
 
 **Cause.** The description was written from the filename and the folder's reputation, not from the
-file. That is the [E32](#e32) failure operating on the project's own repository within a day of the
+file. That is the [E32](#e32--e22-extended-from-the-repository-to-correspondence) failure operating on the project's own repository within a day of the
 rule being written — which is worth recording precisely because it shows where the rule's edge is.
 
 **Fix.** Corrected in the consolidation that moved the chapters into the map; the outline's

@@ -282,7 +282,7 @@ honestly:
 | Therefore poor logging can reduce the duty | ⚠ **inference, not established.** The key claim |
 | Breached entities face material disincentives to disclose | ⚠ uncontroversial, **unsourced here** |
 | **§ 4a** — Hugging Face disclosed 16 Jul; OpenAI 21 Jul | ✅ *Nature Mach. Intell.*, 18 Aug 2026 |
-| **§ 4a** — the breached party's investigation was blocked by commercial API safety filters | ✅ same source; corroborated by [Forescout](./commentary_sweep.md#g6) |
+| **§ 4a** — the breached party's investigation was blocked by commercial API safety filters | ✅ same source; corroborated by [Forescout](./commentary_sweep.md#g6--somebody-finally-asked-the-question-in-a-headline-and-stopped-at-the-company) |
 | **§ 4a** — the AISI intrusion was detected and publicised by an uninvolved member of the public, who was then compromised | ✅ AISI report, read in full |
 | **§ 4a** — none of these disclosures was legally compelled | ⚠ **inference from [the census](./frontier_bill_census.md)**, which reads bills, not notification law |
 
