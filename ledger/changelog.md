@@ -3,6 +3,28 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, ninth intake — two visions, read as paired primaries.** No
+change to any tagged text. The Action Plan primary (*Winning the Race*, 23 July 2025) is read in
+full and its verification row flips; the new page `docs/two_visions.md` reads it beside the AI
+Futures corpus on the repository's established paired-primary method. What the pairing yields,
+each leg sourced: the race document and the halt document both treat frontier-scale compute as
+countable and locatable (chip location-verification as live federal policy; the forecasters'
+declaration-and-audit engineering) — the administrability answer to the trigger objection,
+arriving from both ends of the politics; both expect incidents and build for them; both trust
+evaluations as law's instrument, the Plan in terms that endorse applying *existing law* through
+them; the Plan's biosecurity section concedes in Washington's own voice that voluntary
+attestation without enforcement fails; and neither document — ninety federal actions on one
+side, forty-seven thousand words on the other — ever asks a natural person at a frontier
+developer to sign anything. The sharpest find is a footnote: the permitting section names the
+Clean Air Act and CERCLA — the statutory family whose enforcement text codified "responsible
+corporate officer" (42 U.S.C. § 7413(c)(6), owned at comparative § 5) — as regulations to
+streamline for data-centre construction: doctrine's home statutes, cited as paperwork. Headwinds
+recorded rather than rounded away: the funding lever against regulating states, the
+FTC-liability review, the forecasters' missing state lane — beside the Plan's own reservation of
+states' right "to pass prudent laws." The expanded timeline gains the 23 July row. The page
+ends where the project's purpose is: what a reviewer should attack, and the one sentence a
+sponsor could open with.
+
 **Between versions — 24 August 2026, eighth intake — the forecasters' arithmetic; and a site
 experiment reverted the same afternoon.** No change to any tagged text. New research page:
 `research/forecast_arithmetic.md` — the AI Futures Project corpus (the *AI 2040 / Plan A*

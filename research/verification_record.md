@@ -204,7 +204,7 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | AI Futures Project, *AI 2040 / Plan A* (2026; maintainer-supplied PDF, text-extracted) | **Read in full, 24 Aug** (delegated full pass; quotes conformed to the extract) | [forecast arithmetic](./forecast_arithmetic.md) — scenario material marked ⚠ per its own "recommendation, not a prediction" |
 | AI Futures Project, Model supplementary materials (2026; ~38,000 words) | **Key sections read, 24 Aug** (summary table, capability anchors, results comparisons; remainder held) | [forecast arithmetic](./forecast_arithmetic.md) — forecast-grade parameters with published CIs |
 | AI Futures Project, *AI 2027* (Apr 2025; maintainer-supplied PDF) | **Held; text extract short of the full scenario — re-fetch queued before any reliance** | nothing yet |
-| White House, *Winning the Race: America's AI Action Plan* (23 Jul 2025; primary PDF) | **Held; full read queued** — the ai.gov pillars paste (⚠ P) is banked separately | census/ceiling context only via the half-statute page's existing ⚠ rows |
+| White House, *Winning the Race: America's AI Action Plan* (23 Jul 2025; primary PDF) | **Read in full, 24 Aug** | [two visions](../docs/two_visions.md) owns its quotes; the ai.gov pillars paste (⚠ P) banked separately; half-statute ⚠ rows unchanged |
 
 ### Legal texts the queue leans on
 

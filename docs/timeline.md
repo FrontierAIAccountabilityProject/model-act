@@ -37,6 +37,15 @@ civil-rights violations — and the witness answering, *"I do not believe there 
 transcript records the moratorium fight from inside the majority (Serial 119-31, read in full):
 [known objections](./known_objections.md) · [the dossier](../dossier/README.md).
 
+23 July 2025
+: **Washington publishes its roadmap.** *Winning the Race: America's AI Action Plan* — three
+pillars, roughly ninety actions, read here in full from the primary. Its permitting footnotes
+cite the Clean Air Act and CERCLA — the statutory family whose enforcement sections carry the
+responsible-officer doctrine — as regulations to streamline for data-centre construction; its
+own text reserves states' right "to pass prudent laws," concedes that frontier systems resist
+prediction, and demands enforcement "rather than relying on voluntary attestation." Read beside
+the forecasters' opposite vision: [two visions](./two_visions.md).
+
 10 September 2025 ⚠
 : **The SANDBOX Act is introduced** — federal regulatory waivers for AI developers, two years at
 a time, renewable to a decade — while its own framing concedes that criminal liability survives:
