@@ -1,18 +1,5 @@
 # Model Act — Frontier AI Public Welfare Offenses
 
-<div class="reckoning" markdown="0">
-  <p class="rk-kicker">MODEL STATE CRIMINAL LEGISLATION · DRAFTED IN PUBLIC · PUBLIC DOMAIN</p>
-  <p class="rk-verdict">When a frontier system harms the public, a <em>named natural person</em> answers for it.</p>
-  <div class="rk-status">
-    <span><b>TEXT</b>v3.4 — TAGGED</span>
-    <span><b>ARCHIVE</b>CERN</span>
-    <span><b>DOI</b>10.5281/zenodo.22029795</span>
-    <span><b>LICENSE</b>CC0 — NO PERMISSION REQUIRED</span>
-    <span><b>COVERED</b>≥[10^26] OPERATIONS</span>
-  </div>
-</div>
-
-
  
 **Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
 
