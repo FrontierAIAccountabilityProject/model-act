@@ -46,7 +46,7 @@ defaults:
       path: "REVIEWERS.md"
     values: { nav_exclude: false, nav_order: 1, title: "For reviewers" }
   - scope:
-      path: "packets/README.md"
+      path: "packets/index.md"
     values: { nav_exclude: false, nav_order: 2, title: "The review packets", has_children: true }
   - scope:
       path: "packets/criminal_law.md"

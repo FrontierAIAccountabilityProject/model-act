@@ -9,7 +9,7 @@ rather than a guess.*
 document is step 2 of the path below, and its first line points back here.*
 
 **Already know your seat? Take the paper path:** seven lanes have a
-**[single-page packet](./packets/README.md)** — this whole page's path, inlined in your lane's
+**[single-page packet](./packets/index.md)** — this whole page's path, inlined in your lane's
 reading order, built by committed script. Print it, mark it up, send the marked copy back. This
 page remains the terms, the tables, and the map; the packet is the same journey as one
 document.
@@ -79,7 +79,7 @@ not trust us.
 
 *Prefer paper, or one document? Seven lanes have a **packet** — this whole path, inlined in your
 lane's reading order on a single page, built by committed script: [the packets
-index](./packets/README.md). Print it, mark it up, send the marked copy back; the steps below
+index](./packets/index.md). Print it, mark it up, send the marked copy back; the steps below
 are the same journey through the live files, and the sources always win where they differ.*
 
 **0 · The front page.** [README](./README.md) — the argument in one paragraph, the coverage
@@ -141,7 +141,7 @@ and the donor material the intake of 23–24 August added. Five register entries
 rather than lane-specific — E21, E22 (extended by E32), E27, and E33 — and govern how every date,
 quotation, count, and file-status claim in the evidence base was made;
 [the register](./ledger/errata.md) itself is short and worth ten minutes. Seven lanes now
-have a [single-page packet](./packets/README.md) — the lane's whole apparatus inlined in reading
+have a [single-page packet](./packets/index.md) — the lane's whole apparatus inlined in reading
 order, assembled by committed script so it cannot silently drift:
 [criminal law](./packets/criminal_law.md),
 [enforcement and prosecution](./packets/enforcement.md),
@@ -295,7 +295,7 @@ to one.
 
 ---
 
-***Leaving with work to do? Take your packet:** [the packets index](./packets/README.md) — one
+***Leaving with work to do? Take your packet:** [the packets index](./packets/index.md) — one
 page per lane, criminal law through torts and design, each ending at the same door every
 disposition enters.
 
