@@ -86,8 +86,8 @@ National Policy Framework for Artificial Intelligence"* ⚠ — a litigation tas
 state AI laws, federal broadband funding conditioned on states avoiding *"onerous"* AI statutes;
 the order whose litigation the watch already tracks); the **TRUMP AMERICA AI Act** (Sen.
 Blackburn ⚠ — federal preemption of state frontier catastrophic-risk law in exchange for an
-FTC-enforced duty of care, DHS reporting, and even private litigation, while it *"expressly
-preserves generally applicable law"*); and the **Great American AI Act** discussion draft
+FTC-enforced duty of care, DHS reporting, and even private litigation, while its § 24, per the section-by-section summary now in hand: *"The Act does not preempt any
+generally applicable law, including a body of common law"*); and the **Great American AI Act** discussion draft
 (Obernolte–Trahan, 4 June 2026 ⚠ — a three-year preemption of state regulation of frontier
 *development* only, deployment expressly left to the states, with third-party "Independent
 Verification Organizations" — the certify-the-inspector instinct
@@ -97,8 +97,8 @@ Read the sequence as a negotiation and its direction is unmistakable: ten years 
 three; everything shrank to development-only; and **every ceiling instrument writes the same
 exemption**. The moratorium's own defending witness: *"laws of general applicability are not to
 be covered by this, also criminal activity not covered."* The SANDBOX framing: *"people creating
-or using AI still have to follow the same laws as everyone else."* The Blackburn bill:
-*"expressly preserves generally applicable law."* Three instruments, three drafting teams, one
+or using AI still have to follow the same laws as everyone else."* The Blackburn bill, its § 24, per the section-by-section summary now in hand: *"The Act does not preempt any
+generally applicable law, including a body of common law"*. Three instruments, three drafting teams, one
 carve-out — and a state criminal public-welfare statute of general form is precisely what sits
 inside it. The executive's own roadmap now writes a fourth reservation from its side of the
 government: the Action Plan arms a funding lever against “burdensome” state AI law in the same
@@ -106,6 +106,15 @@ paragraph that says the federal government “should also not interfere with sta
 pass prudent laws that are not unduly restrictive to innovation”
 ([two visions](./two_visions.md), which owns the quotes). The ceiling keeps being built around
 this Act's lane, never over it.
+
+*Hardening note (24 Aug, evening — the primaries arrived): EO 14365, signed 11 December 2025,
+in hand — § 3 establishes the task force "whose sole responsibility shall be to challenge State
+AI laws," § 5(a) makes "onerous" states "ineligible for non-deployment funds"; the SANDBOX text
+in hand — § 702(i): two-year waivers renewable to ten, § 702(k)(1): "No existing right of
+action of a consumer … may be waived"; the Blackburn section-by-section in hand (its § 24 as
+conformed above; bill text queued); the GAAIA draft in hand — §§ 121(b)–(d) as the census now
+quotes, and every Title I signature the draft requires is the IVO audit partner's
+(§ 112(e)(8)). The ⚠ marks in this section retire wherever the primary now speaks.*
 
 ## The counter-example a state has enacted — Connecticut inverts the pattern
 

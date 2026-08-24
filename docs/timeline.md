@@ -46,7 +46,7 @@ own text reserves states' right "to pass prudent laws," concedes that frontier s
 prediction, and demands enforcement "rather than relying on voluntary attestation." Read beside
 the forecasters' opposite vision: [two visions](./two_visions.md).
 
-10 September 2025 ⚠
+10 September 2025
 : **The SANDBOX Act is introduced** — federal regulatory waivers for AI developers, two years at
 a time, renewable to a decade — while its own framing concedes that criminal liability survives:
 [the half-statute page](./safe_harbors_and_affirmative_defenses.md).
@@ -60,7 +60,7 @@ that are compliant"* — while Brookings' witness answers that state AGs "are tr
 ways to keep our grandmothers safe from AI." The three voices, quoted with their context:
 [why the disparity](../standards/why_the_disparity.md).
 
-11 December 2025 ⚠
+11 December 2025
 : **The preemption order.** An executive order — *Ensuring a National Policy Framework for
 Artificial Intelligence* — creates a litigation task force against state AI laws and conditions
 federal broadband funding on states avoiding "onerous" AI statutes. The ceiling's enforcement
@@ -106,11 +106,12 @@ requiring it"*: [the queue, CURE 19](../audit/v3_5_cure_language.md).
 
 4 May 2026
 : **A state fiscal office prices a frontier-AI act.** Colorado Legislative Council Staff, fiscal
-note for SB 26-189: $100,403 general fund, a 0.8 FTE assistant attorney general, startup severed
-from out-years. Carried as a floor for the narrowest administrative posture, never as an
+note for SB 26-189 (first note 4 May; final revised note 6 May, primary in hand): $46,190
+general fund, a 0.4 FTE assistant attorney general in the first year only, $56,286 total, startup
+severed from out-years. Carried as a floor for the narrowest administrative posture, never as an
 estimate: [the fiscal note](../standards/fiscal_note.md).
 
-4 June 2026 ⚠
+4 June 2026
 : **The ceiling narrows.** The Great American AI Act discussion draft (Obernolte–Trahan)
 proposes a three-year preemption of state regulation of frontier *development* only — ten years
 having shrunk to three, everything to development, with general law again untouched:

@@ -144,8 +144,8 @@ estimate is sound if not a dollar is ever collected.
 Added 24 August 2026. Colorado's Legislative Council Staff issued a fiscal note for SB 26-189 —
 the successor to the repealed duty-of-care act — on 4 May 2026, and it is the first
 professionally-produced dollar figure this note can cite for AI-act administration: a
-**\$100,403 General Fund appropriation**, **0.8 FTE** (an Assistant Attorney General in the
-Department of Law for rulemaking and stakeholder engagement), **\$120,596 total expenditures**
+**\$46,190 General Fund appropriation**, **0.4 FTE** (an Assistant Attorney General in the
+Department of Law for rulemaking and stakeholder engagement), **\$56,286 total expenditures**
 with centrally appropriated costs stated separately (\$20,193), startup isolated to FY 2026-27,
 and out-year expenditures honestly zeroed. Attribution: analysts John Armstrong and Dhivahari
 Vivek, Legislative Council Staff (primary PDF; retrieval logged in the verification record's
@@ -159,6 +159,17 @@ office, startup severed from steady state, central costs broken out, revenue at 
 discipline §§ 3–6 of this note already promise and can now cite in practice. The fiscal seat's
 question 1 — "is a note with no numbers reportable in your state?" — now has a comparative
 answer in hand: Colorado reported one, and this is what its arithmetic looked like.
+
+**Correction, 24 Aug evening (the primary arrived).** The figures above are conformed to the
+**final revised fiscal note of 6 May 2026**, now in hand: a $46,190 General Fund appropriation
+and **0.4 FTE** Assistant Attorney General "in FY 2026-27 only," $56,286 total expenditures
+($46,190 personal services + $10,096 centrally appropriated), out-years at zero. The larger
+figures this section first carried ($100,403 / 0.8 FTE / $120,596, dated 4 May) came in ⚠ from
+reporting of the initial note; whether that initial note carried them is unverified — the final
+revised note controls, and the register carries the entry (E36). The floor is therefore *half*
+what this file first reported — which sharpens, not weakens, the point the section makes. The
+same note records, in passing, that "the Attorney General was ordered by U.S. District Court to
+not initiate enforcement" in *X.AI LLC v. Weiser* — logged at the standing watch.
 
 ## 6c. The second note in the genre — pricing a delay at zero
 

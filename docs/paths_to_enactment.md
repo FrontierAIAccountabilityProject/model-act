@@ -111,7 +111,7 @@ State attorneys general are already the moving party in this field: fifteen serv
 preservation demand on a frontier developer in August 2026
 ([the enforcement record](../research/state_enforcement_record_2026.md)); two states' AGs are in
 active litigation with a frontier developer; and the first fiscal note in the genre prices the
-narrowest enforcement posture at 0.8 FTE of assistant-attorney-general time
+narrowest enforcement posture at 0.4 FTE of assistant-attorney-general time
 ([the fiscal note](../standards/fiscal_note.md)). AG-requested legislation is one of the oldest
 geneses a state bill has. The Act's enforcement design — no new agency required to begin,
 commencement that never waits — was drafted for exactly this requester.

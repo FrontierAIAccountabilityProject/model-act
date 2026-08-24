@@ -2467,6 +2467,15 @@ Blackburn preemption bill's express preservation of generally applicable law. On
 three drafting teams: what began as an anecdote is now a pattern
 ([the half-statute page](../docs/safe_harbors_and_affirmative_defenses.md)).
 
+*Written-record addendum (24 Aug): the five written statements are in hand, and the delta
+matters. Thierer's WRITTEN testimony carries no carve-out language at all — no general
+applicability, no criminal-law exclusion, only "some degree of preemption is needed" — so the
+concession lives in the transcript alone, which is exactly where this file cites it. The written
+record's accountability material runs the other way: Schneier — "there is no knowing who --
+inside or outside of government -- controls what"; Miller — "little to no consequences of this
+failure to invest, there are few incentives"; and none of the five names an officer responsible
+for executive-branch AI.*
+
 ---
 
 ## 6. THE PAUSE / RED-LINES CAMP (context — distinguish the Act from it)

@@ -125,6 +125,15 @@ run without review: *"the AI did it, but blame the humans who asked the AI to do
 responsibility is in nobody's job description, the failure is not mystery; it is design. SEC. 4's
 designation rule exists to put it in exactly one.
 
+**The written record, added 24 August.** The five witness statements from the June 2025
+hearing are now in hand, and none of the five names any officer responsible for executive-branch
+AI — corroborating in writing what the transcript caught live. Two lines carry the weight: the
+security witness — *"there is no knowing who — inside or outside of government — controls
+what"* — and the fraud-analytics witness on why the condition persists: *"with little to no
+consequences of this failure to invest, there are few incentives for them to do otherwise."*
+Consequence-free authority producing exactly the under-investment the record documents is the
+responsible-officer doctrine's premise, stated by the government's own witnesses.
+
 ## Three additions from the August record — added 23 August
 
 **The temperament, stated by its best writer.** The strongest current statement of the opposing

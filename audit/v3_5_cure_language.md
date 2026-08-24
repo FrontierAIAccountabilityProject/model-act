@@ -105,6 +105,13 @@ rather than a gap. The full row is at [the bill census](../standards/frontier_bi
 
 ## OPEN QUESTION 2 — SEC. 2 / SEC. 9: does the duty reach an evaluation run with safeguards disabled?
 
+*Donor note (24 Aug, evening): the Apollo Research primer *AI Behind Closed Doors* (in hand,
+key sections read) surveys twenty-plus legal texts and finds "the term 'deploy' could be
+interpreted more broadly than 'public release' … in some cases … explicitly encompass[ing]
+'internal use'" — while itself cautioning it assesses rather than recommends the reading. Its
+core finding is this question's premise stated as a field-wide gap: "the governance of the
+internal deployment of highly advanced frontier AI systems appears absent."*
+
 *Opened 22 August 2026 from the July–August incident research (press corpus; source intake).
 **Not a cure — a scope question**, held here rather than answered silently.*
 
@@ -162,6 +169,12 @@ make.
 ---
 
 ## OPEN QUESTION 4 — SEC. 2(a) and SEC. 1(c): the Act does not reach the conduct it was written after
+
+*Donor note (24 Aug, evening): the Apollo Research primer (see OQ2's note) documents the same
+gap from the technical side — internal systems "could theoretically be operated with fewer
+safety constraints than externally deployed systems" — and recommends oversight bodies with
+authority to "vet and veto certain decisions" plus pre-internal-deployment system cards to
+government: the amendment's premise, argued independently.*
 
 *Opened 22 August 2026 by [the lane sweep](./v3_5_lane_sweep.md), enforcement lane, graded **fatal**.
 Not a cure — the most consequential scope question in the file, and the first thing to read
@@ -1314,6 +1327,12 @@ shelf; the AISI reporter's public identification; the federal instruments read i
 about the fix.*
 
 ### CURE 17 — SEC. 11(d): remedies for a reporter outside employment
+
+*Donor note (24 Aug, evening): New York's own Labor Law § 740 notice (in hand) marks the
+comparator's edge exactly — it protects "an individual who performs services for and under the
+control and direction of an employer," former employees and dependent contractors included,
+against employer retaliation, and reaches no outside reporter and no non-employment reprisal.
+The employment-shaped remedy is the gap this cure exists to close.*
 
 *The record's only actual frontier whistleblower was an outside member of the public — the AISI
 incident's ⟨PERSON_C⟩, publicly identified 20 August ([the incident file § 5](../research/aisi_incident_inc_2026_07_28_01.md))

@@ -939,13 +939,21 @@ state level, **Arizona H.B. 2678** (AI-generated CSAM penalties, entered into th
 verify-first rule, same preliminary finding from the testimony describing them: none reaches an
 officer of a developer. The pattern that harvest keeps confirming now has its own page:
 [safe harbors, affirmative defenses, and the half-statute](../docs/safe_harbors_and_affirmative_defenses.md).
-From the same day's second sweep, two federal ceiling instruments join the queue ⚠ (both carried
-on reporting; verify against congress.gov before any row): the **TRUMP AMERICA AI Act**
-(Blackburn — preemption of state frontier catastrophic-risk law; an FTC-enforced duty of care;
-*"expressly preserves generally applicable law"*) and the **Great American AI Act** discussion
-draft (Obernolte–Trahan, 4 June 2026 — three-year, development-only preemption; third-party
-"Independent Verification Organizations"). Preliminary finding, same as ever, held to the
-reporting: neither is described as reaching an officer.
+From the same day's second sweep, two federal ceiling instruments joined the queue; their
+primaries arrived 24 August and the finding hardened. The **TRUMP AMERICA AI Act** (Blackburn):
+the section-by-section summary, in hand, confirms preemption of "state laws … related to the
+regulation of frontier AI developers related to the management of catastrophic risk" (§ 4), an
+FTC-enforced duty of care (§ 3), DHS reporting, a private right of action (§ 10) — and § 24:
+*"The Act does not preempt any generally applicable law, including a body of common law"* (bill
+text itself still queued). The **Great American AI Act** discussion draft (Obernolte–Trahan), in
+hand and read: § 121(b) preempts state law "specifically regulating the development" of AI
+models; § 121(c)(1) — *"Nothing in this section preempts any State law or regulation of general
+applicability"*; § 121(c)(2) preserves post-deployment law; § 121(d) sunsets in three years.
+And the officer tally holds from the primary: every signature Title I requires belongs to the
+Independent Verification Organisation's "lead audit and assessment partner" (§ 112(e)(8), (g),
+(h)); § 112(e)(7) has the IVO *assess* "the designation and empowerment of senior personnel
+responsible for ensuring compliance" — assessed, never signing. The federal ceiling's most
+developed draft reaches everything but the officer.
 
 ## What this census is for, and what it is not
 

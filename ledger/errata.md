@@ -1015,6 +1015,27 @@ layer with authority to halt said nothing on the record.
 their definition — one owner per fact, extended to vocabulary. Caught in-house the same day,
 during a design review of the front page.
 
+## E36 — the first price in the genre, carried at double
+
+**Filed 24 August 2026, evening. Severity: medium — a dollar figure on the front page and in a
+reviewer packet, wrong by roughly a factor of two, for part of one day.**
+
+**The error.** Four public surfaces carried Colorado's SB 26-189 fiscal note as "$100,403
+General Fund, 0.8 FTE, $120,596 total," dated 4 May 2026. The final revised note (6 May 2026),
+now in hand, states $46,190, **0.4 FTE** ("in FY 2026-27 only"), and $56,286.
+
+**Cause.** The figures entered ⚠ from reporting of the initial note and were relied on before
+the primary was retrieved — the ⚠ discipline working as designed, and the reliance running one
+day ahead of it. Whether the initial 4 May note carried the larger figures is unverified; the
+final revised note controls.
+
+**Fix.** Front page, dated record, paths to enactment, the fiscal note § 6b, and the fiscal
+packet (via its builder) all conformed the same evening the primary arrived. The corrected
+floor is half the reported one — the argument the number serves got stronger.
+
+**Rule kept.** Reliance follows retrieval; where it must precede it, the ⚠ travels with the
+figure and the primary is fetched before the figure is repeated a second time.
+
 <a id="part-ii"></a>
 
 ---

@@ -3,6 +3,29 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, the second retrieval wave — nineteen instruments, one
+erratum, three ⚠ retirements.** No change to any tagged text. The maintainer pulled bands B and
+D of the retrieval list in one evening and the reads land everywhere at once. **E36:** the
+Colorado SB 26-189 figures this record carried were roughly double the final revised note's —
+conformed on every surface to $46,190 / 0.4 FTE / $56,286, via the fiscal packet's builder
+included; the floor halved and the argument sharpened. **Conformed quote:** the Blackburn
+preserved-law language now reads as its section-by-section summary actually reads — "does not
+preempt any generally applicable law, including a body of common law" — in the half-statute
+page, the census, and the federalism packet. **Hardened from primaries:** EO 14365 (number,
+date, task force, funds lever), the SANDBOX text (two years renewable to ten; consumer actions
+unwaivable), the GAAIA draft (development-only, three-year sunset, general-applicability
+preservation — and every Title I signature the draft requires belongs to the IVO's audit
+partner, § 112(e)(8), none to a developer's officer); three dated-record ⚠ marks retire. **The
+written record:** the five Serial 119-31 statements land — Thierer's written testimony carries
+no carve-out (the concession lives in the transcript alone, and the dossier now says so);
+Schneier's "no knowing who … controls what" and Miller's "little to no consequences … few
+incentives" enter known objections as the government's own witnesses stating the doctrine's
+premise. **Donor notes:** the Apollo internal-deployment primer to OPEN QUESTIONS 2 and 4; New
+York's § 740 notice to CURE 17. **Watch:** the Colorado note discloses a district-court order
+barring the Attorney General from initiating enforcement (X.AI LLC v. Weiser) — the first
+judicial constraint on a state AI enforcer in this record; order queued. The verification
+record carries every read; the library index carries every rename.
+
 **Between versions — 24 August 2026, the evening retrievals — three gates, opened by the
 maintainer's own hand.** No change to any tagged text. The maintainer pulled band A of the new
 retrieval list the same evening it was written, and the reads land: **OPEN QUESTION 1 is

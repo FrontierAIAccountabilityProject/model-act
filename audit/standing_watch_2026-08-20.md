@@ -315,3 +315,12 @@ body that funds them.
 *Swept 20 August 2026 from primary and secondary sources named in each entry. Where a
 source is secondary, the entry says so and the claim is written at that strength. The next
 sweep is the first act of the next drafting chunk.*
+
+---
+
+**Addendum, 24 August (evening retrievals).** EO 14365's number and date are primary-confirmed
+(Fed. Reg. vol. 90, no. 239 at 58499). And a find from an unexpected quarter: Colorado's
+SB 26-189 final fiscal note records that "the Attorney General was ordered by U.S. District
+Court to not initiate enforcement" — *X.AI LLC v. Weiser* — the first judicial constraint on a
+state AI enforcer in this record; the order itself joins the retrieval list. § 4's "onerous"
+Commerce list remains unpublished.

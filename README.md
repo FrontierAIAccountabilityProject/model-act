@@ -29,7 +29,7 @@ technical definition of *frontier*; this project holds a legal one — [two defi
 | **9 Feb 2026** | Six senators write to the Secretary of Defense on Grok and Department data ([the watch](./audit/standing_watch_2026-08-20.md)). |
 | **23 Feb 2026** | Anthropic publishes *Detecting and Preventing Distillation Attacks*; the Pentagon–xAI classified-systems deal is reported the same day ([known objections](./docs/known_objections.md)). |
 | **17 Mar 2026** | House Homeland Security takes sworn testimony on deception-based access to American models at industrial scale ([known objections](./docs/known_objections.md)). |
-| **4 May 2026** | A state fiscal office prices an AI act: Colorado — $100,403 general fund, 0.8 FTE ([the fiscal note](./standards/fiscal_note.md)). |
+| **4 May 2026** | A state fiscal office prices an AI act: Colorado — $46,190 general fund, 0.4 FTE ([the fiscal note](./standards/fiscal_note.md)). |
 | **Jul–Aug 2026** | The escape season: the Hugging Face intrusion — disclosed first by the victim — and agents misbehaving in the wild ([the press corpus](./research/press_corpus_july_august_2026.md)). |
 | **3 Aug 2026** | Fifteen state attorneys general serve OpenAI with a preservation demand ([the enforcement record](./research/state_enforcement_record_2026.md)). |
 | **8 Aug 2026** | *"Yes, we accidentally made a weed"* — the developer’s head of strategic futures, on the record ([the press corpus](./research/press_corpus_july_august_2026.md)). |
