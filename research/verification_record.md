@@ -186,7 +186,7 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | House Homeland Security hearing, *DeepSeek and Unitree Robotics* (Serial 119-42, 17 Mar 2026; GPO transcript) | **Read in full, 24 Aug** | [why the disparity](../standards/why_the_disparity.md) (Doshi); [known objections](../docs/known_objections.md) (the distillation record); census queue |
 | House Oversight hearing, *Shaping Tomorrow: The Future of AI* (Serial 119-49, 17 Sep 2025; GPO transcript) | **Read in full, 24 Aug** | [why the disparity](../standards/why_the_disparity.md) (Fabrizio; Turner Lee); the Clark-timeline retrieval lead |
 | Congressional Record, 1 Apr 2025, H1386 (Stansbury floor statement) | **Read in full, 24 Aug** | [the standing watch](../audit/standing_watch_2026-08-20.md), continuity note |
-| House Oversight hearing, *The Federal Government in the Age of AI* (GPO transcript) | **Held; unread** — queued for the read-through's next block | nothing yet — the rule holds: no reliance before this row changes |
+| House Oversight hearing, *The Federal Government in the Age of AI*, 5 June 2025, Serial 119-31 (GPO transcript) | **Read in full, 24 Aug** | the Pressley–Schneier "not in anyone's job description" exchange (known objections, why-one-named-officer); the moratorium fight recorded from inside the majority + the general-applicability/criminal carve-out concession (dossier § 5.3); the witness table's certification lines; census queue notes |
 | Anthropic, *Detecting and Preventing Distillation Attacks* (23 Feb 2026) | **Cited from the hearing record only** — retrieval queued | [known objections](../docs/known_objections.md), identified as the footnoted primary |
 | Hugging Face technical timeline (27–28 Jul) | **Read in full, 22 Aug** — the read was recorded at [press corpus § 7](./press_corpus_july_august_2026.md) (item 5 discharge: the HF posts of 16 and 27 July "read as primaries"), invisible from here until this index existed. Conformed 23 Aug, one day after this table was built: the read existed; only its visibility was broken. | dossier ×3; press corpus timeline (~17,600 attacker actions); the AG letter quotes "more than 17,000" — consistent |
 | OpenAI incident statement (21 Jul) | **Read in full, 22 Aug** — same press corpus § 7 item 5 discharge (OpenAI and Anthropic disclosures "read as primaries") | dossier § disclosure order; enforcement record § 3 (as the letter's own link) |
@@ -273,7 +273,7 @@ pass: this table listed the Virginia SB 384 substitute twice.*
 | REPORT_DLA-Piper_AI-Laws-of-the-World_handbook.pdf | Unread; shelf only |
 | HEARING_House_CHRG-119hhrg64201_transcript.pdf | Serial 119-42 (DeepSeek/Unitree), read in full 24 Aug |
 | HEARING_Shaping-Tomorrow-Future-of-AI_congress-gov.pdf | Serial 119-49, read in full 24 Aug |
-| HEARING_Federal-Government-Age-of-AI_congress-gov.pdf | Held; unread — next read-through block |
+| HEARING_Federal-Government-Age-of-AI_congress-gov.pdf | Read in full, 24 Aug (second sitting) |
 | RECORD_Congressional-Record_2025-04-01_H1386.pdf | Read in full 24 Aug |
 | EVIDENCE_aisi-persona-avatar (withheld from description here) | Evidentiary artefact of the AISI incident's fake persona; never for publication |
 

@@ -2441,6 +2441,32 @@ a live coalition behind it. Strong asset — **pin and quote.**
 laws** (the moratorium). → Same theme, civil-rights framing; the anti-moratorium
 coalition is part of the preemption weather SEC. 13 answers.
 
+**5.3 — The Oversight transcript, 5 June 2025: the coalition catches itself.** ✅ *(GPO
+transcript, Serial 119-31, read in full 24 Aug 2026.)* The House Oversight hearing on federal AI
+use became, in its second half, a live record of the moratorium fight from inside the majority.
+Rep. Greene, presiding, read the clause into the record and named it — *"Actually, what that is,
+is it is a pause for 10 years in federalism"* — and pledged: *"when we get to vote on this bill
+again, I will be voting no because of this clause."* Rep. McGuire, later: *"somehow we missed
+this 10-year ban on AI state laws, and I am hoping that we will fix that in the U.S. Senate."*
+The minority witness (Schneier, Harvard): *"I think that provision is nutty."* Rep. Trahan
+entered the Energy and Commerce markup record — the 26-hour markup, the Democratic amendment to
+strike the language, the recorded vote — and Rep. Pressley entered the Massachusetts Joint
+Committee on Advanced Information Technology letter of 30 May 2025 against the moratorium.
+
+→ **Act mapping — two uses.** *The tailwind:* by June 2025 the opposition to
+preemption-by-moratorium ran, on the record, from the civil-rights coalition to the MAGA right —
+before the provision's later rejection, which the September witnesses already speak of as
+accomplished ([why the disparity](../standards/why_the_disparity.md)). *The carve-out
+concession:* the hearing's own pro-preemption witness (Thierer, R Street), asked by Rep. Higgins
+to explain the clause, testified that *"laws of general applicability are not to be covered by
+this, also criminal activity not covered."* A state **criminal** statute of general form is what
+the Model Act is. When the next moratorium draft arrives, the concession that even its advocates
+read criminal law as outside it is SEC. 13's opening exhibit (companion nn.13–17) — and the same
+concession now recurs twice more — in the federal sandbox proposal's own framing and in the
+Blackburn preemption bill's express preservation of generally applicable law. One carve-out,
+three drafting teams: what began as an anecdote is now a pattern
+([the half-statute page](../docs/safe_harbors_and_affirmative_defenses.md)).
+
 ---
 
 ## 6. THE PAUSE / RED-LINES CAMP (context — distinguish the Act from it)

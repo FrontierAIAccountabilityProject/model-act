@@ -286,7 +286,12 @@ whether X or SpaceX would reach DoD data; reply due 2 Mar) and **Warren** (15 Ma
 classified review's concerns, data-poisoning exposure, the resignation of DoD's Chief of
 Responsible AI, and the contract's procurement path; reply due 30 Mar). Both letters ask the
 Act's own registers — who reviewed, who could halt, what monitoring, whose data — of the federal
-deployment the states never could reach.
+deployment the states never could reach. And the chain now has its June 2025 link: at the
+Oversight hearing of 5 June 2025 (Serial 119-31, read in full), the ranking member's opening
+stated that DOGE had *"reportedly deployed"* Grok *"onto systems at the Department of Homeland
+Security, despite the fact that it has not been approved for use"* — the hedged committee-record
+form of the same thread, fourteen months before either Senate letter, eight weeks after the
+Stansbury floor speech this file already holds.
 
 **A claim checked and bounded, so nobody repeats it.** Circulating framings that a frontier
 model has been "classed as a military weapon" and so "cannot be regulated" are unsupported: no

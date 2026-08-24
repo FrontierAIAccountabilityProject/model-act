@@ -123,7 +123,10 @@ reads as a description of nature, not of a product. *Intelligence* is the freigh
 system the one thing the legal words below explain it cannot hold, a mind — and *ecology*
 completes the move by recasting the builders as naturalists who found the thing growing. For a
 drafter it behaves exactly like "AI": undefined, unmeasurable, doing its work by connotation. The
-compute threshold exists so that no statute ever has to decide what intelligence is.
+compute threshold exists so that no statute ever has to decide what intelligence is. (By 2026
+the register had reached a federal bill's own backronym — the "TRUMP AMERICA AI Act" unpacks to
+a phrase containing *"Advancing Machine Intelligence"* ⚠ — which is the word doing exactly the
+work described above, this time on a title page.)
 
 **"AI psychosis."** ⚠ **Slang, not a clinical term, and recorded here only as a usage.** It is used
 jokingly about people — sometimes very wealthy ones — who speak about these systems as conscious,

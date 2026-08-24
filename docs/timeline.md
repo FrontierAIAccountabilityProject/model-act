@@ -30,6 +30,18 @@ application of artificial intelligence to federal databases and announces a reso
 demanding "documentation, names, datasets" (Congressional Record, H1386 — read in full). The 2025
 opening of the thread the 2026 Grok letters continue: [the watch](../audit/standing_watch_2026-08-20.md).
 
+5 June 2025
+: **House Oversight asks the question.** A full-committee hearing on federal AI use ends with
+Rep. Pressley asking which employee, agency, or board oversees executive-branch AI against
+civil-rights violations — and the witness answering, *"I do not believe there is one."* The same
+transcript records the moratorium fight from inside the majority (Serial 119-31, read in full):
+[known objections](./known_objections.md) · [the dossier](../dossier/README.md).
+
+10 September 2025 ⚠
+: **The SANDBOX Act is introduced** — federal regulatory waivers for AI developers, two years at
+a time, renewable to a decade — while its own framing concedes that criminal liability survives:
+[the half-statute page](./safe_harbors_and_affirmative_defenses.md).
+
 17 September 2025
 : **House Oversight, sworn** (Serial 119-49, read in full). The capability record enters
 testimony: task horizons doubling "every four to seven months"; a self-improvement loop glimpsed.
@@ -38,6 +50,18 @@ state and local AI enforcement and a federal framework that *"removes liability 
 that are compliant"* — while Brookings' witness answers that state AGs "are trying to figure out
 ways to keep our grandmothers safe from AI." The three voices, quoted with their context:
 [why the disparity](../standards/why_the_disparity.md).
+
+11 December 2025 ⚠
+: **The preemption order.** An executive order — *Ensuring a National Policy Framework for
+Artificial Intelligence* — creates a litigation task force against state AI laws and conditions
+federal broadband funding on states avoiding "onerous" AI statutes. The ceiling's enforcement
+arm: [the half-statute page](./safe_harbors_and_affirmative_defenses.md).
+
+1 January 2026 ⚠
+: **The framework-defence era begins.** Texas's TRAIGA and California's frontier transparency
+act take effect — compliance with a recognised risk framework becomes an affirmative defence in
+Texas; Colorado's act, delayed, follows mid-year. No provision in any of them reaches an
+officer: [the half-statute page](./safe_harbors_and_affirmative_defenses.md).
 
 9 February 2026
 : **Six senators to the Secretary of Defense** — Ossoff, Van Hollen, Schiff, Durbin,
@@ -70,6 +94,12 @@ use, and its limits: [known objections](./known_objections.md) and
 note for SB 26-189: $100,403 general fund, a 0.8 FTE assistant attorney general, startup severed
 from out-years. Carried as a floor for the narrowest administrative posture, never as an
 estimate: [the fiscal note](../standards/fiscal_note.md).
+
+4 June 2026 ⚠
+: **The ceiling narrows.** The Great American AI Act discussion draft (Obernolte–Trahan)
+proposes a three-year preemption of state regulation of frontier *development* only — ten years
+having shrunk to three, everything to development, with general law again untouched:
+[the half-statute page](./safe_harbors_and_affirmative_defenses.md).
 
 July–August 2026
 : **The escape season.** The Hugging Face intrusion — in which the victim published the forensic

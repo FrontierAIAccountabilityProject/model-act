@@ -921,16 +921,31 @@ count of eight, and the federal row named six numbers under a count of five.*
 
 ---
 
-**Added to the queue 24 August** *(named in the two congressional transcripts read in full this
-day — the March Homeland Security hearing and the September Oversight hearing; identities to be
-verified against congress.gov before any row is written, per the standing lesson of H.R. 7311)*:
+**Added to the queue 24 August** *(named in the congressional transcripts read in full that day
+— the March Homeland Security hearing, the September Oversight hearing, and the June 2025
+full-committee Oversight hearing (Serial 119-31); identities to be verified against congress.gov
+before any row is written, per the standing lesson of H.R. 7311)*:
 **H.R. 7334** (National Robotics Commission Act — Obernolte/McClellan; commission, not duties);
 **H.R. 4802 / S. 4000** (Securing Infrastructure from Adversaries — LiDAR restriction);
 **H.R. 6576** (SAFE LiDAR Act); the **GAIN AI Act** (Banks — Senate; first-refusal on chips bound
 for China; no House companion per testimony); and the **CHIP Security Act** (House; chip location
 verification — before HFAC per testimony). All adjacent to the census's subject rather than
 frontier-core: none, per the testimony describing them, reaches an officer or a natural person —
-the finding the tally already carries, extended to the robotics-security docket.
+the finding the tally already carries, extended to the robotics-security docket. The June 2025
+transcript adds a further set in the procurement-and-training register — the **AI Training
+Extension Act** (Mace, reintroduced 5 June 2025), the **Federal AI Governance and Transparency
+Act** (Comer/Raskin), the **FIT Procurement Act** (Burlison), the **TABS Act** (Timmons), and, at
+state level, **Arizona H.B. 2678** (AI-generated CSAM penalties, entered into the record) — same
+verify-first rule, same preliminary finding from the testimony describing them: none reaches an
+officer of a developer. The pattern that harvest keeps confirming now has its own page:
+[safe harbors, affirmative defenses, and the half-statute](../docs/safe_harbors_and_affirmative_defenses.md).
+From the same day's second sweep, two federal ceiling instruments join the queue ⚠ (both carried
+on reporting; verify against congress.gov before any row): the **TRUMP AMERICA AI Act**
+(Blackburn — preemption of state frontier catastrophic-risk law; an FTC-enforced duty of care;
+*"expressly preserves generally applicable law"*) and the **Great American AI Act** discussion
+draft (Obernolte–Trahan, 4 June 2026 — three-year, development-only preemption; third-party
+"Independent Verification Organizations"). Preliminary finding, same as ever, held to the
+reporting: neither is described as reaching an officer.
 
 ## What this census is for, and what it is not
 

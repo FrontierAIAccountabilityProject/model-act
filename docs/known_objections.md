@@ -112,6 +112,19 @@ the activity begins, with authority always controlling over designation. It is a
 the alternatives: more precise than punishing the entire company, narrower than exposing every
 employee, and honest about where the power actually sat.
 
+**The record now asks the question directly — added 24 August.** At the June 2025 Oversight
+hearing (Serial 119-31, read in full), Rep. Pressley asked which government employee, agency, or
+board is responsible for overseeing AI deployment across the executive branch against
+civil-rights violations. The minority witness, a security technologist: *"I do not believe there
+is one, so if this is a test, I just failed."* The questioner's own finding: *"The
+responsibility of AI civil rights enforcement is not in anyone's job description, and that has
+got to change."* The same witness had already stated this section's principle twice from the
+table — of AI-drafted official reports with fabricated citations: *"it is the human who puts
+their name to it, who says this is correct. They are the ones responsible"*; of automated purges
+run without review: *"the AI did it, but blame the humans who asked the AI to do it."* When
+responsibility is in nobody's job description, the failure is not mystery; it is design. SEC. 4's
+designation rule exists to put it in exactly one.
+
 ## Three additions from the August record — added 23 August
 
 **The temperament, stated by its best writer.** The strongest current statement of the opposing
@@ -229,7 +242,9 @@ A practical note for a reviewer working with an assistant: the per-lane errata o
 draft. Check the generated objection against this page and against your lane's errata row before
 spending your hours on it — and if your assistant produces a version none of the four above
 covers, that is worth sending: a genuinely new objection is the most valuable mail this project
-receives.
+receives. And when the assistant's version arrives dressed as *"the states are already
+handling this"* — an affirmative-defense statute here, a sandbox there — the pattern has its own
+page: [safe harbors, affirmative defenses, and the half-statute](./safe_harbors_and_affirmative_defenses.md).
 
 *The argument this page defends: [the case](./the_case.md). The definitions it defends:
 [the definition](./the_definition.md). The operative language under attack:
