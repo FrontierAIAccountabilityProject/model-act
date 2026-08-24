@@ -1,7 +1,7 @@
 # Model Act — Frontier AI Public Welfare Offenses
 
  
-**Archived at CERN** · [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22029795-1682D4)](https://doi.org/10.5281/zenodo.22029795)
+**Archived at CERN** · DOI [`10.5281/zenodo.22029795`](https://doi.org/10.5281/zenodo.22029795)
 
 **One text, two doors:** [the website](https://frontieraiaccountabilityproject.github.io/model-act/) — these pages styled for reading, with search — and [the file repository](https://github.com/FrontierAIAccountabilityProject/model-act) — the versioned source files, which remain the authoritative record. On the website, the file repository is also the top-right link.
 
@@ -11,9 +11,9 @@ Model state legislation applying the **responsible corporate officer doctrine** 
 *United States v. Dotterweich*, 320 U.S. 277 (1943); *United States v. Park*, 421 U.S.
 658 (1975) — to frontier artificial intelligence. It places personal, non-delegable
 duties on natural persons with practical authority over the relevant risk. A covered
-model exceeds [10^26] operations or is prospectively designated as frontier-equivalent;
+model exceeds [10²⁶] operations or is prospectively designated as frontier-equivalent;
 a lower threshold triggers specified records duties only. The laboratories hold a
-technical definition of *frontier*; this project holds a legal one — [two definitions](#two-definitions-of-frontier), below. Technical work, access, advice, or implementation of another person’s decision does not create personal liability. Final material authority to prevent, halt, restrict, or correct the covered conduct does—and it cannot be delegated away.
+technical definition of *frontier*; this project holds a legal one — [two definitions](#two-definitions-of-frontier), below. Technical work, access, advice, or implementation of another person’s decision does not create personal liability. Final material authority to prevent, halt, restrict, or correct the covered conduct does — and it cannot be delegated away.
 
 **Public-domain research draft. No permission or attribution is required under
 [CC0](./LICENSE).**

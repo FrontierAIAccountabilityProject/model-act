@@ -206,9 +206,26 @@ html {
 
 // Where you are: the page begins with air, and the title does not crowd the masthead.
 .main-content > h1:first-child {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
 }
 .main-header {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 0.55rem;
+  padding-bottom: 0.55rem;
+}
+
+// Breathing: the page is read slowly, so it is set slowly.
+.main-content p {
+  margin-bottom: 1.15em;
+}
+.main-content h1 {
+  margin-bottom: 0.8em;
+}
+.main-content h2 {
+  margin-top: 2.1em;
+}
+@media (max-width: 50rem) {
+  .main-content-wrap {
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+  }
 }
