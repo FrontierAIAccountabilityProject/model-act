@@ -67,6 +67,9 @@ defaults:
       path: "packets/proportionality.md"
     values: { nav_exclude: false, parent: "The review packets", nav_order: 6, title: "Proportionality and sentencing" }
   - scope:
+      path: "packets/torts_design.md"
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 7, title: "Torts and design" }
+  - scope:
       path: "docs/the_case.md"
     values: { nav_exclude: false, nav_order: 3, title: "The case" }
   - scope:

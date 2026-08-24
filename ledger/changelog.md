@@ -3,6 +3,18 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026 — the seventh packet: torts and design, the boundary
+lane.** No change to any tagged text. The lane the sweep never swept gets its packet: criminal
+beside civil with neither collapsing into the other; the SEC. 7(b) insurance bar walked valve by
+valve (the defence-costs clawback, the restitution carve-out's settlement gradient, the
+criminalised indemnity contract); the harm tier's intervening-cause clause put to the tort
+question of whether SEC. 2(a)'s own foreseeability drafted it out of work; the deployer reliance
+path measured against what products law learned; and the civil-only alternative presented at
+full strength from the project's own shelf, citizen suits included. Builder committed with it;
+round-trip verified. The shelf stands at seven — every lane but the gated open-source seat now
+has its paper path — and the reviewer page's counts follow in the same commit, within the logged
+freeze exemption's factual-currency bounds.
+
 **Between versions — 24 August 2026 — the reviewer page catches up with its own shelf (logged
 freeze exemption).** The reviewer surfaces are frozen until the criminal-law call; this entry
 records the one exemption taken, and its bounds: two factual-currency edits to REVIEWERS.md,

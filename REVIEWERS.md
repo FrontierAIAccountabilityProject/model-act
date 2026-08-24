@@ -71,7 +71,7 @@ not trust us.
 
 ## The path — the six to eight hours
 
-*Prefer paper, or one document? Six lanes have a **packet** — this whole path, inlined in your
+*Prefer paper, or one document? Seven lanes have a **packet** — this whole path, inlined in your
 lane's reading order on a single page, built by committed script: [the packets
 index](./packets/README.md). Print it, mark it up, send the marked copy back; the steps below
 are the same journey through the live files, and the sources always win where they differ.*
@@ -134,7 +134,7 @@ errata already filed in your lane,
 and the donor material the intake of 23–24 August added. Five register entries are method-wide
 rather than lane-specific — E21, E22 (extended by E32), E27, and E33 — and govern how every date,
 quotation, count, and file-status claim in the evidence base was made;
-[the register](./ledger/errata.md) itself is short and worth ten minutes. Six lanes now
+[the register](./ledger/errata.md) itself is short and worth ten minutes. Seven lanes now
 have a [single-page packet](./packets/README.md) — the lane's whole apparatus inlined in reading
 order, assembled by committed script so it cannot silently drift:
 [criminal law](./packets/criminal_law.md),
@@ -142,9 +142,10 @@ order, assembled by committed script so it cannot silently drift:
 [frontier security](./packets/security.md),
 [fiscal and administration](./packets/fiscal.md),
 [federalism and preemption](./packets/federalism.md), and
-[proportionality and sentencing](./packets/proportionality.md) — the last two serving question
+[proportionality and sentencing](./packets/proportionality.md), and
+[torts and design](./packets/torts_design.md) — the last three serving question
 clusters this page routes through the seats above (READ FIRST items 4 and 5, and the
-state-of-play's federalism rows). The remaining lanes follow the same builder pattern.*
+state-of-play's federalism rows). The remaining lane follows the same builder pattern.*
 
 ### Criminal law
 
