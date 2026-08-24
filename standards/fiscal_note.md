@@ -139,6 +139,27 @@ estimate is sound if not a dollar is ever collected.
 
 ---
 
+## 6b. A state fiscal office has now priced an AI act — the first dollar donor
+
+Added 24 August 2026. Colorado's Legislative Council Staff issued a fiscal note for SB 26-189 —
+the successor to the repealed duty-of-care act — on 4 May 2026, and it is the first
+professionally-produced dollar figure this note can cite for AI-act administration: a
+**\$100,403 General Fund appropriation**, **0.8 FTE** (an Assistant Attorney General in the
+Department of Law for rulemaking and stakeholder engagement), **\$120,596 total expenditures**
+with centrally appropriated costs stated separately (\$20,193), startup isolated to FY 2026-27,
+and out-year expenditures honestly zeroed. Attribution: analysts John Armstrong and Dhivahari
+Vivek, Legislative Council Staff (primary PDF; retrieval logged in the verification record's
+next update).
+
+What it does and does not do for this note. It does not price this Act — Colorado's bill is a
+civil disclosure regime enforced by an existing office, while this Act stands up an Agency and a
+criminal docket, so the figure is a floor for the *narrowest* administrative posture, not an
+estimate. What it supplies is the genre's method, demonstrated on this subject matter: one named
+office, startup severed from steady state, central costs broken out, revenue at zero — the
+discipline §§ 3–6 of this note already promise and can now cite in practice. The fiscal seat's
+question 1 — "is a note with no numbers reportable in your state?" — now has a comparative
+answer in hand: Colorado reported one, and this is what its arithmetic looked like.
+
 ## 7. Open items for the fiscal seat
 
 Named so that the seat's work is review rather than design.

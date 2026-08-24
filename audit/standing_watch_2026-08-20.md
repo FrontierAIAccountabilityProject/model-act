@@ -269,6 +269,34 @@ this beyond the watch.
    [E12](../ledger/errata.md); the superseded wording is preserved in this note, per the
    register's no-deletion rule.
 
+## Added 24 August 2026 — deadline day, and two letters the record was missing
+
+**The Casar–Khanna response fell due today.** The oversight letter to Anthropic (10 August;
+primary PDF now held in the project library with an extract) set a 24 August deadline for its
+seventeen questions. As of midday CET on the due date, no public response has been located —
+searches of press and member pages run and logged. Whatever enters the congressional record, if
+anything does, tests the letter's near question-for-question mapping onto SEC. 6 (who could
+halt), SEC. 9 (clocks, notification, monitoring), and SEC. 12 (records and reasoning traces).
+
+**The Grok-in-classified-systems letters.** In February 2026 the Department of Defense and xAI
+agreed to deploy Grok inside classified systems (Axios, 23 Feb 2026). Two Senate letters to
+Secretary Hegseth followed, both now held in the library with extracts: **Ossoff and five
+co-signers** (9 Feb; deployment-review, content-safeguard, and data-access questions — including
+whether X or SpaceX would reach DoD data; reply due 2 Mar) and **Warren** (15 Mar; an NSA
+classified review's concerns, data-poisoning exposure, the resignation of DoD's Chief of
+Responsible AI, and the contract's procurement path; reply due 30 Mar). Both letters ask the
+Act's own registers — who reviewed, who could halt, what monitoring, whose data — of the federal
+deployment the states never could reach.
+
+**A claim checked and bounded, so nobody repeats it.** Circulating framings that a frontier
+model has been "classed as a military weapon" and so "cannot be regulated" are unsupported: no
+munitions-list or defense-article designation of any model was located, and no such doctrine
+exists. What is real is the classified-systems deployment above and the federal intervention in
+*xAI v. Weiser* already recorded at [the enforcement record § 6](../research/state_enforcement_record_2026.md).
+The doctrinal line stays where it was: a model's military use inside federal systems was never
+within a state's reach, designation or no designation; the same model's commercial deployment in
+or into a state is exactly what this Act reaches, and nothing in February's deal touches that.
+
 ---
 
 *Swept 20 August 2026 from primary and secondary sources named in each entry. Where a

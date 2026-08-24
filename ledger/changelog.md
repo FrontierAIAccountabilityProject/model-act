@@ -3,6 +3,16 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, afternoon intake.** No change to any tagged text. The
+standing watch took deadline-day status on the Casar–Khanna letter (no public response located),
+the February Grok-classified-systems record (the DoD–xAI deal; the Ossoff-plus-five and Warren
+letters, extracts held in the library), and a checked-and-bounded note that no "military weapon"
+designation of any model exists. The fiscal note gained § 6b — Colorado's SB 26-189 fiscal note
+(4 May 2026), the first state dollar figure for AI-act administration, attributed and bounded.
+The private library was reorganised the same day under a prefixed reference scheme with an index;
+the shelf manifest in the verification record updates to the new filenames in the next research
+batch.
+
 **Between versions — 24 August 2026, the reviewer surface.** No change to any tagged text. Two
 passes, same day. First, format: the five lane briefs converted from prose to per-lane tables.
 Second, workflow — built around the observation that a reviewer works from one place or not at
