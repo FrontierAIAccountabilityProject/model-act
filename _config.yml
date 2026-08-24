@@ -25,7 +25,7 @@ enable_copy_code_button: true
 back_to_top: true
 back_to_top_text: "Back to top"
 aux_links:
-  "The file repository — authoritative record":
+  "Authoritative record ↗":
     - "https://github.com/FrontierAIAccountabilityProject/model-act"
 footer_content: "Public domain (CC0) · v3.4 tagged, checksums in the ledger · This site mirrors the repository; the repository is the authoritative record."
 

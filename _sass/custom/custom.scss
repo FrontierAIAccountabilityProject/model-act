@@ -1,18 +1,29 @@
-// The statute register, in type: one system sans throughout — text, headings, and
-// apparatus — at a deliberately generous size for long reading on a laptop, one step
-// short of large-print. System fonts only: no webfont requests, nothing to maintain.
+// The statute register, heavied (24 Aug 2026): serif body at a size any reader manages,
+// thick black ink on paper, the apparatus dark with brass fittings, maroon spent on links
+// and rails. One system, one file — evolve deliberately, never fragment.
 
+// ---- palette handles used below (the scheme file owns the theme variables) ----
+$ink-panel: #131316;   // dark apparatus surface
+$ink: #111111;
+$paper: #faf7f1;
+$cream: #f2ede0;       // text on dark
+$cream-mute: #b9b29f;  // secondary text on dark
+$maroon: #5c1a1a;
+$brass: #a98a44;       // seal, rails, fittings on dark — never on paper
+
+// ---- reading size: generous, one step short of large-print ----
 html {
-  font-size: 18px;
+  font-size: 19px;
 }
 @media (min-width: 76rem) {
   html {
-    font-size: 19px;
+    font-size: 20px;
   }
 }
 
+// ---- the text block argues in serif; the apparatus testifies in mono ----
 .main-content {
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: Charter, "Bitstream Charter", "Iowan Old Style", Georgia, "Times New Roman", serif;
   line-height: 1.6;
 }
 
@@ -22,19 +33,23 @@ html {
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: Charter, "Bitstream Charter", "Iowan Old Style", Georgia, "Times New Roman", serif;
+  font-weight: 700;
   letter-spacing: -0.01em;
 }
+.main-content h1 {
+  font-size: 2.1rem;
+  line-height: 1.15;
+}
 
-// Underlined links in the text block — the convention legal readers trust —
-// with visited links quietly distinguishable, which scholars notice and like.
+// Underlined links, thick enough to see across a desk; visited quietly distinguishable.
 .main-content a {
   text-decoration: underline;
-  text-underline-offset: 2px;
-  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1.5px;
 }
 .main-content a:visited {
-  color: #55635f;
+  color: #6b4a42;
 }
 .site-nav a,
 .aux-nav a,
@@ -42,23 +57,24 @@ html {
   text-decoration: none;
 }
 
-// Quotations carry an ink rule, not a grey one: the Ball epigraph is evidence, not decor.
+// Quotations carry a heavy ink rule: the epigraph is evidence, not decor.
 .main-content blockquote {
   margin-left: 0;
-  padding-left: 1rem;
-  border-left: 3px solid #17181c;
-  color: #2a2b31;
+  padding-left: 1.1rem;
+  border-left: 4px solid $ink;
+  color: #232323;
   font-style: normal;
 }
 
-// Tables: lining figures that align, no zebra stripes, hairlines only.
+// Tables: lining figures that align; a firm rule under the header, hairlines below.
 .main-content table {
   font-variant-numeric: tabular-nums;
 }
+.main-content th {
+  border-bottom: 2.5px solid $ink;
+}
 
-// The sidebar title runs to three lines; the theme centres it in a one-line slot
-// and the overflow spills off the top of the screen. The theme's own rule is more
-// specific than a bare selector, so match it and let the header grow.
+// The sidebar title runs to three lines; let the header grow (theme fix, kept).
 .side-bar .site-header,
 .site-header {
   height: auto !important;
@@ -69,41 +85,93 @@ html {
 .side-bar .site-title,
 .site-title {
   white-space: normal;
-  font-size: 1.05rem !important;
+  font-size: 1.1rem !important;
   line-height: 1.35;
   padding-top: 1rem;
   padding-bottom: 0.75rem;
   font-weight: 700;
-  color: #141519;
+  color: $cream;
+}
+.site-title:hover {
+  background: #1c1c21 !important;
 }
 
-// Authority lives in the ink: firm heading weights against the white page.
-.main-content h1 {
-  font-weight: 700;
+// ---- the dark apparatus: ink sidebar, brass fittings, cream text ----
+.side-bar {
+  border-right: 4px solid $brass;
 }
-.main-content h2,
-.main-content h3 {
+.site-nav .nav-list .nav-list-item .nav-list-link {
+  color: #cfc8b8;
+}
+.site-nav .nav-list .nav-list-item .nav-list-link:hover {
+  background: #1c1c21;
+  color: $cream;
+}
+.site-nav .nav-list-link.active {
+  background: #1f1f25;
+  box-shadow: inset 3px 0 0 $brass;
   font-weight: 600;
+  color: $paper;
+}
+// The reading order numbered as sections: §1 … §10.
+.site-nav {
+  counter-reset: navstep;
+}
+.site-nav .nav-list .nav-list-item {
+  counter-increment: navstep;
+}
+.site-nav .nav-list .nav-list-item .nav-list-link::before {
+  content: "\00a7" counter(navstep) "\00a0\00a0";
+  color: $brass;
+  font-family: "SF Mono", "Courier New", ui-monospace, monospace;
+  font-size: 0.78em;
+  font-variant-numeric: tabular-nums;
 }
 
-// Nothing moves on hover. Hover may recolor or thicken an underline — both
-// layout-neutral — but text never widens, bolds, or reflows under the cursor,
-// and selection for copying and highlighting stays calm and predictable.
+// The top-right repository link, dressed as the stamp it is.
+.aux-nav .site-button,
+.aux-nav a {
+  border: 2px solid $ink;
+  padding: 0.32rem 0.6rem;
+  font-family: "SF Mono", "Courier New", ui-monospace, monospace;
+  font-size: 0.68rem !important;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: $ink;
+  background: transparent;
+}
+.aux-nav a:hover {
+  color: $maroon;
+  border-color: $maroon;
+  background: transparent;
+}
+
+// Search: squared, ruled, plain.
+.search-input,
+.search-input:focus {
+  border-radius: 0;
+  border: 1.5px solid $ink;
+}
+.search {
+  border-radius: 0;
+}
+
+// Nothing moves on hover; selection stays calm.
 .main-content a,
 .site-nav a,
 .aux-nav a {
   transition: none;
 }
 .main-content a:hover {
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 2.5px;
 }
 .main-content {
   -webkit-user-select: text;
   user-select: text;
 }
 ::selection {
-  background: #d6e7e1;
-  color: #17181c;
+  background: #eaddc4;
+  color: #111111;
 }
 
 // Statute blocks and the file tree read as fixed matter, slightly subordinate.
@@ -115,31 +183,53 @@ html {
   line-height: 1.45;
 }
 
-// The sidebar is a numbered reading order, and the number answers "where am I?" —
-// you are on 4 of 10. The current page carries a spruce rail and a firmer weight,
-// unmissable against the margin.
-.site-nav {
-  counter-reset: navstep;
-}
-.site-nav .nav-list .nav-list-item {
-  counter-increment: navstep;
-}
-.site-nav .nav-list .nav-list-item .nav-list-link::before {
-  content: counter(navstep) " \00b7  ";
-  color: #8a8676;
-  font-variant-numeric: tabular-nums;
-}
-.site-nav .nav-list-link.active {
-  background: #eceae2;
-  box-shadow: inset 3px 0 0 #1f6a5b;
-  font-weight: 600;
-}
-.site-nav .nav-list-link:hover {
-  background: #efede7;
-}
-
-// The dated record — rail on the expanded timeline page
-.timeline dl { border-left: 2px solid #e4e4e4; padding-left: 1.4rem; margin: 1rem 0 0 0.2rem; }
-.timeline dt { font-weight: 600; font-variant-numeric: tabular-nums; margin-top: 0.9rem; position: relative; }
-.timeline dt::before { content: ""; position: absolute; left: calc(-1.4rem - 5px); top: 0.42em; width: 8px; height: 8px; border-radius: 50%; background: #1f6a5b; }
+// The dated record — rail on the expanded timeline page.
+.timeline dl { border-left: 2px solid #d8d1c4; padding-left: 1.4rem; margin: 1rem 0 0 0.2rem; }
+.timeline dt { font-weight: 700; font-variant-numeric: tabular-nums; margin-top: 0.9rem; position: relative; }
+.timeline dt::before { content: ""; position: absolute; left: calc(-1.4rem - 5px); top: 0.42em; width: 8px; height: 8px; border-radius: 50%; background: $maroon; }
 .timeline dd { margin: 0.1rem 0 0.4rem 0; }
+
+// ---- the front-page panel: the Act's effect in one sentence, over a status strip ----
+// Insertion-only HTML block in README.md; every item on the strip is stated elsewhere
+// on the same page. Dark like the apparatus, brass-ruled, no decoration.
+.reckoning {
+  background: $ink-panel;
+  color: $cream;
+  padding: 2.1rem 2.2rem 1.6rem;
+  margin: 1.4rem 0 2.2rem;
+  border-bottom: 4px solid $brass;
+}
+.rk-kicker {
+  font-family: "SF Mono", "Courier New", ui-monospace, monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.13em;
+  color: $cream-mute;
+  margin: 0 0 1.1rem;
+}
+.rk-verdict {
+  font-family: Charter, "Bitstream Charter", "Iowan Old Style", Georgia, "Times New Roman", serif;
+  font-size: clamp(1.9rem, 4.2vw, 2.9rem);
+  line-height: 1.12;
+  font-weight: 700;
+  margin: 0 0 1.5rem;
+  max-width: 21ch;
+}
+.rk-verdict em {
+  font-style: italic;
+}
+.rk-status {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 1.6rem;
+  border-top: 1px solid rgba(169, 138, 68, 0.55);
+  padding-top: 0.9rem;
+  font-family: "SF Mono", "Courier New", ui-monospace, monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  color: $cream-mute;
+}
+.rk-status b {
+  font-weight: 400;
+  color: $brass;
+  margin-right: 0.45rem;
+}
