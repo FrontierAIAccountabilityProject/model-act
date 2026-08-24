@@ -79,7 +79,7 @@ not trust us.
 
 *Prefer paper, or one document? Seven lanes have a **packet** — this whole path, inlined in your
 lane's reading order on a single page, built by committed script: [the packets
-index](./packets/index.md). Print it, mark it up, send the marked copy back; the steps below
+index](./packets/index.md)**  Print it, mark it up, send the marked copy back; the steps below
 are the same journey through the live files, and the sources always win where they differ.*
 
 **0 · The front page.** [README](./README.md) — the argument in one paragraph, the coverage
