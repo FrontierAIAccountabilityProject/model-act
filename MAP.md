@@ -167,6 +167,7 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
 | [`research/frontier_models.md`](./research/frontier_models.md) | **Compute and the threshold** — which models cross 10²⁶, the disclosure gap, the other legal definitions in force. | live |
 | [`research/press_corpus_july_august_2026.md`](./research/press_corpus_july_august_2026.md) | **The incident count and the disclosure order.** Five incidents, three developers; the victim disclosed first. Every file citing incident numbers cites this one. | live |
 | [`research/aisi_incident_inc_2026_07_28_01.md`](./research/aisi_incident_inc_2026_07_28_01.md) | The UK AISI incident report, read in full — the record's one independent, government-authored entry. | live |
+| [`research/forecast_arithmetic.md`](./research/forecast_arithmetic.md) | **The AI Futures corpus read against the Act** — their verification maths under the compute trigger, the officer layer their plan omits, the window as arithmetic, the fine-absorption magnitudes; complications kept whole. | live |
 | [`research/state_enforcement_record_2026.md`](./research/state_enforcement_record_2026.md) | **Live state enforcement against frontier developers and their officers** — the Florida officer suit, the 42-state investigation, the 15-state preservation demand, and what each does to OPEN QUESTION 4. No other file may restate an enforcement action. | live |
 
 ## The record of accountability — `ledger/`

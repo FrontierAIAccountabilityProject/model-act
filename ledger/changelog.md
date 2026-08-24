@@ -3,6 +3,29 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, eighth intake — the forecasters' arithmetic; and a site
+experiment reverted the same afternoon.** No change to any tagged text. New research page:
+`research/forecast_arithmetic.md` — the AI Futures Project corpus (the *AI 2040 / Plan A*
+report, read in full; the AI Futures Model supplementary materials, key sections read) examined
+against the Act. What the reading yields: their verification engineering treats training compute
+as countable at declared thresholds — support that a FLOP-denominated trigger is administrable;
+their forty-seven-thousand-word governance plan deploys bans, audits, safety cases, and
+burden-shifting without once asking a named natural person to sign — the layer this Act
+supplies, found missing by the field's own maximal designers; their timeline distributions (a
+modal first-milestone year inside this decade, two-month gaps between late milestones) state the
+drawer-and-window premise as arithmetic; and their economic projections price why entity fines
+cannot deter. Their scenario material is marked ⚠ as scenario, their own epistemic caveats
+quoted, and the readings that cut against the Act — no state-level frame, a leaky threshold,
+their scepticism of incrementalism — are recorded whole. Instruments shelved at the verification
+record. Separately, the record of the afternoon: a site-register redesign (`86422c0` — paper and
+ink, dark sidebar, a front-page status panel) was committed, pushed, and reverted within the
+hour (`729fdc4`), after the panel's classed HTML rendered as run-together text on the repository
+landing page and the unannounced change read as breakage on the live site. The stylesheet itself
+compiled clean — verified after the fact against the pinned theme — so the failure recorded here
+is one of process, not code: visual changes now reach the live site only through an approved
+preview, under a rule added to the private runbook. Nothing is deleted; both commits stand in
+history, and this entry is their account.
+
 **Between versions — 24 August 2026, seventh intake — the whole-cloth world, and the runbook.** No change to any tagged text. The maintainer's objection to the enactment page — a whole drafted Act whose strategy page offered only partial vehicles — is accepted and answered in the page itself: a new first section, "The whole-cloth world — is it impossible?", states the observed record (every censused framework statute passed as a whole act), the precedent for the hard part (personal executive criminal liability enacted whole and fast in 2002, chronology flagged ⚠ for verification), the drawer-and-window pattern of American public-welfare law, and the real reason the council reviews the whole Act now: the window will not accommodate the review, so the review must precede the window. The four vehicles are reframed as pre-positioning, not substitutes. Tense corrected: Texas's and Colorado's framework acts are in force, not arriving. A consistency recheck ran clean (org-rename residue in the diary is historical and deliberately unrewritten; row-count claims consistent; the criminal packet is not staled by the CURE 16 addendum, which it does not carry). A private maintenance runbook now lives in the library: when X changes, update Y — cascades, freezes, site rules, bridge hygiene, and the pre-push grep ritual.
 
 **Between versions — 24 August 2026, sixth intake — the examiner's bookshelf.** No change to any tagged text. The maintainer asked the supervisor's question — what is foundational to outsiders and missing here — and the answer is now a public file: `research/canon_check_2026-08-24.md`. The searches found the plumbing sound (the case spine, the Park-referral criteria, the deterrence economics, MPC § 7.06 engaged with limits disclosed) and the scholarly canon thin in named places: Sayre's *Public Welfare Offenses* — the article that coined the category on this Act's own title page — uncited; the corporate-punishment canon (Coffee's *No Soul to Damn*, Khanna 1996, Polinsky & Shavell 1993, Stone 1975) stating our premise without us citing it; MPC §§ 2.05 and 2.07(6) unengaged while the site borrows ALI's register; the RCO academic layer (Brickey, Abrams, Aagaard, Sepinwall) thin above a strong practitioner spine; the regulatory-theory shelf (Ayres & Braithwaite, Fisse & Braithwaite, Coglianese & Lazer) absent under a management-based design; the AI-governance canon (Anderljung et al., the compute-governance paper, the International AI Safety Report) absent from a project with *Frontier AI* in its name; and Husak's overcriminalization register unheld. House rule stated in the file and kept: nothing listed is cited anywhere until retrieved and read; entries leave the list only through the owning file with the reading's actual result. Retrievals queued at browser list item 15.

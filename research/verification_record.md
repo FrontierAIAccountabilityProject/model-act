@@ -201,6 +201,10 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | CDT, "2026 State and Federal AI Legislation Updates" (20 Aug) | ⚠ P — full text supplied 23 Aug; CDT content freely reusable with credit | census sources; known objections |
 | Akerman alert on Illinois SB 315 (Dayal, 10 Jun) | ⚠ P — full text supplied 23 Aug | census sources |
 | PA press release: Shapiro administration sues Character.AI (5 May) | **Retrieved 23 Aug** (pa.gov, ⚠ R) | [enforcement record § 6](./state_enforcement_record_2026.md) |
+| AI Futures Project, *AI 2040 / Plan A* (2026; maintainer-supplied PDF, text-extracted) | **Read in full, 24 Aug** (delegated full pass; quotes conformed to the extract) | [forecast arithmetic](./forecast_arithmetic.md) — scenario material marked ⚠ per its own "recommendation, not a prediction" |
+| AI Futures Project, Model supplementary materials (2026; ~38,000 words) | **Key sections read, 24 Aug** (summary table, capability anchors, results comparisons; remainder held) | [forecast arithmetic](./forecast_arithmetic.md) — forecast-grade parameters with published CIs |
+| AI Futures Project, *AI 2027* (Apr 2025; maintainer-supplied PDF) | **Held; text extract short of the full scenario — re-fetch queued before any reliance** | nothing yet |
+| White House, *Winning the Race: America's AI Action Plan* (23 Jul 2025; primary PDF) | **Held; full read queued** — the ai.gov pillars paste (⚠ P) is banked separately | census/ceiling context only via the half-statute page's existing ⚠ rows |
 
 ### Legal texts the queue leans on
 
@@ -262,6 +266,10 @@ pass: this table listed the Virginia SB 384 substitute twice.*
 | ARTICLE_Approval-Regulation-Frontier-AI_AIES_2024-07.pdf | Carpenter & Ezell (Harvard), identified 24 Aug; unread beyond first page |
 | ARTICLE_Frontier-AI-Regulation-What-Form_Front-Pol-Sci_2025-03-20.pdf | Radanliev (Oxford), identified 24 Aug; open access |
 | BILL_CA-SB53_enrolled_LegiScan.pdf | Primary chaptered text |
+| REPORT_AI-Futures_AI-2040-Plan-A_2026.pdf | The Plan A report, ~47k words |
+| REPORT_AI-Futures_Model-supplementary-materials_2026.md | Parameter estimates and rationales, ~38k words |
+| REPORT_AI-Futures_AI-2027_2025-04.pdf | The 2027 scenario; extract short — flagged |
+| RECORD_WhiteHouse_Americas-AI-Action-Plan_2025-07-23.pdf | The Action Plan, primary |
 | BILL_IL-SB315_enrolled_PA104-0538_LegiScan.pdf | Primary enrolled text, P.A. 104-0538 |
 | BILL_CT-SB5_chaptered_PA26-15.pdf | Primary chaptered text |
 | BILL_US-HR8094_introduced_2025.pdf | Federal compute-threshold bill, primary |
