@@ -98,6 +98,12 @@ asks who at any company personally answers when a deployed system is compromised
 use, and its limits: [known objections](./known_objections.md) and
 [CURE 16](../audit/v3_5_cure_language.md).
 
+8 April 2026
+: **Tennessee writes personhood out.** Public Chapter 781 amends the state's master definitions:
+"Person" *"does not include artificial intelligence, a computer algorithm, a software program,
+computer hardware, or any type of machine"* — enacted, in its own words, *"the public welfare
+requiring it"*: [the queue, CURE 19](../audit/v3_5_cure_language.md).
+
 4 May 2026
 : **A state fiscal office prices a frontier-AI act.** Colorado Legislative Council Staff, fiscal
 note for SB 26-189: $100,403 general fund, a 0.8 FTE assistant attorney general, startup severed

@@ -19,8 +19,9 @@ framework"*; a **60-day cure period** before enforcement; a further defense wher
 was *"discovered through various mechanisms, like user feedback"*; a **regulatory sandbox**; and
 exclusive attorney-general enforcement. No provision reaches an individual officer.
 
-**Colorado — SB 24-205 (approved 17 May 2024; core duties since delayed — reported effective
-30 June 2026, with the delay amendment on the retrieval list).** ⚠ Per the General Assembly's
+**Colorado — SB 24-205 (approved 17 May 2024; core duties delayed to
+**30 June 2026** by SB 25B-004, signed — the delay bill and its fiscal note now in hand).** ⚠
+*(the defense description below remains per the official bill summary)* Per the General Assembly's
 official bill summary: an **affirmative defense** for compliance with *"a
 nationally or internationally recognized risk management framework"* the act or the attorney
 general designates; exclusive attorney-general enforcement; violations are civil deceptive-trade
@@ -105,6 +106,22 @@ paragraph that says the federal government “should also not interfere with sta
 pass prudent laws that are not unduly restrictive to innovation”
 ([two visions](./two_visions.md), which owns the quotes). The ceiling keeps being built around
 this Act's lane, never over it.
+
+## The counter-example a state has enacted — Connecticut inverts the pattern
+
+The inoculation pattern is a choice, and one legislature has now made the opposite one.
+Connecticut's P.A. 26-15 (2026, read in full) writes the inverse of the framework defense into
+enacted text: evidence from its third-party verification pilot *"shall not be admissible in any
+civil or administrative enforcement action brought by the Attorney General"*, *"nor shall it
+give rise to any presumption, inference or defense in any such action"* (§ 33(e)); and its
+employment-decision sections state flatly that use of the technology *"shall not be a defense"*
+(§ 13(b)(1)). The bill Connecticut did **not** enact — 2025's S.B. 2, which carried a true
+NIST-framework affirmative defense on the TRAIGA pattern — appears to have died in the file ⚠
+*(status inferred from the bill file and analysis in hand; verification queued)*. One state
+examined the chosen stick and legislated against it: verification may inform a private injury
+suit, but it purchases no immunity from the public's enforcer. The pattern this page documents
+is a drafting choice, not an inevitability — and CURE 20 is this Act's version of Connecticut's
+answer.
 
 ## The occupancy argument — "this field is taken"
 

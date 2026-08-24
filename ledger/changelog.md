@@ -3,6 +3,24 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, the evening retrievals — three gates, opened by the
+maintainer's own hand.** No change to any tagged text. The maintainer pulled band A of the new
+retrieval list the same evening it was written, and the reads land: **OPEN QUESTION 1 is
+resolved** — Connecticut's P.A. 26-15, read in full, adopts the frontier definitions (10²⁶;
+the $500M tier) but attaches only a whistleblower-channel duty to frontier developers, so
+there is no due-care corpus to freeze and three interim standards stand; **CURE 19's gate is
+discharged** — Tennessee's Public Chapter 781 in hand and quoted verbatim, a personhood-denial
+act enacted "the public welfare requiring it"; and **the Colorado delay is verified at the
+primary** — SB 25B-004's final fiscal note states the move from 1 February to 30 June 2026,
+and prices the delay at zero, which becomes the fiscal note's § 6c. The read's best collateral
+find gets its own section on the half-statute page: Connecticut enacted the inoculation
+pattern's inverse — verification evidence inadmissible in AG enforcement, "nor shall it give
+rise to any … defense" (§ 33(e)) — while the bill carrying a true NIST defense appears to have
+died ⚠ (inference; status check queued). One state examined the chosen stick and legislated
+against it; CURE 20 is this Act's version of that answer. The dated record gains 8 April 2026;
+the reviewer page's OQ1 row moves from parked to resolved within the logged exemption's
+bounds; the shelf and read-statuses are current.
+
 **Between versions — 24 August 2026 — the reviewer page made current for the wave (logged
 freeze exemption, second and final).** Factual currency only, before eleven follow-ups point at
 the page: the errata description reads twenty-two entries reaching E35; the state of play gains

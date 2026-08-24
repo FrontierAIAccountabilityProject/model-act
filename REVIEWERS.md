@@ -225,12 +225,12 @@ checked; **⚠ AMEND FIRST** — drafted, but the sweep requires named amendment
 entries are additionally AI-assisted and not maintainer-validated); **NO DRAFTED RESPONSE** — the
 honest state, and why that lane's seat matters most.*
 
-*Thirty-one rows: one parked pending a retrieval, seven held, five drafted, two ⚠ amend-first, fourteen
+*Thirty-one rows: one resolved by the day's retrievals, seven held, five drafted, two ⚠ amend-first, fourteen
 hypotheses, and two lanes whose response is the seat.*
 
 | Item | In one line | State | Lane |
 |---|---|---|---|
-| [OPEN QUESTION 1](./audit/v3_5_cure_language.md#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) | Does Connecticut become a fourth interim standard? Parked by maintainer ruling, 24 Aug: no decision until the Connecticut act is retrieved and read; working default, three suffice. | **PARKED — pending retrieval** | criminal |
+| [OPEN QUESTION 1](./audit/v3_5_cure_language.md#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) | Does Connecticut become a fourth interim standard? Resolved 24 Aug: the act retrieved and read — it adopts the frontier definitions but carries no due-care corpus; three interim standards stand (the queue's OQ1 carries the read). | **RESOLVED — by retrieval and read** | criminal |
 | [OPEN QUESTION 2](./audit/v3_5_cure_language.md#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) | Does the duty reach an evaluation run with safeguards disabled? Largely disposed if OQ4's amendment lands. | **HELD** | security · criminal |
 | [OPEN QUESTION 3](./audit/v3_5_cure_language.md#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) | Third-party evaluator: does practical authority still run to the commissioning officer? | **HELD** | enforcement |
 | [OPEN QUESTION 4](./audit/v3_5_cure_language.md#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) | The Act does not reach the conduct it was written after — five of six incidents fall outside at the threshold. Amendment drafted. **The single most important item.** | **HELD — amendment drafted** | enforcement · criminal · federalism |

@@ -160,6 +160,15 @@ discipline §§ 3–6 of this note already promise and can now cite in practice.
 question 1 — "is a note with no numbers reportable in your state?" — now has a comparative
 answer in hand: Colorado reported one, and this is what its arithmetic looked like.
 
+## 6c. The second note in the genre — pricing a delay at zero
+
+The same office priced the delay itself. SB 25B-004 (2025 special session) — the bill that
+moved SB 24-205's duties from 1 February to 30 June 2026 — carries a final fiscal note of
+10 September 2025: $0 revenue, $0 expenditures, 0.0 FTE in every year, no appropriation
+required (primary in hand). The method survives even at zero: impacts stated by year and type,
+the enacted bill reflected, the zeros written down rather than implied. For § 7's comparator
+work, that is the point — the genre's discipline is the table, not the total.
+
 ## 7. Open items for the fiscal seat
 
 Named so that the seat's work is review rather than design.

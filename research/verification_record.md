@@ -204,6 +204,10 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | AI Futures Project, *AI 2040 / Plan A* (2026; maintainer-supplied PDF, text-extracted) | **Read in full, 24 Aug** (delegated full pass; quotes conformed to the extract) | [forecast arithmetic](./forecast_arithmetic.md) — scenario material marked ⚠ per its own "recommendation, not a prediction" |
 | AI Futures Project, Model supplementary materials (2026; ~38,000 words) | **Key sections read, 24 Aug** (summary table, capability anchors, results comparisons; remainder held) | [forecast arithmetic](./forecast_arithmetic.md) — forecast-grade parameters with published CIs |
 | AI Futures Project, *AI 2027* (Apr 2025; maintainer-supplied PDF) | **Held; text extract short of the full scenario — re-fetch queued before any reliance** | nothing yet |
+| Connecticut P.A. 26-15 (chaptered) + S.B. 2 (2025) file copy + analysis | **Read, 24 Aug evening** (delegated pass for the OQ1 question; census read of 23 Aug stands) | [the queue's OQ1 resolution](../audit/v3_5_cure_language.md); [the half-statute counter-example](../docs/safe_harbors_and_affirmative_defenses.md) |
+| Colorado SB 25B-004 fiscal note (10 Sep 2025) | **Read in full, 24 Aug evening** — the delay to 30 June 2026 verified at the primary | [half-statute](../docs/safe_harbors_and_affirmative_defenses.md); [fiscal note § 6c](../standards/fiscal_note.md) |
+| Colorado SB 25B-004 signed act | **Held — scan without text layer**; the fiscal note (final, reflecting the enacted bill) carries the reliance | — |
+| Tennessee Public Chapter 781 (S.B. 837) | **Read in full, 24 Aug evening** — three pages, verbatim in the queue | [CURE 19](../audit/v3_5_cure_language.md); [the dated record](../docs/timeline.md) |
 | White House, *Winning the Race: America's AI Action Plan* (23 Jul 2025; primary PDF) | **Read in full, 24 Aug** | [two visions](../docs/two_visions.md) owns its quotes; the ai.gov pillars paste (⚠ P) banked separately; half-statute ⚠ rows unchanged |
 
 ### Legal texts the queue leans on
@@ -270,6 +274,10 @@ pass: this table listed the Virginia SB 384 substitute twice.*
 | REPORT_AI-Futures_Model-supplementary-materials_2026.md | Parameter estimates and rationales, ~38k words |
 | REPORT_AI-Futures_AI-2027_2025-04.pdf | The 2027 scenario; extract short — flagged |
 | RECORD_WhiteHouse_Americas-AI-Action-Plan_2025-07-23.pdf | The Action Plan, primary |
+| BILL_CT-SB2_2025_text_R04.pdf + _bill-analysis.pdf | Connecticut S.B. 2 (2025), file copy + official analysis |
+| BILL_CO-SB25B-004_signed-act_2025-08.pdf | The Colorado delay act, signed — a scan, no text layer |
+| BILL_CO-SB25B-004_fiscal-note.pdf | Its final fiscal note (LCS, 10 Sep 2025) |
+| BILL_TN-HB0849_chaptered_2025.pdf | Public Chapter 781 (S.B. 837) — the Tennessee personhood act |
 | BILL_IL-SB315_enrolled_PA104-0538_LegiScan.pdf | Primary enrolled text, P.A. 104-0538 |
 | BILL_CT-SB5_chaptered_PA26-15.pdf | Primary chaptered text |
 | BILL_US-HR8094_introduced_2025.pdf | Federal compute-threshold bill, primary |

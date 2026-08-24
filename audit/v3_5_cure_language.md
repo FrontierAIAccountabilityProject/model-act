@@ -58,6 +58,15 @@ for the … lane* = **HELD**; *adopt-ready* = **DRAFTED**; *⚠ amendments requi
 is retrieved and read (retrieval list). Working default: three interim standards suffice; the
 read confirms or overturns it.*
 
+*Resolved (24 Aug 2026, evening, under the same ruling's terms): the retrieval and read are
+done. Connecticut's enacted act — P.A. 26-15 (2026) — adopts the frontier definitions (the 10²⁶
+operations line; the five-hundred-million-dollar revenue tier) but attaches to frontier
+developers only a whistleblower-channel duty (its § 2). It carries no due-care corpus a frozen
+interim standard could adopt. **Three interim standards stand.** Collateral finds land at their
+owners: the § 33(e) anti-defense clause (the half-statute page); the officer-knowledge quarterly
+report (already owned by the census); the failed S.B. 2's NIST defense (⚠ inference from the
+bill file and analysis; enactment-status check queued).*
+
 *Opened 21 August 2026 by [E16](../ledger/errata.md). **Not a cure — a drafting decision**, held
 here rather than made silently, because it changes the tagged statutory text and
 [E10](../ledger/errata.md) forbids editing a tagged file outside a revision.*
@@ -1362,6 +1371,14 @@ one line for the fiscal note's § 3.
 text**; Tennessee is cited as a corroborating enactment without borrowing its wording. Assembly
 follows the gate note at this entry's end — "the enacted law of other states", or the verified
 acts by name.*
+
+*Gate discharged (24 Aug 2026, evening): Tennessee's chaptered text is in hand — **Public
+Chapter No. 781** (S.B. 837, substituted for H.B. 849), passed 8 April 2026, amending Tenn.
+Code Ann. § 1-3-105(a)(20): "Person" … "(B) Does not include artificial intelligence, a
+computer algorithm, a software program, computer hardware, or any type of machine". Its
+effective-date clause enacts on the classic formula — "the public welfare requiring it" — a
+personhood-denial statute that is, by its own words, a public-welfare enactment. Assembly may
+now cite Idaho and Tennessee by name, both verbatim.*
 
 *Idaho and Tennessee have enacted statutes providing that AI systems are not legal persons —
 "ensuring that liability falls on formal legal persons (either individuals or corporations) rather
