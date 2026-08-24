@@ -447,6 +447,17 @@ for an industry that has never faced one. **It is the ordinary instrument by whi
 reaches an executive at all** — and its absence at the compute frontier is not a gap in
 transparency. It is the removal of the mechanism.
 
+
+**Addendum, 24 August — two later corroborations, linked rather than restated.** The economics
+of why the entity fine cannot substitute for the signature now carry third-party magnitudes —
+the field's own forecasters price the industry's capital expenditure, revenue growth, and
+structural tax position at levels no enactable fine schedule reaches
+([the forecasters' arithmetic](../research/forecast_arithmetic.md), § 4). And the principle the
+signature enforces has been stated by Washington itself, in its own roadmap's one sentence on
+attestation: enforcement mechanisms are required *"rather than relying on voluntary
+attestation"* ([two visions](../docs/two_visions.md)). The mechanism this page documents is the
+enforced form of exactly that sentence.
+
 ---
 
 *Corrections to the project contact; they enter [the errata register](../ledger/errata.md) with the

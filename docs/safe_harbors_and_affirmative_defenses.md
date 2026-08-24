@@ -99,7 +99,12 @@ be covered by this, also criminal activity not covered."* The SANDBOX framing: *
 or using AI still have to follow the same laws as everyone else."* The Blackburn bill:
 *"expressly preserves generally applicable law."* Three instruments, three drafting teams, one
 carve-out — and a state criminal public-welfare statute of general form is precisely what sits
-inside it. The ceiling keeps being built around this Act's lane, never over it.
+inside it. The executive's own roadmap now writes a fourth reservation from its side of the
+government: the Action Plan arms a funding lever against “burdensome” state AI law in the same
+paragraph that says the federal government “should also not interfere with states' rights to
+pass prudent laws that are not unduly restrictive to innovation”
+([two visions](./two_visions.md), which owns the quotes). The ceiling keeps being built around
+this Act's lane, never over it.
 
 ## The occupancy argument — "this field is taken"
 

@@ -307,7 +307,8 @@ imputed to the CWA by district courts since).
 **The Clean Air Act.** 42 U.S.C. § 7413(c)(6): *"For the purpose of this subsection, the term
 'person' includes, in addition to the entities referred to in section 7602(e) of this title, any
 responsible corporate officer."* Added in **1977 — after *Park*** — which courts likewise treat as
-congressional approval of the doctrine.
+congressional approval of the doctrine. (The 2025 federal AI roadmap cites this same statute —
+as permitting paperwork to streamline for data centres: [two visions](../docs/two_visions.md).)
 
 **The scholarship, in hand.** Lyness, *Revitalizing the State Environmental Responsible Corporate
 Officer Doctrine*, 64 B.C. L. Rev. 253 (2023) — the survey this section draws on (its Part II

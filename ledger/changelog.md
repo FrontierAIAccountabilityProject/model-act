@@ -3,6 +3,23 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, tenth intake — the cross-cascade: what the two readings
+change everywhere else.** No change to any tagged text. Five argument files now carry what the
+paired-primary readings established, each as a link to the owning page rather than a restated
+fact. Known objections: the compute-trigger rows gain the both-ends administrability answer and
+fold the forecasters' unit-blur caution into the case *for* the designation routes; a new
+objection is added and answered — "the timelines make this pointless" — with the asymmetry
+argument (fast timelines shorten the window, not the need for the drawer). Paths to enactment:
+the whole-cloth section's window claim gains the forecasters' arithmetic as its citation, and
+the existing-law vehicle gains the federal roadmap's own endorsement of applying existing law
+through evaluations. The half-statute page's ceiling section records the executive's fourth
+reservation — the funding lever and the "prudent laws" sentence in one paragraph. Comparative
+officer liability § 5 notes that the 2025 roadmap cites § 7413's own statute as permitting
+paperwork. Why a signature works gains a two-corroboration addendum: the forecasters' fine-
+absorption magnitudes, and Washington's "rather than relying on voluntary attestation." One
+owner per fact throughout: two visions and the forecasters' arithmetic own the quotes and
+numbers; everything else points.
+
 **Between versions — 24 August 2026, ninth intake — two visions, read as paired primaries.** No
 change to any tagged text. The Action Plan primary (*Winning the Race*, 23 July 2025) is read in
 full and its verification row flips; the new page `docs/two_visions.md` reads it beside the AI

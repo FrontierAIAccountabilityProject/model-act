@@ -21,8 +21,8 @@ reviewer may conclude the central theory should be removed. That conclusion woul
 |---|---|---|
 | "You are taking a technical term and making it a political label." | "Frontier" is not a settled legal category and moves over time. | Two defined terms: the technical *frontier-AI system* and the legal *covered frontier enterprise* ([the definition](./the_definition.md)). The Act regulates responsibility, not vocabulary — and the industry chose the word first, in its own frameworks and products. |
 | "Wealth does not prove capability." | Market value belongs to shareholders and can be speculation. | Wealth alone covers nobody. The scale conditions operate only conjoined to a material frontier function, and the protective clause says so on the face of the definition (CURE 7). |
-| "You cannot prove our model exceeded 10²⁶ operations." | Training figures are trade secrets; outside estimates can be wrong. | The figure is not proven by outside estimate: the developer certifies its own compute under SEC. 8, and lying in that certification is the offence. Self-designation (CURE 6) and Agency designation are independent routes that need no figure at all. |
-| "The threshold is arbitrary." | A model just below may outperform one just above. | 10²⁶ is one objective trigger among several routes, updatable by rule under SEC. 3 — and Meta's own framework adopts the same figure as its top-tier criterion, which is difficult to call arbitrary while using it. |
+| "You cannot prove our model exceeded 10²⁶ operations." | Training figures are trade secrets; outside estimates can be wrong. | The figure is not proven by outside estimate: the developer certifies its own compute under SEC. 8, and lying in that certification is the offence. Self-designation (CURE 6) and Agency designation are independent routes that need no figure at all. And administrability is now conceded from both ends of the politics — chip location-verification as live federal policy, the forecasters' declaration-and-audit engineering ([two visions](./two_visions.md)). |
+| "The threshold is arbitrary." | A model just below may outperform one just above. | 10²⁶ is one objective trigger among several routes, updatable by rule under SEC. 3 — and Meta's own framework adopts the same figure as its top-tier criterion, which is difficult to call arbitrary while using it. The forecasters' caution that compute units blur over time ([forecast arithmetic § 6](../research/forecast_arithmetic.md)) argues *for* the capability-designation routes riding beside the bright line — the Act's design already carries its critics' fix. |
 | "*Dotterweich* and *Park* concern the Food, Drug, and Cosmetic Act." | The doctrine does not migrate automatically. | Agreed. The Act does not borrow liability; it enacts its own elements, and takes from the doctrine only the principle — duty follows the person standing in responsible relation to a public danger with power to prevent it. See [the case](./the_case.md). |
 | "This is unconstitutional strict liability." | Criminal punishment without culpability raises due-process and fair-notice problems. | The Act is not outcome-liability. SEC. 6 requires a duty held, a failure of due care, and proof of every element; SEC. 1(a) states the public-welfare classification with its *Morissette* limits; the harm tier requires more, with proximate cause. Nobody is punished because a system surprised everyone. |
 | "No executive can understand every technical decision." | Frontier development involves thousands of specialised decisions. | The duty is not omniscience; it is to establish, resource, supervise, and correct — and it attaches only to *final material independent decision authority*. SEC. 4(a) expressly excludes title, credentials, access, ministerial execution, and the giving of advice. |
@@ -245,6 +245,25 @@ covers, that is worth sending: a genuinely new objection is the most valuable ma
 receives. And when the assistant's version arrives dressed as *"the states are already
 handling this"* — an affirmative-defense statute here, a sandbox there — the pattern has its own
 page: [safe harbors, affirmative defenses, and the half-statute](./safe_harbors_and_affirmative_defenses.md).
+
+
+## "The timelines make this pointless" — added 24 August
+
+The objection, stated at its strongest: the field's own forecasters put the modal year for
+transformative capability inside this decade, with intervals between late milestones measured
+in months — so a state statute drafted on legislative time regulates a world that will have
+ended before third reading. It deserves a serious answer because the numbers behind it are
+serious ([the forecasters' arithmetic](../research/forecast_arithmetic.md), § 3).
+
+The answer is that the objection defeats the wrong plan. It is fatal to *beginning* drafting
+when the window opens — which is precisely this project's position
+([paths to enactment](./paths_to_enactment.md)): public-welfare statutes pass in the weeks
+after the failure that makes them undeniable, and what passes is whatever reviewed text
+already exists. Fast timelines shorten the window; they do not shorten the need for the
+drawer — they are the case for filling it now. And if the forecasters are wrong and the
+decade is ordinary, the Act costs what a vetted draft costs: nothing, until a legislature
+wants it. The asymmetry runs one way. A reviewer who believes the timeline objection should
+say in a disposition which leg fails: the window pattern, the arithmetic, or the asymmetry.
 
 *The argument this page defends: [the case](./the_case.md). The definitions it defends:
 [the definition](./the_definition.md). The operative language under attack:

@@ -46,7 +46,9 @@ happened. A vetted whole text, defects published and cured in public, is the onl
 move at window speed and deserve to. The record this project keeps — the escape season, the
 near-misses, the deadline that passed without an answer
 ([the dated record](./timeline.md)) — is, among other things, the measure of how much closer
-the window is than the calendar suggests.
+the window is than the calendar suggests. The field's own forecasters now put arithmetic on
+the same point: a modal first-milestone year inside this decade, and intervals between late
+milestones measured in months ([the forecasters' arithmetic](../research/forecast_arithmetic.md), § 3).
 
 The vehicles below are therefore not four substitutes for whole enactment. They are what
 pre-positions it: an amendment enacted proves the chassis takes the engine; a certification bill
@@ -96,7 +98,10 @@ and the federal strict-liability statutes that already reach individuals who shi
 articles ([already a crime, if you are a person](../standards/already_a_crime_for_you.md)).
 *Dotterweich* itself was not new legislation — it was existing law applied to the person with
 authority. A prosecutor's office that reads the record this way needs no statute from this
-project; it needs the map, and the map is the point of publishing everything. A single charged
+project; it needs the map, and the map is the point of publishing everything. Even the
+federal roadmap endorses the mechanism: regulators, it says, "should explore the use of
+evaluations in their application of existing law to AI systems" — existing law, applied to
+AI ([two visions](./two_visions.md)). A single charged
 case would do for this doctrine what it did in 1943: make the extension real before any
 legislature votes.
 
