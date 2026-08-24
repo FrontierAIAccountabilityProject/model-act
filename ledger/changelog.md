@@ -3,6 +3,11 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, the reviewer page's doors.** The packets now greet a
+reviewer at the top of the page and see them out at the bottom — the paper path offered before
+the terms and after the map; CURE 19's row catches up with its own evening (the gate is
+discharged, and the row now says so); one doubled conjunction removed.
+
 **Between versions — 24 August 2026, last entry of the day — a status claim withdrawn, and the
 diary written.** Four packets described the criminal-law lane as "under review now"; the true
 state is a packet delivered and a call pending, and this project does not round that up. The

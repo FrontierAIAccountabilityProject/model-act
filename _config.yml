@@ -27,11 +27,10 @@ back_to_top_text: "Back to top"
 aux_links:
   "The file repository — authoritative record":
     - "https://github.com/FrontierAIAccountabilityProject/model-act"
-footer_content: "Public domain (CC0) · v3.4 tagged, checksums in the ledger · This site mirrors the repository; the repository is the authoritative record."
+footer_content: "A publication of the Frontier AI Accountability Project · Public domain (CC0) · v3.4 tagged, checksums in the ledger · This site mirrors the repository; the repository is the authoritative record."
 
-# The sidebar is a curated reading order, not a directory listing: the front page
-# leads it (a home page this dense is a destination, so it sits in the list it heads),
-# then the reviewer page, the review packets, the long documents, the glossary, the map.
+# The sidebar is a curated reading order, nine entries, not a directory listing:
+# the reviewer page, the review packets, the long documents, the glossary, the map.
 # Everything else stays one search or one link away. Each entry is named by exact
 # path — the matcher takes whole paths, not prefixes.
 #
@@ -44,35 +43,32 @@ defaults:
     values:
       nav_exclude: true
   - scope:
-      path: "README.md"
-    values: { nav_exclude: false, nav_order: 0, title: "The front page — start here" }
-  - scope:
       path: "REVIEWERS.md"
     values: { nav_exclude: false, nav_order: 1, title: "For reviewers" }
   - scope:
       path: "packets/README.md"
-    values: { nav_exclude: false, nav_order: 2, title: "The review packets · seven lanes", has_children: true }
+    values: { nav_exclude: false, nav_order: 2, title: "The review packets", has_children: true }
   - scope:
       path: "packets/criminal_law.md"
-    values: { nav_exclude: false, parent: "The review packets · seven lanes", nav_order: 1, title: "Criminal law" }
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 1, title: "Criminal law" }
   - scope:
       path: "packets/enforcement.md"
-    values: { nav_exclude: false, parent: "The review packets · seven lanes", nav_order: 2, title: "Enforcement and prosecution" }
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 2, title: "Enforcement and prosecution" }
   - scope:
       path: "packets/security.md"
-    values: { nav_exclude: false, parent: "The review packets · seven lanes", nav_order: 3, title: "Frontier security" }
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 3, title: "Frontier security" }
   - scope:
       path: "packets/fiscal.md"
-    values: { nav_exclude: false, parent: "The review packets · seven lanes", nav_order: 4, title: "Fiscal and administration" }
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 4, title: "Fiscal and administration" }
   - scope:
       path: "packets/federalism.md"
-    values: { nav_exclude: false, parent: "The review packets · seven lanes", nav_order: 5, title: "Federalism and preemption" }
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 5, title: "Federalism and preemption" }
   - scope:
       path: "packets/proportionality.md"
-    values: { nav_exclude: false, parent: "The review packets · seven lanes", nav_order: 6, title: "Proportionality and sentencing" }
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 6, title: "Proportionality and sentencing" }
   - scope:
       path: "packets/torts_design.md"
-    values: { nav_exclude: false, parent: "The review packets · seven lanes", nav_order: 7, title: "Torts and design" }
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 7, title: "Torts and design" }
   - scope:
       path: "docs/the_case.md"
     values: { nav_exclude: false, nav_order: 3, title: "The case" }

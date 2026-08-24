@@ -8,6 +8,12 @@ rather than a guess.*
 *Arrived from an invitation email that linked [the lane sweep](./audit/v3_5_lane_sweep.md)? That
 document is step 2 of the path below, and its first line points back here.*
 
+**Already know your seat? Take the paper path:** seven lanes have a
+**[single-page packet](./packets/README.md)** — this whole page's path, inlined in your lane's
+reading order, built by committed script. Print it, mark it up, send the marked copy back. This
+page remains the terms, the tables, and the map; the packet is the same journey as one
+document.
+
 ## The ask
 
 One seat, one lane, scope in writing before work begins. The bounded form: the statute straight
@@ -141,7 +147,7 @@ order, assembled by committed script so it cannot silently drift:
 [enforcement and prosecution](./packets/enforcement.md),
 [frontier security](./packets/security.md),
 [fiscal and administration](./packets/fiscal.md),
-[federalism and preemption](./packets/federalism.md), and
+[federalism and preemption](./packets/federalism.md),
 [proportionality and sentencing](./packets/proportionality.md), and
 [torts and design](./packets/torts_design.md) — the last three serving question
 clusters this page routes through the seats above (READ FIRST items 4 and 5, and the
@@ -256,7 +262,7 @@ hypotheses, and two lanes whose response is the seat.*
 | [CURE 16](./audit/v3_5_cure_language.md#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) | A deception limb, because Van Buren excludes what actually happened. | **HYPOTHESIS — sweep-derived** | enforcement |
 | [CURE 17](./audit/v3_5_cure_language.md#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) | Whistleblower remedies that fit a reporter outside employment — the record's actual reporter was one. | **HYPOTHESIS — intake-derived** | criminal |
 | [CURE 18](./audit/v3_5_cure_language.md#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) | An immediate-notice tier for incidents in progress, on the select-agent escape-clock donor. | **HYPOTHESIS — intake-derived** | enforcement · security |
-| [CURE 19](./audit/v3_5_cure_language.md#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) | A SEC. 0 finding: a system is not a person. Wording ruled 24 Aug: the finding tracks Idaho's retrieved verbatim text; Tennessee cited as corroborating enactment, its wording not borrowed (text still to pull, on the retrieval list). | **HYPOTHESIS — intake-derived; wording ruled** | — |
+| [CURE 19](./audit/v3_5_cure_language.md#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) | A SEC. 0 finding: a system is not a person. Wording ruled 24 Aug: the finding tracks Idaho's retrieved verbatim text; Tennessee cited as corroborating enactment, its wording not borrowed — and its text now in hand: gate discharged the same evening, Public Chapter 781 verbatim in the queue. | **HYPOTHESIS — intake-derived; wording ruled** | — |
 | [CURE 20](./audit/v3_5_cure_language.md#cure-20--the-chosen-stick-clause-conformity-outside-the-act-credits-nothing) | The chosen-stick clause: conformity with any framework outside the Act's standards is evidence, weighed — never a duty satisfied, never a defense. Numbered from pre-review finding PF-2. | **HYPOTHESIS — pre-review-derived** | criminal · federalism |
 | [CURE 21](./audit/v3_5_cure_language.md#cure-21--sec-8-the-certification-register-facts-public-content-protected) | SEC. 8 gains a public register of certifications — signer, entity, version, date, compliance-or-disclosure — content beyond those facts protected. Numbered from pre-review finding PF-3. | **HYPOTHESIS — pre-review-derived** | criminal · security |
 | [Security-lane findings](./audit/v3_5_lane_sweep.md#f5--the-safeguards-off-evaluation-falls-into-a-hole-between-sec-2c-and-sec-2a-security) | The SEC. 2(c)/2(a) hole around safeguards-disabled evaluations; Part 6's control objectives as process without substance; halt timing; monitoring. | **NO DRAFTED RESPONSE — the seat is the response** | security |
@@ -289,5 +295,9 @@ to one.
 
 ---
 
-*Maintenance rule: when the reading order, the lanes, or the terms change, this page changes in the
+***Leaving with work to do? Take your packet:** [the packets index](./packets/README.md) — one
+page per lane, criminal law through torts and design, each ending at the same door every
+disposition enters.
+
+Maintenance rule: when the reading order, the lanes, or the terms change, this page changes in the
 same commit. The front page carries the banner and the terms; it does not grow this page back.*
