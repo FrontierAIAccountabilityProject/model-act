@@ -1,4 +1,4 @@
-# Packets — one page per lane
+# The review packets — one page per lane
 
 A packet is a reading copy: everything one review lane needs, inlined in reading order on a
 single page, so a reviewer can print one document, mark it up, and send a memo back — the
@@ -10,8 +10,16 @@ worth reporting.** Packets are never edited by hand; they are regenerated.
 Built so far:
 
 - [Criminal law](./criminal_law.md) — by [`build_criminal_packet.py`](./build_criminal_packet.py).
+- [Enforcement and prosecution](./enforcement.md) — by
+  [`build_enforcement_packet.py`](./build_enforcement_packet.py). Three of the sweep's seven fatal
+  findings, the five drafted repairs and the held OPEN QUESTION 4 amendment, and the live state
+  enforcement record's own reading of that question.
+- [Frontier security](./security.md) — by
+  [`build_security_packet.py`](./build_security_packet.py). The lane with nothing drafted in
+  answer: two fatal findings, the regulations' Part 6 reproduced whole because it is what they are
+  about, and the federal comparator to mark six new control objectives against.
 
-The other four lanes (enforcement and prosecution; frontier security; open source and academia;
-fiscal and administration) follow the same builder pattern. The lane definitions live on
+The other two lanes (open source and academia; fiscal and administration) follow the same builder
+pattern. The lane definitions live on
 [the reviewer page](../REVIEWERS.md); the statute itself is never reproduced in a packet — the
 tagged text and its print copy are the statute's only homes.

@@ -129,10 +129,12 @@ errata already filed in your lane,
 and the donor material the intake of 23–24 August added. Five register entries are method-wide
 rather than lane-specific — E21, E22 (extended by E32), E27, and E33 — and govern how every date,
 quotation, count, and file-status claim in the evidence base was made;
-[the register](./ledger/errata.md) itself is short and worth ten minutes. The criminal lane
-additionally has the first [single-page packet](./packets/criminal_law.md) — its whole apparatus
-inlined in reading order, assembled by committed script so it cannot silently drift; the other
-four lanes follow the same builder.*
+[the register](./ledger/errata.md) itself is short and worth ten minutes. Three lanes additionally
+have a [single-page packet](./packets/README.md) — the lane's whole apparatus inlined in reading
+order, assembled by committed script so it cannot silently drift:
+[criminal law](./packets/criminal_law.md),
+[enforcement and prosecution](./packets/enforcement.md), and
+[frontier security](./packets/security.md). The remaining two lanes follow the same builder.*
 
 ### Criminal law
 
