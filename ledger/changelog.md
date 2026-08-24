@@ -3,6 +3,16 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026 — every packet gets its builder; the rule becomes
+enforceable.** No change to any tagged text. The packets index promised "never edited by hand;
+regenerated" while three rows said "builder to follow" — a rule and its violation on one page.
+The fiscal, federalism, and proportionality packets now have committed builders that hold the
+authored text as their template and emit it verbatim: edits are made in the builder and
+regenerated, never in the page, so the rule is enforceable from this revision forward; the
+builders state plainly that they are template-emitting and may be upgraded to
+section-extraction in the criminal builder's manner. Round-trip verified before commit. The
+index rows now name their builders.
+
 **Between versions — 24 August 2026 — the sixth packet: proportionality and sentencing.** No
 change to any tagged text. The lane's centre is presented as what it is — the statute's own held
 question, READ FIRST item 4, the sentencing valve against fifty state proportionality clauses —

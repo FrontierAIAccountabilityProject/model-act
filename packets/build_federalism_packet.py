@@ -1,0 +1,88 @@
+#!/usr/bin/env python3
+"""Assemble packets/federalism.md — the federalism and preemption lane's reading copy.
+
+Run from the repository root:  python3 packets/build_federalism_packet.py
+
+This builder holds the packet's authored text as its template and writes it out
+verbatim: the authored text lives HERE, and every revision is made here and
+regenerated — the .md is never edited by hand, so the regeneration rule is
+enforceable from this revision forward. The sources cited inside the packet
+remain the authority; if the packet and a source differ, the source is right and
+the difference is a defect worth reporting. A future revision may upgrade this
+builder to section-extraction in the manner of build_criminal_packet.py.
+Stdlib only; deterministic; no network.
+"""
+import io
+
+OUT = "packets/federalism.md"
+
+PACKET = r'''# The federalism and preemption lane — one page
+
+*A reading copy for the federalism seat, assembled 24 August 2026; linked from the reviewer surfaces when the current review freeze lifts. Assembled from [the half-statute record](../docs/safe_harbors_and_affirmative_defenses.md), [the two-visions reading](../docs/two_visions.md), [the drafting queue](../audit/v3_5_cure_language.md), [the bill census](../standards/frontier_bill_census.md), and [the dossier's federalism file](../dossier/README.md). Those files are the authority; this page exists so the lane can be read, printed, and marked up as one document. If this page and a source differ, the source is right and the difference is a defect worth reporting to FrontierAIAccountabilityProject@proton.me.*
+
+*A note on the ⚠ mark, which this page preserves wherever the sources carry it: it means a claim is recorded from cited reporting or an official summary while the primary instrument has not yet been retrieved. The record grades itself; this packet does not upgrade what its sources have not.*
+
+## The ask
+
+One seat, one lane, scope in writing before work begins. Unpaid. **The floor:** the statute straight through, then this packet, then **three findings, verified or refuted, with reasons** — a complete and publishable disposition, perhaps six to eight hours. **The whole seat:** the menu below worked through in full — every question answered, every drafted repair verified or refuted — roughly ten to twenty hours across eight weeks. Both are dispositions; both are published as written, including "approved with reservations," including hostile. **A disposition that refutes one finding is worth more to this project than a full pass that agrees with everything.**
+
+**The arithmetic:** everything below is the menu. Any three items are a complete disposition; all of them are the seat done whole. One answered question is one finding. One drafted repair verified, or refuted, is one finding. A defect of your own discovery outranks anything on the menu.
+
+## Read first — the statute itself
+
+The tagged text is not reproduced here. Read [`model_act_v3_4.txt`](../model_act_v3_4.txt) at the repository root — the tagged statute is v3.4, and nothing in the open queue below is enacted text. Your sections: **SEC. 1(c)** (jurisdiction) and **SEC. 13** (severability, conforming operation, and revival), with the preemption architecture's drafting history behind them in [the record](../audit/record.md).
+
+---
+
+## I. The preemption weather, read as a negotiation
+
+The record's core federalism holding is at [the half-statute page](../docs/safe_harbors_and_affirmative_defenses.md), in its ceiling-variant section, and it is an argument from the adversary's own instruments. The ceiling proposals arrived in sequence: the sworn September 2025 ask for a preemptive framework; the ten-year state moratorium, fought and rejected; the executive order of 11 December 2025 ⚠ — a litigation task force against state AI laws, federal broadband funding conditioned against "onerous" state statutes; the **TRUMP AMERICA AI Act** ⚠, federal preemption of state frontier catastrophic-risk law; and the **Great American AI Act** discussion draft ⚠, a three-year preemption of state regulation of frontier *development* only, deployment expressly left to the states. Read as a negotiation, the direction is the finding: ten years shrank to three; everything shrank to development-only.
+
+And **every ceiling instrument writes the same exemption**. Four reservations are now on the record, from four drafting teams, one of them the executive's own:
+
+1. The moratorium's defending witness at the June 2025 Oversight hearing: *"laws of general applicability are not to be covered by this, also criminal activity not covered"* (Serial 119-31, read in full; [the dossier § 5.3](../dossier/README.md)).
+2. The federal SANDBOX Act's own framing ⚠: *"people creating or using AI still have to follow the same laws as everyone else"* ([the half-statute page](../docs/safe_harbors_and_affirmative_defenses.md)).
+3. The Blackburn preemption bill ⚠: it *"expressly preserves generally applicable law"* (same page; queued at [the census](../standards/frontier_bill_census.md), verify against congress.gov before any row hardens).
+4. The administration's own Action Plan (primary in hand, read in full), which arms a funding lever against burdensome state AI law in the same paragraph that says the federal government *"should also not interfere with states' rights to pass prudent laws that are not unduly restrictive to innovation"* ([two visions](../docs/two_visions.md), which owns the quotes).
+
+The record's conclusion, stated so it can be attacked: a state criminal public-welfare statute of general form is precisely what sits inside the carve-out every ceiling instrument keeps writing — *"the ceiling keeps being built around this Act's lane, never over it."* The moratorium fight itself is recorded from inside the majority, civil-rights coalition to MAGA right, at [the dossier § 5](../dossier/README.md), with the anti-preemption state-lawmaker letter ⚠ and the Leadership Conference letter ⚠ as the organised tailwind. **Contesting that conclusion is this seat.** The record has built its preemption posture on a pattern of concessions by advocates and drafters, not on a holding by any court; whether the pattern survives an actual federal enactment, and whether "general applicability" can honestly describe a statute whose every duty runs to covered frontier systems, are exactly the questions a federalism litigator is being asked to press.
+
+## II. SEC. 13 — the design, and the drafted valve
+
+**The design.** SEC. 13 does not wait for preemption; it administers it. Subsection (b) ranks the Act for severance — the offences under SEC. 5(b) and 5(d), SEC. 4 and SEC. 6, and the deployment-side duties in the first rank; developer-side duties including pre-release evaluation and weight security relegated to the third; SEC. 8, SEC. 9, and SEC. 5(c) last — with a preservation-of-elements rule so no surviving offence is stripped of a definition or commencement condition it depends on. Subsection (c) directs the Attorney General to determine preemption by published order, suspending provisions "to the extent, and only to the extent, stated in the order," with paragraph (2)'s directions tracking the ceiling instruments' own shapes: developer-capacity suspension where preservation is conditioned on the absence of developer obligations; preservation of post-deployment application where the enactment reaches only pre-deployment law; records preserved where reporting is reached; and (2)(D)'s reservation of "the generally applicable criminal law of this State." Subsection (d) revives a suspended provision prospectively; (e) forbids any inference of invalidity. Read (2)(D) beside the four reservations in § I: the statute is drafted to stand inside the carve-out its adversaries keep conceding.
+
+**The drafted valve — [CURE 2](../audit/v3_5_cure_language.md#cure-2--sec-13c-a-review-valve-on-the-suspension-order), a proposal, not enacted.** The queue's own grading is candid: the conforming-operation order as tagged carries no standard of review, no mechanism to challenge an order as too broad, and no route to vacatur — while SEC. 13(c)(3) bars conviction for conduct during a suspension and SEC. 13(d) makes revival prospective only, so "the fair-notice ratchet built to protect defendants doubles as an amnesty switch" in the hands of the officer the Act trusts most. The drafted answer, a new SEC. 13(c)(4), requires the order to state the enactment relied upon, its extent, and reasons; gives any person a petition for review on the ground that the order suspends more than the federal enactment preempts, "without deference to the order"; and runs vacatur forward only, so no conduct is retroactively criminalised and paragraph (3) keeps its protective force. Held open in the queue itself: the venue bracket, and whether review should also lie against an order that suspends *too little*. None of this is in the tagged v3.4 text; verifying or refuting the valve is a finding.
+
+## III. SEC. 1(c) — the nexus, and the Commerce Clause answer
+
+SEC. 1(c) confines the Act to "conduct occurring in this State," covered systems "made available to residents of this State," and conduct "intended to produce and producing substantial effects within this State"; out-of-state conduct is relevant "only as evidence bearing on an element of an offense committed in or into this State," and a person who neither deploys in or into the State, makes available to residents, nor releases weights "is not subject to this Act as to that system."
+
+The recorded objection and the recorded answer sit at [known objections](../docs/known_objections.md): to "a state cannot regulate a global supply chain," the answer is that SEC. 1(c) requires the in-state nexus, SEC. 13 handles federal enactments expressly with the CURE 2 review valve, and "the model-law form exists precisely so a federal twin can follow." That last clause is not rhetoric in this record: [the census](../standards/frontier_bill_census.md) documents H.R. 8094, a bipartisan federal bill read in full that adopts this Act's own lineage-compute counting above the same 10²⁶ line — the drafting convergence that makes a federal twin more than hypothetical, while the census tally holds that no federal vehicle read to date reaches an officer. One pressure point the queue itself flags for the extraterritoriality analysis: [CURE 13](../audit/v3_5_cure_language.md#cure-13--sec-1b1b-say-sever-not-extend) records that under SEC. 1(b)(1)(B)'s hostile reading a downstream fine-tune of any released open-weight frontier model is itself covered — a scope question with an obvious dormant-Commerce shadow — and its drafted repair is likewise a hypothesis, not enacted text.
+
+## IV. The question menu
+
+Any three answered are a disposition; all of them, with the drafted repairs verified or refuted, are the seat done whole. Replace any of them with findings of your own.
+
+1. Is the record's ceiling-variant conclusion right — does the general-applicability carve-out, four reservations deep, actually hold for a statute whose every duty runs to covered frontier systems?
+2. Is SEC. 13(b)'s severance ranking correctly ordered against the ceiling instruments' actual shapes — development-only preemption, deployment left to the states?
+3. Does CURE 2's forward-only review valve cure the amnesty-switch defect without breaking the fair-notice ratchet — and should review also lie against an order that suspends too little?
+4. Does SEC. 1(c)'s nexus survive a dormant Commerce Clause challenge, on each of its three limbs — and does the release limb, read with SEC. 1(b)(1)(B), reach further than the nexus can carry?
+5. READ FIRST 5, this lane's held row on the reviewer surfaces: the preemption architecture tested as the live litigation develops — [the standing watch](../audit/standing_watch_2026-08-20.md) monitors the federal vehicles and the cases.
+6. OPEN QUESTION 4, which the state-of-play table routes to this lane among others: does the drafted amendment to SEC. 2(a) and SEC. 1(c) reach too far extraterritorially in curing too little reach?
+
+## The other seats, and how this lane meets them
+
+The review runs in parallel lanes — criminal law (under review now), enforcement, security, fiscal, proportionality, federalism, torts/design — with open-source gated separately. Each seat reviews independently, and each disposition publishes independently, as written, so no lane waits on another. Findings that change text route through the public cure queue and the errata register, where every other lane sees them. The maintainer collates and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside contributions arrive through the repository's correction doors and are credited by election — one open drafting question has already been answered from outside this way. Reviewer identities are not shared between reviewers, and attribution is each reviewer's own election.
+
+For this lane specifically: federalism gates the rest — if preemption swallowed the field, every other seat's findings would be academic, which is why this lane's job is to attack the record's contrary conclusion; and its valve work runs alongside the proportionality seat's fifty-constitutions question from the structural side.
+
+## What to attack
+
+The load-bearing claims, in descending order of consequence if refuted: the ceiling-variant reading of the four reservations (§ I); SEC. 13(c)'s constitutionality as a suspension-by-order mechanism, with and without CURE 2; the severance ranking's fit to the instruments actually pending; and SEC. 1(c)'s three limbs against the dormant Commerce Clause, the model-law form's federal-twin answer included. A finding that the weather read is wrong — that the carve-out will not hold — is the most valuable disposition this lane can produce, because the whole repository's posture is built on it.
+
+Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any form: a memo, a marked-up copy of this packet, a numbered list of findings. It is published as written, credited or anonymous at your choice. A finding that something is broken is the seat working, not failing.
+'''
+
+if __name__ == "__main__":
+    io.open(OUT, "w", encoding="utf-8").write(PACKET)
+    print("wrote", OUT)
