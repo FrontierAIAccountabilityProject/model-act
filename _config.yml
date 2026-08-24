@@ -29,10 +29,14 @@ aux_links:
     - "https://github.com/FrontierAIAccountabilityProject/model-act"
 footer_content: "Public domain (CC0) · v3.4 tagged, checksums in the ledger · This site mirrors the repository; the repository is the authoritative record."
 
-# The sidebar is a curated reading order, ten entries, not a directory listing:
-# the reviewer page, the packets, the long documents, the glossary, the map.
+# The sidebar is a curated reading order, nine entries, not a directory listing:
+# the reviewer page, the review packets, the long documents, the glossary, the map.
 # Everything else stays one search or one link away. Each entry is named by exact
 # path — the matcher takes whole paths, not prefixes.
+#
+# The packets are the one nested entry: "The review packets" carries the index page
+# and every lane packet hangs beneath it as a child, so a fifth lane costs a click
+# rather than a chapter. Children are matched to the parent by its exact title.
 defaults:
   - scope:
       path: ""
@@ -43,31 +47,37 @@ defaults:
     values: { nav_exclude: false, nav_order: 1, title: "For reviewers" }
   - scope:
       path: "packets/README.md"
-    values: { nav_exclude: false, nav_order: 2, title: "The packets" }
+    values: { nav_exclude: false, nav_order: 2, title: "The review packets", has_children: true }
   - scope:
       path: "packets/criminal_law.md"
-    values: { nav_exclude: false, nav_order: 3, title: "The criminal-law packet" }
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 1, title: "Criminal law" }
+  - scope:
+      path: "packets/enforcement.md"
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 2, title: "Enforcement and prosecution" }
+  - scope:
+      path: "packets/security.md"
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 3, title: "Frontier security" }
   - scope:
       path: "docs/the_case.md"
-    values: { nav_exclude: false, nav_order: 4, title: "The case" }
+    values: { nav_exclude: false, nav_order: 3, title: "The case" }
   - scope:
       path: "docs/the_statute_translated.md"
-    values: { nav_exclude: false, nav_order: 5, title: "The statute, translated" }
+    values: { nav_exclude: false, nav_order: 4, title: "The statute, translated" }
   - scope:
       path: "docs/questions.md"
-    values: { nav_exclude: false, nav_order: 6, title: "Questions and answers" }
+    values: { nav_exclude: false, nav_order: 5, title: "Questions and answers" }
   - scope:
       path: "docs/the_definition.md"
-    values: { nav_exclude: false, nav_order: 7, title: "Two definitions of \"frontier\"" }
+    values: { nav_exclude: false, nav_order: 6, title: "Two definitions of \"frontier\"" }
   - scope:
       path: "docs/known_objections.md"
-    values: { nav_exclude: false, nav_order: 8, title: "Known objections" }
+    values: { nav_exclude: false, nav_order: 7, title: "Known objections" }
   - scope:
       path: "standards/what_these_words_mean.md"
-    values: { nav_exclude: false, nav_order: 9, title: "The glossary — what these words mean" }
+    values: { nav_exclude: false, nav_order: 8, title: "The glossary — what these words mean" }
   - scope:
       path: "MAP.md"
-    values: { nav_exclude: false, nav_order: 10, title: "Everything — the full index" }
+    values: { nav_exclude: false, nav_order: 9, title: "Everything — the full index" }
   - scope:
       path: "archive"         # superseded versions: reachable by link, never by search
     values:
