@@ -266,7 +266,7 @@ short and worth ten minutes.
 
 ## The other seats, and how this lane meets them
 
-The review runs in parallel lanes — criminal law (under review now), enforcement, security,
+The review runs in parallel lanes — criminal law, enforcement, security,
 fiscal, proportionality, federalism, torts/design, with open-source gated separately. Each seat
 reviews independently, and each disposition publishes independently, as written, so no lane waits
 on another. Findings that change text route through the public cure queue and the errata register,
