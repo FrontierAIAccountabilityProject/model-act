@@ -341,7 +341,7 @@ protection individual researchers have asked for and never had.**
 **[the same conduct, prosecuted](./standards/the_same_conduct.md)**. *The statutory text behind the
 table above:* [already a crime, if you are a person](./standards/already_a_crime_for_you.md).*
 
-**Four facts to have before anything else here:**
+**Five facts to have before anything else here:**
 
 - **"Frontier" means expensive, not unmapped.** Every enacted statute defines it by compute — above
   10²⁶ operations, or over \$100,000,000 of it in the pending federal bill. It is a **priced tier**,
@@ -351,6 +351,10 @@ table above:* [already a crime, if you are a person](./standards/already_a_crime
 - **Every offence this Act creates is already a crime for ordinary people**, most with heavier
   maximum penalties, one with no intent requirement at all.
 - **Enacted frontier law requires exactly one human signature, and it belongs to the auditor.**
+- **The field's own forecasters put the modal year for transformative capability inside this
+  decade, with months between the late milestones** — and their verification engineering says
+  the compute this Act counts can actually be counted. The worked mathematics, graded and
+  sourced: [the forecasters' arithmetic](./research/forecast_arithmetic.md).
 
 **If you read one supporting file first, read that glossary.** It sets out what a model, an
 algorithm, an agent and a frontier model literally are; what they can actually do; and how each is
