@@ -1,17 +1,19 @@
-// Statute — the site's one color scheme, kept deliberately plain: white page, neutral
-// spruce — the exact complement of law-report maroon — spent almost entirely on links. No second accent, no decoration: the register
-// of law-report and legislative-counsel printing, not of a product page.
+// Statute — the site's one color scheme, evolved 24 Aug 2026: the register warmed to the
+// law-report page. The reading surface goes from screen-white to paper; the accent comes
+// home from spruce to law-report maroon itself (the spruce was chosen as its complement);
+// the apparatus margin takes a cream one step deeper than the page. One accent, no
+// decoration: legislative-counsel printing, not a product page.
 @import "./color_schemes/light";
 
-$body-background-color: #ffffff; // the reading surface is white — ink on the printed page
-$body-text-color: #141519;       // ink: near-black, one step darker for authority
-$body-heading-color: #141519;
-$link-color: #1f6a5b;            // spruce — the exact complement of law-report maroon, darkened one step for contrast
-$btn-primary-color: #1f6a5b;
-$sidebar-color: #fafafa;         // the apparatus margin: neutral grey, no warmth
-$border-color: #e4e4e4;        // hairlines, not boxes
-$search-background-color: #ffffff;
-$search-result-preview-color: #57606a;
-$table-background-color: #ffffff;
-$code-background-color: #f6f6f6; // statute blocks and the file tree
-$feedback-color: #f0f0f0;
+$body-background-color: #fbf8f1; // paper — the long-reading surface
+$body-text-color: #191613;       // warm near-black ink
+$body-heading-color: #191613;
+$link-color: #5c1f1c;            // law-report maroon — links, and nothing else
+$btn-primary-color: #5c1f1c;
+$sidebar-color: #f3eee2;         // the apparatus margin: cream, one step deeper than the page
+$border-color: #ddd5c5;          // hairlines, not boxes
+$search-background-color: #fffdf8;
+$search-result-preview-color: #5a544a;
+$table-background-color: #fbf8f1;
+$code-background-color: #f2ede0; // statute blocks and the file tree
+$feedback-color: #efe9db;

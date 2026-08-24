@@ -3,6 +3,20 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026 — the register lands, through the preview gate.** No change
+to any tagged text, fact, or row; two stylesheet files and one meta tag. The reading surface
+goes from screen-white to paper under warm near-black ink; the body text moves to the serif of
+the law reports (system faces only — no webfont requests); the accent comes home from spruce to
+the law-report maroon it was chosen as the complement of; the sidebar becomes a cream apparatus
+margin with the reading order numbered §1–§10 and a maroon rail on the current page; every page
+title carries the reports' double rule; table headers take a small-caps sans over a firm ink
+rule; the repository link is dressed as the stamp it is. Unlike the reverted attempt earlier
+today, this change shipped only after rendered previews of the compiled stylesheet were
+approved by the maintainer, per the runbook's new rule; the stylesheet compiles clean against
+the pinned theme, verified before commit. No README markup, nothing the repository landing page
+can mangle. Twelve rows untouched in both stated places; nav remains the ten exact paths; the
+theme stays pinned.
+
 **Between versions — 24 August 2026, tenth intake — the cross-cascade: what the two readings
 change everywhere else.** No change to any tagged text. Five argument files now carry what the
 paired-primary readings established, each as a link to the owning page rather than a restated
