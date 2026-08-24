@@ -468,3 +468,19 @@ inoculation structure, the section's conclusion may need to be rewritten rather 
 Retrieval item 42 opens for the enacted text and is graded ahead of the C-band canon; the errata
 register takes an entry if the published section proves to have mis-described an enacted statute.
 Recorded now, before the next reviewer reads the page.
+
+*Same evening, hardened.* The Connecticut General Assembly's own bill-history record for
+Substitute for S.B. No. 2 (Session Year 2025) is now in the library, so the death of the bill is
+**primary, not tracker-sourced**: the Senate adopted Amendment Schedules A (LCO-8540) and B
+(LCO-8554) and passed the bill as amended on **14 May 2025**; it was tabled for the House calendar
+on 16 May 2025 as **House Calendar Number 599** — and the official history ends there. No House
+vote, no further action. The same record fixes the bill's identity for citation: introduced by the
+General Law Committee on 8 January 2025, joint favourable substitute 21 March, reported through
+Judiciary (6 May) and Appropriations (12 May), File No. 603, Senate Calendar 328, forty-eight
+co-sponsors led in the Senate by Sen. Maroney. Its stated purpose ran to ten heads — among them a
+regulatory sandbox at the Department of Economic and Community Development, a Connecticut AI
+Academy, a technology advisory board, a fellowship, a task force, duties on state agencies as to
+generative systems, and a prohibition on disseminating certain synthetic images. What the document
+does **not** contain is the operative text, so the section numbers our half-statute page cites are
+still unverified against any instrument, and item 42 stands unchanged: the enacted 2026 act, and
+the 2025 bill text as passed, both still to be read.
