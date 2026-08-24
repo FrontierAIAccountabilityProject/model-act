@@ -3,7 +3,9 @@
 
 ## Part II — The changelog
 
-**Between versions — 24 August 2026, evening intake — the read-through lands.** No change to any
+**Between versions — 24 August 2026, third intake — the assistant objection, the freight words, and the dated record.** No change to any tagged text. Known objections gains "It shouldn't target AI companies" — the objection AI assistants generate for reviewers who ask one, decomposed into its four precise forms and answered from the Act's own architecture. The glossary's freight-words section gains *emergent — and "malicious, emergent"* (the technical sense honoured; the recorded pairing read closely: malice locates a mind in the system while emergence removes the person from the origin) and *machine intelligence* (register, not category), with a cross-reference from house language § 10b. The front page gains **The record, dated** — twelve rows, 1943 to the Casar deadline, each owned by the file it links — with the expanded, sourced version at the new `docs/timeline.md`. House language: a stray first name in § 10 replaced with "the maintainer" (privacy hygiene; the history question is logged, not hidden). Housekeeping: `.gitignore` added for `.DS_Store`.
+
+**Between versions — 24 August 2026, second intake — the read-through lands.** No change to any
 tagged text. Two congressional transcripts and a Congressional Record page, read in full, entered
 at their owners: why-the-disparity gained its under-oath section (the asymmetry conceded by
 Doshi; the CTA's compliance-removes-liability ask; Turner Lee's state-side answer); the known

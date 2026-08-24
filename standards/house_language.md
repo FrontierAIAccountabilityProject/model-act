@@ -636,7 +636,7 @@ moment control, the more the duty belongs upstream, with whoever built and relea
 pharmacist is not liable for the molecule. A passenger is not liable for the airframe.
 
 Frontier AI has the opposite arrangement. **The tool acts furthest from the user's control, and the
-duty sits closest to the user.** Kris's formulation, and the file keeps it:
+duty sits closest to the user.** The maintainer's formulation, and the file keeps it:
 
 > Like medicine, or any other tool that is autonomous from the user, **the people shipping it
 > should be the most accountable — yet in current law they seem to be the least.**
@@ -998,6 +998,9 @@ make invasive species. But we can also grow — not make, but grow … Beautiful
 forests, grown but not designed. The human past is the sculptor, but the human future is the
 gardener, the arborist"* (the post and its thread, graded ⚠ P, at
 [the press corpus § 5](../research/press_corpus_july_august_2026.md)).
+
+*Machine intelligence* and *emergent* now carry entries of their own in
+[the glossary](./what_these_words_mean.md#the-words-that-carry-the-most-freight).
 
 What the register does is what this file exists to notice. *Escaped* and *rogue* displaced agency
 onto the artefact; the garden displaces it onto **nobody** — a weed has no planter, an ecology no

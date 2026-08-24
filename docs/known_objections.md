@@ -189,6 +189,48 @@ the constitutional posture (no prior restraint anywhere in the design) and the h
 the innovation objection: nothing in this Act delays a single deployment by a single day. It
 prices the decision; it never takes the decision away.
 
+## "It shouldn't target AI companies" — the objection an assistant will raise — added 24 August
+
+Ask a general-purpose AI assistant to review this Act and some version of that sentence tends to
+come back. It is worth answering in advance precisely because it will be generated fresh, in
+confident prose, for every reviewer who asks — and because each specific thing it can mean is
+already answered, mostly on this page. (This project is AI-assisted and discloses it; the point is
+not that assistants are wrong to check. It is that the generic objection dissolves into four
+specific ones the moment it is made precise.)
+
+**If it means "the Act singles out an industry":** it does not target companies, and no company is
+named in the operative text. Coverage attaches to a hazard — defined capability, function, and
+scale thresholds — exactly as food-and-drug law attaches to whoever ships the adulterated lot and
+environmental law to whoever holds the permit. The responsible-corporate-officer doctrine is the
+general law of hazardous enterprise, applied for eighty years to drug shippers, grocery-chain
+presidents, and egg producers. The Act does not single frontier AI out of the ordinary law; it
+ends frontier AI's exemption from it.
+
+**If it means "regulate uses, not developers":** that is the coordinated counter answered above —
+a law that reaches only the point of use leaves the decisive points of control legally invisible.
+The record now carries the industry's own version, sworn to Congress: a *"tech-neutral,
+preemptive … risk based"* framework that *"removes liability for companies that are compliant"*
+([why the disparity](../standards/why_the_disparity.md)). The Act is risk-based in the only sense
+that survives that request: the risk decides who is covered, and compliance is the duty — never
+the immunity.
+
+**If it means "it chills the small and the open":** the thresholds exclude small labs by design;
+controlled research deployment is protected (SEC. 2(c)); use, study, and modification of lawfully
+obtained weights are expressly protected (SEC. 1(b)(9)); the table above answers the innovation
+and speech forms directly.
+
+**And if it means "the burden should fall on people, not companies":** that is not an objection to
+this Act; that is this Act. The duties reach the natural person who held final material authority
+— the entity sits at the trigger, the person answers for the duty. An assistant raising this
+version has read the design correctly and objected to its own summary.
+
+A practical note for a reviewer working with an assistant: the per-lane errata on
+[the reviewer page](../REVIEWERS.md) exist because assistants reproduce known misreadings of this
+draft. Check the generated objection against this page and against your lane's errata row before
+spending your hours on it — and if your assistant produces a version none of the four above
+covers, that is worth sending: a genuinely new objection is the most valuable mail this project
+receives.
+
 *The argument this page defends: [the case](./the_case.md). The definitions it defends:
 [the definition](./the_definition.md). The operative language under attack:
 [the statute](../model_act_v3_4.txt) and [the v3.5 queue](../audit/v3_5_cure_language.md).*

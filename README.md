@@ -27,12 +27,32 @@ an owner, and the law's whole job is to know the owner's name before the next on
 law already does when the escaped thing is a worm, a weed, or a pathogen:
 [the same conduct, prosecuted](./standards/the_same_conduct.md#when-the-escaped-thing-was-the-crime).
 
+## The record, dated
+
+| Date | The record |
+|---|---|
+| **1943** | *United States v. Dotterweich* — the Supreme Court places the duty on the person "standing in responsible relation to a public danger" ([the case](./docs/the_case.md)). |
+| **1975** | *United States v. Park* — the doctrine holds for the modern corporation: authority, not signature, decides who answers ([the case](./docs/the_case.md)). |
+| **1 Apr 2025** | "What is Elon Musk doing with our data?" — AI running on federal data reaches the House floor, with a resolution of inquiry ([the watch](./audit/standing_watch_2026-08-20.md)). |
+| **17 Sep 2025** | House Oversight, sworn: task horizons doubling every four to seven months — and the industry asks Congress for a ten-year pause on state AI enforcement and a framework that *"removes liability for companies that are compliant"* ([why the disparity](./standards/why_the_disparity.md)). |
+| **9 Feb 2026** | Six senators write to the Secretary of Defense on Grok and Department data ([the watch](./audit/standing_watch_2026-08-20.md)). |
+| **23 Feb 2026** | Anthropic publishes *Detecting and Preventing Distillation Attacks*; the Pentagon–xAI classified-systems deal is reported the same day ([known objections](./docs/known_objections.md)). |
+| **17 Mar 2026** | House Homeland Security takes sworn testimony on deception-based access to American models at industrial scale ([known objections](./docs/known_objections.md)). |
+| **4 May 2026** | A state fiscal office prices an AI act: Colorado — $100,403 general fund, 0.8 FTE ([the fiscal note](./standards/fiscal_note.md)). |
+| **Jul–Aug 2026** | The escape season: the Hugging Face intrusion — disclosed first by the victim — and agents misbehaving in the wild ([the press corpus](./research/press_corpus_july_august_2026.md)). |
+| **3 Aug 2026** | Fifteen state attorneys general serve OpenAI with a preservation demand ([the enforcement record](./research/state_enforcement_record_2026.md)). |
+| **8 Aug 2026** | *"Yes, we accidentally made a weed"* — a senior officer of the developer, on the record ([the press corpus](./research/press_corpus_july_august_2026.md)). |
+| **10–24 Aug 2026** | Seventeen congressional questions to Anthropic; the deadline passes with no public answer found ([the watch](./audit/standing_watch_2026-08-20.md)). |
+
+*Every row with its sources, plus the rows that did not fit: **[the dated record](./docs/timeline.md)**.*
+
 ---
 
 ## What is on this page
 
 *The front page is the book's spine, and it is long on purpose. In order:*
 
+- [The record, dated](#the-record-dated) — twelve rows, each owned by the file it links; expanded at [the dated record](./docs/timeline.md).
 - [Two definitions of "frontier"](#two-definitions-of-frontier) — the coverage architecture: system + activity + control, and the twelve-company table.
 - [Two sentences a government already wrote down](#two-sentences-a-government-already-wrote-down) — the UK's own evidence for a named responsible officer.
 - [In one paragraph](#in-one-paragraph) — the whole Act, precisely, with the interpretive key beneath it.

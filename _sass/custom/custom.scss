@@ -137,3 +137,9 @@ html {
 .site-nav .nav-list-link:hover {
   background: #efede7;
 }
+
+// The dated record — rail on the expanded timeline page
+.timeline dl { border-left: 2px solid #e4e4e4; padding-left: 1.4rem; margin: 1rem 0 0 0.2rem; }
+.timeline dt { font-weight: 600; font-variant-numeric: tabular-nums; margin-top: 0.9rem; position: relative; }
+.timeline dt::before { content: ""; position: absolute; left: calc(-1.4rem - 5px); top: 0.42em; width: 8px; height: 8px; border-radius: 50%; background: #1f6a5b; }
+.timeline dd { margin: 0.1rem 0 0.4rem 0; }

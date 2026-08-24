@@ -96,10 +96,34 @@ aspiration and a fundraising term**, and a drafter should treat it as unusable i
 **Alignment is defined relative to the developer's goals**, not the public's — which is precisely
 why it is a matter for a legislature and not only for engineers.
 
+**Emergent — and "malicious, emergent."** In the technical literature, *emergent* describes a
+capability that appears at scale without having been individually engineered — nobody wrote the
+rule; the fitted numbers turned out to contain the behaviour. The literature itself disputes how
+sharp these emergences really are, and the word does honest work when it describes **how a
+capability arose**. It does no work at all on **who deployed it**. The recorded use to study: a
+senior developer officer describing the July incident as *"a malicious, emergent digital ecology"*
+([the record](../research/press_corpus_july_august_2026.md)). Read the two adjectives together:
+*malicious* locates a mind in the system — which the legal words below explain no statute can
+reach — and *emergent* removes the person from the origin. The pairing concedes the harm while
+placing both intent and authorship beyond anyone the law could name. The front page's answer is
+the right one for a drafter: in 2010, nobody asked whether the salmonella was an emergent ecology.
+Emergence describes the system. Training, evaluating, releasing, and deploying are acts — and acts
+have actors.
+
 **Hallucination.** Confident false output. **The word is itself an example of what
 [house language](./house_language.md) warns about** — hallucination is something a mind does.
 *Confabulation* is closer, and *"the system produced a false statement"* is closest, because it
 leaves room for the question of who is answerable for it.
+
+**Machine intelligence.** The field's oldest name for itself — the term of Turing's generation,
+older than *artificial intelligence* — and, like "AI" in the table above, a phrase with no
+statutory definition anywhere. In current use it is a register rather than a category: *"digital
+ecologies of machine intelligence"* ([the record](../research/press_corpus_july_august_2026.md))
+reads as a description of nature, not of a product. *Intelligence* is the freight — it grants the
+system the one thing the legal words below explain it cannot hold, a mind — and *ecology*
+completes the move by recasting the builders as naturalists who found the thing growing. For a
+drafter it behaves exactly like "AI": undefined, unmeasurable, doing its work by connotation. The
+compute threshold exists so that no statute ever has to decide what intelligence is.
 
 **"AI psychosis."** ⚠ **Slang, not a clinical term, and recorded here only as a usage.** It is used
 jokingly about people — sometimes very wealthy ones — who speak about these systems as conscious,
