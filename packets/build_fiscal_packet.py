@@ -80,7 +80,7 @@ Any three answered are a disposition; all of them, with the sweep's six findings
 3. **The Attorney General line** — contingency figure or reasoned non-quantification?
 4. **The paywall exposure and the fund election** (note §§ 5–6) — stated line or conditional note; and should the appropriated-to-Agency election carry a drafting warning of the SEC. 11 interaction?
 5. **Should CURE 7 be sequenced to v4 on administrability grounds**, as the sweep's fiscal lane recommends and the maintainer has not accepted?
-6. **Comparator selection** — whether any of the CA/NY/IL siblings carried a published fiscal note, and what it assumed; the note's § 7 judges pinning one "worth more than refining the brackets."
+6. **Comparator fit** — the note's § 7 judges pinning an enacted sibling's published fiscal note "worth more than refining the brackets." Is that judgment right — and when the sibling notes are in hand (locating them is the project's own retrieval job, queued, not yours), which of a civil disclosure regime's costing assumptions would *not* transfer to a criminal-enforcement act, and what would you demand in their place?"
 
 ## The other seats, and how this lane meets them
 

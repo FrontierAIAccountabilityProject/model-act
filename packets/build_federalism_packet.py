@@ -67,7 +67,7 @@ Any three answered are a disposition; all of them, with the drafted repairs veri
 2. Is SEC. 13(b)'s severance ranking correctly ordered against the ceiling instruments' actual shapes — development-only preemption, deployment left to the states?
 3. Does CURE 2's forward-only review valve cure the amnesty-switch defect without breaking the fair-notice ratchet — and should review also lie against an order that suspends too little?
 4. Does SEC. 1(c)'s nexus survive a dormant Commerce Clause challenge, on each of its three limbs — and does the release limb, read with SEC. 1(b)(1)(B), reach further than the nexus can carry?
-5. READ FIRST 5, this lane's held row on the reviewer surfaces: the preemption architecture tested as the live litigation develops — [the standing watch](../audit/standing_watch_2026-08-20.md) monitors the federal vehicles and the cases.
+5. The live-litigation stress test (READ FIRST 5, this lane's held row): taking the cases and federal vehicles [the standing watch](../audit/standing_watch_2026-08-20.md) monitors at their strongest for preemption, which of SEC. 13(c)(2)'s directions fails first — and does the drafted valve save it, or does the Act need to say now how it bends?
 6. OPEN QUESTION 4, which the state-of-play table routes to this lane among others: does the drafted amendment to SEC. 2(a) and SEC. 1(c) reach too far extraterritorially in curing too little reach?
 
 ## The other seats, and how this lane meets them

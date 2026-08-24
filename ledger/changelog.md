@@ -3,6 +3,18 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026 — the menus audited: no reviewer does the project's
+homework.** No change to any tagged text. Every packet's question menu was tested against one
+rule — a question a reviewer's seat is asked to answer must not be answerable by easy research
+or by files the project already holds. Five menus passed whole (the criminal packet untouched
+under review; enforcement, security, proportionality, torts/design clean). Two questions failed
+and are rephrased through their builders and regenerated: the fiscal comparator question no
+longer asks the seat to locate the sibling states' fiscal notes — locating them is the
+project's own retrieval job, now queued — and asks instead which of a civil disclosure regime's
+costing assumptions would not transfer to a criminal-enforcement act; and the federalism
+live-litigation row becomes a real question — which of SEC. 13(c)(2)'s directions fails first
+on the monitored cases' strongest preemption reading, and does the drafted valve save it.
+
 **Between versions — 24 August 2026 — the seventh packet: torts and design, the boundary
 lane.** No change to any tagged text. The lane the sweep never swept gets its packet: criminal
 beside civil with neither collapsing into the other; the SEC. 7(b) insurance bar walked valve by
