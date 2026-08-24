@@ -64,6 +64,9 @@ defaults:
       path: "packets/federalism.md"
     values: { nav_exclude: false, parent: "The review packets", nav_order: 5, title: "Federalism and preemption" }
   - scope:
+      path: "packets/proportionality.md"
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 6, title: "Proportionality and sentencing" }
+  - scope:
       path: "docs/the_case.md"
     values: { nav_exclude: false, nav_order: 3, title: "The case" }
   - scope:

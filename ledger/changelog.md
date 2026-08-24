@@ -3,6 +3,15 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026 — the sixth packet: proportionality and sentencing.** No
+change to any tagged text. The lane's centre is presented as what it is — the statute's own held
+question, READ FIRST item 4, the sentencing valve against fifty state proportionality clauses —
+with the harm tier's borrowed federal geometry walked, the bracketed minimum's suspended-sentence
+problem put plainly, the announced-maxima record offered as a grading question, and the
+deterrence arithmetic carried ⚠ forecast-grade. CUREs 1 and 12 presented as verifiable repairs,
+expressly not enacted. Assembled directly; builder to follow. The shelf stands at six of seven
+lanes; torts/design remains, open-source gated.
+
 **Between versions — 24 August 2026 — two more packets: the fiscal lane and the federalism
 lane.** No change to any tagged text. The packet shelf goes from three lanes to five in one
 day. Fiscal: the note's own rules enforced against it — the sweep's six findings put to the

@@ -27,7 +27,12 @@ Built so far:
   (four reservations on record), SEC. 13's design and its drafted valve, the SEC. 1(c) nexus
   against the Commerce Clause. Assembled directly on 24 August; builder to follow.
 
-The remaining lanes (open source and academia; the sweep's proportionality and torts/design
-lanes) follow the same pattern. The lane definitions live on
+- [Proportionality and sentencing](./proportionality.md) — the harm tier's federal geometry,
+  the bracketed minimum, the sentencing valve presented as the statute's own held question, the
+  announced-maxima record, and the deterrence arithmetic (⚠ forecast-grade). Assembled directly
+  on 24 August; builder to follow.
+
+The remaining lanes (open source and academia; the sweep's torts/design lane) follow the same
+pattern. The lane definitions live on
 [the reviewer page](../REVIEWERS.md); the statute itself is never reproduced in a packet — the
 tagged text and its print copy are the statute's only homes.
