@@ -3,6 +3,17 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026 — the reviewer page catches up with its own shelf (logged
+freeze exemption).** The reviewer surfaces are frozen until the criminal-law call; this entry
+records the one exemption taken, and its bounds: two factual-currency edits to REVIEWERS.md,
+neither touching the ask, the terms, the lane tables, or anything the engaged reviewer holds.
+The path gains, at its head, what it omitted: six lanes now have a single-page packet — the
+path itself in printable form — with the sources winning wherever they differ. And the packet
+paragraph goes from three lanes to six with links, noting plainly that the federalism and
+proportionality packets serve question clusters the page routes through the existing seats.
+The full wiring — packet pointer rows in each lane table, and the seat-structure decision the
+new packets pose — waits at the freeze door as before.
+
 **Between versions — 24 August 2026 — every packet gets its builder; the rule becomes
 enforceable.** No change to any tagged text. The packets index promised "never edited by hand;
 regenerated" while three rows said "builder to follow" — a rule and its violation on one page.
