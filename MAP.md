@@ -158,6 +158,15 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
 | [`docs/questions.md`](./docs/questions.md) | The doctrinal question ladder — the lawyer-and-machine register. (The plain-language register is dossier chapter 05, sealed.) | live |
 | `docs/01-` … `docs/09-` | Retired paths from the pre-consolidation arrangement. | signpost |
 
+## The review packets — `packets/`
+
+| File | Owns | Status |
+|---|---|---|
+| [`packets/README.md`](./packets/README.md) | **What a packet is and the rule that governs all of them** — a script-assembled reading copy per lane, never hand-edited; if a packet and a source differ, the source is right. | live |
+| [`packets/criminal_law.md`](./packets/criminal_law.md) | The criminal-law seat's whole apparatus on one page, by committed builder. **Owns nothing** — every section is reproduced from the sweep, the queue and the register, which stay the authority. | derived |
+| [`packets/enforcement.md`](./packets/enforcement.md) | The enforcement-and-prosecution seat's apparatus on one page, OPEN QUESTION 4 first. Same rule: derived, owns nothing. | derived |
+| [`packets/security.md`](./packets/security.md) | The frontier-security seat's apparatus on one page — the lane with nothing drafted, so the packet carries the findings, Part 6 whole, and the federal comparator. Derived, owns nothing. | derived |
+
 ## The evidence base — `research/`
 
 | File | Owns | Status |

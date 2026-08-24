@@ -75,6 +75,9 @@ lane can be read, printed, and marked up as one document. If this page and a sou
 source is right and the difference is a defect worth reporting to
 FrontierAIAccountabilityProject@proton.me.*
 
+*Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
+[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
+
 ## The ask
 
 One seat, one lane, scope in writing before work begins. Unpaid. **The floor:** the regulations

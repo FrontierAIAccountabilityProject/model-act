@@ -83,6 +83,42 @@ defaults:
     values:
       search_exclude: true
   - scope:
+      path: "docs/01-the-problem.md"     # retired signpost: the link lands, search should not
+    values:
+      search_exclude: true
+  - scope:
+      path: "docs/02-the-precedents.md"     # retired signpost: the link lands, search should not
+    values:
+      search_exclude: true
+  - scope:
+      path: "docs/03-whats-in-the-act.md"     # retired signpost: the link lands, search should not
+    values:
+      search_exclude: true
+  - scope:
+      path: "docs/04-how-to-hand-over-a-bill.md"     # retired signpost: the link lands, search should not
+    values:
+      search_exclude: true
+  - scope:
+      path: "docs/05-where-and-when.md"     # retired signpost: the link lands, search should not
+    values:
+      search_exclude: true
+  - scope:
+      path: "docs/06-track-record.md"     # retired signpost: the link lands, search should not
+    values:
+      search_exclude: true
+  - scope:
+      path: "docs/07-context-timeline.md"     # retired signpost: the link lands, search should not
+    values:
+      search_exclude: true
+  - scope:
+      path: "docs/08-behind-the-scenes.md"     # retired signpost: the link lands, search should not
+    values:
+      search_exclude: true
+  - scope:
+      path: "docs/09-the-government-caught-one.md"     # retired signpost: the link lands, search should not
+    values:
+      search_exclude: true
+  - scope:
       path: "audit/record.md" # the 364KB frozen record would drown the search index
     values:
       search_exclude: true
