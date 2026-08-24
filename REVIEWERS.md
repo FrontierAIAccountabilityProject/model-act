@@ -77,12 +77,13 @@ not trust us.
 
 ## The path — the six to eight hours
 
-*Prefer paper, or one document? Seven lanes have a **packet** — this whole path, inlined in your
-lane's reading order on a single page, built by committed script: [the packets
-index](./packets/index.md)*  
+**Already know your seat? Prefer paper?:** seven lanes have a
+**[single-page packet](./packets/index.md)** — this whole page's path, inlined in your lane's
+reading order, built by committed script. The packet is the same journey as one
+document.
 
 Print it, mark it up, send the marked copy back; the steps below
-are the same journey through the live files, and the sources always win where they differ.*
+are the same journey through the live files, and the sources always win where they differ.
 
 **0 · The front page.** [README](./README.md) — the argument in one paragraph, the coverage
 table, and the status block that names the known defects first; the guide at its top maps the
