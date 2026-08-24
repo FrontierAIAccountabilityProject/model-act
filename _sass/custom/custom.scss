@@ -229,3 +229,15 @@ html {
     padding-right: 1.4rem;
   }
 }
+
+
+// The packets entry is a shelf, and the door should look like one.
+.site-nav .nav-list-expander {
+  color: $maroon;
+  width: 2.4rem;
+  height: 2.4rem;
+}
+.site-nav .nav-list-item .nav-list-expander:hover {
+  background: transparent;
+  color: $ink;
+}
