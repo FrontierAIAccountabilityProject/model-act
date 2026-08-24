@@ -183,6 +183,11 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 |---|---|---|
 | UK AISI incident report INC-2026-07-28-01 (4 Aug) | **Read in full** | [its own file](./aisi_incident_inc_2026_07_28_01.md) — the record's one government-authored entry |
 | 15-state AG preservation letter (3 Aug) | **Read in full, 23 Aug** (five pages; held privately, outside the repository) | [enforcement record § 3](./state_enforcement_record_2026.md), graded against it |
+| House Homeland Security hearing, *DeepSeek and Unitree Robotics* (Serial 119-42, 17 Mar 2026; GPO transcript) | **Read in full, 24 Aug** | [why the disparity](../standards/why_the_disparity.md) (Doshi); [known objections](../docs/known_objections.md) (the distillation record); census queue |
+| House Oversight hearing, *Shaping Tomorrow: The Future of AI* (Serial 119-49, 17 Sep 2025; GPO transcript) | **Read in full, 24 Aug** | [why the disparity](../standards/why_the_disparity.md) (Fabrizio; Turner Lee); the Clark-timeline retrieval lead |
+| Congressional Record, 1 Apr 2025, H1386 (Stansbury floor statement) | **Read in full, 24 Aug** | [the standing watch](../audit/standing_watch_2026-08-20.md), continuity note |
+| House Oversight hearing, *The Federal Government in the Age of AI* (GPO transcript) | **Held; unread** — queued for the read-through's next block | nothing yet — the rule holds: no reliance before this row changes |
+| Anthropic, *Detecting and Preventing Distillation Attacks* (23 Feb 2026) | **Cited from the hearing record only** — retrieval queued | [known objections](../docs/known_objections.md), identified as the footnoted primary |
 | Hugging Face technical timeline (27–28 Jul) | **Read in full, 22 Aug** — the read was recorded at [press corpus § 7](./press_corpus_july_august_2026.md) (item 5 discharge: the HF posts of 16 and 27 July "read as primaries"), invisible from here until this index existed. Conformed 23 Aug, one day after this table was built: the read existed; only its visibility was broken. | dossier ×3; press corpus timeline (~17,600 attacker actions); the AG letter quotes "more than 17,000" — consistent |
 | OpenAI incident statement (21 Jul) | **Read in full, 22 Aug** — same press corpus § 7 item 5 discharge (OpenAI and Anthropic disclosures "read as primaries") | dossier § disclosure order; enforcement record § 3 (as the letter's own link) |
 | Florida v. OpenAI filed complaint (1 Jun) | **Excerpt only** — full read gates any further quotation | [enforcement record § 1](./state_enforcement_record_2026.md) |
@@ -239,23 +244,38 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 held in a private library folder. This list exists so the repository knows what the project holds
 without anyone opening the folder. One row per file; read-status lives in the tables above.*
 
+*The library was reorganised on 24 August under a prefixed reference scheme (BILL / ARTICLE /
+REPORT / HEARING / RECORD / LETTER / PRESS / NOTES / EVIDENCE), with an index file inside the
+folder and duplicates quarantined; rows below carry the new names. One defect fixed in the same
+pass: this table listed the Virginia SB 384 substitute twice.*
+
 | Held | What it is |
 |---|---|
-| 15_state_AG_letter_OpenAI_2026-08-03.pdf | The preservation demand, five pages |
-| Employed_Algorithms_Diamantis_72_Duke_LJ_797_2023.pdf | Diamantis, 72 Duke L.J. 797 (2023) |
-| CA SB 53 enrolled (LegiScan PDF) | Primary chaptered text |
-| IL SB 315 enrolled (LegiScan PDF) | Primary enrolled text, P.A. 104-0538 |
-| Connecticut SB 5 chaptered (P.A. 26-15) | Primary chaptered text |
-| US Congress H.R. 8094 introduced (PDF) | Federal compute-threshold bill, primary |
-| Virginia SB 384 committee substitute (28 Jan 2026) | Senate-side IVO architecture (the enacted vehicle was HB 797 — distinct) |
-| S1792_AI_Whistleblower_Protection_Act_119th…xml | Primary bill XML, public domain |
-| One evidence image (withheld from description here) | Evidentiary artefact of the AISI incident's fake persona; never for publication |
-| Lyness, *Revitalizing the State Environmental RCO Doctrine* (64 B.C. L. Rev. 253) | The federal and state doctrine survey |
-| Hustis & Gotanda, *Designated Felon or Legal Fiction?* (25 Loy. U. Chi. L.J. 169) | The 1994 enforcement-wave record |
-| "Enforcement of Federal Pollution Control Laws" (congress.gov PDF) | Unread; shelf only |
-| DLA Piper, *AI Laws of the World* (full handbook) | Unread; shelf only |
-| Binns, "Algorithmic Accountability and Public Reason" | Unread; shelf only |
-| VA SB 384 committee substitute (28 Jan 2026) | Senate-side IVO draft (enacted vehicle was HB 797) |
+| LETTER_15-State-AG_OpenAI-preservation_2026-08-03.pdf | The preservation demand, five pages |
+| LETTER_Casar-Khanna-to-Anthropic_2026-08-10 (primary PDF + ⚠ R extract) | The seventeen-question oversight letter; response was due 24 Aug |
+| LETTER_Warren-to-Hegseth_Grok-classified_2026-03-15 (⚠ R extract; primary URL held) | Grok-in-classified-systems objections |
+| LETTER_Ossoff-plus-5-to-Hegseth_Grok-DoD_2026-02-09 (⚠ R extract; primary URL held) | The six-senator deployment-review letter |
+| ARTICLE_Diamantis_Employed-Algorithms_72-Duke-LJ-797_2023.pdf | Diamantis, 72 Duke L.J. 797 (2023) |
+| ARTICLE_Lyness_State-Environmental-RCO_64-BC-L-Rev-253.pdf | The federal and state doctrine survey |
+| ARTICLE_Hustis-Gotanda_Designated-Felon_25-Loy-U-Chi-LJ-169_1994.pdf | The 1994 enforcement-wave record |
+| ARTICLE_Binns_Algorithmic-Accountability-Public-Reason.pdf | Unread; shelf only |
+| ARTICLE_Approval-Regulation-Frontier-AI_AIES_2024-07.pdf | Carpenter & Ezell (Harvard), identified 24 Aug; unread beyond first page |
+| ARTICLE_Frontier-AI-Regulation-What-Form_Front-Pol-Sci_2025-03-20.pdf | Radanliev (Oxford), identified 24 Aug; open access |
+| BILL_CA-SB53_enrolled_LegiScan.pdf | Primary chaptered text |
+| BILL_IL-SB315_enrolled_PA104-0538_LegiScan.pdf | Primary enrolled text, P.A. 104-0538 |
+| BILL_CT-SB5_chaptered_PA26-15.pdf | Primary chaptered text |
+| BILL_US-HR8094_introduced_2025.pdf | Federal compute-threshold bill, primary |
+| BILL_US-S1792_introduced_2025-05-15.xml | Primary bill XML, public domain |
+| BILL_VA-SB384_committee-substitute_2026-01-28.pdf | Senate-side IVO architecture (the enacted vehicle was HB 797 — distinct); file identified 24 Aug |
+| BILL_TN-SB837-HB849_definitions-extract_2026-08-24_R.md | ⚠ R extract of the personhood definitions; enacted-status unverified; primary retrieval queued |
+| REPORT_CRS_Enforcement-Federal-Pollution-Control-Laws.pdf | Unread; shelf only |
+| REPORT_CRS-IF13151_Agentic-AI-and-Cyberattacks_2026-07-06.pdf | CRS In Focus, identified 24 Aug; unread; HTML edition exists on congress.gov |
+| REPORT_DLA-Piper_AI-Laws-of-the-World_handbook.pdf | Unread; shelf only |
+| HEARING_House_CHRG-119hhrg64201_transcript.pdf | Serial 119-42 (DeepSeek/Unitree), read in full 24 Aug |
+| HEARING_Shaping-Tomorrow-Future-of-AI_congress-gov.pdf | Serial 119-49, read in full 24 Aug |
+| HEARING_Federal-Government-Age-of-AI_congress-gov.pdf | Held; unread — next read-through block |
+| RECORD_Congressional-Record_2025-04-01_H1386.pdf | Read in full 24 Aug |
+| EVIDENCE_aisi-persona-avatar (withheld from description here) | Evidentiary artefact of the AISI incident's fake persona; never for publication |
 
 *Rule, from the incident that created this section: when a file cites an instrument this table does
 not carry, the citation is the defect — add the row before the reliance.*

@@ -297,6 +297,14 @@ The doctrinal line stays where it was: a model's military use inside federal sys
 within a state's reach, designation or no designation; the same model's commercial deployment in
 or into a state is exactly what this Act reaches, and nothing in February's deal touches that.
 
+**Continuity note, same day.** The thread is older than the letters: on 1 April 2025 Rep.
+Stansbury took the House floor to demand *"documentation, names, datasets"* on AI applied to
+federal data, asserting that xAI executives were *"actively operating inside the Federal
+Government"* (Cong. Rec. H1386, read in full). April 2025's floor demand, February and March
+2026's Senate letters, August 2026's Casar–Khanna questions: two years of one unanswered
+question — who reviewed, who could halt, whose data — asked of federal AI deployments by the
+body that funds them.
+
 ---
 
 *Swept 20 August 2026 from primary and secondary sources named in each entry. Where a

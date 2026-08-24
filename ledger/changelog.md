@@ -3,6 +3,20 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026, evening intake — the read-through lands.** No change to any
+tagged text. Two congressional transcripts and a Congressional Record page, read in full, entered
+at their owners: why-the-disparity gained its under-oath section (the asymmetry conceded by
+Doshi; the CTA's compliance-removes-liability ask; Turner Lee's state-side answer); the known
+objections' bloc block gained the March hearing's distillation record, with Anthropic's
+*Detecting and Preventing Distillation Attacks* identified as the footnoted primary and queued
+for retrieval; CURE 16 gained its second documented deception class (the distillation farms,
+beside the AISI sockpuppets); the census queued five bills named in testimony, all to be verified
+against congress.gov before rows are written; the standing watch gained the April 2025 Stansbury
+continuity note; and the verification record's instruments table took read-statuses for the
+transcripts while its shelf conformed to the library's new reference scheme — fixing, in the same
+pass, its own duplicate Virginia row. The third transcript (the Age-of-AI hearing) is held,
+unread, and says so in its row.
+
 **Between versions — 24 August 2026, afternoon intake.** No change to any tagged text. The
 standing watch took deadline-day status on the Casar–Khanna letter (no public response located),
 the February Grok-classified-systems record (the DoD–xAI deal; the Ossoff-plus-five and Warren

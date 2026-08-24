@@ -322,6 +322,39 @@ the restraint corollary: on the one documented voluntary withholding of a fronti
 authority could have compelled that decision … Only a legally binding regime can guarantee such
 restraint as a matter of right rather than goodwill."*
 
+## The record answers, under oath — added 24 August
+
+Two congressional hearings, read in full, now carry the disparity in sworn testimony — the
+asymmetry conceded, the immunity requested, and the state-side answer, all at the same tables.
+
+**The asymmetry, conceded by a proponent of loosening it.** Rush Doshi (Council on Foreign
+Relations; formerly the NSC's China directorate), to House Homeland Security on 17 March 2026:
+*"We currently treat American AI companies, like Anthropic, with more regulatory scrutiny than we
+treat Chinese ones, like DeepSeek."* His remedy runs the other way — restrict the foreign, relieve
+the domestic — but the sentence concedes the frame this file documents: scrutiny is being assigned
+by flag, and the argument is over which direction to level it. This Act's answer is that scrutiny
+follows the risk and the power over it, whoever holds the flag.
+
+**The immunity, requested in terms.** Kinsey Fabrizio, president of the Consumer Technology
+Association, sworn before House Oversight on 17 September 2025: CTA *"has urged Congress to adopt
+a 10-year pause on enforcement of state and local AI laws,"* and the federal framework sought is
+*"tech-neutral,"* *"preemptive,"* *"risk based"* — and *"removes liability for companies that are
+compliant."* The trade association that owns CES asked Congress, under oath, for a design in which
+compliance purchases immunity. That is explanation **L** speaking in its own voice, and it is the
+precise inverse of this Act's rule, under which compliance is the duty and immunity is nobody's to
+purchase.
+
+**The state-side answer, same table.** Nicol Turner Lee (Brookings), the minority witness at the
+same hearing: the rejected moratorium *"would have threatened states' rights and the public
+interest"*; since January, *"over a hundred measures across 38 states have been enacted to law"*;
+and the sentence that prices the whole dispute — *"AGs are trying to figure out ways to keep our
+grandmothers safe from AI. They are not necessarily trying to compete against China."*
+
+*(Sources: House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection,
+Serial 119-42, 17 Mar 2026; House Oversight Subcommittee on Cybersecurity, IT, and Government
+Innovation, Serial 119-49, 17 Sep 2025 — the transcripts, read in full 24 Aug, held in the project library; rows at
+[the verification record § 6](../research/verification_record.md).)*
+
 ## What a drafter should take from twelve explanations
 
 **They do not all imply the same remedy, and that is the useful finding.**

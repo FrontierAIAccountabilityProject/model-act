@@ -1464,6 +1464,19 @@ Act action over a chatbot supplying a fabricated license number
 ([enforcement record § 6](../research/state_enforcement_record_2026.md)). Deception-based
 unauthorization is not a novel theory; it is being enforced.
 
+**To CURE 16, a second documented class — 24 August.** The limb no longer rests on one incident.
+The congressional record now describes deception-based unauthorized access at industrial scale:
+*"proxy networks and fraudulent accounts to farm millions of interactions from American models"*
+and *"networks of unauthorized resellers to circumvent existing safeguards"* (House Homeland
+Security, Serial 119-42, 17 Mar 2026, read in full; the footnoted primary is Anthropic's
+*Detecting and Preventing Distillation Attacks*, 23 Feb 2026 — retrieval queued). Fraudulent
+accounts on a gates-up platform are precisely the conduct the limb's text reaches — "a false
+identity, a fabricated persona, a false statement of fact material to the grant" — and precisely
+what the *Van Buren* policy-violation carve-out leaves untouched. A limb drafted against one
+incident is an anecdote; drafted against two independent classes — the AISI sockpuppets and the
+distillation farms — it is a pattern. The criminal-law seat's question is unchanged; its
+evidentiary base is not.
+
 **To OPEN QUESTION 4 — the Colorado caution supports the tier placement.** Colorado's duty-of-care
 statute was repealed before effect under combined industry and federal litigation pressure (*xAI
 LLC v. Weiser*, the United States intervening; [enforcement record § 6](../research/state_enforcement_record_2026.md)).

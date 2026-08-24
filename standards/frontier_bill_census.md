@@ -921,6 +921,17 @@ count of eight, and the federal row named six numbers under a count of five.*
 
 ---
 
+**Added to the queue 24 August** *(named in the two congressional transcripts read in full this
+day — the March Homeland Security hearing and the September Oversight hearing; identities to be
+verified against congress.gov before any row is written, per the standing lesson of H.R. 7311)*:
+**H.R. 7334** (National Robotics Commission Act — Obernolte/McClellan; commission, not duties);
+**H.R. 4802 / S. 4000** (Securing Infrastructure from Adversaries — LiDAR restriction);
+**H.R. 6576** (SAFE LiDAR Act); the **GAIN AI Act** (Banks — Senate; first-refusal on chips bound
+for China; no House companion per testimony); and the **CHIP Security Act** (House; chip location
+verification — before HFAC per testimony). All adjacent to the census's subject rather than
+frontier-core: none, per the testimony describing them, reaches an officer or a natural person —
+the finding the tally already carries, extended to the robotics-security docket.
+
 ## What this census is for, and what it is not
 
 **For:** answering, with a number that can be checked, how much of American frontier-AI

@@ -142,6 +142,22 @@ than on AI systems"* (CDT, 20 Aug 2026, reusable with credit; primary texts queu
 answered the personhood deflection. The only question left standing is *which* legal person —
 which is this Act's entire subject.
 
+**The bloc objection now has a hearing transcript — added 24 August.** House Homeland Security's
+March hearing describes the PRC threat in this objection's own register: an *"industrial-scale
+campaign"* of model distillation using *"third-party routers and networks of unauthorized
+resellers to circumvent existing safeguards"* — *"proxy networks and fraudulent accounts to farm
+millions of interactions from American models"* — producing distilled systems that *"bypass the
+critical safety guardrails embedded in U.S. systems"* (Serial 119-42, 17 Mar 2026, read in full;
+the developer's own disclosure is footnoted there as Anthropic's *Detecting and Preventing
+Distillation Attacks*, 23 Feb 2026 — retrieval queued). Read the description as an enforcement
+problem and it makes this Act's argument: theft-by-deception is detected and attributed through
+exactly the artifacts SEC. 12 requires kept — access logs, interaction records, version and
+configuration identity — and the deception limb proposed at
+[CURE 16](../audit/v3_5_cure_language.md#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened)
+is what makes the conduct chargeable when it happens here. A records regime is not the opposite
+of competing with the bloc; it is the attribution machinery a state needs before it can even say
+what was taken.
+
 ## "So this is an FDA for AI?" — no, and the difference is the design — added 24 August
 
 The question arrives from both directions: critics who fear a licensing agency, and allies who
