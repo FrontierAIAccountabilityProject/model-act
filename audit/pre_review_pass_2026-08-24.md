@@ -44,6 +44,8 @@ concluding sentence):
 while foreclosing the conversion of a self-selected badge into an element-defeating shield —
 the *Park* allocation, stated as drafting.
 
+*Resolved 24 August 2026: numbered **CURE 20**; language transplanted verbatim to [the queue](./v3_5_cure_language.md).*
+
 ## PF-3 · CURE candidate — the certification register (the trust mechanism made visible)
 
 **The gap.** SEC. 8 builds the certification on the 18 U.S.C. § 1350 structure, and the interim
@@ -67,6 +69,8 @@ certification exists, who signed it, or when.
 **Why this shape:** facts public, content protected — the register creates the trust surface
 without forcing disclosure of anything a trade-secret clause protects, and the final sentence
 prevents the register's own administration from becoming anyone's defense or trap.
+
+*Resolved 24 August 2026: numbered **CURE 21**; language transplanted verbatim to [the queue](./v3_5_cure_language.md).*
 
 ## PF-4 · Companion-note candidate — why the interim standards are these three
 
@@ -96,3 +100,15 @@ maintainer, refutation invited from every lane.
 *The queue this file feeds: [the v3.5 CURE language](./v3_5_cure_language.md) — candidates enter
 it only by the maintainer's numbering. The freeze: reviewer surfaces link here after the
 criminal-law call. The instruments cited: [the verification record](../research/verification_record.md).*
+
+
+## PF-6 · Observation — the leaky-trigger critique is answered by existing architecture
+
+*Added by maintainer ruling, 24 August 2026. No text change proposed.* The strongest current
+critique of compute-denominated coverage — smuggled compute ⚠, small-compute research outside
+any transparency regime, the compute unit itself "a fuzzy metric" in the forecasters' own words
+— defeats a compute-*only* statute. This Act is not one: the bright line is one route among
+several (self-designation, CURE 6; Agency capability designation; the enterprise architecture
+held at CURE 7). Recorded so a reviewer meets the answer where the critique will occur to them.
+Sources owned at [the forecasters' arithmetic](../research/forecast_arithmetic.md) § 6 and
+[two visions](../docs/two_visions.md).

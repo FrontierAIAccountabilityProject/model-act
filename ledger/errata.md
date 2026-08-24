@@ -972,6 +972,49 @@ every link retargeted.
 **Rule sharpened.** The work-in-hand rule extends inward: **describe a file's status only from the
 file's own text** — never from its name, its folder, or the author's memory of writing it.
 
+## E34 — three of four, and the register number a page promised
+
+**Filed 24 August 2026. Severity: low — corrected in place the night it was found; this entry
+supplies the number the correction has carried as "candidate erratum, maintainer to number".**
+
+**The error.** [Comparative officer liability § 5](../standards/comparative_officer_liability.md)
+first mapped Lyness's four-goal agenda (64 B.C. L. Rev. 253) onto the Act as a four-for-four
+convergence. It is three of four: **Lyness argues for individual civil liability and "only civil
+liability"** (at 297–99), expressly excluding the criminal form — the road this Act takes, with
+its due-care floor.
+
+**Cause.** The mapping paragraph was committed before Part IV of the article had been read in
+full — reliance running ahead of reading, caught by the later sitting.
+
+**Fix.** The page has carried the precision in its own § 5 addendum since the same night,
+convergence restated at three of four with the divergence argued, not assumed away; this entry
+numbers it. Maintainer ruling, 24 August 2026.
+
+## E35 — the Act's own word, loosened in the Act's own voice
+
+**Filed 24 August 2026. Severity: medium — the project's central defined term, used loosely on
+the front page, live for two days.**
+
+**The error.** Three files — the front page's dated record, the expanded timeline, and the press
+corpus — called the source of the 8 August admissions *"a senior officer of the developer."* His
+displayed role at retrieval is head of strategic futures: the advice layer, which the front page
+itself excludes four paragraphs earlier ("technical work, access, advice … does not create
+personal liability"), and not an officer under the Act's own final-material-authority test.
+
+**Cause.** The defined term drifted toward the rhetoric: "a senior figure" lands softer than "a
+senior officer," so the noun was upgraded to match the quote's force — the project's central
+vocabulary loosened in the project's own voice, on its own front page.
+
+**Fix.** All three files conformed to *"the developer's head of strategic futures"* — which costs
+the argument nothing, since the quote's weight is that it is the developer's senior staff
+speaking, not that the speaker holds authority. And the accurate label is the stronger exhibit:
+the most candid account of the incident came from the layer the Act would not reach, while the
+layer with authority to halt said nothing on the record.
+
+**Rule sharpened.** Defined terms may not be used in project prose in any sense looser than
+their definition — one owner per fact, extended to vocabulary. Caught in-house the same day,
+during a design review of the front page.
+
 <a id="part-ii"></a>
 
 ---

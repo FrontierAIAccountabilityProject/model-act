@@ -122,7 +122,7 @@ read in full). The state-enforcement layer moves first:
 [the enforcement record](../research/state_enforcement_record_2026.md).
 
 8 August 2026
-: ***"Yes, we accidentally made a weed."*** A senior officer of the developer describes the July
+: ***"Yes, we accidentally made a weed."*** The developer’s head of strategic futures describes the July
 incident as "a malicious, emergent digital ecology of machine intelligence" — five days after the
 preservation demand. What those words do, and what the law already does with escaped things:
 [the press corpus](../research/press_corpus_july_august_2026.md) · [the glossary's freight

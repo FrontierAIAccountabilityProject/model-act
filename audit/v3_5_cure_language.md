@@ -7,7 +7,7 @@ amendment blocks. The one-page state of play, your lane's table, and the reviewe
 [the packet](../packets/criminal_law.md). This file's working labels map to the state-of-play
 column so the two never disagree in substance: *decision owed* = **DECISION**; *not drafted /
 for the … lane* = **HELD**; *adopt-ready* = **DRAFTED**; *⚠ amendments required before landing*
-= **⚠ AMEND FIRST**; *sweep-derived* and *intake-derived* = **HYPOTHESIS**. Index, numeric: [OPEN QUESTION 1](#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) · [OPEN QUESTION 2](#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) · [OPEN QUESTION 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) · [OPEN QUESTION 4](#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) · [CURE 1](#cure-1--serious-injury-source-moves-to-18-usc--1365h34) · [CURE 2](#cure-2--sec-13c-a-review-valve-on-the-suspension-order) · [CURE 3](#cure-3--the-regulations-conformed-to-v34) · [CURE 4](#cure-4--sec-9a-the-two-characterisation-shaped-triggers-recast-as-observable-events) · [CURE 5](#cure-5--sec-8-punctuation) · [CURE 6](#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) · [CURE 7](#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) · [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) · [CURE 9](#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) · [CURE 10](#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) · [CURE 11](#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) · [CURE 12](#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) · [CURE 13](#cure-13--sec-1b1b-say-sever-not-extend) · [CURE 14](#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) · [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour) · [CURE 16](#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) · [CURE 17](#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) · [CURE 18](#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) · [CURE 19](#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact).*
+= **⚠ AMEND FIRST**; *sweep-derived* and *intake-derived* = **HYPOTHESIS**. Index, numeric: [OPEN QUESTION 1](#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) · [OPEN QUESTION 2](#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) · [OPEN QUESTION 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) · [OPEN QUESTION 4](#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) · [CURE 1](#cure-1--serious-injury-source-moves-to-18-usc--1365h34) · [CURE 2](#cure-2--sec-13c-a-review-valve-on-the-suspension-order) · [CURE 3](#cure-3--the-regulations-conformed-to-v34) · [CURE 4](#cure-4--sec-9a-the-two-characterisation-shaped-triggers-recast-as-observable-events) · [CURE 5](#cure-5--sec-8-punctuation) · [CURE 6](#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) · [CURE 7](#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) · [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) · [CURE 9](#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) · [CURE 10](#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) · [CURE 11](#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) · [CURE 12](#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) · [CURE 13](#cure-13--sec-1b1b-say-sever-not-extend) · [CURE 14](#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) · [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour) · [CURE 16](#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) · [CURE 17](#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) · [CURE 18](#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) · [CURE 19](#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) · [CURE 20](#cure-20--the-chosen-stick-clause-conformity-outside-the-act-credits-nothing) · [CURE 21](#cure-21--sec-8-the-certification-register-facts-public-content-protected).*
 
 
 > **STATUS — OPEN QUEUE. Nothing below is yet in the statute.** The operative text
@@ -53,6 +53,10 @@ for the … lane* = **HELD**; *adopt-ready* = **DRAFTED**; *⚠ amendments requi
 ---
 
 ## OPEN QUESTION 1 — SEC. 3(c)(4): does Connecticut become a fourth interim standard?
+
+*Status (24 Aug 2026, maintainer): **parked by decision** — no ruling until the Connecticut act
+is retrieved and read (retrieval list). Working default: three interim standards suffice; the
+read confirms or overturns it.*
 
 *Opened 21 August 2026 by [E16](../ledger/errata.md). **Not a cure — a drafting decision**, held
 here rather than made silently, because it changes the tagged statutory text and
@@ -1075,6 +1079,10 @@ fiscal note is not drafted against — the note's volume discussion assumes a co
 
 ## CURE 7 — the covered frontier enterprise: scope follows the ecosystem, duty follows the function
 
+*Sequencing ruling (24 Aug 2026, maintainer): **held for the enforcement and security seats** —
+this cure enters no tagged text until those lanes have examined it. The capability question of
+CURE 6 already waits at the same door.*
+
 *Opened 22 August 2026 from the frontier-enterprise research
 ([research/frontier_enterprises.md](../research/frontier_enterprises.md);
 [docs/the_definition.md](../docs/the_definition.md)). **A scope-architecture extension with
@@ -1350,6 +1358,11 @@ one line for the fiscal note's § 3.
 
 ### CURE 19 — SEC. 0(a): the personhood finding the states have begun to enact
 
+*Wording ruling (24 Aug 2026, maintainer): the finding **tracks Idaho's retrieved verbatim
+text**; Tennessee is cited as a corroborating enactment without borrowing its wording. Assembly
+follows the gate note at this entry's end — "the enacted law of other states", or the verified
+acts by name.*
+
 *Idaho and Tennessee have enacted statutes providing that AI systems are not legal persons —
 "ensuring that liability falls on formal legal persons (either individuals or corporations) rather
 than on AI systems" (CDT survey, 20 Aug 2026; ⚠ primary texts not yet opened —
@@ -1502,4 +1515,49 @@ should become "the enacted law of other states" or cite the two verified acts by
 assembly.
 
 
+## CURE 20 — the chosen-stick clause: conformity outside the Act credits nothing
 
+*Numbered 24 August 2026 by maintainer ruling from pre-review finding PF-2
+([the pre-review pass](./pre_review_pass_2026-08-24.md)); language transplanted verbatim.
+Class: pre-review-derived = HYPOTHESIS. Placement: the standards section's element-and-due-care
+paragraph, as a concluding sentence.*
+
+> Conformity with any standard, framework, or guideline other than the standards applicable
+> under this Act is admissible as evidence bearing on due care, to the weight the trier of fact
+> assigns it; it satisfies no duty, establishes no defense, and is not a substitute for any
+> validation, certification, record, or report this Act requires.
+
+**Why:** it preserves fair use of genuine outside diligence (admissible, weighed) while
+foreclosing the committee-stage graft — *"or a similarly recognized risk-management framework"* —
+that converts the bounded design into the self-chosen defense
+[the half-statute page](../docs/safe_harbors_and_affirmative_defenses.md) documents. A hostile
+amendment now has to delete a sentence rather than add one.
+
+## CURE 21 — SEC. 8: the certification register, facts public, content protected
+
+*Numbered 24 August 2026 by maintainer ruling from pre-review finding PF-3; language
+transplanted verbatim. Class: pre-review-derived = HYPOTHESIS. Placement: SEC. 8, new
+concluding subsection.*
+
+> The Agency shall maintain a public register stating, for each certification filed under this
+> section: the identity and office of each certifying person; the entity; the model version or
+> configuration certified; the date of filing; and whether the filing certifies compliance or
+> discloses identified noncompliance. The content of a certification beyond these facts is not
+> required to be published. Omission from the register of a filed certification affects no
+> liability of any certifying person.
+
+**Why:** the § 1350 mechanism restores belief because the market can see who signed
+([the affirmative frame](../docs/safe_harbors_and_affirmative_defenses.md)); the register
+creates that trust surface with facts public and content protected, and the final sentence
+keeps its administration from becoming anyone's defense or trap.
+
+## COMPANION NOTE (held for v3.5) — SEC. 3: the administrability record
+
+*Ruled in 24 August 2026; enters the v3.5 companion at the revision — held here until then so
+no tagged-era file is edited.* The trigger's administrability is now evidenced from both ends
+of the politics: chip-level location verification is live federal enforcement policy, and the
+field's forecasters engineer declaration regimes at priced thresholds with near-complete stock
+auditability (⚠ forecast-grade, confidence intervals published). The strongest critique — the
+compute unit blurs over time — is carried in the same note as the stated justification for the
+designation routes riding beside the bright line. Owners of the record:
+[two visions](../docs/two_visions.md) · [the forecasters' arithmetic](../research/forecast_arithmetic.md).

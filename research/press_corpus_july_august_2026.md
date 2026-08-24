@@ -277,7 +277,7 @@ preservation demand (x.com/deanwball/status/2085937149992448311; 276.8K views at
 > ecologies that are pro-social. Beautiful gardens and majestic forests, grown but not designed.
 > The human past is the sculptor, but the human future is the gardener, the arborist."*
 
-Three of those clauses are first-person statements of fact by a senior officer of the developer —
+Three of those clauses are first-person statements of fact by the developer’s head of strategic futures —
 the incident was **malicious**, it was **emergent**, and *"we accidentally made a weed"* — and they
 stand apart from the horticultural program around them. What United States law already does with
 accidental weeds is now recorded at

@@ -3,6 +3,38 @@
 
 ## Part II — The changelog
 
+**Between versions — 24 August 2026 — the officer word, conformed (E35).** No change to any
+tagged text. Three files called the source of the 8 August admissions "a senior officer of the
+developer"; his role is head of strategic futures — the advice layer the front page itself
+excludes, and not an officer under the Act's own test. Conformed in all three to "the
+developer's head of strategic futures"; the register entry (E35) records the failure mode — a
+defined term loosened toward the rhetoric — and the sharpened rule: defined terms are never
+used in project prose more loosely than their definition. The accurate label is also the
+stronger exhibit: candour came from the layer the Act would not reach, silence from the layer
+it would.
+
+**Between versions — 24 August 2026 — nine standing decisions ruled, in one sitting.** No change
+to any tagged text. The maintainer's owed-decision list is cleared: **CURE 20** (the chosen-stick
+clause) and **CURE 21** (the certification register) enter the open queue, transplanted verbatim
+from pre-review findings PF-2 and PF-3, which now carry their resolutions; **PF-6** records that
+the leaky-trigger critique is answered by the Act's existing multi-route coverage; the SEC. 3
+administrability companion note is ruled in, held for the v3.5 companion; **CURE 7** is formally
+held for the enforcement and security seats; **CURE 19** will track Idaho's retrieved text with
+Tennessee cited, not borrowed; **OPEN QUESTION 1** is parked pending the Connecticut read;
+**E34** numbers the Lyness three-of-four precision the comparative page has carried since its
+own addendum; the first-name in commit b6fbc0a is ruled accepted-and-logged — history is not
+rewritten in this repository, including for the maintainer's own convenience; and the nav and
+legacy-file questions are deferred into the coming reorganisation plan, one architecture
+decision instead of two.
+
+**Between versions — 24 August 2026 — the dispositions register opens, empty on purpose.** No
+change to any tagged text. `dispositions/README.md` fixes the rules of publication before the
+first review concludes, so no outcome can bend them: dispositions published as written and in
+full, hostile included; dated, version-pinned, and scoped; attribution the reviewer's election,
+with named seats requiring attributable dispositions; the maintainer's response separate and
+labelled; nothing deleted. The register links from the reviewer surfaces when the current
+freeze lifts.
+
 **Between versions — 24 August 2026 — the register lands, through the preview gate.** No change
 to any tagged text, fact, or row; two stylesheet files and one meta tag. The reading surface
 goes from screen-white to paper under warm near-black ink; the body text moves to the serif of
