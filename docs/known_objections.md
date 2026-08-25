@@ -21,8 +21,10 @@ pre-resistance is not "we would add a safeguard" but "it is already in the text.
 - ["You will delay the cures" — the acceleration objection, answered with clinical numbers](#you-will-delay-the-cures--the-acceleration-objection-answered-with-clinical-numbers--added-25-august)
 - ["The states have already legislated, so this is redundant"](#the-states-have-already-legislated-so-this-is-redundant--added-25-august-2026)
 - ["This is vicarious liability wearing a costume"](#this-is-vicarious-liability-wearing-a-costume--added-25-august-2026)
+- ["She relied on her safety team" — the defense the Act has not answered](#she-relied-on-her-safety-team--the-defense-the-act-has-not-answered--added-25-august-2026)
+- ["This is aimed at particular people" — attainder, and why it is not](#this-is-aimed-at-particular-people--attainder-and-why-it-is-not--added-25-august-2026)
 - ["This is a taking" — the count they actually lead with](#this-is-a-taking--the-count-they-actually-lead-with--added-25-august-2026)
-- ["Corporate law already answers this, and it answers in our favour"](#corporate-law-already-answers-this-and-it-answers-in-our-favor--added-25-august-2026)
+- ["Corporate law already answers this, and it answers in our favor"](#corporate-law-already-answers-this-and-it-answers-in-our-favor--added-25-august-2026)
 - ["You cannot prove an AI system caused the harm"](#you-cannot-prove-an-ai-system-caused-the-harm--added-25-august-2026)
 - ["The timelines make this pointless"](#the-timelines-make-this-pointless--added-24-august)
 - ["Wait for the courts" — the strongest form of the objection, and it was made under oath](#wait-for-the-courts--the-strongest-form-of-the-objection-and-it-was-made-under-oath--added-25-august-2026)
@@ -493,6 +495,101 @@ circuit has already upheld it.
 ⚠ **Read-status.** *MacDonald & Watson*, *Iverson*, *Bank of New England* and the CRS passages are
 quoted from secondary sources and **have not been read in the reporters**. They are on the retrieval
 list; under E22 none may be described as verified.
+
+
+## "She relied on her safety team" — the defense the Act has not answered — added 25 August 2026
+
+**This is the objection a defense team actually builds the case on**, and it is not on this page
+because until today the words *advice of counsel* and *reliance on experts* appeared nowhere in this
+repository.
+
+### The objection
+
+A chief executive cannot personally evaluate a frontier model. She has a safety organization, an
+evaluations team, outside counsel and, under three enacted state statutes, an independent auditor.
+She asks them, they tell her the system conforms, and she signs. **On what theory is that a crime?**
+
+Every regulated industry answers this the same way: an officer who makes reasonable inquiry of
+qualified people and acts on what they say has done what the law asks. A statute that says otherwise
+does not create accountability, it creates a signature nobody can honestly give.
+
+### The Act has the hook and never follows it through
+
+**SEC. 8:** "The certification consists of statements of fact within the certifying person's
+knowledge **after reasonable inquiry**." And: "**reckless certification without reasonable inquiry**
+is an offense under SEC. 6(a)."
+
+So everything turns on one question the Act does not answer: **does asking your safety team, and
+being told it conforms, constitute reasonable inquiry?**
+
+**If it does**, SEC. 8 is theater. Every officer signs on a briefing, the inquiry element is
+satisfied by the existence of a team, and the certification means only that somebody was asked.
+
+**If it does not**, SEC. 8 may be unsignable. No chief executive can form personal knowledge about a
+system whose behavior its own builders cannot fully characterize, and a duty that cannot be
+discharged honestly is a duty that will be discharged dishonestly or not at all.
+
+**The Act picks neither.** SEC. 4(c) answers a different question — delegation of *authority* does
+not shed responsibility, "no appointment of a safety officer, compliance officer, committee,
+subsidiary, contractor, or other intermediary shields a person who retains such authority." That is
+about who decides. **Reliance on advice is about what the decider knew**, and nothing in the text
+reaches it.
+
+### What can be said, and it is less than an answer
+
+**Three things point one way.** SEC. 3(c)(5) provides that documented conformity with the applicable
+standards "satisfies the duty of due care under SEC. 2 as to the matters conformed" — so following
+the standard, on advice, *is* a defense to the due-care offense as far as it goes. SEC. 2(b) gives a
+non-modifying deployer an express reliance path, unavailable to one who "knows, or consciously
+avoids knowing, of a material nonconformity." And SEC. 6(a) measures due care against "the conduct
+of a reasonably prudent controlling person in like circumstances," which is the ordinary vehicle for
+crediting sensible reliance.
+
+**Two things point the other way.** SEC. 3(c)(5) closes: "An entity's own frontier artificial
+intelligence framework... standing alone remains evidence neither of due care nor of its absence."
+And SEC. 6(a) repeats it: "an entity's own framework is evidence of neither." **So being told by
+your own people that your own framework was followed is expressly not enough** — which is a partial
+answer to the objection, and it is the only one the Act gives.
+
+### Why this is a finding and not a section with an answer at the end
+
+The gap is narrow and specific: **the Act credits conformity with an external standard, discredits
+reliance on the entity's own framework, and says nothing about reliance on a person** — an auditor,
+an evaluator, counsel, or a safety officer who is not the certifier.
+
+Illinois requires an auditor to sign. Connecticut routes the warning to the officer's desk. Neither
+says what the officer may rely on. **This Act inherits that silence and adds a criminal penalty to
+it**, which is a worse place to be silent than either of them.
+
+**Held for the criminal-law seat**, and it belongs near the top of that seat's list, because it
+decides whether SEC. 8 is a real duty or a formality. A reviewer who concludes that reasonable
+inquiry must be defined, or that reliance on a named qualified person should be an express partial
+defense with the burden on the defendant, is doing the most useful thing available in this lane.
+
+## "This is aimed at particular people" — attainder, and why it is not — added 25 August 2026
+
+Occasionally raised, easy to answer, and worth answering because the answer is structural rather
+than rhetorical.
+
+**No natural person is named in the operative text.** *Altman*, *Musk*, *Zuckerberg* and *Amodei*
+appear **zero times** in `model_act_v3_4.txt`. Every duty attaches by objective threshold —
+[10^26] operations or prospective capability designation — and by function, not by identity.
+
+**SEC. 0(a)(5)**, in the findings: this Act "draws no distinction between persons within and persons
+outside this State. It confers no advantage on any in-state person and imposes no obligation on an
+out-of-state person that it does not impose on an in-state person engaged in the same conduct with
+respect to the same system."
+
+**SEC. 4(a)** goes further and excludes identity from the element itself: "title, office, seniority,
+or status" do not constitute authority, and "Authority under this section is the authority to
+decide, not the capacity to act." **The Act is indifferent to who you are and interested only in
+what you could have stopped.**
+
+*And a drafting consequence worth stating, because it is a live temptation:* naming individuals in
+operative text would create bill-of-attainder, equal-protection and selective-enforcement arguments
+that the current draft simply does not present. **A class-neutral statute that plainly reaches people
+like them is a harder target than one that names them**, and this is one place where the more
+restrained drafting is also the more dangerous.
 
 
 ## "This is a taking" — the count they actually lead with — added 25 August 2026
