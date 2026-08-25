@@ -940,6 +940,18 @@ opened)*:
   Infrastructure, unanimously; the person, not at all. *(Reading note with every quotation and the
   OCR artefacts named: `library/NOTES_Reading_HR9333-FLARE-Science_2026-08-25.md`.)*
 
+- [ ] **New York — the FOCUS Act** (Fostering Optimal Classroom Use of Screens; Gounardes,
+  introduced 21 Aug 2026) — ⚠ **text unopened.** Not a frontier bill and no row is owed on the
+  census's own question, but it enters the queue for two reasons. It reportedly requires an ed tech
+  vendor to register with the Attorney General and to show that **at least one independent study**
+  found the product improves academic performance, which is a prove-it-before-you-ship duty on a
+  technology vendor in the same state and session as RAISE. And its author is RAISE's Senate
+  sponsor, now its **surviving** author after Alex Bores's departure. Whether it names a natural
+  person is exactly the census's question and is **not answered until the text is read** — the
+  sponsor's copy sits behind a Google Drive viewer that defeats automated retrieval, so it needs
+  pulling by hand. Press entry, with the caveat repeated:
+  [the press corpus § 6](../research/press_corpus_july_august_2026.md).
+
 **Then the rest, by state.** ⚠ *Counts below are the tracker's and are known to be unreliable:
 California and Illinois each had a bill listed twice, New York's list showed seven bills under a
 count of eight, and the federal row named six numbers under a count of five.*

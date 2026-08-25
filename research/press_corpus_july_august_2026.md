@@ -649,3 +649,60 @@ Berkeley), on whether the race is worth the risk: *"If we were racing forward on
 I would be like, 'Fantastic, full steam ahead,'"* — *"But that's not what we're racing toward,
 right?"* Filed at [known objections](../docs/known_objections.md), acceleration section, beside
 Javorsky.
+
+## 6. RAISE's surviving author legislates again, and again nobody signs
+**Gabriele Holtermann, "Gounardes introduces landmark bill to regulate screens, AI and ed tech in
+schools," *Brooklyn Paper*, 21 August 2026**
+https://www.brooklynpaper.com/gounardes-bill-regulate-screens-ai-ed-tech-schools/
+
+**Jessica Gould, "Make classrooms analog again? A new bill aims to limit tech in schools,"
+*Gothamist* / WNYC, 21 August 2026**
+https://gothamist.com/news/make-classrooms-analog-again-a-new-bill-aims-to-limit-tech-in-schools
+
+⚠ **Both are secondary and the bill text is not in hand.** The FOCUS Act (Fostering Optimal
+Classroom Use of Screens) was introduced 21 August 2026 by State Senator Andrew Gounardes. The
+sponsor's copy is posted to a Google Drive file linked from the *Brooklyn Paper* piece; automated
+retrieval returns the viewer shell, not the document, so **the text is unopened and nothing below
+is a characterisation of it**. Retrieval item: pull the PDF by hand. Until then this entry records
+only what two named reporters say the bill does.
+
+**What they report.** Screen-free learning for pre-K through fifth grade; cart or lab access in
+grades six to eight; one-to-one in high school with parental opt-in; a "right to analog learning"
+with an opt-out where a reasonable non-digital alternative exists. Prohibitions on installing
+social media, gaming, direct messaging, chatbots, generative and conversational AI, and cameras on
+school-issued devices. And the provision that matters here: ed tech companies would have to
+**register with the state attorney general** before selling to districts, demonstrate compliance
+with COPPA, FERPA and § 2-D of state education law, and show that **at least one independent study
+found the product improves academic performance.**
+
+Gounardes, quoted, on why: technology companies are treating children like *"a science experiment,
+flooding schools with questionable ed tech products without oversight, family input, or basic
+evaluation."* To *Gothamist*, on the pattern: a company rolls out a product and rushes it into
+classrooms, *"and there's no research done as to whether or not it's effective for student
+learning."*
+
+And from the State Education Department's spokesperson, Karen Male, a sentence worth keeping:
+technology *"should not replace the human judgment or accountability essential to a safe and
+effective learning environment."*
+
+**Why it is here, and it is not the subject matter.** This Act has nothing to say about
+classrooms. Three things make the item load-carrying for this project anyway.
+
+**One. It is a prove-it-before-you-ship duty, imposed on a technology vendor, by a New York
+legislator, in 2026.** The independent-study requirement is the same instinct as this Act's
+pre-release evaluation duty, arrived at from child welfare rather than catastrophic risk, and
+enacted-adjacent rather than theoretical. A drafter told that verification-before-deployment is an
+exotic demand now has a domestic example in the same state and the same session.
+
+**Two. The author is the one this project needs.** Andrew Gounardes is the Senate sponsor of the
+RAISE Act (ch. 96 of 2026) and the author of S 10456, both already in
+[the census](../standards/frontier_bill_census.md). His Assembly counterpart on RAISE,
+Alex Bores, lost his June election and is not returning next session, confirmed 24 August by
+Bores's own staff. **Gounardes is the surviving author of New York's frontier statute.**
+
+**Three, and it is the census's finding waiting to be tested.** Every instrument this project has
+read places its duties on companies, agencies and systems, and none on the officer of a covered
+developer. Whether FOCUS does the same is **not asserted here** and cannot be until the text is
+opened. If it does, it is the same legislator writing the same absence twice in eighteen months,
+which is the most useful single data point the census could acquire. **That is a reason to read
+the bill, not a finding.**
