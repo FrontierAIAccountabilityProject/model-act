@@ -13,6 +13,12 @@ defense-side triage lists of 25 August 2026; and the case names the sources
 themselves cite. SLOT records where each term belongs, so the audit produces
 work rather than a score.
 
+Search strings are written to be unambiguous, because a bare surname is not.
+"Lambert" matched three arXiv papers before anyone noticed it was Mike Lambert
+in an author list rather than Lambert v. California, and a bare section number
+matches anything. Where a term is a case, the string carries enough of the
+caption or the citation to be sure.
+
 Counting is presence-of-substance, not keyword density. One sentence in the
 glossary plus a link is a pass. Twelve passing mentions in a sealed record is
 not, which is why audit/record.md and dossier/README.md are excluded here for
@@ -41,7 +47,7 @@ G = "glossary"
 TERMS = [
  # --- responsible corporate officer: the core line -----------------------
  ("Dotterweich",                    "rco core",      "authorities"),
- ("Park",                           "rco core",      "authorities"),
+ ("Park doctrine",                           "rco core",      "authorities"),
  ("DeCoster",                       "rco core",      "authorities"),
  ("Iverson",                        "rco core",      "authorities"),
  ("Hanousek",                       "rco core",      G),
@@ -60,13 +66,13 @@ TERMS = [
  ("omission",                       "omission",      G),
  ("legal duty to act",              "omission",      G),
  ("Model Penal Code",               "omission",      G),
- ("2.02",                           "omission",      "authorities"),
- ("2.05",                           "omission",      "authorities"),
- ("Lambert",                        "omission",      "known objections"),
+ ("MPC \u00a7 2.02",                           "omission",      "authorities"),
+ ("MPC \u00a7 2.05",                           "omission",      "authorities"),
+ ("Lambert v. California",                        "omission",      "known objections"),
  ("Morissette",                     "omission",      "authorities"),
- ("Staples",                        "omission",      "known objections"),
- ("Balint",                         "omission",      "authorities"),
- ("Ahmad",                          "omission",      "known objections"),
+ ("Staples v. United States",                        "omission",      "known objections"),
+ ("United States v. Balint",                         "omission",      "authorities"),
+ ("101 F.3d 386",                          "omission",      "known objections"),
  ("rule of lenity",                 "omission",      G),
  ("ex post facto",                  "omission",      G),
  ("void for vagueness",             "omission",      "known objections"),
@@ -79,7 +85,7 @@ TERMS = [
  ("New York Central",               "imputation",    "authorities"),
  ("willful blindness",              "imputation",    G),
  ("conscious avoidance",            "imputation",    G),
- ("Jewell",                         "imputation",    "authorities"),
+ ("United States v. Jewell",                         "imputation",    "authorities"),
  ("Global-Tech",                    "imputation",    "authorities"),
  ("Cincotta",                       "imputation",    "authorities"),
  # --- the council: delegation and adjudication ---------------------------
@@ -88,7 +94,7 @@ TERMS = [
  ("Carter Coal",                    "council",       "authorities"),
  ("Association of American Railroads","council",     "authorities"),
  ("Appointments Clause",            "council",       "known objections"),
- ("Lucia",                          "council",       "authorities"),
+ ("Lucia v. SEC",                          "council",       "authorities"),
  ("Jarkesy",                        "council",       "known objections"),
  ("Article III",                    "council",       "known objections"),
  ("Seventh Amendment",              "council",       "known objections"),
@@ -100,7 +106,7 @@ TERMS = [
  # --- preemption and extraterritoriality ---------------------------------
  ("dormant Commerce",               "preemption",    "known objections"),
  ("extraterritorial",               "preemption",    "known objections"),
- ("Pike",                           "preemption",    "authorities"),
+ ("Pike balancing",                           "preemption",    "authorities"),
  ("Healy v. Beer Institute",        "preemption",    "authorities"),
  ("Brown-Forman",                   "preemption",    "authorities"),
  ("Edgar v. MITE",                  "preemption",    "authorities"),
@@ -129,7 +135,7 @@ TERMS = [
  # --- corporate protection ------------------------------------------------
  ("102(b)(7)",                      "corporate",     "authorities"),
  ("DGCL",                           "corporate",     G),
- ("145",                            "corporate",     "authorities"),
+ ("DGCL \u00a7 145",                            "corporate",     "authorities"),
  ("advancement of fees",            "corporate",     G),
  ("D&O",                            "corporate",     G),
  ("indemnification",                "corporate",     G),
@@ -140,9 +146,9 @@ TERMS = [
  ("Caremark",                       "corporate",     "known objections"),
  ("Stone v. Ritter",                "corporate",     "authorities"),
  ("Marchand",                       "corporate",     "authorities"),
- ("Clovis",                         "corporate",     "authorities"),
+ ("Clovis Oncology",                         "corporate",     "authorities"),
  ("In re Boeing",                   "corporate",     "authorities"),
- ("McDonald",                       "corporate",     "authorities"),
+ ("In re McDonald",                       "corporate",     "authorities"),
  ("duty of oversight",              "corporate",     "known objections"),
  ("oversight liability",            "corporate",     "known objections"),
  ("mission-critical",               "corporate",     G),
@@ -151,7 +157,7 @@ TERMS = [
  ("joint and several",              "corporate",     G),
  # --- public benefit and nonprofit ---------------------------------------
  ("public benefit corporation",     "pbc",           G),
- ("365",                            "pbc",           "authorities"),
+ ("DGCL \u00a7 365",                            "pbc",           "authorities"),
  ("charitable trust",               "pbc",           G),
  ("mission lock",                   "pbc",           G),
  ("ultra vires",                    "pbc",           G),
