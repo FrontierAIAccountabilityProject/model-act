@@ -697,6 +697,60 @@ asked. Whatever comes back is published as given, including that the provision w
 from them, is asked to send it; it enters the record with attribution unless anonymity is
 preferred.)*
 
+#### How this question actually gets answered, in order of what it costs
+
+*A question stated and not worked is a decoration. New York leaves a paper trail and most of it is
+free. This is the retrieval programme, ranked by cost, with what each source can and cannot show.
+Nothing below is a finding; it is a list of places the finding might be.*
+
+**Free, online, do these first.**
+
+1. **The A print against the B print, side by side, from the Senate's own system.** Establishes
+   exactly what came out, to the word. Partly done; the diff is what produced § 1421(4) above. What
+   it cannot show is why.
+2. **The sponsor's memorandum on each print.** New York publishes a sponsor memo with the bill, and
+   it is revised when the bill is. A memo that changes its justification between the A and B prints
+   is the cheapest possible evidence of what the sponsors thought they were doing. **Nobody has
+   compared them.**
+3. **The Senate floor transcript for the passage date**, at `nysenate.gov/transcripts`. New York
+   publishes stenographic floor debate. If a single member rose to ask why the audit came out, the
+   answer is verbatim, on the public record, and free. **This is the highest-value unopened source
+   in the whole file.**
+4. **The Assembly debate transcript** for the companion. Assembly debate transcripts are held by
+   the Assembly Public Information Office and archived through the State Archives finding aids;
+   they are not always as easy to pull as the Senate's, but they exist.
+5. **The six-day press window.** Politico New York, City & State, Times Union, Spectrum, Gothamist,
+   searched to the day. Late amendments to a watched bill are usually reported by somebody.
+6. **Lobbying filings** with the New York Commission on Ethics and Lobbying in Government: who
+   registered on this bill, and for whom. That will not give the argument, but it names who was in
+   the room while it was being made.
+
+**Costs a request, and is the richest single source.**
+
+7. **The bill jacket.** After a New York bill is signed, the Governor's Counsel compiles a jacket:
+   agency memoranda, the sponsors' letters, and letters for and against from anyone who wrote in.
+   Jackets are held by the New York State Library (`nysl.nysed.gov/billjack`) and the State Archives
+   (Series 12590), and several New York court law libraries provide public access. **If a
+   substantive argument against the audit-and-signature provision was ever written down by anyone,
+   this is the likeliest place it survives.**
+
+   **And the honest limit on it, stated before anyone gets excited.** A jacket captures what was
+   sent *to the Governor about the bill as passed*. The B amendment happened in the legislature,
+   six days earlier. So the jacket is strong evidence about who opposed the provision and on what
+   grounds, and it is **not** direct evidence of the legislature's own reason for striking it. A
+   recent jacket may also not be processed yet.
+
+**People, which is where the answer probably actually lives.**
+
+8. **The two sponsors and their counsel.** Being asked. Senator Gounardes is the surviving author.
+9. **The advocacy organisations that worked the bill.** Whoever was pushing RAISE knows what was
+   traded, and several of them publish.
+
+**The rule that applies to all of it.** Whatever comes back is published as given, including, and
+especially, "the provision was struck because it was wrong, and here is the argument." A project
+that asks for hostile review and then buries the one hostile answer it went looking for would
+deserve everything that followed.
+
 **The transparency line.** California SB 53 — framework, transparency report, incident reporting,
 no audit, no signature, officers and directors as recipients of a quarterly report they owe nothing
 about. **Enacted in California. Substantially adopted in New York's enacted text. The
