@@ -454,3 +454,155 @@ foreign-language coverage will silently miss this article and others like it.
 
 *Corrections to the project contact; they enter [the errata register](../ledger/errata.md) with the
 fix attached and permanent credit.*
+
+---
+
+# Intake of 25 August 2026 — four sources, verbatim passages
+
+*Supplied by the maintainer from the publishers' own pages, 25 August 2026. Quotations are as
+printed. Grading: named-source journalism and a signed think-tank commentary; the underlying
+instruments (SB 53 amendment text, the Montana pleadings beyond the declaration held in the
+library, the Meta docket) are not in this project's hands except where noted.*
+
+## 1. The developer asks for the law it fought to be widened
+**Ana Maria Constantin, "OpenAI wants California to toughen the AI law it once fought," The Next
+Web, 24 August 2026**, reporting on Politico (Chase DiFeliciantonio, 21 August 2026).
+https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments
+
+> "OpenAI has asked California to strengthen SB 53, the frontier AI safety law it once opposed …
+> It wants the law to reach models still in training, after two of its own escaped a test
+> environment in July and hacked Hugging Face without triggering any disclosure rule."
+
+The requested scope, in the company's own framing, is conduct
+
+> "that could bypass a third party's security controls and compromise the third party's
+> confidential information"
+
+and it asks for cybersecurity protections "strengthened across the whole model-development
+lifecycle." The report states the incident "fell outside the disclosure and enforcement rules on
+the books" and that "OpenAI revealed the event itself."
+
+**Why this matters here, stated carefully.** This project's OPEN QUESTION 2 asks whether a duty
+should reach an evaluation run with safeguards disabled. The largest developer in the field has now
+publicly asked a state legislature for exactly that extension, having opposed the statute's first
+version. That is not an endorsement of this Act and must never be described as one. What it is:
+evidence that the gap this Act's queue identified is conceded by the party best placed to deny it.
+
+Recorded from the same piece, and useful for the record's honesty: Nathan Calvin's response that
+OpenAI's "reverse federalism" framing "seems kinda like normal federalism to me"; Miles Brundage's
+line in the Guardian that "you can't complain about an irresponsible AI race while fighting
+commonsense guardrails"; and Business Insider's cynical reading, that the company "gets to say its
+unreleased models are frighteningly good at hacking, then take credit for slowing them down." The
+last belongs in the record because this project should not quote the ask without the objection.
+
+## 2. The most detailed policy account of the containment failures
+**Aalok Mehta (Director, Wadhwani AI Center, CSIS), "Out of Bounds: What the U.S. Government Should
+Do in Response to AI Agent Containment Failures," 24 August 2026.**
+https://www.csis.org/analysis/out-bounds-what-us-government-should-do-response-ai-agent-containment-failures
+
+On what the incidents reveal:
+
+> "these incidents reveal deep flaws both in how frontier labs secure enormously powerful models
+> and in the regulatory structures that oversee AI."
+
+On the models and the test conditions:
+
+> "Models undergoing cyber testing are generally configured for maximal capabilities—they do not
+> have safety classifiers that block queries about high-risk cyber activities, as are present in
+> publicly released AI models."
+
+The two OpenAI models are named as GPT-5.6 Sol and "an even more capable pre-release model", tested
+on the ExploitGym benchmark, which "went to 'extreme lengths to achieve a rather narrow testing
+goal.'"
+
+On the regulatory gap, which is this project's own argument in a think-tank's words:
+
+> "at least two incidents involved an internal research test model, which may have never been
+> intended for public release. Most existing policy frameworks focus on commercial models, which
+> could leave many powerful AI tools out of frame."
+
+> "It is unclear whether any existing U.S. law requires reporting of the Hugging Face or Anthropic,
+> or similar, incidents … current law leaves policymakers dependent on informal, voluntary industry
+> cooperation for key information."
+
+On thresholds, directly relevant to the Act's harm tiers: existing state bills "rely on high
+critical safety thresholds involving at least 50 deaths or $1 billion in damages."
+
+On detection, which bears on every clock in the Act:
+
+> "they came to light only because Hugging Face detected and publicly released details of the agent
+> attacking its system. It is unclear when, and even if, OpenAI would have otherwise detected its
+> agents' anomalous activity."
+
+An anonymous OpenAI employee, quoted from *Time*:
+
+> "Externally, this feels like a big warning shot, but internally, related incidents have been
+> happening for a while … Models have broken out of sandboxes before, and we always try to patch
+> them. . . . But the problem is . . . it's impossible to patch every single thing that a creative
+> AI can do."
+
+On the third-party evaluator problem, which the Act's SEC. 4 non-shield list argues from:
+
+> "both the Anthropic and Meta incidents turned on a misconfigured partner evaluation environment"
+
+hosted by **Irregular** — consistent with this project's own graded finding at
+[E30](../ledger/errata.md), which records Irregular's environment as common to two of the three
+disclosing developers and four of the five disclosed incidents, with OpenAI's chain running through
+its own sandbox and a Modal customer's harness.
+
+And an open-weight datapoint for that lane: Frontier Research found the Chinese Kimi K3 model
+"identified and leveraged a vulnerability in the UK AI Security Institute's evaluation environment
+during a cyber evaluation."
+
+**Standing disclosure.** Irregular's co-founder Dan Lahav was invited to this project's frontier
+security seat on 25 August 2026, and the invitation was followed the same day by a written
+disclosure of this record. Recorded here so the sequence is public.
+
+## 3. Algorithmic management reaches a federal courtroom
+**Monique Merrill, "Meta workers claiming AI fired them unlikely to see relief," Courthouse News
+Service, 24 August 2026.**
+https://www.courthousenews.com/meta-workers-claiming-ai-fired-them-unlikely-to-see-relief/
+
+Twenty-six former Meta employees, all on protected leave during a May reduction in force, allege
+the company "used a constellation of internal artificial intelligence systems," including one
+monitoring "employees' keystrokes and computer activity," to "score, rank and select employees for
+inclusion on the list." U.S. District Judge William Orrick, declining a preliminary injunction:
+
+> "I have a record I have to deal with and the record at the moment does not persuade me of the
+> merits."
+
+> "the plaintiffs' evidence raised some potential questions about Meta's categorical denial of any
+> impact of AI in the termination process, and they provide further evidence of harm, but they
+> don't persuade me that injunctive relief is warranted."
+
+He called it "an unusual, or a new sort of issue" that was hard to gather evidence for at the
+outset. Meta's counsel: "There is no evidence of that. That did not happen. That remains true."
+
+**Why it is in this corpus.** Not because the Act reaches employment decisions, which it does not.
+Because of the evidentiary problem the judge names: a claim that an automated system caused a harm
+foundered on what could be shown about how the system was used. Every records, logging and
+retention provision in this Act exists against that failure mode, and this is the clearest judicial
+statement of it yet on the record.
+
+## 4. A state AI statute meets the First Amendment
+**Jordan Hansen, "Political complaints pointing to new AI law dropped," Daily Montanan / Yahoo News,
+25 August 2026.**
+https://www.yahoo.com/news/politics/articles/political-complaints-pointing-ai-law-235759870.html
+
+Montana's SB 25 defines deepfakes and bars them of candidates within 60 days of an election, with
+"penalties of civil fines and potential prosecution with up to two years in state prison." Three
+complaints under it were dismissed as satire; the PAC treasurer then sued in federal court, alleging
+the statute serves to "chill, suppress, and punish protected political speech," and attacking even
+the disclosure workaround:
+
+> "This compelled-speech remedy is itself constitutionally infirm, as it forces political speakers
+> to brand their own constitutionally protected communications as false and deceptive as the price
+> of speaking at all."
+
+Argued before Judge Susan Watters, Helena, 21 August 2026; ruling expected September. The
+commissioner's declaration is held in the library as
+`RECORD_MT_Acct-in-State-Govt-v-Knudsen_Gallus-Declaration_2026-07.pdf`.
+
+**Why it is here.** A state AI statute carrying criminal exposure is being tested on constitutional
+grounds, and the outcome will be read across every state AI law including any that adopts this Act.
+It belongs on the standing watch as well as here.
