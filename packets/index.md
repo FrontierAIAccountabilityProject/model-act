@@ -1,4 +1,6 @@
 ---
+title: "The review packets · seven lanes"
+permalink: /packets/
 ---
 
 # The review packets — one page per lane
