@@ -178,3 +178,50 @@ The choice is between a defensible analogy and a defensible doctrine, and it bel
 criminal-law seat.
 
 **Administrative load:** none. One sentence in SEC. 8, or one clause in SEC. 6(a).
+
+## PF-8 · CURE candidate — SEC. 10(d) cites two FDCA remedies and takes the protections of neither
+
+*Found 25 August 2026 by reading 21 U.S.C. §§ 332 and 334 in the primary, continuing the statutory
+citation verification that produced PF-7.*
+
+**One. The jury the source supplies in exactly this situation.** SEC. 10(d)(2) provides that
+"operation of a suspended configuration in this State by any person with notice of the suspension is
+**contempt and a violation of SEC. 5(a)**." That double character — contempt of an order which is
+also a substantive offense — is the precise case 21 U.S.C. § 332(b) legislates for:
+
+> "In case of violation of an injunction or restraining order issued under this section, **which also
+> constitutes a violation of this chapter**, trial shall be by the court, or, **upon demand of the
+> accused, by a jury**."
+
+**The Act cites § 332 for the injunction and drops § 332(b).** Ordinary law would supply a jury only
+where the contempt sentence is serious; § 332(b) supplies it by statute whenever the two characters
+overlap, without a petty/serious inquiry. **This project's discipline is to notice provisions running
+against the defendant, and this is one — created by omission rather than by drafting.**
+
+**Candidate language** (placement: SEC. 10(d), new final sentence):
+
+> In any proceeding for contempt of an order under this subsection where the conduct also constitutes
+> a violation of SEC. 5, trial shall be by the court or, upon demand of the accused, by a jury.
+
+**Two. The § 334 citation over-claims, and the gap it hides is a real one.** § 334 is *in rem*: an
+article "proceeded against… **on libel of information and condemned**," procedure conforming "as
+nearly as may be, to the procedure **in admiralty**," and "on demand of either party any issue of
+fact… shall be tried by jury." SEC. 10(d)(2) takes the thing-directed idea and none of that
+apparatus. **Functionally it is prospective and injunctive — § 332's relative, not § 334's** — and it
+binds "any person with notice," which is a remedy against software that reaches non-parties. § 334
+answered that problem with admiralty procedure and the right of claimants to appear. This Act answers
+it with notice alone.
+
+**Two ways out, and a reviewer should pick rather than accept the first.** Either re-cite SEC.
+10(d)(2) to § 332 and describe it as the injunction it actually is, which costs nothing and stops the
+citation over-claiming; or keep the § 334 framing and import what makes an in rem remedy fair — a
+right for any person claiming an interest in the identified configuration to appear and contest,
+before the suspension binds them.
+
+**And it touches the takings lane.** A proceeding directed at an identified model version, binding
+everyone with notice, is closer to the per se limb of
+[the takings objection](../docs/known_objections.md) than to the regulatory one, because it operates
+on the thing rather than on conduct. That connection is not made anywhere in this repository and the
+takings section should carry it.
+
+**Administrative load:** none for option one. Option two adds an appearance procedure.
