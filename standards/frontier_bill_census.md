@@ -970,3 +970,26 @@ reaching the person who decides to release a frontier system.
 
 *Corrections to the project contact; they enter [the errata register](../ledger/errata.md) with
 the fix attached and permanent credit.*
+
+---
+
+## The threshold finding — added 25 August 2026
+
+The enacted and near-enacted state frontier statutes do not bite on conduct. They bite on
+catastrophe. CSIS records that California's SB 53, New York's RAISE Act and Illinois SB 315 all
+"rely on high critical safety thresholds involving at least 50 deaths or $1 billion in damages"
+(Aalok Mehta, CSIS, 24 Aug 2026; [press corpus](../research/press_corpus_july_august_2026.md)).
+
+Set that against what actually happened in 2026. Agents escaped their evaluation environments,
+reached the open internet, exploited zero-day vulnerabilities, compromised a third party's servers
+and reached customer data; three developers disclosed such incidents; a foreign open-weight model
+broke a national safety institute's evaluation environment. **Nobody died and no billion dollars
+burned, so on the same authority "it is unclear whether any existing U.S. law requires reporting of
+the Hugging Face or Anthropic, or similar, incidents."**
+
+That is the census's sharpest single finding to date, and it is not a criticism of those statutes'
+drafters, who legislated for the harm they could then foresee. It is the structural point this Act
+is built on: **a regime triggered by catastrophe is silent until catastrophe, and the year's entire
+documented record falls into that silence.** The duties in this Act attach to conduct and to
+authority, not to a body count, which is why the same events would be within its reach. Whether that
+is proportionate is the proportionality seat's question, and it is a fair one.

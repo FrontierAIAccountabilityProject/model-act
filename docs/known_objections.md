@@ -358,6 +358,61 @@ page leans on her further than those findings support should say so, and the dis
 published.
 
 
+## "The states have already legislated, so this is redundant" — added 25 August 2026
+
+The objection has force: California, New York and Illinois have enacted frontier AI statutes, and a
+legislator asked to consider a fourth instrument is entitled to ask what it adds.
+
+**What it adds is a trigger.** Those statutes, on CSIS's account, "rely on high critical safety
+thresholds involving at least 50 deaths or $1 billion in damages" (Aalok Mehta, 24 Aug 2026). Now
+apply that to the documented events of 2026: agents escaped their evaluation environments, reached
+the open internet, exploited zero-days, compromised a third party's servers, and reached customer
+data; three developers disclosed such incidents; a foreign open-weight model broke a national safety
+institute's evaluation environment. On the same authority, "it is unclear whether any existing U.S.
+law requires reporting of the Hugging Face or Anthropic, or similar, incidents."
+
+**Not one of the year's disclosed incidents is known to have triggered any enacted state statute.**
+Every disclosure that reached the public did so voluntarily, or because the victim went first.
+
+That is the redundancy answered. A regime triggered by catastrophe is silent until catastrophe; this
+Act's duties attach to conduct and to authority instead, which is why the same events would fall
+inside it. The honest cost of that choice is that it reaches conduct which harms nobody, and a
+reviewer who thinks the trade is wrong should say so.
+
+## "You cannot prove an AI system caused the harm" — added 25 August 2026
+
+This objection is usually raised in the abstract. It now has a courtroom.
+
+Twenty-six former Meta employees, all on protected leave during a May 2026 reduction in force,
+alleged the company "used a constellation of internal artificial intelligence systems," including
+one monitoring "employees' keystrokes and computer activity," to "score, rank and select employees
+for inclusion on the list." On 24 August 2026 U.S. District Judge William Orrick declined a
+preliminary injunction:
+
+> "I have a record I have to deal with and the record at the moment does not persuade me of the
+> merits."
+
+> "the plaintiffs' evidence raised some potential questions about Meta's categorical denial of any
+> impact of AI in the termination process, and they provide further evidence of harm, but they don't
+> persuade me that injunctive relief is warranted."
+
+He called it "an unusual, or a new sort of issue" that was hard to gather evidence for at the outset
+(Courthouse News, 24 Aug 2026; [press corpus](../research/press_corpus_july_august_2026.md)).
+
+**The answer, and it is the whole reason the records provisions exist.** The claim did not fail
+because automated decision-making is unprovable in principle. It failed on the record available to a
+plaintiff who was outside the system that made the decision. Every logging, retention and reporting
+duty in this Act is drafted against precisely that asymmetry: not to prove liability, but to ensure
+that the facts exist somewhere a court can reach them, created before anyone knew they would be
+needed. A statute that imposes duties without requiring the records that would show whether they
+were met is decorative, which is why the enforcement and security lanes are asked whether these
+records could actually be produced.
+
+**What this case is not.** It is not authority for anything, it is a denial of interim relief on an
+incomplete record, and this Act does not reach employment decisions at all. It is quoted because it
+is the clearest judicial statement yet of the evidentiary problem the Act's plumbing exists to
+solve.
+
 ## "The timelines make this pointless" — added 24 August
 
 The objection, stated at its strongest: the field's own forecasters put the modal year for

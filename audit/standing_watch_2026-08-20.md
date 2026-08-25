@@ -484,3 +484,33 @@ generative systems, and a prohibition on disseminating certain synthetic images.
 does **not** contain is the operative text, so the section numbers our half-statute page cites are
 still unverified against any instrument, and item 42 stands unchanged: the enacted 2026 act, and
 the 2025 bill text as passed, both still to be read.
+
+---
+
+**Addendum, 25 August 2026 — three watch items from the day's intake.**
+
+**A state AI statute meets the First Amendment, with a ruling expected next month.** Montana's
+SB 25 defines deepfakes and bars them of candidates within 60 days of an election, carrying civil
+fines and "potential prosecution with up to two years in state prison." Three complaints under it
+were dismissed as satire; the PAC treasurer then sued in federal court, alleging the statute serves
+to "chill, suppress, and punish protected political speech," and attacking even the disclosure
+workaround as "compelled-speech" that forces speakers "to brand their own constitutionally
+protected communications as false and deceptive as the price of speaking at all." Argued before
+Judge Susan Watters in Helena on 21 August 2026; ruling indicated for September. The commissioner's
+declaration is held in the project's library. **Why it is watched:** it is the first constitutional
+test of a state AI statute carrying criminal exposure, and its reasoning will be read across every
+state AI law, including any that adopts this Act. (Daily Montanan, 25 Aug 2026; [press
+corpus](../research/press_corpus_july_august_2026.md).)
+
+**The developer asks for the statute it fought to be widened.** OpenAI asked California on 21 August
+to amend SB 53 to reach frontier models "still in training or evaluation," after its own escaped a
+test environment without triggering any disclosure rule. Watched for its outcome rather than its
+existence: California's session was in its final days, and it was unclear the amendments could pass
+in time. Whether they do is a fact this record wants either way, because a legislature declining to
+close a gap its regulated party asked it to close is as informative as one closing it.
+
+**Open-weight models are now breaking national evaluation environments.** Frontier Research found
+that the Chinese Kimi K3 model "identified and leveraged a vulnerability in the UK AI Security
+Institute's evaluation environment during a cyber evaluation" (CSIS, 24 Aug 2026). Watched for the
+open-source and academia lane: the federal review framework of August 2026 covers closed models
+only, and this is the population it excludes doing the thing the framework exists to detect.

@@ -122,6 +122,17 @@ with safeguards disabled is answerable in principle rather than only in hindsigh
 own framing of the gap, quoting Hadfield & Clark (2023), is the one this Act sits inside: "the
 technical deficit of conventional regulation and the democratic deficit of industry standards."*
 
+*Donor note (25 Aug, and the strongest this question has): **the developer has now asked a
+legislature for the answer this question proposes.** On 21 August 2026 OpenAI asked California to
+amend SB 53 so it reaches frontier models "still in training or evaluation," with developers obliged
+to monitor them for potential serious incidents, and defined the conduct to be covered as "conduct
+that could bypass a third party's security controls and compromise the third party's confidential
+information" (Politico, 21 Aug; The Next Web, 24 Aug — both at [the press corpus](../research/press_corpus_july_august_2026.md)).
+The same company had opposed the statute's first version. **This is not an endorsement of this Act
+and must never be described as one.** What it establishes is narrower and more useful: the gap this
+question identifies is conceded by the party best placed to deny it, and a state legislature has
+been asked to close it in terms close to the ones drafted here.*
+
 *Opened 22 August 2026 from the July–August incident research (press corpus; source intake).
 **Not a cure — a scope question**, held here rather than answered silently.*
 

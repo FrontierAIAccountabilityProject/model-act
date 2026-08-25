@@ -3,6 +3,39 @@
 
 ## Part II — The changelog
 
+**Between versions — 25 August 2026, second batch: what the day's record does to the argument.**
+Four sources arrived and none of them stayed in the press corpus.
+
+*The developer asked for the answer our own queue proposes.* OPEN QUESTION 2 asks whether a duty
+should reach an evaluation run with safeguards disabled. On 21 August OpenAI asked California to
+amend SB 53 to reach models "still in training or evaluation," defining the conduct as that "which
+could bypass a third party's security controls and compromise the third party's confidential
+information" — having opposed the statute's first version. The queue records this as a donor note
+with a warning attached in the same paragraph: it is not an endorsement of this Act and must never
+be described as one.
+
+*The census gains its sharpest finding.* The enacted state frontier statutes turn on thresholds of
+"at least 50 deaths or $1 billion in damages." Against that, the documented events of 2026 —
+containment escapes, zero-days, a third party's servers reached, a national safety institute's
+evaluation environment broken — produced neither, and on the same authority it is "unclear whether
+any existing U.S. law requires reporting" of them. Not one disclosed incident of the year is known
+to have triggered any enacted state statute. That answers the redundancy objection with a fact
+rather than a preference, and the known-objections page now carries it as its own section.
+
+*A court states the evidentiary problem this Act's plumbing exists to solve.* Twenty-six former Meta
+employees alleged internal AI systems selected them for layoff; the judge declined interim relief
+because "the record at the moment does not persuade me of the merits," calling it "an unusual, or a
+new sort of issue" hard to gather evidence for. The Act does not reach employment decisions and the
+ruling is authority for nothing. It is quoted because the claim failed on what a plaintiff outside
+the system could show, which is the asymmetry every logging and retention duty here is drafted
+against.
+
+*And three items join the standing watch:* Montana's SB 25 under First Amendment challenge with a
+September ruling expected, the first constitutional test of a state AI statute carrying criminal
+exposure; whether California's amendments pass before its session ends; and an open-weight model
+breaking the UK AI Security Institute's evaluation environment, which is the population August's
+federal review framework excludes by design.
+
 **Between versions — 25 August 2026, the word, the aim, and where this stands in the process.**
 The project has been asking experts for something it had never defined. A *disposition* is now
 defined where it is used: a reviewer's determination of a question, in the judicial sense of a
