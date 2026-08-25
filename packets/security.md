@@ -215,9 +215,12 @@ count, and file-status claim in the evidence base was made;
 
 ## VI. Filing
 
+*How this seat's work becomes the next version: verified findings are drafted as cures against the tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'. Reviewer identities are never shared between reviewers.*
+
+
 Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any
 form: a memo, a marked-up copy of this packet, a numbered list of findings, or six objectives
-written out. Or, if you were contacted by the maintainer through a different channel, reply on the
+written out. Or, if you were contacted by the maintainer through a different channel, reply on that channel. Or, if you were contacted by the maintainer through a different channel, reply on the
 channel you were contacted on. It is published as written, credited or anonymous at your choice;
 council seats publish with names, which is the point of them. A finding that something is broken is
 the seat working, not failing.

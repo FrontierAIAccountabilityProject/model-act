@@ -40,7 +40,7 @@ surface rather than concealing it.
 
 **The self-scrutiny.** Eight drafting-era audits merged into [one record](./audit/record.md),
 including [a hostile brief](./audit/record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel) written as opposing counsel would write it;
-[a fifteen-fix cure queue](./audit/v3_4_cure_language.md) published *in advance* of the revision
+[a fifteen-fix cure queue](. That queue is how v3.4 becomes v3.5: each lane's verified findings are drafted as cures against the tagged text, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'./audit/v3_4_cure_language.md) published *in advance* of the revision
 that landed it, departure and destination diffable; [an open successor queue](./audit/v3_5_cure_language.md)
 where findings become drafted language; [a five-lane in-house sweep](./audit/v3_5_lane_sweep.md)
 that returned **seven defects graded fatal, four of them in the tagged statute**, published with

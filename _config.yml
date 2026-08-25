@@ -70,6 +70,9 @@ defaults:
       path: "packets/torts_design.md"
     values: { nav_exclude: false, parent: "The review packets", nav_order: 7, title: "Torts and design" }
   - scope:
+      path: "packets/open_source.md"
+    values: { nav_exclude: false, parent: "The review packets", nav_order: 8, title: "Open source and academia" }
+  - scope:
       path: "docs/the_case.md"
     values: { nav_exclude: false, nav_order: 3, title: "The case" }
   - scope:
