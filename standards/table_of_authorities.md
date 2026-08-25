@@ -74,6 +74,16 @@ settled.*
 | *Sandstrom v. Montana*, 442 U.S. 510 (1979) | n.4, n.18 | Presumptions: mandatory civilly, permissive inference criminally |
 | *United States v. Van Buren*, 593 U.S. 374 (2021) | n.5 | Gates-up-or-down access construction; permission, not technical enforcement, defines the gate |
 
+| *In re Caremark Int'l Inc. Derivative Litig.*, 698 A.2d 959 (Del. Ch. 1996) | the glossary; known objections | ⚠ At 971, the oversight standard: liability requires "a sustained or systematic failure of the board to exercise oversight — such as an utter failure to attempt to assure a reasonable information and reporting system exists." Quoted from a retrieval reply; **the opinion is unread** |
+| *Stone v. Ritter*, 911 A.2d 362 (Del. 2006) | the glossary; known objections | ✅ **Read 25 Aug 2026.** Slip op. 17, the conditions predicate for director oversight liability, and "known duty to act... conscious disregard"; slip op. 15, when a failure to act in good faith may be shown |
+| *Marchand v. Barnhill* (Del. 18 June 2019) (Strine, C.J.) | known objections; the glossary | ✅ **Read 25 Aug 2026.** Slip op. 31, "the board must make a good faith effort — i.e., try — to put in place a reasonable **board-level** system of monitoring and reporting"; slip op. 36, "food safety was essential and mission critical"; slip op. 32, the three things that did not exist |
+| *In re McDonald's Corp. S'holder Derivative Litig.*, C.A. No. 2021-0324-JTL (Del. Ch. 26 Jan. 2023) (Laster, V.C.) | known objections; the glossary | ✅ **Read 25 Aug 2026.** Slip op. 2: "This decision **clarifies** that corporate officers owe a duty of oversight" — the extension from directors to officers, and the move this Act makes independently |
+| *In re Massey Energy Co. Derivative & Class Action Litig.* (Del. Ch. 31 May 2011) (Strine, V.C.) | known objections; the glossary | ✅ **Read 25 Aug 2026.** Slip op. 46: "Delaware law does not charter law breakers," and the statutory floor — Delaware corporations may pursue only "lawful business" by "lawful acts." **This is the whole of the surviving business-judgment answer; see [E46](../ledger/errata.md#e46)** |
+| 8 Del. C. § 102(b)(7); § 145(a), (e), (g)(1) | the glossary | ⚠ Exculpation reaches "monetary damages for breach of fiduciary duty" and cannot reach a knowing violation of law; § 145(e) permits advancement on an undertaking to repay — the mechanism SEC. 7(b)(5) uses. **Statutory text quoted from a retrieval reply and unread in the Code** |
+| *X.AI LLC v. Bonta*, No. 2:25-cv-12295 (C.D. Cal.), on appeal No. 26-1591 (9th Cir.) | known objections; the standing watch | ✅ **Complaint and Ninth Circuit docket read 25 Aug 2026**, both held in the working library. Four counts: per se takings, regulatory takings, compelled speech, vagueness — **the ordering is the finding** |
+| *Ruckelshaus v. Monsanto Co.*, 467 U.S. 986 (1984) | known objections | ⚠ At 1003–04, trade secrets as property for Takings Clause purposes, and the advance-terms rule that defeats a reasonable investment-backed expectation. **Cited as the plaintiff cites it; unread** |
+| *Cedar Point Nursery v. Hassid*, 594 U.S. 139 (2021) | known objections | ⚠ At 150, the right to exclude as the "sine qua non" of the property interest. **Cited as the plaintiff cites it; unread** |
+
 ### Penalties and proportionality
 
 | Authority | Cited at | For |
