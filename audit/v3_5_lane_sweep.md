@@ -241,6 +241,44 @@ accrual, and self-inflicted SEC. 6(b)(1) notice; file an aggressive equivalence 
 State must beat your expert. And SEC. 9 contains **no duty to notify the people whose systems were
 breached** — every duty runs to the Agency, and SEC. 12 then seals the report.
 
+**And the gap the sweep did not find, supplied from outside it on 25 August 2026: the apex-witness
+problem.** Every offence in SEC. 6 turns on what a natural person knew, decided, or had the power to
+prevent. Nothing in this repository asks the practical question that follows: **can the State
+actually get that person into a chair.** American courts apply an apex-witness rule that shields
+senior executives from depositions unless the party seeking one shows unique, non-duplicative
+personal knowledge. It is a discovery doctrine rather than a criminal-procedure one, but the
+posture it creates — the corporation offering subordinates instead of the officer — is exactly the
+posture a SEC. 6 prosecution would meet, and the Act's SEC. 5 records duties are the only thing in
+it that would answer.
+
+**There is one data point and it cuts our way, which is precisely why it must be stated carefully.**
+In *Concord Music Group, Inc. v. Anthropic PBC*, No. 5:24-cv-03811 (N.D. Cal.), Magistrate Judge
+Susan van Keulen ordered on **19 December 2025** that **Dario Amodei sit for a deposition**, capped
+at two and a half hours and permitted to be taken remotely. Anthropic had argued he did not possess
+unique knowledge of the company's model-training process. Per the reporting, the court found that
+depositions of other Anthropic founders had established he was *"intimately involved"* in training
+the models, and that those founders were unable or unwilling to testify to key information solely
+within his knowledge.
+
+**What that does and does not establish, and the second half matters more.** It establishes that a
+federal magistrate, on evidence, found the chief executive of a frontier developer to hold personal
+knowledge of how its models were trained that nobody else could supply. That is the factual premise
+of SEC. 4 — practical authority is real and identifiable — found by a court rather than asserted by
+us. It does **not** establish that he held final authority to prevent or halt anything, which is a
+different question; it is civil discovery, not criminal liability; and it is fact-specific to the
+point of fragility, since the finding rested on what his co-founders said under oath. A defendant
+whose subordinates are better rehearsed produces the opposite result.
+
+⚠ **The order has not been retrieved.** Everything above is from secondary reporting, and neither
+source names the apex doctrine. **Nothing may be cited to the court's own words until the order is
+in hand.** Retrieval item: the docket is public at CourtListener and the order is Document 378 or
+560 in the Justia listing for 5:24-cv-03811.
+
+**This is now question 7 of the enforcement lane**, and it is the one the maintainer most wants
+answered, because it is unanswerable from reading: *if a State charged a controlling person under
+SEC. 6, what would it actually take to obtain that person's testimony, and do the Act's records
+duties do the work the apex rule otherwise makes a plaintiff do?*
+
 **Security.** The modification budget measures the wrong axis. The halt capability is specified in
 hours against a kill chain that completes in minutes. The monitoring objective permits exactly the
 asynchronous after-the-fact monitoring that produced the detection gap. "Material expansion"

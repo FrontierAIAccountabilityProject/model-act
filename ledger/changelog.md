@@ -3,6 +3,43 @@
 
 ## Part II — The changelog
 
+**Between versions — 25 August 2026, ninth batch: the question this project never asked.** No change
+to any tagged text.
+
+**Every offence in SEC. 6 turns on what a natural person knew, decided, or had the power to prevent.
+Nothing in this repository asked what it takes to get that person into a chair.** The word
+*deposition* returned **zero** across a hundred and two files. The apex-witness rule — courts
+shielding senior executives from depositions absent unique, non-duplicative personal knowledge — is
+the practical obstacle standing between a SEC. 6 charge and the officer's testimony, and it had
+never been named here.
+
+*There is one data point and it runs in this project's favour, which is exactly why it is stated
+with its limits attached.* In ***Concord Music Group, Inc. v. Anthropic PBC***, No. 5:24-cv-03811
+(N.D. Cal.), Magistrate Judge Susan van Keulen ordered on **19 December 2025** that **Dario Amodei
+sit for a deposition**, capped at two and a half hours. Anthropic had argued he did not possess
+unique knowledge of the company's model-training process; per the reporting, the court found that
+his co-founders' own depositions established he was *"intimately involved"* and that they could not
+supply what only he knew.
+
+**What that establishes is the factual premise of SEC. 4, found by a court rather than asserted by
+us:** the chief executive of a frontier developer held personal knowledge of how the models were
+built that nobody else could give. **What it does not establish** is final authority to prevent or
+halt, which is a different question; it is civil discovery, not criminal liability; and the finding
+rested on what his co-founders said under oath, so a defendant with better-rehearsed subordinates
+produces the opposite result.
+
+⚠ **The order has not been retrieved.** Everything rests on secondary reporting, neither source
+names the apex doctrine, and nothing may be cited to the court's own words until the docket entry
+is in hand.
+
+*Where it landed.* [The sweep](../audit/v3_5_lane_sweep.md) gains the gap in its enforcement
+section, in the project's own words and against its own text; the enforcement packet regenerates
+with it and takes a **fifth question**, which is the one the maintainer most wants answered — *do
+the Act's SEC. 5 records duties do the work the apex rule otherwise makes a party do?*
+[The table of authorities](../standards/table_of_authorities.md) carries the case as a candidate,
+marked not citable until retrieved.
+
+
 **Between versions — 25 August 2026, eighth batch: a letter became a subpoena, and then the
 subpoena itself arrived.** No change to any tagged text. *This entry was first written from the
 press release and rewritten the same day from the instrument.*

@@ -186,13 +186,26 @@ both directions.*
 
 ## IV. The question menu
 
-Any three answered are a disposition; all four, with the repairs above verified or refuted, are the
+Any three answered are a disposition; all five, with the repairs above verified or refuted, are the
 seat done whole. Replace any of them with findings of your own.
 
 1. Would you charge any of this?
 2. Does the OPEN QUESTION 4 amendment reach too far extraterritorially?
 3. Are the four interim controls at CURE 10 the right four?
 4. What does an attorney general's office actually do with this in year one?
+5. **Could you get the officer into a chair?** Every offence in SEC. 6 turns on what a natural
+   person knew, decided, or had power to prevent, and nothing in this repository asks what it takes
+   to obtain that person's testimony against a corporation offering subordinates instead. The
+   apex-witness rule is the practical obstacle and this project has never engaged it. One data point
+   exists and it runs our way — *Concord Music Group v. Anthropic PBC*, No. 5:24-cv-03811 (N.D.
+   Cal.), where a magistrate ordered Anthropic's chief executive to sit for a deposition after
+   finding, on his co-founders' own testimony, that he alone held key knowledge of how the models
+   were trained. **⚠ That order has not been retrieved and neither reporting source names the apex
+   doctrine, so nothing may be cited to the court's words.** The question for this seat: **do the
+   Act's SEC. 5 records duties do the work the apex rule otherwise makes a party do, or does a
+   defendant with better-rehearsed subordinates defeat the whole architecture?** *(Added 25 August
+   2026; the sweep's own statement of it is in Part I above. This is the one the maintainer most
+   wants answered.)*
 
 Senior to all four, from the companion's
 [READ FIRST index](../model_act_v3_4_companion.md#read-first--questions-for-the-next-revision-v35):
