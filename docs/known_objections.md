@@ -716,29 +716,33 @@ criminal, statutory, and owed to the public. The two can coexist because they an
 questions to different people, and a statute that imposes a public duty is not amending anybody's
 fiduciary standard.
 
-**The second half is the part the objection does not survive: Delaware forecloses it in its own
-words.** *In re TransUnion Derivative Stockholder Litigation*, 324 A.3d 869, 887 (Del. Ch. 2024):
+**The second half is where the objection weakens, and Delaware supplies the words.**
+*In re Massey Energy Co. Derivative & Class Action Litigation* (Del. Ch. 31 May 2011)
+(Strine, V.C.), at slip op. 46:
 
-> "What a corporate fiduciary cannot do, however, is make a business judgment to cause or allow the
-> corporation to break the law."
+> "Delaware law does not charter law breakers."
 
-*In re Massey Energy*, 2011 WL 2176479 (Del. Ch. 2011): "Delaware law does not charter law breakers."
-And *Ontario Provincial Council of Carpenters' Pension Trust Fund v. Walton*, 294 A.3d 65, 90, 92
-(Del. Ch. 2023) draws the line exactly where it has to be drawn: the rule "protects" a decision that
-"carries legal risk, but which otherwise involves legally compliant conduct," while a decision to
-proceed unlawfully "would constitute a conscious decision to violate the law, the business judgment
-rule would not apply, and the directors would be acting in bad faith."
+And on the same page, the floor beneath the rule: "Delaware law allows corporations to pursue
+diverse means to make a profit, **subject to a critical statutory floor, which is the requirement
+that Delaware corporations only pursue 'lawful business' by 'lawful acts.'**" ✅ *Both read in the
+opinion, 25 August 2026.*
 
-**So the business judgment rule cannot be a defense to this Act, and it is Delaware that says so.**
-Once a statute makes the conduct unlawful, the rule stops applying by its own terms. The objection
-proves the reverse of what it intends.
+**So the business judgment rule sits above a statutory floor, and a statute is what sets the
+floor.** A rule that presumes good faith in a considered decision does not presume it in a decision
+to proceed unlawfully.
 
-**And the direction of travel runs the same way.** *Marchand v. Barnhill*, 212 A.3d 805, 824
-(Del. 2019) required "a good faith effort to put in place a reasonable system of monitoring and
-reporting about the corporation's central compliance risks," and found the failure where "food
-safety was essential and **mission critical**." *In re McDonald's Corp. Stockholder Derivative
-Litigation*, 289 A.3d 343, 361 (Del. Ch. 2023) then took the duty off the board: "This decision
-confirms that **officers** owe a duty of oversight." Delaware has been moving, on its own, toward
+**What Delaware has not squarely said — and we looked — is that the rule can never be raised
+against a duty imposed by a statute outside the DGCL.** That question is open. This section
+previously asserted the opposite on the strength of two quotations that are not in the opinions
+they were attributed to; see [E46](../ledger/errata.md).
+
+**And the direction of travel runs the same way.** *Marchand v. Barnhill* (Del. 18 June 2019) (Strine, C.J.), at slip op. 31, held that
+"the board must make a good faith effort — i.e., **try** — to put in place a reasonable
+**board-level** system of monitoring and reporting," and at 36 found the failure where "food safety
+was essential and **mission critical**." ✅ *In re McDonald's Corp. Stockholder Derivative
+Litigation*, C.A. No. 2021-0324-JTL (Del. Ch. 26 Jan. 2023) (Laster, V.C.) then took the duty off
+the board, at slip op. 2: **"This decision clarifies that corporate officers owe a duty of
+oversight."** ✅ Delaware has been moving, on its own, toward
 the proposition that the person with responsibility for a mission-critical risk answers for failing
 to build a system to know about it. **That is this Act's proposition, arrived at independently, in
 the corporate law of the state these companies chose.**

@@ -1384,3 +1384,94 @@ applied to files and not to the instrument itself.**
 
 The reading is now done. It produced this erratum in its first ten minutes.
 
+<a id="e46"></a>
+
+## E46 — two quotations published this afternoon are not in the opinions they were attributed to
+
+**Filed 25 August 2026. Found by doing the thing the ⚠ flags said had not been done: reading the
+primaries. Published for roughly five hours.**
+
+### What was published
+
+Three sections added this afternoon — the glossary's corporate entries, the "Corporate law already
+answers this" objection, and the shelf beneath both — carried ten Delaware quotations. **Every one
+was marked unverified**, and the read-status blocks said in terms that they came from a retrieval
+reply rather than from the reporters. That discipline is the only reason this entry is a correction
+and not a disaster.
+
+**Ten quotations, read in the opinions on 25 August 2026:**
+
+| Quotation | Result |
+|---|---|
+| *Stone v. Ritter*, the *Caremark* conditions predicate | ✅ verbatim, slip op. 17 |
+| *Stone*, "known duty to act... conscious disregard" | ✅ verbatim, slip op. 17 |
+| *Stone*, "failure to act in good faith may be shown" | ✅ verbatim, slip op. 15 |
+| *Massey*, "Delaware law does not charter law breakers" | ✅ verbatim, slip op. 46 |
+| *Massey*, "lawful business" by "lawful acts" | ✅ verbatim, slip op. 46 |
+| *Marchand*, "mission critical" | ✅ verbatim, slip op. 36 |
+| *Marchand*, the three things that did not exist | ✅ verbatim, slip op. 32 |
+| *In re McDonald's*, officers owe a duty of oversight | ⚠ **misquoted** |
+| *In re TransUnion*, "make a business judgment to... break the law" | ❌ **not in the opinion** |
+| *Walton*, "conscious decision to violate the law" | ❌ **not in the opinion** |
+
+### The two that do not exist
+
+**We published:** *In re TransUnion Derivative Stockholder Litigation*, 324 A.3d 869, 887
+(Del. Ch. 2024): *"What a corporate fiduciary cannot do, however, is make a business judgment to
+cause or allow the corporation to break the law."*
+
+**The sentence does not appear in that opinion.** What the opinion does contain, at slip op. 30, is
+the *Massey* language — "Delaware law allows corporations to pursue diverse means to make a profit,
+subject to a critical statutory floor" — which the source had separately attributed to *Massey*.
+So the same passage was given twice, once correctly and once as a sentence nobody wrote.
+
+**We published:** *Ontario Provincial Council of Carpenters' Pension Trust Fund v. Walton*, 294 A.3d
+65, 90, 92 (Del. Ch. 2023), that the rule protects a decision that "carries legal risk, but which
+otherwise involves legally compliant conduct," and that proceeding unlawfully "would constitute a
+conscious decision to violate the law."
+
+**Neither sentence appears.** The opinion discusses "a conscious decision to prioritize profits over
+compliance," which is a different proposition.
+
+### The one that was misquoted
+
+**We published:** "This decision **confirms** that **officers** owe a duty of oversight," at
+289 A.3d 343, 361.
+
+**The opinion says**, at slip op. 2: "This decision **clarifies** that **corporate officers** owe a
+duty of oversight." Two words wrong and the page wrong.
+
+*Also corrected:* the *Marchand* monitoring sentence was published as "a good faith effort to put in
+place a reasonable system of monitoring and reporting **about the corporation's central compliance
+risks**." The opinion says, at slip op. 31: "the board must make a good faith effort — i.e., **try**
+— to put in place a reasonable **board-level** system of monitoring and reporting." The published
+version dropped *board-level*, which is the qualifier that makes *In re McDonald's* significant.
+
+### What this cost the argument, and it is not nothing
+
+The two missing quotations were **the centrepiece of the answer**. The section asserted that
+"Delaware forecloses it in its own words" and that "the business judgment rule cannot be a defense to
+this Act, and it is Delaware that says so." **That claim rested on two sentences that do not exist.**
+
+*Massey* survives and is verified, so the answer survives in a weaker and more honest form: the
+business judgment rule sits above a statutory floor, and a statute sets the floor. **What Delaware
+has not squarely said is that the rule can never be raised against a duty imposed by a statute
+outside the DGCL.** The section now says that, and says it is open.
+
+**Fix:** both fabricated quotations removed; the *McDonald's* and *Marchand* quotations restated
+from the opinions with slip pages; the seven verified quotations marked ✅ with the date they were
+read; the section's claim narrowed to what the surviving authority supports. Status: cured.
+
+### The rule this proves, and it was already written down
+
+**E22 requires a quote in hand. A quote in a reply is not a quote in hand.**
+
+The retrieval reply that supplied these was the best of three received today: it carried four
+explicit CANNOT VERIFY rows, it marked every other row VERIFIED or SECONDARY, and it gave pincites
+to the page. **It marked both fabricated quotations VERIFIED, sourced to "opinion itself."** The
+calibration signals were real and the calibration was wrong, which is the harder case to catch.
+
+**Seven of ten were exact.** That is a good hit rate and it is the reason the failure is dangerous:
+a source that is right most of the time trains you to stop checking. The ⚠ blocks are what made this
+recoverable, and every claim added today that has not yet been read still carries one.
+

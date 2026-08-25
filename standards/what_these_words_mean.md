@@ -273,8 +273,9 @@ failure of the board to exercise oversight — such as an utter failure to attem
 reasonable information and reporting system exists — will establish the lack of good faith that is a
 necessary condition to liability." *Marchand v. Barnhill*, 212 A.3d 805, 824 (Del. 2019) narrowed
 the target to what matters most: "In Blue Bell's case, food safety was essential and **mission
-critical**." And *In re McDonald's*, 289 A.3d 343, 361 (Del. Ch. 2023) moved it off the board:
-"This decision confirms that **officers** owe a duty of oversight."
+critical**." And *In re McDonald's Corp. Stockholder Derivative Litigation*, C.A. No. 2021-0324-JTL (Del. Ch.
+26 Jan. 2023) (Laster, V.C.) moved it off the board, at slip op. 2: **"This decision clarifies that
+corporate officers owe a duty of oversight."** ✅
 
 **Where this Act stands.** Two differences, and both cut in the same direction. Oversight liability
 is *civil, fiduciary, and owed to the corporation*; this Act's duty is *criminal, statutory, and
@@ -285,11 +286,12 @@ to know is the strongest evidence that the question this Act asks is a familiar 
 
 **Business judgment rule** — the presumption that a fiduciary's considered decision will not be
 second-guessed. The expected objection is that releasing a model is a business judgment. **Delaware
-forecloses it in its own words.** *In re TransUnion*, 324 A.3d 869, 887 (Del. Ch. 2024): "What a
-corporate fiduciary cannot do, however, is make a business judgment to cause or allow the
-corporation to break the law." *In re Massey Energy*, 2011 WL 2176479 (Del. Ch.): "Delaware law does
-not charter law breakers." The rule protects a decision that carries legal risk; it does not protect
-a decision to violate a statute.
+sets a floor under it, in its own words.** *In re Massey Energy Co. Derivative & Class Action
+Litig.* (Del. Ch. 31 May 2011) (Strine, V.C.), slip op. 46: **"Delaware law does not charter law
+breakers."** And on the same page: "Delaware law allows corporations to pursue diverse means to
+make a profit, subject to a critical statutory floor, which is the requirement that Delaware
+corporations only pursue 'lawful business' by 'lawful acts.'" ✅ *Both read in the opinion,
+25 August 2026.*
 
 **Exculpation, indemnification, and advancement** — the three ways a company pays for an officer's
 defense, and the reason SEC. 7(b) exists. Delaware's exculpation provision, 8 Del. C.
