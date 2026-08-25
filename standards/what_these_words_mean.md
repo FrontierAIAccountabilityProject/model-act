@@ -246,11 +246,20 @@ that "in proving a defendant's possession of actual knowledge, circumstantial ev
 including evidence that the defendant took affirmative steps to be shielded from relevant
 information," and RCRA carries near-identical language for its knowing-endangerment offense.
 
-**Where this Act stands.** The tagged text does not mention it. **That is a gap, not a position**,
-and [CURE 22](../audit/v3_5_cure_language.md) proposes the codified form, because SEC. 9(b) already
-does the same work from the other end: the reporting clock runs from when an incident "would have
-been detected by the monitoring the entity certified it maintains." **An Act that already refuses to
-credit unmonitored ignorance should say so about deliberate ignorance too.**
+**Where this Act stands, and the answer is stranger than a gap.** The tagged text uses the doctrine
+**once**, at SEC. 2(b), and uses it against the *smallest* actor it reaches: the reliance path that
+lets a non-modifying deployer discharge its duty "is unavailable to a deployer that knows, or
+**consciously avoids knowing**, of a material nonconformity in the adopted validation or in the
+deployed configuration."
+
+**So a downstream deployer forfeits its safe course for deliberate ignorance, and a controlling
+person of the developer does not.** SEC. 6 says nothing about it. Whether that asymmetry was chosen
+or inherited, it is the wrong way round on any reading, and it is what
+[CURE 22](../audit/v3_5_cure_language.md) proposes to correct by writing the codified federal form
+into SEC. 6(b). SEC. 9(b) already does the same work from a third direction: the reporting clock
+runs from when an incident "would have been detected by the monitoring the entity certified it
+maintains." **An Act that refuses to credit unmonitored ignorance at SEC. 9, and refuses to credit
+deliberate ignorance at SEC. 2, should say which it does at SEC. 6.**
 
 ⚠ **Read-status.** Every case in these three entries is quoted from the Congressional Research
 Service's *Enforcement of Federal Pollution Control Laws* or from Hustis and Gotanda,

@@ -1343,3 +1343,44 @@ worse than a wrong number, because a wrong number announces itself to anyone who
 quietly corrected quotation does not. It was found by accident. **There is now a detector for it,
 and it should be run after any bulk edit.**
 
+<a id="e45"></a>
+
+## E45 — the glossary said the Act was silent on willful blindness; the Act uses it, once, against the wrong person
+
+**Filed 25 August 2026. Internal catch, four hours after publication, on the first end-to-end
+reading of the statute this maintainer had done all day.**
+
+**What was published.** The glossary's willful blindness entry, added this afternoon: *"The tagged
+text does not mention it. **That is a gap, not a position.**"*
+
+**What the tagged text says.** SEC. 2(b), the reliance path for non-modifying deployers: reliance
+"is unavailable to a deployer that knows, or **consciously avoids knowing**, of a material
+nonconformity in the adopted validation or in the deployed configuration."
+
+The doctrine is in the Act. It appears exactly once. **And it appears against the smallest actor the
+Act reaches.** A downstream deployer forfeits its safe course for deliberate ignorance; a
+controlling person of the developer faces nothing of the kind, because SEC. 6 says nothing about it.
+
+**Why the correction is worth more than the error cost.** "The Act is silent" invited a cure that
+adds something new. "The Act uses it once, against the deployer and not the developer" is a
+different and better finding: **an asymmetry that runs the wrong way on any reading**, sitting in
+the tagged text, which CURE 22 now corrects rather than merely supplements. The entry has been
+restated on that footing.
+
+**Fix:** the glossary entry rewritten to quote SEC. 2(b) and state the asymmetry. Status: cured.
+
+---
+
+**Method note, and it is the third entry today from one cause.** [E43](#e43) cited a paragraph that
+does not exist because a cross-reference was read as a location. [E44](#e44) let a tool rewrite
+fourteen quotations because a mask was built line by line. This entry claimed the Act was silent on
+a doctrine it uses.
+
+**All three were written by someone who had read this statute in pieces and never in one sitting.**
+Six hundred and eleven lines, and the sections quoted most confidently today — SEC. 4, 5, 7, 8 —
+were read closely while SEC. 0, 1, 2, 6, 10, 11, 12 and 13 were grepped. The project's standing
+rule is that a grep finds the owning file and never replaces reading it. **That rule was being
+applied to files and not to the instrument itself.**
+
+The reading is now done. It produced this erratum in its first ten minutes.
+
