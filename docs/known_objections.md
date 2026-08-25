@@ -405,6 +405,72 @@ Act's duties attach to conduct and to authority instead, which is why the same e
 inside it. The honest cost of that choice is that it reaches conduct which harms nobody, and a
 reviewer who thinks the trade is wrong should say so.
 
+## "Corporate law already answers this, and it answers in our favour" — added 25 August 2026
+
+This is the objection a corporate governance lawyer raises, and until today this file could not
+answer it because it had never named the doctrine. *Caremark*, *Stone v. Ritter*, the business
+judgment rule and the duty of oversight appeared **nowhere in this repository**. That absence is
+recorded rather than quietly repaired, because a reader who searched for any of those words in the
+first minute would have concluded, reasonably, that the drafter had not heard of them.
+
+**The objection, at its strongest.** Deciding whether to release a model is a business decision made
+by fiduciaries. Delaware — where these companies are incorporated — has spent thirty years building
+the law of when a fiduciary answers personally for a failure to supervise, and it set the bar high
+on purpose. *In re Caremark*, 698 A.2d 959, 971 (Del. Ch. 1996): only "a sustained or systematic
+failure of the board to exercise oversight — such as an utter failure to attempt to assure a
+reasonable information and reporting system exists" establishes the bad faith liability requires.
+A state that criminalizes the same conduct at a *lower* threshold has not filled a gap. It has
+overridden a considered judgment about how much protection a decision-maker needs.
+
+**The first half of the answer: this Act is not in that body of law at all.** Oversight liability is
+civil, it is fiduciary, and it is owed to the corporation and its stockholders. The duty here is
+criminal, statutory, and owed to the public. The two can coexist because they answer different
+questions to different people, and a statute that imposes a public duty is not amending anybody's
+fiduciary standard.
+
+**The second half is the part the objection does not survive: Delaware forecloses it in its own
+words.** *In re TransUnion Derivative Stockholder Litigation*, 324 A.3d 869, 887 (Del. Ch. 2024):
+
+> "What a corporate fiduciary cannot do, however, is make a business judgment to cause or allow the
+> corporation to break the law."
+
+*In re Massey Energy*, 2011 WL 2176479 (Del. Ch. 2011): "Delaware law does not charter law breakers."
+And *Ontario Provincial Council of Carpenters' Pension Trust Fund v. Walton*, 294 A.3d 65, 90, 92
+(Del. Ch. 2023) draws the line exactly where it has to be drawn: the rule "protects" a decision that
+"carries legal risk, but which otherwise involves legally compliant conduct," while a decision to
+proceed unlawfully "would constitute a conscious decision to violate the law, the business judgment
+rule would not apply, and the directors would be acting in bad faith."
+
+**So the business judgment rule cannot be a defense to this Act, and it is Delaware that says so.**
+Once a statute makes the conduct unlawful, the rule stops applying by its own terms. The objection
+proves the reverse of what it intends.
+
+**And the direction of travel runs the same way.** *Marchand v. Barnhill*, 212 A.3d 805, 824
+(Del. 2019) required "a good faith effort to put in place a reasonable system of monitoring and
+reporting about the corporation's central compliance risks," and found the failure where "food
+safety was essential and **mission critical**." *In re McDonald's Corp. Stockholder Derivative
+Litigation*, 289 A.3d 343, 361 (Del. Ch. 2023) then took the duty off the board: "This decision
+confirms that **officers** owe a duty of oversight." Delaware has been moving, on its own, toward
+the proposition that the person with responsibility for a mission-critical risk answers for failing
+to build a system to know about it. **That is this Act's proposition, arrived at independently, in
+the corporate law of the state these companies chose.**
+
+**What this does not answer, and a reviewer should press on.** It does not answer whether a criminal
+statute is the right instrument when a civil one already reaches the conduct — that is the torts and
+design lane's sixth question and this project's largest unanswered one. It does not answer whether
+SEC. 6(a)'s due-care floor is too low given that Delaware deliberately set bad faith as its own
+threshold. And it does not touch a genuinely open question: whether 8 Del. C. § 102(b)(7)
+exculpation, which by its terms reaches "monetary damages for breach of fiduciary duty," has
+anything to say about a duty imposed by a statute outside the DGCL. **We have found no case
+deciding it.** If a governance seat can, that is a finding.
+
+⚠ **Read-status, stated so this section is not mistaken for more than it is.** Every quotation above
+was obtained through a retrieval reply and **has not been checked against the reporters**. *Caremark*,
+*Stone*, *Marchand*, *McDonald's*, *TransUnion*, *Walton* and *Massey* are all on the retrieval list.
+Under [E22](../ledger/errata.md) nothing here may be described as verified, and no outreach may cite
+it as settled, until the opinions are read.
+
+
 ## "You cannot prove an AI system caused the harm" — added 25 August 2026
 
 This objection is usually raised in the abstract. It now has a courtroom.
