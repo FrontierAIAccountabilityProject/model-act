@@ -218,11 +218,24 @@ html {
 
 // Where you are: the page begins with air, and the title does not crowd the masthead.
 .main-content > h1:first-child {
-  margin-top: 2rem;
+  margin-top: 2.5rem;
 }
 .main-header {
-  padding-top: 0.55rem;
-  padding-bottom: 0.55rem;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+// the masthead sits on the same gutter as the text beneath it
+.site-header .site-title,
+.main-header .site-title {
+  padding-left: 1.85rem;
+  padding-right: 1.85rem;
+}
+@media (min-width: 50rem) {
+  .site-header .site-title,
+  .main-header .site-title {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
 }
 
 // Breathing: the page is read slowly, so it is set slowly.
@@ -237,8 +250,10 @@ html {
 }
 @media (max-width: 50rem) {
   .main-content-wrap {
-    padding-left: 1.4rem;
-    padding-right: 1.4rem;
+    padding-left: 1.85rem;
+    padding-right: 1.85rem;
+    padding-top: 1.35rem;
+    padding-bottom: 2.75rem;
   }
 }
 
