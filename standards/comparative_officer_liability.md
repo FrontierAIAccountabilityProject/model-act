@@ -349,6 +349,35 @@ enforcement), not a private action; a reader pressing the citizen-suit question 
 at that design choice, which [bracketed matter](./bracketed_matter.md) does not currently discuss
 and a drafting session may wish to.
 
+**§ 5 addendum, 25 August — the full article read, and two harder points it makes.** The complete
+PDF is now held (SSRN 4186172; the reading note is in the private library). The civil-only finding
+above stands unchanged and needs no further correction. Two further passages, quoted rather than
+paraphrased because they cut at the Act's foundations, belong on this page so no reviewer finds
+them first:
+
+1. **The empirical claim about state legislatures.** *"Indeed, state legislatures have largely
+   chosen not to include responsible corporate officer liability within the criminal provisions of
+   environmental laws"* (64 B.C. L. Rev. at 297–98). This project's census counts what states have
+   enacted for AI; Lyness counts what they declined to enact in the doctrine's home field. A
+   sponsor asking "has any state done this criminally" is entitled to that answer, and it is not a
+   comfortable one. The Act's response is not that he is wrong but that the risk profile differs:
+   environmental harm is largely remediable and insurable, and the Act's own argument for the
+   criminal road rests on harms that are neither. **That answer is asserted here, not proven, and
+   the comparative seat should test it.**
+
+2. **The misdemeanour point, which bears on the Act's own lineage.** *"To be sure, both
+   Dotterweich and Park involved criminal liability. But both involved misdemeanor criminal
+   liability during a time when the immediate and collateral consequences were different"*
+   (at 298). The Act is named for the doctrine those cases created and cites them as its
+   foundation. If the authority they supply is misdemeanour-scale, then the Act's penalty
+   architecture reaches beyond what its own precedents establish, and the gap must be argued for
+   rather than inherited. This is now an open question for the criminal-law and proportionality
+   seats jointly, and it is the strongest doctrinal objection in the scholarship this project
+   relies on.
+
+Neither point is an erratum: nothing published was inaccurate. Both are disagreements from a
+source the Act uses, recorded at full strength, which is what this page is for.
+
 **Find one — the doctrine reaches inside government.** *United States v. Dee*, 912 F.2d 741,
 747–49 (4th Cir. 1990), cert. denied, 499 U.S. 919 (1991): civilian **U.S. Army managers** of a
 federal chemical facility, convicted under RCRA, their culpability arising *"solely from their
