@@ -112,3 +112,69 @@ several (self-designation, CURE 6; Agency capability designation; the enterprise
 held at CURE 7). Recorded so a reviewer meets the answer where the critique will occur to them.
 Sources owned at [the forecasters' arithmetic](../research/forecast_arithmetic.md) § 6 and
 [two visions](../docs/two_visions.md).
+
+## PF-7 · CURE candidate — SEC. 8 names a mental state SEC. 6(a) does not require, and § 1350 has no tier that low
+
+*Found 25 August 2026 by reading 18 U.S.C. § 1350 in full, in the course of verifying the twelve
+statutory citations in the tagged text. Primary read; see [the table of authorities](../standards/table_of_authorities.md).*
+
+**What § 1350 actually contains.** Two tiers, and **both require knowledge**:
+
+> (c)(1) "Whoever certifies any statement as set forth in subsections (a) and (b) of this section
+> **knowing** that the periodic report accompanying the statement does not comport with all the
+> requirements set forth in this section shall be fined not more than $1,000,000 or imprisoned not
+> more than 10 years, or both."
+>
+> (c)(2) "Whoever **willfully** certifies any statement ... **knowing** that the periodic report ...
+> does not comport ... shall be fined not more than $5,000,000, or imprisoned not more than 20
+> years, or both."
+
+**There is no tier below knowledge in § 1350.** An executive who certifies without adequate inquiry,
+but without knowing the report is non-compliant, commits no offense under it at all.
+
+**What this Act does.** SEC. 8 closes: "Knowing false certification is an offense under SEC. 6(b)(1);
+**reckless certification without reasonable inquiry** is an offense under SEC. 6(a)." The first limb
+tracks § 1350. **The second has no counterpart in the model**, and the Act elsewhere describes itself
+as built "on the structure of 18 U.S.C. § 1350."
+
+**And the second limb misdescribes its own destination.** SEC. 6(a)'s element is that the person
+"failed to exercise due care," measured against "the conduct of a reasonably prudent controlling
+person in like circumstances." **That is negligence.** SEC. 8 advertises recklessness, which is
+higher. So a certification made *negligently* without reasonable inquiry — not recklessly — still
+satisfies SEC. 6(a), while the section that tells the officer what signing exposes them to says it
+does not.
+
+**Why it matters more than a word.** Three things:
+
+**One.** [The half-statute page](../docs/safe_harbors_and_affirmative_defenses.md) and
+[n.8 of the v3.3 companion](../archive/model_act_v3_3_companion.md) both defend SEC. 8 from § 1350
+by argument from practice: § 1350's maxima are three to six times this Act's base felony tier, and
+"executives have signed under harsher terms every quarter since 2002." **That argument covers the
+ceiling and says nothing about the floor.** The tier most certifying officers would actually be
+exposed to is the one the precedent does not reach.
+
+**Two.** It is a fair-notice problem in the one provision the entire Act exists to make a natural
+person sign. SEC. 8 is where an officer learns what the signature costs, and it currently understates
+it.
+
+**Three.** The doctrine is on the Act's side and only the label is wrong. *United States v.
+DeCoster*, 828 F.3d 626 (8th Cir. 2016) — ✅ read 25 August 2026 — Gruender, J., concurring: "*Park*
+requires a finding of negligence in order to convict a responsible corporate officer under § 331."
+SEC. 6(c)'s culpability floor ("No custodial sentence may be imposed absent proof of at least the
+failure of due care described in subsection (a)") is doing exactly that work, correctly. **The Act
+is right on the doctrine and loose on the word.**
+
+**Candidate language** (placement: SEC. 8, closing sentence, one word):
+
+> Knowing false certification is an offense under SEC. 6(b)(1); certification without reasonable
+> inquiry is an offense under SEC. 6(a), which requires proof of the failure of due care described
+> in that subsection.
+
+**The alternative, and a reviewer should choose between them rather than accept the first.** Raise
+SEC. 6(a) to the recklessness SEC. 8 already advertises, as to certification only. That narrows the
+Act and buys the § 1350 analogy outright. **It also abandons the negligence floor *DeCoster* says
+*Park* supplies**, which is the Act's strongest answer to the *Ahmad* attack on the felony tier.
+The choice is between a defensible analogy and a defensible doctrine, and it belongs to the
+criminal-law seat.
+
+**Administrative load:** none. One sentence in SEC. 8, or one clause in SEC. 6(a).
