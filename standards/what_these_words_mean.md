@@ -193,6 +193,51 @@ apply.
 narrower and better one than the version this page carried until 25 August 2026 — see
 [E42](../ledger/errata.md#e42--the-doctrine-was-said-never-to-have-left-food-and-drug-it-left-decades-ago-by-act-of-congress).
 
+**Duty of oversight** — *the Caremark line.* The corporate-law doctrine nearest to what this Act
+does, and the one a governance lawyer reaches for first. It asks whether those in charge built a
+system to know. *In re Caremark*, 698 A.2d 959, 971 (Del. Ch. 1996): "only a sustained or systematic
+failure of the board to exercise oversight — such as an utter failure to attempt to assure a
+reasonable information and reporting system exists — will establish the lack of good faith that is a
+necessary condition to liability." *Marchand v. Barnhill*, 212 A.3d 805, 824 (Del. 2019) narrowed
+the target to what matters most: "In Blue Bell's case, food safety was essential and **mission
+critical**." And *In re McDonald's*, 289 A.3d 343, 361 (Del. Ch. 2023) moved it off the board:
+"This decision confirms that **officers** owe a duty of oversight."
+
+**Where this Act stands.** Two differences, and both cut in the same direction. Oversight liability
+is *civil, fiduciary, and owed to the corporation*; this Act's duty is *criminal, statutory, and
+owed to the public*. And oversight liability requires bad faith, while SEC. 6(a)'s floor is a
+failure of due care. **So the Delaware line is not this Act in another suit. It is the nearest
+neighbor, and the fact that a state's corporate law already asks whether an officer built a system
+to know is the strongest evidence that the question this Act asks is a familiar one.**
+
+**Business judgment rule** — the presumption that a fiduciary's considered decision will not be
+second-guessed. The expected objection is that releasing a model is a business judgment. **Delaware
+forecloses it in its own words.** *In re TransUnion*, 324 A.3d 869, 887 (Del. Ch. 2024): "What a
+corporate fiduciary cannot do, however, is make a business judgment to cause or allow the
+corporation to break the law." *In re Massey Energy*, 2011 WL 2176479 (Del. Ch.): "Delaware law does
+not charter law breakers." The rule protects a decision that carries legal risk; it does not protect
+a decision to violate a statute.
+
+**Exculpation, indemnification, and advancement** — the three ways a company pays for an officer's
+defense, and the reason SEC. 6(b)(5) exists. Delaware's exculpation provision, 8 Del. C.
+§ 102(b)(7), reaches "monetary damages for **breach of fiduciary duty**" and expressly cannot reach
+"acts or omissions not in good faith or which involve intentional misconduct or a knowing violation
+of law." Its indemnification provision, § 145(a), covers criminal proceedings only where the person
+"had no reasonable cause to believe the person's conduct was unlawful." And § 145(g)(1) contemplates
+insurance that excludes "any . . . deliberate criminal or deliberate fraudulent act of such person,
+or a knowing violation of law by such person, if . . . established by a final, nonappealable
+adjudication."
+
+**Where this Act stands.** SEC. 6(b)(5) bars indemnification and insurance for what the tagged text
+still calls "a knowing or wilful violation," once finally adjudicated. **That is not a novel imposition on corporate practice. It is nearly
+the line Delaware's own code already draws, in nearly the same words** — which is either the
+strongest defense of the provision or the strongest argument that it is redundant, and the torts and
+design seat is asked which.
+
+⚠ **Read-status.** Every quotation in these three entries is taken from a retrieval reply, not from
+the reporters or the Delaware Code. **They are unverified**, they are on the retrieval list, and
+under E22 no outreach may describe them as checked until the primaries are read.
+
 ---
 
 ## The two columns — the same word in law and in the machine
