@@ -253,3 +253,27 @@ html {
   background: transparent;
   color: $ink;
 }
+
+// ---- the currency notice: a quiet offer, never an interruption ----
+#currency-notice {
+  background: $cream-deep;
+  border-bottom: 1px solid #ddd5c5;
+  box-shadow: inset 0 3px 0 $maroon;
+  color: $ink;
+  font-size: 0.82rem;
+  letter-spacing: 0.01em;
+  padding: 0.55rem 1rem;
+  text-align: center;
+}
+#currency-notice a {
+  color: $maroon;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+// ---- the build stamp in the footer ----
+.build-stamp {
+  color: #6b6355;
+  font-size: 0.74rem;
+  margin-top: 0.6rem;
+}

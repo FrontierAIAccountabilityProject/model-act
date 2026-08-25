@@ -8,7 +8,7 @@ rather than a guess.*
 *Arrived from an invitation email that linked [the lane sweep](./audit/v3_5_lane_sweep.md)? That
 document is step 2 of the path below, and its first line points back here.*
 
-**Already know your seat? Take the paper path:** seven lanes have a
+**Already know your seat? Take the paper path:** eight lanes have a
 **[single-page packet](./packets/index.md)** — this whole page's path, inlined in your lane's
 reading order, built by committed script. Print it, mark it up, send the marked copy back. This
 page remains the terms, the tables, and the map; the packet is the same journey as one
@@ -77,7 +77,7 @@ not trust us.
 
 ## The path — the six to eight hours
 
-**Already know your seat? Prefer paper?:** seven lanes have a
+**Already know your seat? Prefer paper?:** eight lanes have a
 **[single-page packet](./packets/index.md)** — this whole page's path, inlined in your lane's
 reading order, built by committed script. The packet is the same journey as one
 document.

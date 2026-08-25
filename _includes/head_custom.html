@@ -2,3 +2,39 @@
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon-32.png' | relative_url }}?v=2">
 <link rel="apple-touch-icon" href="{{ '/assets/img/favicon-180.png' | relative_url }}?v=2">
 <meta name="theme-color" content="#5c1f1c">
+
+<script>
+// A quiet currency check. The site is a live record, and a reader may hold a packet
+// open for days while the cure queue moves underneath it. This never reloads the page
+// by itself; it offers.
+(function () {
+  var url = "{{ '/version.json' | relative_url }}";
+  var mine = null, timer = null;
+  function read(cb) {
+    fetch(url, { cache: "no-store" })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (v) { cb(v && v.rev ? String(v.rev) : null); })
+      .catch(function () { cb(null); });
+  }
+  function offer() {
+    if (document.getElementById("currency-notice")) return;
+    var d = document.createElement("div");
+    d.id = "currency-notice";
+    d.innerHTML = 'A newer version of this page has been published. ' +
+      '<a href="#" id="currency-reload">Reload</a>';
+    document.body.insertBefore(d, document.body.firstChild);
+    document.getElementById("currency-reload").addEventListener("click", function (e) {
+      e.preventDefault(); location.reload(true);
+    });
+    if (timer) clearInterval(timer);
+  }
+  read(function (rev) {
+    if (!rev) return;
+    mine = rev;
+    timer = setInterval(function () {
+      if (document.hidden) return;
+      read(function (now) { if (now && mine && now !== mine) offer(); });
+    }, 300000);
+  });
+})();
+</script>

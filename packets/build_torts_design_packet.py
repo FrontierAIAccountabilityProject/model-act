@@ -267,7 +267,7 @@ short and worth ten minutes.
 ## The other seats, and how this lane meets them
 
 The review runs in parallel lanes — criminal law, enforcement, security,
-fiscal, proportionality, federalism, torts/design, with open-source gated separately. Each seat
+fiscal, proportionality, federalism, torts/design, and open source and academia. Each seat
 reviews independently, and each disposition publishes independently, as written, so no lane waits
 on another. Findings that change text route through the public cure queue and the errata register,
 where every other lane sees them. That queue is how v3.4 becomes v3.5: each lane's verified findings are drafted as cures against the tagged text, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'. The maintainer collates and responds separately and labelled,
