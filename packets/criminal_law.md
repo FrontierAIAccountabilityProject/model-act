@@ -89,6 +89,15 @@ candidate finding — verifying or refuting one is a complete finding for the di
 is retrieved and read (retrieval list). Working default: three interim standards suffice; the
 read confirms or overturns it.*
 
+*Resolved (24 Aug 2026, evening, under the same ruling's terms): the retrieval and read are
+done. Connecticut's enacted act — P.A. 26-15 (2026) — adopts the frontier definitions (the 10²⁶
+operations line; the five-hundred-million-dollar revenue tier) but attaches to frontier
+developers only a whistleblower-channel duty (its § 2). It carries no due-care corpus a frozen
+interim standard could adopt. **Three interim standards stand.** Collateral finds land at their
+owners: the § 33(e) anti-defense clause (the half-statute page); the officer-knowledge quarterly
+report (already owned by the census); the failed S.B. 2's NIST defense (⚠ inference from the
+bill file and analysis; enactment-status check queued).*
+
 *Opened 21 August 2026 by [E16](../ledger/errata.md). **Not a cure — a drafting decision**, held
 here rather than made silently, because it changes the tagged statutory text and
 [E10](../ledger/errata.md) forbids editing a tagged file outside a revision.*
@@ -424,7 +433,7 @@ immediate, and SEC. 6(a) supplies a year's custody on due-care failure. "Mislead
 a literally true statement is criminal, with no scienter — the compelled-characterisation problem
 the Act works hard to avoid at SEC. 8, SEC. 9(c) and n.16, reintroduced through the back door. And
 this is the offense SEC. 13(b)(1) puts in the **first rank** and n.13 relies on as preemption-proof:
-load-bearing, and the softest target in the Act.
+central, and the softest target in the Act.
 
 **Operation.**
 
@@ -449,6 +458,12 @@ inquiry remains an offense — without leaving the base offense at zero fault.
 ---
 
 ### CURE 17 — SEC. 11(d): remedies for a reporter outside employment
+
+*Donor note (24 Aug, evening): New York's own Labor Law § 740 notice (in hand) marks the
+comparator's edge exactly — it protects "an individual who performs services for and under the
+control and direction of an employer," former employees and dependent contractors included,
+against employer retaliation, and reaches no outside reporter and no non-employment reprisal.
+The employment-shaped remedy is the gap this cure exists to close.*
 
 *The record's only actual frontier whistleblower was an outside member of the public — the AISI
 incident's ⟨PERSON_C⟩, publicly identified 20 August ([the incident file § 5](../research/aisi_incident_inc_2026_07_28_01.md))
@@ -505,7 +520,13 @@ count, and file-status claim in the evidence base was made;
 
 ## V. Filing
 
-*How this seat's work becomes the next version: verified findings are drafted as cures against the tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'. Reviewer identities are never shared between reviewers.*
+*How this seat's work becomes the next version: verified findings are drafted as cures against the
+tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so
+a disposition here is a chapter of the next version, written alongside the other seats'. Reviewer
+identities are never shared between reviewers. The nearest familiar analogy is a conference paper
+rather than peer review: you take a seat, do the work, and it is published as yours — see
+[the dispositions register](../dispositions/README.md) for the rules, fixed before the first one
+arrived.*
 
 
 Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any

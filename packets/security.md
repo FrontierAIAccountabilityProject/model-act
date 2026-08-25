@@ -213,14 +213,19 @@ Method-wide entries — E21, E22 (extended by E32), E27, E33 — govern how ever
 count, and file-status claim in the evidence base was made;
 [the register](../ledger/errata.md) is short and worth ten minutes.
 
+*How this seat's work becomes the next version: verified findings are drafted as cures against the
+tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so
+a disposition here is a chapter of the next version, written alongside the other seats'. Reviewer
+identities are never shared between reviewers. The nearest familiar analogy is a conference paper
+rather than peer review: you take a seat, do the work, and it is published as yours — see
+[the dispositions register](../dispositions/README.md) for the rules, fixed before the first one
+arrived.*
+
+
 ## VI. Filing
-
-*How this seat's work becomes the next version: verified findings are drafted as cures against the tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'. Reviewer identities are never shared between reviewers.*
-
 
 Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any
 form: a memo, a marked-up copy of this packet, a numbered list of findings, or six objectives
-written out. Or, if you were contacted by the maintainer through a different channel, reply on that channel. Or, if you were contacted by the maintainer through a different channel, reply on the
-channel you were contacted on. It is published as written, credited or anonymous at your choice;
+written out. Or, if you were contacted by the maintainer through a different channel, reply on that channel. It is published as written, credited or anonymous at your choice;
 council seats publish with names, which is the point of them. A finding that something is broken is
 the seat working, not failing.

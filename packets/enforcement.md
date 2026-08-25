@@ -122,6 +122,12 @@ because the answer to it changes what the five repairs are worth.*
 
 ## OPEN QUESTION 4 — SEC. 2(a) and SEC. 1(c): the Act does not reach the conduct it was written after
 
+*Donor note (24 Aug, evening): the Apollo Research primer (see OQ2's note) documents the same
+gap from the technical side — internal systems "could theoretically be operated with fewer
+safety constraints than externally deployed systems" — and recommends oversight bodies with
+authority to "vet and veto certain decisions" plus pre-internal-deployment system cards to
+government: the amendment's premise, argued independently.*
+
 *Opened 22 August 2026 by [the lane sweep](../audit/v3_5_lane_sweep.md), enforcement lane, graded **fatal**.
 Not a cure — the most consequential scope question in the file, and the first thing to read
 here.*
@@ -534,10 +540,16 @@ Method-wide entries — E21, E22 (extended by E32), E27, E33 — govern how ever
 count, and file-status claim in the evidence base was made;
 [the register](../ledger/errata.md) is short and worth ten minutes.
 
+*How this seat's work becomes the next version: verified findings are drafted as cures against the
+tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so
+a disposition here is a chapter of the next version, written alongside the other seats'. Reviewer
+identities are never shared between reviewers. The nearest familiar analogy is a conference paper
+rather than peer review: you take a seat, do the work, and it is published as yours — see
+[the dispositions register](../dispositions/README.md) for the rules, fixed before the first one
+arrived.*
+
+
 ## VI. Filing
-
-*How this seat's work becomes the next version: verified findings are drafted as cures against the tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'. Reviewer identities are never shared between reviewers.*
-
 
 Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any
 form: a memo, a marked-up copy of this packet, a numbered list of findings. Or, if you were contacted by the maintainer through a different channel, reply on that channel. Or, if you were
