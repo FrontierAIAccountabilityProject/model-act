@@ -288,6 +288,76 @@ handling this"* — an affirmative-defense statute here, a sandbox there — the
 page: [safe harbors, affirmative defenses, and the half-statute](./safe_harbors_and_affirmative_defenses.md).
 
 
+## "You will delay the cures" — the acceleration objection, answered with clinical numbers — added 25 August
+
+The objection is rarely stated in a hearing room in these words, but it underwrites most of the
+others: constrain frontier AI and you postpone the medicine it would otherwise deliver. It is the
+most emotionally powerful thing said against regulation of this technology, and it is usually
+answered with assertion. It can be answered with evidence.
+
+The evidence used here is a physician's, not a lawyer's. Emilia Javorsky, MD, MPH, Director of the
+Futures Program at the Future of Life Institute, published *How AI Can, and Can't, Cure Cancer*
+in March 2026 (read in full; in the project's source library). She is not a critic of the
+technology, and her essay's closing sections argue for scaling AI tools in oncology. Her account
+of what actually gates medical progress is the point:
+
+> "I have seen how a new therapy is developed, and intelligence, super or otherwise, was
+> definitely not the bottleneck."
+
+**The arithmetic of acceleration.** Her numbers are specific enough to argue with:
+
+> "On average, it takes 10.5 years for a drug to move from Phase I through regulatory approval.
+> For drugs entering Phase I, 90% will fail somewhere along the pathway, with lack of clinical
+> efficacy representing 40-50% of failures and safety concerns another 30%. This is not a problem
+> of insufficient intelligence in trial design, it's the inherent challenge of safely testing
+> interventions in humans on biological timescales."
+
+And on what the compression claims are worth:
+
+> "while AI's role in accelerating drug discovery sounds like a 90% improvement to the public, the
+> reality is more modest, perhaps 10-20% time savings because you're only radically condensing the
+> initial pre-clinical phase of drug development."
+
+**The case that settles it.** Her strongest example is a controlled experiment nobody designed. In
+2020 AI identified a novel antibiotic candidate, Halicin. The science worked:
+
+> "Unlike HAL, the AI worked. The chemistry worked. The mouse studies worked. Further, compared to
+> most drugs, antibiotics that work in mice have a high predictive value to work in humans. The
+> clinical need is desperate, with antibiotic resistance killing an estimated 1.27 million people
+> globally each year. But, five years later, where are these antibiotics? The problem wasn't with
+> the science, it was with the market."
+
+Three companies are named as the pattern: Achaogen bankrupt in 2019 despite FDA approval for
+plazomicin, Melinta in bankruptcy, Aradigm out of antibiotics altogether. **A capability that
+existed did not become a medicine, and no amount of additional capability would have changed
+that.** Whatever is holding back the cure, on this evidence it is not a shortage of intelligence,
+and a statute that reaches the people who decide is not competing with the cure for the same
+scarce resource.
+
+**The deeper point, and why it belongs on this page rather than a footnote.** Javorsky's account
+of how the technology sector's optimising culture behaves when it meets a complex system is the
+externality argument this Act rests on, arrived at from medicine:
+
+> "In optimizing for user engagement, narrow AI algorithms successfully drove profits but also
+> left behind increased rates of depression, impaired cognitive development in youth, erosion of
+> social trust, and the spread of misinformation. From Big Tech's perspective, this approach
+> proved extraordinarily profitable and the negative externalities were borne by users and
+> society, not the companies."
+
+That last sentence is the case for personal liability stated in economic terms. Where the gains
+are internal and the costs external, entity-level penalties are priced in as a cost of doing
+business; the responsible corporate officer doctrine exists precisely because some decisions must
+be made by a person who cannot hand the bill to someone else.
+
+**What is claimed and what is not.** Dr Javorsky has not been asked about this Act, has not
+reviewed it, and is not claimed as a supporter; nothing in her essay addresses officer liability.
+The essay is cited for three findings within her expertise: that intelligence is not the binding
+constraint in therapeutic development, that acceleration claims are overstated by roughly an order
+of magnitude, and that market structure can strand a working discovery. A reviewer who thinks this
+page leans on her further than those findings support should say so, and the disposition would be
+published.
+
+
 ## "The timelines make this pointless" — added 24 August
 
 The objection, stated at its strongest: the field's own forecasters put the modal year for
