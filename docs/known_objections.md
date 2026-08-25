@@ -211,6 +211,38 @@ the constitutional posture (no prior restraint anywhere in the design) and the h
 the innovation objection: nothing in this Act delays a single deployment by a single day. It
 prices the decision; it never takes the decision away.
 
+**A characterisation of ours, corrected, 25 August.** This project had filed Emilia Javorsky, on
+the strength of her Noema essay's title, as the clearest advocate of the approval model and
+therefore the natural opponent of this design. Her March 2026 essay *How AI Can, and Can't, Cure
+Cancer* (read in full; in the source library) does not support that filing, and the error is
+recorded here rather than quietly dropped, because inferring a position from a title is exactly
+what this project's own rule forbids.
+
+Her assessment of the agency is not the one an approval-model advocate would write:
+
+> "The FDA is thought of as an agency designed to make sure new drugs are safe and effective prior
+> to being sold in the United States, but as with all things, the devil is in the details. Close
+> examination reveals a 20th century agency ill-equipped to manage accelerating scientific
+> understanding."
+
+And her account of why the sector resists structural constraint reads as this Act's own premise,
+stated by a physician:
+
+> "Having spent the duration of their life cycles largely free from liability under Section 230,
+> and as they are currently advocating for federal AI amnesty, Silicon Valley is uniquely
+> ill-prepared to confront the significant regulatory constraints governing the transition of
+> successful science into approved therapy."
+
+**Why this matters beyond the correction.** The essay also supplies a clinician's answer to the
+acceleration argument that shadows every AI regulation debate, that constraint delays cures. Her
+finding, from having taken therapies from bench to bedside, is: "I have seen how a new therapy is
+developed, and intelligence, super or otherwise, was definitely not the bottleneck." That is the
+same conclusion Kierans, Casper & Ghosh reach from alignment research, by a wholly independent
+route. Two fields, one finding: the binding constraint is institutional. **The Act's use of this
+is bounded.** Neither author is claimed as a supporter, and neither has been asked. What the
+convergence supports is narrower: the premise that legal and institutional architecture is the
+place where outcomes are actually decided.
+
 ## "It shouldn't target AI companies" — the objection an assistant will raise — added 24 August
 
 Ask a general-purpose AI assistant to review this Act and some version of that sentence tends to
@@ -277,3 +309,29 @@ say in a disposition which leg fails: the window pattern, the arithmetic, or the
 *The argument this page defends: [the case](./the_case.md). The definitions it defends:
 [the definition](./the_definition.md). The operative language under attack:
 [the statute](../model_act_v3_4.txt) and [the v3.5 queue](../audit/v3_5_cure_language.md).*
+
+**The answer sharpened, 25 August, from inside the alignment field.** The objection assumes
+technical progress outruns legal process, so institutions arrive too late to matter. The strongest
+published statement of the contrary case is Kierans, Casper & Ghosh, *Intelligence Is Not the
+Bottleneck: Structural Barriers to Automating Alignment Research* (2026, read in full; in the
+project's source library). It names the claim it rejects: that "datacenters full of research
+agents will compress a decade's worth of alignment research progress into 6-12 months." Its
+finding is that "structural barriers, not intelligence, are the principal bottleneck," and its
+central sentence is the one this Act is built on:
+
+> "The parts of alignment that remain unsolved are not waiting for smarter, more numerous
+> researchers; they depend on whether we build mechanisms that allow accelerated research to
+> accumulate into something reliable. That is not yet happening, at least to public knowledge."
+
+Two further observations from the same paper bear directly on the objection's provenance. First,
+the assumption is convenient for the people who hold it: it "offers a very convenient agenda for
+companies who are racing to develop increasingly powerful AI." Second, without institutional
+work, automated alignment "might be abused as a safety-washed euphemism for automating AI
+capabilities progress."
+
+If that analysis is right, the timelines objection inverts: a constraint that is institutional
+rather than technical is not outrun by capability, and building durable legal mechanisms is the
+work rather than a distraction from it. **The Act's stake in this is honest and limited.** It does
+not claim the paper endorses officer liability; it claims the paper undercuts the premise that
+legal architecture cannot matter on these timescales. A reviewer who thinks that reading stretches
+the paper should say so, and the disposition would be published.

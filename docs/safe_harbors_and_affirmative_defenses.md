@@ -3,7 +3,7 @@
 A pattern is now visible across enacted and proposed AI legislation, and this page names it
 before it is used against this project: **the half-statute** — a law that adopts the *form* of
 frontier-AI accountability (risk frameworks, disclosures, reporting, even this Act's own
-public-domain vocabulary) while omitting its load-bearing element, and then functions in debate
+public-domain vocabulary) while omitting its central element, and then functions in debate
 as the reason no fuller statute is needed. *"We already have an AI law."*
 
 The mechanism has three working parts, and each now has enacted or introduced examples. The
@@ -216,7 +216,7 @@ duty; that allocation is *Park*'s, and it is this Act's.
 This text is public domain under CC0. Anything here may be taken, in whole or in part, without
 permission or attribution — including by a drafter who wants the vocabulary without the duty.
 That is the license working as intended, and partial adoption honestly labelled would be
-progress. What this page pre-empts is the *claim that the part is the whole*. The load-bearing
+progress. What this page pre-empts is the *claim that the part is the whole*. The central
 elements, published in advance so any borrowing can be measured against them:
 
 1. **A natural person** with final material authority, identified before the activity begins
@@ -245,3 +245,27 @@ amendment), the SANDBOX Act, Utah's learning laboratory, the TRUMP AMERICA AI Ac
 American AI Act discussion draft, and the Federal Register text of the 11 December 2025 order
 (number to be confirmed against the register): on the retrieval list; rows harden when they
 land.*
+
+---
+
+## Addendum, 25 August 2026 — the same campaign, conducted as trade policy ⚠
+
+The ceiling instruments catalogued above are domestic. *The Lancet* reports the same pressure
+applied to a foreign legislature that had already legislated (Paul Webster, "Europe's medical AI
+reforms," 2026; in the project's source library, read in full). The escalation is dated precisely:
+
+> "in November, 2025, when US Commerce Secretary Howard Lutnick tied US steel tariffs to a
+> 'recalibration' by the EU of the bloc's digital regulations, the issue reached a crisis level."
+
+A quoted health-law academic describes the consequence for medical AI systems, that they would
+"no longer be subject to meaningful high-risk obligations," creating "a serious regulatory gap
+with real risks for patients." The European Commission's answer is quoted in the same report: "the
+EU's legislation is not up for negotiation. This remains absolutely unchanged."
+
+**What this is and is not evidence of.** It has no bearing on United States preemption doctrine,
+and nothing in this section's federalism analysis rests on it. What it is evidence of is the
+campaign's character and reach: the instruments described elsewhere on this page are one
+jurisdiction's expression of a strategy that has also been pursued through tariffs against a
+jurisdiction that had already enacted. A reader assessing how durable the general-applicability
+carve-out is should weigh that. **Graded ⚠**: this is named-source reporting in a journal of
+record, and the underlying trade and legislative instruments are not in the project's hands.

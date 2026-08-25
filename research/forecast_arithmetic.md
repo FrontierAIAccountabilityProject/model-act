@@ -129,3 +129,26 @@ error" (supplement, limitations) — every number above carries that sentence wi
 strategic frame this page quantifies: [paths to enactment](../docs/paths_to_enactment.md) · the
 inoculation pattern the developers may prefer: [the half-statute
 page](../docs/safe_harbors_and_affirmative_defenses.md).*
+
+---
+
+## Addendum, 25 August 2026 — the assumption underneath the fastest timelines
+
+Every projection on this page inherits an assumption it does not state: that alignment progress is
+capability-bottlenecked, so that research throughput scales with capability. The forecasts modelled
+here are more credible if that holds and considerably less so if it does not.
+
+The strongest published challenge is Kierans, Casper & Ghosh, *Intelligence Is Not the Bottleneck:
+Structural Barriers to Automating Alignment Research* (2026, in the project's source library, read
+in full). It names the claim precisely, that "datacenters full of research agents will compress a
+decade's worth of alignment research progress into 6-12 months," and rejects it: "structural
+barriers, not intelligence, are the principal bottleneck." Its mechanism is worth stating for
+anyone reading the magnitudes above as a schedule: deploying broadly capable AI at scale "would
+accelerate the most easily verifiable research first, pulling it further ahead of the structural
+work that is still necessary for AI to be aligned and safe."
+
+Recorded here, with the page's usual grading, because it cuts both ways. It weakens any inference
+from these projections that the alignment problem resolves itself on the same clock, and it
+strengthens the case that institutional mechanisms do real work. **Neither this page nor the
+Act asserts the paper's conclusions are correct.** ⚠ forecast-grade material remains what it was;
+this addendum records a serious published dissent from an assumption the forecasts rely on.

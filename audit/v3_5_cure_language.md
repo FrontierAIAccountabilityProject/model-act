@@ -112,6 +112,16 @@ interpreted more broadly than 'public release' … in some cases … explicitly 
 core finding is this question's premise stated as a field-wide gap: "the governance of the
 internal deployment of highly advanced frontier AI systems appears absent."*
 
+*Donor note (25 Aug): Kierans, Casper & Ghosh, *Intelligence Is Not the Bottleneck* (2026, in
+hand, read), locates the machinery this question depends on outside the developer entirely:
+deliberative processes "whose outputs can shape the evaluation regimes maintained by AI Safety
+Institutes and the third-party auditing ecosystem." If evaluation regimes are maintained by
+institutes and auditors rather than by the firm under evaluation, then the conditions of an
+evaluation are a governable object, and the question of whether a duty reaches an evaluation run
+with safeguards disabled is answerable in principle rather than only in hindsight. The paper's
+own framing of the gap, quoting Hadfield & Clark (2023), is the one this Act sits inside: "the
+technical deficit of conventional regulation and the democratic deficit of industry standards."*
+
 *Opened 22 August 2026 from the July–August incident research (press corpus; source intake).
 **Not a cure — a scope question**, held here rather than answered silently.*
 
@@ -150,7 +160,7 @@ developers and to four of the five disclosed 2026 incidents** — Anthropic's th
 escapes ran through the vendor's misconfigured environment rather than the developer's own.
 **OpenAI's did not:** that chain ran through OpenAI's own sandbox and a Modal customer's harness,
 with Irregular named only in the reporting ([the dossier](../dossier/README.md) § A.4, corrected
-17 August 2026). The distinction is load-bearing — the gap this question asks about exists in two
+17 August 2026). The distinction does real work — the gap this question asks about exists in two
 developers' incidents, not in all of them.
 
 **The question.** The Act attaches duties to the officers of the *developer*. Where the
@@ -815,7 +825,7 @@ immediate, and SEC. 6(a) supplies a year's custody on due-care failure. "Mislead
 a literally true statement is criminal, with no scienter — the compelled-characterisation problem
 the Act works hard to avoid at SEC. 8, SEC. 9(c) and n.16, reintroduced through the back door. And
 this is the offense SEC. 13(b)(1) puts in the **first rank** and n.13 relies on as preemption-proof:
-load-bearing, and the softest target in the Act.
+central, and the softest target in the Act.
 
 **Operation.**
 
