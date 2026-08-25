@@ -407,8 +407,9 @@ authorities are set out in [why a signature works](./standards/why_a_signature_w
 ## Overview
 
 The one instrument with an eighty-year record of changing executive behavior —
-personal criminal exposure under the public-welfare doctrine — has never been extended
-past the food-and-drug frontier. This repository extends it, in public: statute,
+personal criminal exposure under the public-welfare doctrine — has moved exactly once, out of
+food and drug and into environmental enforcement, where Congress wrote it into the Clean Water
+Act itself. It has never reached software. This repository extends it, in public: statute,
 apparatus, evidence, and an append-only register of the project's own mistakes,
 drafted by one maintainer, AI assistance disclosed, with every claim pinned to a checkable source.
 

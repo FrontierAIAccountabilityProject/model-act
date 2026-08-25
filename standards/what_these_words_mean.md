@@ -176,8 +176,22 @@ federal crime with no intent requirement whatsoever. *See [already a crime, if y
 person](./already_a_crime_for_you.md).*
 
 **Responsible corporate officer doctrine** — the rule that an officer with authority to prevent or
-correct a violation answers personally for failing to. Eighty years old, never extended past the
-food-and-drug frontier.
+correct a violation answers personally for failing to. Eighty years old, and it has traveled once.
+
+It began in food and drug, and moved into environmental enforcement, where **Congress wrote it into
+the statute**: the Clean Water Act defines "person," for the purpose of its criminal subsection, to
+mean "any responsible corporate officer" (33 U.S.C. § 1319(c)(6)). One scholar records that "in the
+twenty years following the *Park* decision, the overwhelming majority of responsible corporate
+officer prosecutions were based on violations of environmental laws rather than the [Food, Drug,
+and Cosmetic Act]" (Copeland, quoted in Lyness, 64 B.C. L. Rev. 253, n.32). And in
+*United States v. Iverson*, 162 F.3d 1015, 1024 (9th Cir. 1998), the court reasoned that when
+Congress rewrote the CWA's criminal provisions after *Park* it "made no changes to its 'responsible
+corporate officer' provision," so Congress may be presumed to have intended *Park*'s refinement to
+apply.
+
+**What has never happened is its extension to software.** That is this project's claim, and it is a
+narrower and better one than the version this page carried until 25 August 2026 — see
+[E42](../ledger/errata.md#e42--the-doctrine-was-said-never-to-have-left-food-and-drug-it-left-decades-ago-by-act-of-congress).
 
 ---
 

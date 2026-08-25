@@ -1200,3 +1200,52 @@ committed tool, `check_links.py`, and it is run before a push in the same breath
 ---
 
 *Corrections to the project contact; they enter [the errata register](./errata.md) with the fix attached and permanent credit.*
+
+<a id="e42"></a>
+
+## E42 — the doctrine was said never to have left food and drug; it left decades ago, by act of Congress
+
+**Filed 25 August 2026. Internal catch, from a vocabulary audit of the library against the
+repository. The claim had stood on the front page since June.**
+
+**What was published.** Three pages carried a version of the same sentence. The README's Overview:
+personal criminal exposure under the public-welfare doctrine "has never been extended past the
+food-and-drug frontier." [Questions and answers](../docs/questions.md): the Park line "has simply
+never been extended past the food-and-drug frontier." [The glossary](../standards/what_these_words_mean.md):
+"Eighty years old, never extended past the food-and-drug frontier."
+
+**Why it is wrong, from a source this project already relied on.** Lyness, *Revitalizing the State
+Environmental Responsible Corporate Officer Doctrine*, 64 B.C. L. Rev. 253 — the article the whole
+state-RCO argument is built on — records at n.33 that the Clean Water Act provides: *"For the
+purpose of this subsection, the term 'person' means . . . any responsible corporate officer"*
+(33 U.S.C. § 1319(c)(6)). At n.32 it quotes Copeland: *"In the twenty years following the Park
+decision, the overwhelming majority of responsible corporate officer prosecutions were based on
+violations of environmental laws rather than the [Food, Drug, and Cosmetic Act]."* And at n.118 it
+quotes *United States v. Iverson*, 162 F.3d 1015, 1024 (9th Cir. 1998): *"In 1987, after the Supreme
+Court decided Park, Congress revised and replaced the criminal provisions of the CWA. . . . Congress
+made no changes to its 'responsible corporate officer' provision. That being so, we can presume that
+Congress intended for Park's refinement of the 'responsible corporate officer' doctrine to apply."*
+
+So the doctrine did not merely drift past food and drug. **Congress legislated it into the Clean
+Water Act, and the courts have applied it there since at least 1998.** The repository already cited
+§ 1319(c)(6) in four files and *Iverson* in three. Nobody had read those against the front page.
+
+**Why it matters.** It is the kind of overclaim a criminal-law reviewer catches in the first minute,
+on the most-read paragraph in the project, and finding it would have cost that reviewer nothing and
+cost this project its credibility on everything downstream. It also gave away a better argument than
+the one it made: a doctrine that has already moved once, by act of Congress, is a doctrine that
+travels. The honest claim is that **it has never reached software** — narrower, true, and stronger.
+
+**Fix:** all three pages restated. The glossary's entry now carries the CWA provision, the Copeland
+figure and the *Iverson* reasoning, so the correction is where a reader searching the doctrine will
+land rather than only in this register. Status: cured.
+
+⚠ **Read-status, stated so it is not mistaken for more than it is.** The § 1319(c)(6) text, the
+Copeland sentence and the *Iverson* passage are all quoted **from Lyness's footnotes**, not from the
+United States Code or the Federal Reporter. They are on the retrieval list. E22 governs: no outreach
+may describe them as verified until the primaries are read.
+
+**Method note.** The audit that found this was not looking for it. It was counting which words a
+specialist reader would search for and failing to find. That is the second finding this month that
+came from asking what is *absent* rather than checking what is present.
+

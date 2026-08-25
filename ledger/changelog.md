@@ -3,6 +3,28 @@
 
 ## Part II — The changelog
 
+**Between versions — 25 August 2026, eleventh batch: an eighty-year claim, corrected.** No change
+to any tagged text.
+
+[E42](./errata.md#e42--the-doctrine-was-said-never-to-have-left-food-and-drug-it-left-decades-ago-by-act-of-congress).
+The front page said the responsible corporate officer doctrine had "never been extended past the
+food-and-drug frontier." It was extended by Congress into the Clean Water Act, which defines
+"person" to include "any responsible corporate officer" (33 U.S.C. § 1319(c)(6)), and in the twenty
+years after *Park* the majority of prosecutions under the doctrine were environmental rather than
+food-and-drug. Both facts sit in footnotes 32 and 33 of the Lyness article this project's entire
+state-RCO argument rests on. The repository cited § 1319(c)(6) in four files and *Iverson* in three
+and had never read either against its own Overview.
+
+Corrected on all three pages that carried it. The glossary's entry for the doctrine now carries the
+provision, the figure and the *Iverson* reasoning, so a reader who searches the doctrine lands on
+the correction rather than on the claim.
+
+*The replacement claim is narrower and better: the doctrine has moved once already, by act of
+Congress, and has never reached software.*
+
+⚠ *All three quotations are taken from Lyness's footnotes rather than from the Code and the
+reporter. They are on the retrieval list and may not be described as verified until read.*
+
 **Between versions — 25 August 2026, tenth batch: the commentary conformed to the instrument's own
 spelling.** No change to any tagged text.
 

@@ -345,8 +345,8 @@ the product intended; it asked who had the power to stop the shipment.
 *Why criminal law at all, rather than civil liability or regulation?* Because both
 already exist and neither reaches the person: civil penalties are paid from the
 treasury, and a fine a firm can pay is a price. The one instrument with an eighty-year
-record of changing officer behavior is personal criminal exposure — the Park line —
-and it has simply never been extended past the food-and-drug frontier.
+record of changing officer behavior is personal criminal exposure — the Park line — which
+Congress wrote into the Clean Water Act, and which has never reached software.
 
 *Prison on strict liability — is that constitutional?* The Act does not attempt it:
 fines may follow the classic strict public-welfare pattern, but imprisonment requires
