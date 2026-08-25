@@ -439,6 +439,40 @@ incomplete record, and this Act does not reach employment decisions at all. It i
 is the clearest judicial statement yet of the evidentiary problem the Act's plumbing exists to
 solve.
 
+**And a legislature has already tried the other repair, which this project has not.** New York
+S 1169-B would not improve the plaintiff's evidence; it would move the presumption. § 114(2):
+
+> "In evaluating any motion to dismiss a proceeding commenced pursuant to this section, the court
+> shall presume the specified AI system was created and/or operated in violation of a specified law
+> or laws and that such violation caused the harm or harms alleged."
+
+rebuttable only by "clear and convincing evidence" — and then, in the next paragraph, the sentence
+that matters most to this Act:
+
+> "An algorithmic audit can be considered as evidence in rebutting such presumptions, but the mere
+> existence of such an audit, without additional evidence, shall not be considered clear and
+> convincing evidence."
+
+**Both halves are instructive, and they point in opposite directions.**
+
+The first half is a route this Act does not take and should be asked about. A presumption of
+violation and causation, reversed at the pleading stage, is a far blunter instrument than a records
+duty, and in a **criminal** statute it would be unavailable: this Act's SEC. 6 puts every element on
+the prosecution, and the drafting record says so. So the honest statement is that New York's civil
+bill can reach for a tool this Act cannot, and the proportionality and criminal lanes should be
+asked whether the records architecture is a sufficient substitute or merely a politer one.
+
+The second half is a warning aimed squarely at the architecture this Act *does* have. This project
+argues for audit and certification. New York's drafters, contemplating the same instrument,
+legislated that a completed audit is not by itself proof of anything. **If an audit can become a
+token that discharges suspicion, the audit requirement makes the defendant safer rather than the
+public.** That is a defect this repository has not tested for, and it is now a question for the
+enforcement lane.
+
+S 1169-B is an algorithmic-discrimination bill amending the civil rights law, not a frontier
+statute; see [the census](../standards/frontier_bill_census.md) for why it is recorded as an
+adjacent lineage. ⚠ Its status is carried from a commercial tracker and is not verified.
+
 ## "The timelines make this pointless" — added 24 August
 
 The objection, stated at its strongest: the field's own forecasters put the modal year for
@@ -486,3 +520,228 @@ work rather than a distraction from it. **The Act's stake in this is honest and 
 not claim the paper endorses officer liability; it claims the paper undercuts the premise that
 legal architecture cannot matter on these timescales. A reviewer who thinks that reading stretches
 the paper should say so, and the disposition would be published.
+
+---
+
+## "Wait for the courts" — the strongest form of the objection, and it was made under oath — added 25 August 2026
+
+Until now this file has answered a wait-for-the-courts objection the project constructed
+itself. It no longer has to. On 16 July 2025 a law professor put the objection to a Senate
+subcommittee under oath, at length, and it is better than the version we had been writing.
+
+The witness is **Professor Edward Lee** of Santa Clara University School of Law, testifying to
+the Senate Judiciary Subcommittee on Crime and Counterterrorism at *Too Big to Prosecute?:
+Examining the AI Industry's Mass Ingestion of Copyrighted Works for AI Training*, S. Hrg.
+119-202. He is not an industry advocate. He agrees the conduct may be infringement; his claim
+is narrower and harder to answer, which is that the question is genuinely unresolved and the
+legislature is the wrong body to resolve it first.
+
+> "At this juncture, I think the best approach is for Congress to wait and see how other
+> district courts, the courts of appeals, and potentially the U.S. Supreme Court resolves these
+> difficult issues."
+
+> "And there are presently 44 lawsuits around the country, so this is not a time for Congress to
+> intervene in terms of deciding these very difficult questions."
+
+**Restated for this Act.** *There are live cases. Courts are actively developing the doctrine.
+A state criminal statute enacted now freezes a moving question and will be wrong within two
+years. Let it settle.*
+
+**The three answers, in the order they should be given.**
+
+**One, the objection has a shape, and the shape is the point.** Lee's own next move at that
+hearing was to ground the caution in an executive-branch policy preference, and he named the
+official:
+
+> "And I would defer to the view of the AI czar, David Sacks, who said if there is no pathway to
+> fair use in AI training, we will lose the race with China."
+
+The chair's reply is the answer this project would give and is worth having in the record in
+someone else's words:
+
+> "Well, you think that we should allow an unelected AI czar to decide what the rights of
+> American citizens are?"
+
+Wait-for-the-courts is rarely only about courts. It usually arrives holding a policy
+preference about what the courts should conclude.
+
+**Two, Congress has run this experiment.** The Ranking Member put the precedent to the witness
+directly, and it is the cleanest statement of the answer available:
+
+> "Professor Lee, if I understand part of your argument here, you were suggesting that this is
+> the age of innovation. Deep learning deserves special treatment. We've been through this
+> argument in Congress before. Section 230 is a good illustration of that. We decided this
+> fledgling industry called the internet just may not have a future, better be careful, so we
+> exempted them from liability. Is that what you are suggesting?"
+>
+> — Senator Richard J. Durbin
+
+The forbearance argument was made once about an industry that was going to be too fragile to
+survive liability. The forbearance outlived the fragility by twenty-five years.
+
+**Three, and this is the honest half: on its own terms the objection is partly right.** A
+statute that guessed at an unsettled doctrinal question would deserve the criticism. This Act
+does not sit on the copyright question at all, and the answer must say so rather than dodge it.
+What it does is take a doctrine that was settled in 1943 and again in 1975 — *Dotterweich* and
+*Park*, the responsible corporate officer — and apply it to a new subject matter. The novelty
+is in the defendant class, not in the rule. That is a real distinction and it is also a limited
+one, and a reviewer is entitled to say the distinction does not hold.
+
+**What this project owes in return.** Lee's written answers to Senator Klobuchar (S. Hrg.
+119-202, printed pp. 87-92) are the fullest version of his position, and they have been read
+only by OCR of a scanned page. ⚠ They are owed a proper reading before this section is quoted
+in anything published.
+
+**Sources.** All quotations from the decoded body text of the hearing, with page anchors, at
+`library/NOTES_Reading_SHrg119-202_Too-Big-to-Prosecute_2026-08-25.md` §§ 7-8.
+
+---
+
+## "The enforcement gap is theoretical" — it is not, and a Senate chair says so — added 25 August 2026
+
+The project's premise is that conduct by frontier developers goes unprosecuted that would be
+prosecuted in anybody else's hands. That premise used to rest on the project's own reasoning.
+It now rests on the chair of the Senate Judiciary Subcommittee on **Crime and
+Counterterrorism**, in a printed hearing record, saying it in terms:
+
+> "Now, the FBI and the Department of Homeland Security regularly prosecute individuals who
+> engage in exactly the same kind of behavior using platforms like LimeWire or Napster in the
+> old days, using a process called torrenting. But have these Big Tech companies been
+> prosecuted? No, of course not. They are getting off scot-free."
+>
+> — Senator Josh Hawley, S. Hrg. 119-202 at printed p. 1
+
+And, two pages later, the conclusion he draws from it:
+
+> "This isn't just aggressive business tactics. This is criminal conduct."
+
+**Three limits on this, which must be stated whenever it is used, or the project is doing the
+thing it criticises.**
+
+1. **The subject is copyright, not catastrophic risk.** Nothing at that hearing was about model
+   safety, biosecurity or loss of control. The transfer is structural, not substantive.
+2. **Nobody proposed officer liability.** *Dotterweich* and *Park* are not mentioned. The word
+   "officer" does not appear in that sense in the body text. This hearing is evidence that the
+   gap exists; it is not evidence that anyone in Congress has proposed this Act's answer to it.
+3. **A rhetorical question is not a finding.** Hawley asks whether the firms have been
+   prosecuted and answers himself. That is a chair's characterisation, not a Department of
+   Justice declination record.
+
+**What it does carry, and it is not small.** The structural elements a responsible-officer case
+needs were each put on the congressional record at that hearing, by name: **willfulness**
+("this is, in fact, amounting to what you might call criminal copyright liability" — Professor
+Bhamati Viswanathan), **escalation to the chief executive** ("the decision ... was escalated to
+Mark Zuckerberg" — Maxwell Pritt, and the court's own finding read into the record by the
+chair), and **concealment** ("avoiding risk of tracing back the seeder/downloader are from
+Facebook servers" — an internal message read into the record). Full citations with page anchors
+at `library/NOTES_Reading_SHrg119-202_Too-Big-to-Prosecute_2026-08-25.md` §§ 3-5.
+
+---
+
+## "Regulation and deployment are enemies" — an industry witness says otherwise — added 25 August 2026
+
+Eight months after *Too Big to Prosecute?*, the same Congress heard the opposite case: *Less
+Hype, More Help: AI That Improves Safety, Productivity and Care*, Senate Commerce Subcommittee
+on Science, Manufacturing, and Competitiveness, 3 March 2026. The chair, Senator Ted Budd,
+opened it with the framing this file has been answering all along — "winning the AI race
+against China is paramount for our national and economic security."
+
+The useful thing in that hearing is not the objection. It is that the industry witness
+undercut it. Demetri Giannikopoulos, Chief Innovation Officer of Rad AI, told the subcommittee:
+
+> "Importantly, artificial intelligence systems operate within existing legal and professional
+> accountability frameworks. Physicians remain responsible for clinical decision making, and
+> health systems are responsible for safe implementation. Existing laws, including patient
+> privacy protections, medical malpractice standards, and civil rights protections, continue to
+> apply. Artificial intelligence does not replace these safeguards[;] it operates within them."
+
+and:
+
+> "The United States has established strong regulatory frameworks to evaluate medical devices
+> and protect patient safety. Through my experience implementing FDA-cleared artificial
+> intelligence systems, I have seen how regulatory clarity and predictability support
+> responsible innovation and safe deployment."
+
+**Why this matters here.** The company deploying AI into hospitals told the Senate that named
+humans remain responsible, that pre-market evaluation is a feature rather than a tax, and that
+predictability is what lets it ship. That is the Act's own argument, made by the industry it
+would bind, in the domain where the stakes are already understood.
+
+**The limit.** Rad AI deploys cleared clinical tools; it is not a frontier developer, and the
+existing frameworks it praises are the ones that already cover it. A frontier developer would
+say the analogy fails precisely because no equivalent framework exists. That is a fair reply,
+and it is also an argument for building one rather than for not having it. See the FDA section
+above for why this Act is not that framework.
+
+A second witness at the same hearing, Dr Damion Shelton of Agility Robotics, supplied the
+sentence this project would have written for it:
+
+> "However, as we have seen from self-driving vehicles, safety often lags behind technical
+> ability."
+
+> "As an industry, we owe the general public a solid safety argument backed by data."
+
+**Sources and grading** at `library/NOTES_Reading_New-intakes-batch-2_2026-08-25.md` § 1.
+⚠ The senators' own statements at that hearing, and Mark Muro's prepared statement for the
+Brookings Institution, have not been read. Nothing is asserted about them.
+
+---
+
+## "A patchwork of state laws is the real danger" — the ceiling campaign, from the podium, under examination — added 25 August 2026
+
+This file has answered the patchwork objection from press accounts and from trade-association
+testimony. It can now answer the version delivered by the executive branch itself.
+
+On 10 September 2025 the Director of the Office of Science and Technology Policy, **Hon. Michael
+J.K. Kratsios**, appeared as sole witness before the Senate Commerce Subcommittee on Science,
+Manufacturing, and Competitiveness to answer for *America's AI Action Plan* (S. Hrg. 119-284,
+*AI've Got a Plan: America's AI Action Plan*). Third of the five parts of the legislative framework
+he set out:
+
+> "Third, we must prevent a patchwork of burdensome AI regulation, including oft conflicting State
+> AI regulations."
+
+Asked directly whether the administration supports preemption of state AI laws:
+
+> "A patchwork of State regulations is anti-innovation. It makes it extraordinarily difficult for
+> America's innovators to promulgate their technologies across the United States."
+
+> "... we do not believe in allowing for this patchwork to go forward, and State preemption is
+> something we look at closely. We are very excited to work with Congress to find a way to deliver
+> on what the President is looking to accomplish."
+
+**Take the strongest version seriously, because he supplied it himself.** Unprompted, in the middle
+of that answer:
+
+> "It actually presents and gives more power to large technology companies that have armies of
+> lawyers that are able to sort of meet the various state-level regulations."
+
+That is a real argument and this project should not score off it. Fragmented compliance does
+advantage the firm with the largest legal department. Three answers, in order of strength.
+
+**One, a single ceiling advantages that firm more, not less.** Fifty rules are fifty places to be
+outspent; one rule is one place to be shaped, and the record this repository already holds shows
+the shaping being attempted — a trade association asking Congress, under oath, for a decade's pause
+on state enforcement and a framework that "removes liability for companies that are compliant".
+The concentration argument cuts both ways and it cuts harder against a single federal instrument.
+
+**Two, the burden is a function of the duties, not of the number of jurisdictions.** This Act's
+duties are drafted to be met by a competent developer with no compliance department: validate,
+certify after reasonable inquiry, keep records, report. If duties of that kind are unmeetable at
+scale, the objection is to the duties and should be made about them.
+
+**Three, and the point the ceiling campaign never reaches: what would replace it?** Preemption
+removes state law. It does not create the federal duty it displaces. The record in this repository
+is a stack of congressional letters whose own text concedes that no federal statute governs any of
+this, and a hearing chair asking why nobody has been prosecuted. A ceiling built over an empty room
+is not a simplification of the law; it is the absence of law, made permanent.
+
+⚠ **What is not asserted from this hearing.** The Chairman's characterisations in the same exchange
+— that "States are criminalizing neutral algorithms", and his account of what Colorado requires —
+are **not** adopted here and have **not** been checked against the Colorado act. Fourteen senators'
+statements, Kratsios's full prepared statement, the appendix letters, and the written responses to
+Thune, Blackburn, Cantwell, Baldwin and Hickenlooper are all **unread**. The Blackburn and Cantwell
+responses are the most likely to bear on preemption and are an open read.
+
+Citations at `library/NOTES_Reading_Three-more-hearings-and-S1169-full_2026-08-25.md` § 2.
+

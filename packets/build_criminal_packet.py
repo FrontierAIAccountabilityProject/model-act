@@ -71,7 +71,7 @@ the source is right and the difference is a defect worth reporting to
 FrontierAIAccountabilityProject@proton.me.*
 
 *Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
-[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
+[the reviewer page](../REVIEWERS.md); the index of packets is [beside this one](./index.md).*
 
 ## The ask
 
@@ -135,7 +135,7 @@ candidate finding — verifying or refuting one is a complete finding for the di
 
 ## III. The question menu
 
-Any three answered are a disposition; all six, with the repairs above verified or refuted, are
+Any three answered are a disposition; all seven, with the repairs above verified or refuted, are
 the seat done whole. Replace any of them with findings of your own.
 
 1. Is the reconstructed SEC. 6(a) chargeable?
@@ -145,6 +145,15 @@ the seat done whole. Replace any of them with findings of your own.
 5. Does a state's suspended-sentence law defeat the harm-tier minimum? *(the sweep could not
    settle this)*
 6. Does per-victim counting survive the state's merger doctrine? *(nor this)*
+7. **Does misdemeanour authority reach a felony tier?** *Dotterweich* and *Park* are misdemeanour
+   cases. Lyness argues the state doctrine should carry individual **civil** liability and only
+   civil liability, on the ground that those cases were decided "during a time when the immediate
+   and collateral consequences were different" (64 B.C. L. Rev. 253, 297-98). The sweep's own
+   answer stops at the base tier: *Park* holds, and *Staples*' penalty-sensitivity "does not bite
+   at a misdemeanour." **Nothing in this repository argues that the same authority reaches
+   SEC. 6(b).** Either supply that argument or refute it; either way it is a finding, and it is the
+   one the maintainer most wants answered. *(Added 25 August 2026; the sweep's own statement of it
+   is in Part I above.)*
 
 Senior to all six, from the companion's
 [READ FIRST index](../model_act_v3_4_companion.md#read-first--questions-for-the-next-revision-v35):
@@ -188,7 +197,7 @@ arrived.*
 
 
 Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any
-form: a memo, a marked-up copy of this packet, a numbered list of findings. Or, if you were contacted by the maintainer through a different channel, reply on that channel. Or, if you were
+form: a memo, a marked-up copy of this packet, a numbered list of findings. Or, if you were
 contacted by the maintainer through a different channel, reply on the channel you were contacted
 on. It is published as written, credited or anonymous at your choice; council seats publish with
 names, which is the point of them. A finding that something is broken is the seat working, not

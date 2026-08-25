@@ -2198,10 +2198,12 @@ answered in public, every objection logged next to its fix (audit, chunk 7) — 
 is issue-spotting, and issue-spotting is not legal validation, however well it converges.
 By our own rule, nobody claims this "survived review" until named reviewers with state-law
 and prosecutorial experience have signed their names to that sentence. Recruiting them is
-the current work: named criminal counsel, plus a five-seat review council — a criminal-law
-specialist, a former prosecutor or regulator, a frontier-security engineer who has worked
-inside a lab, an open-source/academia reviewer, and someone who has administered a real
-budget. If that is you: FrontierAIAccountabilityProject@proton.me. And a posture change, stated plainly: catches
+the current work: named criminal counsel, plus a review council which now runs to **eight
+lanes** — criminal law, enforcement, frontier security, fiscal and administration, federalism
+and preemption, proportionality and sentencing, torts and design, and open source and academia.
+*(This paragraph named five when the sealed chapters were written on 19 August 2026; the count
+is corrected here rather than in the sealed text, per this folder's own rule, and the correction
+is logged at [E40](../ledger/errata.md).)* If that is you: FrontierAIAccountabilityProject@proton.me. And a posture change, stated plainly: catches
 remain welcome forever — a wrong citation, a broken cross-reference, that is the errata
 ledger and it never closes — but the project no longer needs more general online review.
 It needs names. The companion still lists, out loud, the questions the text can't yet

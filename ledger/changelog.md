@@ -3,6 +3,185 @@
 
 ## Part II — The changelog
 
+**Between versions — 25 August 2026, seventh batch: the project acquires a front door.** No change
+to any tagged text.
+
+*The problem.* Everything in this repository is written for somebody who has already decided to be
+here. There was no page that answered, for a stranger with thirty seconds, the question *what is
+this and how much of it is there.* Outreach was consequently underselling the work: an apologetic
+paragraph cannot tell a cold recipient the difference between a crank with a document and eleven
+months of drafting with an errata register.
+
+*The page.* [The project in one page](../docs/abstract.md). The problem in two sentences; what the
+project is; **what exists, counted**; the five findings the research produced that are not published
+anywhere else; what a reviewer is asked for and what they get back; and, in its own section, what
+this is not — not law, not introduced, no endorsement, and nobody may say it survived review until
+named reviewers sign.
+
+*And the numbers on it are enforced rather than asserted.* `check_claims.py` now recomputes the
+abstract's document count, statute section count, errata count and all three cure-queue counts from
+the files, and fails the build if the page and the truth disagree. Where a number only grows it is
+stated as a floor, so it stays true between sweeps rather than going stale on the next commit. That
+is the same rule the register applies to everything else: a count that appears in recruitment copy
+is checked wherever it appears.
+
+*Linked from* the front page's contents list and the map, so it is reachable rather than merely
+present.
+
+
+**Between versions — 25 August 2026, sixth batch: three more Senate hearings, and the New York bill
+in full.** No change to any tagged text. All four documents arrived as direct downloads with intact
+text layers, so unlike the second batch there is no decode and no OCR: everything below is
+quote-in-hand.
+
+*The one that matters most.* **S. Hrg. 119-255, *Hidden Harms*** (Senate Judiciary Subcommittee on
+Privacy, Technology, and the Law, 9 September 2025) — two former researchers at a frontier developer,
+under oath, on how their own safety findings stopped existing. The subject is child safety on
+virtual-reality platforms and parts of that record are distressing; **this project's use of it is
+structural, narrow, and says so at every point of use.** What it supplies is the mechanism, and the
+mechanism is the argument for every records duty in this Act: a ninety-day deletion policy for raw
+research data, which exists for good privacy reasons, means that **striking a line from a report is
+enough to make the observation behind it unrecoverable**. Nobody destroys anything; the compliant
+path and the destructive path are the same path. Carried at
+[who has to tell you](../standards/who_has_to_tell_you.md) § 4d with its limits attached — sworn
+allegation, not adjudicated fact, the company was not a witness, and the subject is not
+frontier-model risk.
+
+*The ceiling campaign, from the podium.* **S. Hrg. 119-284, *AI've Got a Plan*** (Senate Commerce,
+10 September 2025) — the Director of the Office of Science and Technology Policy as sole witness,
+saying that state preemption "is something we look at closely". [Known
+objections](../docs/known_objections.md) gains the section, including the concession Kratsios made
+inside his own answer — that patchwork compliance "gives more power to large technology companies
+that have armies of lawyers" — which is taken seriously and answered rather than quoted
+triumphantly.
+
+*And the New York row closes.* The complete twelve-page print of **S 1169-B** replaced the
+four-page capture, and the word test was rerun on all of it: *officer* returns one hit and it is
+"committee or officer of the state"; *certification* returns one and it is a subject of regulation,
+not a duty; *criminal*, *felony*, *misdemeanor*, *signature*, *senior personnel*, *frontier* and
+*catastrophic* return nil. **The lineage count is unchanged: four drafts of a frontier-safety audit,
+one survivor.** Three of its provisions are now carried anyway, because they are drafted answers to
+questions this project is still asking: § 110's auditor-independence machinery, which goes further
+on independence than the enacted Illinois text or California SB 53; § 109(4)'s statutory anonymous
+internal disclosure channel with a monthly status duty, which is precisely the machinery whose
+absence the *Hidden Harms* witnesses describe; and § 114(2), which reverses the causation
+presumption at the pleading stage and then refuses to let a completed audit discharge it — a
+warning aimed straight at this Act's own architecture, and now a question for the enforcement lane.
+
+*Housekeeping.* The March 2026 Commerce hearing is **S. Hrg. 119-505**; the number was in a display
+font that would not decode and is confirmed from the congress.gov landing page. Every hedge about it
+is discharged. **S. Hrg. 119-171** (*AI-Generated Deepfakes*, 21 May 2025) is catalogued, contents
+and witness list read, body unread, and nothing relies on it.
+
+
+**Between versions — 25 August 2026, fifth batch: the first full repository sweep, and a new tool
+to make it repeatable.** No change to any tagged text.
+
+*The tool.* `check_links.py` at the repository root, stdlib only, deterministic, no network. It
+walks every markdown file in the tree and reports three things: relative links whose target does
+not exist, anchors whose target heading or explicit `id` does not exist, and markdown files
+nothing links to. It models GitHub's duplicate-heading rule, so a second heading with the same
+words resolves to `-1` as it does on the site, and it carries one allowlist entry with its reason
+attached, because a tombstone that explains itself is not an orphan. It runs beside
+`check_claims.py` and, like it, exits non-zero on a finding.
+
+*What the first run found across 101 markdown files.* Three dead file links, two anchors that were
+false positives until the duplicate-heading rule went in, and nine files reachable from nowhere.
+All of it is fixed, and two of the findings were serious enough to number:
+**[E40](./errata.md#e40--the-council-was-described-as-five-seats-after-it-had-grown-to-eight)** —
+the front page and the dossier both described the review council as five seats, and the dossier
+named the five, three days after the count went to eight. Three lanes did not appear at all, so a
+person qualified for federalism, proportionality or torts and design was being told by recruitment
+copy that there was no seat for them.
+**[E41](./errata.md#e41--three-packets-linked-to-a-path-the-projects-own-checker-already-knew-was-dead)**
+— three packets opened with a link to `packets/README.md`, which does not exist. The project
+already knew: `check_emails.py` bans that exact string so it can never leave in an email. Nothing
+was checking the repository itself, which is the whole reason the new tool exists.
+
+*Two navigation defects fixed and recorded here rather than as errata, being omissions rather than
+false statements.* The **eight audit chunks** were named in prose in the drafting record and linked
+from nowhere, so nothing in the repository reached them by clicking; `audit/README.md` now indexes
+all eight with a note saying why the index was added. And **`research/canon_check_2026-08-24.md`**
+was missing from the map that claims to record which file owns which question; it now has its row,
+carrying its own house rule that nothing on the examiner's bookshelf may be cited until it has been
+retrieved and read.
+
+*And the front page gains the quotation.* The record table takes a thirteenth row for **16 July
+2025**, and immediately beneath the table there is now a pull-quote: the chair of the Senate
+Judiciary Subcommittee on Crime and Counterterrorism stating the enforcement gap in terms, with
+the three limits printed beside it rather than left for a reader to discover — the subject is
+copyright, no one proposed officer liability, and a chair's rhetorical question is a
+characterisation and not a declination record. The expanded row is at
+[the dated record](../docs/timeline.md).
+
+
+**Between versions — 25 August 2026, fourth batch: a Senate subcommittee asks this project's own
+question.** Five documents arrived, and one of them changes what the repository is entitled to
+assert.
+
+*The document.* **S. Hrg. 119-202, *Too Big to Prosecute?: Examining the AI Industry's Mass
+Ingestion of Copyrighted Works for AI Training***, Senate Judiciary Subcommittee on **Crime and
+Counterterrorism**, 16 July 2025. The saved PDF is a browser reprint whose fonts carry a shifted
+encoding, so ordinary extraction returns ciphertext; the body text was recovered by a character
+decode validated by reading, and the scanned appendix by OCR at the images' native 150 ppi. The
+decode map, the artefact register and the graded citation set are in the library note, so no
+quotation has to be re-derived.
+
+*What it changes.* Until today the enforcement-gap premise — that conduct by frontier developers
+goes unprosecuted that would be prosecuted in anybody else's hands — rested on this project's own
+reasoning. It now rests on the subcommittee chair, in the printed record: "the FBI and the
+Department of Homeland Security regularly prosecute individuals who engage in exactly the same kind
+of behavior ... But have these Big Tech companies been prosecuted? No, of course not." Three limits
+travel with it wherever it is used, and are stated at each use: the subject is copyright rather than
+catastrophic risk, nobody at that hearing proposed officer liability, and neither *Dotterweich* nor
+*Park* is mentioned.
+
+*Where it landed.* [Known objections](../docs/known_objections.md) gains three sections: the
+enforcement gap as stated by a Senate chair; the wait-for-the-courts objection in its best
+available form, made under oath by Professor Edward Lee, with Senator Durbin's Section 230
+rejoinder to it; and — from the mirror-image Commerce hearing of 3 March 2026 — an industry
+witness telling the Senate that AI "operates within" existing accountability frameworks and that
+regulatory predictability is what lets a company ship.
+[Who has to tell you](../standards/who_has_to_tell_you.md) gains § 4c: Congress has already
+legislated this file's central insight in a neighbouring subject matter, in the TRAIN Act (Welch
+and Blackburn), whose text is **not** in hand and none of whose provisions are described.
+[The table of authorities](../standards/table_of_authorities.md) gains both hearings, and
+*Kadrey v. Meta* as a candidate authority quoted expressly at second hand and not to be cited until
+the slip opinion is retrieved.
+
+*And a tracker line that would have produced a false finding.* A commercial tracker describes
+**New York S 1169-B** (Gonzalez) as requiring "independent audits of high risk AI systems", which
+reads like a fifth attempt in the RAISE audit lineage and would have changed the census's
+one-survivor-in-four line. The print says otherwise: it amends the **civil rights law**, defines
+algorithmic discrimination by protected characteristic, and turns on consequential decisions about
+employment, housing, credit and health care. It is New York's analogue of Colorado SB 24-205, not
+of the RAISE Act. **The lineage count is unchanged.** The row is entered as an adjacent lineage so
+nobody has to do it again — and it records the fact that matters for the outreach: **Gounardes is a
+co-sponsor** of a bill that keeps a statutory audit section, in the same session in which the audit
+came out of his own. ⚠ The capture is 4 pages of 12 and the finding is conditional on the rest.
+
+*The New York floor question, discharged and empty.* Retrieval item 3 — the Senate floor transcript
+for the passage date — is worked and returns a negative answer: RAISE was called as Calendar
+No. 1889 on 12 June 2025, the roll was taken, and the bill passed **58 to 1** with Senator Cooney
+the sole negative. No member laid it aside; no member asked why § 1421(4) had come out three days
+earlier; there was no debate. The sponsor memoranda (item 2) become the highest-value unopened
+source in the file. ⚠ The version read was a YouTube auto-caption, not the stenographic record;
+nothing from it may be quoted verbatim until checked against `nysenate.gov/transcripts`. Reinvent
+Albany's December 2025 FOIL study of the same chamber is carried as a caution on what that chamber
+actually releases.
+
+*Two errata, both from reading the project's own pages rather than the day's sources.*
+**[E38](./errata.md#e38--the-packet-that-promised-the-whole-lane-and-left-out-the-only-published-criticism-of-it)**
+— the criminal-law packet claimed to inline the whole lane and omitted the only published criticism
+of it, Lyness's misdemeanour objection, on the eve of that packet being sent to Lyness himself. The
+objection is now in the sweep, in the project's own words and against the project's own text, and
+is question 7 on the packet's menu, with the honest statement that nothing in this repository yet
+argues that misdemeanour authority reaches the felony tier at SEC. 6(b).
+**[E39](./errata.md#e39--the-same-sentence-twice-in-two-packets-for-a-day)** — the filing
+instruction printed twice in two packets. One sentence, both builders, all eight packets
+regenerated.
+
+
 **Between versions — 25 August 2026, third batch: the packets carry the day's record.** Four lanes
 gain the material that arrived after they were written, each through its builder rather than by
 hand.

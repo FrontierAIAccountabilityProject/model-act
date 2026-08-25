@@ -692,7 +692,10 @@ it that this project ought to be taking seriously and currently is not.**
 objection to this Act's central mechanism already exists, was persuasive enough to move a
 legislature in three days, and is unrecorded. A drafter who does not go looking for it is choosing
 not to know. **The route to an answer is the two sponsors and their counsel**, and it is being
-asked. Whatever comes back is published as given, including that the provision was wrong.
+asked. As of 25 August 2026 the cheapest public route — the Senate floor record of the passage
+date — has been worked and came back empty: the bill passed 58 to 1 with no debate and no member
+raising the strike (item 3 below). That does not weaken the question. It narrows it, and it means
+nobody has ever had to answer it in public. Whatever comes back is published as given, including that the provision was wrong.
 
 *(Open item. Any reader who knows what happened between 3 and 12 June 2025, or who has a primary
 document from those days, is asked to send it; it enters the record with attribution unless anonymity is
@@ -712,11 +715,31 @@ Nothing below is a finding; it is a list of places the finding might be.*
 2. **The sponsor's memorandum on each print.** New York publishes a sponsor memo with the bill, and
    it is revised when the bill is. A memo that changes its justification between the A and B prints
    is the cheapest possible evidence of what the sponsors thought they were doing. **Nobody has
-   compared them.**
-3. **The Senate floor transcript for the passage date**, at `nysenate.gov/transcripts`. New York
-   publishes stenographic floor debate. If a single member rose to ask why the audit came out, the
-   answer is verbatim, on the public record, and free. **This is the highest-value unopened source
-   in the whole file.**
+   compared them. Since item 3 came back empty, this is now the highest-value unopened source in
+   the whole file.**
+3. **The Senate floor transcript for the passage date.** ✅ **Discharged, 25 August 2026, and the
+   answer is a negative one: the floor is silent.** RAISE was called as Calendar No. 1889 on the
+   supplemental calendar of 12 June 2025. The title was read, the last section was read, the roll
+   was called, Senator Gounardes explained his vote, and the bill passed **58 to 1**, the single
+   negative being Senator Cooney. **No member laid the bill aside. No member asked why the audit
+   provision had come out three days earlier. There was no debate.** So the third possibility above
+   cannot be answered from the floor, because the floor never took it up. Working record:
+   `library/RECORD_NY-Senate_Floor-transcript_2026-06-12_RAISE-passage_AUTOCAPTION.md`.
+   ⚠ **The version read was a YouTube auto-caption, not the stenographic record**, and it is
+   visibly noisy. What an auto-caption can carry without further checking is the procedural record:
+   what was called, who spoke, and how the vote fell. **Nothing from it may be published as a
+   verbatim quotation until it is checked against the stenographic transcript.** That check is
+   still owed, and as of 25 August 2026 the locator is in hand, which is the part that used to be
+   missing: the Senate's session page for 12 June 2025 links a transcript at
+
+   <https://www.nysenate.gov/transcripts/2025-06-12t1338>
+
+   ⚠ Automated retrieval of that page returns a truncated document that stops at Calendar No. 1374,
+   short of RAISE at 1889, so **the stenographic text of the passage has still not been read.** The
+   remaining work is to open that transcript by hand and read from Calendar 1374 to the end. Note
+   also that the session page gives a start time of 10:00 a.m. while the transcript is timestamped
+   13:38, so there may be more than one transcript for the day; check before concluding the roll
+   call is absent from it.
 4. **The Assembly debate transcript** for the companion. Assembly debate transcripts are held by
    the Assembly Public Information Office and archived through the State Archives finding aids;
    they are not always as easy to pull as the Senate's, but they exist.
@@ -725,6 +748,16 @@ Nothing below is a finding; it is a list of places the finding might be.*
 6. **Lobbying filings** with the New York Commission on Ethics and Lobbying in Government: who
    registered on this bill, and for whom. That will not give the argument, but it names who was in
    the room while it was being made.
+
+   **A caution on what New York actually releases, added 25 August 2026.** Reinvent Albany's
+   December 2025 study of the same chamber records that a Freedom of Information Law request to the
+   New York Senate returned **floor votes for 2024 and 2025 but not committee votes**, and that the
+   Senate does not publish members' confirmation votes on its website at all, in contrast to the
+   U.S. Senate, the New York City Council, and California, Illinois, Pennsylvania and Vermont. That
+   study is about confirmations rather than bills, so it is not directly on point; it is here
+   because it is third-party evidence about this chamber's record-keeping, and it means the
+   programme above should not assume committee-level material will be produced on request. Source
+   at `library/REPORT_Reinvent-Albany_NY-Senate-confirmation-vote-transparency_2025-12.pdf`.
 
 **Costs a request, and is the richest single source.**
 
@@ -913,6 +946,80 @@ nowhere in this repository:**
   Louisiana must be added to the state list below, where it has never appeared.
 - [ ] **Federal — VET AI Act** (Hickenlooper/Capito, 25 July 2024) — press release only. Bill
   number not asserted; text not opened; later-Congress reintroduction not established.
+
+**Checked 25 August 2026, and it is not what a tracker summary made it look like:**
+
+- [x] **New York — S 1169-B** (Gonzalez) — *the New York AI Act.* Checked against the LegiScan
+  print, and **it is not a fifth attempt in the RAISE audit lineage.** A commercial tracker
+  describes it as requiring "independent audits of high risk AI systems", which reads at a glance
+  like a fourth-and-a-half data point for the finding above. It is not. S 1169-B amends the **civil
+  rights law** and the executive law; it defines *algorithmic discrimination* by protected
+  characteristic; it turns on *consequential decisions* about employment, education, housing,
+  family planning, health care, financial services and legal services. Its audit is a
+  discrimination audit of a deployed decision system. It is New York's analogue of Colorado
+  SB 24-205, not of the RAISE Act. **The lineage count is unchanged: four drafts of a
+  frontier-safety audit, one survivor.** S 1169-B is recorded here as an adjacent lineage so that
+  the next person who reads that tracker line does not have to do this again.
+
+  Two things it does establish, both quoted in
+  `library/NOTES_Reading_New-intakes-batch-2_2026-08-25.md`:
+
+  - **Senator Gounardes is a co-sponsor.** The sponsor line names "Sens. GONZALEZ, BAILEY,
+    BRISPORT, BYNOE, CLEARE, FAHY, FERNANDEZ, **GOUNARDES**, HINCHEY, JACKSON, KRUEGER, LIU, MAY,
+    PARKER, PERSAUD, RIVERA, SALAZAR, SANDERS, WEBB". So in the same two-year session in which the
+    audit came out of his own bill between prints A and B, he put his name to a different bill that
+    keeps a statutory audit section and defines an independent auditor. That is evidence he has not
+    abandoned independent audit as an instrument, and it is a reason to put the § 1421(4) question
+    to him as a live question rather than as an accusation.
+  - **Article 10-A carries § 110 "Audits"** and § 105(3) defines "Auditor" as "an independent
+    entity including but not limited to an individual, non-profit, firm, corporation, partnership,
+    cooperative, association, academic institution, or group affiliated with an academic
+    institution, commissioned to perform an audit."
+
+  **Closed the same day on the full text.** The complete twelve-page print was obtained from the
+  New York Assembly's own bill-text service and the word test run on all of it. *Officer* returns
+  one hit and it is "committee or officer of the state" in the jurisdictional-scope section.
+  *Director*, *senior personnel*, *signature*, *misdemeanor*, *felony*, *criminal*, *frontier* and
+  *catastrophic* return **nil**. *Certification* returns one hit, in the list of consequential
+  decisions ("Accreditation; Certification; Admissions"), which is a subject of regulation and not
+  a duty. **S 1169-B puts no duty on any natural person, and its enforcement at § 114(1) is civil
+  only:** an attorney-general application for an injunction without proof of injury, and civil
+  penalties of not more than $25,000 per violation against a developer and $10,000 against a
+  deployer.
+
+  **Two provisions in it are worth the census's attention even though the row is adjacent.**
+
+  **§ 110 is the most developed auditor-independence text in any American AI bill this project
+  holds**, and it is doing in a live New York bill the job that RAISE's § 1421(4) was drafted to
+  do. It bars any auditor who has provided "any auditing or non-auditing service including, but
+  not limited, to financial auditing, cybersecurity auditing, or consulting services of any type,
+  to the commissioning company in the past twelve months", and any auditor who "is, will be, or
+  plans to be engaged in the business of developing or deploying an AI system that can compete
+  commercially" within five years. It provides that "[f]ees paid to auditors may not be contingent
+  on the result of the audit and the commissioning company shall not provide any incentives or
+  bonuses for a positive audit result." It entitles the auditor to "complete and unredacted copies
+  of all reports previously filed". And at (7) it provides that an audit "may be completed in part,
+  but shall not be completed entirely, with the assistance of an AI system", and bars drafting one
+  with an AI system "without meaningful human review and oversight". **Nothing in the enacted
+  Illinois text, or in California SB 53, goes this far on independence.**
+
+  Its valve at § 110(4) is also its loophole, and the proportionality lane should look at it: an
+  in-house employee auditor is permitted where an independent audit "exceeds one percent of the
+  fair market value" of the developer or deployer. A percentage-of-value ceiling protects the
+  smallest party in principle and, in practice, is unreachable for the largest developers and easy
+  for a small one. That is an observation about somebody else's drafting, offered as one.
+
+  **§ 114(2) reverses the causation presumption at the pleading stage**, and then declines to let
+  an audit discharge it: the court "shall presume the specified AI system was created and/or
+  operated in violation" and caused the harm, rebuttable only by clear and convincing evidence,
+  and "the mere existence of such an audit, without additional evidence, shall not be considered
+  clear and convincing evidence." Both halves bear on this project: the first is a route it has
+  not taken, and the second is a warning about the route it has. Carried into
+  [known objections](../docs/known_objections.md).
+
+  ⚠ The status reported by the tracker ("Engrossed - Dead, delivered to Assembly, 3 June 2026") is
+  **not** verified against a primary source and is not asserted here. Quotations and the full word
+  test at `library/NOTES_Reading_Three-more-hearings-and-S1169-full_2026-08-25.md` § 4.
 
 **Done 23 August, from the day's intake** *(each against primary text; the tracker's category
 was wrong in every checked case, which is now six reasons not to trust the list)*:

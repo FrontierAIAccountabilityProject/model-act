@@ -76,7 +76,7 @@ source is right and the difference is a defect worth reporting to
 FrontierAIAccountabilityProject@proton.me.*
 
 *Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
-[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
+[the reviewer page](../REVIEWERS.md); the index of packets is [beside this one](./index.md).*
 
 ## The ask
 

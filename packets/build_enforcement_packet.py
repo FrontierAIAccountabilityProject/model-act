@@ -83,7 +83,7 @@ source is right and the difference is a defect worth reporting to
 FrontierAIAccountabilityProject@proton.me.*
 
 *Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
-[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
+[the reviewer page](../REVIEWERS.md); the index of packets is [beside this one](./index.md).*
 
 ## The ask
 
@@ -241,7 +241,7 @@ arrived.*
 ## VI. Filing
 
 Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any
-form: a memo, a marked-up copy of this packet, a numbered list of findings. Or, if you were contacted by the maintainer through a different channel, reply on that channel. Or, if you were
+form: a memo, a marked-up copy of this packet, a numbered list of findings. Or, if you were
 contacted by the maintainer through a different channel, reply on the channel you were contacted
 on. It is published as written, credited or anonymous at your choice; council seats publish with
 names, which is the point of them. A finding that something is broken is the seat working, not

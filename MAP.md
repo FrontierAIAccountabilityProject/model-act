@@ -91,6 +91,7 @@ through it: [REVIEWERS.md](./REVIEWERS.md).*
 * **[The bill census](./standards/frontier_bill_census.md)**: Every pending frontier bill, and what each fails to reach.
 * **[Known objections](./docs/known_objections.md)**: The counter-arguments, strongest included, answered.
 * **[Questions and answers](./dossier/05_questions_and_answers.md)**: The same, as a journalist would ask them.
+* **[The project in one page](./docs/abstract.md)**: The short account — what exists, counted; what the research found; what a reader is asked for and what they get back; and what this is not.
 * **[The lane sweep](./audit/v3_5_lane_sweep.md)**: Our own five-lane pre-review — seven defects graded fatal, four in the tagged statute.
 * **[The drafting record](./audit/record.md)**: Eight audits merged; at [chunk 7](./audit/record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel), the hostile brief — the Act as opposing counsel reads it.
 * **[Assembly field notes](./audit/field_notes_for_assembly.md)**: The workbench of the current text, preserved.
@@ -180,6 +181,7 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
 | [`docs/two_visions.md`](./docs/two_visions.md) | **Two visions of the future, read as paired primaries** — the Action Plan beside the AI Futures forecasts: where the race and the halt converge (countable compute, evaluations, expected incidents, attestation needs enforcement) and the identical silence both keep — no named person at a developer. Owns the Action Plan quotes. | live |
 | [`research/forecast_arithmetic.md`](./research/forecast_arithmetic.md) | **The AI Futures corpus read against the Act** — their verification maths under the compute trigger, the officer layer their plan omits, the window as arithmetic, the fine-absorption magnitudes; complications kept whole. | live |
 | [`research/state_enforcement_record_2026.md`](./research/state_enforcement_record_2026.md) | **Live state enforcement against frontier developers and their officers** — the Florida officer suit, the 42-state investigation, the 15-state preservation demand, and what each does to OPEN QUESTION 4. No other file may restate an enforcement action. | live |
+| [`research/canon_check_2026-08-24.md`](./research/canon_check_2026-08-24.md) | **The examiner's bookshelf** — what an outsider would expect this project to have read and what it had not, named work by named work. Nothing on the list may be cited until it has been retrieved and read; entries leave the list only through the owning file, carrying the reading's actual result. | live |
 
 ## The record of accountability — `ledger/`
 

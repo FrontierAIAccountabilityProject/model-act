@@ -313,6 +313,126 @@ authors state the limit plainly: FLARE-AI is *"an ecosystem coordination tool ra
 compliance reporting tool."* **The infrastructure and the duty are complements. The people
 building the first say so.**
 
+## 4c. And Congress has already legislated the same insight, in a different subject matter — added 25 August 2026
+
+This file's argument is that a substantive duty without an attached disclosure duty is
+unenforceable, because the party that would have to complain is the party kept from knowing.
+That argument is not this project's invention, and it is not confined to safety. It has a
+bipartisan bill behind it in a neighbouring field.
+
+At *Too Big to Prosecute?* (S. Hrg. 119-202, 16 July 2025), Senator Peter Welch put it to the
+witnesses in exactly these terms:
+
+> "You know, Senator Blackburn and I have a bill which is called the TRAIN Act, and it is trying
+> to address this question of artistic content being used."
+
+> "The burden is that how do you know they used it? That is the whole point of the TRAIN Act
+> where if there is copyright infringement, a reasonable assertion of that and suspicion of it is
+> going to require disclosure on the part of the AI platform."
+
+**The structure is identical to § 2 of this file.** A right exists. Its holder cannot tell
+whether it has been violated, because the only party who knows is the party who would be liable.
+So the legislative move is to make a reasonable suspicion trigger a disclosure obligation on the
+developer, rather than leaving the rightholder to prove what only the developer can see. That is
+the same move as this Act's SEC. 9 reporting duties and as H.R. 9333's flaw-disclosure mandate
+(§ 4b above), reached independently, by a Vermont Democrat and a Tennessee Republican, about
+copyright rather than catastrophic risk.
+
+**⚠ The limit, and it is strict.** The TRAIN Act's text has **not** been retrieved. Everything
+above is Senator Welch's own characterisation of his own bill, quoted from the hearing record and
+nothing more. **No provision, mechanism, threshold or drafting choice in the TRAIN Act may be
+described until the text is in hand.** Retrieving it is a cheap open item and is now on the
+queue.
+
+Citation and grading at `library/NOTES_Reading_SHrg119-202_Too-Big-to-Prosecute_2026-08-25.md` § 9.
+
+## 4d. And a sworn account of how the evidence disappears without anyone destroying it — added 25 August 2026
+
+Everything above argues that a duty without a disclosure obligation is unenforceable because the
+only party who knows is the party who would be liable. On 9 September 2025 two former researchers
+at a frontier developer told a Senate subcommittee how that works from the inside.
+
+The hearing is **S. Hrg. 119-255, *Hidden Harms: Examining Whistleblower Allegations That Meta
+Buried Child Safety Research***, Senate Judiciary Subcommittee on Privacy, Technology, and the Law.
+The witnesses are **Dr Jason Sattizahn** and **Cayce Savage**. The subject is the safety of children
+on virtual-reality platforms, and parts of that record are distressing; **this file's interest is
+narrow and structural, and says so.** What follows is about how internal safety findings stopped
+existing. Nothing here needs the substance of the harms and nothing here reproduces it.
+
+**First, the compressed version.** Senator Klobuchar, examining Dr Sattizahn (printed p. 14), asked
+in sequence whether the company altered research designs to avoid collecting certain information,
+whether it modified research reports and results, and whether it required researchers to delete data
+that showed harm. Each answer is one word:
+
+> "Dr. SATTIZAHN. Yes."
+
+**Second, and this is the part a drafter needs.** Answering Senator Schiff (printed pp. 28-29),
+Dr Sattizahn described two moves and then the mechanism that made them permanent:
+
+> "After that survey was released, legal came to me, a legal team came to me and said this survey
+> will not run in the future no matter what, unless you take those questions out. That would be
+> something along the funnel that they are preventing any additional data from being collected
+> around that topic."
+
+> "In other instances where I saw emotional or psychological harm as one example, and I had already
+> written the report, legal actually opened the report with me and said, 'You have to take out these
+> slides. You have to take out these lines.'"
+
+> "And for context, in research, all data on the backend needs to be deleted in 90 days. So, if
+> legal is going into a report and taking out lines or slides, they're effectively simply erasing
+> the data anyway because it's our ethical duty as researchers to erase everyone's other private
+> data before we analyze it as well."
+
+**Read that third paragraph twice.** Nobody destroyed anything. A ninety-day deletion policy for raw
+research data is defensible, is ordinary, and exists for the good reason that the raw data contains
+other people's private information. Given such a policy, **striking a line from a report is
+sufficient to make the observation behind it unrecoverable.** There is no shredder and no
+instruction to delete. The compliant path and the destructive path are the same path.
+
+**Why this file, and not the criminal lane's.** Because it is the strongest available answer to the
+objection that records duties are burdensome paperwork with no purpose. The purpose is exactly this:
+a records duty attaching to the *finding* rather than to the *raw data* is what makes an ordinary
+retention schedule stop functioning as a deletion mechanism. This project's SEC. 5 should be read
+against that account, and a reviewer should be asked whether it actually achieves it. It is now
+question material for the criminal and enforcement lanes.
+
+**Third, the officer-level fact.** Cayce Savage described a research project into the true ages of
+users, approved by the company's chief technology officer and funded at more than a million dollars,
+"canceled with no explanation, which at Meta is very unusual" — and, asked who could have overruled
+the officer who approved it, named one person. Her account of the reason:
+
+> "If Meta were to improve the quality of its ability to identify the true age of its users, it
+> would be required to shut down such a large number of accounts that it would meaningfully drop
+> their engagement metrics."
+
+**Limits, stated here so they travel with every use.** This is sworn allegation, not adjudicated
+fact. The company was not a witness and its answer is not in this record. Ms Savage says "to my
+knowledge". The subject is child safety on a consumer platform, not frontier-model risk. **The
+project must never write as though a hearing allegation were a finding**, and any use of this
+material that omits these limits is a defect worth reporting.
+
+**Fourth, and this is the most useful thing in the batch: a legislature has already drafted the
+answer.** New York S 1169-B § 109(4) would require every covered developer and deployer to maintain
+
+> "a reasonable internal process through which an employee may anonymously disclose information to
+> the developer or deployer ... including, at a minimum, a monthly update to the person who made the
+> disclosure regarding the status of the developer's or deployer's investigation of the disclosure
+> and the actions taken by the developer or deployer in response to the disclosure."
+
+alongside non-interference with disclosure to the attorney general, anti-retaliation, and a posted
+or annual written notice of rights. **A statutory anonymous internal channel with a monthly status
+obligation is precisely the machinery whose absence the two researchers describe.** S 1169-B is an
+algorithmic-discrimination bill and not a frontier statute — see
+[the census](./frontier_bill_census.md) — but § 109 is drafted language for the problem this
+section states, in force nowhere, sitting in a New York bill that a co-sponsor of RAISE put his name
+to.
+
+Citations, gradings and the fuller passages at
+`library/NOTES_Reading_Three-more-hearings-and-S1169-full_2026-08-25.md` §§ 1 and 4.
+
+⚠ **Owed:** both witnesses' prepared statements and their responses to written questions are
+unread. Nothing is asserted from them.
+
 ## 5. What is owed before any of this is used
 
 **§§ 1–4 are a structural argument built from general knowledge of how these regimes work, and remain

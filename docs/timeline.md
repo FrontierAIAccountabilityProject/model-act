@@ -1,6 +1,6 @@
 # The record, dated
 
-*The expanded version of the front page's twelve rows. The rule of this page is the project's
+*The expanded version of the front page's thirteen rows. The rule of this page is the project's
 general rule: a row appears only when the instrument behind it is in hand or pinned in the file
 that owns it, and the owning file is linked from the row. ⚠ marks a fact carried on press
 reporting or a validated paste rather than a primary instrument — the grade travels with the row.
@@ -36,6 +36,19 @@ Rep. Pressley asking which employee, agency, or board oversees executive-branch 
 civil-rights violations — and the witness answering, *"I do not believe there is one."* The same
 transcript records the moratorium fight from inside the majority (Serial 119-31, read in full):
 [known objections](./known_objections.md) · [the dossier](../dossier/README.md).
+
+16 July 2025
+: **A Senate subcommittee asks it out loud.** *Too Big to Prosecute?: Examining the AI Industry's
+Mass Ingestion of Copyrighted Works for AI Training* — Senate Judiciary Subcommittee on **Crime
+and Counterterrorism**, S. Hrg. 119-202, read in full. The chair states the enforcement gap in
+terms: "the FBI and the Department of Homeland Security regularly prosecute individuals who engage
+in exactly the same kind of behavior ... But have these Big Tech companies been prosecuted? No, of
+course not. They are getting off scot-free." A witness sets out both prongs of criminal liability
+and applies them; another gives the escalation to the chief executive; a third reads the internal
+messages about avoiding a trace. **The subject is copyright, not catastrophic risk, and nobody
+proposed officer liability** — the row is here because the structure is the same and the forum is
+a crime subcommittee: [known objections](./known_objections.md) ·
+[the press corpus](../research/press_corpus_july_august_2026.md) § 7.
 
 23 July 2025
 : **Washington publishes its roadmap.** *Winning the Race: America's AI Action Plan* — three

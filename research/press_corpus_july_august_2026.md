@@ -712,3 +712,161 @@ provider."* The full row, with quotations, is at
 So it is the same legislator writing the same absence twice in eighteen months, and that is the
 most useful single data point the census has acquired: **not forty strangers converging, but one
 author's own record.**
+
+---
+
+# Intake of 25 August 2026, second batch — two congressional hearings and a transparency study
+
+*These are not press. They are put here because this file is the project's chronological intake
+record for everything that arrives from outside the primary-legislation corpus, and because the
+first of them changes what the project can claim about enforcement. The census and
+`known_objections.md` are where the findings actually live; this section records what arrived,
+what state it arrived in, and what was done to make it readable.*
+
+## 7. A Senate subcommittee asks this project's question, out loud, in its own title
+
+**S. Hrg. 119-202, *Too Big to Prosecute?: Examining the AI Industry's Mass Ingestion of
+Copyrighted Works for AI Training*. Hearing before the Subcommittee on Crime and
+Counterterrorism, Committee on the Judiciary, United States Senate, 119th Congress, 1st Session,
+16 July 2025. Printed 2026. GPO print 61-891.**
+
+Held in library as
+`HEARING_US-Senate-Judiciary-Crime_Too-Big-to-Prosecute_S-Hrg-119-202_2025-07-16.pdf`.
+
+**Chair:** Josh Hawley (R-MO). **Ranking Member:** Richard J. Durbin (D-IL). **Also present and
+questioning:** Peter Welch (D-VT). **Witnesses:** Maxwell Pritt (Boies Schiller Flexner);
+Professor Michael Smith (Carnegie Mellon); Professor Bhamati Viswanathan (New England Law);
+David Baldacci (author); Professor Edward Lee (Santa Clara Law). **Questions for the record**
+were submitted by Senator Amy Klobuchar only.
+
+**How it was read, and why that matters.** The saved PDF is a browser reprint of the GPO
+original, and its embedded fonts carry a shifted encoding, so ordinary text extraction returns
+ciphertext. Two routes were used: a character decode validated by reading, for the body text
+(pages 1-31 of the PDF), and OCR at the images' native resolution for the appendix (pages
+32-103), which carries no text layer at all. **The body text is quote-in-hand. The appendix is
+graded ⚠ and is not publication-grade.** The decode map, the artefact register and the full
+citation set are at
+`library/NOTES_Reading_SHrg119-202_Too-Big-to-Prosecute_2026-08-25.md`.
+
+**What it changes.** Four things, each now carried in the file that owns it:
+
+1. The enforcement-gap premise is no longer the project's own inference. See
+   `docs/known_objections.md`, "The enforcement gap is theoretical".
+2. The wait-for-the-courts objection now has its best available statement, made under oath by
+   Professor Lee, together with Senator Durbin's Section 230 rejoinder to it. Same file, "Wait
+   for the courts".
+3. The disclosure-duty argument in `standards/who_has_to_tell_you.md` gains a bipartisan
+   congressional analogue, the TRAIN Act (Welch and Blackburn). ⚠ Text unretrieved.
+4. Named people who have already proved willfulness inside these firms, and who are therefore
+   candidate readers rather than candidate subjects. See the outreach files.
+
+**What it does not do.** It is about copyright, not catastrophic risk. Nobody proposed officer
+liability. *Dotterweich* and *Park* are not mentioned. Any use of this hearing that does not say
+so is doing the thing this project criticises in others.
+
+## 8. And the same Congress, eight months later, hearing the case for AI
+
+***Less Hype, More Help: AI That Improves Safety, Productivity and Care.* Hearing before the
+Subcommittee on Science, Manufacturing, and Competitiveness, Committee on Commerce, Science, and
+Transportation, United States Senate, 119th Congress, 2nd Session, 3 March 2026. GPO print
+64-384.** ⚠ The S. Hrg. number is in a display font that did not decode; it is not asserted.
+
+Held as `HEARING_US-Senate-Commerce-Science_Less-Hype-More-Help_S-Hrg-119-505_2026-03-03.pdf`.
+
+**Chair:** Ted Budd (R-NC). **Witnesses:** Demetri Giannikopoulos (Rad AI); Brittany Ng (Siemens
+Digital Industries Software); Dr Damion Shelton (Agility Robotics); Mark Muro (Brookings
+Institution).
+
+It is here as the deliberate counterweight to § 7: the same institution, the same year, the
+opposite framing, from industry. The finding drawn from it is in `known_objections.md` under
+"Regulation and deployment are enemies", and it is not the finding the hearing was convened to
+produce: the deploying company told the Senate that named humans remain responsible and that
+regulatory predictability is what lets it ship.
+
+⚠ **Read partially.** The four witnesses' spoken statements and Giannikopoulos's prepared
+statement are read. The ten senators' statements and Mark Muro's prepared statement are **not**.
+Muro is the only non-industry witness and the one most likely to bear on the fiscal and labour
+material. Open read.
+
+## 9. What New York actually publishes about its own votes
+
+**Reinvent Albany, *Transparency Gap: NY Senate Confirmation Votes Kept Behind Two Layers of
+Obstacles*, December 2025.** Held as
+`REPORT_Reinvent-Albany_NY-Senate-confirmation-vote-transparency_2025-12.pdf`.
+
+Subject matter is **confirmations, not bills**, so it does not touch the § 1421(4) question
+directly. It earns its place because it is third-party, FOIL-based evidence about the
+record-keeping of the one chamber the project is currently trying to reconstruct, and because it
+sets an expectation:
+
+> "We received only floor votes for 2024 and 2025 – not committee votes – and supplemented this
+> with Legislative Retrieval System data to assess the volume of confirmations since 2019."
+
+Carried into the census's retrieval programme as a caution on items 2 and 4. Reinvent Albany are
+an Albany transparency organisation with a working FOIL practice in that chamber; if the
+sponsor-memoranda retrieval stalls they are the right people to ask *how* to ask, and they are
+expressly **not** a reviewer lane. No contact made.
+
+---
+
+# Intake of 25 August 2026, third batch — three more Senate hearings, cleanly printed
+
+*All three are direct GPO downloads with intact text layers, so unlike the two hearings in the
+second batch there is no decode and no OCR: everything is quote-in-hand. The findings live in the
+files that own them; this section records what arrived and in what state.*
+
+## 10. Two former researchers describe how a developer's own safety findings stopped existing
+
+**S. Hrg. 119-255, *Hidden Harms: Examining Whistleblower Allegations That Meta Buried Child Safety
+Research*. Senate Judiciary Subcommittee on Privacy, Technology, and the Law, 9 September 2025.
+Serial No. J-119-37.** Held as
+`HEARING_US-Senate-Judiciary-Privacy_Hidden-Harms-Meta-child-safety_S-Hrg-119-255_2025-09-09.pdf`.
+
+**Chair:** Marsha Blackburn. **Also:** Klobuchar, Grassley, Blumenthal, Schiff.
+**Witnesses:** Dr Jason Sattizahn and Cayce Savage, both former Meta researchers.
+
+**The subject is child safety on virtual-reality platforms and parts of the record are
+distressing.** This project's interest is structural, narrow, and stated wherever the hearing is
+used: how internal safety research was prevented, altered, and made unrecoverable. The finding is
+carried at [who has to tell you](../standards/who_has_to_tell_you.md) § 4d, which also carries the
+limits — sworn allegation, not adjudicated fact; the company was not a witness; the subject is not
+frontier-model risk.
+
+**The single most useful sentence** is the mechanism: a ninety-day deletion policy for raw research
+data, which exists for good privacy reasons, means that striking a line from a report is enough to
+make the observation behind it unrecoverable. Nobody has to destroy anything. That is the argument
+for a records duty that attaches to the finding rather than to the raw data.
+
+⚠ **Unread:** both prepared statements (printed pp. 37, 44), both sets of responses to written
+questions (pp. 50, 68), the appendix (p. 87).
+
+## 11. The administration answers for the AI Action Plan
+
+**S. Hrg. 119-284, *AI've Got a Plan: America's AI Action Plan*. Senate Commerce Subcommittee on
+Science, Manufacturing, and Competitiveness, 10 September 2025.** Held as
+`HEARING_US-Senate-Commerce-Science_AIve-got-a-plan_S-Hrg-119-284_2025-09-10.pdf`.
+
+**Chair:** Ted Budd. **Sole witness:** Hon. Michael J.K. Kratsios, Director, Office of Science and
+Technology Policy. Fourteen senators' statements are printed.
+
+This project already reads *Winning the Race: America's AI Action Plan* as a primary. This is the
+office that wrote it, under examination, saying that state preemption "is something we look at
+closely". Carried at [known objections](../docs/known_objections.md) under "A patchwork of state
+laws is the real danger", together with the concession Kratsios made inside his own answer.
+
+⚠ **Unread:** the fourteen senators' statements beyond the quoted exchange, the full prepared
+statement, the appendix letters (Partnership for AI Infrastructure; SIIA; Consumer Technology
+Association; Premier Inc.), and the written responses to Thune, Blackburn, Cantwell, Baldwin and
+Hickenlooper.
+
+## 12. Catalogued, not yet read
+
+**S. Hrg. 119-171, *The Good, the Bad, and the Ugly: AI-Generated Deepfakes in 2025*. Senate
+Judiciary Subcommittee on Privacy, Technology, and the Law, 21 May 2025. Serial No. J-119-20.**
+Held as `HEARING_US-Senate-Judiciary-Privacy_AI-generated-deepfakes_S-Hrg-119-171_2025-05-21.pdf`.
+
+Witnesses: Martina McBride; Mitch Glazier (RIAA); Christen Price; Justin Brookman (Consumer
+Reports); Suzana Carlos (YouTube). **Contents and witness list read; body unread; nothing quoted or
+relied on anywhere.** It is listed so the shelf is honest about holding it. Not on the critical
+path.
+

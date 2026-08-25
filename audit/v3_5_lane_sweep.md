@@ -208,6 +208,27 @@ gateway terms to a life sentence and both are undefined. And nothing in SEC. 6 s
 who took every measure within her authority *has* exercised due care — 6(e) answers the power half
 and nothing answers the care half.
 
+**And the objection the sweep could not raise against itself, supplied from outside it.** The
+survey this project's comparative section is built on argues the opposite conclusion from the same
+doctrine. Sean Lyness, *Revitalizing the State Environmental Responsible Corporate Officer
+Doctrine*, 64 B.C. L. Rev. 253 (2023), would revive the responsible corporate officer doctrine in
+the states for **"individual civil liability—and only civil liability."** His reason bears directly
+on SEC. 6 and is not answered anywhere in the sections above: *Dotterweich* and *Park* are
+**misdemeanour** authority, decided "during a time when the immediate and collateral consequences
+were different" (at 297-98). A misdemeanour conviction in 1943 and in 1975 did not carry what a
+conviction carries now — the collateral consequences, the licensing bars, the immigration
+consequences, the sentencing exposure. So the argument is not that officers should escape; it is
+that the authorities the Act leans on will not bear the weight the Act puts on them, because the
+Act's felony tier asks a misdemeanour doctrine to justify a life-maximum offence.
+
+**Why this is in the sweep and not only in the objections file.** It is the one criticism of this
+lane made in print, by name, by the scholar whose own state-by-state survey the Act cites for its
+comparative claims. The lane's honest position is that the base tier answers it and the felony tier
+may not: *Park* holds at the misdemeanour floor, and the sweep says so two sections down. What the
+sweep does **not** have is an argument that the same authority reaches SEC. 6(b). **That gap is a
+finding waiting to be made or refuted, and it is the single most valuable thing a criminal-law
+reviewer could take up.** It is question 7 on the menu.
+
 **Enforcement.** SEC. 1(b)(7) adopts *Van Buren*'s narrowness, and *Van Buren* **excludes the most
 serious thing that happened in 2026** — the AISI agent's fabricated identities, sockpuppet
 endorsement and forged apology were all gates-*up* actions on a platform that permits anyone to

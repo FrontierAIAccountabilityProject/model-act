@@ -26,6 +26,7 @@ technical definition of *frontier*; this project holds a legal one — [two defi
 | **1975** | *United States v. Park* — the doctrine holds for the modern corporation: authority, not signature, decides who answers ([the case](./docs/the_case.md)). |
 | **1 Apr 2025** | "What is Elon Musk doing with our data?" — AI running on federal data reaches the House floor, with a resolution of inquiry ([the watch](./audit/standing_watch_2026-08-20.md)). |
 | **17 Sep 2025** | House Oversight, sworn: task horizons doubling every four to seven months — and the industry asks Congress for a ten-year pause on state AI enforcement and a framework that *"removes liability for companies that are compliant"* ([why the disparity](./standards/why_the_disparity.md)). |
+| **16 Jul 2025** | *Too Big to Prosecute?* — a Senate Judiciary subcommittee on **Crime and Counterterrorism** takes sworn testimony on frontier developers, and its chair states the enforcement gap in terms ([the quotation](#the-question-a-senate-crime-subcommittee-asked-out-loud)). |
 | **9 Feb 2026** | Six senators write to the Secretary of Defense on Grok and Department data ([the watch](./audit/standing_watch_2026-08-20.md)). |
 | **23 Feb 2026** | Anthropic publishes *Detecting and Preventing Distillation Attacks*; the Pentagon–xAI classified-systems deal is reported the same day ([known objections](./docs/known_objections.md)). |
 | **17 Mar 2026** | House Homeland Security takes sworn testimony on deception-based access to American models at industrial scale ([known objections](./docs/known_objections.md)). |
@@ -37,13 +38,43 @@ technical definition of *frontier*; this project holds a legal one — [two defi
 
 *Every row with its sources, plus the rows that did not fit: **[the dated record](./docs/timeline.md)**.*
 
+<a id="the-question-a-senate-crime-subcommittee-asked-out-loud"></a>
+
+### The question a Senate crime subcommittee asked out loud
+
+> "Now, the FBI and the Department of Homeland Security regularly prosecute individuals who engage
+> in exactly the same kind of behavior using platforms like LimeWire or Napster in the old days,
+> using a process called torrenting. But have these Big Tech companies been prosecuted? No, of
+> course not. They are getting off scot-free."
+>
+> "This isn't just aggressive business tactics. This is criminal conduct."
+>
+> — **Senator Josh Hawley**, chair, Senate Judiciary Subcommittee on Crime and Counterterrorism,
+> opening *Too Big to Prosecute?: Examining the AI Industry's Mass Ingestion of Copyrighted Works
+> for AI Training*, **16 July 2025**. S. Hrg. 119-202, printed pp. 1-2, read in full.
+
+**Three limits, stated here rather than left for a reader to find.** The subject of that hearing is
+copyright, not catastrophic risk. **No witness and no member proposed officer liability**, and
+neither *Dotterweich* nor *Park* is mentioned anywhere in it. And a chair's rhetorical question is
+not a declination record: it is a characterisation, and it is quoted as one.
+
+**What it does carry.** The premise this Act is built on — that conduct by frontier developers goes
+unprosecuted which would be prosecuted in anyone else's hands — is no longer only this project's
+inference. It is stated by the chair of the Senate subcommittee whose subject is crime, in a
+printed hearing record, about these companies. The elements a responsible-officer case needs were
+each put on that record by name: **willfulness**, **escalation to the chief executive**, and
+**concealment**. The full citation set, graded quotation by quotation, is at
+[known objections](./docs/known_objections.md); the hearing's own entry is at
+[the press corpus](./research/press_corpus_july_august_2026.md) § 7.
+
 ---
 
 ## What is on this page
 
 *The front page is the book's spine, and it is long on purpose. In order:*
 
-- [The record, dated](#the-record-dated) — twelve rows, each owned by the file it links; expanded at [the dated record](./docs/timeline.md).
+- **[The project in one page](./docs/abstract.md)** — the short account, if you are deciding whether to spend longer here.
+- [The record, dated](#the-record-dated) — thirteen rows, each owned by the file it links; expanded at [the dated record](./docs/timeline.md).
 - [Two definitions of "frontier"](#two-definitions-of-frontier) — the coverage architecture: system + activity + control, and the twelve-company table.
 - [Two sentences a government already wrote down](#two-sentences-a-government-already-wrote-down) — the UK's own evidence for a named responsible officer.
 - [In one paragraph](#in-one-paragraph) — the whole Act, precisely, with the interpretive key beneath it.
@@ -629,7 +660,7 @@ penalty calibration ended at v3.3 with the numbers three governors already signe
 six explainer contradictions found by the project's own audit sit in the register with
 their fixes.
 
-**Door two — review one lane.** The formal council: one of the five seats, a written
+**Door two — review one lane.** The formal council: one of the eight seats, a written
 disposition published under your name, roughly ten to twenty hours across eight weeks,
 unpaid, hostile welcome. The full terms, the core reading set, and the lane briefs are
 [above](#for-the-review-council). This is the door the project's own validation rule is

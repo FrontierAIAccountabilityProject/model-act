@@ -9,7 +9,7 @@ the source is right and the difference is a defect worth reporting to
 FrontierAIAccountabilityProject@proton.me.*
 
 *Arrived here directly? Your lane's table, the terms of the seat, and the other packets are on
-[the reviewer page](../REVIEWERS.md); the index of packets is [one level up](./README.md).*
+[the reviewer page](../REVIEWERS.md); the index of packets is [beside this one](./index.md).*
 
 ## The ask
 
@@ -73,6 +73,27 @@ charged. "The same class of risk" and the undistributed "knowingly" in SEC. 6(b)
 gateway terms to a life sentence and both are undefined. And nothing in SEC. 6 says that a person
 who took every measure within her authority *has* exercised due care — 6(e) answers the power half
 and nothing answers the care half.
+
+**And the objection the sweep could not raise against itself, supplied from outside it.** The
+survey this project's comparative section is built on argues the opposite conclusion from the same
+doctrine. Sean Lyness, *Revitalizing the State Environmental Responsible Corporate Officer
+Doctrine*, 64 B.C. L. Rev. 253 (2023), would revive the responsible corporate officer doctrine in
+the states for **"individual civil liability—and only civil liability."** His reason bears directly
+on SEC. 6 and is not answered anywhere in the sections above: *Dotterweich* and *Park* are
+**misdemeanour** authority, decided "during a time when the immediate and collateral consequences
+were different" (at 297-98). A misdemeanour conviction in 1943 and in 1975 did not carry what a
+conviction carries now — the collateral consequences, the licensing bars, the immigration
+consequences, the sentencing exposure. So the argument is not that officers should escape; it is
+that the authorities the Act leans on will not bear the weight the Act puts on them, because the
+Act's felony tier asks a misdemeanour doctrine to justify a life-maximum offence.
+
+**Why this is in the sweep and not only in the objections file.** It is the one criticism of this
+lane made in print, by name, by the scholar whose own state-by-state survey the Act cites for its
+comparative claims. The lane's honest position is that the base tier answers it and the felony tier
+may not: *Park* holds at the misdemeanour floor, and the sweep says so two sections down. What the
+sweep does **not** have is an argument that the same authority reaches SEC. 6(b). **That gap is a
+finding waiting to be made or refuted, and it is the single most valuable thing a criminal-law
+reviewer could take up.** It is question 7 on the menu.
 
 ---
 
@@ -491,7 +512,7 @@ to the Agency, gives rise to a civil action for reinstatement, double back pay, 
 
 ## III. The question menu
 
-Any three answered are a disposition; all six, with the repairs above verified or refuted, are
+Any three answered are a disposition; all seven, with the repairs above verified or refuted, are
 the seat done whole. Replace any of them with findings of your own.
 
 1. Is the reconstructed SEC. 6(a) chargeable?
@@ -501,6 +522,15 @@ the seat done whole. Replace any of them with findings of your own.
 5. Does a state's suspended-sentence law defeat the harm-tier minimum? *(the sweep could not
    settle this)*
 6. Does per-victim counting survive the state's merger doctrine? *(nor this)*
+7. **Does misdemeanour authority reach a felony tier?** *Dotterweich* and *Park* are misdemeanour
+   cases. Lyness argues the state doctrine should carry individual **civil** liability and only
+   civil liability, on the ground that those cases were decided "during a time when the immediate
+   and collateral consequences were different" (64 B.C. L. Rev. 253, 297-98). The sweep's own
+   answer stops at the base tier: *Park* holds, and *Staples*' penalty-sensitivity "does not bite
+   at a misdemeanour." **Nothing in this repository argues that the same authority reaches
+   SEC. 6(b).** Either supply that argument or refute it; either way it is a finding, and it is the
+   one the maintainer most wants answered. *(Added 25 August 2026; the sweep's own statement of it
+   is in Part I above.)*
 
 Senior to all six, from the companion's
 [READ FIRST index](../model_act_v3_4_companion.md#read-first--questions-for-the-next-revision-v35):
@@ -544,7 +574,7 @@ arrived.*
 
 
 Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any
-form: a memo, a marked-up copy of this packet, a numbered list of findings. Or, if you were contacted by the maintainer through a different channel, reply on that channel. Or, if you were
+form: a memo, a marked-up copy of this packet, a numbered list of findings. Or, if you were
 contacted by the maintainer through a different channel, reply on the channel you were contacted
 on. It is published as written, credited or anonymous at your choice; council seats publish with
 names, which is the point of them. A finding that something is broken is the seat working, not

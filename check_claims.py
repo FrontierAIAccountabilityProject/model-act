@@ -11,6 +11,8 @@ def read(p):
 WORDS = {1:"one",2:"two",3:"three",4:"four",5:"five",6:"six",7:"seven",8:"eight",9:"nine",
          10:"ten",11:"eleven",12:"twelve",13:"thirteen",14:"fourteen",20:"twenty",
          21:"twenty-one",22:"twenty-two",23:"twenty-three",24:"twenty-four",25:"twenty-five",
+         26:"twenty-six",27:"twenty-seven",28:"twenty-eight",29:"twenty-nine",
+         34:"thirty-four",35:"thirty-five",36:"thirty-six",
          30:"thirty",31:"thirty-one",32:"thirty-two",33:"thirty-three"}
 
 # ---- recompute the truth -------------------------------------------------
@@ -18,6 +20,15 @@ errata      = read("ledger/errata.md")
 entries     = len(re.findall(r'(?m)^## E\d+', errata))
 highest_e   = max([int(n) for n in re.findall(r'(?m)^## E(\d+)', errata)] or [0])
 packets     = [p for p in glob.glob("packets/*.md") if os.path.basename(p) not in ("index.md","README.md")]
+docs_count  = len([f for r, d, fs in os.walk(".") for f in fs
+                   if f.endswith(".md") and ".git" not in r and "_site" not in r])
+statute     = read("model_act_v3_4.txt")
+sections    = len(re.findall(r'(?m)^SEC\.', statute))
+q35         = read("audit/v3_5_cure_language.md")
+q34         = read("audit/v3_4_cure_language.md")
+cures35     = len(re.findall(r'(?m)^#{2,3} CURE ', q35))
+oq35        = len(re.findall(r'(?m)^## OPEN QUESTION', q35))
+cures34     = len(re.findall(r'(?m)^#{2,3} CURE ', q34))
 lanes       = len(packets)
 statute     = read("model_act_v3_4.txt")
 stat_lines  = len(statute.splitlines())
@@ -35,6 +46,15 @@ CHECKS = [
  ("statute line count", "REVIEWERS.md", r'(\d+) lines', stat_lines, str(stat_lines)),
  ("statute line count", "MAP.md", r'(\d+) lines', stat_lines, str(stat_lines)),
  ("state-of-play rows", "REVIEWERS.md", r'\*([\w-]+) rows:', sop_rows, WORDS.get(sop_rows,sop_rows)),
+ # The abstract states the project's scale. It is the page a stranger reads first, so its
+ # numbers are recomputed here rather than trusted. Floors, not equalities, where the number
+ # only grows: a floor stays true between sweeps, an equality goes stale the next commit.
+ ("document count (abstract)", "docs/abstract.md", r'\*\*(\d+) documents,', docs_count, docs_count),
+ ("statute sections (abstract)", "docs/abstract.md", r'\*\*611 lines, (\d+) sections\*\*', sections, sections),
+ ("errata count (abstract)", "docs/abstract.md", r'errata register: (\d+) entries', entries, entries),
+ ("v3.4 cures (abstract)", "docs/abstract.md", r'\*\*(\d+) cures\*\* adopted verbatim at v3\.4', cures34, cures34),
+ ("v3.5 cures (abstract)", "docs/abstract.md", r'\*\*(\d+) more plus', cures35, cures35),
+ ("v3.5 open questions (abstract)", "docs/abstract.md", r'plus (\d+) open questions\*\*', oq35, oq35),
 ]
 
 print("RECOMPUTED FROM THE REPOSITORY")

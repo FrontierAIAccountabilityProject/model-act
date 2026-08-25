@@ -1068,6 +1068,133 @@ days, the two dates it runs between are named in the same sentence or the senten
 until they are. A duration with no endpoints attached cannot be checked, and this one was repeated
 five times without anyone being able to.
 
+## E38 — the packet that promised the whole lane, and left out the only published criticism of it
+
+**The error.** [The criminal-law packet](../packets/criminal_law.md) says of itself that it is
+"the lane's whole apparatus inlined in reading order." Since it was first built on 24 August 2026
+it has not carried the one criticism of this lane that exists in print, by name, from a scholar
+this project cites: Sean Lyness, *Revitalizing the State Environmental Responsible Corporate
+Officer Doctrine*, 64 B.C. L. Rev. 253 (2023), argues the state doctrine should carry "individual
+civil liability—and only civil liability," on the ground that *Dotterweich* and *Park* are
+**misdemeanour** authority decided "during a time when the immediate and collateral consequences
+were different" (at 297-98).
+
+**Where it was, and where it was not.** The point was **not** suppressed. It has been in
+[the table of authorities](../standards/table_of_authorities.md) and in
+[the comparative page](../standards/comparative_officer_liability.md) since 25 August, and
+[E34](#e34--three-of-four-and-the-register-number-a-page-promised) already corrected the related
+overstatement. It was missing from the one page a criminal-law reviewer is told to read.
+
+**Why that is a defect and not a formatting slip.** The packet exists so a reviewer does not have
+to hunt the repository. A packet that inlines the sweep's own findings, inlines the drafted repairs,
+and omits the strongest published objection is a packet that flatters the lane. The seat was
+advertised to Sean Lyness himself — his letter has been drafted and is unsent — which would have
+put a man's own argument in front of him with his own argument left out of the reading copy.
+
+**Caught by.** Preparing the outreach to him, and re-reading what the packet actually contains
+before the letter went.
+
+**Fix.** The objection is now stated in [the sweep](../audit/v3_5_lane_sweep.md) in the criminal
+section, in the project's own words and against the project's own text, and the packet is
+regenerated from it, so it appears in Part I where a reviewer meets it before the repairs. It is
+also added to the packet's question menu as **question 7**, with the honest statement of where the
+lane's answer stops: *Park* holds at the base tier and the sweep says so; **nothing in this
+repository argues that the same authority reaches the felony tier at SEC. 6(b).**
+
+**Rule kept.** *A packet that claims to be the whole lane owes the lane's best objection, not only
+the lane's own findings.* Before any packet is sent to a named person, the repository is searched
+for that person's own published position and, if it cuts against the Act, it goes in the packet
+first.
+
+---
+
+## E39 — the same sentence twice, in two packets, for a day
+
+**The error.** The criminal-law and enforcement packets ended with the filing instruction printed
+twice: "Or, if you were contacted by the maintainer through a different channel, reply on that
+channel. Or, if you were contacted by the maintainer through a different channel, reply on the
+channel you were contacted on."
+
+**Cause.** A sentence was added to the builders' inline closing text rather than replacing the
+sentence already there. The two builders that carry the longer closing block took the duplicate;
+the six that carry the short one did not.
+
+**Caught by.** Reading `packets/build_criminal_packet.py` end to end before editing it for E38.
+
+**Fix.** One sentence, in both builders; all eight packets regenerated so the generated pages match
+their sources.
+
+**Rule kept.** *Generated pages are proofread as pages, not as diffs.* A defect that only exists in
+the output of a script will not be found by reading the script's change.
+
+## E40 — the council was described as five seats after it had grown to eight
+
+**The error.** Two live surfaces described the review council as having five seats. The front
+page, at "Door two — review one lane": *"one of the five seats."* And the dossier's recruitment
+paragraph, which went further and named the five roles: a criminal-law specialist, a former
+prosecutor or regulator, a frontier-security engineer, an open-source and academia reviewer, and
+someone who has administered a real budget.
+
+**The truth.** The council runs to **eight** lanes and has since 23 August 2026: criminal law,
+enforcement, frontier security, fiscal and administration, federalism and preemption,
+proportionality and sentencing, torts and design, and open source and academia. There are eight
+packets, one per lane, built by eight committed scripts, and
+[the reviewer page](../REVIEWERS.md) has said "eight lanes" on two separate lines throughout.
+
+**Cause, and it is the ordinary one.** The count was raised where the work happens, on the
+reviewer page and in the packets directory, and the two places that only *mention* the council in
+passing were not swept. One of them, the dossier, is inside a folder whose sealed chapters are
+never edited, which makes it easy to skip; but the paragraph in question is in the folder's live
+front matter, not the sealed text, so nothing prevented the fix except nobody looking.
+
+**Why it matters more than a number usually would.** Both surfaces are recruitment copy. A
+prospective reviewer reading either one is being told, wrongly, how many seats exist and which
+five they are. Three of the eight lanes — federalism and preemption, proportionality and
+sentencing, torts and design — did not appear in that list at all, so a person qualified for one
+of those seats was being told there was no seat for them.
+
+**Caught by.** The first full repository link-and-consistency sweep, 25 August 2026, run with a
+new committed tool, `check_links.py`.
+
+**Fix.** Both corrected. The dossier paragraph now names all eight lanes and says in place that it
+named five when the chapters were sealed, with a pointer here. The sweep's other findings are in
+[the changelog](./changelog.md).
+
+**Rule kept.** *A count that appears in recruitment copy is checked wherever it appears, not
+wherever it is maintained.* The places that state a number in passing are exactly the places that
+go stale, because nobody edits them when the number changes.
+
+---
+
+## E41 — three packets linked to a path the project's own checker already knew was dead
+
+**The error.** The criminal-law, enforcement and frontier-security packets each carried, in their
+opening orientation line, *"the index of packets is [one level up](./README.md)"*. There is no
+`packets/README.md`. The index is `packets/index.md`. Three of the eight reading copies sent to
+reviewers therefore opened with a dead link in their second sentence.
+
+**What makes this worse than an ordinary broken link.** The project already knew that path was
+dead. `check_emails.py`, the pre-send audit for correspondence, carries `packets/README` in its
+banned list under the label "packets/README (dead)", so no outgoing email could contain it. The
+same string sat unnoticed in the repository's own pages, because the email checker checks emails
+and nothing was checking the repository.
+
+**Cause.** The three affected packets are the three built by the older "extraction" family of
+builder scripts, which share a longer orientation block. The path was correct when that block was
+written and was not revisited when the index moved.
+
+**Caught by.** The same sweep as [E40](#e40--the-council-was-described-as-five-seats-after-it-had-grown-to-eight).
+
+**Fix.** All three builders now point at `./index.md`, and all eight packets were regenerated.
+Two further navigation defects found by the same sweep are fixed and recorded in the changelog
+rather than here, because they are omissions rather than false statements: the eight audit chunks
+were reachable from nowhere in the repository, and `research/canon_check_2026-08-24.md` was absent
+from the map that claims to record which file owns which question.
+
+**Rule kept.** *The repository gets the same pre-flight the post does.* The link sweep is now a
+committed tool, `check_links.py`, and it is run before a push in the same breath as
+`check_claims.py`.
+
 <a id="part-ii"></a>
 
 ---
