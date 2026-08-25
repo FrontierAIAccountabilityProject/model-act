@@ -404,3 +404,98 @@ requirement**, which is an Agency intake-format obligation the
 findable by word search**, because each is a duty the disapplication list did not anticipate rather
 than a word the census was looking for. **New York's § 1421 has not had this read**, and on this
 evidence it should have it before anything else in the repository.
+
+## PF-11 · New York § 1421 read in full. PF-9's queue is now empty, and the Act adopts three duties, a defence and a permission it never mentions
+
+*Read 25 August 2026 from the enacted chapter text pinned at
+`raise-officer-certification/research/raise_act_s8828_chapter_96_2026.txt`. **This is the reading the
+census graded ⚠ R, "not yet read by a human eye."** With PF-10 it closes PF-9: all three of the Act's
+interim standards have now been read.*
+
+### One — the internal-use provision is in two of the three, not one
+
+**§ 1421(1)(j)** is word-for-word Illinois § 10(a)(10):
+
+> "assessing and managing catastrophic risk resulting from the **internal use** of its frontier
+> models, including risks resulting from a frontier model **circumventing oversight mechanisms**."
+
+Indeed § 1421(1)(a)–(j) and Illinois § 10(a)(1)–(10) are the same ten items in the same order.
+**[PF-10](#pf-10--illinois--10-read-in-full-as-pf-9-said-to-four-things-the-disapplication-list-did-not-anticipate)'s
+question to OPEN QUESTION 4 therefore rests on two of the three adopted standards, not one**, and
+correspondingly harder.
+
+### Two — the interim standards contain SEC. 8's offense already, owed by the entity
+
+**§ 1421(4)(a)**, adopted and not disapplied:
+
+> "(i) A frontier developer shall not make a materially false or misleading statement about
+> catastrophic risk from its frontier models or its management of catastrophic risk.
+> (ii) A large frontier developer shall not make a materially false or misleading statement about its
+> **implementation of, or compliance with, its frontier AI framework**."
+
+The census already found (i) and called it "the nearest thing in enacted American frontier law to this
+project's truth-telling limb." **It did not reach (ii), which is nearer still.** (ii) is SEC. 8's
+false-certification offense as a substantive duty — same subject matter, owed by the entity, with no
+signatory. **The Act adopts it and then builds SEC. 8 on top without noticing it is already there.**
+Whether SEC. 8's personal certification and § 1421(4)(a)(ii)'s entity duty are two duties or one
+described twice is a question for the enforcement seat, and the answer changes what a certification
+means.
+
+### Three — a good-faith defence the Act imports and never mentions
+
+**§ 1421(4)(b)**: "This subdivision shall not apply to a statement that was made **in good faith and
+was reasonable under the circumstances**."
+
+Not a penalty, not enforcement, not reporting: **it is adopted with the duty it qualifies.** So the
+interim standards carry a good-faith-and-reasonableness defence to the false-statement duty, and
+nothing in this Act refers to it. It sits directly beside SEC. 8's "statements of fact within the
+certifying person's knowledge **after reasonable inquiry**" and SEC. 6(a)'s due-care element, and
+[known objections](../docs/known_objections.md) currently reports that the Act "picks neither" on
+whether reliance on a safety team is reasonable inquiry. **It may have picked, by adoption, without
+saying so.**
+
+### Four — a redaction right whose survival is unresolved, and it lands on the takings lane
+
+**§ 1421(5)** permits redaction "necessary to protect such frontier developer's trade secrets, such
+frontier developer's cybersecurity, public safety, or the national security of the United States,"
+requires the developer to "describe the character and justification of such redaction," and to
+"**retain the unredacted information for five years**."
+
+**SEC. 3(c)(4)(B) converts every duty to publish into a duty to transmit to the Agency — and says
+nothing about whether the redaction permission travels with it.** Two readings, both bad:
+
+- **It travels.** A developer may then redact trade secrets from what it transmits to the Agency,
+  which would hollow out SEC. 3's validation materials and SEC. 8's factual basis. The recipient is a
+  regulator under seal, so the redaction protects nothing and costs everything.
+- **It does not travel.** The Act has then **silently removed a protection its own adopted standard
+  grants**, which is the strongest single fact available to
+  [the takings objection](../docs/known_objections.md): the interim standard the Act adopts gives a
+  trade-secret redaction right, and the Act's conversion clause takes it away without a word.
+
+**The takings section currently answers the trade-secret argument by saying nothing is published and
+everything is sealed. That answer is now incomplete**, because the question is not only where the
+material goes but what the developer was entitled to withhold from it.
+
+⚠ Also unreconciled, minor: § 1421(5)(b)'s five-year retention of unredacted information against
+SEC. 12's ten-years-or-five-after-last-operation. The Act's is longer and governs, but the source's
+period is adopted text and the two are never set beside each other.
+
+### Five — three standards, no conflict rule
+
+Illinois § 10(c)(3) requires transparency summaries "in a **machine-readable format**"; New York has
+no such requirement. New York § 1421(4) and (5) carry a false-statement duty, a good-faith defence
+and a redaction regime; Illinois § 10 carries none of them. California is a third text again.
+
+**SEC. 3(c)(4) adopts all three as "the interim standards" and provides no rule for what happens where
+they diverge.** (E) credits conformity documented for any one of them "to the extent of the matters
+documented," which addresses crediting and not conflict. **So it is currently unanswerable whether a
+developer measured against the interim standards gets New York's good-faith defence, or owes Illinois'
+machine-readable format, or both, or neither.**
+
+**That is the largest unanswered question in SEC. 3(c)(4) and it was invisible until all three were
+read.** It is also cheap to fix: one sentence stating whether the standards apply cumulatively (the
+strictest governs) or severally (conformity with any one suffices).
+
+---
+
+*PF-9 is discharged. The Act's operative content for years 0–4 has now been read in full.*
