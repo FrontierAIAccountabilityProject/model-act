@@ -114,7 +114,8 @@ html {
 .site-nav {
   counter-reset: navstep;
 }
-.site-nav .nav-list .nav-list-item {
+// top level counts §1, §2, ...; a child list restarts as §n.1, §n.2
+.site-nav > .nav-list > .nav-list-item {
   counter-increment: navstep;
 }
 .site-nav .nav-list .nav-list-item .nav-list-link {
@@ -122,11 +123,22 @@ html {
   color: #3d382f;
 }
 .site-nav .nav-list .nav-list-item .nav-list-link::before {
-  content: "\00a7" counter(navstep) "\00a0\00a0";
   color: #9a8f77;
   font-family: ui-monospace, "SF Mono", "Courier New", monospace;
   font-size: 0.78em;
   font-variant-numeric: tabular-nums;
+}
+.site-nav > .nav-list > .nav-list-item > .nav-list-link::before {
+  content: "\00a7" counter(navstep) "\00a0\00a0";
+}
+.site-nav > .nav-list > .nav-list-item > .nav-list {
+  counter-reset: navsub;
+}
+.site-nav > .nav-list > .nav-list-item > .nav-list > .nav-list-item {
+  counter-increment: navsub;
+}
+.site-nav > .nav-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link::before {
+  content: "\00a7" counter(navstep) "." counter(navsub) "\00a0\00a0";
 }
 .site-nav .nav-list-link.active {
   background: $cream-deep;
