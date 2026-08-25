@@ -642,7 +642,12 @@ outside correction is acknowledged in the record permanently; an answer to an op
 question lands in [the open v3.5 queue](./audit/v3_5_cure_language.md) as drafted language.
 The most useful form is specific: the passage, the problem, the authority. *This is not
 hypothetical — one open question has already been answered this way from outside, and the
-text changed to match; it is drafted into v3.5.*
+text changed to match; it is drafted into v3.5. There are two routes: the address above, or, if
+you would rather your correction were public from the moment you send it,
+[open an issue](https://github.com/FrontierAIAccountabilityProject/model-act/issues/new/choose) —
+one form for a correction, one for an answer to an open question, each asking where, what, and how
+you want to be credited. An issue is a public record, which suits most corrections and not all of
+them; the address is there for the rest.*
 
 *The questions currently open, each drafted to the edge of one missing reader:* the
 interim-standards version-pin mechanics (a standards-literate technologist); the

@@ -1,0 +1,42 @@
+name: An answer to an open question
+description: One of the scoped questions the project has published because it cannot answer it alone.
+title: "Open question: "
+labels: ["open question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The open questions are listed on the front page under "Contact and contributions", and in
+        full in the companion's READ FIRST index. **One of them has already been answered this way
+        from outside, and the statutory text changed to match.**
+
+        An answer here lands in the open v3.5 cure queue as drafted language, credited as you choose.
+  - type: input
+    id: question
+    attributes:
+      label: Which question
+      description: Name it, or quote the sentence that states it.
+    validations:
+      required: true
+  - type: textarea
+    id: answer
+    attributes:
+      label: Your answer
+      description: Prose is fine. Drafted statutory language is better, and will be marked as yours if it is used.
+    validations:
+      required: true
+  - type: textarea
+    id: authority
+    attributes:
+      label: What it rests on
+      description: The authority, the practice, or the experience. If the answer is "I have done this and it does not work like that", say so; that is an authority.
+  - type: dropdown
+    id: credit
+    attributes:
+      label: Credit
+      options:
+        - By my GitHub username
+        - By a name I will give in a comment
+        - Anonymous, no credit
+    validations:
+      required: true

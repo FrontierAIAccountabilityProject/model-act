@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Take a review seat
+    url: https://github.com/FrontierAIAccountabilityProject/model-act/blob/main/REVIEWERS.md
+    about: One of eight lanes, a written disposition published as you write it, under your name or anonymously. Start here rather than in an issue.
+  - name: Anything that should not be public
+    url: https://github.com/FrontierAIAccountabilityProject/model-act/blob/main/README.md#contact-and-contributions
+    about: Write to FrontierAIAccountabilityProject@proton.me instead. An issue is a public record; some corrections are not ones you want your name on in public.

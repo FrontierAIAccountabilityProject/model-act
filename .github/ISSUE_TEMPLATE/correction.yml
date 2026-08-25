@@ -1,0 +1,52 @@
+name: A correction
+description: A wrong citation, a broken cross-reference, a claim that does not hold, a number that does not add up.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every substantiated correction enters the public errata register with its fix attached and
+        permanent credit, unless you ask for none. Twenty-eight entries are already there, and the
+        register is the reason this project can be trusted about anything else.
+
+        You do not have to be right. A defect reported and then refuted is still a useful hour of
+        somebody's attention, and the refutation gets recorded too.
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: The file and, if you can, the section or line. For example `standards/frontier_bill_census.md`, the California SB 53 row.
+      placeholder: file, section or line
+    validations:
+      required: true
+  - type: textarea
+    id: passage
+    attributes:
+      label: The passage as it stands
+      description: Paste the sentence or the table row, so there is no doubt which one is meant.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What is wrong with it.
+    validations:
+      required: true
+  - type: textarea
+    id: authority
+    attributes:
+      label: The authority, if there is one
+      description: The primary text, case, statute, page or URL that settles it. Not required. A correction with an authority attached is faster to act on, and one without is still welcome.
+  - type: dropdown
+    id: credit
+    attributes:
+      label: Credit
+      description: How the errata entry should name you.
+      options:
+        - By my GitHub username
+        - By a name I will give in a comment
+        - Anonymous, no credit
+    validations:
+      required: true

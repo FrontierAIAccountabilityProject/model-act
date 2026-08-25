@@ -1,0 +1,22 @@
+# Language classification. Left alone, GitHub reads this repository as "Python 91.8%",
+# because Linguist ignores prose by default and the only files it counts are the build and
+# check scripts. That is a false description of a legal drafting project: the Python is
+# eight packet builders and two checkers, and the statute and its apparatus are the content.
+# Making prose detectable puts the bar back in proportion to what is actually here.
+*.md  linguist-detectable=true
+*.txt linguist-detectable=true
+
+# The site theme is configuration, not project content.
+_sass/**     linguist-vendored=true
+_includes/** linguist-vendored=true
+
+# Generated pages: assembled by the committed builders from the repository's own files.
+# Marked so a diff of a regenerated packet does not read as hand-editing.
+packets/criminal_law.md    linguist-generated=true
+packets/enforcement.md     linguist-generated=true
+packets/security.md        linguist-generated=true
+packets/federalism.md      linguist-generated=true
+packets/fiscal.md          linguist-generated=true
+packets/proportionality.md linguist-generated=true
+packets/torts_design.md    linguist-generated=true
+packets/open_source.md     linguist-generated=true
