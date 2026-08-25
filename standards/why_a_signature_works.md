@@ -75,7 +75,7 @@ executive charged under the Act was acquitted. Richard Scrushy of HealthSouth fa
 counts, and on **28 June 2005 a federal jury found him not guilty on every one of them.** A former
 SEC regional office head who had predicted that prosecutors would *"wave that personal certification
 in front the jury to show that the defense claim — that their head was stuck in the sand — doesn't
-hold water"* said afterwards that *"the utility of the criminal certification statute will be very
+hold water"* said afterward that *"the utility of the criminal certification statute will be very
 much undermined."*
 
 **So Sarbanes-Oxley proves the narrower thing — which is the thing this file needs.** It is strong
@@ -174,14 +174,14 @@ telescope.
 ### And generative AI is already classified as the risk no single organization can hold
 
 The plan divides cyber risk in two. **Government-wide risks** are defined as *"risks with
-severity/complexity that would be unmanageable by a single organization"* — and the listed examples
+severity/complexity that would be unmanageable by a single organisation"* — and the listed examples
 include:
 
 > *"Risks created by widespread adoption of **novel technologies, such as generative AI**."*
 
 **Those risks are owned by the DSIT Permanent Secretary, as Government Technology Risk Owner.** One
 post. One person. The stated objective is to *"establish central accountability for risks that
-departments or organizations cannot reasonably be expected to manage."*
+departments or organisations cannot reasonably be expected to manage."*
 
 > **A government has formally judged that generative-AI risk exceeds what any single organisation can
 > hold, and responded by naming one individual to hold it.**

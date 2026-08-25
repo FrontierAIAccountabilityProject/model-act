@@ -793,7 +793,7 @@ conscious avoidance; lapsing on material modification or expansion. *Open:* whet
 manifest elements are the right minimum is squarely the security seat's terrain.
 
 **n.29 — SEC. 4(a)–(b): the controlling person, narrowed.** *Defect:* "material practical
-authority" could be read down the organisation chart. *Change:* "final material
+authority" could be read down the organization chart. *Change:* "final material
 independent decision authority," with express exclusions — title, office, seniority,
 credentials, technical ability, access, ministerial execution, and advice, alone or in
 combination only with each other — and two construction sentences: authority to decide,

@@ -1293,3 +1293,53 @@ number was never checked against the statute; it was carried from an earlier rea
 that quoted the cross-reference. The project's standing rule says a grep finds the owning file and
 never replaces reading it. **The rule was written for exactly this and was not followed.**
 
+<a id="e44"></a>
+
+## E44 — the tool built to protect quotations falsified fourteen of them
+
+**Filed 25 August 2026. Internal catch, same day, found while reading a packet for an unrelated
+reason. The damage was published for roughly four hours.**
+
+**What happened.** `check_spelling.py`, added this morning to hold the repository to American
+spelling, carries a rule stated in its own docstring: *"A quotation from a British source must keep
+its own spelling."* It masked quoted spans so the sweep could not touch them. **The mask matched
+only quotations that fit on a single line.** Markdown wraps at ninety-odd characters, so most
+quotations of any length wrap, and the mask silently did not apply to them.
+
+**Fourteen quotations were altered.** Among them:
+
+- **UK Health and Safety at Work etc. Act 1974, s.37**, reproduced in
+  [comparative officer liability](../standards/comparative_officer_liability.md): *"If the offence
+  is proved to have been committed with the consent or connivance of—"* became *offense*. **A
+  British statute, quoted verbatim, rewritten into American spelling.**
+- **Four passages from the UK AI Safety Institute's incident report**, including *"there is good
+  reason to think near-impossible tasks push models **towards** more 'creative', and more
+  transgressive, problem-solving"* — where *towards* became *toward*. This one is the sharpest
+  rebuke available: the tool's own docstring names AISI's *towards* as the example of why the mask
+  exists, and the mask then failed on that exact sentence.
+- **The tagged statute itself**, quoted in the torts and design packet: *"finally adjudicated to
+  have committed a knowing or **wilful** violation under SEC. 6(b)"* became *willful*, so the packet
+  quoted the Act as saying something the Act does not say.
+- Two quoted UK government passages, a quoted objection, and a quoted definition of specification
+  gaming.
+
+**Why the design was wrong, not just the regex.** The sweep ran line by line. **A per-line mask can
+never see a span that crosses a line**, whatever pattern it uses, so this was not a tuning error
+that a wider regex would have fixed. The tool has been rewritten to compute protected ranges over
+the whole file before touching anything.
+
+**Fix:** all fourteen restored from a pre-sweep snapshot, verified by re-running the detector that
+found them, which now reports none altered. The masking rewritten whole-file. Status: cured.
+
+**A limitation accepted on purpose.** Quote marks alternate, so text sitting *between* two
+quotations now reads as quoted and is protected too. That leaves a little of the project's own prose
+British. **Under-changing is recoverable; falsifying a source is not**, so the error is left
+pointing that way, and it is written into the script beside the rule.
+
+**Why this entry is longer than the defect.** Every claim in this repository is checkable only
+because quotations are exact. A tool that rewrites them, silently, in bulk, while its own
+documentation promises it will not, is the most damaging class of failure the project has had —
+worse than a wrong number, because a wrong number announces itself to anyone who checks and a
+quietly corrected quotation does not. It was found by accident. **There is now a detector for it,
+and it should be run after any bulk edit.**
+

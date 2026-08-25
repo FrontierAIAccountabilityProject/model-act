@@ -281,7 +281,7 @@ on standards already enacted elsewhere; no approval mode exists to sit on; if th
 agency never organizes, filings run to the attorney general. An agency that cannot
 gate the duties is an agency not worth capturing.
 
-*"A hostile attorney general will weaponize this against companies whose politics he
+*"A hostile attorney general will weaponise this against companies whose politics he
 dislikes."* This Act hands a partisan less to work with than almost any criminal
 statute on the books, because the offenses are documentary and the yardsticks are
 published. A charge must prove its elements to a jury beyond reasonable doubt —
@@ -364,7 +364,7 @@ proximate cause under *Burrage*, per victim, to a jury — the mens rea and stru
 every state already uses between manslaughter and murder. The one bracketed novelty is
 the [two]-year minimum, held open for the criminal-law seat.
 
-*"The behavior is emergent — you're criminalizing outcomes nobody could foresee,
+*"The behaviour is emergent — you're criminalising outcomes nobody could foresee,
 without mens rea."* The Act criminalizes no outcome standing alone. The floor offense
 is failing to run the required checks — process, not prophecy — and a certification
 under SEC. 8 attests that validation ran, never that the future is safe. The harm tier

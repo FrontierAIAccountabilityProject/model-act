@@ -32,7 +32,7 @@ sentence is a matter for a court.
 **The disanalogies, and one of them was overstated in the first draft of this file.**
 
 *An earlier version said every defendant below "acted intentionally and knew they lacked
-authorization." **That is not true of these cases, and the correction matters.*** Whether
+authorisation." **That is not true of these cases, and the correction matters.*** Whether
 authorization was exceeded at all was the **central contested question** in several of them. The
 Third Circuit's own description of Auernheimer's script is that it "accessed the publicly facing
 portion of the login screen and scraped information that AT&T unintentionally published." Swartz

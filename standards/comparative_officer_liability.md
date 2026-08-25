@@ -221,10 +221,10 @@ to separate its own tiers. Each provision below was retrieved from legislation.g
 
 *Without it — dishonesty offenses:*
 
-- **Fraud Act 2006, s. 12**: "If the offense is proved to have been committed with the
+- **Fraud Act 2006, s. 12**: "If the offence is proved to have been committed with the
   consent or connivance of— (a) a director, manager, secretary or other similar officer of
   the body corporate, or (b) a person who was purporting to act in any such capacity, he
-  (as well as the body corporate) is guilty of the offense." Consent or connivance only.
+  (as well as the body corporate) is guilty of the offence." Consent or connivance only.
   **No neglect limb.**
 - **Bribery Act 2010, s. 14**: consent or connivance of "a senior officer of the body
   corporate or Scottish partnership." **No neglect limb**, and a narrower class of person.
@@ -246,7 +246,7 @@ two things this Act does and *Park* does not.
 *Responsibility is allocated in advance, in writing.* FSMA 2000, s. 60(2A): where an
 application seeks approval to perform a designated senior management function, the
 regulator "must require the application to contain, or be accompanied by, a statement
-setting out the aspects of the affairs of the authorized person concerned which it is
+setting out the aspects of the affairs of the authorised person concerned which it is
 intended that the person will be responsible for managing in performing the function."
 s. 60(2B): "A statement provided under subsection (2A) is known as a 'statement of
 responsibilities'."

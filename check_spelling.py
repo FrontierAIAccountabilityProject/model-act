@@ -178,7 +178,16 @@ PROTECT = [
  # An inline quote on an ordinary line is exactly as unalterable as one in a
  # blockquote: AISI writes "push models towards", and toward/towards is in the
  # map. Masking these is what stops the tool falsifying a source.
- r"\u201c[^\u201d\n]{0,500}\u201d", r'"[^"\n]{0,500}"',
+ # Known limitation, accepted deliberately: quote marks alternate, so a span
+ # BETWEEN two quotations reads as quoted and is protected too. That under-changes
+ # a little of the project's own prose. Under-changing is recoverable; falsifying
+ # a source is not, so the error is left pointing this way.
+ # Multi-line, and it must be: a quotation that wraps across a line break is
+ # still a quotation. The single-line version of this rule falsified fourteen
+ # of them on 25 August 2026 — including the UK Health and Safety at Work etc.
+ # Act 1974 s.37, four AISI passages, and the tagged statute's own "wilful" —
+ # and the tool that exists to protect quotations was the thing that broke them.
+ r"\u201c[^\u201d]{0,600}\u201d", r'"[^"]{0,600}"',
 ]
 
 # Blockquote lines that are verbatim quotation from a British-spelling source.
@@ -276,27 +285,61 @@ def recase(src, dst):
     if src[0].isupper(): return dst[0].upper() + dst[1:]
     return dst
 
-def convert(line):
-    holds, masked = [], line
+FENCE  = re.compile(r"(?ms)^```.*?^```")
+BQLINE = re.compile(r"(?m)^[ \t]*>.*$")
+SEALED = re.compile(r"(?s)" + SEAL_BEGIN.pattern + r".*?(?:" + SEAL_END.pattern + r"|\Z)")
+
+def protected_spans(text, path):
+    """Character ranges the sweep must not touch.
+
+    Computed over the WHOLE file, never line by line. The per-line version of
+    this could not see a quotation that wrapped across a line break, and on
+    25 August 2026 it falsified fourteen of them.  Returns (spans, review),
+    where review lists blockquote lines carrying a hit for a human to decide.
+    """
+    spans = []
+    for rx in (FENCE, SEALED):
+        spans += [m.span() for m in rx.finditer(text)]
     for pat in PROTECT:
-        def _m(m):
-            holds.append(m.group(0)); return f"\x00{len(holds)-1}\x00"
-        masked = re.sub(pat, _m, masked)
-    hits = []
-    def _sub(m):
-        pfx, w = m.group(1), m.group(2)
-        a = recase(w, PAIRS[w.lower()])
-        if a != w: hits.append((pfx + w, pfx + a))
-        return pfx + a
-    out = WORD.sub(_sub, masked)
-    def _r(m):
-        r = _rule_sub(m)
-        if r != m.group(0): hits.append((m.group(0), r))
-        return r
-    out = RULE.sub(_r, out)
-    for i, h in enumerate(holds):
-        out = out.replace(f"\x00{i}\x00", h)
-    return out, hits
+        spans += [m.span() for m in re.finditer(pat, text)]
+    review_spans = []
+    for m in BQLINE.finditer(text):
+        line = m.group(0)
+        if is_own(path, line): continue
+        (spans if is_foreign(path, line) else review_spans).append(m.span())
+    return spans, review_spans
+
+def _in(spans, a, b):
+    return any(s <= a and b <= e for s, e in spans)
+
+def convert_text(text, path):
+    spans, review_spans = protected_spans(text, path)
+    hits, held, review = [], 0, []
+    out, last = [], 0
+    def emit(m, new):
+        out.append(text[last[0]:m.start()]); out.append(new); last[0] = m.end()
+    last = [0]
+    events = sorted(
+        [(m.start(), m.end(), recase(m.group(2), PAIRS[m.group(2).lower()]), m.group(1))
+         for m in WORD.finditer(text)] +
+        [(m.start(), m.end(), _rule_sub(m), None) for m in RULE.finditer(text)],
+        key=lambda e: e[0])
+    prev_end = -1
+    for a, b, new, pfx in events:
+        if a < prev_end: continue
+        old = text[a:b]
+        cand = (pfx + new) if pfx is not None else new
+        if cand == old: continue
+        if _in(spans, a, b):
+            held += 1; prev_end = b; continue
+        if _in(review_spans, a, b):
+            ln = text.count("\n", 0, a) + 1
+            review.append((path, ln, [old], text[text.rfind("\n", 0, a)+1:text.find("\n", b)].strip()[:150]))
+            prev_end = b; continue
+        out.append(text[last[0]:a]); out.append(cand); last[0] = b
+        hits.append((old, cand)); prev_end = b
+    out.append(text[last[0]:])
+    return "".join(out), hits, held, review
 
 def main():
     changed_files = 0; total = 0; review = []; tally = {}; known = 0; skipped = []
@@ -308,28 +351,15 @@ def main():
             path = os.path.join(root, fn)
             if path in SKIP_FILES: skipped.append(path); continue
             lines = open(path, encoding="utf-8").read().split("\n")
-            out = []; touched = False; fence = False; sealed = False
-            for i, line in enumerate(lines, 1):
-                if SEAL_BEGIN.search(line): sealed = True
-                elif SEAL_END.search(line): sealed = False
-                if sealed:
-                    out.append(line); continue
-                if fn.endswith(".md") and line.lstrip().startswith("```"):
-                    fence = not fence
-                if fence or line.lstrip().startswith("```"):
-                    out.append(line); continue
-                new, hits = convert(line)
-                if not hits:
-                    out.append(line); continue
-                for w, a in hits: tally[f"{w.lower()} -> {a.lower()}"] = tally.get(f"{w.lower()} -> {a.lower()}", 0) + 1
-                if line.lstrip().startswith(">") and not is_own(path, line):
-                    if is_foreign(path, line): known += 1
-                    else: review.append((path, i, [w for w, _ in hits], line.strip()[:150]))
-                    out.append(line); continue
-                out.append(new); touched = True; total += len(hits)
+            text = "\n".join(lines)
+            new_text, hits, held_n, rev = convert_text(text, path)
+            known += held_n; review += rev
+            for w, a in hits:
+                k = f"{w.lower()} -> {a.lower()}"; tally[k] = tally.get(k, 0) + 1
+            total += len(hits); touched = bool(hits)
+            if touched and APPLY: open(path, "w", encoding="utf-8").write(new_text)
             if touched:
                 changed_files += 1
-                if APPLY: open(path, "w", encoding="utf-8").write("\n".join(out))
     print(f"{'APPLIED' if APPLY else 'DRY RUN'}: {total} substitutions across {changed_files} files")
     print("\nby word:")
     for k, v in sorted(tally.items(), key=lambda x: -x[1]):

@@ -157,7 +157,7 @@ They are not retrofitted to a rule adopted after they were written.
 **Quotations are reproduced exactly, including their framing.** When Hugging Face's CEO writes
 that it is "quite mind-blowing that all of this happened autonomously," that is what he wrote,
 and the file quotes it verbatim. When the UK AI Safety Institute titles its report *"unsanctioned
-agent behavior during cyber testing,"* that is its title. When a paper names an emergent "viral
+agent behaviour during cyber testing,"* that is its title. When a paper names an emergent "viral
 persona," that is the authors' term.
 
 Rewriting a source into house style would be a **citation failure of exactly the kind this
