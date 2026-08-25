@@ -24,6 +24,11 @@ reading order, built by committed script so it cannot drift from the record.
 Print it, mark it up, send the marked copy back. This page remains the terms, the tables, and the
 map; the packet is the same journey as one document.
 
+**Want to see what a prosecution under this Act actually consists of?**
+[What a case would look like](./docs/what_a_case_looks_like.md) walks an invented fact pattern step
+by step against the sections that catch each one — and marks the two places the chain breaks under
+the tagged text.
+
 **Came here looking for a particular word, case, or objection?** Two pages answer that directly.
 [The glossary](./standards/what_these_words_mean.md) defines the terms the Act turns on, in the
 sense the statute uses them, including the ones a specialist reader searches for first.
