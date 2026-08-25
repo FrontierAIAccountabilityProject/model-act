@@ -199,7 +199,7 @@ sweep is wrong is the most valuable disposition this project can receive, becaus
 it. *Numbering note: "v3.4 cures" are the sealed set, already landed and diffable; "CURE 8–16" are
 sweep-derived and expressly not maintainer-drafted; open questions are decisions, not defects.*
 
-*Each lane is one table, same seven rows: what you read, what the sweep found there, what has been
+*Each of the eight lanes is one table, same seven rows: what you read, what the sweep found there, what has been
 drafted in answer, the questions that are yours (a menu for the three findings, not a syllabus), the shelf, the
 errata already filed in your lane,
 and the donor material the intake of 23–24 August added. Five register entries are method-wide
@@ -279,6 +279,43 @@ from the record it summarizes.*
 | **Errata in your lane** | [E4](./ledger/errata.md#e4--no-waiting-for-an-agency-vs-the-agency-approval-validation-mode) — the Agency-approval validation mode contradicted the no-gate design (struck at v3.4; the history matters to administrability) · [E6](./ledger/errata.md#e6--commencement-the-copy-error-corrected-today) — the commencement layers, and the copy error that hid them |
 | **Donor, 23 Aug** | The penalty brackets now carry enacted siblings ([bracketed matter](./standards/bracketed_matter.md) — CA/NY/IL all at \$1M) · the opposition's own cost claim — compliance "verifiable in seconds" — is logged at [the fiscal note § 5](./standards/fiscal_note.md) |
 
+### Federalism and preemption
+
+| | |
+|---|---|
+| **Your text** | SEC. 13 and SEC. 1(c), then SEC. 0 · the preemption chunks of [the record](./audit/record.md#chunk-2--preemption-armour-for-v33) |
+| **The sweep's findings** | **The sweep did not reach this lane.** It graded five: criminal, enforcement, security, open source and fiscal. Nothing below is a finding of ours for you to check, which makes this seat unusual — **you are reading the text cold, and every question is open from the start.** One item routes here from elsewhere: OPEN QUESTION 4, which the state-of-play table calls the most consequential in the repository, is a federalism question as much as an enforcement one |
+| **Drafted in response** | [CURE 2](./audit/v3_5_cure_language.md#cure-2--sec-13c-a-review-valve-on-the-suspension-order) — a forward-only review valve on the suspension order — and [OQ4's amendment](./audit/v3_5_cure_language.md#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after). Both drafted, neither validated |
+| **Your questions — any three are a disposition; all are the seat** | (1) Does the general-applicability carve-out hold for a statute whose every duty runs to covered frontier systems? (2) Is SEC. 13(b)'s severance ranking ordered right against the ceiling instruments' actual shapes? (3) Does CURE 2 cure the amnesty switch without breaking the fair-notice ratchet? (4) Does SEC. 1(c)'s nexus survive a dormant Commerce Clause challenge on each of its three limbs? (5) READ FIRST 5, this lane's held row: taking the live cases at their strongest for preemption, which of SEC. 13(c)(2)'s directions fails first? (6) Does OQ4's amendment reach too far extraterritorially in curing too little reach? |
+| **Your shelf** | [the lane packet](./packets/federalism.md), which inlines all of it · SEC. 13 and SEC. 1(c) · [the standing watch](./audit/standing_watch_2026-08-20.md) on live litigation · [known objections](./docs/known_objections.md), the patchwork and ceiling sections |
+| **Errata in your lane** | None filed specific to this lane, which is a fact about our coverage rather than about the drafting. The method-wide entries — E21, E22 (extended by E32), E27, E33 — govern how every claim you will check was made |
+| **Donor, 25 Aug** | The ceiling argument acquired an awkward fact: the packet's own section carries it, and it cuts against the position this project takes |
+
+### Proportionality and sentencing
+
+| | |
+|---|---|
+| **Your text** | SEC. 10(c) and the penalty architecture · [record chunk 3](./audit/record.md#chunk-3--penalty-architecture-for-v33-sec-7-rework-and-bracket-calibration) |
+| **The sweep's findings** | **The sweep did not reach this lane** — see the note in the federalism row above. But two questions the criminal lane's sweep raised and **could not settle** route here, and they are the sharpest things on your menu: whether a state's suspended-sentence law defeats the bracketed death-results minimum, and whether per-victim counting survives a state's merger doctrine |
+| **Drafted in response** | The SEC. 10(c)(3) sentencing valve, which is READ FIRST item 4 and is **held open awaiting exactly this seat** — the companion says so in terms. Nobody in-house could answer it |
+| **Your questions — any three are a disposition; all are the seat** | (1) Does the SEC. 10(c)(3) valve survive the state proportionality clauses? (2) Does a state's suspended-sentence law defeat the bracketed [two]-year death-results minimum? (3) Is per-victim counting defensible under clauses that grade the offense rather than the count? (4) Is the [forty]-year aggregate cap right against MPC § 7.06(1)(c)'s stricter no-doubling tradition? (5) Given the gap between announced maxima and imposed sentences, are the twenty-year and life ceilings honest instruments? (6) May deterrence arithmetic legitimately inform a proportionality judgment at all? |
+| **Your shelf** | [the lane packet](./packets/proportionality.md) · SEC. 10 · [bracketed matter](./standards/bracketed_matter.md), where the figures are pinned to statutes governors signed · record chunk 3 |
+| **Errata in your lane** | None lane-specific; the method-wide entries govern. [E36](./ledger/errata.md) is the nearest neighbor — a price carried at double — and it is a warning about exactly the kind of figure this lane grades |
+| **Donor, 25 Aug** | The threshold the enacted siblings chose, and the one this Act refuses, is now written up in the packet — the comparison your second and third questions turn on |
+
+### Torts and design
+
+| | |
+|---|---|
+| **Your text** | SEC. 7(b), SEC. 2(b), SEC. 10(c)(2)(D) and SEC. 11 |
+| **The sweep's findings** | **The sweep did not reach this lane** — see the note in the federalism row above. What stands in its place is six questions the shelf already frames, worked out in the packet at length rather than asserted |
+| **Drafted in response** | The packet's § II states what has been drafted and what has not. **The largest question has no drafted answer at all:** whether this Act should be civil rather than criminal. The civil-only alternative is argued at its strength on the project's own shelf and answered only by a design choice — *"if your conclusion is that the criminal architecture should yield to a civil one, say so; that disposition is publishable here"* |
+| **Your questions — any three are a disposition; all are the seat** | (1) Does the criminal duty leak into the civil standard of care as negligence per se, and does the design intend it? (2) Is the SEC. 7(b) restitution carve-out drawn right, or does it bend settlements toward the one insurable label? (3) Does SEC. 7(b)'s defense-costs valve distort D&O practice, and is criminalizing the indemnity contract proportionate? (4) Does SEC. 10(c)(2)(D)'s intervening-cause clause do any work when SEC. 2(a) makes deployer modification foreseeable by its own text? (5) Does SEC. 2(b)'s reliance path incorporate what products law learned about downstream reliance defenses? (6) Is the SEC. 11 award an adequate substitute for the citizen suit this Act deliberately lacks? |
+| **Your shelf** | [the lane packet](./packets/torts_design.md), the longest of the eight and the one that most rewards reading whole · SEC. 7 and SEC. 11 · [safe harbors and affirmative defenses](./docs/safe_harbors_and_affirmative_defenses.md) |
+| **Errata in your lane** | [E8](./ledger/errata.md#e8--in-one-paragraph-true-of-the-duty-silent-on-the-entity-in-the-paragraph-built-to-be-quoted) — the entity tier is strict liability and the front page once said otherwise; it bounds every parallel-lanes argument · [E5](./ledger/errata.md#e5--it-was-never-going-to-be-you-true-for-the-weekend-model-not-yet-true-for-the-startup) — "it was never going to be you" was true of the weekend model, not yet of the startup, which is how far SEC. 2(b)'s safe course actually reaches |
+| **Donor, 25 Aug** | A court has now stated the evidentiary problem this lane's third and fourth questions circle; the packet carries the passage |
+
+
 ## The state of play — every open item, one line each
 
 *This table is the whole open program in one place. Senior to it is the companion's own
@@ -299,6 +336,9 @@ honest state, and why that lane's seat matters most.*
 
 *Thirty-one rows: one resolved by the day's retrievals, seven held, five drafted, two ⚠ amend-first, fourteen
 hypotheses, and two lanes whose response is the seat.*
+
+<details markdown="1">
+<summary><strong>Open the table — thirty-one rows, every open item in the project</strong></summary>
 
 | Item | In one line | State | Lane |
 |---|---|---|---|
@@ -333,6 +373,8 @@ hypotheses, and two lanes whose response is the seat.*
 | [CURE 21](./audit/v3_5_cure_language.md#cure-21--sec-8-the-certification-register-facts-public-content-protected) | SEC. 8 gains a public register of certifications — signer, entity, version, date, compliance-or-disclosure — content beyond those facts protected. Numbered from pre-review finding PF-3. | **HYPOTHESIS — pre-review-derived** | criminal · security |
 | [Security-lane findings](./audit/v3_5_lane_sweep.md#f5--the-safeguards-off-evaluation-falls-into-a-hole-between-sec-2c-and-sec-2a-security) | The SEC. 2(c)/2(a) hole around safeguards-disabled evaluations; Part 6's control objectives as process without substance; halt timing; monitoring. | **NO DRAFTED RESPONSE — the seat is the response** | security |
 | [Fiscal-lane findings](./audit/v3_5_lane_sweep.md#the-rest-of-the-register-in-brief) | No dollar figures; no defense line; no corrections section; eight omitted duties; an entitlement on an empty fund. | **NO DRAFTED RESPONSE — the seat is the response** | fiscal |
+
+</details>
 
 ## Filing a disposition
 

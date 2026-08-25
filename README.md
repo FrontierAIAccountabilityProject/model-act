@@ -5,7 +5,14 @@
 
 **One text, two doors:** [the website](https://frontieraiaccountabilityproject.github.io/model-act/) — these pages styled for reading, with search — and [the file repository](https://github.com/FrontierAIAccountabilityProject/model-act) — the versioned source files, which remain the authoritative record. On the website, the file repository is also the top-right link.
 
-**Invited to review?** This page is worth reading in full — the guide just below maps it. Then [REVIEWERS.md](./REVIEWERS.md) carries your bounded path, your lane's brief, and the terms.
+**Invited to review? Go to [REVIEWERS.md](./REVIEWERS.md) first** — it opens with a direct link to
+each of the eight lane packets, and your lane's brief tells you what to read and what we are asking.
+Come back here for four things and four only: [the record, dated](#the-record-dated) for what
+happened and when, [in one paragraph](#in-one-paragraph) for what the Act does,
+[what the Act actually makes a crime](#what-the-act-actually-makes-a-crime), and
+[Status](#status) for the known defects, which are named before anything else. The rest of this
+page — repository structure, provenance, citation, file history — is reference matter for people
+who are not reviewing, and skipping it costs you nothing.
  
 Model state legislation applying the **responsible corporate officer doctrine** —
 *United States v. Dotterweich*, 320 U.S. 277 (1943); *United States v. Park*, 421 U.S.
