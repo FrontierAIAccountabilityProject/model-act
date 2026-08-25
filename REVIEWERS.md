@@ -8,11 +8,27 @@ rather than a guess.*
 *Arrived from an invitation email that linked [the lane sweep](./audit/v3_5_lane_sweep.md)? That
 document is step 2 of the path below, and its first line points back here.*
 
-**Already know your seat? Take the paper path:** eight lanes have a
-**[single-page packet](./packets/index.md)** — this whole page's path, inlined in your lane's
-reading order, built by committed script. Print it, mark it up, send the marked copy back. This
-page remains the terms, the tables, and the map; the packet is the same journey as one
-document.
+**Know your lane? Go straight to it.** Each of the eight seats has a
+**[single-page packet](./packets/index.md)** — this whole page's path, inlined in that lane's
+reading order, built by committed script so it cannot drift from the record.
+
+> [**Criminal law**](./packets/criminal_law.md) ·
+> [**Enforcement and prosecution**](./packets/enforcement.md) ·
+> [**Frontier security**](./packets/security.md) ·
+> [**Fiscal and administration**](./packets/fiscal.md) ·
+> [**Federalism and preemption**](./packets/federalism.md) ·
+> [**Proportionality and sentencing**](./packets/proportionality.md) ·
+> [**Torts and design**](./packets/torts_design.md) ·
+> [**Open source and academia**](./packets/open_source.md)
+
+Print it, mark it up, send the marked copy back. This page remains the terms, the tables, and the
+map; the packet is the same journey as one document.
+
+**Came here looking for a particular word, case, or objection?** Two pages answer that directly.
+[The glossary](./standards/what_these_words_mean.md) defines the terms the Act turns on, in the
+sense the statute uses them, including the ones a specialist reader searches for first.
+[Known objections](./docs/known_objections.md) carries the attacks already made on this Act, each
+with the answer given, and says plainly which ones have no answer yet.
 
 ## Why this invitation is unusual, stated before the ask
 
@@ -87,8 +103,11 @@ surface rather than concealing it.
 
 **The self-scrutiny.** Eight drafting-era audits merged into [one record](./audit/record.md),
 including [a hostile brief](./audit/record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel) written as opposing counsel would write it;
-[a fifteen-fix cure queue](. That queue is how v3.4 becomes v3.5: each lane's verified findings are drafted as cures against the tagged text, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'./audit/v3_4_cure_language.md) published *in advance* of the revision
-that landed it, departure and destination diffable; [an open successor queue](./audit/v3_5_cure_language.md)
+[a fifteen-fix cure queue](./audit/v3_4_cure_language.md) published *in advance* of the revision
+that landed it, departure and destination diffable — that queue is how v3.4 became v3.5: each
+lane's verified findings are drafted as cures against the tagged text, and the assembled version
+carries every lane's accepted work, so a disposition here is a chapter of the next version,
+written alongside the other seats'; [an open successor queue](./audit/v3_5_cure_language.md)
 where findings become drafted language; [a five-lane in-house sweep](./audit/v3_5_lane_sweep.md)
 that returned **seven defects graded fatal, four of them in the tagged statute**, published with
 the front page naming them before it names anything else; and
@@ -124,13 +143,9 @@ not trust us.
 
 ## The path — the six to eight hours
 
-**Already know your seat? Prefer paper?:** eight lanes have a
-**[single-page packet](./packets/index.md)** — this whole page's path, inlined in your lane's
-reading order, built by committed script. The packet is the same journey as one
-document.
-
-Print it, mark it up, send the marked copy back; the steps below
-are the same journey through the live files, and the sources always win where they differ.
+*The [packet for your lane](./packets/index.md), linked at the top of this page, is these same
+steps inlined as one document. The steps below are the same journey through the live files, and
+the sources always win where the two differ.*
 
 **0 · The front page.** [README](./README.md) — the argument in one paragraph, the coverage
 table, and the status block that names the known defects first; the guide at its top maps the

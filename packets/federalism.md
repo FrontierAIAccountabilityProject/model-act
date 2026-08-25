@@ -82,4 +82,15 @@ For this lane specifically: federalism gates the rest — if preemption swallowe
 
 The load-bearing claims, in descending order of consequence if refuted: the ceiling-variant reading of the four reservations (§ I); SEC. 13(c)'s constitutionality as a suspension-by-order mechanism, with and without CURE 2; the severance ranking's fit to the instruments actually pending; and SEC. 1(c)'s three limbs against the dormant Commerce Clause, the model-law form's federal-twin answer included. A finding that the weather read is wrong — that the carve-out will not hold — is the most valuable disposition this lane can produce, because the whole repository's posture is built on it.
 
+---
+
+**If you need something this packet does not carry.** [The glossary](../standards/what_these_words_mean.md)
+defines the words the Act turns on, in the sense the statute uses them, including the ones a
+specialist reader would search for first. [Known objections](../docs/known_objections.md) carries
+the attacks already made on this lane, with the answers given and the ones still unanswered.
+[For reviewers](../REVIEWERS.md) states every open item in the project in one line each, and
+[the index](../MAP.md) reaches the rest of the repository.
+
+---
+
 Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any form: a memo, a marked-up copy of this packet, a numbered list of findings. Or, if you were contacted by the maintainer through a different channel, reply on that channel. It is published as written, credited or anonymous at your choice. A finding that something is broken is the seat working, not failing.

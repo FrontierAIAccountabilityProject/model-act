@@ -63,15 +63,25 @@ def anchors_of(path):
 
 LINK = re.compile(r"\[[^\]]*\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
 
+# A link target has no spaces in it. Anything matching the bracket-paren shape but
+# NOT matching LINK is malformed, and the old sweep could not see it: on 25 August
+# 2026 a whole sentence had been pasted inside a link target on REVIEWERS.md and
+# rendered as visible garbage on the reviewer's own page, with the checker silent.
+MALFORMED = re.compile(r"\[[^\]\n]*\]\((?![^)\s]+\s*\))([^)\n]{0,400})\)")
+
 def main():
     files = md_files()
     known = {f: anchors_of(f) for f in files}
     linked = set()
-    dead_files, dead_anchors = [], []
+    dead_files, dead_anchors, malformed = [], [], []
 
     for f in files:
         t = io.open(f, encoding="utf-8").read()
         base = os.path.dirname(f)
+        for m in MALFORMED.finditer(t):
+            tgt = m.group(1)
+            if tgt.startswith(("http://", "https://", "#", "mailto:")): continue
+            malformed.append((f, t[:m.start()].count("\n") + 1, tgt[:90]))
         for m in LINK.finditer(t):
             href = m.group(1)
             if href.startswith(("http://", "https://", "mailto:", "tel:", "data:")):
@@ -111,6 +121,9 @@ def main():
     print(f"  dead file links ........ {len(dead_files)}")
     print(f"  dead anchors ........... {len(dead_anchors)}")
     print(f"  unlinked markdown ...... {len(orphans)}")
+    print(f"  malformed links ........ {len(malformed)}")
+    for f, ln, tgt in malformed:
+        print(f"  [MALFORMED LINK] {f}:{ln} -> ({tgt}...)")
     for label, rows in (("DEAD FILE LINK", dead_files), ("DEAD ANCHOR", dead_anchors)):
         for f, line, href in rows:
             print(f"  [{label}] {f}:{line} -> {href}")
@@ -119,7 +132,7 @@ def main():
     for f, why in sorted(ALLOWED_UNLINKED.items()):
         if os.path.exists(f):
             print(f"  [unlinked, allowed] {f} - {why}")
-    return 1 if (dead_files or dead_anchors) else 0
+    return 1 if (dead_files or dead_anchors or malformed) else 0
 
 if __name__ == "__main__":
     sys.exit(main())

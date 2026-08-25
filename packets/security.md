@@ -238,6 +238,17 @@ arrived.*
 
 ## VI. Filing
 
+---
+
+**If you need something this packet does not carry.** [The glossary](../standards/what_these_words_mean.md)
+defines the words the Act turns on, in the sense the statute uses them, including the ones a
+specialist reader would search for first. [Known objections](../docs/known_objections.md) carries
+the attacks already made on this lane, with the answers given and the ones still unanswered.
+[For reviewers](../REVIEWERS.md) states every open item in the project in one line each, and
+[the index](../MAP.md) reaches the rest of the repository.
+
+---
+
 Email FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any
 form: a memo, a marked-up copy of this packet, a numbered list of findings, or six objectives
 written out. Or, if you were contacted by the maintainer through a different channel, reply on that channel. It is published as written, credited or anonymous at your choice;

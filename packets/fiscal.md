@@ -74,4 +74,15 @@ This lane's particular seam: fiscal consumes the enforcement seat's posture choi
 
 The revenue rule's third reason, if you think a collections-funded regime can be run honestly. The claim that SEC. 3(b) removes the major preclearance cost drivers, if you know a no-approval regime that got expensive anyway. The Colorado floor, if you think a disclosure-regime comparator misleads more than it anchors. The steady-state tables, which the sweep says cannot exceed startup on the statute's own clock and do. The missing defense line, the missing corrections section, the eight omitted duties, the entitlement on the possibly-empty fund. And the § 5 opposition claim that compliance becomes *"verifiable in seconds"* — if that is right, the note overstates its own steady state and should say by how much.
 
+---
+
+**If you need something this packet does not carry.** [The glossary](../standards/what_these_words_mean.md)
+defines the words the Act turns on, in the sense the statute uses them, including the ones a
+specialist reader would search for first. [Known objections](../docs/known_objections.md) carries
+the attacks already made on this lane, with the answers given and the ones still unanswered.
+[For reviewers](../REVIEWERS.md) states every open item in the project in one line each, and
+[the index](../MAP.md) reaches the rest of the repository.
+
+---
+
 File a disposition to FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any form: a memo, a marked-up copy of this packet, a numbered list of findings. Or, if you were contacted by the maintainer through a different channel, reply on that channel. It is published as written, credited or anonymous at your choice. A finding that something is broken is the seat working, not failing.

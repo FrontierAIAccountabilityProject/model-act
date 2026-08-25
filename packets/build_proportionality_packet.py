@@ -119,6 +119,17 @@ This lane specifically: proportionality consumes the criminal-law seat's reading
 
 The valve first — it is the statute's own held question, and nobody in-house could answer it. Then the minimum, then the counting rule, then the cap formula; then, if anything remains of the hours, the ceilings against the prosecuted-conduct record. A finding that the valve fails under any named state clause, with the reason, is worth more than agreement with everything on this page.
 
+---
+
+**If you need something this packet does not carry.** [The glossary](../standards/what_these_words_mean.md)
+defines the words the Act turns on, in the sense the statute uses them, including the ones a
+specialist reader would search for first. [Known objections](../docs/known_objections.md) carries
+the attacks already made on this lane, with the answers given and the ones still unanswered.
+[For reviewers](../REVIEWERS.md) states every open item in the project in one line each, and
+[the index](../MAP.md) reaches the rest of the repository.
+
+---
+
 File a disposition by email to FrontierAIAccountabilityProject@proton.me — links or pasted text, no attachments — in any form: a memo, a marked-up copy of this packet, a numbered list of findings. It is published as written, credited or anonymous at your choice. Hostile is welcome; a finding that something is broken is the seat working, not failing.
 '''
 
