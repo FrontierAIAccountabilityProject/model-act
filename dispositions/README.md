@@ -28,7 +28,7 @@ public record beside the text it examined, whatever it says.
 ## The aim
 
 **The aim is not approval. It is a text that has been attacked in public by people qualified to
-attack it, with the results published whether or not they favour the Act.**
+attack it, with the results published whether or not they favor the Act.**
 
 A model statute is a proposal about how the state's coercive power should be used, and the only
 honest way to offer one is to let people who know the field try to break it first, in public,
@@ -50,7 +50,7 @@ The ULC is the institution that produces model and uniform acts in the United St
 have settled names. A **reporter** is the expert hired to draft the act on a drafting committee's
 direction. **Commissioners**, around 350 of them, are attorneys appointed by the states who serve as
 volunteers without compensation, debate the text, propose amendments and vote. **Advisors and
-participating observers** are solicited to assist every drafting committee and bring specialised
+participating observers** are solicited to assist every drafting committee and bring specialized
 knowledge from outside. A draft is then considered section by section at no fewer than two annual
 meetings before the Committee of the Whole votes.
 
@@ -60,7 +60,7 @@ Three things in that vocabulary are worth borrowing and one is worth refusing.
 that as diminishing their work. This project's seats are unpaid for the same reason: an expert who
 is paid by the drafter is answering a client, and the whole point is that they are not.
 
-**Borrowed: the outside observer with specialised knowledge.** The ULC solicits observers precisely
+**Borrowed: the outside observer with specialized knowledge.** The ULC solicits observers precisely
 because a drafting committee cannot see its own blind spots. That is this project's premise, with
 one difference of degree: here the observers are the only review there is.
 
@@ -91,11 +91,11 @@ began. A disposition speaks only to its scope; no file may cite it beyond that.
 
 **Attribution is the reviewer's election.** A named council seat requires an expressly
 attributable disposition; short of that, a reviewer may elect anonymity, and the election is
-honoured everywhere and permanently. No name is used to imply more than the written disposition
+honored everywhere and permanently. No name is used to imply more than the written disposition
 says. Endorsement is never inferred — a disposition is a review outcome, not a signature on the
 project.
 
-**The maintainer's response is separate and labelled.** Where the maintainer answers a finding,
+**The maintainer's response is separate and labeled.** Where the maintainer answers a finding,
 the answer appears below the disposition under its own heading, clearly the maintainer's, never
 interleaved. Findings that change the text route through the cure queue and errata register,
 cross-referenced from here.
@@ -107,7 +107,7 @@ history stated — the standing rule of the whole repository.
 
 One file per disposition: `dispositions/<year>_<lane>_<n>.md` — header block (date · lane ·
 text version reviewed · scope · attribution election), the disposition verbatim, then any
-labelled maintainer response. This index gains a one-line row per entry.
+labeled maintainer response. This index gains a one-line row per entry.
 
 ## Entries
 

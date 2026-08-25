@@ -20,12 +20,12 @@ the adopted duties is a question for a drafter, not a housekeeping fix. The full
 [the bill census](./frontier_bill_census.md); the miss that produced this paragraph is
 [E16](../ledger/errata.md).
 
-A research draft has no Agency; it has a repository. This file practises
+A research draft has no Agency; it has a repository. This file practices
 the rule before preaching it: the adopted texts, pinned here verbatim, free to
 read. State statutes are government edicts and carry no copyright (*Georgia v.
 Public.Resource.Org*, 590 U.S. 429 (2020)); the enacting jurisdictions' official
 publishers control over any transcription error here. Line wrapping has been
-normalised from the source presentations; wording, numbering, and punctuation are
+normalized from the source presentations; wording, numbering, and punctuation are
 untouched.
 
 ---

@@ -193,7 +193,7 @@ seat done whole. Replace any of them with findings of your own.
 2. Does the OPEN QUESTION 4 amendment reach too far extraterritorially?
 3. Are the four interim controls at CURE 10 the right four?
 4. What does an attorney general's office actually do with this in year one?
-5. **Could you get the officer into a chair?** Every offence in SEC. 6 turns on what a natural
+5. **Could you get the officer into a chair?** Every offense in SEC. 6 turns on what a natural
    person knew, decided, or had power to prevent, and nothing in this repository asks what it takes
    to obtain that person's testimony against a corporation offering subordinates instead. The
    apex-witness rule is the practical obstacle and this project has never engaged it. One data point
@@ -235,12 +235,12 @@ administration, federalism and preemption, proportionality and sentencing, torts
 open source and academia. Each seat reviews independently and each disposition publishes
 independently, as written, so no lane waits on another. Findings that change text route through the
 public cure queue and the errata register, where every other lane sees them. The maintainer collates
-and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside
+and responds separately and labeled, and may not overrule or edit a disposition. Anonymous outside
 contributions arrive through the repository's correction doors and are credited by election — one
 open drafting question has already been answered from outside this way. Reviewer identities are not
 shared between reviewers, and attribution is each reviewer's own election.
 
-**This lane specifically.** Enforcement consumes the criminal-law seat's offence structure and hands its posture choices to the fiscal seat, which prices them. It meets the torts and design lane where the records provisions decide whether anything is provable, and the security lane on what an investigator would need to see.
+**This lane specifically.** Enforcement consumes the criminal-law seat's offense structure and hands its posture choices to the fiscal seat, which prices them. It meets the torts and design lane where the records provisions decide whether anything is provable, and the security lane on what an investigator would need to see.
 
 *How this seat's work becomes the next version: verified findings are drafted as cures against the
 tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so

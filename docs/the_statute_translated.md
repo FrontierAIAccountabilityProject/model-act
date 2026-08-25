@@ -24,14 +24,14 @@ number or a name the legislature fills in, not a gap.
 | **3 — Agency, standards, commencement** | Standards must be feasible, proportionate, and free to read; validation pins to an exact version and configuration; and no rule may ever create a prior-approval gate — nothing exists to capture. Three layers: truth, reporting, and records offenses run from day one; at day [180] the core duty runs on interim standards borrowed verbatim from enacted California, New York, and Illinois law; the Agency's own standards take over prospectively when they issue. Disclosing nonconformity is a *report* — filed, retained, discharging nothing. |
 | **4 — Controlling persons** | Whoever holds *final, material, independent decision authority* — any title, any structure, alone or in concert. Then the exclusions, in black letter: title, seniority, credentials, technical ability, access, executing someone else's decision, giving advice — none of it is authority. The authority to decide, not the capacity to act. Delegation shields no one who kept the power; liability is several. |
 | **5 — The five prohibited acts** | Shipping without validation · operating uncontrolled autonomous access that causes a real breach (misuse defense — unless the controls against that class of misuse were simply absent) · failing to report · lying to the state · destroying or withholding the records (privilege preserved, facts always reachable). |
-| **6 — Individual liability** | Duty or practical power, plus failure of due care, is the offense — *Dotterweich*'s responsible relation. Knowing, wilful, concealing, or ignoring notice: felony tier; where that is the but-for *and proximate* cause of death or serious injury, each victim is a separate offense, found by a jury. The floor: no prison without proven fault — strict liability buys entity fines only. |
-| **7 — The money** | Disgorge everything the violation paid you — salary, bonus, equity, through any trust — plus [twelve] months. No one may insure, indemnify, or quietly offset an individual penalty: void, constructive trust, and doing it knowingly is itself felony-tier. Defense costs: advanceable, clawed back from the wilful. Restitution to victims: fully insurable, and always first. |
-| **8 — The signature** | Before material deployment and after material change, the chief executive — or each most-senior person, severally; no organisation chart escapes into headlessness — personally certifies, on the Sarbanes–Oxley structure. Everything below the material line still certifies, batched quarterly. Facts after reasonable inquiry, no compelled opinions. Disclosing noncompliance satisfies the duty to certify — and defends against nothing. Knowingly false: felony. |
+| **6 — Individual liability** | Duty or practical power, plus failure of due care, is the offense — *Dotterweich*'s responsible relation. Knowing, willful, concealing, or ignoring notice: felony tier; where that is the but-for *and proximate* cause of death or serious injury, each victim is a separate offense, found by a jury. The floor: no prison without proven fault — strict liability buys entity fines only. |
+| **7 — The money** | Disgorge everything the violation paid you — salary, bonus, equity, through any trust — plus [twelve] months. No one may insure, indemnify, or quietly offset an individual penalty: void, constructive trust, and doing it knowingly is itself felony-tier. Defense costs: advanceable, clawed back from the willful. Restitution to victims: fully insurable, and always first. |
+| **8 — The signature** | Before material deployment and after material change, the chief executive — or each most-senior person, severally; no organization chart escapes into headlessness — personally certifies, on the Sarbanes–Oxley structure. Everything below the material line still certifies, batched quarterly. Facts after reasonable inquiry, no compelled opinions. Disclosing noncompliance satisfies the duty to certify — and defends against nothing. Knowingly false: felony. |
 | **9 — The clock** | Report: weights loss, control loss, autonomous breaches, death or serious injury, deceived safeguards, genuine near-misses, adverse reproducible evaluations. Defenses that worked as designed: recorded, not reported — success is never punished. 72 hours preliminary (24 where lives are at imminent risk), [30] days full — and the clock runs from when the monitoring you certified would have caught it. Deleting the logs stops nothing. |
 | **10 — The consequences** | Entities: up to \$[1,000,000] per violation per day, strict, never below the benefit gained. Individuals: misdemeanor base; felony tier; where people die or are seriously hurt — up to twenty years per injury, any term or life per death, per victim. Restitution outranks every penalty, fine, and disgorgement in the claim on a defendant's assets. Plus injunctions, model suspension (operating one anyway is contempt and a fresh offense), emergency halts, disqualification, debarment. A company paying an individual's fine extinguishes nothing — and is a new violation. |
 | **11 — The insiders** | The inspectors already work at the laboratories; this section pays them: 10–30 percent of sanctions over \$[1,000,000], anonymous through counsel, gags void, retaliation bought back with reinstatement and double pay. The Agency must answer every credible report within [180] days. |
 | **12 — The machinery** | Live in [90] days; the Attorney General receives filings until the Agency exists — no duty waits on furniture. Audit-grade records for [ten] years, plus a litigation hold. Security-sensitive material sealed — but facts are never privileged and enforcement is never restricted. Mergers carry entity liability to successors; no natural person's criminal liability ever transfers. Concealment moves the limitations clock to discovery. |
-| **13 — The armour** | Everything severs, narrow before broad, the criminal core ranked first and declared enacted-regardless. No severance may strip a surviving offense of an element it needs; the fund survives everything. Preemption becomes administrable: published Attorney General orders suspend only what is actually preempted, only prospectively — and suspended is not repealed. If the federal law lapses, the provision revives within [30] days. |
+| **13 — The armor** | Everything severs, narrow before broad, the criminal core ranked first and declared enacted-regardless. No severance may strip a surviving offense of an element it needs; the fund survives everything. Preemption becomes administrable: published Attorney General orders suspend only what is actually preempted, only prospectively — and suspended is not repealed. If the federal law lapses, the provision revives within [30] days. |
 
 The full translation follows, section by section.
 
@@ -92,7 +92,7 @@ validated configuration — modifying nothing, attaching nothing beyond it — d
 the duty by adopting that validation, keeping a manifest of every tool, credential,
 and access path it grants, doing the monitoring within its control, and reporting
 what it knows. The shelter is conduct-based, never revenue-based; it dies on actual
-or wilfully-avoided knowledge of a real nonconformity, and it lapses the moment the
+or willfully-avoided knowledge of a real nonconformity, and it lapses the moment the
 deployer starts modifying. Subsection (c) is the research door: giving authenticated
 researchers access inside genuine containment — no autonomous external reach, no
 credentials or effects persisting past a session, monitored — is a controlled
@@ -184,7 +184,7 @@ disguised raise — every such arrangement void in the state whatever law it nam
 its benefits held in constructive trust. An entity violating this is penalized; a
 controlling person doing so *knowingly* has committed a felony-tier act. Two honest
 carve-outs: defense costs may be advanced and insured (repayable by anyone finally
-adjudicated a wilful violator), and **restitution to victims is fully insurable and
+adjudicated a willful violator), and **restitution to victims is fully insurable and
 always paid first** — deterrence aims at the wrongdoer's penalties, never at the
 victims' recovery. The ban is prospective, with a [twelve]-month window for
 contracts already in force.
@@ -215,7 +215,7 @@ designed*, or plain chance, kept from being an incident; or a reproducible
 evaluation finding of materially increased risk. Two calibrated exclusions: behavior
 deliberately elicited and contained in a sandbox, and events caught by defenses
 working exactly as designed before any external effect — both *recorded*, neither
-*reported*, so defence-in-depth is never punished for succeeding. The clock:
+*reported*, so defense-in-depth is never punished for succeeding. The clock:
 preliminary notice within 72 hours of credible notice (24 where death or serious
 injury is imminently risked), full report in [30] days — an unfinished
 investigation extends nothing — updates within [10] days. And the clock's teeth: it
@@ -275,7 +275,7 @@ concealed by affirmative act, and [ten] for the death-and-injury tier. The whole
 Act is construed to reach the persons with the greatest practical authority, and
 never to let anyone's liability be discharged through someone else's.
 
-**SEC. 13 — Severability, conforming operation, and revival.** The armour. Every
+**SEC. 13 — Severability, conforming operation, and revival.** The armor. Every
 provision severs; courts must cut narrow before broad, and cut in reverse rank
 order — the criminal core (the offenses, SEC. 4 and 6, the operator-side duties,
 the penalty spine, and the machinery that feeds them) is declared first-rank,

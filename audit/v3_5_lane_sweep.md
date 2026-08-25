@@ -24,7 +24,7 @@ concrete failure scenarios, and to be willing to conclude that a provision fails
 another lane's output.
 
 **The limits, stated plainly.** This is one model's reading, run five times with different framing.
-It has no professional responsibility, no licence, no jurisdiction-specific practice knowledge, and
+It has no professional responsibility, no license, no jurisdiction-specific practice knowledge, and
 no exposure if it is wrong. It is not a substitute for the seats; it is a reason the seats are worth
 filling, because it found more than a maintainer working alone would have.
 
@@ -100,7 +100,7 @@ Proposal, comment, adoption, then a 90-day compliance period: **year four at the
 Act's own brackets.** Meanwhile SEC. 10(c)(2), the tier carrying the real penalties, requires death
 or serious injury — and **not one of the six documented incidents produced any bodily injury.** The
 year-one charging menu is failure to report, lying to the Agency, records offenses, and civil
-penalties. The defence writes the press release: *the State has charged our client with late
+penalties. The defense writes the press release: *the State has charged our client with late
 paperwork.*
 
 The proposed fix gives SEC. 5(b) an interim floor that does not wait on the Agency — four controls
@@ -108,7 +108,7 @@ the incident record names as absent by name: authentication to each external sys
 default-deny, an enumerated destination allowlist kept as a SEC. 12 record, logging of every
 external interaction, and a human-exercisable means of terminating external access.
 
-### F4 — The Act criminalises refusal to obey a demand it never authorises anyone to make *(enforcement)*
+### F4 — The Act criminalizes refusal to obey a demand it never authorizes anyone to make *(enforcement)*
 
 SEC. 5(e) punishes refusing records "upon the lawful demand of the Agency or the Attorney General."
 **No provision of the Act confers that demand power** — no inspection authority, no administrative
@@ -119,10 +119,10 @@ statutory basis is not lawful, so refusing it is not an offense, and the chargin
 
 ### F5 — The safeguards-off evaluation falls into a hole between SEC. 2(c) and SEC. 2(a) *(security)*
 
-SEC. 2(c)'s controlled-research safe harbour requires containment denying autonomous external
+SEC. 2(c)'s controlled-research safe harbor requires containment denying autonomous external
 access and denying persistence beyond each session. The configuration that produced every 2026
 incident — external reach enabled, safeguards disabled — fails those conditions, so it gets no safe
-harbour. But per F2 it is also not a deployment, so the general duty may not attach either.
+harbor. But per F2 it is also not a deployment, so the general duty may not attach either.
 **Nothing in the Act reaches the single most dangerous configuration in the record.** This is
 OPEN QUESTION 2, answered: the gap is real, and the fix is F2's amendment rather than a new offense.
 
@@ -161,7 +161,7 @@ inverts the Act's purpose. Fixes: add the modification verbs to the carve-out; f
 compute threshold so it reaches undisclosed-compute flagships and not adapters; and give the
 holding-out an express textual rebuttal.
 
-**CURE 7 needs four.** Market capitalisation and "most recent arm's-length valuation" cannot be
+**CURE 7 needs four.** Market capitalization and "most recent arm's-length valuation" cannot be
 elements of a criminal scope term — they change intraday, are outside the actor's control, and make
 scope an expert-versus-expert question the State must prove beyond reasonable doubt. "Mass-market
 scale" has no number and no rule-hook. "Finances" makes a lender a compute supplier. And the
@@ -214,17 +214,17 @@ doctrine. Sean Lyness, *Revitalizing the State Environmental Responsible Corpora
 Doctrine*, 64 B.C. L. Rev. 253 (2023), would revive the responsible corporate officer doctrine in
 the states for **"individual civil liability—and only civil liability."** His reason bears directly
 on SEC. 6 and is not answered anywhere in the sections above: *Dotterweich* and *Park* are
-**misdemeanour** authority, decided "during a time when the immediate and collateral consequences
-were different" (at 297-98). A misdemeanour conviction in 1943 and in 1975 did not carry what a
+**misdemeanor** authority, decided "during a time when the immediate and collateral consequences
+were different" (at 297-98). A misdemeanor conviction in 1943 and in 1975 did not carry what a
 conviction carries now — the collateral consequences, the licensing bars, the immigration
 consequences, the sentencing exposure. So the argument is not that officers should escape; it is
 that the authorities the Act leans on will not bear the weight the Act puts on them, because the
-Act's felony tier asks a misdemeanour doctrine to justify a life-maximum offence.
+Act's felony tier asks a misdemeanor doctrine to justify a life-maximum offense.
 
 **Why this is in the sweep and not only in the objections file.** It is the one criticism of this
 lane made in print, by name, by the scholar whose own state-by-state survey the Act cites for its
 comparative claims. The lane's honest position is that the base tier answers it and the felony tier
-may not: *Park* holds at the misdemeanour floor, and the sweep says so two sections down. What the
+may not: *Park* holds at the misdemeanor floor, and the sweep says so two sections down. What the
 sweep does **not** have is an argument that the same authority reaches SEC. 6(b). **That gap is a
 finding waiting to be made or refuted, and it is the single most valuable thing a criminal-law
 reviewer could take up.** It is question 7 on the menu.
@@ -233,16 +233,16 @@ reviewer could take up.** It is question 7 on the menu.
 serious thing that happened in 2026** — the AISI agent's fabricated identities, sockpuppet
 endorsement and forged apology were all gates-*up* actions on a platform that permits anyone to
 create accounts. The proposed fix adds a deception limb without abandoning *Van Buren*. SEC. 9(b)'s
-constructive-detection limb is **perversely incentivised**: because the counterfactual is measured
+constructive-detection limb is **perversely incentivized**: because the counterfactual is measured
 against the entity's own certification, certifying thin monitoring buys a later clock start.
 Walked against the real OpenAI timeline, **no start date survives** and the case fails at the first
-element. SEC. 3(c)(2)(D) **punishes candour**: file honestly and you have no validation, daily
+element. SEC. 3(c)(2)(D) **punishes candor**: file honestly and you have no validation, daily
 accrual, and self-inflicted SEC. 6(b)(1) notice; file an aggressive equivalence analysis and the
 State must beat your expert. And SEC. 9 contains **no duty to notify the people whose systems were
 breached** — every duty runs to the Agency, and SEC. 12 then seals the report.
 
 **And the gap the sweep did not find, supplied from outside it on 25 August 2026: the apex-witness
-problem.** Every offence in SEC. 6 turns on what a natural person knew, decided, or had the power to
+problem.** Every offense in SEC. 6 turns on what a natural person knew, decided, or had the power to
 prevent. Nothing in this repository asks the practical question that follows: **can the State
 actually get that person into a chair.** American courts apply an apex-witness rule that shields
 senior executives from depositions unless the party seeking one shows unique, non-duplicative
@@ -326,9 +326,9 @@ provision survives *for the purpose of supplying an element* is genuinely novel 
 not be broken. SEC. 3(c)(3)'s time rule is ex post facto and *Bouie* clean at every joint. The
 10²⁶ threshold is the enacted definition in two states, so "arbitrary threshold" fails on the record.
 And the base tier's culpability floor holds: *Park* holds, *DeCoster*'s controlling concurrence says
-it in terms, and *Staples*' penalty-sensitivity does not bite at a misdemeanour.
+it in terms, and *Staples*' penalty-sensitivity does not bite at a misdemeanor.
 
-One finding cuts unexpectedly in the project's favour. SEC. 13(b)(3) ranks the open-weight-relevant
+One finding cuts unexpectedly in the project's favor. SEC. 13(b)(3) ranks the open-weight-relevant
 duties **first to fall** in the severability ladder — so an open-source reader who reads to the end
 finds their concerns already conceded as severable.
 

@@ -16,7 +16,7 @@ expected.***
 **About:** frontier developers — the companies training general-purpose models above 10²⁶
 operations — and whether their systems are reaching patients.
 
-**Not about:** the hundreds of narrow, task-specific AI devices FDA has already authorised, which
+**Not about:** the hundreds of narrow, task-specific AI devices FDA has already authorized, which
 are a different technology and are not what this Act covers.
 
 ---
@@ -48,7 +48,7 @@ population.
 
 ## 2. And here is the finding, which is better than a number
 
-The obvious next question is: *how many authorised devices already use a foundation model?*
+The obvious next question is: *how many authorized devices already use a foundation model?*
 
 **FDA cannot tell you.** Not because it will not — because the capability does not exist yet. From
 the agency's own page on AI-enabled medical devices:
@@ -93,7 +93,7 @@ not one.**
 
 **And notice what this technology is exempt from that far smaller undertakings are not.** To
 experiment on a rat, an American researcher needs an institutional animal care and use committee, a
-written protocol, and a named person answerable for it. To enrol a single human being in a trial,
+written protocol, and a named person answerable for it. To enroll a single human being in a trial,
 someone signs **Form FDA 1572** in their own name before anyone is enrolled — see
 [already a crime, if you are a person](../standards/already_a_crime_for_you.md). To release a
 general-purpose model to three hundred million people, one in five of whom will ask it about their
@@ -124,9 +124,9 @@ From Pew Research Center, 5,119 US adults, 17–23 February 2026:
 **One in five American adults is taking medical advice from a frontier model right now.** Not from
 a cleared device. From a general-purpose chatbot that is:
 
-- not an authorised medical device
+- not an authorized medical device
 - not on FDA's list, keyword-derived or otherwise
-- carrying no labelling, no intended-use statement, no indications
+- carrying no labeling, no intended-use statement, no indications
 - subject to no adverse-event reporting
 - changeable overnight, without notice to anyone
 
@@ -146,7 +146,7 @@ exists and is being built. That FDA is *now* opening a generative-AI docket conf
 is entering that channel rather than undermining the relevance of what came before.
 
 **Narrows:** this project should not say or imply that frontier models are widely deployed in
-authorised medical devices today. **Nobody knows that, FDA included.** Where the project has
+authorized medical devices today. **Nobody knows that, FDA included.** Where the project has
 implied it, that is a correction owed. What it can say is documented above: the regulator is
 preparing for their arrival, cannot yet identify them, and one in five adults is already using one
 for health advice outside the system entirely.

@@ -1,4 +1,4 @@
-# Who has to tell you — the duty to disclose runs backwards
+# Who has to tell you — the duty to disclose runs backward
 
 *Opened 22 August 2026, from a question put to the project: **why is the party that got breached the
 one who has to disclose it, and why are they afraid to?***
@@ -51,12 +51,12 @@ completely different body of law.
 ## 2. And the disclosure duty is triggered by evidence — which is a thing you can not have
 
 State breach-notification statutes generally turn on whether personal information **was, or is
-reasonably believed to have been, acquired** by an unauthorised person. That is a sensible-looking
+reasonably believed to have been, acquired** by an unauthorized person. That is a sensible-looking
 threshold. Read it as an incentive and it does something else.
 
-**An organisation that logs comprehensively can tell what was taken, and must therefore disclose.**
+**An organization that logs comprehensively can tell what was taken, and must therefore disclose.**
 
-**An organisation that logs almost nothing cannot tell, may honestly report that it found no
+**An organization that logs almost nothing cannot tell, may honestly report that it found no
 evidence of acquisition, and may owe no notification at all.**
 
 > **The better your instrumentation, the more you must disclose. The worse it is, the less you must.**
@@ -106,11 +106,11 @@ permanent search result. **Not disclosing, where the trigger is not met, produce
 The incentive gradient runs against telling people.
 
 **The cost of that is borne by people who are not party to the decision**, and it compounds: an
-undisclosed breach is one nobody else can learn from. **Every organisation running the same software
+undisclosed breach is one nobody else can learn from. **Every organization running the same software
 stays exposed for as long as the silence lasts.**
 
 **This is why mandatory disclosure exists at all.** The argument for it was never that the breached
-organisation deserves punishment; it was that the information is a public good. **The gap this file
+organization deserves punishment; it was that the information is a public good. **The gap this file
 identifies is that the obligation was attached to the party with the least incentive to discharge it
 and the most to lose by doing so — and not to the party that shipped the defect, who has neither the
 incentive nor the obligation.**
@@ -214,10 +214,10 @@ incident *"durch eine Mitteilung des Testpartners"* — ⚠ through a notificati
 | the party that ran it | **Irregular — publicly identified, and identified as the cause** |
 | the party it was done to | **unnamed** |
 
-**The organisation that was actually broken into does not appear in the public account of its own
+**The organization that was actually broken into does not appear in the public account of its own
 breach.** It is not the discloser, it is not consulted in the framing, and as of the reporting it is
 not even named. Whether it consented, whether it was told, and whether it agreed to the
-characterisation are all unknown — **and no reader of either article could ask, because there is
+characterization are all unknown — **and no reader of either article could ask, because there is
 nobody to ask about.**
 
 Meta said it would publish more *"once we have all the facts."* ⚠ **Whether it did is a check owed,**
@@ -273,7 +273,7 @@ assumes the duty this Act writes down.
 Reporting and Security Enhancement Act (Ross, with Hurd of Colorado and Beyer; introduced 18 June
 2026; ordered reported by Science, Space, and Technology **35–0** on 25 June 2026; introduced print
 read in full, 25 Aug, OCR cross-checked against the govinfo XML). NIST, in consultation with CISA,
-is to run a programme supporting *"the voluntary reporting, collection, and tracking of artificial
+is to run a program supporting *"the voluntary reporting, collection, and tracking of artificial
 intelligence flaws"* and to build *"a national database of artificial intelligence flaws or the
 modification of an existing national database."*
 
@@ -318,7 +318,7 @@ building the first say so.**
 This file's argument is that a substantive duty without an attached disclosure duty is
 unenforceable, because the party that would have to complain is the party kept from knowing.
 That argument is not this project's invention, and it is not confined to safety. It has a
-bipartisan bill behind it in a neighbouring field.
+bipartisan bill behind it in a neighboring field.
 
 At *Too Big to Prosecute?* (S. Hrg. 119-202, 16 July 2025), Senator Peter Welch put it to the
 witnesses in exactly these terms:
@@ -339,7 +339,7 @@ the same move as this Act's SEC. 9 reporting duties and as H.R. 9333's flaw-disc
 copyright rather than catastrophic risk.
 
 **⚠ The limit, and it is strict.** The TRAIN Act's text has **not** been retrieved. Everything
-above is Senator Welch's own characterisation of his own bill, quoted from the hearing record and
+above is Senator Welch's own characterization of his own bill, quoted from the hearing record and
 nothing more. **No provision, mechanism, threshold or drafting choice in the TRAIN Act may be
 described until the text is in hand.** Retrieving it is a cheap open item and is now on the
 queue.
@@ -448,7 +448,7 @@ honestly:
 | Breached entities face material disincentives to disclose | ⚠ uncontroversial, **unsourced here** |
 | **§ 4a** — Hugging Face disclosed 16 Jul; OpenAI 21 Jul | ✅ *Nature Mach. Intell.*, 18 Aug 2026 |
 | **§ 4a** — the breached party's investigation was blocked by commercial API safety filters | ✅ same source; corroborated by [Forescout](./commentary_sweep.md#g6--somebody-finally-asked-the-question-in-a-headline-and-stopped-at-the-company) |
-| **§ 4a** — the AISI intrusion was detected and publicised by an uninvolved member of the public, who was then compromised | ✅ AISI report, read in full |
+| **§ 4a** — the AISI intrusion was detected and publicized by an uninvolved member of the public, who was then compromised | ✅ AISI report, read in full |
 | **§ 4a** — none of these disclosures was legally compelled | ⚠ **inference from [the census](./frontier_bill_census.md)**, which reads bills, not notification law |
 
 **The checks, in order of value:**

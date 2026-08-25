@@ -1,7 +1,7 @@
 # Why the disparity exists — twelve explanations, argued rather than assumed
 
 *[The same conduct, prosecuted](./the_same_conduct.md) establishes the fact: American law reaches
-individuals for unauthorised computer access with announced exposure from ten years to four
+individuals for unauthorized computer access with announced exposure from ten years to four
 hundred and forty, and reaches the officer of a frontier developer not at all.*
 
 ***This file asks why, and refuses to answer it in one sentence.*** *Twelve explanations follow.
@@ -39,7 +39,7 @@ find the argument they already hold and check it, not to sort anyone.
 
 ---
 
-## A · There is no artefact, so the law has nothing to grip
+## A · There is no artifact, so the law has nothing to grip
 
 *Doctrinal · no political valence*
 
@@ -52,7 +52,7 @@ out of deference. **There is nothing to charge.**
 twenty-eight years where a false certificate existed, twelve months where twenty-nine people died
 and no comparable document did.
 
-**What it uniquely predicts.** That creating the artefact — with nothing else changed — would by
+**What it uniquely predicts.** That creating the artifact — with nothing else changed — would by
 itself produce enforcement. **This is a testable claim**, and Sarbanes-Oxley is the natural
 experiment: personal certification produced prosecutions that had not existed before.
 
@@ -113,7 +113,7 @@ what a 10²⁶ threshold produces. **This explanation is a friend of the Act's d
 
 **The case for it.** Every defendant in the prosecution gallery did something deliberate. A company
 whose system does something unanticipated has not. Criminal law is built around chosen wrongdoing,
-and stretching it to cover unintended outputs of a complex artefact is a serious step that ought to
+and stretching it to cover unintended outputs of a complex artifact is a serious step that ought to
 give a legislature pause. **The people running these companies are, in the main, trying.** Twelve of
 them published safety frameworks nobody required.
 
@@ -139,14 +139,14 @@ Prosecutors allocate scarce resources rationally. **The pattern emerges with nob
 
 **What would confirm it.** The plea data in [the gallery](./the_same_conduct.md): announced maxima
 enormously in excess of what prosecutors actually sought, which is the signature of a system
-optimising for quick resolution.
+optimizing for quick resolution.
 
 **What it uniquely predicts.** That even *with* a statute, enforcement against well-resourced
 defendants would be rare — so the deterrent would have to come from the duty's existence rather
 than from frequent prosecution.
 
-**Remedy implied.** Bright-line, documentary offences that are cheap to prove: **a missing
-signature is provable from an empty file**, which is why this Act's offences are drafted as
+**Remedy implied.** Bright-line, documentary offenses that are cheap to prove: **a missing
+signature is provable from an empty file**, which is why this Act's offenses are drafted as
 record-based rather than harm-based.
 
 ---
@@ -165,7 +165,7 @@ pharmaceuticals, financial contagion.
 **What it uniquely predicts.** That any harm-based statute will fail on proof, whatever its
 penalties.
 
-**Remedy implied.** Seat the offence in **conduct rather than consequence** — which is the design
+**Remedy implied.** Seat the offense in **conduct rather than consequence** — which is the design
 choice behind SEC. 5(b) and the reason [the cross-examination](../docs/the_case.md) opens on an
 intrusion rather than a death.
 
@@ -188,8 +188,8 @@ transparency and reporting — which is precisely what [the census](./frontier_b
 across six regimes.
 
 **Remedy implied.** Draft into the savings clauses rather than against the preemption clauses. **The
-Act already does this**, which is why its offences are framed as generally applicable criminal law
-and false-statement offences.
+Act already does this**, which is why its offenses are framed as generally applicable criminal law
+and false-statement offenses.
 
 ---
 
@@ -260,7 +260,7 @@ already.**
 
 *Left-structural*
 
-**The case for it.** Capital has always externalised liability: through the veil, through
+**The case for it.** Capital has always externalized liability: through the veil, through
 subsidiaries, through arbitration, through settlement without admission. **Treating frontier AI as
 an anomaly mistakes a rule for an exception**, and a statute aimed at one industry leaves the
 mechanism intact everywhere else.
@@ -359,7 +359,7 @@ Innovation, Serial 119-49, 17 Sep 2025 — the transcripts, read in full 24 Aug,
 
 **They do not all imply the same remedy, and that is the useful finding.**
 
-- **A, E and F** all point to the same drafting choice: **documentary, conduct-based offences**,
+- **A, E and F** all point to the same drafting choice: **documentary, conduct-based offenses**,
   provable from an absence rather than from a causal chain.
 - **C and G** point to **narrow scope**: a high threshold, a small covered class, drafted into the
   savings clauses.

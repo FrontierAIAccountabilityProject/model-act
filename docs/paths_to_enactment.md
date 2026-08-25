@@ -9,7 +9,7 @@ who arrives someday deserves to find the thinking done.
 
 The premise is the companion's: **one sponsor, one chamber, one state is enough to begin.**
 Illinois's biometric statute proved the lane — a single state's private-enforcement law
-reorganised an industry's national practice. And the ceiling weather, examined closely, keeps
+reorganized an industry's national practice. And the ceiling weather, examined closely, keeps
 confirming the lane is open: every federal preemption instrument to date has expressly preserved
 generally applicable law, and the newest draft narrows itself to *development* only
 ([the half-statute page](./safe_harbors_and_affirmative_defenses.md)).
@@ -52,7 +52,7 @@ milestones measured in months ([the forecasters' arithmetic](../research/forecas
 
 The vehicles below are therefore not four substitutes for whole enactment. They are what
 pre-positions it: an amendment enacted proves the chassis takes the engine; a certification bill
-normalises the core mechanism; a charged case makes the doctrine live; an attorney general who
+normalizes the core mechanism; a charged case makes the doctrine live; an attorney general who
 has used the records provisions becomes the sponsor's first witness. Every vehicle shortens the
 distance between the drawer and the floor.
 
@@ -80,7 +80,7 @@ nobody.*
 
 Smaller still: a bill that enacts only the certification and records core — the SEC. 8
 certification on the 18 U.S.C. § 1350 structure, the false-certification offense, and the
-SEC. 12 records duties. Every state already criminalises false filings and false business
+SEC. 12 records duties. Every state already criminalizes false filings and false business
 records; this vehicle **extends existing false-statement law to a new document**, which is the
 most ordinary thing a legislature does. It is the smallest possible ask with the largest trust
 yield: a named executive, personally certifying, on pain of an existing genre of felony — the
@@ -158,7 +158,7 @@ campaign; and
 > that represents them."
 
 That third route is this project, described by the government itself. A member of the public, or a
-group of them, recommends a law to a legislator. It is a recognised origin, not an irregular one.
+group of them, recommends a law to a legislator. It is a recognized origin, not an irregular one.
 
 **The stage matters as much as the route.** The House's own summary of the legislative process
 begins: *"Laws begin as ideas. First, a representative sponsors a bill."* Everything that follows,
@@ -219,7 +219,7 @@ legitimate outcome rather than a failure of the process.**
 guide](https://guides.library.harvard.edu/law/unifmodelacts) (last updated 18 December 2025), read
 25 August 2026.*
 
-### Why the review is organised in lanes, and why that is not an invention
+### Why the review is organized in lanes, and why that is not an invention
 
 Congress.gov's overview of the legislative process describes where a legislature's own expertise
 actually lives:

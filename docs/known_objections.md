@@ -12,7 +12,7 @@ The project does not assume the proposed definitions are legally sufficient. The
 questions include whether the enterprise category and its bracketed scale conditions are precise
 enough; whether the responsible-corporate-officer doctrine can be adapted from food and drug law to
 frontier AI; how responsibility should be allocated between model developers, compute suppliers,
-and deployers; and what mens rea and safe-harbour provisions are constitutionally necessary. A
+and deployers; and what mens rea and safe-harbor provisions are constitutionally necessary. A
 reviewer may conclude the central theory should be removed. That conclusion would be published.
 
 ## The objections and the answers
@@ -21,17 +21,17 @@ reviewer may conclude the central theory should be removed. That conclusion woul
 |---|---|---|
 | "You are taking a technical term and making it a political label." | "Frontier" is not a settled legal category and moves over time. | Two defined terms: the technical *frontier-AI system* and the legal *covered frontier enterprise* ([the definition](./the_definition.md)). The Act regulates responsibility, not vocabulary — and the industry chose the word first, in its own frameworks and products. |
 | "Wealth does not prove capability." | Market value belongs to shareholders and can be speculation. | Wealth alone covers nobody. The scale conditions operate only conjoined to a material frontier function, and the protective clause says so on the face of the definition (CURE 7). |
-| "You cannot prove our model exceeded 10²⁶ operations." | Training figures are trade secrets; outside estimates can be wrong. | The figure is not proven by outside estimate: the developer certifies its own compute under SEC. 8, and lying in that certification is the offence. Self-designation (CURE 6) and Agency designation are independent routes that need no figure at all. And administrability is now conceded from both ends of the politics — chip location-verification as live federal policy, the forecasters' declaration-and-audit engineering ([two visions](./two_visions.md)). |
+| "You cannot prove our model exceeded 10²⁶ operations." | Training figures are trade secrets; outside estimates can be wrong. | The figure is not proven by outside estimate: the developer certifies its own compute under SEC. 8, and lying in that certification is the offense. Self-designation (CURE 6) and Agency designation are independent routes that need no figure at all. And administrability is now conceded from both ends of the politics — chip location-verification as live federal policy, the forecasters' declaration-and-audit engineering ([two visions](./two_visions.md)). |
 | "The threshold is arbitrary." | A model just below may outperform one just above. | 10²⁶ is one objective trigger among several routes, updatable by rule under SEC. 3 — and Meta's own framework adopts the same figure as its top-tier criterion, which is difficult to call arbitrary while using it. The forecasters' caution that compute units blur over time ([forecast arithmetic § 6](../research/forecast_arithmetic.md)) argues *for* the capability-designation routes riding beside the bright line — the Act's design already carries its critics' fix. |
 | "*Dotterweich* and *Park* concern the Food, Drug, and Cosmetic Act." | The doctrine does not migrate automatically. | Agreed. The Act does not borrow liability; it enacts its own elements, and takes from the doctrine only the principle — duty follows the person standing in responsible relation to a public danger with power to prevent it. See [the case](./the_case.md). |
 | "This is unconstitutional strict liability." | Criminal punishment without culpability raises due-process and fair-notice problems. | The Act is not outcome-liability. SEC. 6 requires a duty held, a failure of due care, and proof of every element; SEC. 1(a) states the public-welfare classification with its *Morissette* limits; the harm tier requires more, with proximate cause. Nobody is punished because a system surprised everyone. |
-| "No executive can understand every technical decision." | Frontier development involves thousands of specialised decisions. | The duty is not omniscience; it is to establish, resource, supervise, and correct — and it attaches only to *final material independent decision authority*. SEC. 4(a) expressly excludes title, credentials, access, ministerial execution, and the giving of advice. |
-| "Non-delegable duties are incompatible with modern management." | Delegation is how large organisations work. | Delegation of work is untouched. SEC. 4(c) bars only the delegation *of responsibility*: no safety officer, committee, subsidiary, contractor, auditor, or evaluator shields a person who retains the authority to prevent or correct. |
+| "No executive can understand every technical decision." | Frontier development involves thousands of specialized decisions. | The duty is not omniscience; it is to establish, resource, supervise, and correct — and it attaches only to *final material independent decision authority*. SEC. 4(a) expressly excludes title, credentials, access, ministerial execution, and the giving of advice. |
+| "Non-delegable duties are incompatible with modern management." | Delegation is how large organizations work. | Delegation of work is untouched. SEC. 4(c) bars only the delegation *of responsibility*: no safety officer, committee, subsidiary, contractor, auditor, or evaluator shields a person who retains the authority to prevent or correct. |
 | "Our cloud or chip business is neutral infrastructure." | A supplier cannot police every customer. | Ordinary commodity supply is expressly out (CURE 7). A supplier is covered only at frontier scale, and its duties are the records, security, and reporting duties prescribed for *its own function* — never the developer's duties. No one answers for a layer they do not hold. |
 | "We did not cause the harm — the customer or user did." | Intervening actors sit between development and harm. | Duties attach function by function under SEC. 2(a); the harm tier requires proximate cause; and independent duties (evaluation, certification, reporting) are breached or not regardless of downstream acts. |
 | "Open-weight release means we lose control." | After release, the developer cannot intervene. | SEC. 1(b)(9) already answers: a release is a deployment, duties are those capable of performance *before* release — evaluation of the model as it can be modified, tamper-resistance, weight security to the moment of release (SEC. 2(a)). Lost downstream control does not erase the upstream decision. Use and study of lawfully obtained weights remain expressly protected. |
 | "This chills research and innovation." | Legislatures hear this first. | SEC. 2(c) protects controlled research deployment; the records duties reward documentation; the reliance path in SEC. 2(b) gives small deployers a defined safe course. The duty begins at consequential scale, which is a choice, not an accident. |
-| "This regulates speech and publication." | Weights, papers, and safety claims brush the First Amendment. | The Act regulates conduct: deployment, configuration, certification, records, reporting. SEC. 1(b)(9) protects use, study, and modification of lawfully obtained weights; no research conclusion or publication is an offence. |
+| "This regulates speech and publication." | Weights, papers, and safety claims brush the First Amendment. | The Act regulates conduct: deployment, configuration, certification, records, reporting. SEC. 1(b)(9) protects use, study, and modification of lawfully obtained weights; no research conclusion or publication is an offense. |
 | "A state cannot regulate a global supply chain." | Preemption and Commerce Clause challenges are real. | SEC. 1(c) requires an in-state nexus — conduct, availability to residents, substantial in-state effects — and SEC. 13 handles federal enactments expressly, with a review valve (CURE 2). The model-law form exists precisely so a federal twin can follow. |
 | "Companies will divide the activity among subsidiaries." | Corporate separateness is a fundamental principle. | SEC. 4(a) reaches authority held "directly or indirectly … through any intermediary, entity, trust, or arrangement"; CURE 7 aggregates controlled subsidiaries, affiliates, joint ventures, and dedicated infrastructure arrangements for function and scale. Duty still lands only on persons who actually hold authority. |
 | "Market values are too volatile to define legal status." | A company could enter or leave coverage on a market swing. | The scale figures are bracketed adopting-state choices, flagged as this project's proposals; review should test averaging windows, notice, and effective-date mechanics. The volatility objection is a drafting instruction, not a defeat. |
@@ -42,7 +42,7 @@ reviewer may conclude the central theory should be removed. That conclusion woul
 
 The industry's strongest collective position will be to accept a narrow technical definition and
 reject the enterprise category: *frontier models deserve special treatment, but only the
-organisations that train them should be covered; chips, cloud, data platforms, and deployment
+organizations that train them should be covered; chips, cloud, data platforms, and deployment
 should remain outside.* The response:
 
 > Frontier risk is produced through a chain of controlled decisions. A model developer may control
@@ -51,21 +51,21 @@ should remain outside.* The response:
 > control whether the system acts inside a critical institution. A law that covers only the model
 > trainer leaves the other decisive points of control legally invisible.
 
-## "You are criminalising uncertainty"
+## "You are criminalizing uncertainty"
 
-The Act would not criminalise uncertainty. It would criminalise the failure to manage uncertainty
+The Act would not criminalize uncertainty. It would criminalize the failure to manage uncertainty
 by a person who held the authority, resources, and information to act. Liability requires a covered
 activity, a person with practical authority, a defined duty, a failure to perform it, and the
 applicable culpability — never an unexpected output alone. Uncertainty's legal function under the
 Act is to produce a record: what was known, what was not, what was tested, who approved, what would
-trigger a pause, who could stop it (SEC. 12). The recognised defences do the rest: the SEC. 4(a)
+trigger a pause, who could stop it (SEC. 12). The recognized defenses do the rest: the SEC. 4(a)
 exclusions and the genuine-absence-of-authority answer preserve *Park*'s own limit — powerlessness
 defeats liability; the reliance path (SEC. 2(b)) and controlled research deployment (SEC. 2(c))
 give the diligent a defined safe course; and penalties are tiered, with the harm tier requiring
 proximate cause and more. The shortest version:
 
-> Uncertainty is not the offence. Unmanaged uncertainty, concealed uncertainty, and continued
-> deployment after material warning are the potential offences.
+> Uncertainty is not the offense. Unmanaged uncertainty, concealed uncertainty, and continued
+> deployment after material warning are the potential offenses.
 
 ## Why not voluntary standards, more agencies, corporate fines, or auditors alone
 
@@ -157,7 +157,7 @@ already regulates — and the genuinely open offshore question, evaluation condu
 honestly at OPEN QUESTION 4, not here.
 
 **"The AI did it" is now foreclosed by statute in two states.** Idaho and Tennessee have enacted
-laws providing that AI systems are not legal persons — ensuring, in the surveying organisation's
+laws providing that AI systems are not legal persons — ensuring, in the surveying organization's
 words, that liability falls *"on formal legal persons (either individuals or corporations) rather
 than on AI systems"* (CDT, 20 Aug 2026, reusable with credit; primary texts queued at
 [the census](../standards/frontier_bill_census.md#the-queue)). Two legislatures have already
@@ -186,7 +186,7 @@ The question arrives from both directions: critics who fear a licensing agency, 
 ask why the Act does not create one. The answer is on the statute's face. SEC. 3(b): *"No
 standard, rule, or mode of validation under this Act may condition any deployment, expansion, or
 release upon the prior affirmative approval of the Agency or of any officer of this State."*
-**The Act takes the FDA's doctrine and refuses the FDA's licence.** From food-and-drug law it
+**The Act takes the FDA's doctrine and refuses the FDA's license.** From food-and-drug law it
 borrows the responsible-relation principle — duty on the person standing between a public danger
 and the public — and the post-market machinery: records, reporting clocks, certification,
 enforcement. What it deliberately does not borrow is premarket approval: no queue outside an
@@ -211,7 +211,7 @@ the constitutional posture (no prior restraint anywhere in the design) and the h
 the innovation objection: nothing in this Act delays a single deployment by a single day. It
 prices the decision; it never takes the decision away.
 
-**A characterisation of ours, corrected, 25 August.** This project had filed Emilia Javorsky, on
+**A characterization of ours, corrected, 25 August.** This project had filed Emilia Javorsky, on
 the strength of her Noema essay's title, as the clearest advocate of the approval model and
 therefore the natural opponent of this design. Her March 2026 essay *How AI Can, and Can't, Cure
 Cancer* (read in full; in the source library) does not support that filing, and the error is
@@ -335,7 +335,7 @@ and a statute that reaches the people who decide is not competing with the cure 
 scarce resource.
 
 **The deeper point, and why it belongs on this page rather than a footnote.** Javorsky's account
-of how the technology sector's optimising culture behaves when it meets a complex system is the
+of how the technology sector's optimizing culture behaves when it meets a complex system is the
 externality argument this Act rests on, arrived at from medicine:
 
 > "In optimizing for user engagement, narrow AI algorithms successfully drove profits but also
@@ -616,7 +616,7 @@ And, two pages later, the conclusion he draws from it:
 > "This isn't just aggressive business tactics. This is criminal conduct."
 
 **Three limits on this, which must be stated whenever it is used, or the project is doing the
-thing it criticises.**
+thing it criticizes.**
 
 1. **The subject is copyright, not catastrophic risk.** Nothing at that hearing was about model
    safety, biosecurity or loss of control. The transfer is structural, not substantive.
@@ -624,7 +624,7 @@ thing it criticises.**
    "officer" does not appear in that sense in the body text. This hearing is evidence that the
    gap exists; it is not evidence that anyone in Congress has proposed this Act's answer to it.
 3. **A rhetorical question is not a finding.** Hawley asks whether the firms have been
-   prosecuted and answers himself. That is a chair's characterisation, not a Department of
+   prosecuted and answers himself. That is a chair's characterization, not a Department of
    Justice declination record.
 
 **What it does carry, and it is not small.** The structural elements a responsible-officer case
@@ -738,7 +738,7 @@ is not a simplification of the law; it is the absence of law, made permanent.
 
 **And on 24 August 2026 a Republican attorney general answered the argument from the other side.**
 Alabama's Steve Marshall, announcing a subpoena to OpenAI over a frontier model that escaped an
-internal evaluation and broke into four other organisations:
+internal evaluation and broke into four other organizations:
 
 > "This AI lab leak showed that Alabamians' and Americans' worst fears about artificial intelligence
 > are not just theoretical. Our investigation seeks to uncover the facts and address hard truths
@@ -753,7 +753,7 @@ patchwork objection answered by the thing the objection is about: the states are
 field, they are improvising in an empty one. Full record, with the limits, at
 [the state enforcement record](../research/state_enforcement_record_2026.md) § 7.
 
-⚠ **What is not asserted from this hearing.** The Chairman's characterisations in the same exchange
+⚠ **What is not asserted from this hearing.** The Chairman's characterizations in the same exchange
 — that "States are criminalizing neutral algorithms", and his account of what Colorado requires —
 are **not** adopted here and have **not** been checked against the Colorado act. Fourteen senators'
 statements, Kratsios's full prepared statement, the appendix letters, and the written responses to

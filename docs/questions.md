@@ -122,7 +122,7 @@ individual through § 130 OWiG, which makes a business owner's failure of requir
 supervision a punishable omission where that failure enabled a contravention —
 § 9 OWiG extends the same exposure to managing directors and board members, and the
 fine runs to €1 million where the underlying breach is itself criminal. That is
-weaker than this Act, and it is candidly an administrative offence rather than a
+weaker than this Act, and it is candidly an administrative offense rather than a
 crime, because Germany has no general corporate criminal code; the point is only that
 the duty attaches to a named person rather than dissolving into the firm. China's
 art. 31 does the same thing through actual criminal punishment. What is unusual is
@@ -155,22 +155,22 @@ to models or software systems.
 their own — masked in the oldest American tradition, Publius and Junius and Dickinson,
 because the citations are the only authority this text claims. Check them, not the byline.
 The maintainer is identifiable privately to reviewers before they sign anything, and to
-retained counsel at engagement. No client, organisation, or grant funds the work. [Provenance and
+retained counsel at engagement. No client, organization, or grant funds the work. [Provenance and
 method](../README.md#provenance-and-method) describes the drafting and correction process.
 
 *Is this advocacy or introducible legislation?* It is model legislation and a research
 draft. Any sponsor's legislative counsel would need to conform its definitions,
 penalties, procedure, and cross-references to the adopting jurisdiction. The draft
-states elements, burdens, defences, and severability rules so that reviewers can assess
+states elements, burdens, defenses, and severability rules so that reviewers can assess
 it as proposed statutory text. Known errors and corrections are recorded in [the
 register](../ledger/errata.md).
 
-*Who funds this?* No client, organisation, or grant funds the project. The drafting
+*Who funds this?* No client, organization, or grant funds the project. The drafting
 record, revisions, and corrections are public, and the text is released under CC0.
 
 *"Where are the bodies?"* In [the incident timeline](../dossier/README.md#dossier-appendix--the-incident-timeline),
 which exists because the question deserves a file rather than a sentence. The older
-answer is structural: the offence is shipping unvalidated, precisely so the count
+answer is structural: the offense is shipping unvalidated, precisely so the count
 stays where it is — prevention that works is always accused of solving nothing.
 
 **Asked from the left.**
@@ -182,7 +182,7 @@ Sub-frontier injuries have live statutes, agencies, and plaintiffs, and SEC. 0(a
 keeps every one of them in force. A bill that tried to be the whole of AI justice
 would be the omnibus that dies in committee, taking the gap down with it.
 
-*Prison as a theory of change is still carceral politics.* The Act's centre of gravity
+*Prison as a theory of change is still carceral politics.* The Act's center of gravity
 is not the cell: the working instruments are the signature, the disgorgement, the
 disqualification, and the debarment — consequences that reach the person without
 filling a prison — and the custodial tiers exist because their absence has a market
@@ -194,7 +194,7 @@ objected to is not the aim; it is the direction.
 
 *Am I personally liable?* No — title, credentials, technical ability, access, and the
 ministerial execution of another's decision are excluded from authority in black
-letter (SEC. 4). The Act climbs the organisation
+letter (SEC. 4). The Act climbs the organization
 chart; it does not descend it.
 
 *Does this touch open weights, my fine-tune, or my local model?* Your local model,
@@ -247,7 +247,7 @@ and one legislature at a time. A model act's audience is measured in sponsors, a
 current count is zero. The claimed path is the same and no shorter: named reviewers,
 then a sponsor's counsel, then one state.
 
-*Does the proposal criminalise innovation?* Research and ordinary AI use are not
+*Does the proposal criminalize innovation?* Research and ordinary AI use are not
 offenses, and professional credentials, technical ability, access, advice, or
 implementation alone do not establish controlling-person status. The base individual
 offense requires final material decision authority, a relevant duty, and failure to
@@ -264,9 +264,9 @@ and the hardest for Washington to reach.
 
 *Industry will ask for its Price-Anderson — a liability cap in exchange for the
 duty.* Then industry should be offered the whole bargain it cites: Price-Anderson
-paired its cap with strict, channelled liability, mandatory insurance to the cap, and
+paired its cap with strict, channeled liability, mandatory insurance to the cap, and
 pervasive oversight. The cap was the price of accepting liability by default, not an
-escape from it. A cap without the channelling is dessert without the dinner, and the
+escape from it. A cap without the channeling is dessert without the dinner, and the
 Act declines to serve it.
 
 *Why not add a right-to-cure before charges?* Because for this offense the cure
@@ -276,14 +276,14 @@ public — an amendment met in the wild and preserved in the field notes under e
 the name it earned: the cheapest gut.
 
 *Any agency you create will be captured.* The warning is taken as a design constraint
-rather than rebutted: the Act minimises what capture can switch off. Duties commence
+rather than rebutted: the Act minimizes what capture can switch off. Duties commence
 on standards already enacted elsewhere; no approval mode exists to sit on; if the
-agency never organises, filings run to the attorney general. An agency that cannot
+agency never organizes, filings run to the attorney general. An agency that cannot
 gate the duties is an agency not worth capturing.
 
-*"A hostile attorney general will weaponise this against companies whose politics he
+*"A hostile attorney general will weaponize this against companies whose politics he
 dislikes."* This Act hands a partisan less to work with than almost any criminal
-statute on the books, because the offences are documentary and the yardsticks are
+statute on the books, because the offenses are documentary and the yardsticks are
 published. A charge must prove its elements to a jury beyond reasonable doubt —
 including the person's practical power, whose genuine absence defeats the case as a
 failed element, never as something the accused must establish — and due care is
@@ -327,12 +327,12 @@ U.S. 600 (1994); *Rehaif v. United States*, 588 U.S. 225 (2019); *Ruan v. United
 States*, 597 U.S. 450 (2022). Measured against that presumption the Act passes on
 its face: SEC. 6(c) forbids any custodial sentence without proof of a due-care
 failure — negligence, not strict liability, is the floor for jail; the felony tier
-of SEC. 6(b) requires knowing or wilful conduct; strict liability survives only
+of SEC. 6(b) requires knowing or willful conduct; strict liability survives only
 where the modern Court tolerates it, in the entity's civil penalty under SEC. 10(a).
-And on *Park*'s own escape hatch: *Park* preserved a defence of objective
+And on *Park*'s own escape hatch: *Park* preserved a defense of objective
 powerlessness, 421 U.S. at 673. SEC. 6(d)–(e) does not merely adopt it — it upgrades
 it. Absence of practical power negates an element the prosecution must prove beyond
-a reasonable doubt; it is not an affirmative defence the accused must carry. On this
+a reasonable doubt; it is not an affirmative defense the accused must carry. On this
 point the Act gives a defendant more process than *Park* did, on purpose. A statute
 built to survive review should say so on its face; this one now does.
 
@@ -345,32 +345,32 @@ the product intended; it asked who had the power to stop the shipment.
 *Why criminal law at all, rather than civil liability or regulation?* Because both
 already exist and neither reaches the person: civil penalties are paid from the
 treasury, and a fine a firm can pay is a price. The one instrument with an eighty-year
-record of changing officer behaviour is personal criminal exposure — the Park line —
+record of changing officer behavior is personal criminal exposure — the Park line —
 and it has simply never been extended past the food-and-drug frontier.
 
 *Prison on strict liability — is that constitutional?* The Act does not attempt it:
 fines may follow the classic strict public-welfare pattern, but imprisonment requires
 proven fault — a negligence floor, codifying the constitutional line the *DeCoster*
-concurrence drew. What it deliberately omits is a good-faith defence, following the
-1948 congressional refusal. Whether a strict-liability misdemeanour tier should sit
+concurrence drew. What it deliberately omits is a good-faith defense, following the
+1948 congressional refusal. Whether a strict-liability misdemeanor tier should sit
 beneath the felony is a genuine design question — open, and squarely within the
 criminal-law seat.
 
-*Park was a \$250 misdemeanour; you attach life imprisonment to a negligence floor.*
-Different floors, kept apart on the face of the text: the due-care offence of SEC.
-6(a) *is* the Park misdemeanour — one year at most (SEC. 10(b)). Life enters only
-through SEC. 6(b)(1), knowing or wilful conduct, plus a death charged as but-for and
+*Park was a \$250 misdemeanor; you attach life imprisonment to a negligence floor.*
+Different floors, kept apart on the face of the text: the due-care offense of SEC.
+6(a) *is* the Park misdemeanor — one year at most (SEC. 10(b)). Life enters only
+through SEC. 6(b)(1), knowing or willful conduct, plus a death charged as but-for and
 proximate cause under *Burrage*, per victim, to a jury — the mens rea and structure
 every state already uses between manslaughter and murder. The one bracketed novelty is
 the [two]-year minimum, held open for the criminal-law seat.
 
-*"The behaviour is emergent — you're criminalising outcomes nobody could foresee,
-without mens rea."* The Act criminalises no outcome standing alone. The floor offence
+*"The behavior is emergent — you're criminalizing outcomes nobody could foresee,
+without mens rea."* The Act criminalizes no outcome standing alone. The floor offense
 is failing to run the required checks — process, not prophecy — and a certification
 under SEC. 8 attests that validation ran, never that the future is safe. The harm tier
-demands more, not less: knowing or wilful conduct plus but-for and proximate causation
+demands more, not less: knowing or willful conduct plus but-for and proximate causation
 under *Burrage*, charged per victim to a jury. Unpredictability is the reason the
-duties exist; it has never been a defence to skipping the pre-flight.
+duties exist; it has never been a defense to skipping the pre-flight.
 
 *What about deferred and non-prosecution agreements?* Deliberately silent — charging
 discretion stays where state law puts it. Whether negotiated dispositions should be
@@ -379,16 +379,16 @@ enforcement stopped deterring — is open, and belongs to the enforcement seat.
 
 *No attorney general will bring the first case — SEC. 4 is unprovable against a
 governance chart built by three firms.* Year one is filing cabinets by design: the
-offences that commence immediately are documentary — records, reports, statements,
+offenses that commence immediately are documentary — records, reports, statements,
 certifications — and documentary cases are the ones offices actually bring. Thereafter
 the signature does the element's work: the person who certified under SEC. 8 is the
-person who claimed the authority, in writing. The FDCA comparison also cuts backwards
+person who claimed the authority, in writing. The FDCA comparison also cuts backward
 — *Park* prosecutions are rare because the exposure works ex ante. Whether SEC. 4
 survives a real charging memo is [the enforcement seat's](../REVIEWERS.md#enforcement-and-prosecution)
 core question — open, and the seat exists because it is.
 
-*"Your records duties turn emergency patching into evidence tampering."* Backwards on
-the face of the text: remediation is a duty, and the offence is failing to establish,
+*"Your records duties turn emergency patching into evidence tampering."* Backward on
+the face of the text: remediation is a duty, and the offense is failing to establish,
 maintain, or preserve required records — the manifests, validations, and logs — never
 the act of fixing the system they describe. Patch the model; keep the log of the
 patch. Destroying the record of remediation is the crime. Remediation never was.
@@ -401,7 +401,7 @@ prospectively with a conforming window, and carves restitution out so victims ar
 never the ones disciplined. The economics remain fair council terrain.
 
 *Won't personal liability teach firms to stop looking for their own problems?* The
-Act is drafted so that silence, not candour, is the dangerous strategy: reporting
+Act is drafted so that silence, not candor, is the dangerous strategy: reporting
 clocks run from when certified monitoring *would* have detected an incident, so not
 looking starts the clock anyway; the records offenses punish destruction and
 falsification, not disclosure; and disclosing nonconformity is a protected filing
@@ -428,7 +428,7 @@ development that neither occurs in-state nor concerns a system sent there (SEC.
 0(a)(3)). The sibling formulas are enacted law in the interim standards' home states;
 the full map is [chunk 2](../audit/record.md#chunk-2--preemption-armour-for-v33).
 
-*Why won't federal preemption kill it?* It may try; the armour is operative text, not
+*Why won't federal preemption kill it?* It may try; the armor is operative text, not
 cover copy — SEC. 0 states the core, SEC. 13 orders the severance and revives
 suspended provisions if a federal switch-off later lapses. State criminal law over
 conduct harming people in-state is the last thing preemption reaches, which is why
@@ -443,8 +443,8 @@ takes the company's own marketing designation as a rebuttable jurisdictional fac
 nothing, adopting nothing, requiring no publication — implicate the compelled-speech doctrine at
 all, and if so, on which side of *Zauderer* does a self-chosen commercial designation fall?** The
 Act's design facts for whoever takes it up: SEC. 0(a)(4); SEC. 8's statements-of-fact limit;
-SEC. 9(c)'s no-characterisation rule; and CURE 4, which removes the statute's last
-characterisation-shaped trigger.
+SEC. 9(c)'s no-characterization rule; and CURE 4, which removes the statute's last
+characterization-shaped trigger.
 
 None of the hardest questions above began as hypotheticals. Objections arriving in
 the wild are preserved, with the answers that survived them, in

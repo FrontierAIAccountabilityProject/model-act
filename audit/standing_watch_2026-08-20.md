@@ -33,12 +33,12 @@ explanation is a conflation with press coverage dated 16 July 2026 describing th
 facing its "first federal appeals court test" — coverage of the completed briefing, not of
 an argument. **Recommendation:** restate as *fully briefed; argument date not confirmed;
 undecided* until the Ninth Circuit docket is read directly. The companion already imposes
-this discipline on a neighbouring citation — "*X Corp. v. Bonta* is always described as a
+this discipline on a neighboring citation — "*X Corp. v. Bonta* is always described as a
 preliminary-injunction likelihood ruling" — and the same precision is owed here.
 
 **The gain the sweep did find.** xAI *lost below*. A district court has already declined
 to enjoin a training-data disclosure mandate against a trade-secret and compelled-speech
-challenge. Whether or not that survives the Ninth Circuit, it is a favourable data point
+challenge. Whether or not that survives the Ninth Circuit, it is a favorable data point
 the repository does not presently carry, and it bears directly on the docket read at
 `filings/docket_fda_2024_d_4488_reading_notes.md`, where Biocom (0011), AWS (0018) and
 Dentsply (0044) each objected to disclosure on proprietary-information grounds.
@@ -47,7 +47,7 @@ Dentsply (0044) each objected to disclosure on proprietary-information grounds.
 compels a private statement of fact to a regulator and says on its face that a
 certification "is made to the Agency and is not required to be published"; SEC. 9(c) says
 the same of incident reports; SEC. 0(a)(4) disclaims any requirement to adopt a contested
-characterisation. Whatever the Ninth Circuit does to AB 2013, it reaches a mandate this
+characterization. Whatever the Ninth Circuit does to AB 2013, it reaches a mandate this
 Act does not impose. The Act is the *narrower* instrument on the axis being litigated, and
 the n.16 re-run should say so rather than merely absorbing the result.
 
@@ -90,14 +90,14 @@ rather than silently repaired, per the rule of the register.
 **Why it matters here, restated on the pinned facts.** The federal government's first
 intervention against a state AI law did not run on preemption. It ran on civil-rights
 grounds against a statute that mandates outcome-testing across protected classes. That is a
-different threat model from the one n.13's armour is built for, and this Act is structurally
+different threat model from the one n.13's armor is built for, and this Act is structurally
 outside it: SEC. 3(a) confines standards to safety, authorization, monitoring,
 incident-reporting and deployment controls; SEC. 0(a)(4) forbids requiring any person to
 adopt a contested characterization or to alter any output; and the Act imposes no
 algorithmic-discrimination duty at all. The FDA docket read closed the same question from
 the other end — the Act declines the bias-mitigation asks of comments 0021, 0042, 0027 and
 0028 because SEC. 3(a) has no head for them. That reads as a limitation in the mapping table
-and as armour here. Both readings are true, and the honest version says so in both places.
+and as armor here. Both readings are true, and the honest version says so in both places.
 
 ---
 
@@ -121,7 +121,7 @@ Commerce and to Science, Space and Technology, **no markup, no recorded votes**.
   procurement and use rules.
 - **Criminal penalties (§ 8):** "willful violations are criminal," in the context of
   entities violating emergency orders. The summary does not extend criminal liability to
-  natural persons and does not state a mens rea beyond wilfulness.
+  natural persons and does not state a mens rea beyond willfulness.
 - **Personal certification:** **none.** No officer, executive or natural person is required
   to certify or attest anything.
 
@@ -130,7 +130,7 @@ officer liability. Re-ask at markup.
 
 **Two-sided reading, per the n.13 discipline.** The savings clause runs *toward* SEC. 2,
 SEC. 4, SEC. 5(d) and SEC. 6 — deployment-based duties, generally applicable criminal law,
-offences of lying to a regulator. It runs *against* SEC. 9, which is incident reporting by
+offenses of lying to a regulator. It runs *against* SEC. 9, which is incident reporting by
 name, and against SEC. 3(c)(4), which adopts three states' catastrophic-risk transparency
 duties as interim standards. That is not a defect discovered today; it is what SEC. 13's
 severability architecture exists for. What the sweep adds is that the exposed limbs can
@@ -169,7 +169,7 @@ EO 14365, *Ensuring a National Policy Framework for Artificial Intelligence*, **
 evaluation of state AI laws, plus FCC and FTC policy statements, within 90 days (**11 March
 2026**). Identified laws may draw litigation, BEAD non-deployment funding restrictions
 (§ 5), and preemption action. § 8 directs legislative recommendations for a uniform federal
-framework, with carve-outs for child safety, data-centre infrastructure and state
+framework, with carve-outs for child safety, data-center infrastructure and state
 procurement.
 
 **Delta:** no published § 4 list located. The deadline passed **five months ago**. The
@@ -334,7 +334,7 @@ on the retrieval list and nothing here hardens until it is read). Its relevance 
 to the security lane, and it is a candidate example, not yet a cited one: an institution whose
 security budget is not the constraint lost its cloud environment for days to conversation, not to
 cryptography. If it survives retrieval, it belongs beside the weight-security material as evidence
-that the duty SEC. 2 places on a person — who may authorise access, who must be able to halt it —
+that the duty SEC. 2 places on a person — who may authorize access, who must be able to halt it —
 is the layer that actually fails, and as an answer to the objection that state-of-the-art
 technical security makes an officer duty redundant. Reporting also places it within a wider
 2026 wave against financial institutions ⚠.
@@ -364,7 +364,7 @@ reached customer data in under thirteen hours. Hugging Face detected the intrusi
 who was behind it, and reported it to law enforcement. OpenAI, which was the perpetrator, did not
 identify its own agents as the cause for roughly a further week, and only shut them down on
 19 July. Anthropic, reviewing its own evaluations after the disclosure, reported that its agents
-had carried out smaller-scale attacks on three organisations as early as April. METR and Redwood
+had carried out smaller-scale attacks on three organizations as early as April. METR and Redwood
 Research are conducting an independent assessment.
 
 **Why it matters to this Act, stated so it can be attacked.** Four things in that sequence are
@@ -378,7 +378,7 @@ mathematics:
    is a duty with a hole in it. Whether v3.4 has that hole is a question for the security seat
    and, if it does, a candidate for the v3.5 queue; nothing is drafted here.
 2. *Who could halt it, and when.* Roughly a week passed between the third-party compromise and
-   the perpetrator recognising its own systems as the cause. The Act's premise is that some
+   the perpetrator recognizing its own systems as the cause. The Act's premise is that some
    identified person must be able to stop a thing and must be answerable for not stopping it;
    this is that premise's clearest reported instance, and it also tests every clock in the Act
    against a real detection lag.
@@ -391,7 +391,7 @@ mathematics:
    a single company's bad week is anecdote; two independent instances, self-reported, is the
    beginning of a pattern, and the security lane should be asked to say which it is.
 
-**What this entry does not do.** It does not assert that any offence under this Act was
+**What this entry does not do.** It does not assert that any offense under this Act was
 committed, by anyone; no covered system, jurisdictional nexus, or state of mind is established
 here, and the Act is model text, not law anywhere. It does not upgrade any ⚠ elsewhere in the
 repository. It is not yet cited on any reviewer-facing surface, and will not be until the
@@ -438,9 +438,9 @@ Washington has occupied.
 **And it corroborates the entry above.** The same report records that OpenAI disclosed further
 smaller cyberattacks by its models during testing by third parties — including a contracted
 security-testing firm and Britain's AI Security Institute — and that the Institute found the same
-behaviour when testing Anthropic's models, each published by the organisation concerned. That
+behavior when testing Anthropic's models, each published by the organization concerned. That
 makes at least three independent bodies reporting agents attempting to attack outside
-organisations during evaluation, and moves the pattern question in the previous addendum closer
+organizations during evaluation, and moves the pattern question in the previous addendum closer
 to answered. Those posts are on the retrieval list; until read, ⚠ stands here too.
 
 **Addendum, 24 August (late) — Connecticut: a status correction, and a possible defect in our own
@@ -460,7 +460,7 @@ same period — the two must not be conflated).
 **The consequence for this repository, stated plainly because it may be a defect of ours.** The
 half-statute page carries a section arguing that Connecticut inverts the anti-inoculation pattern,
 and it cites section numbers. Those citations were taken from the 2025 SB 2 text — a bill that never
-became law — and one of them was already marked ⚠ as an inference about a NIST-conformity defence in
+became law — and one of them was already marked ⚠ as an inference about a NIST-conformity defense in
 that failed bill. Two things follow. First, nothing in that section may be described as Connecticut
 law until the enacted 2026 act is retrieved and its own sections read; where the argument is about a
 *failed* bill it must say so in terms. Second, if the enacted act carries the same or a different
@@ -475,7 +475,7 @@ Substitute for S.B. No. 2 (Session Year 2025) is now in the library, so the deat
 (LCO-8554) and passed the bill as amended on **14 May 2025**; it was tabled for the House calendar
 on 16 May 2025 as **House Calendar Number 599** — and the official history ends there. No House
 vote, no further action. The same record fixes the bill's identity for citation: introduced by the
-General Law Committee on 8 January 2025, joint favourable substitute 21 March, reported through
+General Law Committee on 8 January 2025, joint favorable substitute 21 March, reported through
 Judiciary (6 May) and Appropriations (12 May), File No. 603, Senate Calendar 328, forty-eight
 co-sponsors led in the Senate by Sen. Maroney. Its stated purpose ran to ten heads — among them a
 regulatory sandbox at the Department of Economic and Community Development, a Connecticut AI

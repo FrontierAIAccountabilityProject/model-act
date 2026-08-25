@@ -1,6 +1,6 @@
 # Already a crime, if you are a person
 
-*SEC. 5 of this Act creates five offences. A reasonable reader asks whether they are novel, or
+*SEC. 5 of this Act creates five offenses. A reasonable reader asks whether they are novel, or
 harsh, or the sort of thing a legislature has never asked of anybody. **The answer is that all
 five are already crimes in the United States, for ordinary people, today** — most of them with
 heavier maximum penalties than this Act proposes, several with no requirement of intent at all,
@@ -38,12 +38,12 @@ frontier developer for the decision to release.** The law reaches down, not up.
 ---
 ## The five limbs, and the statute that already reaches you
 
-| SEC. 5 offence | Already a crime for a natural person under | Maximum | Intent needed? |
+| SEC. 5 offense | Already a crime for a natural person under | Maximum | Intent needed? |
 |---|---|---|---|
-| **Shipping without validation** | 21 U.S.C. § 331 with § 333(a)(1) — introducing an adulterated or misbranded article into interstate commerce | 1 year; **3 years** with intent to defraud or mislead (§ 333(a)(2)) | **None.** A strict-liability misdemeanour |
-| **Operating uncontrolled autonomous access that causes a breach** | 18 U.S.C. § 1030 — the Computer Fraud and Abuse Act | 1–10 years per count, enhanceable | Knowledge of unauthorised access; **no injury or proven loss required** |
+| **Shipping without validation** | 21 U.S.C. § 331 with § 333(a)(1) — introducing an adulterated or misbranded article into interstate commerce | 1 year; **3 years** with intent to defraud or mislead (§ 333(a)(2)) | **None.** A strict-liability misdemeanor |
+| **Operating uncontrolled autonomous access that causes a breach** | 18 U.S.C. § 1030 — the Computer Fraud and Abuse Act | 1–10 years per count, enhanceable | Knowledge of unauthorized access; **no injury or proven loss required** |
 | **Failing to report** | 18 U.S.C. § 4 — misprision of felony | **3 years** | Knowledge plus an affirmative act of concealment |
-| **Lying to the State** | 18 U.S.C. § 1001 — false statements | **5 years** | Knowingly and wilfully. **No oath required** |
+| **Lying to the State** | 18 U.S.C. § 1001 — false statements | **5 years** | Knowingly and willfully. **No oath required** |
 | **Destroying or withholding records** | 18 U.S.C. § 1519 — destruction or falsification of records | **20 years** | Knowingly, with intent to impede — **and no investigation need yet exist** |
 
 **Read the right-hand columns before the left.** The heaviest penalty in the table is not for
@@ -63,8 +63,8 @@ jurisdiction.
 imprisoned for not more than one year or fined not more than \$1,000, or both."*
 
 **No mental state appears in that sentence, and none is required.** This is the strict-liability
-public-welfare misdemeanour that *Dotterweich* (1943) and *Park* (1975) built the responsible
-corporate officer doctrine on top of — and it is the statute this Act is modelled on. A person who
+public-welfare misdemeanor that *Dotterweich* (1943) and *Park* (1975) built the responsible
+corporate officer doctrine on top of — and it is the statute this Act is modeled on. A person who
 introduces an adulterated article into commerce commits a federal crime whether or not they knew,
 intended, or were personally careless.
 
@@ -75,20 +75,20 @@ industry a legislature has got round to.
 
 ### 2. Operating uncontrolled autonomous access that causes a breach
 
-The Computer Fraud and Abuse Act reaches unauthorised access as such. [The
+The Computer Fraud and Abuse Act reaches unauthorized access as such. [The
 gallery](./the_same_conduct.md) sets out what that has meant in practice for five individuals:
 announced exposure from ten years to four hundred and forty, sentences up to forty-one months, and
 in not one case any physical injury or, mostly, any proven loss. One defendant was prosecuted for
 reading a page a company had published by accident. And the construction is settled and old: since *United
 States v. Morris*, 928 F.2d 504 (2d Cir. 1991), "intentionally" has attached to the access, not
-the damage — a benign purpose is no defence
+the damage — a benign purpose is no defense
 ([the gallery's escape section](./the_same_conduct.md#when-the-escaped-thing-was-the-crime)).
 
-**On the misuse defence.** This Act excuses a developer where a third party misused the system —
+**On the misuse defense.** This Act excuses a developer where a third party misused the system —
 *unless the controls against that class of misuse were simply absent.* That carve-out is not an
 invention either. It is how the law already treats a person who leaves the means of harm
 unsecured: the intervening wrongdoer does not break the chain where the defendant's own duty was to
-guard against exactly that wrongdoer. Negligent-storage and entrustment offences run on the same
+guard against exactly that wrongdoer. Negligent-storage and entrustment offenses run on the same
 logic, and so does the ordinary rule that foreseeable criminal misuse is not a superseding cause.
 
 ### 3. Failing to report
@@ -106,11 +106,11 @@ fitting provision rather than another borrowing.
 
 Reporting duties enforced by criminal penalty against ordinary individuals are unremarkable
 elsewhere too: leaving the scene of an accident, mandatory abuse reporting in most states, and
-failure to file a tax return (26 U.S.C. § 7203, a misdemeanour).
+failure to file a tax return (26 U.S.C. § 7203, a misdemeanor).
 
 ### 4. Lying to the State
 
-18 U.S.C. § 1001: five years, for knowingly and wilfully making a materially false statement in any
+18 U.S.C. § 1001: five years, for knowingly and willfully making a materially false statement in any
 matter within federal jurisdiction. **No oath. No proceeding. No requirement that anyone relied on
 it.** An ordinary person who gives a false answer to a federal investigator has committed a
 five-year felony.
@@ -132,7 +132,7 @@ SEC. 5(d) of this Act asks less than § 1001 already asks of everyone.
 concluded that the destruction of a record can be as grave as the underlying wrong — and that the
 duty must bite before an investigation exists, or it bites too late to matter.
 
-This Act's SEC. 12 retention rule, and its records offence, ask for **less** than § 1519 already
+This Act's SEC. 12 retention rule, and its records offense, ask for **less** than § 1519 already
 asks. And the Act's privilege position is the conservative one: privilege is preserved; facts
 remain reachable. The rule that a fact does not become privileged by being written down in a
 lawyer's presence is not this project's innovation.
@@ -146,7 +146,7 @@ extension of the criminal law into an industry that cannot bear it.
 
 **Every limb of SEC. 5 already exists, aimed at individuals, mostly with heavier maxima, and one of
 them with no intent requirement whatsoever.** A person who mislabels a jar is inside a
-strict-liability federal offence. A person who shreds a document in contemplation of a federal
+strict-liability federal offense. A person who shreds a document in contemplation of a federal
 matter faces twenty years. A young man who downloaded articles he was entitled to read faced a
 public figure of thirty-five.
 
@@ -186,7 +186,7 @@ cannot yet be committed at the frontier, which is the finding.
 **4. Lying to the State.** **Allegation only, and this file says so.** Florida's complaint pleads
 concealment and deception; it is civil, contested and unadjudicated
 ([enforcement record § 1](../research/state_enforcement_record_2026.md)). The convicted analogue of
-the conduct class — a product's behaviour under regulatory test, misrepresented to the state — is
+the conduct class — a product's behavior under regulatory test, misrepresented to the state — is
 Schmidt at [the gallery](./the_same_conduct.md#when-the-escaped-thing-was-the-crime), seven years.
 
 **5. Destroying or withholding the records.** A documented event, treated as accidental: the
@@ -197,7 +197,7 @@ federal answer for a person who does it on purpose.
 
 **What the column shows.** For four of the five limbs the record already contains the conduct
 class, documented; for the fifth it contains a live allegation. The objection this file answers —
-that the five offences are exotic — now has a factual sibling: the conduct is not hypothetical
+that the five offenses are exotic — now has a factual sibling: the conduct is not hypothetical
 either.
 
 ---

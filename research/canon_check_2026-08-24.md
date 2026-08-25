@@ -2,7 +2,7 @@
 
 *The maintainer asked the supervisor's question: what is this project missing that is foundational
 — invisible from inside, obvious to any outsider trained in the adjacent fields? This file is the
-answer of a first pass: the works an examiner from each neighbouring discipline would expect to
+answer of a first pass: the works an examiner from each neighboring discipline would expect to
 find engaged, checked against the repository by search, with the misses stated plainly. House
 rules govern everything below. **No work listed here is relied on anywhere in this project until
 it is in hand and read** (E22/E32); citations given are best-knowledge and flagged for
@@ -62,7 +62,7 @@ Procedures Manual's Park-referral criteria at table-of-authorities n.6; *DeCoste
 *Hong*). The academic layer above it is thin:
 
 - **Brickey** — the corporate criminal law treatise author, whose food-and-drug officer-liability
-  articles are the RCO literature's centre of gravity *(specific works to identify on
+  articles are the RCO literature's center of gravity *(specific works to identify on
   retrieval)*.
 - **Norman Abrams, "Criminal Liability of Corporate Officers for Strict Liability Offenses," 28
   UCLA L. Rev. 463 (1981)** *(verify)*.
@@ -78,7 +78,7 @@ management-based regulation backed by criminal law — and the theory shelf is a
   where criminal liability sits atop escalating engagement. The Act's
   commencement-and-standards sequencing is pyramid-shaped and should say so or say why not.
 - **Fisse & Braithwaite, *Corporations, Crime and Accountability* (1993)** *(verify)* — the
-  accountability-model argument for reaching individuals inside organisations.
+  accountability-model argument for reaching individuals inside organizations.
 - **Coglianese & Lazer, "Management-Based Regulation," 37 Law & Soc'y Rev. 691 (2003)**
   *(verify)* — names the genre SEC. 12 belongs to; Coglianese has also written directly on
   AI-era regulation.
@@ -104,7 +104,7 @@ records duties) or sharpen an objection, and either outcome strengthens the file
 ## VII. The objection registers to pre-hold
 
 - **Husak, *Overcriminalization* (2008)** *(verify)* — the academic form of "not another crime."
-  The Act's answers (one offence family, due-care floor, no prior restraint) should be put
+  The Act's answers (one offense family, due-care floor, no prior restraint) should be put
   against Husak's criteria explicitly, in known objections, once the work is in hand.
 - **§ 2.05** (above) is the other half of this register.
 
@@ -114,7 +114,7 @@ Deterrence economics is cited and worked (Becker 1968; Gneezy & Rustichini 2000;
 companion n.19 and audit record §D). MPC § 7.06 is engaged with its retrieval limits disclosed.
 The Park-referral criteria, the modern case spine, and the state environmental-RCO literature
 are held. The gap is not the doctrine's plumbing; it is the scholarly canon around it — the
-difference between a brief that wins and a brief the profession recognises as one of its own.
+difference between a brief that wins and a brief the profession recognizes as one of its own.
 
 ## IX. Standing rule for this file
 

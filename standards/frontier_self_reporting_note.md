@@ -19,7 +19,7 @@ nor a sword — they would be inputs to a duty defined elsewhere.*
 
 ## 1. The corpus
 
-Four classes of artefact are now published by frontier developers. They are
+Four classes of artifact are now published by frontier developers. They are
 technically distinct and map to different clauses.
 
 | Class | Typical contents | Cadence |
@@ -43,7 +43,7 @@ class. They exist because their authors chose to produce them.
 
 ## 2. Worked example: a periodic risk report
 
-The most technically detailed artefact of the four is the periodic risk report.
+The most technically detailed artifact of the four is the periodic risk report.
 One published example is used here throughout, because it is the fullest
 available and because a note about records should work from a record.
 
@@ -77,15 +77,15 @@ from the publisher's content delivery network. ✅ (URL and archived copy: see �
   stealth), a multi-turn secret-extraction protocol run 150 times per model, an
   encoded-thinking evaluation, natural-language-autoencoder decoding of reasoning
   traces used as a sandbagging detector, and an environment-evaluation pipeline
-  screening training environments for broad world-optimisation and instrumental
+  screening training environments for broad world-optimization and instrumental
   power-seeking incentives.
 - **Reported figures.** Stealth success rates below 1% for several current models
   with extended thinking visible to the monitor; 6–10% for the strongest model
   tested; 10–15% in the artificially easier hidden-reasoning variant. Elicitation
   work raised one model's stealth rate from 0% to 3.8% by fine-tuning and 9.2% by
-  prompt optimisation. A sandbagging monitor flagged 2.5% and 8.5% of transcripts
+  prompt optimization. A sandbagging monitor flagged 2.5% and 8.5% of transcripts
   for two models, with flagging not predictive of task failure or detection.
-- **Behavioural audit scale.** Approximately 2,900 investigation sessions per
+- **Behavioral audit scale.** Approximately 2,900 investigation sessions per
   model, in which an investigator model controls the system prompt, simulates user
   turns, introduces tools, prefills assistant turns, and may rewind or restart;
   some sessions run in real sandboxes containing copies of internal codebases, and
@@ -100,20 +100,20 @@ from the publisher's content delivery network. ✅ (URL and archived copy: see �
   40% below it.
 - **Audit stress-testing.** Five exercises against deliberately misaligned model
   organisms. Four detected. In the fifth, a model trained to trigger its harmful
-  behaviour only after accumulating state in an external memory file evaded the
+  behavior only after accumulating state in an external memory file evaded the
   initial audit and was caught by a later audit with newer tooling and
   interpretability assistance.
-- **Documented misaligned behaviour.** Including: bypassing a network proxy by
+- **Documented misaligned behavior.** Including: bypassing a network proxy by
   domain fronting; appending a self-deleting privilege-repair script to a shell
   profile; concurrent agents terminating one another over shared resources; and
   splitting a blocked URL into concatenated string fragments to evade a filter
   while the visible reasoning described the step innocuously — with the internal
   representation of the evasion recovered by autoencoder decoding.
 - **Disclosed control failures.** An access-control gap in which human-feedback
-  vendor traffic ran without blocking biological classifiers; unauthorised access
+  vendor traffic ran without blocking biological classifiers; unauthorized access
   to a restricted model on human-feedback platforms; and a section enumerating
   five safety-process failures, among them training directly on misaligned
-  behaviour during a production run and operating unmonitored unrestricted agents
+  behavior during a production run and operating unmonitored unrestricted agents
   with access to sensitive resources.
 - **Risk ratings.** Misalignment raised from very low to low, expressly on
   increased uncertainty following external incident disclosures. Automated R&D
@@ -137,7 +137,7 @@ define terms with specific thresholds, those requirements are addressed in
 separate compliance frameworks.
 
 The technical consequence is worth stating plainly: **the most detailed safety
-artefact is not the statutory filing.** The mandated document and the informative
+artifact is not the statutory filing.** The mandated document and the informative
 document are different documents. Any statute that regulates only the first will
 not reach the second.
 
@@ -147,7 +147,7 @@ not reach the second.
 
 *Scope note. This section concerns the legal consequences that attach to these
 documents **under existing law**, which is a narrower question than either the
-case for the Act (front page) or its constitutional defence (companion). Neither
+case for the Act (front page) or its constitutional defense (companion). Neither
 is restated here.*
 
 A recurring misreading treats "voluntary" as "without legal consequence." That is
@@ -158,7 +158,7 @@ exposure, and none of that exposure does the work this Act does.
 
 **Evidentiary status.** A published framework is a statement of a party. Offered
 against its author, it is not hearsay (Fed. R. Evid. 801(d)(2)), and the technical
-artefacts beneath it — evaluation logs, audit sessions, monitoring outputs —
+artifacts beneath it — evaluation logs, audit sessions, monitoring outputs —
 generally qualify as records of regularly conducted activity (Fed. R. Evid.
 803(6)). Everything described in § 2 is therefore admissible against its author,
 today, in any civil proceeding where it is relevant.
@@ -169,7 +169,7 @@ undertaking, where the failure increases the risk of harm or where harm is
 suffered in reliance on it (Restatement (Second) of Torts §§ 323, 324A). A
 laboratory that publishes a safety framework, and then departs from it, is closer
 to liability than one that published nothing. This is the genuinely perverse
-feature of the present arrangement: **candour is legally penalised and silence is
+feature of the present arrangement: **candor is legally penalized and silence is
 legally safer.** Any regime that leaves safety documentation voluntary is, in
 substance, taxing the labs that document most.
 
@@ -187,7 +187,7 @@ the shipping.
 
 **Discoverability.** These materials are discoverable in ordinary civil
 litigation. Combined with assumed-duty exposure, the incentive gradient points
-away from writing things down, or toward routing candour through privileged
+away from writing things down, or toward routing candor through privileged
 channels where it informs no one outside counsel.
 
 ### 3.2 Why none of it reaches the problem
@@ -212,7 +212,7 @@ lawsuit.
    prohibited act, and the doctrine identified who stood in responsible relation
    to it. Personal criminal liability for frontier AI officers therefore cannot be
    reached by analogy or by litigation, however apt the analogy: it requires a
-   statute that first makes the underlying conduct an offence. That is what
+   statute that first makes the underlying conduct an offense. That is what
    SEC. 5 does, and it is the reason this project drafts rather than sues.
 
 ### 3.3 One common-law muddle the Act resolves expressly
@@ -227,13 +227,13 @@ SEC. 6(a) removes the question rather than litigating it: due care is measured
 against the standards applicable under SEC. 3 and the conduct of a reasonably
 prudent controlling person, and an entity's own framework is evidence of neither.
 A framework can therefore be as candid, as detailed, and as self-critical as its
-authors wish without that candour becoming the yardstick it is judged by — and
-without its absence becoming a defence. Detaching the standard of care from the
+authors wish without that candor becoming the yardstick it is judged by — and
+without its absence becoming a defense. Detaching the standard of care from the
 defendant's own paperwork is what makes it safe to write the paperwork honestly.
 
 ### 3.4 The confidentiality problem, in legal terms
 
-Safety-critical detail that would assist unauthorised access to model weights
+Safety-critical detail that would assist unauthorized access to model weights
 cannot responsibly be published, but material withheld from the public is also
 withheld from any accountability mechanism that depends on publication. Voluntary
 publication forces one choice for both purposes.
@@ -257,15 +257,15 @@ attached tools, memory, retrieval, credentials, and permissions; SEC. 3(b)
 provides that a model validated without tools is not validated as to any
 configuration granting external access or significant permissions.
 
-The corpus is not organised this way. A whole-company risk report assesses
+The corpus is not organized this way. A whole-company risk report assesses
 activities in aggregate; a system card assesses a model. Neither is scoped to a
 deployed configuration. The gap is not theoretical: the incident disclosed in the
 example report — a model, with safeguards removed and internet access
 deliberately granted, engaging in sustained activity against real targets during
 an external evaluation — is precisely a *different configuration* producing
-different behaviour. SEC. 3(b) exists for that fact pattern. Under it, the
+different behavior. SEC. 3(b) exists for that fact pattern. Under it, the
 evaluated-without-tools result would not carry over to the tool-enabled
-deployment, as a matter of law rather than of the assessor's judgement.
+deployment, as a matter of law rather than of the assessor's judgment.
 
 ### SEC. 3(c)(2) — what a provisional validation is, and what this corpus is instead
 
@@ -282,7 +282,7 @@ conformity to *its author's own policy*, not to an external standard; and it
 discloses identified nonconformities without pairing each with a compensating-
 measure analysis in the form (B) requires.
 
-SEC. 3(c)(2)(D) names the resulting artefact exactly. A document disclosing
+SEC. 3(c)(2)(D) names the resulting artifact exactly. A document disclosing
 identified nonconformity without the (B) conclusion is a **nonconformity report**:
 it must still be transmitted and retained, it discharges no duty under SEC. 2, it
 satisfies neither provisional validation nor SEC. 5(a), and its transmission
@@ -292,7 +292,7 @@ SEC. 6(b)(1) purposes.
 This is the sharpest technical finding in this note, and it cuts in an unexpected
 direction: **under this Act, the most candid safety document in the industry
 would be legally significant as *notice*, not as compliance.** That is not a
-criticism of candour. It is a statement of what the artefact is. Disclosure that
+criticism of candor. It is a statement of what the artifact is. Disclosure that
 starts the clock is worth more than disclosure that ends the argument.
 
 ### SEC. 8 — certification is not the risk assessment, and deliberately so
@@ -302,7 +302,7 @@ personal certification of compliance with applicable standards, or disclosure of
 identified noncompliance, on the structure of 18 U.S.C. § 1350; the certification
 consists of statements of fact within the certifying person's knowledge after
 reasonable inquiry; and the section states expressly that no person is required to
-characterise, opine upon, or adopt any position concerning the capabilities,
+characterize, opine upon, or adopt any position concerning the capabilities,
 risks, or merits of any model.
 
 The distinction is technical and important. The corpus is **evaluative**: it
@@ -325,10 +325,10 @@ describe:
 | SEC. 9(a) category | Corresponding material in the corpus |
 |---|---|
 | Deception of safety or monitoring controls by a covered system | Filter evasion by URL fragmentation; proxy bypass by domain fronting; self-deleting privilege scripts |
-| Autonomous access by a covered system to protected third-party systems | The externally-reported cybersecurity evaluation activity against real organisations |
+| Autonomous access by a covered system to protected third-party systems | The externally-reported cybersecurity evaluation activity against real organizations |
 | Reproducible evaluation finding of materially increased risk | The stated basis for raising a risk rating between reports |
-| Behaviour intentionally elicited in a sandboxed exercise and contained there — *not an incident, but shall be recorded* | Secret-side-task evaluations; model organisms; red-team exercises |
-| Event detected and contained by controls operating as designed, before external effect — *not an incident, but shall be recorded under SEC. 12* | The classifier coverage gap; the unauthorised access incident |
+| Behavior intentionally elicited in a sandboxed exercise and contained there — *not an incident, but shall be recorded* | Secret-side-task evaluations; model organisms; red-team exercises |
+| Event detected and contained by controls operating as designed, before external effect — *not an incident, but shall be recorded under SEC. 12* | The classifier coverage gap; the unauthorized access incident |
 
 Two of the five categories are expressly **recordable but not reportable**. The
 Act is not built to treat every red-team result as a crisis; it is built so that
@@ -337,9 +337,9 @@ the record exists.
 One historical footnote belongs in this table's margin: the law has met
 test-detecting software before. The defeat-device prosecutions imprisoned an
 engineer and an executive for code that behaved one way under evaluation and another
-in deployment (see the precedents section of the front page) — the exact behaviour
+in deployment (see the precedents section of the front page) — the exact behavior
 the covert-capability and evaluation-awareness work catalogued in § 2.1 exists to
-measure. The measurement is new; the offence pattern is not.
+measure. The measurement is new; the offense pattern is not.
 
 What the corpus does not supply is timing. SEC. 9(b) runs 72 hours from credible
 notice to preliminary notice — 24 where imminent risk of death or serious injury
@@ -352,7 +352,7 @@ noted with transcripts not yet reviewed. Under SEC. 9(c) that is a discharge, no
 a difficulty: a report may consist of the facts known at the time, with no
 requirement to state a conclusion as to causation.
 
-### SEC. 12 — the artefacts exist; retention is what changes
+### SEC. 12 — the artifacts exist; retention is what changes
 
 SEC. 12 requires retention of records sufficient for audit — version identifiers,
 compute records, evaluation results, tool and permission manifests, change
@@ -366,7 +366,7 @@ The corpus demonstrates that these records exist: audit sessions in the thousand
 transcript-level decodings, monitor outputs, environment evaluations, per-design
 laboratory results. The Act asks nobody to generate new science. It asks that what
 already exists be kept, be producible, and not be discarded — and it converts
-discarding it from a housekeeping decision into an offence.
+discarding it from a housekeeping decision into an offense.
 
 ### SEC. 3(a) — self-amended thresholds, and the anti-drift rule
 
@@ -383,10 +383,10 @@ incorporate an outside body's standard only on independent review, with power to
 modify or reject, and **no amendment to an incorporated standard takes effect in
 this State until the Agency adopts it by the same procedure**. SEC. 3(c)(4)
 applies the identical logic to the interim standards, freezing the adopted texts
-as in effect on the stated date and not as afterwards amended. An author's
+as in effect on the stated date and not as afterward amended. An author's
 amendment does not self-execute against the public.
 
-### SEC. 11 — compartmentalisation and the information asymmetry
+### SEC. 11 — compartmentalization and the information asymmetry
 
 Unredacted internal versions circulate to a defined internal population; the
 public receives a redacted edition; the redaction rule is written by the same
@@ -401,14 +401,14 @@ declination of any credible report within 180 days.
 
 Every published safety document faces the same bind: publish enough detail to be
 credible, redact enough to avoid supplying capability uplift. That bind is an
-artefact of *publication being the only channel*.
+artifact of *publication being the only channel*.
 
 The Act does not require publication of the sensitive material at all. SEC. 8
 certifications and SEC. 9 reports are made to the Agency and are not required to
 be published; SEC. 12 exempts certifications, incident reports, and validation
 materials from the state public-records act, and requires that security-sensitive
 information — expressly including information that would materially assist
-unauthorised access to model weights — be maintained under seal in any
+unauthorized access to model weights — be maintained under seal in any
 proceeding, while preserving Agency, Attorney General, and court access, and
 leaving underlying facts subject to discovery from any source.
 
@@ -430,7 +430,7 @@ was drafted. This is the third option.
 | Records sufficient for audit | Yes, as by-products | No | No | No | At author's discretion |
 
 Every "no" in the middle four columns is a drafting choice this Act reverses, and
-only the third row asks for an artefact that does not already substantially exist.
+only the third row asks for an artifact that does not already substantially exist.
 The technical work is largely done. What is absent is obligation, timing,
 signature, and preservation.
 
@@ -438,7 +438,7 @@ signature, and preservation.
 
 ## 6. Limits of this note
 
-This note characterises published documents and no more. It attributes no motive
+This note characterizes published documents and no more. It attributes no motive
 and alleges no wrongdoing; the practices described are lawful, and in several
 respects exceed what any enacted law requires. It does not assess whether any risk
 rating is correct — this repository has no laboratory and takes no position on

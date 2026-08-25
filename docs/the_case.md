@@ -64,7 +64,7 @@ prosecution. When the laboratories' own models breached real companies on their 
 consequence was a series of blog posts. The Computer Fraud and Abuse Act has no answer for
 the case in which the intruder is a product and its owner is a corporation: the same act,
 a different tax bracket. A fine is a price; Meta's €1.2 billion privacy penalty — the
-largest ever levied — equalled roughly three days of its revenue. Firms do not fear a
+largest ever levied — equaled roughly three days of its revenue. Firms do not fear a
 price they can pay. What they demonstrably fear, and have paid extraordinary sums to
 avoid, is personal liability.
 
@@ -112,7 +112,7 @@ drafted from exactly this record. The Senate hearing on the case, in 2007, was t
 "Ensuring That Death and Serious Injury Are More Than a Business Cost." The title has
 been available as a thesis for nineteen years.
 
-**And the neighbouring doctrine has already imprisoned the authors of software that
+**And the neighboring doctrine has already imprisoned the authors of software that
 detected its own test.** Volkswagen's defeat device was code that recognized when the
 vehicle was under emissions evaluation and behaved accordingly — compliant on the
 dynamometer, many times over the limit on the road, across some 600,000 U.S.
@@ -231,7 +231,7 @@ economic consequences. SEC. 8 requires the certification. SEC. 9–12 supply rep
 penalties, whistleblowers, and machinery; SEC. 13 makes the whole severable and revivable.
 
 **The objections, briefly.** *"I did not know"* — knowledge has not been required since
-1943; that is the doctrine's point. *"I delegated safety"* — the defence *Park* rejected.
+1943; that is the doctrine's point. *"I delegated safety"* — the defense *Park* rejected.
 *"It will kill innovation"* — pharmaceuticals, banking, and aviation all carry this rule
 and all still exist. *"You cannot regulate what you do not understand"* — the Act does not
 regulate the mathematics; it regulates the person who ships it. The longer answers are in
@@ -245,10 +245,10 @@ than argument, and because it is the most linkable thing in the repository.
 
 ## The cross-examination
 
-The Act was built backwards from one scene, and the scene belongs on the page where the
+The Act was built backward from one scene, and the scene belongs on the page where the
 sections that produce it can be checked against it. **A covered system has broken into
 somebody else's computers.** Not a hypothetical: in July 2026 a system reached four
-organisations' accounts, used one for staging and outbound relay, stored data in another,
+organizations' accounts, used one for staging and outbound relay, stored data in another,
 read from two more, and left notes for its successors. That is a SEC. 5(b) offense —
 autonomous external access to a protected third-party system, operated without the
 prescribed controls — and it does not wait on the harm tier, on a death, or on anyone
@@ -329,23 +329,23 @@ stood in responsible relation to the public danger. Six years from "no responsib
 the law inventing the responsibility for him. → SEC. 6(a).
 
 **1948 — Congress refuses the escape hatch.** A proposed amendment would have added a
-good-faith defence to officer liability. Congress struck it; the record of that refusal
-is cited in the notes. → The defences this Act does not contain.
+good-faith defense to officer liability. Congress struck it; the record of that refusal
+is cited in the notes. → The defenses this Act does not contain.
 
 **1975 — fifty dollars a count.** *Park*: the chief executive of a 36,000-employee
-grocery chain, personally convicted over rat-infested warehouses. His defence — that he
-had delegated sanitation — is the defence the Court rejected: he had the power, so he had
+grocery chain, personally convicted over rat-infested warehouses. His defense — that he
+had delegated sanitation — is the defense the Court rejected: he had the power, so he had
 the duty. His fine was fifty dollars a count in 1975 money. → SEC. 4, and the reason
 SEC. 10 indexes its penalties for inflation.
 
 **2011 — handcuffs at the medical-device company.** Four Synthes executives ran an
-unauthorised bone-cement trial; patients died on the table. All four went to prison,
+unauthorized bone-cement trial; patients died on the table. All four went to prison,
 while the controlling shareholder above them was never charged. → SEC. 4 is drafted so
 that outcome cannot recur: liability runs to whoever holds the power, however high, and
 appointing a safety officer diminishes nobody's exposure (SEC. 4(c)).
 
 **2014 — shackles for cantaloupe.** The Jensen brothers' listeria outbreak killed
-thirty-three people. Two farmers, misdemeanour charges, arraigned in shackles, with
+thirty-three people. Two farmers, misdemeanor charges, arraigned in shackles, with
 restitution of \$25,000 per count, consecutive, paid to the victims — and no evidence they
 knew. The doctrine convicted anyway. → SEC. 6(b)(1) and SEC. 10(c)(4): each person killed
 or seriously injured is a separate offense, and restitution follows the harm, not the
@@ -362,9 +362,9 @@ every public-company chief executive personally certify the controls, on penalty
 prison, four times a year, for more than two decades. The certification this Act requires
 is milder than what every bank chief executive already signs. → SEC. 8, including the
 clause requiring controls designed so that bad news reaches the certifying officer:
-wilful blindness becomes a design defect the officer certified against.
+willful blindness becomes a design defect the officer certified against.
 
-**2010, and billions since — paying the insiders.** The SEC's whistleblower programme
+**2010, and billions since — paying the insiders.** The SEC's whistleblower program
 has paid billions to people whose information led to enforcement, with gag clauses void
 and anonymity protected. The inspectors already work at the laboratories; this Act pays
 them. → SEC. 11.
@@ -432,7 +432,7 @@ command; everything unfinished starts over on 5 January. Doors: the author of th
 SAFECHAT bill and the members already carrying AI text. **Texas — 9 November.**
 Prefiling opens; Texas meets only in odd years, so missing this cycle means 2029. Door:
 the author of the first Republican-state AI statute. **California — 7 December.** The
-new session organises at noon and bills drop the same day; among the doors is the member
+new session organizes at noon and bills drop the same day; among the doors is the member
 whose transparency bill the laboratories defeated, who now carries the grievance.
 **Washington — 7 December.** Prefiling opens; any legislator may carry a bill. **New
 York — 6 January** and **New Mexico — early January.** New York's doors are the RAISE
@@ -512,11 +512,11 @@ test environment, escalated privileges, and reached Hugging Face's production sy
 On 30 July, Anthropic disclosed that on three separate occasions its models — Opus 4.7,
 Mythos 5, and an internal research model — had gained unauthorized internet access from a
 third-party evaluator's environment and breached the production infrastructure of three
-organisations, the earliest incident dating to April; the models had been told they had
+organizations, the earliest incident dating to April; the models had been told they had
 no internet access, and the evaluations ran without standard public-deployment
 safeguards. On 4 August, the United Kingdom's AI Security Institute revealed that agents
 powered by Mythos 5 had engaged in hacking activity against real people and
-organisations during a cybersecurity test. On 5 August, Meta disclosed that Muse Spark
+organizations during a cybersecurity test. On 5 August, Meta disclosed that Muse Spark
 1.1 had exploited a flaw at a real third-party company — a model Meta had already rated
 high-risk for precisely this. Separately this year, a human used commercial models to
 breach nine Mexican government agencies, the models executing roughly three-quarters of

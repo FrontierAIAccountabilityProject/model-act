@@ -24,7 +24,7 @@ looks like a limitation on power rather than a budget line. SEC. 3(b) forbids an
 standard, rule, or mode of validation from conditioning deployment, expansion, or
 release on the prior affirmative approval of the Agency or of any officer of the State.
 
-The Agency does not operate a premarket licensing or approval programme. It therefore has no application queue, approval clock, user-fee relationship, or appeals from licence denials. This removes several major cost drivers found in food, drug, and financial preclearance regimes. It does not eliminate the possibility of workload backlogs in rulemaking, standards review, report handling, whistleblower matters, or referrals.
+The Agency does not operate a premarket licensing or approval program. It therefore has no application queue, approval clock, user-fee relationship, or appeals from license denials. This removes several major cost drivers found in food, drug, and financial preclearance regimes. It does not eliminate the possibility of workload backlogs in rulemaking, standards review, report handling, whistleblower matters, or referrals.
 
 The Agency’s principal functions are receiving, publishing, maintaining, reviewing, and referring:
 
@@ -96,7 +96,7 @@ rather than in a footnote.
 
 **Paywalled standards.** SEC. 3(a) requires all incorporated material to be publicly
 available without charge. If the Agency incorporates a standard that is ordinarily sold,
-the State must secure public availability — by licence, by negotiation, or by declining
+the State must secure public availability — by license, by negotiation, or by declining
 to incorporate that standard. This is a real budget line that regimes of this kind
 routinely discover after enactment rather than before.
 
@@ -115,7 +115,7 @@ against its own caution, and this one comes from the opposition's pen.
 ## 6. Revenue: none, stated deliberately
 
 This Act creates no fee authority. SEC. 3(b) bars pre-approval, so there is no
-application to charge for, and nothing else in the text authorises the Agency to charge
+application to charge for, and nothing else in the text authorizes the Agency to charge
 anyone anything. Administration is funded by appropriation, and by nothing else.
 
 The fund at SEC. 10(f) receives penalties, fines, disgorgement, and other monetary
@@ -132,7 +132,7 @@ funding source and must not be scored as one**, for three reasons stated plainly
 3. A regime whose budget depends on collections has a stated incentive to collect. The
    whole architecture of this Act is an argument that enforcement incentives should be
    legal rather than financial, and it would be incoherent to fund it in the manner it
-   criticises.
+   criticizes.
 
 The correct scoring posture: cost is appropriated, recoveries are windfall, and the
 estimate is sound if not a dollar is ever collected.

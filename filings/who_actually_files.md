@@ -21,7 +21,7 @@ Docket FDA-2024-D-4488. Fifty-one comments. By what the filer is:
 | Companies | **10** |
 | Clinician and professional bodies | 10 |
 | Named private individuals | 13 |
-| Patient and public-interest organisations | **4** |
+| Patient and public-interest organizations | **4** |
 | Anonymous | 3 |
 
 **Twenty-one of fifty-one — a clear plurality — are the regulated industry or its associations.
@@ -39,7 +39,7 @@ and should not. That fifty-one is unusually low; **it is entirely ordinary**, wh
 ## 2. What was being decided in that room
 
 Not a technicality. The guidance concerns how AI-enabled devices are described, validated,
-labelled, monitored after release, and how much anyone downstream is entitled to know about the
+labeled, monitored after release, and how much anyone downstream is entitled to know about the
 model inside.
 
 Set that beside who is on the other end. From a Pew Research Center survey of 5,119 US adults,
@@ -83,7 +83,7 @@ such tools were open for comment for ninety days.
 **The format excludes.** [The field guide](./how_to_file_a_federal_comment.md) sets out what a
 useful comment requires: the docket number, the guidance line numbers, the relevant standards, and
 a proposed alternative. A trade association has staff who do this professionally. A patient
-organisation has one policy person. A member of the public has an afternoon and no idea that line
+organization has one policy person. A member of the public has an afternoon and no idea that line
 numbers are the currency.
 
 **And the incentive is asymmetric by construction.** A rule that costs an industry ten million
@@ -107,7 +107,7 @@ their most vulnerable. At each step it reaches more people, is understood by few
 further from anyone who chose anything.
 
 **The accountability moves upward and outward.** The user accepted the terms. The professional
-exercised judgement. The institution validated the deployment. The vendor integrated a component.
+exercised judgment. The institution validated the deployment. The vendor integrated a component.
 The developer disclosed what it chose to disclose. **At every step the answer to *who is
 responsible* is somebody further up — until you reach the top, where no statute is waiting.**
 
@@ -126,7 +126,7 @@ notes](./docket_fda_2024_d_4488_reading_notes.md), finding F1.*
 
 **This is not an argument that dockets are a sham**, and the corrective is not cynicism. Comments
 from patient bodies on this docket asked for algorithmic impact assessments and a public registry;
-clinician bodies asked for mandatory model cards and paediatric statements. Those are serious asks
+clinician bodies asked for mandatory model cards and pediatric statements. Those are serious asks
 made through the proper channel by people doing the work.
 
 **It is an argument about where a duty should sit.** A process that depends on the affected public
@@ -140,6 +140,6 @@ should not be conditional on it.**
 ---
 
 *Corrections to the project contact; they enter [the errata register](../ledger/errata.md) with the
-fix attached and permanent credit. The composition table is this project's categorisation of a
+fix attached and permanent credit. The composition table is this project's categorization of a
 public file and the judgment calls are listed where they are made — anyone who would draw the lines
 differently has improved this page.*

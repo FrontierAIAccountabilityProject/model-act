@@ -63,7 +63,7 @@ to follow the same laws as everyone else."*
 **Utah's AI Policy Act (2024, since narrowed).** ⚠ The first-mover state framework: disclosure
 duties plus a **learning laboratory** in which participants can negotiate **regulatory
 mitigation** — reduced exposure in exchange for supervised testing. Primary text on the
-retrieval list; characterisation held to the reporting until it lands.
+retrieval list; characterization held to the reporting until it lands.
 
 The sandbox is the honest half-statute: it says openly that the regulator will stand back. What
 it cannot do — what the SANDBOX Act's own sponsors say it does not do — is waive the general
@@ -215,7 +215,7 @@ duty; that allocation is *Park*'s, and it is this Act's.
 
 This text is public domain under CC0. Anything here may be taken, in whole or in part, without
 permission or attribution — including by a drafter who wants the vocabulary without the duty.
-That is the license working as intended, and partial adoption honestly labelled would be
+That is the license working as intended, and partial adoption honestly labeled would be
 progress. What this page pre-empts is the *claim that the part is the whole*. The central
 elements, published in advance so any borrowing can be measured against them:
 

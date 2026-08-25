@@ -16,7 +16,7 @@ research or from secondary reporting, with its citation, and not yet opened here
 failed; see the failures section, and do not use.
 
 *Compiled 22 August 2026. Valuations are approximate at that date and move daily; private
-valuations are softer than market capitalisations.*
+valuations are softer than market capitalizations.*
 
 ---
 
@@ -25,11 +25,11 @@ valuations are softer than market capitalisations.*
 
 *Recorded so this never needs repeating. Each quotation now published from the four documents
 taken in on 25 August was matched, programmatically, against text extracted from the source PDF
-itself, with whitespace, curly quotes and hyphenation normalised.*
+itself, with whitespace, curly quotes and hyphenation normalized.*
 
 **Result: every quotation verified accurate.** No misquotation was found on any published surface.
 
-**Three extraction artefacts caused false alarms, and are noted so a future check is not misread
+**Three extraction artifacts caused false alarms, and are noted so a future check is not misread
 as a failure:**
 
 1. **Dropped ligatures.** The Javorsky essay's PDF loses the "fi" ligature on extraction, so
@@ -38,14 +38,14 @@ as a failure:**
    The published wording follows the rendered document, which is correct.
 2. **Multi-column interleaving.** *The Lancet* report is three-column and the Kierans paper is
    two-column. A layout-preserving extraction interleaves the columns, so a sentence is broken by
-   text from a neighbouring column. Extract without layout preservation, or read the rendered
+   text from a neighboring column. Extract without layout preservation, or read the rendered
    page, before concluding a quote is wrong.
 3. **Footnote intrusion.** In the Lyness article, law-review footnotes interrupt the body text
-   mid-sentence on extraction. The misdemeanour quotation at 64 B.C. L. Rev. 298 is split this way
+   mid-sentence on extraction. The misdemeanor quotation at 64 B.C. L. Rev. 298 is split this way
    and is accurate as published.
 
 **Method, for repetition if ever needed:** extract with `pdftotext` (no `-layout` for multi-column
-sources), normalise whitespace and quotation marks, then substring-match each published quotation.
+sources), normalize whitespace and quotation marks, then substring-match each published quotation.
 The audit script is not committed; it is four lines and rewriting it is faster than maintaining it.
 
 
@@ -65,7 +65,7 @@ The audit script is not committed; it is four lines and rewriting it is faster t
 | **OpenAI** | *OpenAI Frontier* — enterprise agent product; agents that "do real work" | openai.com/index/introducing-openai-frontier | 2026 | ⚠ |
 | **Anthropic** | "As frontier AI models advance, we believe they will bring about transformative benefits for our society and economy." | anthropic.com/responsible-scaling-policy | updated 14 Aug 2026 | ✅ |
 | **Anthropic** | "Frontier AI models also, however, present new challenges and risks that warrant careful study and effective safeguards." | same | 14 Aug 2026 | ✅ |
-| **Anthropic** | *Frontier Red Team* — named programme | anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team | 19 Mar 2025 | ✅ |
+| **Anthropic** | *Frontier Red Team* — named program | anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team | 19 Mar 2025 | ✅ |
 | **Anthropic** | "We believe it would be good for the world to have the option to slow or temporarily pause frontier AI development." | anthropic.com/institute/recursive-self-improvement | 2026 | ⚠ |
 | **xAI** | "This Frontier AI Framework ('FAIF') outlines xAI's approach to policies for mitigation of significant risks associated with the development, deployment, and release of xAI's frontier AI models, such as Grok." | media.x.ai — *xAI Frontier Artificial Intelligence Framework* PDF | effective 30 Jun 2026 | ✅ |
 | **xAI** | "As xAI advances frontier model development, we continuously evaluate whether emerging risk domains meet our significance and severity thresholds, and update our control architectures accordingly." | same | 30 Jun 2026 | ✅ |
@@ -99,7 +99,7 @@ All from proxy statements, SEC filings, company governance pages, or named repor
 
 | Company | Fact | Source | Grade |
 |---|---|---|---|
-| OpenAI | OpenAI Foundation controls OpenAI Group PBC; "appoints all members of the board of directors of OpenAI Group and can replace directors at any time"; Foundation ≈26%, Microsoft ≈27%, employees and investors ≈47%; recapitalisation closed 28 Oct 2025 | openai.com/our-structure | ✅ |
+| OpenAI | OpenAI Foundation controls OpenAI Group PBC; "appoints all members of the board of directors of OpenAI Group and can replace directors at any time"; Foundation ≈26%, Microsoft ≈27%, employees and investors ≈47%; recapitalization closed 28 Oct 2025 | openai.com/our-structure | ✅ |
 | Anthropic | Delaware PBC; Long-Term Benefit Trust holds Class T stock electing board members, to a majority within four years | anthropic.com/news/the-long-term-benefit-trust (19 Sep 2023) | ⭘ (current trustee composition unconfirmed) |
 | Anthropic | $30B Series G at **$380B** post-money, led by GIC and Coatue | anthropic.com newsroom, 12 Feb 2026 | ⭘ |
 | xAI | SpaceX combined with xAI, early Feb 2026, ≈$1.25T combined | Bloomberg 2 Feb 2026; CNBC 3 Feb 2026 | ⭘ |
@@ -108,13 +108,13 @@ All from proxy statements, SEC filings, company governance pages, or named repor
 | Meta | "Because Mr. Zuckerberg controls a majority of our outstanding voting power, we are a 'controlled company'" — Meta's own 2026 proxy, **which prints no percentage** | sec.gov, meta-20260416 | ⭘ |
 | Meta | The **≈61%** figure is from a shareholder-proponent Notice of Exempt Solicitation, **not Meta's own disclosure** — cite as approximate with that caveat | sec.gov, r57250px14a6g | ⭘ |
 | Microsoft | Single share class, one vote per share; no controlling shareholder; institutional ownership ≈71% (holder percentages secondary) | charter; secondary aggregator | ⚠ on percentages |
-| NVIDIA | Jensen Huang, founder and chief executive; market capitalisation **$5.213T**, most valuable company | companiesmarketcap.com, Aug 2026 | ⭘ |
-| Amazon | Jeff Bezos, founder and executive chair; capitalisation topped **$3T** on 3 Aug 2026 | CNBC | ⚠ |
-| Oracle | Larry Ellison, founder, reported **40.6%** holder; co-CEOs Magouyrk and Sicilia since Sep 2025; capitalisation ≈**$421.9B** | Motley Fool 29 Jul 2026; companiesmarketcap.com | ⚠ on the stake |
-| Tesla | Musk largest individual holder at ≈**20%**; no super-voting class; capitalisation ≈$1.4T | Motley Fool, 9 Aug 2026 | ⭘ |
-| Palantir | Class F founder voting trust (Karp, Thiel, Cohen) engineered to just under half of total voting power regardless of economic stake; capitalisation ≈**$412B** (19 Aug 2026) | Palantir 2025 proxy, sec.gov; stockanalysis.com | ✅ (proxy) |
+| NVIDIA | Jensen Huang, founder and chief executive; market capitalization **$5.213T**, most valuable company | companiesmarketcap.com, Aug 2026 | ⭘ |
+| Amazon | Jeff Bezos, founder and executive chair; capitalization topped **$3T** on 3 Aug 2026 | CNBC | ⚠ |
+| Oracle | Larry Ellison, founder, reported **40.6%** holder; co-CEOs Magouyrk and Sicilia since Sep 2025; capitalization ≈**$421.9B** | Motley Fool 29 Jul 2026; companiesmarketcap.com | ⚠ on the stake |
+| Tesla | Musk largest individual holder at ≈**20%**; no super-voting class; capitalization ≈$1.4T | Motley Fool, 9 Aug 2026 | ⭘ |
+| Palantir | Class F founder voting trust (Karp, Thiel, Cohen) engineered to just under half of total voting power regardless of economic stake; capitalization ≈**$412B** (19 Aug 2026) | Palantir 2025 proxy, sec.gov; stockanalysis.com | ✅ (proxy) |
 | Databricks | Private; seven co-founders, Ghodsi CEO; **$5B** round closed 13 Aug 2026 at ≈**$190B**, led by Coatue | TechCrunch, 13 Aug 2026 | ⭘ |
-| CoreWeave | Public since 28 Mar 2025 (Nasdaq: CRWV); founders Intrator, Venturo, McBee; NVIDIA a shareholder ($2B added Jan 2026); capitalisation ≈$48.5B | en.wikipedia.org; companiesmarketcap.com | ⚠ |
+| CoreWeave | Public since 28 Mar 2025 (Nasdaq: CRWV); founders Intrator, Venturo, McBee; NVIDIA a shareholder ($2B added Jan 2026); capitalization ≈$48.5B | en.wikipedia.org; companiesmarketcap.com | ⚠ |
 
 ## 3. Compute
 
@@ -125,7 +125,7 @@ figures this project uses are Epoch AI estimates, taken from the dataset files h
 **Standing caution.** Two separate web retrievals of Epoch's published figures returned
 *different* mantissas for the same models (Grok 3 at 3.5 × 10²⁶ vs 4.6 × 10²⁶; GPT-4.5 at
 2.1 × 10²⁶ vs 3.8 × 10²⁶). The dataset files in hand are therefore the authority for any figure
-this project publishes, and no precise FLOP figure should be taken from a summarised fetch.
+this project publishes, and no precise FLOP figure should be taken from a summarized fetch.
 Robust across retrievals: Grok 3, Grok 4 and GPT-4.5 sit at a few × 10²⁶; Claude Opus 4 sits
 **near** the 10²⁶ line on a range (reported 5 × 10²⁵–2 × 10²⁶, tentative); GPT-4 ≈ 2 × 10²⁵;
 Claude 3.5 Sonnet ≈ 2.7 × 10²⁵. Epoch publishes no estimate for GPT-5 or Claude Opus 4.5.
@@ -176,7 +176,7 @@ person.
 
 **F7 — Two valuations in circulation lack a source.** Anthropic at ≈$965B and OpenAI at ≈$852B
 appear in the working research; the verified figures are Anthropic **$380B** (own newsroom,
-12 Feb 2026) and OpenAI ≈**$500B** implied at the October 2025 recapitalisation. The higher
+12 Feb 2026) and OpenAI ≈**$500B** implied at the October 2025 recapitalization. The higher
 figures may reflect later rounds this project has not opened. Until pinned, publish the verified
 figures with the higher ones flagged, never the reverse.
 
@@ -193,7 +193,7 @@ not undone by later amendment — and should be cited there rather than left as 
 
 Logged so the trail is visible: the two-twelves overlap was published as five companies and is
 **eight** (the five developers plus Microsoft, Amazon and NVIDIA); the compute-threshold
-comparison table labelled H.R. 9917 the "FRONTIER vehicle" when H.R. 9917 is the **AI Kill
+comparison table labeled H.R. 9917 the "FRONTIER vehicle" when H.R. 9917 is the **AI Kill
 Switch Act** and the FRONTIER Act is H.R. 9925. Both entered [the errata register](../ledger/errata.md).
 
 ## 6. The instruments — read in full, cited from coverage, pending
@@ -254,7 +254,7 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 |---|---|---|
 | Cal. SB 53 (Stats. 2025, ch. 138) | **Relevant provisions reproduced in the repository** | [interim standards](../standards/interim_standards.md) |
 | GAAIA discussion draft § 121 (4 Jun; not introduced) | Subsections (b) and (e) **pinned verbatim**; full-draft read unrecorded | [the record § C.2](../audit/record.md) |
-| FRONTIER Act, H.R. 9925, § 9 | Characterised; full-text read unrecorded | the record; [standing watch](../audit/standing_watch_2026-08-20.md) |
+| FRONTIER Act, H.R. 9925, § 9 | Characterized; full-text read unrecorded | the record; [standing watch](../audit/standing_watch_2026-08-20.md) |
 | *United States v. Park*, 421 U.S. 658 (1975) | Three burden passages **verified against the reported opinion, 22 Aug** (prima facie at 673–74; impossibility at 672–73; the two burdens at 673); full-opinion read pending before CURE 8 lands | [CURE 8](../audit/v3_5_cure_language.md); companion notes |
 | 18 U.S.C. § 1365(h)(3)–(4) | **Verified verbatim, 23 Aug; upgraded 25 Aug** — the LII page and its notes are now held as PDFs on the shelf, so the citation rests on a held primary rather than a single web read. Re-checked against the held copy: (h)(3) *"a substantial risk of death; extreme physical pain; protracted and obvious disfigurement; or protracted loss or impairment of the function of a bodily member, organ, or mental faculty"*, (h)(4) as drafted. Source of the section: Pub. L. 98–127 § 2 (13 Oct 1983), as amended through Pub. L. 107–307 (2002) | CURE 1 and its addendum |
 | 21 C.F.R. § 803.3(w) | **Verified via the live eCFR** | SEC. 1(b)(8); the CURE 1 addendum |
@@ -265,7 +265,7 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | DOJ release, Jensen guilty pleas (D. Colo.) | **Retrieved 23 Aug** (justice.gov, ⚠ R) | the gallery's escape section |
 | NPR, Schmidt sentencing (6 Dec 2017) | **Retrieved 23 Aug** (⚠ R) | the gallery's escape section |
 | NY S 10456 (Gounardes, 15 May 2026) | **Primary full text in hand, 23 Aug** (one-section bill, nysenate.gov page supplied) — fixes RAISE's citation: GBL Article 44-B, ch. 96 of 2026 | census queue |
-| 42 C.F.R. § 73.11 (select-agent security plans) | **Elements summarised from the eCFR, 23 Aug** (⚠ R); full-text read pending before any quotation beyond the summarised elements | [the fatals pass](../audit/v3_5_cure_language.md) (CURE 10, CURE 7) |
+| 42 C.F.R. § 73.11 (select-agent security plans) | **Elements summarized from the eCFR, 23 Aug** (⚠ R); full-text read pending before any quotation beyond the summarized elements | [the fatals pass](../audit/v3_5_cure_language.md) (CURE 10, CURE 7) |
 | Idaho H.B. 720 (2022), Idaho Code § 5-346 | **Operative sentence retrieved verbatim, 23 Aug** (legislature.idaho.gov PDF, ⚠ R) | CURE 19 |
 | Utah H.B. 249 (2024) | Identified via Liebman extract; text not opened | CURE 19 |
 | Tennessee SB 837 / HB 849 (114th G.A.) | Identified (trackbill; local coverage); **enrolled text not in hand** — capitol PDF blocks automated retrieval; pull manually | CURE 19 |
@@ -289,8 +289,8 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | Hustis & Gotanda — upgrade | **Introduction and Part I–II opening read** (pp. 169–73): the 80%/68% enforcement-wave estimates; *United States v. Dee*; the three-theories map. Body Parts III–VII unread | comparative § 5 addendum |
 | CRS-style compilation, "Enforcement of Federal Pollution Control Laws" | **Identified only** — the congress.gov capture renders unreadably small; the criminal-provision tables are visible as structure. Text edition wanted before any citation | — |
 | NY FOCUS Act (Gounardes, introduced 21 Aug 2026) | **Primary read in full 25 Aug** — drafting commission print 16298-02-6-1 (19 Aug) held on the shelf. Word test run and recorded: nil for *officer*, *director*, *executive*, *misdemeanor*, *felony*; the sole *natural person* is a data-protection carve-out; attestation and the knowing-violation standard both attach to the provider. Cited for: the registration and independent-study duty; § 39 enforcement; the finding that RAISE's surviving author wrote the same absence twice | census; press corpus § 6 |
-| H.R. 9333 (119th), AI Flaw Reporting and Security Enhancement Act | **Primary read in full (7 pp.), 25 Aug.** The GPO print's font encoding defeats text extraction; recovered by 300 dpi OCR and **cross-checked line by line against the govinfo bulk XML**, which confirmed § 2(e)(2) word for word. OCR artefacts corrected (*intelhgence*, *eases*, *pubhe*, *eroups*, *Edueation*, *(¢)*) are named in the library reading note. Cited for: the harm-and-intent-independent definition of "artificial intelligence flaw"; the national database; the nil result on *officer*, *certify*, *signature*, *penalty* | census; [who has to tell you § 4b](../standards/who_has_to_tell_you.md); open source packet |
-| Longpre, Zhu, Ezell & Ghosh et al., *FLARE-AI* (arXiv:2606.31567, ICML 2026) | **Read 25 Aug** — abstract, §§ 1, 3, 4.5, 5, 6 and Appendix A.4 in full; §§ 4.1–4.4 and Appendices B–D skimmed for structure. Cited for: "flaw reporting for AI is decades behind"; "an ecosystem coordination tool rather than a compliance reporting tool"; the § 4.5 strict-liability gap; the 49 experts across 32 organisations. Ghosh was written to 25 Aug; no connection implied and he is not a supporter | who has to tell you § 4b; open source packet; outreach |
+| H.R. 9333 (119th), AI Flaw Reporting and Security Enhancement Act | **Primary read in full (7 pp.), 25 Aug.** The GPO print's font encoding defeats text extraction; recovered by 300 dpi OCR and **cross-checked line by line against the govinfo bulk XML**, which confirmed § 2(e)(2) word for word. OCR artifacts corrected (*intelhgence*, *eases*, *pubhe*, *eroups*, *Edueation*, *(¢)*) are named in the library reading note. Cited for: the harm-and-intent-independent definition of "artificial intelligence flaw"; the national database; the nil result on *officer*, *certify*, *signature*, *penalty* | census; [who has to tell you § 4b](../standards/who_has_to_tell_you.md); open source packet |
+| Longpre, Zhu, Ezell & Ghosh et al., *FLARE-AI* (arXiv:2606.31567, ICML 2026) | **Read 25 Aug** — abstract, §§ 1, 3, 4.5, 5, 6 and Appendix A.4 in full; §§ 4.1–4.4 and Appendices B–D skimmed for structure. Cited for: "flaw reporting for AI is decades behind"; "an ecosystem coordination tool rather than a compliance reporting tool"; the § 4.5 strict-liability gap; the 49 experts across 32 organizations. Ghosh was written to 25 Aug; no connection implied and he is not a supporter | who has to tell you § 4b; open source packet; outreach |
 | Zhao, "AI's top startups are barely publishing their research", *Science* (27 Jul 2026) | **Read in full 25 Aug.** ⚠ secondary reporting a **bioRxiv preprint of 16 July that this project has not opened** — every figure carries that grade. Cited for: 317 unicorns, 2,077 publications, more than half with none, top 5% holding 90%+ of citations, OpenAI's eight prolific researchers; Ioannidis's question; Pierson's acceleration sentence; Ghosh's "blogification" point | press corpus § 5; known objections (acceleration); open source packet |
 | DLA Piper *AI Laws of the World*; Binns | **Still unread** — honest state; queued for the next scan | — |
 | 33 U.S.C. § 1319(c)(6) | **Retrieved verbatim, 23 Aug** (uscode.house.gov, ⚠ R) | [comparative § 5](../standards/comparative_officer_liability.md) |
@@ -308,7 +308,7 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 held in a private library folder. This list exists so the repository knows what the project holds
 without anyone opening the folder. One row per file; read-status lives in the tables above.*
 
-*The library was reorganised on 24 August under a prefixed reference scheme (BILL / ARTICLE /
+*The library was reorganized on 24 August under a prefixed reference scheme (BILL / ARTICLE /
 REPORT / HEARING / RECORD / LETTER / PRESS / NOTES / EVIDENCE), with an index file inside the
 folder and duplicates quarantined; rows below carry the new names. One defect fixed in the same
 pass: this table listed the Virginia SB 384 substitute twice.*
@@ -354,10 +354,10 @@ pass: this table listed the Virginia SB 384 substitute twice.*
 | HEARING_Shaping-Tomorrow-Future-of-AI_congress-gov.pdf | Serial 119-49, read in full 24 Aug |
 | HEARING_Federal-Government-Age-of-AI_congress-gov.pdf | Read in full, 24 Aug (second sitting) |
 | RECORD_Congressional-Record_2025-04-01_H1386.pdf | Read in full 24 Aug |
-| HEARING_US-Senate-Judiciary-Crime_Too-Big-to-Prosecute_S-Hrg-119-202_2025-07-16.pdf | **Read in full 25 Aug.** Body text (PDF pp. 1-31) recovered by a validated character decode of the shifted font encoding and quote-in-hand; appendix (PDF pp. 32-103) has no text layer and was read by OCR at the images' native 150 ppi, graded and **not publication-grade**. Decode map and artefact register in the reading note. The separate govinfo `-add1.pdf` package of submitted letters and statements is **not held** |
+| HEARING_US-Senate-Judiciary-Crime_Too-Big-to-Prosecute_S-Hrg-119-202_2025-07-16.pdf | **Read in full 25 Aug.** Body text (PDF pp. 1-31) recovered by a validated character decode of the shifted font encoding and quote-in-hand; appendix (PDF pp. 32-103) has no text layer and was read by OCR at the images' native 150 ppi, graded and **not publication-grade**. Decode map and artifact register in the reading note. The separate govinfo `-add1.pdf` package of submitted letters and statements is **not held** |
 | HEARING_US-Senate-Commerce-Science_Less-Hype-More-Help_S-Hrg-119-505_2026-03-03.pdf | **Read in part 25 Aug.** Four witnesses' spoken statements and Giannikopoulos's prepared statement decoded and read; ten senators' statements and Mark Muro's (Brookings) prepared statement **unread**. S. Hrg. number confirmed 25 Aug from the congress.gov landing page |
 | BILL_NY-S1169-B_Gonzalez_NY-AI-Act_LegiScan-PARTIAL-4of12_2025-01-08.pdf | **Incomplete capture: 4 pages of 12.** Sections 106-115 unopened, including section 110 "Audits". What is in hand settles that the bill is an algorithmic-discrimination act amending the civil rights law, not a frontier-audit bill, and that Gounardes is a co-sponsor. **Re-save owed** |
-| REPORT_Reinvent-Albany_NY-Senate-confirmation-vote-transparency_2025-12.pdf | Read 25 Aug for the passages cited. Clean text layer. Third-party, about confirmations rather than bills; carried into the census retrieval programme as a caution only |
+| REPORT_Reinvent-Albany_NY-Senate-confirmation-vote-transparency_2025-12.pdf | Read 25 Aug for the passages cited. Clean text layer. Third-party, about confirmations rather than bills; carried into the census retrieval program as a caution only |
 | BILL_US-S3699_Booker_Body-cameras-immigration-enforcement_introduced_2026-01-27.pdf | Cover and introduction line read 25 Aug. **Not an AI instrument.** Held only as evidence of a Senator's legislative interest; must never be cited as an AI precedent |
 | NOTES_Reading_SHrg119-202_Too-Big-to-Prosecute_2026-08-25.md | The citation set for the hearing, graded quotation by quotation, with the decode map at the top so no quotation has to be re-derived |
 | NOTES_Reading_New-intakes-batch-2_2026-08-25.md | The same discipline for the other four intakes of 25 Aug |
@@ -376,7 +376,7 @@ pass: this table listed the Virginia SB 384 substitute twice.*
 | Alabama AG press release, 24 Aug 2026 (alabamaag.gov) | **Read in full 25 Aug**, from the office's own site. Primary for the subpoena announcement, the authority cited, the conduct alleged, and the Attorney General's quoted words. ✅. **The subpoena itself is not public and nothing may be attributed to its text** |
 | TechCrunch, 24 Aug 2026, on the Alabama subpoena | ⚠ Secondary. Sole source for OpenAI's quoted response and for the link back to the fifteen-state letter. Not sought from OpenAI directly |
 | NOTES_Reading_Three-more-hearings-and-S1169-full_2026-08-25.md | The citation set for this batch, with the word test and the § 110 and § 114(2) quotations |
-| EVIDENCE_aisi-persona-avatar (withheld from description here) | Evidentiary artefact of the AISI incident's fake persona; never for publication |
+| EVIDENCE_aisi-persona-avatar (withheld from description here) | Evidentiary artifact of the AISI incident's fake persona; never for publication |
 
 *Rule, from the incident that created this section: when a file cites an instrument this table does
 not carry, the citation is the defect — add the row before the reliance.*

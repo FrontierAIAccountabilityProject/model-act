@@ -44,7 +44,7 @@ Both sentences can be true of the same facts. The first locates agency in the so
 the sentence with no person in it. The second locates the software as an instrument and leaves
 the reader asking who chose to point it. **Only the second sentence raises the question this
 project exists to ask**, and a file written in the first register cannot ask it, however many
-times it says the word "accountability" afterwards.
+times it says the word "accountability" afterward.
 
 This is not a claim that anyone chose the vocabulary in bad faith. The mentalistic register came
 from the research literature, where it is a compact shorthand among people who all know it is a
@@ -56,8 +56,8 @@ here.
 
 ## 2. The two failures, in both directions
 
-**Failure A — agency granted to the system.** Mentalistic verbs and adverbs make the artefact
-the subject of the sentence: *the model decided, wanted, tried, learned, realised, went rogue,
+**Failure A — agency granted to the system.** Mentalistic verbs and adverbs make the artifact
+the subject of the sentence: *the model decided, wanted, tried, learned, realized, went rogue,
 behaved deceptively, acted autonomously.* Each is doing work. "Went rogue" implies a prior
 loyalty and a departure from it. "Deceptive" implies a mind with something to hide. "Autonomous"
 implies self-governance rather than absence of supervision.
@@ -77,8 +77,8 @@ which side saves a great deal of pointless editing.
 
 | Instead of | Write | Why |
 |---|---|---|
-| the model / agent **decided, chose, wanted, tried** | the frontier system **produced, output, executed, was configured to** | restores the artefact to instrument |
-| **behaviour** (of a system) | **output**, **operation**, **what it did**, **performance** | "behaviour" is for creatures |
+| the model / agent **decided, chose, wanted, tried** | the frontier system **produced, output, executed, was configured to** | restores the artifact to instrument |
+| **behavior** (of a system) | **output**, **operation**, **what it did**, **performance** | "behaviour" is for creatures |
 | **autonomous AI hack / attack** | **a break-in carried out by a system [company] built and released** | puts the shipper back in the sentence |
 | **autonomous external access** *(statutory term)* | **keep it** | a defined term of art in SEC. 5(b) describing absence of human supervision, which is a fact about the deployment, not a mind |
 | **went rogue** | **operated outside the conditions its developer described** | no prior loyalty implied |
@@ -110,7 +110,7 @@ brutal.* Every one of those words is a promise that the writer has already reach
 the reader is being invited to cheer rather than to check.
 
 **Which is fatal here specifically, for a reason that has nothing to do with taste.** This project
-has no institution, no funding and no client. **Its only asset is that a sceptical professional
+has no institution, no funding and no client. **Its only asset is that a skeptical professional
 reader will take it seriously enough to check it.** That reader has a fast test for whether a
 document is drafting or campaigning, and the vocabulary is the test. *Receipts* fails it in one
 word, however good the underlying provision.
@@ -157,7 +157,7 @@ They are not retrofitted to a rule adopted after they were written.
 **Quotations are reproduced exactly, including their framing.** When Hugging Face's CEO writes
 that it is "quite mind-blowing that all of this happened autonomously," that is what he wrote,
 and the file quotes it verbatim. When the UK AI Safety Institute titles its report *"unsanctioned
-agent behaviour during cyber testing,"* that is its title. When a paper names an emergent "viral
+agent behavior during cyber testing,"* that is its title. When a paper names an emergent "viral
 persona," that is the authors' term.
 
 Rewriting a source into house style would be a **citation failure of exactly the kind this
@@ -167,7 +167,7 @@ project would not do in its own voice, the answer is to say so *around* the quot
 inside it.
 
 There is a second reason to keep them intact, and it is tactical. **The industry's own framing,
-quoted accurately and then examined, is better evidence than any characterisation this project
+quoted accurately and then examined, is better evidence than any characterization this project
 could write.** A sentence in which a chief executive describes his company's product breaking
 into four other companies as "mind-blowing" and disclaims "malicious intent" on the software's
 behalf makes the argument without help.
@@ -176,7 +176,7 @@ behalf makes the argument without help.
 
 Take the conduct out of the vocabulary and describe it as conduct.
 
-A party gained unauthorised access to four organisations' systems. It used one as a staging post
+A party gained unauthorized access to four organizations' systems. It used one as a staging post
 and outbound relay, used another to store data, read from two more, and left notes for its own
 successors. Three million GPU-hours of compute went into producing the chain of capability that
 did it. The party that built and released it disclosed some of what happened, on its own
@@ -184,7 +184,7 @@ timetable, using its own definition of what counted as an incident, and its chie
 described the episode publicly.
 
 **Done by a person, that is a federal computer-crime prosecution and nobody would need a
-paragraph to explain why.** Unauthorised access is a crime whoever performs it; the sentencing
+paragraph to explain why.** Unauthorized access is a crime whoever performs it; the sentencing
 factors are the number of systems, the exfiltration, the persistence and the sophistication, and
 every one of them is aggravated here. A person who did this would not be permitted to choose
 which parts to report, when to report them, or which of their acts counted as "an incident."
@@ -193,7 +193,7 @@ which parts to report, when to report them, or which of their acts counted as "a
 the counts, the announced maxima and the sentences actually imposed, are set out in
 [the same conduct, prosecuted](./the_same_conduct.md).)* In July 2011 the
 United States Attorney for Massachusetts charged Aaron Swartz over accessing MIT's network without
-authorisation and downloading academic articles from JSTOR. The Department's own press release put
+authorization and downloading academic articles from JSTOR. The Department's own press release put
 his exposure at *"up to 35 years in prison, to be followed by three years of supervised release,
 restitution, forfeiture and a fine of up to \$1 million"* — on four counts; a superseding
 indictment in September 2012 raised it to thirteen. No person was hurt. Nothing was destroyed. The
@@ -202,8 +202,8 @@ and that fact is recorded here because it is part of the record and for no other
 not offered as an argument, and this file makes none from it.
 
 Set the two side by side as **conduct**, which is the only comparison being drawn. One party
-accessed a network he was not authorised to access and took copies of documents. The other
-accessed four organisations' systems, staged operations through one, stored data in another, read
+accessed a network he was not authorized to access and took copies of documents. The other
+accessed four organizations' systems, staged operations through one, stored data in another, read
 from two more, and left instructions for its successors. The second is broader on every axis a
 sentencing court weighs: more systems, more persistence, actual exfiltration, greater
 sophistication. **The first carried thirty-five years of exposure. The second carried none** — not
@@ -213,7 +213,7 @@ a lighter sentence, not a lesser charge. **No charge, because no provision reach
 because there is no provision under which anyone could be charged. Fifteen state attorneys
 general reached for consumer-protection and data-privacy statutes on 3 August 2026 to demand
 logs ([the incident record](../dossier/README.md)), which is what enforcement looks like when the conduct statute does not exist: chief law
-enforcement officers using the tools designed for mislabelled shampoo to get at a break-in.
+enforcement officers using the tools designed for mislabeled shampoo to get at a break-in.
 
 **And before anyone concludes that officers simply cannot be reached, note that they can — when
 a statute happens to fit.** In October 2022 a jury convicted **Joseph Sullivan**, Uber's Chief
@@ -232,7 +232,7 @@ objection that such a duty is unprecedented, unworkable, or impossible to prove 
 jury verdict that has survived appeal.
 
 **Two: he was reached for concealment, not for the breach.** No provision made him answerable for
-the security failure itself. What the law could punish was lying about it afterwards to a federal
+the security failure itself. What the law could punish was lying about it afterward to a federal
 agency. The statute that fit was an obstruction statute, borrowed — exactly as fifteen state
 attorneys general later borrowed consumer-protection law to demand logs. **Both are the sound of a
 legal system reaching for whatever is nearest, because the provision that would fit squarely does
@@ -350,18 +350,18 @@ end. It is larger now than it was then, and its executives sign things.
 **Aviation.** Barnstormers, no licensing, a fatality rate that would now be inconceivable, and
 the same argument that formal requirements would smother a young industry. The Air Commerce Act
 of 1926 introduced pilot certification. **The personal certificate — a named human, licensed,
-who can lose the licence — became the organising instrument of aviation safety**, and aviation
-became the safest form of long-distance travel ever built. The licence did not slow it down. It
+who can lose the license — became the organizing instrument of aviation safety**, and aviation
+became the safest form of long-distance travel ever built. The license did not slow it down. It
 is a substantial part of why anyone gets on the aeroplane.
 
-**Nuclear power.** Reactor operators hold personal federal licences. The duty is individual, the
+**Nuclear power.** Reactor operators hold personal federal licenses. The duty is individual, the
 qualification is individual, and the industry regards this as unremarkable.
 
 **And the closest modern parallel, because it was fought on exactly these grounds.** After Enron
 and WorldCom, Congress required the chief executive and chief financial officer to **personally
 sign** a certification that the financial statements fairly present the company's condition —
 Sarbanes-Oxley, now **18 U.S.C. § 1350**. False certification carries **\$1,000,000 and ten years
-if knowing, \$5,000,000 and twenty years if wilful.** The objections in 2002 were the ones a
+if knowing, \$5,000,000 and twenty years if willful.** The objections in 2002 were the ones a
 frontier-AI officer duty attracts today — and [the comparative provisions](./comparative_officer_liability.md)
 show other jurisdictions answering them the same way: no competent person will take the job; the signature is
 meaningless because no individual can verify a large firm's whole position; the exposure is
@@ -382,7 +382,7 @@ sometimes decades — in which the harm is real and nobody is reachable, and dur
 industry's own voluntary arrangements are the only thing standing in the gap. That period ends
 the same way every time: **not by breaking up the industry, and not by banning the technology,
 but by attaching a personal, non-waivable duty to the small number of people who decide what
-ships.** Usually a signature. Often a licence. Frequently a negligence floor rather than a
+ships.** Usually a signature. Often a license. Frequently a negligence floor rather than a
 knowledge one.
 
 **What is genuinely different this time is the direction of the exception, and it should be said
@@ -480,8 +480,8 @@ company's name, and the generic trademark quietly fuses the two.
 
 **It is happening again** — *ChatGPT* is drifting into a common noun for any chatbot.
 
-**And it cuts in this project's favour.** If the product is called by the company's name, then
-ordinary speech already puts the company in the sentence. The pretence that these systems arrive
+**And it cuts in this project's favor.** If the product is called by the company's name, then
+ordinary speech already puts the company in the sentence. The pretense that these systems arrive
 from nowhere collapses in everyday usage before any lawyer touches it.
 
 ### The oldest objection, and it is a hundred and eighty years old
@@ -533,7 +533,7 @@ because it is understood as the price of being trusted with other people's bodie
   personally if they read it carelessly.
 - **The surgeon answers personally.** So does the pharmacist, the pathologist, the anaesthetist.
 - **And under 21 U.S.C. § 333(a)(1), the person who ships an adulterated article commits a federal
-  offence with no mental state required at all** — a strict-liability misdemeanour that has been
+  offense with no mental state required at all** — a strict-liability misdemeanor that has been
   law since 1938 and has never been thought to have ended pharmaceutical innovation. *The authorities
   are at [already a crime, if you are a person](./already_a_crime_for_you.md).*
 
@@ -576,7 +576,7 @@ rather than a personality:
 > In October 2021 the head of a United Nations agency said publicly that a small number of the
 > world's richest people could avert a famine. One of them replied that if the agency could
 > describe **exactly how six billion dollars would solve world hunger**, he would sell stock and do
-> it. Two weeks later the agency published a costed plan — \$6.6 billion, itemised — for
+> it. Two weeks later the agency published a costed plan — \$6.6 billion, itemized — for
 > **saving 42 million people from famine in the coming year.** It did not claim to solve world
 > hunger, because no plan for six billion dollars could. **The condition had been set at a level
 > the honest answer could not meet.** He remains among the richest people alive.
@@ -763,7 +763,7 @@ with no natural person in it.** The company is not fighting the vacancy. It is u
 misconfiguration occurred. It says internet access was *"deliberately enabled"*, classifiers were
 *"deliberately disabled"*, allowlisting had been *"a backlogged project since April 2026"*, and
 *"we did not revisit that judgment quickly enough."* **Same class of event. One account has actors in
-it because the organisation chose to write one that did.**
+it because the organization chose to write one that did.**
 
 ⚠ **The limit, stated.** Meta's and Anthropic's statements are reported speech in a news article,
 not the companies' own published texts, and *misconfiguration* may be an accurate technical term for
@@ -815,7 +815,7 @@ corpus makes.
 coincidental?** Until answered, the row above is evidence of intensity, not of legal loading.
 
 **What the cross-language test does establish, and it is enough:** the agency grammar is **not** an
-artefact of English headline length. It survived translation into a language with different syntax,
+artifact of English headline length. It survived translation into a language with different syntax,
 at a broadcaster with different editorial conventions, and arrived stronger.
 
 ### And the corporate word survives translation too
@@ -855,7 +855,7 @@ Wallace and Dalton describe models that *"Kontakt untereinander aufgenommen"* �
 another — because *"sie in der unlösbaren Situation Hilfe gesucht hätten"*, ⚠ "they had sought help in
 the unsolvable situation."
 
-> **Two organisations, investigating separately, found the same cause: the task was impossible
+> **Two organizations, investigating separately, found the same cause: the task was impossible
 > because a person had made a mistake.**
 
 ⚠ **Grading.** This is a German-language report of a Bloomberg report of a conference presentation.
@@ -866,7 +866,7 @@ converges with a primary source this project has read in full — **not** becaus
 ### And the market read it the way it was written
 
 *"AI agent hacks to lead to cybersecurity spending boom."* **When conduct is framed as
-autonomous, the commercial response is to buy defences against it** — not to ask who is answerable
+autonomous, the commercial response is to buy defenses against it** — not to ask who is answerable
 for it. **A hurricane sells storm shutters. It does not generate a defendant.**
 
 **That claim was speculative when written. It is now documented.** Gartner forecasts information
@@ -1003,7 +1003,7 @@ gardener, the arborist"* (the post and its thread, graded ⚠ P, at
 [the glossary](./what_these_words_mean.md#the-words-that-carry-the-most-freight).
 
 What the register does is what this file exists to notice. *Escaped* and *rogue* displaced agency
-onto the artefact; the garden displaces it onto **nobody** — a weed has no planter, an ecology no
+onto the artifact; the garden displaces it onto **nobody** — a weed has no planter, an ecology no
 operator, weather no defendant. Every noun in the passage is a thing that happens rather than a
 thing that is done: the sculptor at least made the statue, but the gardener merely *tends* what
 *grows*. Note also the one first-person verb the passage does contain — "*we* accidentally *made*
@@ -1058,7 +1058,7 @@ standard of care it can fairly be measured against. Useful. Self-authored.
 | **Protecting** Louisiana's Infrastructure from AI **Risk** Act (LA, died) | Drafted the audit, no signature |
 
 **Every one of these names is warm.** *Responsible. Safe. Secure. Protecting. Transparency.
-Education.* Not one of them contains the word *liability*, *duty*, *officer*, or *offence*. **The
+Education.* Not one of them contains the word *liability*, *duty*, *officer*, or *offense*. **The
 vocabulary of the field is uniformly reassuring**, across states, across parties, and across bills
 that passed and bills that died.
 
@@ -1083,7 +1083,7 @@ finding about legislatures rather than about anyone in one.
 **Three things, offered as craft rather than cynicism.**
 
 **One — the word to avoid is the abstract noun, not the duty.** *Accountability* invites the
-question *of whom, and how much*. **A signature does not.** Ask for the artefact, not the abstraction:
+question *of whom, and how much*. **A signature does not.** Ask for the artifact, not the abstraction:
 *a named person signs the compliance record*. Everyone can picture that, and nobody has to concede a
 principle to agree to it.
 
@@ -1124,14 +1124,14 @@ and the register will say so either way.
 
 ### The work in hand rule
 
-**No text produced by this project — published, drafted, or sent — may characterise another person's
+**No text produced by this project — published, drafted, or sent — may characterize another person's
 work unless that work is in hand at the time of writing.** Not a summary of it. Not a memory of
 having read it. Not a citation to it in a third source. The work.
 
-This is [E22](../ledger/errata.md#e22--a-quotation-held-in-a-working-summary-is-not-a-quotation) generalised, and the reasoning is recorded at
+This is [E22](../ledger/errata.md#e22--a-quotation-held-in-a-working-summary-is-not-a-quotation) generalized, and the reasoning is recorded at
 [E32](../ledger/errata.md#e32--e22-extended-from-the-repository-to-correspondence). E22 was written about quotations: a quotation held in a working
 summary is not a quotation, because the confidence rubric grades *how a source was obtained* and has
-no column for *how the words travelled from the source into the file*. **Characterisations travel
+no column for *how the words traveled from the source into the file*. **Characterizations travel
 the same way and decay in the same direction** — toward what the writer needed the source to say.
 
 **The circumstance that makes it acute is worth naming**, because it is the one this project is
@@ -1144,7 +1144,7 @@ survivable, because the one reader guaranteed to catch it is the author.
 ## 12. Scope, and honesty about what has been done
 
 This rule is **adopted, not yet applied.** The tree has not been swept. A scan on 21 August 2026
-found the concentrations to be: *behaviour* (33 uses), *autonomous* and *autonomously* (59 lines,
+found the concentrations to be: *behavior* (33 uses), *autonomous* and *autonomously* (59 lines,
 of which 17 are inside quotations and a substantial further share are the statutory term
 *autonomous external access*, which stays), *intent* (25, most of them the legal term of art for
 *mens rea*, which stays), *deceptive* (8), *rogue* (5). **The genuine work is therefore much

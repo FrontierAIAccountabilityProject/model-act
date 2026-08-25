@@ -145,12 +145,12 @@ the seat done whole. Replace any of them with findings of your own.
 5. Does a state's suspended-sentence law defeat the harm-tier minimum? *(the sweep could not
    settle this)*
 6. Does per-victim counting survive the state's merger doctrine? *(nor this)*
-7. **Does misdemeanour authority reach a felony tier?** *Dotterweich* and *Park* are misdemeanour
+7. **Does misdemeanor authority reach a felony tier?** *Dotterweich* and *Park* are misdemeanor
    cases. Lyness argues the state doctrine should carry individual **civil** liability and only
    civil liability, on the ground that those cases were decided "during a time when the immediate
    and collateral consequences were different" (64 B.C. L. Rev. 253, 297-98). The sweep's own
    answer stops at the base tier: *Park* holds, and *Staples*' penalty-sensitivity "does not bite
-   at a misdemeanour." **Nothing in this repository argues that the same authority reaches
+   at a misdemeanor." **Nothing in this repository argues that the same authority reaches
    SEC. 6(b).** Either supply that argument or refute it; either way it is a finding, and it is the
    one the maintainer most wants answered. *(Added 25 August 2026; the sweep's own statement of it
    is in Part I above.)*
@@ -180,12 +180,12 @@ administration, federalism and preemption, proportionality and sentencing, torts
 open source and academia. Each seat reviews independently and each disposition publishes
 independently, as written, so no lane waits on another. Findings that change text route through the
 public cure queue and the errata register, where every other lane sees them. The maintainer collates
-and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside
+and responds separately and labeled, and may not overrule or edit a disposition. Anonymous outside
 contributions arrive through the repository's correction doors and are credited by election — one
 open drafting question has already been answered from outside this way. Reviewer identities are not
 shared between reviewers, and attribution is each reviewer's own election.
 
-**This lane specifically.** Criminal law gates the others in one direction: if the offence structure does not hold, the enforcement seat has nothing to charge and the proportionality seat nothing to grade. It meets the proportionality lane on the tier structure and the misdemeanour question, and the enforcement lane on what a prosecutor could actually prove.
+**This lane specifically.** Criminal law gates the others in one direction: if the offense structure does not hold, the enforcement seat has nothing to charge and the proportionality seat nothing to grade. It meets the proportionality lane on the tier structure and the misdemeanor question, and the enforcement lane on what a prosecutor could actually prove.
 
 *How this seat's work becomes the next version: verified findings are drafted as cures against the
 tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so

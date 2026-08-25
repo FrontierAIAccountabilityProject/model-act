@@ -41,7 +41,7 @@ quantity is countable, so a statute may count it. Their caveats are kept in § 6
 
 ## 2. The missing layer — every instrument except the officer
 
-Plan A is a maximal governance programme: mandatory safety cases "that withstand criticism from
+Plan A is a maximal governance program: mandatory safety cases "that withstand criticism from
 the public … government auditors, and rival AI companies" (2031, *Safety Cases*), compelled
 disclosure of model specifications and internal usage, training bans, compute cap-and-trade, a
 prohibition on open frontier weights. It even flips the burden of proof precisely as a due-care
@@ -135,7 +135,7 @@ page](../docs/safe_harbors_and_affirmative_defenses.md).*
 ## Addendum, 25 August 2026 — the assumption underneath the fastest timelines
 
 Every projection on this page inherits an assumption it does not state: that alignment progress is
-capability-bottlenecked, so that research throughput scales with capability. The forecasts modelled
+capability-bottlenecked, so that research throughput scales with capability. The forecasts modeled
 here are more credible if that holds and considerably less so if it does not.
 
 The strongest published challenge is Kierans, Casper & Ghosh, *Intelligence Is Not the Bottleneck:

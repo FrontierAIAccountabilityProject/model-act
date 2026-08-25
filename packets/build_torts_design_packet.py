@@ -96,13 +96,13 @@ forgiveness of indebtedness … gross-up" — against an individual penalty, fin
 "whatever law is chosen to govern it," with a constructive trust on any benefit received. Three
 valves are drafted into it, and each is this lane's to test:
 
-- **Defence costs** survive at (b)(5), with clawback from a person "finally adjudicated to have
-  committed a knowing or wilful violation under SEC. 6(b)." That is the D&O practice question: a
-  defence-costs-only tower with conduct-based recoupment is a known insurance form, but the Act
+- **Defense costs** survive at (b)(5), with clawback from a person "finally adjudicated to have
+  committed a knowing or willful violation under SEC. 6(b)." That is the D&O practice question: a
+  defense-costs-only tower with conduct-based recoupment is a known insurance form, but the Act
   imposes it by statute on every covered person at once, and (b)(6) sunsets existing arrangements
   at first renewal or a bracketed outside date. Does that transition clause distort renewals, and
   does the clawback trigger (final adjudication of the felony tier only) leave the base-tier
-  due-care conviction fully insurable as to defence while its penalty is uninsurable?
+  due-care conviction fully insurable as to defense while its penalty is uninsurable?
 - **Restitution** survives at (b)(7): insurance and indemnification of restitution under
   SEC. 10(c)(4) is expressly permitted, applied to restitution before any other liability, and "no
   such payment extinguishes any other liability of any person." SEC. 10(c)(4) separately gives
@@ -110,11 +110,11 @@ valves are drafted into it, and each is this lane's to test:
   The design plainly wants victims paid first from any source, but a carve-out that makes the
   victim-facing head of liability the one insurable head creates a settlement gradient — money
   flows to the label that insurance reaches — and whether that gradient helps victims or distorts
-  characterisation of settlements is a question products and insurance practice answers better
+  characterization of settlements is a question products and insurance practice answers better
   than criminal drafting does.
-- **The bar is itself an offence**: (b)(4) makes violating it a SEC. 10(a) entity violation, and a
+- **The bar is itself an offense**: (b)(4) makes violating it a SEC. 10(a) entity violation, and a
   knowing violation by a controlling person a SEC. 5 violation for SEC. 6(b)(1) purposes — the
-  felony tier. Test whether criminalising the indemnity contract, rather than merely voiding it,
+  felony tier. Test whether criminalizing the indemnity contract, rather than merely voiding it,
   is proportionate to its function; that reading feeds the proportionality seat directly.
 
 ### 3. Proximate cause in the harm tier, measured against tort doctrine
@@ -136,7 +136,7 @@ exactly that wrongdoer, and "foreseeable criminal misuse is not a superseding ca
 The seat's question is whether the criminal element does what the tort rule does when **the
 deployer stands between developer and victim**. SEC. 2(a) allocates the duty to "the actor who
 controls the relevant risk" — developer, provider, deployer, releasing provider, each named with a
-function. A deployer's material modification is precisely the kind of intervening act a defence
+function. A deployer's material modification is precisely the kind of intervening act a defense
 will call independent; is a modifying deployer "unforeseeable" within (c)(2)(D) when SEC. 2(a)'s
 own release-evaluation duty requires evaluating "the model as it can be modified"? A statute that
 requires pre-release evaluation of modification arguably makes modification foreseeable as a
@@ -155,8 +155,8 @@ design intent: the thin deployers get "a route to discharge the duty rather than
 it."
 
 The lane's question is the resemblance this structure bears to the reliance and innocent-seller
-defences products law grew — the downstream party who passes on a validated article, without
-altering it, on the maker's documentation. Products law learned where those defences fail: the
+defenses products law grew — the downstream party who passes on a validated article, without
+altering it, on the maker's documentation. Products law learned where those defenses fail: the
 seller who repackages, the reliance that survives red flags, the paper conformity that diverges
 from the shipped configuration. SEC. 2(b) answers each in its own terms (the manifest; the
 conscious-avoidance cut-off; lapse on modification) — the seat is asked whether those answers
@@ -170,7 +170,7 @@ The strongest scholarly form of this lane's central objection is on the shelf, a
 it against interest. [Comparative § 5's addendum](../standards/comparative_officer_liability.md)
 records that the survey scholarship it relies on argues for individual **civil** liability and
 "only civil liability," expressly excluding the criminal form from its agenda — and that its
-programme names a mechanism this Act deliberately lacks: **citizen suits**. The addendum's own
+program names a mechanism this Act deliberately lacks: **citizen suits**. The addendum's own
 words: the Act's "route for private information is the SEC. 11 award (private knowledge funding
 public enforcement), not a private action."
 
@@ -191,7 +191,7 @@ says so on its face.
 
 SEC. 6(a) measures due care "against the standards applicable under SEC. 3 and the conduct of a
 reasonably prudent controlling person in like circumstances; an entity's own framework is evidence
-of neither." That last clause is the Act refusing the manufacturer's-own-specification defence,
+of neither." That last clause is the Act refusing the manufacturer's-own-specification defense,
 and [the case](../docs/the_case.md) uses the analogy expressly: under SEC. 8's controls clause,
 "wilful blindness becomes a design defect the officer certified against."
 
@@ -241,12 +241,12 @@ are the seat done whole. Replace any of them with findings of your own.
    design intend it?
 2. Is the SEC. 7(b) restitution carve-out drawn right, or does it bend settlements toward the one
    insurable label?
-3. Does SEC. 7(b)'s defence-costs valve and sunset clause distort D&O practice, and is
-   criminalising the indemnity contract itself proportionate?
+3. Does SEC. 7(b)'s defense-costs valve and sunset clause distort D&O practice, and is
+   criminalizing the indemnity contract itself proportionate?
 4. Does SEC. 10(c)(2)(D)'s intervening-cause clause do any work against a developer when SEC. 2(a)
    makes deployer modification foreseeable by its own text?
 5. Does SEC. 2(b)'s reliance path incorporate what products law learned about downstream reliance
-   defences — and can "material" bear its criminal weight undefined?
+   defenses — and can "material" bear its criminal weight undefined?
 6. Is the SEC. 11 award an adequate substitute for the citizen suit the civil-only scholarship
    proposes — or should this Act be civil?
 
@@ -285,7 +285,7 @@ standing outside the system that decided about them.
 That asymmetry is the design question for this seat. Every logging, retention and reporting duty in
 the Act is drafted to make the facts exist somewhere reachable, created before anyone knew they
 would be wanted. Whether the duties as drafted would actually produce a record a court could use —
-or whether they would produce a compliance artefact that answers a different question — is a finding
+or whether they would produce a compliance artifact that answers a different question — is a finding
 this lane can make and no other can.
 
 ## The other seats, and how this lane meets them
@@ -294,7 +294,7 @@ The review runs in parallel lanes — criminal law, enforcement, security,
 fiscal, proportionality, federalism, torts/design, and open source and academia. Each seat
 reviews independently, and each disposition publishes independently, as written, so no lane waits
 on another. Findings that change text route through the public cure queue and the errata register,
-where every other lane sees them. That queue is how v3.4 becomes v3.5: each lane's verified findings are drafted as cures against the tagged text, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'. The maintainer collates and responds separately and labelled,
+where every other lane sees them. That queue is how v3.4 becomes v3.5: each lane's verified findings are drafted as cures against the tagged text, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'. The maintainer collates and responds separately and labeled,
 and may not overrule or edit a disposition. Anonymous outside contributions arrive through the
 repository's correction doors and are credited by election — one open drafting question has
 already been answered from outside this way. Reviewer identities are not shared between reviewers,

@@ -16,7 +16,7 @@ the person "standing in responsible relation to a public danger". The doctrine t
 
 1952
 : ***Morissette v. United States*, 342 U.S. 246** — the Court marks the limits: public-welfare
-offences are a bounded category, and the Act states its classification inside those limits
+offenses are a bounded category, and the Act states its classification inside those limits
 (SEC. 1(a)). [The case](./the_case.md).
 
 1975
@@ -54,7 +54,7 @@ a crime subcommittee: [known objections](./known_objections.md) ·
 : **Washington publishes its roadmap.** *Winning the Race: America's AI Action Plan* — three
 pillars, roughly ninety actions, read here in full from the primary. Its permitting footnotes
 cite the Clean Air Act and CERCLA — the statutory family whose enforcement sections carry the
-responsible-officer doctrine — as regulations to streamline for data-centre construction; its
+responsible-officer doctrine — as regulations to streamline for data-center construction; its
 own text reserves states' right "to pass prudent laws," concedes that frontier systems resist
 prediction, and demands enforcement "rather than relying on voluntary attestation." Read beside
 the forecasters' opposite vision: [two visions](./two_visions.md).
@@ -80,8 +80,8 @@ federal broadband funding on states avoiding "onerous" AI statutes. The ceiling'
 arm: [the half-statute page](./safe_harbors_and_affirmative_defenses.md).
 
 1 January 2026 ⚠
-: **The framework-defence era begins.** Texas's TRAIGA and California's frontier transparency
-act take effect — compliance with a recognised risk framework becomes an affirmative defence in
+: **The framework-defense era begins.** Texas's TRAIGA and California's frontier transparency
+act take effect — compliance with a recognized risk framework becomes an affirmative defense in
 Texas; Colorado's act, delayed, follows mid-year. No provision in any of them reaches an
 officer: [the half-statute page](./safe_harbors_and_affirmative_defenses.md).
 

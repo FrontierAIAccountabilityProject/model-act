@@ -66,7 +66,7 @@ a human has re-read the source with their own eyes.
 | 4 | [The RAISE Act vs. SB 53](https://fpf.org/blog/the-raise-act-vs-sb-53-a-tale-of-two-frontier-ai-laws/) | Future of Privacy Forum | **No.** Both laws compared; neither reaches a person |
 | 5 | [SB 53 — Expanded Compliance Guide for Frontier AI Developers](https://www.nelsonmullins.com/insights/blogs/ai-task-force/ai/california-sb-53-expanded-compliance-guide-for-frontier-ai-developers) | Nelson Mullins (law firm) | **No** — and see G3 below, the sweep's most useful sentence |
 | 6 | [Illinois Joins Growing State-Level Effort to Regulate Frontier AI](https://www.lw.com/en/insights/illinois-joins-growing-state-level-effort-to-regulate-frontier-ai-with-new-safety-measures-act) | Latham & Watkins (law firm) | **No** — one signature required in the whole corpus, and it is the auditor's. See G4 |
-| 7 | [California Enacts Landmark AI Transparency Law](https://www.whitecase.com/insight-alert/california-enacts-landmark-ai-transparency-law-transparency-frontier-artificial) | White & Case (law firm) | **No.** Organisational enforcement only |
+| 7 | [California Enacts Landmark AI Transparency Law](https://www.whitecase.com/insight-alert/california-enacts-landmark-ai-transparency-law-transparency-frontier-artificial) | White & Case (law firm) | **No.** Organizational enforcement only |
 | 8 | [What General Counsel Need to Know](https://www.harrisbeachmurtha.com/insights/californias-new-frontier-ai-law-what-general-counsel-need-to-know/) | Harris Beach Murtha | **NOT CAPTURED** — retrieval returned no content. Recorded as unread, not as absent |
 | 9 | [When a Frontier AI Model Breaks the Law, Who Is Accountable?](https://www.forescout.com/blog/when-a-frontier-ai-model-breaks-the-law-who-is-accountable/), 5 Aug 2026 | Sai Molige, Rik Ferguson, Forescout Research — Vedere Labs (**network security vendor**, not a law firm or policy shop) | **Closer than anyone else, and still no.** Asks this project's question in its title, answers it at *organizations* and *operators*, and never reaches a natural person. See G6 |
 
@@ -120,7 +120,7 @@ finding does not move.
 
 Nelson Mullins's compliance guide, asked who must sign the frameworks and reports the
 statute requires, **does not specify — because the statute does not.** It describes
-organisational accountability through governance structures and compliance programmes, and
+organizational accountability through governance structures and compliance programs, and
 remains silent on which executives, officers or employees bear personal responsibility for
 execution or attestation.
 
@@ -155,7 +155,7 @@ control.*
 ### G6 — Somebody finally asked the question in a headline, and stopped at the company
 
 **This is the sweep's most important entry, and it comes from outside every category the sweep
-was built to search.** Not a law firm, not a policy institute, not an AI-safety organisation — a
+was built to search.** Not a law firm, not a policy institute, not an AI-safety organization — a
 **network security vendor's research arm**, writing for defenders.
 
 Forescout's Vedere Labs, 5 August 2026, headline: ***"When a Frontier AI Model Breaks the Law, Who
@@ -213,7 +213,7 @@ of its forensic analysis** because exploit payloads and attack data were classif
 **The victim of the incident was refused by the guardrails while investigating it.** Forescout's
 fourth recommendation is *"clear legal protections for defensive use — reduce the risk that
 malicious intent is inferred solely from the malicious content being analyzed."* **That is the safe
-harbour half of this project's security-researcher argument, written by a security vendor.**
+harbor half of this project's security-researcher argument, written by a security vendor.**
 
 **Two — the boundary formulation**, which is the sharpest available statement of why a written
 policy is not a control:
@@ -222,7 +222,7 @@ policy is not a control:
 
 ⚠ **Strength.** Read in full on 21 August 2026. The incident particulars it reports — the
 package-registry-proxy zero-day, the malicious package executing on 15 external systems, the ~9,000
-targets scanned — are **the vendor's characterisation of OpenAI's and Anthropic's own disclosures**
+targets scanned — are **the vendor's characterization of OpenAI's and Anthropic's own disclosures**
 and are ⚠ **F** until those two primary posts are opened directly. **The quotations from Forescout
 itself are ⚠ R.** Nothing about the underlying incidents should be cited from this source while the
 first-party disclosures remain unread; both are linked from the post and neither is difficult.

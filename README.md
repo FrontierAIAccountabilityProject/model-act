@@ -57,7 +57,7 @@ technical definition of *frontier*; this project holds a legal one — [two defi
 **Three limits, stated here rather than left for a reader to find.** The subject of that hearing is
 copyright, not catastrophic risk. **No witness and no member proposed officer liability**, and
 neither *Dotterweich* nor *Park* is mentioned anywhere in it. And a chair's rhetorical question is
-not a declination record: it is a characterisation, and it is quoted as one.
+not a declination record: it is a characterization, and it is quoted as one.
 
 **What it does carry.** The premise this Act is built on — that conduct by frontier developers goes
 unprosecuted which would be prosecuted in anyone else's hands — is no longer only this project's
@@ -110,7 +110,7 @@ not inventing a term; it is specifying the legal consequences of one the industr
 the product. Verbatim record, with sources: [the frontier enterprises](./research/frontier_enterprises.md)
 and [the models table](./research/frontier_models.md).
 
-**The frontier is a system, not a model file** — chips, data centres, cloud access, models,
+**The frontier is a system, not a model file** — chips, data centers, cloud access, models,
 deployment platforms, sensitive data, institutional permissions, and the capital that sustains the
 whole. Which is why the legal definition reaches the chain of control:
 
@@ -138,7 +138,7 @@ The full argument: [the definition](./docs/the_definition.md) · the evidence:
 sufficient. Whether the enterprise category and its bracketed scale conditions are precise enough,
 whether the responsible-corporate-officer doctrine can be adapted from food and drug law to
 frontier AI, how responsibility divides between developers, compute suppliers, and deployers, and
-what mens rea and safe-harbour provisions are constitutionally necessary — these are the review
+what mens rea and safe-harbor provisions are constitutionally necessary — these are the review
 council's central questions, and the strongest objections the project knows are published with its
 answers at [known objections](./docs/known_objections.md). A reviewer may conclude the central
 theory should be removed. That conclusion would be published.
@@ -154,7 +154,7 @@ the v3.5 revision.
 ## Two sentences a government already wrote down
 
 **One.** In June 2026 the UK government ran frontier models against its own public code — nine
-organisations, one month, 407 findings, £13,000 in tokens — and published what it learned. Its second
+organizations, one month, 407 findings, £13,000 in tokens — and published what it learned. Its second
 lesson:
 
 > **"The model matters less than how it's used.** AISI's research, borne out here, shows that with
@@ -166,7 +166,7 @@ lesson:
 > in Government Cyber Defence*](https://www.gov.uk/government/case-studies/when-ai-leaves-the-lab-testing-frontier-models-in-government-cyber-defence),
 > **12 June 2026**
 
-**If the model matters less than how it is used, the risk is not in the artefact.** It is in the
+**If the model matters less than how it is used, the risk is not in the artifact.** It is in the
 architecture somebody chose, the access somebody granted, the control somebody deferred, the scope
 somebody did not write down. Those are acts, acts have actors, and **at the compute frontier not one
 of those actors is required to put their name to anything.**
@@ -193,7 +193,7 @@ official.** The plan requires that officer to *"appoint a senior, capable indivi
 authority**"* over cyber security — the same *designation and empowerment* Illinois asks an auditor
 to verify, written instead as a duty a named person owes. And it classifies *"risks created by
 widespread adoption of novel technologies, such as generative AI"* as **unmanageable by any single
-organisation**, assigning them to one post-holder.
+organization**, assigning them to one post-holder.
 
 > **Two jurisdictions looked at the same technology in the same year. One of them wrote down a name.**
 
@@ -217,7 +217,7 @@ A research draft of a state criminal statute — accountability architecture, no
 punishment for its own sake. Its rule is that practical power creates a
 non-delegable duty: the base individual offense is a controlling person's power over
 the relevant risk plus failure to exercise due care, not title, actual knowledge, or
-a bad outcome standing alone. Actual knowledge or wilfulness changes the tier;
+a bad outcome standing alone. Actual knowledge or willfulness changes the tier;
 genuine absence of practical power defeats an element the prosecution must prove.
 Harm is not a prerequisite to the duty or the base offense: causally resulting death
 or serious bodily injury activates the harm tier only for the enhanced conduct SEC.
@@ -248,9 +248,9 @@ entity liability or the base offense into the enhanced tier.
 
 1. **Responsibility follows power, not title or actual knowledge.** Office alone is not
    enough; practical authority over the relevant risk is. A person who retains that
-   authority cannot manufacture a defence by delegating safety or information gathering.
+   authority cannot manufacture a defense by delegating safety or information gathering.
 2. **Fault grades consequences; it does not create the duty.** Failure of due care is the
-   base individual offense and the minimum floor for custody. Knowing, wilful, concealing,
+   base individual offense and the minimum floor for custody. Knowing, willful, concealing,
    or deliberately uncorrected conduct enters the enhanced tier.
 3. **Harm grades the enhanced tier; it is not a prerequisite to accountability.** The
    validation, certification, reporting, records, base-offense, disgorgement, and
@@ -307,10 +307,10 @@ law already does when the escaped thing is a worm, a weed, or a pathogen:*
 **Five things, and a person answers for each.** Not the company alone — the officer who had the
 authority to prevent it.
 
-| | The offence | Already a crime for ordinary people under |
+| | The offense | Already a crime for ordinary people under |
 |---|---|---|
 | **1** | **Shipping without validation** | 21 U.S.C. § 331 / § 333(a)(1) — **strict liability**, no intent required |
-| **2** | **Operating uncontrolled autonomous access that causes a real breach** — with a misuse defence, unless the controls against that class of misuse were simply absent | 18 U.S.C. § 1030, the Computer Fraud and Abuse Act |
+| **2** | **Operating uncontrolled autonomous access that causes a real breach** — with a misuse defense, unless the controls against that class of misuse were simply absent | 18 U.S.C. § 1030, the Computer Fraud and Abuse Act |
 | **3** | **Failing to report** | 18 U.S.C. § 4, misprision of felony — 3 years |
 | **4** | **Lying to the State** | 18 U.S.C. § 1001 — 5 years, no oath required |
 | **5** | **Destroying or withholding the records** — privilege preserved, facts always reachable | 18 U.S.C. § 1519 — **20 years**, and it bites before any investigation opens |
@@ -323,14 +323,14 @@ United States for an ordinary person**, most with heavier maximum penalties than
 
 **Yes. For every one of them, in another industry, with a name and a date.**
 
-| The offence | The person who answered for it | Sentence |
+| The offense | The person who answered for it | Sentence |
 |---|---|---|
 | **Shipping without validation** | The president of a peanut company who fabricated **certificates of analysis** stating product was pathogen-free when no test had been run. Nine people died | **28 years** — and not one day of it for the deaths. It came from the documents |
-| **Gaming the safety test** | A Volkswagen **engineer** who built software that recognised when a vehicle was on the test rig and behaved differently on the road | **40 months** |
+| **Gaming the safety test** | A Volkswagen **engineer** who built software that recognized when a vehicle was on the test rig and behaved differently on the road | **40 months** |
 | **Uncontrolled access causing a breach** | Five individuals. No physical injury in any case, mostly no proven loss. One had accessed a page a company published by accident | Announced exposure of **10 to 440 years**; sentences up to 41 months |
 | **Failing to report** | Uber's Chief Security Officer, for concealing a breach from a federal agency | Convicted 2022, **upheld on appeal in 2025** |
 | **Destroying or withholding records** | Anybody. 18 U.S.C. § 1519 reaches conduct *"in contemplation of"* a federal matter | **20 years**, before any investigation opens |
-| **Failing to prevent, as an officer** | A coal executive, after twenty-nine miners died. Convicted of a **misdemeanour**, acquitted of every felony | **12 months.** He had signed no document of the kind the peanut executive signed |
+| **Failing to prevent, as an officer** | A coal executive, after twenty-nine miners died. Convicted of a **misdemeanor**, acquitted of every felony | **12 months.** He had signed no document of the kind the peanut executive signed |
 
 **Read the first and last rows together and the mechanism is visible.** Twenty-eight years where a
 signed document existed and was untrue. Twelve months where twenty-nine people died and no such
@@ -347,18 +347,18 @@ requires a signature, and enacted law requires exactly one, from the auditor.
 
 ### The comparison that makes the point fastest
 
-**A person accessed a network without authorisation and copied documents.** No injury. No loss —
+**A person accessed a network without authorization and copied documents.** No injury. No loss —
 the victim asked that no charges be brought. He was indicted on **thirteen felony counts** and the
 Department of Justice announced exposure of *"up to 35 years in prison."* The government's own plea
 offers were four months, then six.
 
-**A system accessed four organisations' systems without authorisation.** It used one for staging
+**A system accessed four organizations' systems without authorization.** It used one for staging
 and outbound relay, stored data in a second, read from two more, and left notes for its successors.
 Three million GPU-hours of compute produced the capability chain that did it.
 
 **Broader on every axis a sentencing court weighs. Counts filed: none.**
 
-Not a lighter sentence. Not a lesser charge. Not discretion exercised in someone's favour. **There
+Not a lighter sentence. Not a lesser charge. Not discretion exercised in someone's favor. **There
 is no provision under which anyone could be charged** — which is why fifteen state attorneys
 general reached for consumer-protection law to obtain the logs, and why Uber's security chief was
 reached in 2022 through an *obstruction* statute rather than anything about the breach itself.
@@ -366,7 +366,7 @@ reached in 2022 through an *obstruction* statute rather than anything about the 
 **And the same asymmetry runs through testing.** Two penetration testers, contracted in writing by
 Iowa's Judicial Branch, were arrested doing the job, charged with burglary, and spent six and a half
 years getting to a settlement. **H.R. 9917 would give frontier developers a definitional safe
-harbour for testing** — a harm during red-teaming is simply not a covered incident — **which is the
+harbor for testing** — a harm during red-teaming is simply not a covered incident — **which is the
 protection individual researchers have asked for and never had.**
 
 *Five prosecutions in full, with counts, announced maxima and sentences imposed:*
@@ -380,7 +380,7 @@ table above:* [already a crime, if you are a person](./standards/already_a_crime
   which is why the covered class is a double-digit number of firms rather than an industry.
 - **A model has no guilty mind, and cannot be given one.** Which is why the duty has to attach to a
   person — not because machines are innocent, but because the concept does not apply to them.
-- **Every offence this Act creates is already a crime for ordinary people**, most with heavier
+- **Every offense this Act creates is already a crime for ordinary people**, most with heavier
   maximum penalties, one with no intent requirement at all.
 - **Enacted frontier law requires exactly one human signature, and it belongs to the auditor.**
 - **The field's own forecasters put the modal year for transformative capability inside this
@@ -399,7 +399,7 @@ authorities are set out in [why a signature works](./standards/why_a_signature_w
 
 ## Overview
 
-The one instrument with an eighty-year record of changing executive behaviour —
+The one instrument with an eighty-year record of changing executive behavior —
 personal criminal exposure under the public-welfare doctrine — has never been extended
 past the food-and-drug frontier. This repository extends it, in public: statute,
 apparatus, evidence, and an append-only register of the project's own mistakes,
@@ -407,9 +407,9 @@ drafted by one maintainer, AI assistance disclosed, with every claim pinned to a
 
 ## Project disclosure
 
-The Model Act is an independent, pseudonymous and unfunded public drafting project. It is not affiliated with an AI company, political party, government office or advocacy organisation. No contributor is presented as legislative counsel, and publication does not imply professional or institutional endorsement. Maintained pseudonymously by one person; AI assistance disclosed. The project is not seeking funding; if that ever changes, the source, amount and conditions will be disclosed here before any funds are accepted.
+The Model Act is an independent, pseudonymous and unfunded public drafting project. It is not affiliated with an AI company, political party, government office or advocacy organization. No contributor is presented as legislative counsel, and publication does not imply professional or institutional endorsement. Maintained pseudonymously by one person; AI assistance disclosed. The project is not seeking funding; if that ever changes, the source, amount and conditions will be disclosed here before any funds are accepted.
 
-The text, sources, unresolved questions and revision history are public so that specialists can verify, criticise and improve the work on its merits.
+The text, sources, unresolved questions and revision history are public so that specialists can verify, criticize and improve the work on its merits.
 
 ## Status
 
@@ -498,7 +498,7 @@ and on what fault standard — at [`model_act_v3_4.txt`](./model_act_v3_4.txt#L2
 an hour, add [the statute translated](./docs/the_statute_translated.md), which is the whole Act in plain
 language, section by section.
 
-**The attack ad, and the answer.** It is "criminalising innovation." The answer is on the face
+**The attack ad, and the answer.** It is "criminalizing innovation." The answer is on the face
 of the text: engineers, credentials, technical ability, access and executing someone else's
 decision are excluded from authority in black letter (SEC. 4); the thresholds and penalty
 brackets carry figures governors of both parties have already signed; and pharmaceuticals,
@@ -553,7 +553,7 @@ other industry was in immediately before its own law arrived, except that those 
 had already buried people. Public domain, ready the day a sponsor takes it up.
 
 **Who maintains the project.** One person, unfunded and unaffiliated: not an AI company,
-a political party, a government office, or an advocacy organisation. No contributor is
+a political party, a government office, or an advocacy organization. No contributor is
 presented as legislative counsel, and publication implies no professional or institutional
 endorsement. Drafting is AI-assisted and disclosed; responsibility for the text, source
 selection, corrections, and publication rests with the maintainer. The maintainer writes
@@ -565,7 +565,7 @@ project holds them.
 
 **A note on fixed headcounts.** Earlier public-facing copy used “ten men” and “roughly a dozen.” The Act does not establish either count. Its term is *controlling person*: any natural person who meets the practical-authority test, regardless of title, and more than one person may qualify in connection with a covered system. Coverage turns prospectively on compute or designation, covered conduct, and authority—not a roster of names or chairs. SEC. 1 defines the covered field; SEC. 4 identifies the people who hold the relevant power. **This rule governs the coverage set published in [the frontier enterprises](./research/frontier_enterprises.md):** those twelve companies are criteria applied to public facts, to show that the definition reaches the principal forms of frontier-AI power — they are an illustration, never a roster, and the statute names no company. At v3.5 the coverage question would turn on compute, the developer's own designation, Agency designation, or enterprise function combined with scale.
 
-**How the project is organised.** This repository is the public research record: the
+**How the project is organized.** This repository is the public research record: the
 model text, source materials, drafting history, and corrections. Sponsor-facing
 materials are shorter and jurisdiction-specific: bill text conformed by legislative
 counsel, a section-by-section explanation, a sponsor memorandum, and a fiscal note.
@@ -631,7 +631,7 @@ Cite it as what it is — model legislation, a research draft — never as enact
 ## Contact and contributions
 
 **FrontierAIAccountabilityProject@proton.me** — links or pasted text only, no attachments.
-**Three doors, honestly labelled**, because they are three different relationships with
+**Three doors, honestly labeled**, because they are three different relationships with
 different commitments and different identity rules, and presenting them as one asks every
 visitor for everything at once. Pick the one that fits. Ordinary reading needs no door.
 
@@ -657,7 +657,7 @@ drafted as [the bracketed-matter worksheet](./standards/bracketed_matter.md)); t
 tier's bracketed minimum (a criminal-law scholar or former prosecutor — the companion
 "serious injury" source question was answered from outside and is drafted for v3.5 in
 [the open queue](./audit/v3_5_cure_language.md)); the sentencing valve against fifty state
-proportionality clauses (a proportionality scholar); the preemption armour as the
+proportionality clauses (a proportionality scholar); the preemption armor as the
 litigation develops (a federalism litigator); the modifiability budget (an evaluations
 researcher); the control objectives against laboratory practice (a security engineer); and
 the consolidated citation check (any law-review student with a Bluebook). The companion's
@@ -704,7 +704,7 @@ are handed — one hands over the architecture, they pour the concrete.
 language, none of it in any tagged text until v3.5 lands; the sealed v3.4 queue beside
 it is the redline behind the current statute.
 
-**The consolidation (19 August 2026).** The repository was reorganised from seventy-one
+**The consolidation (19 August 2026).** The repository was reorganized from seventy-one
 files into the eight documents it then had — the set listed in the contents above,
 which has grown repeatedly since — the Contents above is the current set, not that
 paragraph's list. The three accountability

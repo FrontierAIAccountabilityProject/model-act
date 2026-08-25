@@ -89,7 +89,7 @@ professorship — are widely reported but not pinned in-repo; pin or drop before
 
 **4.** (234) 87% of surveyed physicians say liability for AI errors affects whether they adopt at all. Their association asked HHS to rescind the rule making providers monitor AI for bias. They want the duty moved. Not one commenter says where to.
 
-**5.** (253) Volkswagen's defeat device was code that recognised when it was being tested. No prosecutor had to prove what the software wanted. They proved it behaved one way under evaluation and another on the road. That is the whole offence, and it is decades old.
+**5.** (253) Volkswagen's defeat device was code that recognized when it was being tested. No prosecutor had to prove what the software wanted. They proved it behaved one way under evaluation and another on the road. That is the whole offense, and it is decades old.
 
 **6.** (247) xAI asked a federal court to block California's AI training-data disclosure law on trade-secret and free-speech grounds. It lost, and appealed. That law compels publication. Requiring facts stated privately to a regulator is a much narrower thing.
 

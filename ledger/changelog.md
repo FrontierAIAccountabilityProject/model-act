@@ -3,17 +3,61 @@
 
 ## Part II — The changelog
 
+**Between versions — 25 August 2026, tenth batch: the commentary conformed to the instrument's own
+spelling.** No change to any tagged text.
+
+`model_act_v3_4.txt` is written in American spelling but for two words. The commentary around it had
+drifted British across three months of drafting, so a reader searching this site for *defense
+counsel*, *willful blindness*, *safe harbor* or *offense* found nothing, and a legislative counsel
+comparing the companion against the instrument saw two conventions. **820 substitutions across 60 markdown
+files**, plus the prose held inside the packet builders' own string literals — where a
+markdown-only sweep would have been silently reverted the next time the five template-family
+packets regenerated. Applied by a new checker, `check_spelling.py`, which is now part of the
+repository's standing guard alongside `check_links.py`, `check_claims.py` and the library's
+`check_emails.py`, and which is idempotent: a second pass changes nothing.
+
+*The single largest correction is one word.* **`misdemeanour` appeared 48 times** and stayed
+invisible to the first three passes of the tool, because the map held *demeanour* and the regex had
+no way to see a prefix on it. An American criminal lawyer searches *misdemeanor*. So did the tool,
+eventually.
+
+*What the sweep would not touch, and why each rule exists.* Quotations keep their sources' spelling,
+whether they sit in a blockquote or inside quotation marks on an ordinary line — AISI writes "push
+models toward", and *toward/toward* is in the map, so masking quoted spans is what stops the tool
+falsifying a source. Eleven such lines are listed in the script by file and phrase with the reason attached, in the same idiom as `check_links.py`'s allowlist: the UK DSIT and National Cyber Security
+Center publication and its title, the quoted UK government accountability passage, the Health and
+Safety at Work etc. Act 1974 s.37 text in the comparative note, and the census row that deliberately
+carries *willful/willful* both ways. `audit/record.md` and `dossier/README.md` are skipped entire,
+because each declares itself unalterable in its own opening lines and those rules bind this tool
+too; every `BEGIN … content verbatim` block elsewhere is skipped the same way. Links pointing into
+those sealed documents keep the sealed heading's spelling, or the anchor stops resolving.
+
+*Two corrections fell out of it that are not cosmetic.* The frontier bill census rendered the
+GAAIA's defined term as "Independent Verification **Organisation**"; the discussion draft says
+**Organization**, and a defined term quoted with the wrong spelling is a misquoted defined term.
+And `model_act_v3_4.txt` itself carries the only British spellings left standing: SEC. 6(b)(1)'s
+"knowingly or **wilfully**" and SEC. 6(b)(5)'s "knowing or **wilful**". The instrument is tagged and
+checksummed, so that is an amendment with a number rather than a sweep, and it is drafted and held.
+
+⚠ *One integrity gap found and not fixed here, because a spelling sweep is the wrong instrument for
+it.* `ledger/errata.md` and `ledger/diary.md` each open a `BEGIN … content verbatim` block that is
+never closed — `ledger/changelog.md` closes its own at the right line, and the other two do not.
+Everything appended since 19 August therefore sits inside a region the file declares verbatim.
+Nothing has been altered; the marker needs an END at the true boundary, and finding that boundary
+needs the merge record rather than a guess.
+
+
 **Between versions — 25 August 2026, ninth batch: the question this project never asked.** No change
 to any tagged text.
 
-**Every offence in SEC. 6 turns on what a natural person knew, decided, or had the power to prevent.
+**Every offense in SEC. 6 turns on what a natural person knew, decided, or had the power to prevent.
 Nothing in this repository asked what it takes to get that person into a chair.** The word
 *deposition* returned **zero** across a hundred and two files. The apex-witness rule — courts
 shielding senior executives from depositions absent unique, non-duplicative personal knowledge — is
 the practical obstacle standing between a SEC. 6 charge and the officer's testimony, and it had
 never been named here.
 
-*There is one data point and it runs in this project's favour, which is exactly why it is stated
+*There is one data point and it runs in this project's favor, which is exactly why it is stated
 with its limits attached.* In ***Concord Music Group, Inc. v. Anthropic PBC***, No. 5:24-cv-03811
 (N.D. Cal.), Magistrate Judge Susan van Keulen ordered on **19 December 2025** that **Dario Amodei
 sit for a deposition**, capped at two and a half hours. Anthropic had argued he did not possess
@@ -208,7 +252,7 @@ retrieved and read.
 Judiciary Subcommittee on Crime and Counterterrorism stating the enforcement gap in terms, with
 the three limits printed beside it rather than left for a reader to discover — the subject is
 copyright, no one proposed officer liability, and a chair's rhetorical question is a
-characterisation and not a declination record. The expanded row is at
+characterization and not a declination record. The expanded row is at
 [the dated record](../docs/timeline.md).
 
 
@@ -221,7 +265,7 @@ Ingestion of Copyrighted Works for AI Training***, Senate Judiciary Subcommittee
 Counterterrorism**, 16 July 2025. The saved PDF is a browser reprint whose fonts carry a shifted
 encoding, so ordinary extraction returns ciphertext; the body text was recovered by a character
 decode validated by reading, and the scanned appendix by OCR at the images' native 150 ppi. The
-decode map, the artefact register and the graded citation set are in the library note, so no
+decode map, the artifact register and the graded citation set are in the library note, so no
 quotation has to be re-derived.
 
 *What it changes.* Until today the enforcement-gap premise — that conduct by frontier developers
@@ -240,7 +284,7 @@ rejoinder to it; and — from the mirror-image Commerce hearing of 3 March 2026 
 witness telling the Senate that AI "operates within" existing accountability frameworks and that
 regulatory predictability is what lets a company ship.
 [Who has to tell you](../standards/who_has_to_tell_you.md) gains § 4c: Congress has already
-legislated this file's central insight in a neighbouring subject matter, in the TRAIN Act (Welch
+legislated this file's central insight in a neighboring subject matter, in the TRAIN Act (Welch
 and Blackburn), whose text is **not** in hand and none of whose provisions are described.
 [The table of authorities](../standards/table_of_authorities.md) gains both hearings, and
 *Kadrey v. Meta* as a candidate authority quoted expressly at second hand and not to be cited until
@@ -270,10 +314,10 @@ actually releases.
 *Two errata, both from reading the project's own pages rather than the day's sources.*
 **[E38](./errata.md#e38--the-packet-that-promised-the-whole-lane-and-left-out-the-only-published-criticism-of-it)**
 — the criminal-law packet claimed to inline the whole lane and omitted the only published criticism
-of it, Lyness's misdemeanour objection, on the eve of that packet being sent to Lyness himself. The
+of it, Lyness's misdemeanor objection, on the eve of that packet being sent to Lyness himself. The
 objection is now in the sweep, in the project's own words and against the project's own text, and
 is question 7 on the packet's menu, with the honest statement that nothing in this repository yet
-argues that misdemeanour authority reaches the felony tier at SEC. 6(b).
+argues that misdemeanor authority reaches the felony tier at SEC. 6(b).
 **[E39](./errata.md#e39--the-same-sentence-twice-in-two-packets-for-a-day)** — the filing
 instruction printed twice in two packets. One sentence, both builders, all eight packets
 regenerated.
@@ -347,7 +391,7 @@ results published whichever way they fall.
 
 The same batch locates the project in the legislative process, using the process's own account of
 itself. USA.gov lists a "petition by people or citizen groups who recommend a new or amended law"
-as one of three recognised origins of a bill; the House's summary begins "First, a representative
+as one of three recognized origins of a bill; the House's summary begins "First, a representative
 sponsors a bill," and everything after that presupposes a sponsor this Act does not have. So the
 Act sits before step one, in a space no procedure reaches — which is why the review structure had
 to be invented rather than borrowed. Congress.gov's observation that policy expertise lives in
@@ -450,8 +494,8 @@ on the monitored cases' strongest preemption reading, and does the drafted valve
 **Between versions — 24 August 2026 — the seventh packet: torts and design, the boundary
 lane.** No change to any tagged text. The lane the sweep never swept gets its packet: criminal
 beside civil with neither collapsing into the other; the SEC. 7(b) insurance bar walked valve by
-valve (the defence-costs clawback, the restitution carve-out's settlement gradient, the
-criminalised indemnity contract); the harm tier's intervening-cause clause put to the tort
+valve (the defense-costs clawback, the restitution carve-out's settlement gradient, the
+criminalized indemnity contract); the harm tier's intervening-cause clause put to the tort
 question of whether SEC. 2(a)'s own foreseeability drafted it out of work; the deployer reliance
 path measured against what products law learned; and the civil-only alternative presented at
 full strength from the project's own shelf, citizen suits included. Builder committed with it;
@@ -481,7 +525,7 @@ section-extraction in the criminal builder's manner. Round-trip verified before 
 index rows now name their builders.
 
 **Between versions — 24 August 2026 — the sixth packet: proportionality and sentencing.** No
-change to any tagged text. The lane's centre is presented as what it is — the statute's own held
+change to any tagged text. The lane's center is presented as what it is — the statute's own held
 question, READ FIRST item 4, the sentencing valve against fifty state proportionality clauses —
 with the harm tier's borrowed federal geometry walked, the bracketed minimum's suspended-sentence
 problem put plainly, the announced-maxima record offered as a grading question, and the
@@ -513,7 +557,7 @@ excludes, and not an officer under the Act's own test. Conformed in all three to
 developer's head of strategic futures"; the register entry (E35) records the failure mode — a
 defined term loosened toward the rhetoric — and the sharpened rule: defined terms are never
 used in project prose more loosely than their definition. The accurate label is also the
-stronger exhibit: candour came from the layer the Act would not reach, silence from the layer
+stronger exhibit: candor came from the layer the Act would not reach, silence from the layer
 it would.
 
 **Between versions — 24 August 2026 — nine standing decisions ruled, in one sitting.** No change
@@ -527,7 +571,7 @@ Tennessee cited, not borrowed; **OPEN QUESTION 1** is parked pending the Connect
 **E34** numbers the Lyness three-of-four precision the comparative page has carried since its
 own addendum; the first-name in commit b6fbc0a is ruled accepted-and-logged — history is not
 rewritten in this repository, including for the maintainer's own convenience; and the nav and
-legacy-file questions are deferred into the coming reorganisation plan, one architecture
+legacy-file questions are deferred into the coming reorganization plan, one architecture
 decision instead of two.
 
 **Between versions — 24 August 2026 — the dispositions register opens, empty on purpose.** No
@@ -535,7 +579,7 @@ change to any tagged text. `dispositions/README.md` fixes the rules of publicati
 first review concludes, so no outcome can bend them: dispositions published as written and in
 full, hostile included; dated, version-pinned, and scoped; attribution the reviewer's election,
 with named seats requiring attributable dispositions; the maintainer's response separate and
-labelled; nothing deleted. The register links from the reviewer surfaces when the current
+labeled; nothing deleted. The register links from the reviewer surfaces when the current
 freeze lifts.
 
 **Between versions — 24 August 2026 — the register lands, through the preview gate.** No change
@@ -584,7 +628,7 @@ side, forty-seven thousand words on the other — ever asks a natural person at 
 developer to sign anything. The sharpest find is a footnote: the permitting section names the
 Clean Air Act and CERCLA — the statutory family whose enforcement text codified "responsible
 corporate officer" (42 U.S.C. § 7413(c)(6), owned at comparative § 5) — as regulations to
-streamline for data-centre construction: doctrine's home statutes, cited as paperwork. Headwinds
+streamline for data-center construction: doctrine's home statutes, cited as paperwork. Headwinds
 recorded rather than rounded away: the funding lever against regulating states, the
 FTC-liability review, the forecasters' missing state lane — beside the Plan's own reservation of
 states' right "to pass prudent laws." The expanded timeline gains the 23 July row. The page
@@ -604,7 +648,7 @@ modal first-milestone year inside this decade, two-month gaps between late miles
 drawer-and-window premise as arithmetic; and their economic projections price why entity fines
 cannot deter. Their scenario material is marked ⚠ as scenario, their own epistemic caveats
 quoted, and the readings that cut against the Act — no state-level frame, a leaky threshold,
-their scepticism of incrementalism — are recorded whole. Instruments shelved at the verification
+their skepticism of incrementalism — are recorded whole. Instruments shelved at the verification
 record. Separately, the record of the afternoon: a site-register redesign (`86422c0` — paper and
 ink, dark sidebar, a front-page status panel) was committed, pushed, and reverted within the
 hour (`729fdc4`), after the panel's classed HTML rendered as run-together text on the repository
@@ -627,12 +671,12 @@ TRUMP AMERICA AI Act ⚠; the Obernolte–Trahan Great American AI Act discussio
 the certified-systems false-accusation precedent (Horizon, Michigan, SafeRent — all as given in
 Serial 119-31), the one-line answers block, and the corrected Colorado effective date (delayed;
 amendment queued). The dated record gains five rows (5 Jun 2025; the SANDBOX introduction; the
-preemption order; the framework-defence effective dates; the ceiling narrowing). The watch's
+preemption order; the framework-defense effective dates; the ceiling narrowing). The watch's
 Grok thread gains its June 2025 link (the "not been approved for use" committee line). The
 census queue takes both federal ceiling bills, verify-first. The glossary's *machine
 intelligence* entry notes the register's arrival in a federal backronym.
 
-**Between versions — 24 August 2026, third intake — the assistant objection, the freight words, and the dated record.** No change to any tagged text. Known objections gains "It shouldn't target AI companies" — the objection AI assistants generate for reviewers who ask one, decomposed into its four precise forms and answered from the Act's own architecture. The glossary's freight-words section gains *emergent — and "malicious, emergent"* (the technical sense honoured; the recorded pairing read closely: malice locates a mind in the system while emergence removes the person from the origin) and *machine intelligence* (register, not category), with a cross-reference from house language § 10b. The front page gains **The record, dated** — twelve rows, 1943 to the Casar deadline, each owned by the file it links — with the expanded, sourced version at the new `docs/timeline.md`. House language: a stray first name in § 10 replaced with "the maintainer" (privacy hygiene; the history question is logged, not hidden). Housekeeping: `.gitignore` added for `.DS_Store`.
+**Between versions — 24 August 2026, third intake — the assistant objection, the freight words, and the dated record.** No change to any tagged text. Known objections gains "It shouldn't target AI companies" — the objection AI assistants generate for reviewers who ask one, decomposed into its four precise forms and answered from the Act's own architecture. The glossary's freight-words section gains *emergent — and "malicious, emergent"* (the technical sense honored; the recorded pairing read closely: malice locates a mind in the system while emergence removes the person from the origin) and *machine intelligence* (register, not category), with a cross-reference from house language § 10b. The front page gains **The record, dated** — twelve rows, 1943 to the Casar deadline, each owned by the file it links — with the expanded, sourced version at the new `docs/timeline.md`. House language: a stray first name in § 10 replaced with "the maintainer" (privacy hygiene; the history question is logged, not hidden). Housekeeping: `.gitignore` added for `.DS_Store`.
 
 **Between versions — 24 August 2026, second intake — the read-through lands.** No change to any
 tagged text. Two congressional transcripts and a Congressional Record page, read in full, entered
@@ -654,7 +698,7 @@ the February Grok-classified-systems record (the DoD–xAI deal; the Ossoff-plus
 letters, extracts held in the library), and a checked-and-bounded note that no "military weapon"
 designation of any model exists. The fiscal note gained § 6b — Colorado's SB 26-189 fiscal note
 (4 May 2026), the first state dollar figure for AI-act administration, attributed and bounded.
-The private library was reorganised the same day under a prefixed reference scheme with an index;
+The private library was reorganized the same day under a prefixed reference scheme with an index;
 the shelf manifest in the verification record updates to the new filenames in the next research
 batch.
 
@@ -723,7 +767,7 @@ third-party-evaluator gap); the [glossary](../standards/what_these_words_mean.md
 legal/technical two-column view and a definition of *accountability*; the
 [table of authorities](../standards/table_of_authorities.md) added *Moffatt v. Air Canada* and
 Desai & Riedl as candidate authorities not yet cited; and the front-page contribution ask was recast
-as three labelled doors; and, later the same day, the [frontier-models reference](../research/frontier_models.md)
+as three labeled doors; and, later the same day, the [frontier-models reference](../research/frontier_models.md)
 was compiled from the Epoch AI dataset and paired with the developers' own *frontier* self-designations
 (five labs by name, twelve companies by published framework, per METR), and
 [CURE 6](../audit/v3_5_cure_language.md) proposed a third route into SEC. 1(b)(1) scope — a model its
@@ -775,7 +819,7 @@ for the first time.
 **Errata opened.** [E16](./errata.md) — a coverage failure; the standing watch missed Connecticut
 SB 5, enacted twelve weeks earlier, and H.R. 9917, introduced four weeks earlier. Closed the same
 day, with a correction to its own prescribed cure. [E17](./errata.md) — an overstated disanalogy
-and a rationalisation described as a decision. Both cured.
+and a rationalization described as a decision. Both cured.
 
 ---
 
@@ -801,7 +845,7 @@ research deployment. The regulations shed their one paywalled incorporation, the
 objectives restated per the published disposition. The companion gains notes
 n.28–n.43, one per finding. Errata queue-lines carry their landed notes in Part I. The
 statute grows from 506 to 611 lines; the v3.3 statute, jacket, and companion remain in
-place, superseded. Tag gate, per the programme: every critical finding cured, or
+place, superseded. Tag gate, per the program: every critical finding cured, or
 conspicuously open with an owner and disposition in the companion's READ FIRST —
 satisfied; the open items remain open as published. sha256 of the authoritative files
 as tagged:
@@ -1007,9 +1051,9 @@ Hurd of Colorado, Beyer; introduced 18 June 2026; ordered reported 35–0 on 25 
 [the reporting page](../standards/who_has_to_tell_you.md), which now brackets the disclosure
 question with three federal instruments rather than two. The GPO print's font encoding defeats
 text extraction, so it was OCR'd and every quotation cross-checked against the govinfo bulk XML;
-the artefacts corrected are named in the library reading note rather than hidden.
+the artifacts corrected are named in the library reading note rather than hidden.
 
-The find is § 2(e)(2): *"artificial intelligence flaw"* means conditions or behaviours allowing a
+The find is § 2(e)(2): *"artificial intelligence flaw"* means conditions or behaviors allowing a
 policy violation *"and which is not dependent on the presence of malicious intent or related
 harm."* A federal statutory definition in which reportability turns on what the condition is —
 carried unanimously out of committee — and the answer to the evidentiary problem
@@ -1019,7 +1063,7 @@ duty to file into it on nobody.
 
 **FLARE-AI read**, the reference implementation the field is building for that flow (Longpre, Zhu,
 Ezell & Ghosh et al., arXiv:2606.31567, ICML 2026), with CERT, MITRE, AIID, Hugging Face, OECD and
-several developers, after consulting 49 experts across 32 organisations. Its authors call flaw
+several developers, after consulting 49 experts across 32 organizations. Its authors call flaw
 reporting for AI *"decades behind"* software, and state their own limit: FLARE-AI is *"an ecosystem
 coordination tool rather than a compliance reporting tool."* The infrastructure and the duty are
 complements, and the people building the first say so.

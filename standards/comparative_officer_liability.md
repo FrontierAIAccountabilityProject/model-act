@@ -62,7 +62,7 @@ amendments I through XII have not disturbed it.
 **The proposition.** German law reaches the individual for a failure of supervision that
 enabled a contravention, and reaches managing directors and board members specifically,
 not merely the nominal proprietor. It is weaker than this Act and it is an
-administrative offence rather than a crime — both stated on the front page, because
+administrative offense rather than a crime — both stated on the front page, because
 overstating it would be the easier claim and the falsifiable one.
 
 **The text** (Gesetz über Ordnungswidrigkeiten § 130(3), first sentence):
@@ -80,7 +80,7 @@ contraventions of duties incumbent on the owner, where the contravention would h
 prevented or made substantially more difficult by proper supervision — the measures
 named in the text including appointment, careful selection, and monitoring of
 supervisory personnel. § 9 (*Handeln für einen anderen*) extends the addressee to
-organs and authorised representatives, which is what brings a GmbH's *Geschäftsführer*
+organs and authorized representatives, which is what brings a GmbH's *Geschäftsführer*
 and an AG's *Vorstandsmitglieder* inside it. § 30 is the entity-side fine, to which
 § 130 is the usual predicate where no individual contravention can be proved.
 
@@ -88,7 +88,7 @@ and an AG's *Vorstandsmitglieder* inside it. § 30 is the entity-side fine, to w
 where the underlying breach of duty carries a criminal penalty. Larger ceilings quoted
 in practitioner literature — ten and five million under § 30, and forty and twenty
 million in the sanctions context — are the *entity's* exposure, not the supervisory
-offence's. The front page quotes the § 130 figure because the comparison being drawn is
+offense's. The front page quotes the § 130 figure because the comparison being drawn is
 about the duty reaching a named person.
 
 **Scope note.** Germany has no general corporate criminal code; a draft
@@ -132,7 +132,7 @@ December 1892, reporting on the first year of operation:
 
 The same message reports dressed-beef exports rising from 137,900,000 lbs in 1889 to
 220,500,000 lbs in 1892, and 394,607 head of live cattle exported in the past year
-against 205,786 in 1889. *Source:* Message of the President, digitised by the University
+against 205,786 in 1889. *Source:* Message of the President, digitized by the University
 of Wisconsin Libraries (search.library.wisc.edu), retrieved 20 August 2026.
 
 **The half that hurts, and why the front page carries it.** Inspection alone did not
@@ -143,7 +143,7 @@ inspection → exports up 62 per cent* asserts a causal chain the record does no
 and a hostile reader finds the sugar beets in one search. The front page therefore
 claims only that verifiable safety was necessary rather than sufficient — the asset the
 diplomacy had to hold before it could be spent, and the thing that kept the market open
-afterwards.
+afterward.
 
 **One claim declined.** A dispatch from an American diplomat in Copenhagen, 1891, to the
 effect that rigid inspection would return more than its cost, was drafted into an
@@ -170,7 +170,7 @@ their title.
 
 The honest limit, stated first because overstating it would be the easier claim and the
 falsifiable one: **s. 37 is derivative.** It creates no duty of its own. It attaches an
-individual to an offence the body corporate has already committed under some other
+individual to an offense the body corporate has already committed under some other
 provision. It is therefore not a British version of this Act, which creates its own duties
 and then attaches persons to them. What s. 37 establishes is narrower and still useful: the
 *mechanism* — a named human answering criminally for a corporate failure they had power to
@@ -219,34 +219,34 @@ to separate its own tiers. Each provision below was retrieved from legislation.g
   attributable to neglect on the part of" a director or similar officer; s. 198(4)(b)
   applies the same three pathways to partners in Scottish partnerships.
 
-*Without it — dishonesty offences:*
+*Without it — dishonesty offenses:*
 
-- **Fraud Act 2006, s. 12**: "If the offence is proved to have been committed with the
+- **Fraud Act 2006, s. 12**: "If the offense is proved to have been committed with the
   consent or connivance of— (a) a director, manager, secretary or other similar officer of
   the body corporate, or (b) a person who was purporting to act in any such capacity, he
-  (as well as the body corporate) is guilty of the offence." Consent or connivance only.
+  (as well as the body corporate) is guilty of the offense." Consent or connivance only.
   **No neglect limb.**
 - **Bribery Act 2010, s. 14**: consent or connivance of "a senior officer of the body
   corporate or Scottish partnership." **No neglect limb**, and a narrower class of person.
 
 **What that split is worth.** Parliament does not extend negligence liability to
-individuals indiscriminately. It attaches the neglect limb where the offence is
+individuals indiscriminately. It attaches the neglect limb where the offense is
 public-welfare regulation — safety at work, the environment, data — and withholds it where
-the offence is dishonesty. That is precisely the line this Act draws between SEC. 6(a),
-the due-care offence with a negligence floor, and SEC. 6(b), the felony tier requiring
-knowing or wilful conduct. **The British statute book already sorts these provisions on the
+the offense is dishonesty. That is precisely the line this Act draws between SEC. 6(a),
+the due-care offense with a negligence floor, and SEC. 6(b), the felony tier requiring
+knowing or willful conduct. **The British statute book already sorts these provisions on the
 same axis the Act sorts its tiers on.** For the criminal-law seat, that is a stronger
 comparative point than the bare existence of officer liability, and it was found by
 checking four provisions that were assumed to be identical and are not.
 
 **The adjacent regime, structurally closer to SEC. 8 than anything else in this file.**
-The Senior Managers and Certification Regime, in authorised financial services firms, does
+The Senior Managers and Certification Regime, in authorized financial services firms, does
 two things this Act does and *Park* does not.
 
 *Responsibility is allocated in advance, in writing.* FSMA 2000, s. 60(2A): where an
 application seeks approval to perform a designated senior management function, the
 regulator "must require the application to contain, or be accompanied by, a statement
-setting out the aspects of the affairs of the authorised person concerned which it is
+setting out the aspects of the affairs of the authorized person concerned which it is
 intended that the person will be responsible for managing in performing the function."
 s. 60(2B): "A statement provided under subsection (2A) is known as a 'statement of
 responsibilities'."
@@ -266,9 +266,9 @@ rather than blurring it, exactly as it does for § 130 OWiG.
 Its relevance is architectural. *Park* asks, after the harm, who stood in responsible
 relation to it. SMCR asks **before**: who is answerable for this, in writing, filed with
 the regulator, and did that person take reasonable steps. SEC. 8's certification is the
-same instinct given a criminal consequence. The point for a sceptical reader is that the
+same instinct given a criminal consequence. The point for a skeptical reader is that the
 British state already accepts the premise that a named human being should be on record as
-answerable for a risk before it materialises — in banking, where the harm is money.
+answerable for a risk before it materializes — in banking, where the harm is money.
 
 **Scope note, and why Britain is not the venue.** The United Kingdom has enacted no
 frontier AI statute; its approach has been deliberately non-statutory. Two consequences
@@ -293,7 +293,7 @@ scholarly apparatus is from two sources held on [the shelf](../research/verifica
 **The Clean Water Act.** 33 U.S.C. § 1319(c)(6): *"For the purpose of this subsection, the term
 'person' means, in addition to the definition contained in section 1362(5) of this title, any
 responsible corporate officer."* The subsection it serves is the **criminal** one, and its
-offences are **felonies** with a "knowing" element — a more aggressive structure than
+offenses are **felonies** with a "knowing" element — a more aggressive structure than
 *Dotterweich*'s and *Park*'s misdemeanours. The Ninth Circuit reads Congress's retention of the
 phrase after *Park* as ratification of the doctrine (*United States v. Iverson*, 162 F.3d 1015,
 1023–24 (9th Cir. 1998), quoting *United States v. Brittain*, 931 F.2d 1413, 1419 (10th Cir.
@@ -308,13 +308,13 @@ imputed to the CWA by district courts since).
 'person' includes, in addition to the entities referred to in section 7602(e) of this title, any
 responsible corporate officer."* Added in **1977 — after *Park*** — which courts likewise treat as
 congressional approval of the doctrine. (The 2025 federal AI roadmap cites this same statute —
-as permitting paperwork to streamline for data centres: [two visions](../docs/two_visions.md).)
+as permitting paperwork to streamline for data centers: [two visions](../docs/two_visions.md).)
 
 **The scholarship, in hand.** Lyness, *Revitalizing the State Environmental Responsible Corporate
 Officer Doctrine*, 64 B.C. L. Rev. 253 (2023) — the survey this section draws on (its Part II
 read; its Part III catalogues the **state** environmental officer doctrines, ten states, the
 groundwork for [for legislators § 4](./for_legislators.md)) — describes the doctrine as "a potent
-tool for federal environmental enforcement for over half a century," and its revitalisation agenda
+tool for federal environmental enforcement for over half a century," and its revitalization agenda
 for the states runs: individual civil liability; liability without a mens rea requirement;
 uniformity; broad enforceability. **Those four goals are this Act's own design list** — SEC. 6 and
 SEC. 10(b); the public-welfare classification of SEC. 1(a); the model-act form; SEC. 10's remedy
@@ -365,11 +365,11 @@ them first:
    criminal road rests on harms that are neither. **That answer is asserted here, not proven, and
    the comparative seat should test it.**
 
-2. **The misdemeanour point, which bears on the Act's own lineage.** *"To be sure, both
+2. **The misdemeanor point, which bears on the Act's own lineage.** *"To be sure, both
    Dotterweich and Park involved criminal liability. But both involved misdemeanor criminal
    liability during a time when the immediate and collateral consequences were different"*
    (at 298). The Act is named for the doctrine those cases created and cites them as its
-   foundation. If the authority they supply is misdemeanour-scale, then the Act's penalty
+   foundation. If the authority they supply is misdemeanor-scale, then the Act's penalty
    architecture reaches beyond what its own precedents establish, and the gap must be argued for
    rather than inherited. This is now an open question for the criminal-law and proportionality
    seats jointly, and it is the strongest doctrinal objection in the scholarship this project
@@ -381,7 +381,7 @@ source the Act uses, recorded at full strength, which is what this page is for.
 **Find one — the doctrine reaches inside government.** *United States v. Dee*, 912 F.2d 741,
 747–49 (4th Cir. 1990), cert. denied, 499 U.S. 919 (1991): civilian **U.S. Army managers** of a
 federal chemical facility, convicted under RCRA, their culpability arising *"solely from their
-ongoing failure to comply … during the period they were responsible"* (as summarised at Hustis &
+ongoing failure to comply … during the period they were responsible"* (as summarized at Hustis &
 Gotanda, 25 Loy. U. Chi. L.J. at 172 n.15, article in hand). The responsible-officer principle is
 not confined to the private sector — a fact with obvious weight in a record whose most-documented
 incident occurred at a government institute.
@@ -409,7 +409,7 @@ own scholar; the first adds Massachusetts to the venue map — see
 
 1. The Copenhagen dispatch (§ 3), unpinned and therefore unused.
 2. PRC Criminal Law Amendment XII (adopted December 2023, effective 1 March 2024) raised
-   penalties for certain breach-of-duty and bribery offences by personnel of private
+   penalties for certain breach-of-duty and bribery offenses by personnel of private
    enterprises. An earlier draft of the § 1 answer stated more broadly that several
    maxima rose from five years to ten; the wider claim was not verified and was cut. The
    narrower, verifiable version may be worth pinning if the comparison ever needs it.

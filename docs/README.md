@@ -21,5 +21,5 @@ rather than in one page of sixteen hundred lines.
   agencies, corporate fines, auditors, personal duties — and why one named officer.
 
 *The numbered files beside these are retired paths from an earlier arrangement, kept as signposts
-so that existing links continue to land. The history of both reorganisations is in
+so that existing links continue to land. The history of both reorganizations is in
 [the diary](../ledger/diary.md).*

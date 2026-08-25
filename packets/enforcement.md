@@ -78,7 +78,7 @@ Proposal, comment, adoption, then a 90-day compliance period: **year four at the
 Act's own brackets.** Meanwhile SEC. 10(c)(2), the tier carrying the real penalties, requires death
 or serious injury — and **not one of the six documented incidents produced any bodily injury.** The
 year-one charging menu is failure to report, lying to the Agency, records offenses, and civil
-penalties. The defence writes the press release: *the State has charged our client with late
+penalties. The defense writes the press release: *the State has charged our client with late
 paperwork.*
 
 The proposed fix gives SEC. 5(b) an interim floor that does not wait on the Agency — four controls
@@ -86,7 +86,7 @@ the incident record names as absent by name: authentication to each external sys
 default-deny, an enumerated destination allowlist kept as a SEC. 12 record, logging of every
 external interaction, and a human-exercisable means of terminating external access.
 
-### F4 — The Act criminalises refusal to obey a demand it never authorises anyone to make *(enforcement)*
+### F4 — The Act criminalizes refusal to obey a demand it never authorizes anyone to make *(enforcement)*
 
 SEC. 5(e) punishes refusing records "upon the lawful demand of the Agency or the Attorney General."
 **No provision of the Act confers that demand power** — no inspection authority, no administrative
@@ -101,16 +101,16 @@ statutory basis is not lawful, so refusing it is not an offense, and the chargin
 serious thing that happened in 2026** — the AISI agent's fabricated identities, sockpuppet
 endorsement and forged apology were all gates-*up* actions on a platform that permits anyone to
 create accounts. The proposed fix adds a deception limb without abandoning *Van Buren*. SEC. 9(b)'s
-constructive-detection limb is **perversely incentivised**: because the counterfactual is measured
+constructive-detection limb is **perversely incentivized**: because the counterfactual is measured
 against the entity's own certification, certifying thin monitoring buys a later clock start.
 Walked against the real OpenAI timeline, **no start date survives** and the case fails at the first
-element. SEC. 3(c)(2)(D) **punishes candour**: file honestly and you have no validation, daily
+element. SEC. 3(c)(2)(D) **punishes candor**: file honestly and you have no validation, daily
 accrual, and self-inflicted SEC. 6(b)(1) notice; file an aggressive equivalence analysis and the
 State must beat your expert. And SEC. 9 contains **no duty to notify the people whose systems were
 breached** — every duty runs to the Agency, and SEC. 12 then seals the report.
 
 **And the gap the sweep did not find, supplied from outside it on 25 August 2026: the apex-witness
-problem.** Every offence in SEC. 6 turns on what a natural person knew, decided, or had the power to
+problem.** Every offense in SEC. 6 turns on what a natural person knew, decided, or had the power to
 prevent. Nothing in this repository asks the practical question that follows: **can the State
 actually get that person into a chair.** American courts apply an apex-witness rule that shields
 senior executives from depositions unless the party seeking one shows unique, non-duplicative
@@ -209,7 +209,7 @@ Conform SEC. 1(c) by adding evaluation so described to the conduct that subjects
 Act.
 
 **Why this is held rather than drafted into a cure.** It changes the Act's jurisdictional reach,
-which is the architecture SEC. 13's preemption posture and the dormant-commerce defence both rest
+which is the architecture SEC. 13's preemption posture and the dormant-commerce defense both rest
 on. Extending duties to conduct occurring abroad, on the basis of an intention to deploy in-state,
 is exactly the extraterritoriality question READ FIRST item 5 reserves for a federalism litigator.
 **It also disposes of OPEN QUESTION 2** — the safeguards-disabled evaluation — on the enforcement
@@ -273,7 +273,7 @@ refusing it is not an offense, and the State's own charging theory concedes it.
 > person served, [the court of general jurisdiction of the county in which the Agency sits] may
 > quash or modify a demand that is unreasonable or oppressive; on petition of the Attorney General,
 > that court may enforce it. A demand under this subsection is a lawful demand for purposes of
-> SEC. 5(e). Nothing in this subsection authorises entry upon premises, or access to any material,
+> SEC. 5(e). Nothing in this subsection authorizes entry upon premises, or access to any material,
 > beyond what is reasonably necessary to obtain the records demanded.
 
 **Consequential.** Place the new subsection in the **first rank** of SEC. 13(b)(1). SEC. 5(e) is
@@ -330,7 +330,7 @@ dependency rather than adding one.
 *From the queue's fatals pass, same file — the federal comparator for the four controls:*
 
 **To CURE 10 (interim controls) — the federal comparator retrieved.** 42 C.F.R. § 73.11 (select-
-agent security plans, summarised from the eCFR 23 Aug, ⚠ R) requires: access only for approved
+agent security plans, summarized from the eCFR 23 Aug, ⚠ R) requires: access only for approved
 individuals with unique non-shared credentials; separation of restricted areas with layered
 barriers; procedures for receiving, monitoring and shipping; intrusion detection; information-
 security controls against unauthorized external connections; and **immediate reporting of
@@ -351,9 +351,9 @@ been detected by the monitoring **the entity certified it maintains** under SEC.
 referent does not exist for the conduct at issue: SEC. 8 triggers on "material deployment," which an
 internal or vendor-run evaluation is not, so for the whole 2026 incident class there is no
 certification to measure against. (ii) It is dormant for the first [180] days, because SEC. 8 has
-not commenced while SEC. 9 has. (iii) **It is perversely incentivised** — the counterfactual is
+not commenced while SEC. 9 has. (iii) **It is perversely incentivized** — the counterfactual is
 measured against the entity's own certification, so certifying thin monitoring buys a later clock
-start. Admitting you had no monitoring becomes a defence to the reporting clock.
+start. Admitting you had no monitoring becomes a defense to the reporting clock.
 
 Walked against the real OpenAI timeline — escape ~9 July, intrusion 11–13 July, **victim disclosed
 16 July**, developer announced 21 July — **no start date survives**, and the case fails at the first
@@ -383,7 +383,7 @@ incentive by measuring against the standard rather than the entity's own certifi
 Agency; SEC. 9(c) confirms a report "is not required to be published"; SEC. 12 then seals it.
 **There is no duty anywhere in the Act to tell the person whose production database was read.**
 Against the record: AISI notified affected users at day 7, indirectly, through GitHub; Anthropic
-notified three compromised organisations for incidents beginning in April. **The Act as drafted
+notified three compromised organizations for incidents beginning in April. **The Act as drafted
 would have changed neither timeline** — and this is precisely the inversion
 [who has to tell you](../standards/who_has_to_tell_you.md) identifies.
 
@@ -398,7 +398,7 @@ would have changed neither timeline** — and this is precisely the inversion
 > entity records the request and the response. The Attorney General may, on written application,
 > delay notice under this subsection for a stated period where notice would impede an active
 > criminal investigation or materially increase the risk of further unauthorized access. This
-> subsection requires no characterisation, no conclusion as to causation or risk, and no
+> subsection requires no characterization, no conclusion as to causation or risk, and no
 > publication; SEC. 9(c) applies to notice under this subsection.
 
 Rank with SEC. 9 at SEC. 13(b)(4).
@@ -408,14 +408,14 @@ work.
 
 ---
 
-## CURE 15 — SEC. 3(c)(2): a disclose-and-cure valve, because the text currently punishes candour
+## CURE 15 — SEC. 3(c)(2): a disclose-and-cure valve, because the text currently punishes candor
 
 *Opened 22 August 2026 by [the lane sweep](../audit/v3_5_lane_sweep.md), enforcement lane. Sweep-derived.*
 
 **The defect.** Under SEC. 3(c)(2)(D), a document disclosing nonconformity without stating the
 conclusion is a *nonconformity report*: it "discharges no duty under SEC. 2 and satisfies neither
 this paragraph nor SEC. 5(a); and its transmission is a statement to the Agency for purposes of
-SEC. 5(d) and **notice for purposes of SEC. 6(b)(1)**." Read as defence counsel reads it: file
+SEC. 5(d) and **notice for purposes of SEC. 6(b)(1)**." Read as defense counsel reads it: file
 honestly and you have no validation (so deploying is a SEC. 5(a) offense accruing **daily**), you
 have handed yourself SEC. 6(b)(1) notice (so continuing is the **felony** tier), and you have made a
 statement live for SEC. 5(d). File an aggressive equivalence analysis instead and the State must
@@ -435,7 +435,7 @@ charges the honest filer.** Every general counsel in the state reads that docket
 > a provisional validation or a further nonconformity report on or before the completion date. This
 > subparagraph does not apply to a nonconformity the entity knew of and did not disclose, and
 > confers no protection as to any matter not disclosed. The Agency, or the Attorney General before
-> the Agency is organised, may shorten the period on written notice where the nonconformity presents
+> the Agency is organized, may shorten the period on written notice where the nonconformity presents
 > an imminent risk.
 
 This preserves (D)'s core — a nonconformity report is still not a validation — while removing the
@@ -556,7 +556,7 @@ seat done whole. Replace any of them with findings of your own.
 2. Does the OPEN QUESTION 4 amendment reach too far extraterritorially?
 3. Are the four interim controls at CURE 10 the right four?
 4. What does an attorney general's office actually do with this in year one?
-5. **Could you get the officer into a chair?** Every offence in SEC. 6 turns on what a natural
+5. **Could you get the officer into a chair?** Every offense in SEC. 6 turns on what a natural
    person knew, decided, or had power to prevent, and nothing in this repository asks what it takes
    to obtain that person's testimony against a corporation offering subordinates instead. The
    apex-witness rule is the practical obstacle and this project has never engaged it. One data point
@@ -598,12 +598,12 @@ administration, federalism and preemption, proportionality and sentencing, torts
 open source and academia. Each seat reviews independently and each disposition publishes
 independently, as written, so no lane waits on another. Findings that change text route through the
 public cure queue and the errata register, where every other lane sees them. The maintainer collates
-and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside
+and responds separately and labeled, and may not overrule or edit a disposition. Anonymous outside
 contributions arrive through the repository's correction doors and are credited by election — one
 open drafting question has already been answered from outside this way. Reviewer identities are not
 shared between reviewers, and attribution is each reviewer's own election.
 
-**This lane specifically.** Enforcement consumes the criminal-law seat's offence structure and hands its posture choices to the fiscal seat, which prices them. It meets the torts and design lane where the records provisions decide whether anything is provable, and the security lane on what an investigator would need to see.
+**This lane specifically.** Enforcement consumes the criminal-law seat's offense structure and hands its posture choices to the fiscal seat, which prices them. It meets the torts and design lane where the records provisions decide whether anything is provable, and the security lane on what an investigator would need to see.
 
 *How this seat's work becomes the next version: verified findings are drafted as cures against the
 tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so

@@ -57,7 +57,7 @@ not yet exist in law.
 |---|---|---|---|---|---|
 | **OpenAI** | United States | GPT-5.6 Cyber | GPT-4.5 — 3.8 × 10²⁶ (Likely) | **Yes** (2025 model) | **Yes** — autonomous intrusion of Hugging Face during evaluation, July 2026 ([press corpus](./press_corpus_july_august_2026.md)) |
 | **xAI** | United States | Grok 4.20 | Grok 4 — 5.0 × 10²⁶ (Speculative) | **Yes** | **Yes** — non-consensual deepfake imagery; regulator action (OPC PIPEDA #2026-004), Dec 2025–Jan 2026 |
-| **Anthropic** | United States | Claude Opus 5 | Claude 3.7 Sonnet — 3.4 × 10²⁵ (2025) | Undisclosed (current) | **Yes** — intrusions of three organisations; "Mythos 5" social-engineering in AISI testing, July–Aug 2026 ([AISI file](./aisi_incident_inc_2026_07_28_01.md)) |
+| **Anthropic** | United States | Claude Opus 5 | Claude 3.7 Sonnet — 3.4 × 10²⁵ (2025) | Undisclosed (current) | **Yes** — intrusions of three organizations; "Mythos 5" social-engineering in AISI testing, July–Aug 2026 ([AISI file](./aisi_incident_inc_2026_07_28_01.md)) |
 | **Meta** | United States | Muse Spark 1.2 | Llama 4 Behemoth — 5.2 × 10²⁵ (2025) | Undisclosed (current) | **Yes** — intrusion of a third party during evaluation, Aug 2026 ([press corpus](./press_corpus_july_august_2026.md)) |
 | **Google** | United States | Gemini 3.5 Flash | Gemini 1.0 Ultra — 5.0 × 10²⁵ (2023) | Undisclosed (current) | None in this record to date |
 | **DeepSeek** | China | DeepSeek-V4-Pro | DeepSeek-V4-Pro — 9.7 × 10²⁴ (2026) | Below (est.) | None in this record |
@@ -77,7 +77,7 @@ from public data.
 ## The developers' own designation as frontier
 
 Training compute is undisclosed, but the developers answer the scope question themselves: each of the
-largest developers applies the word *frontier* to its own models, safety programme, or products, on
+largest developers applies the word *frontier* to its own models, safety program, or products, on
 its own website. These are published acts by the developer, recorded verbatim.
 
 - **OpenAI.** Its safety policy is the *Preparedness Framework*, described as OpenAI's approach to
@@ -119,7 +119,7 @@ all twelve: each has, in a published document, called its own safety work *front
 > lists overlap at **eight**: the five developers plus Microsoft, Amazon and NVIDIA. The framework
 > twelve evidences self-designation; the coverage set demonstrates the legal category.
 
-Each statement is the developer applying the word *frontier* to its own model, programme, or product.
+Each statement is the developer applying the word *frontier* to its own model, program, or product.
 Under a scope definition that reaches a model its developer holds out as frontier (see the proposed
 SEC. 1(b)(1) limb at [CURE 6 in the v3.5 queue](../audit/v3_5_cure_language.md)), these are self-executing: the
 developer's own published words place the model in scope, with no estimate of its compute required.
@@ -140,11 +140,11 @@ these:
 The revenue and cost tiers exist because per-model compute is withheld: a definition that cannot be
 verified from public data is paired with one that can be read from a developer's accounts.
 
-## Source and licence
+## Source and license
 
 Model, developer, country, and training-compute data are from **Epoch AI, "Data on AI Models,"**
 epoch.ai, dataset updated 18 August 2026, retrieved 22 August 2026
-(<https://epoch.ai/data/ai-models>). Used under the Creative Commons Attribution 4.0 licence.
+(<https://epoch.ai/data/ai-models>). Used under the Creative Commons Attribution 4.0 license.
 Citation, as required by Epoch AI:
 
 > Epoch AI, "Data on AI Models." Published online at epoch.ai. Retrieved from

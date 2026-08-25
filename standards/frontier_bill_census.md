@@ -91,10 +91,10 @@ the number of rows actually read.*
 | Of those read: requiring a human signature **from anyone at all** | **1** (Illinois — and it is the outside auditor's) |
 | Of those read: requiring a signature from **anyone inside the developer** | **0** |
 | Of those read: any criminal liability at all, entity or person | **0** |
-| Of those read: **actually frontier bills** | **5 of 7** — two were chatbot statutes miscategorised by the tracker |
+| Of those read: **actually frontier bills** | **5 of 7** — two were chatbot statutes miscategorized by the tracker |
 | Highest penalty found | **\$20,000,000 per day** (H.R. 9917), payable by the company |
 
-*The count moved from six to seven on 22 August 2026, and the artefact was the same one twice.
+*The count moved from six to seven on 22 August 2026, and the artifact was the same one twice.
 **California SB 53 had been read in full on 21 August — by a human eye, from the chaptered text,
 graded ✅ — and was not being counted**, while its findings were being used in the rows below it:
 the officers-and-directors line cited SB 53 inside a denominator SB 53 was not in. That is the
@@ -105,7 +105,7 @@ count in the same edit that grades it.***
 
 *The count moved from four to six on 21 August 2026. New York was read that day. **Illinois had
 been read and answered since the 20th and was not being counted**, because its row sits above as
-the worked example rather than in the rows section — an accounting artefact of the file's layout,
+the worked example rather than in the rows section — an accounting artifact of the file's layout,
 not a second reading. It is counted now, and the signature line is split in two so that Illinois's
 one human signature cannot be mistaken for the thing this census is looking for.*
 
@@ -143,7 +143,7 @@ them hides which fix is owed.
 | Grade | Meaning | The fix owed |
 |---|---|---|
 | ✅ | The enrolled or introduced text was opened **and read by a human eye** | none |
-| ⚠ **R** | The primary **was opened**, but read through automated retrieval — a summarising model stood between the text and the row | a human re-read; the locator is already in hand |
+| ⚠ **R** | The primary **was opened**, but read through automated retrieval — a summarizing model stood between the text and the row | a human re-read; the locator is already in hand |
 | ⚠ **F** | The primary **was not opened**; the row rests on a secondary quoting it | a fetch, and the fetchable locator is named in the row |
 | ⚠ **P** | Read in part — some sections opened, others not | name which sections |
 
@@ -270,7 +270,7 @@ retrieved (robots), so cosponsor count and committee referral are **unrecorded, 
 *This row closes a queue item.* [E15](../ledger/errata.md) listed "the AI Kill Switch Act's
 thresholds, penalties, and red-teaming carve-out" as ⚠ pending fetch with no primary opened. The
 primary is now open and the three items are answered — at ⚠ R, not ✅, because opening a document
-through a summarising model is not the same as reading it.
+through a summarizing model is not the same as reading it.
 
 ---
 
@@ -288,7 +288,7 @@ operations"*, and a **large** frontier developer adds annual gross revenues over
 *Certification* — hit, but a **false positive** on our question: it is an employee's
 certification to an employer in the employment-discrimination section, not a developer's
 attestation. *Natural person*, *personally*, *attest*, *signature*, *criminal*, *misdemeanor*,
-*felony*, *imprison*, *knowingly*, *wilful* — **all absent.**
+*felony*, *imprison*, *knowingly*, *willful* — **all absent.**
 
 **Who owes the duty.** The frontier developer, as an entity. Large frontier developers must
 establish a channel for covered employees to submit anonymous reports of catastrophic risk,
@@ -498,7 +498,7 @@ than an audit.**
 **Illinois 430 ILCS 185/10(d)(2)(C) and (G) — the two provisions this project's Illinois proposal
 is built on — are New York S 6953-A § 1421(4)(C)(III) and (IV).**
 
-#### Two details that settle how the text travelled
+#### Two details that settle how the text traveled
 
 **One — the ninety-day clause is New York's, and Illinois carries it verbatim.** California's
 SB 1047 has no such clause; it opens flatly with *"Beginning January 1, 2028."* New York's opens
@@ -704,7 +704,7 @@ preferred.)*
 #### How this question actually gets answered, in order of what it costs
 
 *A question stated and not worked is a decoration. New York leaves a paper trail and most of it is
-free. This is the retrieval programme, ranked by cost, with what each source can and cannot show.
+free. This is the retrieval program, ranked by cost, with what each source can and cannot show.
 Nothing below is a finding; it is a list of places the finding might be.*
 
 **Free, online, do these first.**
@@ -756,7 +756,7 @@ Nothing below is a finding; it is a list of places the finding might be.*
    U.S. Senate, the New York City Council, and California, Illinois, Pennsylvania and Vermont. That
    study is about confirmations rather than bills, so it is not directly on point; it is here
    because it is third-party evidence about this chamber's record-keeping, and it means the
-   programme above should not assume committee-level material will be produced on request. Source
+   program above should not assume committee-level material will be produced on request. Source
    at `library/REPORT_Reinvent-Albany_NY-Senate-confirmation-vote-transparency_2025-12.pdf`.
 
 **Costs a request, and is the richest single source.**
@@ -777,7 +777,7 @@ Nothing below is a finding; it is a list of places the finding might be.*
 **People, which is where the answer probably actually lives.**
 
 8. **The two sponsors and their counsel.** Being asked. Senator Gounardes is the surviving author.
-9. **The advocacy organisations that worked the bill.** Whoever was pushing RAISE knows what was
+9. **The advocacy organizations that worked the bill.** Whoever was pushing RAISE knows what was
    traded, and several of them publish.
 
 **The rule that applies to all of it.** Whatever comes back is published as given, including, and
@@ -833,7 +833,7 @@ From the bill's official Digest:
 > thereafter, to retain an **independent third-party auditor** to assess compliance with its
 > frontier AI framework and identify any material deviations from the framework.
 
-**The audit travelled. The signature did not.** On the Digest, Louisiana carries the annual
+**The audit traveled. The signature did not.** On the Digest, Louisiana carries the annual
 independent third-party audit and **no lead-auditor signature**, and the commencement date has been
 moved off the inherited 1 January 2028 to 1 July 2028 — the one place the drafting was adjusted
 rather than carried.
@@ -1090,7 +1090,7 @@ opened)*:
   **cross-checked against the govinfo bulk XML**). The **AI Flaw Reporting and Security
   Enhancement Act** — Ross, with Hurd of Colorado and Beyer; bipartisan; introduced 18 June 2026;
   Science, Space, and Technology; **ordered reported 35–0 on 25 June 2026**. NIST, consulting CISA,
-  runs a programme supporting *"the voluntary reporting, collection, and tracking of artificial
+  runs a program supporting *"the voluntary reporting, collection, and tracking of artificial
   intelligence flaws"*, convenes a multi-stakeholder process to define nine terms
   (vulnerabilities, failure modes, accidents, failures, hazards, catastrophes, misuse, incidents,
   adverse events), and builds *"a national database of artificial intelligence flaws or the
@@ -1118,7 +1118,7 @@ opened)*:
   **And the census's finding survives in a new register.** H.R. 9333 builds the receiving end that
   a reporting duty presupposes — the database — and creates no duty on anyone to file into it.
   Infrastructure, unanimously; the person, not at all. *(Reading note with every quotation and the
-  OCR artefacts named: `library/NOTES_Reading_HR9333-FLARE-Science_2026-08-25.md`.)*
+  OCR artifacts named: `library/NOTES_Reading_HR9333-FLARE-Science_2026-08-25.md`.)*
 
 - [x] **New York — the FOCUS Act** — done, 25 Aug, ✅ **primary read in full** (Fostering Optimal
   Classroom Use of Screens; Gounardes, introduced 21 Aug 2026; drafting commission print
@@ -1211,7 +1211,7 @@ hand and read: § 121(b) preempts state law "specifically regulating the develop
 models; § 121(c)(1) — *"Nothing in this section preempts any State law or regulation of general
 applicability"*; § 121(c)(2) preserves post-deployment law; § 121(d) sunsets in three years.
 And the officer tally holds from the primary: every signature Title I requires belongs to the
-Independent Verification Organisation's "lead audit and assessment partner" (§ 112(e)(8), (g),
+Independent Verification Organization's "lead audit and assessment partner" (§ 112(e)(8), (g),
 (h)); § 112(e)(7) has the IVO *assess* "the designation and empowerment of senior personnel
 responsible for ensuring compliance" — assessed, never signing. The federal ceiling's most
 developed draft reaches everything but the officer.

@@ -59,7 +59,7 @@ the statutory form of the same expectation.
 technologists *"often cannot explain why a model produced a specific output,"* which *"can
 make it hard to predict the behavior of any specific AI system"* (Pillar I). That sentence, in
 the government's own accelerationist document, is the factual predicate for ex-ante duties:
-where behaviour cannot be predicted, due care must attach to the decisions around the system
+where behavior cannot be predicted, due care must attach to the decisions around the system
 — validation, records, reporting — because nothing else is available to attach it to.
 
 **And attestation without enforcement is conceded to fail.** The Plan's biosecurity section
@@ -72,7 +72,7 @@ applied to the attesters who matter most.
 
 ## The shared silence
 
-Now the absence. The Action Plan is not short of officers: it formalises a Chief Artificial
+Now the absence. The Action Plan is not short of officers: it formalizes a Chief Artificial
 Intelligence Officer Council, and its incident playbooks require *"Chief Information Security
 Officers to consult with Chief AI Officers."* Every officer it names is the government's own
 employee. It even shows that conditioning frontier developers is thinkable when the objective
@@ -92,7 +92,7 @@ both — and it is the only page this Act is.
 
 ## The footnote that reads like a confession
 
-The Plan's permitting section proposes to expedite data-centre construction by *"streamlining
+The Plan's permitting section proposes to expedite data-center construction by *"streamlining
 or reducing regulations promulgated under the Clean Air Act, the Clean Water Act, the
 Comprehensive Environmental Response, Compensation, and Liability Act"* — footnotes 27 and 28,
 citing 42 U.S.C. §§ 7401–7671q and §§ 9601–9675 in full. The first of those statutes is not a

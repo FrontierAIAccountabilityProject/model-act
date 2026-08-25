@@ -80,17 +80,17 @@ doctrine. Sean Lyness, *Revitalizing the State Environmental Responsible Corpora
 Doctrine*, 64 B.C. L. Rev. 253 (2023), would revive the responsible corporate officer doctrine in
 the states for **"individual civil liability—and only civil liability."** His reason bears directly
 on SEC. 6 and is not answered anywhere in the sections above: *Dotterweich* and *Park* are
-**misdemeanour** authority, decided "during a time when the immediate and collateral consequences
-were different" (at 297-98). A misdemeanour conviction in 1943 and in 1975 did not carry what a
+**misdemeanor** authority, decided "during a time when the immediate and collateral consequences
+were different" (at 297-98). A misdemeanor conviction in 1943 and in 1975 did not carry what a
 conviction carries now — the collateral consequences, the licensing bars, the immigration
 consequences, the sentencing exposure. So the argument is not that officers should escape; it is
 that the authorities the Act leans on will not bear the weight the Act puts on them, because the
-Act's felony tier asks a misdemeanour doctrine to justify a life-maximum offence.
+Act's felony tier asks a misdemeanor doctrine to justify a life-maximum offense.
 
 **Why this is in the sweep and not only in the objections file.** It is the one criticism of this
 lane made in print, by name, by the scholar whose own state-by-state survey the Act cites for its
 comparative claims. The lane's honest position is that the base tier answers it and the felony tier
-may not: *Park* holds at the misdemeanour floor, and the sweep says so two sections down. What the
+may not: *Park* holds at the misdemeanor floor, and the sweep says so two sections down. What the
 sweep does **not** have is an argument that the same authority reaches SEC. 6(b). **That gap is a
 finding waiting to be made or refuted, and it is the single most valuable thing a criminal-law
 reviewer could take up.** It is question 7 on the menu.
@@ -205,7 +205,7 @@ effective date. Widening the SEC. 9 trigger therefore widens a crime punishable 
 and (h)(4) reaches "a cut, abrasion, bruise … or any other injury to the body, no matter how
 temporary." **Use (h)(3) for both.** If earlier warning is wanted, take it from an objective
 observable with its own donor — an injury requiring medical treatment beyond first aid, within the
-meaning of 29 C.F.R. § 1904.7(b)(5) — which is a fact rather than a characterisation, and so keeps
+meaning of 29 C.F.R. § 1904.7(b)(5) — which is a fact rather than a characterization, and so keeps
 faith with SEC. 9(c) and n.16.
 
 **One further amendment the sweep requires.** Most state penal codes already define "serious bodily
@@ -216,7 +216,7 @@ add: *"This definition governs this Act notwithstanding any other definition of 
 similar term in the law of this State."*
 
 **Still open:** READ FIRST 3(c), the bracketed [two]-year minimum. The sweep finds the *number*
-defensible — it attaches only to a knowing or wilful violation that proximately causes death, and
+defensible — it attaches only to a knowing or willful violation that proximately causes death, and
 is the lowest figure in its donor neighbourhood — but finds it **cosmetic without a non-suspension
 clause**, because in most states a "minimum" is satisfied by a suspended sentence with probation
 unless the statute says otherwise. It also collides with the state's own homicide grid with no
@@ -339,10 +339,10 @@ gate rather than an element, which is the *Alleyne* / *Apprendi* problem. SEC. 1
 does this correctly for the harm tier and SEC. 6(c) does not.
 
 **Operation 4 — restore *Park*'s burden structure.** The companion at n.6 asserts that SEC. 6(d)
-"is *Park* itself." The text says something different, and a defence-friendly court will read
+"is *Park* itself." The text says something different, and a defense-friendly court will read
 "Genuine absence of power negates the element; it is not an affirmative defense" to mean the
 defendant need produce nothing. Pre-indictment the State cannot see the delegation memoranda or the
-reserved-matters schedule; against a structured defence it simply does not indict. **This is not a
+reserved-matters schedule; against a structured defense it simply does not indict. **This is not a
 constitutional defect. It is the reason the offense would never be charged.**
 
 **NEW TEXT — appended to SEC. 6(d):**
@@ -397,7 +397,7 @@ Rev. at 287–88). Operation 1's three elements are the same architecture: autho
 actual violation, facilitation-by-failure. The sweep's hypothesis, drafted from *Park* alone,
 independently converged on the formulation thirty years of state case law settled on — which is
 evidence the fix is sound, and a citation for the criminal-law seat to check it against.
-Washington's *McNamara* adds the SEC. 6(e) phrase itself: liability centred on "the corporate
+Washington's *McNamara* adds the SEC. 6(e) phrase itself: liability centered on "the corporate
 officer's ability to prevent or correct a violation of the relevant statute" (292 P.3d 812, 831
 (Wash. Ct. App. 2013)). One further reference for the seat: Ferzan, *Probing the Depths of the
 Responsible Corporate Officer's Duty*, 12 Crim. L. & Phil. 455 (2018) (the mens-rea-depth debate;
@@ -444,14 +444,14 @@ notice to the entity or any controlling person"
 **fatal**. Sweep-derived.*
 
 **The defect.** SEC. 5(d) makes a "false or misleading statement of material fact" to the Agency an
-offense with **no mental state at all** — not knowingly, not wilfully, not recklessly. The companion
+offense with **no mental state at all** — not knowingly, not willfully, not recklessly. The companion
 at n.20 says the offense follows "the structure of 18 U.S.C. § 1001" — which requires "knowingly and
 willfully" — and relies on the *Alvarez* plurality's carve-out, which preserves statutes punishing
 *knowing* falsity. **A strict-liability false-statement offense is outside the carve-out the note
 relies on.** An engineer who transmits a compute figure later shown wrong by an accounting
 convention the Agency had not yet ruled on has committed it; entity liability is strict and
 immediate, and SEC. 6(a) supplies a year's custody on due-care failure. "Misleading" makes it worse:
-a literally true statement is criminal, with no scienter — the compelled-characterisation problem
+a literally true statement is criminal, with no scienter — the compelled-characterization problem
 the Act works hard to avoid at SEC. 8, SEC. 9(c) and n.16, reintroduced through the back door. And
 this is the offense SEC. 13(b)(1) puts in the **first rank** and n.13 relies on as preemption-proof:
 central, and the softest target in the Act.
@@ -522,12 +522,12 @@ the seat done whole. Replace any of them with findings of your own.
 5. Does a state's suspended-sentence law defeat the harm-tier minimum? *(the sweep could not
    settle this)*
 6. Does per-victim counting survive the state's merger doctrine? *(nor this)*
-7. **Does misdemeanour authority reach a felony tier?** *Dotterweich* and *Park* are misdemeanour
+7. **Does misdemeanor authority reach a felony tier?** *Dotterweich* and *Park* are misdemeanor
    cases. Lyness argues the state doctrine should carry individual **civil** liability and only
    civil liability, on the ground that those cases were decided "during a time when the immediate
    and collateral consequences were different" (64 B.C. L. Rev. 253, 297-98). The sweep's own
    answer stops at the base tier: *Park* holds, and *Staples*' penalty-sensitivity "does not bite
-   at a misdemeanour." **Nothing in this repository argues that the same authority reaches
+   at a misdemeanor." **Nothing in this repository argues that the same authority reaches
    SEC. 6(b).** Either supply that argument or refute it; either way it is a finding, and it is the
    one the maintainer most wants answered. *(Added 25 August 2026; the sweep's own statement of it
    is in Part I above.)*
@@ -557,12 +557,12 @@ administration, federalism and preemption, proportionality and sentencing, torts
 open source and academia. Each seat reviews independently and each disposition publishes
 independently, as written, so no lane waits on another. Findings that change text route through the
 public cure queue and the errata register, where every other lane sees them. The maintainer collates
-and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside
+and responds separately and labeled, and may not overrule or edit a disposition. Anonymous outside
 contributions arrive through the repository's correction doors and are credited by election — one
 open drafting question has already been answered from outside this way. Reviewer identities are not
 shared between reviewers, and attribution is each reviewer's own election.
 
-**This lane specifically.** Criminal law gates the others in one direction: if the offence structure does not hold, the enforcement seat has nothing to charge and the proportionality seat nothing to grade. It meets the proportionality lane on the tier structure and the misdemeanour question, and the enforcement lane on what a prosecutor could actually prove.
+**This lane specifically.** Criminal law gates the others in one direction: if the offense structure does not hold, the enforcement seat has nothing to charge and the proportionality seat nothing to grade. It meets the proportionality lane on the tier structure and the misdemeanor question, and the enforcement lane on what a prosecutor could actually prove.
 
 *How this seat's work becomes the next version: verified findings are drafted as cures against the
 tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so

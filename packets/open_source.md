@@ -38,7 +38,7 @@ threshold arithmetic.
 ## I. The question this lane owns: what does a release reach?
 
 [CURE 13](../audit/v3_5_cure_language.md#cure-13--sec-1b1b-say-sever-not-extend) is the lane's
-centre of gravity, and the queue's own grading is candid. Under a hostile reading of SEC.
+center of gravity, and the queue's own grading is candid. Under a hostile reading of SEC.
 1(b)(1)(B) as tagged, a downstream fine-tune of any released open-weight frontier model is
 itself a covered system, which would put an open release's entire derivative tree inside the
 Act. The drafted repair says **sever, not extend**: a derivative counts only when its own
@@ -54,7 +54,7 @@ into the State, can be squared with the reality that a release is to everywhere 
 The Act's duties bind hardest before release: pre-release evaluation, weight security,
 designation. An open release, once made, moves the model beyond the developer's power to
 secure or recall, so the statute's architecture in effect asks the most of exactly the actors
-whose distribution model forfeits later control. The record's defence is that this is the point:
+whose distribution model forfeits later control. The record's defense is that this is the point:
 the decisions that matter are the ones made while control still exists, and the officer who
 signs is signing about that moment. The obvious counter, which this seat is invited to press, is
 that the same architecture makes closed deployment the compliance-cheap path and taxes openness
@@ -108,7 +108,7 @@ Two intakes bear on this seat, and they pull against each other.
 **H.R. 9333**, the AI Flaw Reporting and Security Enhancement Act (Ross, Hurd of Colorado, Beyer;
 introduced 18 June 2026; ordered reported 35-0 on 25 June) has NIST build "a national database of
 artificial intelligence flaws" and defines the reportable thing at SEC. 2(e)(2) as conditions or
-behaviours allowing a policy violation "and which is not dependent on the presence of malicious
+behaviors allowing a policy violation "and which is not dependent on the presence of malicious
 intent or related harm." That definition is better than ours in one respect this seat should test:
 it does not care who caused the flaw. For an open release, where the releaser cannot know what a
 downstream party will do, a harm-independent and intent-independent definition of the reportable
@@ -117,7 +117,7 @@ nobody is required to file anything.
 
 **FLARE-AI** (Longpre, Zhu, Ezell and Ghosh et al., arXiv:2606.31567, ICML 2026) is the reference
 implementation for that flow, built with CERT, MITRE, AIID, Hugging Face, OECD, OpenAI, Anthropic
-and Google after consulting 49 experts across 32 organisations. Its authors state its limit
+and Google after consulting 49 experts across 32 organizations. Its authors state its limit
 themselves: it is "an ecosystem coordination tool rather than a compliance reporting tool." A
 reviewer in this seat is entitled to ask whether a criminal reporting duty can sit on top of
 voluntary infrastructure without breaking it.
@@ -150,7 +150,7 @@ are the seat done whole. Replace any with findings of your own.
 6. The academic half of the seat: what does the statute owe the research exemption, and does
    any current text distinguish a university fine-tune from a commercial one, and should it?
 7. Should SEC. 9's reportable condition be redrafted onto H.R. 9333's definition, which is
-   independent of malicious intent and of realised harm, and what does that do to an open
+   independent of malicious intent and of realized harm, and what does that do to an open
    releaser who cannot observe downstream use?
 
 ## The other seats, and how this lane meets them
@@ -159,7 +159,7 @@ The review runs in parallel lanes: criminal law, enforcement, security, fiscal, 
 proportionality, torts and design, and this one. Each seat reviews independently; each
 disposition publishes independently, as written, so no lane waits on another. Findings that
 change text route through the public cure queue and the errata register. The maintainer collates
-and responds separately and labelled, and may not overrule or edit a disposition. Reviewer
+and responds separately and labeled, and may not overrule or edit a disposition. Reviewer
 identities are not shared between reviewers, and attribution is each reviewer's own election.
 
 For this lane specifically: security is the adjacent seat, because weight security and open

@@ -48,10 +48,10 @@ findings, then the lane's remaining register. All of it is contestable; contesti
 
 ### F5 — The safeguards-off evaluation falls into a hole between SEC. 2(c) and SEC. 2(a) *(security)*
 
-SEC. 2(c)'s controlled-research safe harbour requires containment denying autonomous external
+SEC. 2(c)'s controlled-research safe harbor requires containment denying autonomous external
 access and denying persistence beyond each session. The configuration that produced every 2026
 incident — external reach enabled, safeguards disabled — fails those conditions, so it gets no safe
-harbour. But per F2 it is also not a deployment, so the general duty may not attach either.
+harbor. But per F2 it is also not a deployment, so the general duty may not attach either.
 **Nothing in the Act reaches the single most dangerous configuration in the record.** This is
 OPEN QUESTION 2, answered: the gap is real, and the fix is F2's amendment rather than a new offense.
 
@@ -120,7 +120,7 @@ intersection is empty. That claim is the first thing worth attacking.*
 
 **Nothing in this lane.** The sweep drafted repairs for the criminal-law, enforcement and
 open-source lanes; for security it recorded findings and stopped, because the fix is a technical
-judgment the project does not have. Two items from the neighbouring lane are the closest thing to
+judgment the project does not have. Two items from the neighboring lane are the closest thing to
 drafted language touching your objectives, and your question 3 is best answered with them in view.
 
 ## CURE 10 — SEC. 3(c)(3): interim controls, so SEC. 5(b) is not dormant until year four
@@ -167,7 +167,7 @@ dependency rather than adding one.
 *From the queue's fatals pass, same file — the federal comparator, addressed to this seat:*
 
 **To CURE 10 (interim controls) — the federal comparator retrieved.** 42 C.F.R. § 73.11 (select-
-agent security plans, summarised from the eCFR 23 Aug, ⚠ R) requires: access only for approved
+agent security plans, summarized from the eCFR 23 Aug, ⚠ R) requires: access only for approved
 individuals with unique non-shared credentials; separation of restricted areas with layered
 barriers; procedures for receiving, monitoring and shipping; intrusion detection; information-
 security controls against unauthorized external connections; and **immediate reporting of
@@ -220,7 +220,7 @@ administration, federalism and preemption, proportionality and sentencing, torts
 open source and academia. Each seat reviews independently and each disposition publishes
 independently, as written, so no lane waits on another. Findings that change text route through the
 public cure queue and the errata register, where every other lane sees them. The maintainer collates
-and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside
+and responds separately and labeled, and may not overrule or edit a disposition. Anonymous outside
 contributions arrive through the repository's correction doors and are credited by election — one
 open drafting question has already been answered from outside this way. Reviewer identities are not
 shared between reviewers, and attribution is each reviewer's own election.

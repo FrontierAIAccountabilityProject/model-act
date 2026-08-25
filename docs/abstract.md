@@ -10,7 +10,7 @@ American law has a doctrine for the situation where a company's ordinary operati
 in danger and no single act of wrongdoing can be pinned on anyone: the **responsible corporate
 officer**, from *United States v. Dotterweich* (1943) and *United States v. Park* (1975). The
 person who held the practical authority to prevent or halt the condition answers for it, whatever
-their job title said, and delegation is not a defence. **That doctrine has never been extended to
+their job title said, and delegation is not a defense. **That doctrine has never been extended to
 frontier artificial intelligence**, and every American AI statute now in force places its duties
 and its penalties on the company alone.
 
@@ -101,14 +101,14 @@ a permanent, numbered, credited entry rather than a quiet edit.
 It is **not law**, not introduced, and not endorsed by anyone. Under the project's own published
 rule, **nobody — the maintainer included — may claim this text "survived review" until named
 reviewers sign**, and none have yet. It is maintained by **one person**, unfunded and unaffiliated:
-not a company, a party, a government office, or an advocacy organisation. The drafting is
+not a company, a party, a government office, or an advocacy organization. The drafting is
 **AI-assisted and says so on every relevant page**; source selection, corrections and publication
 are the maintainer's responsibility. The maintainer writes pseudonymously in public and is
 identifiable privately to reviewers before they sign.
 
 And the known defects are published first, not last. An in-house adversarial pre-review returned
 **seven findings graded fatal, four of them in the tagged text** — including that SEC. 6(a), the
-individual-liability offence this Act exists to create, cannot be pleaded as drafted. Those
+individual-liability offense this Act exists to create, cannot be pleaded as drafted. Those
 findings are on the front page, above the argument.
 
 ## Where to start

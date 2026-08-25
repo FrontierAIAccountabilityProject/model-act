@@ -55,7 +55,7 @@ through it: [REVIEWERS.md](./REVIEWERS.md).*
 * **[Why a signature works](./standards/why_a_signature_works.md)**: The theory of personal certification, on government evidence.
 * **[Why the disparity](./standards/why_the_disparity.md)**: The normative argument.
 * **[The commentary sweep](./standards/commentary_sweep.md)**: A stated, re-runnable empirical test.
-* **[The pending federal comment](./filings/fda_2026_n_7874_comment.md)**: The method practised in draft — published for criticism before it is filed; the docket closes 19 October 2026.
+* **[The pending federal comment](./filings/fda_2026_n_7874_comment.md)**: The method practiced in draft — published for criticism before it is filed; the docket closes 19 October 2026.
 * **[How to file a federal comment](./filings/how_to_file_a_federal_comment.md)**: The practice, made repeatable by anyone.
 * **[Banked threads](./filings/banked_threads.md)**: The discipline applied even to social posts — claims held until their facts publish.
 * **[The diary](./ledger/diary.md)**: Research design disclosed day by day, AI assistance included.
@@ -112,10 +112,10 @@ through it: [REVIEWERS.md](./REVIEWERS.md).*
 ### Conclusion — findings acted on, open items, emerging issues
 
 * **[Fixes promised then applied](./audit/v3_4_cure_language.md)**: The completed cycle — published in advance, landed verbatim, diffable.
-* **[Fixes drafted and waiting](./audit/v3_5_cure_language.md)**: The open programme — drafted cures and the open questions, the largest being whether the Act reaches the testing room.
+* **[Fixes drafted and waiting](./audit/v3_5_cure_language.md)**: The open program — drafted cures and the open questions, the largest being whether the Act reaches the testing room.
 * **[The standing watch](./audit/standing_watch_2026-08-20.md)**: What is moving now, and toward the Act.
 
-*This is the thinnest chapter, and honestly so: the project is mid-programme, and its conclusion
+*This is the thinnest chapter, and honestly so: the project is mid-program, and its conclusion
 is currently a set of open questions with drafted answers awaiting review.*
 
 ### Back Matter — navigation, citation, and the discipline of old links
@@ -124,10 +124,10 @@ is currently a set of open questions with drafted answers awaiting review.*
 * **[The errata register](./ledger/errata.md)**: Corrigenda, append-only to E32 — each mistake beside its fix.
 * **[The changelog](./ledger/changelog.md)**: Version history, checksummed, drift noted.
 * **[The ledger front](./LEDGER.md)** · **[errata signpost](./ERRATA.md)** · **[changelog signpost](./CHANGELOG.md)**: The accountability structure, findable by its conventional names.
-* **[Citation metadata](./CITATION.cff)** · **[Licence](./LICENSE)**: How to cite; public domain.
+* **[Citation metadata](./CITATION.cff)** · **[License](./LICENSE)**: How to cite; public domain.
 * *Orientations:* **[audit](./audit/README.md)** · **[docs](./docs/README.md)** · **[standards](./standards/README.md)** · **[ledger](./ledger/README.md)** · **[dossier](./dossier/README.md)** (opens with its corrections table) · **[dossier inner](./dossier/00_README.md)** · **[filings](./filings/README.md)** · **[archive](./archive/README.md)**.
-* *Travelled links, kept:* eight `chunk*.md` redirect stubs · **[the behind-the-scenes stub](./docs/08-behind-the-scenes.md)** — a path that has been cited is never broken.
-* **[One dated screenshot](./dossier/x_todays_news_2026-08-18.png)**: Project-level artefact.
+* *Traveled links, kept:* eight `chunk*.md` redirect stubs · **[the behind-the-scenes stub](./docs/08-behind-the-scenes.md)** — a path that has been cited is never broken.
+* **[One dated screenshot](./dossier/x_todays_news_2026-08-18.png)**: Project-level artifact.
 
 ---
 
@@ -144,7 +144,7 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
 |---|---|---|
 | [`model_act_v3_4.txt`](./model_act_v3_4.txt) | **The operative text.** SEC. 0–13. Everything else in this repository is apparatus around it. | tagged |
 | [`model_act_v3_4_jacket_clean.txt`](./model_act_v3_4_jacket_clean.txt) | The same text stripped of apparatus, for a bill folder. | tagged |
-| [`model_act_v3_4_companion.md`](./model_act_v3_4_companion.md) | Drafting notes n.1–n.43, the constitutional defence, and the READ FIRST open items. | tagged |
+| [`model_act_v3_4_companion.md`](./model_act_v3_4_companion.md) | Drafting notes n.1–n.43, the constitutional defense, and the READ FIRST open items. | tagged |
 | [`model_regulations_v1_draft.md`](./model_regulations_v1_draft.md) | The draft implementing regulations. Unadopted; conformed to v3.4 by CURE 3. | live |
 | [`model_act_v3_3.txt`](./model_act_v3_3.txt) | Superseded. | signpost |
 
@@ -189,7 +189,7 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
 |---|---|---|
 | [`ledger/errata.md`](./ledger/errata.md) | **Every published claim this project got wrong**, with the fix. E1–E31. The project's only credential. | append-only |
 | [`ledger/changelog.md`](./ledger/changelog.md) | **What changed in the statute and when**, with checksums. Also the "between versions" notes for apparatus movement. | append-only |
-| [`ledger/diary.md`](./ledger/diary.md) | The working account, day by day, and the Recent artefact index. | append-only |
+| [`ledger/diary.md`](./ledger/diary.md) | The working account, day by day, and the Recent artifact index. | append-only |
 | [`LEDGER.md`](./LEDGER.md) · [`ERRATA.md`](./ERRATA.md) · [`CHANGELOG.md`](./CHANGELOG.md) | Index and historic register names; the anchors are cited in published material and still land. | signpost |
 
 ## The drafting record — `audit/`
@@ -235,7 +235,7 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
 | File | Owns | Status |
 |---|---|---|
 | [`filings/README.md`](./filings/README.md) | What has been filed, where, on what deadline. | live |
-| [`filings/fda_2026_n_7874_comment.md`](./filings/fda_2026_n_7874_comment.md) | **Draft, not yet filed** — published as a draft so it can be criticised before it is sent. | live |
+| [`filings/fda_2026_n_7874_comment.md`](./filings/fda_2026_n_7874_comment.md) | **Draft, not yet filed** — published as a draft so it can be criticized before it is sent. | live |
 | [`filings/how_to_file_a_federal_comment.md`](./filings/how_to_file_a_federal_comment.md) | The field guide to regulations.gov. | live |
 | [`filings/docket_fda_2024_d_4488_reading_notes.md`](./filings/docket_fda_2024_d_4488_reading_notes.md) · [`who_actually_files.md`](./filings/who_actually_files.md) · [`frontier_ai_in_medicine.md`](./filings/frontier_ai_in_medicine.md) · [`banked_threads.md`](./filings/banked_threads.md) | The docket research behind the filings. | live |
 

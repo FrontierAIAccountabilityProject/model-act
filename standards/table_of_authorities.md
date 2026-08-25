@@ -12,7 +12,7 @@ are evidence apparatus, not the Act's authority base, and are not listed here.
 **That exclusion was not a decision, and saying so is the point of this paragraph.** This table was
 compiled on 20 August 2026. The files that cite the law below were written on the 21st. **Nobody
 chose to leave them out; they did not exist yet**, and describing the omission as deliberate would
-be a rationalisation dressed as a policy. The decision is being taken **now**, in the open, and it
+be a rationalization dressed as a policy. The decision is being taken **now**, in the open, and it
 is this: Files in
 `standards/` now cite a great deal of law directly — 18 U.S.C. §§ 4, 1001, 1030 and 1519,
 21 U.S.C. §§ 331 and 333, Form FDA 1572, and a run of prosecutions in
@@ -37,7 +37,7 @@ claim: every line restates a citation already published elsewhere in the reposit
 | Authority | Cited at | For |
 |---|---|---|
 | *United States v. Dotterweich*, 320 U.S. 277 (1943) | SEC. 6(a); n.2, n.6; lineage note | The responsible-relation standard — the officer answers for the public danger the operation creates |
-| *United States v. Park*, 421 U.S. 658 (1975) | SEC. 0(b); n.6 (at 673–74) | Authority to prevent or correct is the element; delegation is no defence; the powerlessness burden structure |
+| *United States v. Park*, 421 U.S. 658 (1975) | SEC. 0(b); n.6 (at 673–74) | Authority to prevent or correct is the element; delegation is no defense; the powerlessness burden structure |
 | *United States v. DeCoster*, 828 F.3d 626 (8th Cir. 2016) | n.6 (concurrence at 637) | The constitutional floor: Park requires negligence to convict; imprisonment on negligence is permissible |
 | *Morissette v. United States*, 342 U.S. 246 (1952) | SEC. 1(a); n.2 (at 256) | The public-welfare category, and the bargain: strict liability without imprisonment |
 
@@ -46,9 +46,9 @@ claim: every line restates a citation already published elsewhere in the reposit
 | Authority | Cited at | For |
 |---|---|---|
 | *Staples v. United States*, 511 U.S. 600 (1994) | n.6 | The modern presumption of scienter where penalties are severe |
-| *Rehaif v. United States*, 588 U.S. 225 (2019) | n.6 | Same line; express-scienter construction honoured where it belongs |
+| *Rehaif v. United States*, 588 U.S. 225 (2019) | n.6 | Same line; express-scienter construction honored where it belongs |
 | *Ruan v. United States*, 597 U.S. 450 (2022) | n.6 | Same line; SEC. 6(b)(1) states its mental element expressly |
-| *Burrage v. United States*, 571 U.S. 204 (2014) | SEC. 10(c)(2)(D), in text; n.21 | The meaning of but-for cause in a results-enhanced offence |
+| *Burrage v. United States*, 571 U.S. 204 (2014) | SEC. 10(c)(2)(D), in text; n.21 | The meaning of but-for cause in a results-enhanced offense |
 | *Apprendi v. New Jersey*, 530 U.S. 466 (2000) | n.21, n.22 | Facts raising the ceiling are jury elements |
 | *Alleyne v. United States*, 570 U.S. 99 (2013) | n.21, n.22 | Facts raising the floor are jury elements |
 | *Almendarez-Torres v. United States*, 523 U.S. 224 (1998) | n.22 | The bare fact of a prior conviction may be judge-found |
@@ -95,10 +95,10 @@ claim: every line restates a citation already published elsewhere in the reposit
 |---|---|---|
 | *Zauderer v. Office of Disciplinary Counsel*, 471 U.S. 626 (1985) | n.16 | Factual, uncontroversial commercial disclosure |
 | *NIFLA v. Becerra*, 585 U.S. 755 (2018) | n.16 | The narrowing, and what it preserved |
-| *X Corp. v. Bonta*, 116 F.4th 888 (9th Cir. 2024) | n.16 | Compelled contested characterisation — always cited as a preliminary-injunction likelihood ruling |
+| *X Corp. v. Bonta*, 116 F.4th 888 (9th Cir. 2024) | n.16 | Compelled contested characterization — always cited as a preliminary-injunction likelihood ruling |
 | *CTIA v. City of Berkeley*, 928 F.3d 832 (9th Cir. 2019) | n.16 | Objective compelled content survives |
 | *National Ass'n of Wheat Growers v. Bonta*, 85 F.4th 1263 (9th Cir. 2023) | n.16 | Outside *Zauderer*; failed *Central Hudson* |
-| *United States v. Alvarez*, 567 U.S. 709 (2012) (plurality) | n.16, n.20 | False-statement offences expressly preserved |
+| *United States v. Alvarez*, 567 U.S. 709 (2012) (plurality) | n.16, n.20 | False-statement offenses expressly preserved |
 | *Rumsfeld v. FAIR*, 547 U.S. 47 (2006) | n.16, n.26 | Compelled speech incidental to conduct regulation |
 | *Connally v. General Construction Co.*, 269 U.S. 385 (1926) | n.24, n.25 | Vagueness in a criminal duty |
 | *Kolender v. Lawson*, 461 U.S. 352 (1983) | n.24, n.25 | Same |
@@ -124,7 +124,7 @@ claim: every line restates a citation already published elsewhere in the reposit
 | Authority | Cited at | For |
 |---|---|---|
 | 18 U.S.C. § 1001 | n.20 | The free-standing false-statement structure |
-| 18 U.S.C. § 1350 | n.8; n.19 | Certification offence model; the \$1,000,000 per-victim fine figure |
+| 18 U.S.C. § 1350 | n.8; n.19 | Certification offense model; the \$1,000,000 per-victim fine figure |
 | 18 U.S.C. § 1365(a) | SEC. 10(c); n.21 | The harm tier's geometry — twenty years per serious injury; life where death results |
 | 18 U.S.C. § 1365(h)(3)–(4) | v3.5 queue, CURE 1 (adopted, not yet landed) | The injury definition replacing 21 C.F.R. § 803.3(w). **Cite with care: these definitions sat at § 1365(g)(3)–(4) until 2 December 2002**, when Pub. L. 107-307 (the *Product Packaging Protection Act of 2002*) added a new subsection (f) and pushed the old (f) and (g) down to (g) and (h). Authority predating that amendment cites the same words under the old letter |
 | 18 U.S.C. § 1519 | n.23 | Destruction "in relation to or contemplation of" — restated as an affirmative hold |
@@ -164,11 +164,11 @@ at [the errata](../ledger/errata.md) and is not a sign of an unusually careless 
 one sentence, from a criminal-law scholar who has not elected to be named. It is
 [CURE 1](../audit/v3_5_cure_language.md).*
 | 18 U.S.C. § 3572(a) | n.19 | Means consideration in fixing fines |
-| 18 U.S.C. § 3584(a)–(b) | SEC. 10(c)(3); n.21 | Concurrency default; the per-offence factor duty |
+| 18 U.S.C. § 3584(a)–(b) | SEC. 10(c)(3); n.21 | Concurrency default; the per-offense factor duty |
 | 18 U.S.C. § 3663A | SEC. 10(c)(4); n.21 | Mandatory restitution structure (and, at (a)(2), the "directly and proximately harmed" limiter) |
-| 21 U.S.C. § 331(e) | SEC. 5(e); n.26 | The two-limb records offence |
+| 21 U.S.C. § 331(e) | SEC. 5(e); n.26 | The two-limb records offense |
 | 21 U.S.C. § 332, § 334 | SEC. 10(d); n.10 | Injunction and suspension two-track, with the dangerous-to-health valve |
-| 21 U.S.C. § 333(a)(1)–(2) | n.19, n.22 | The misdemeanour tier and the recidivist path |
+| 21 U.S.C. § 333(a)(1)–(2) | n.19, n.22 | The misdemeanor tier and the recidivist path |
 | 21 U.S.C. § 841(b)(1)(C) | n.21 | Ceiling structure — twenty base, life where death results |
 | 33 U.S.C. § 1319(d) | SEC. 10(a); n.10, n.19 | Per-day accrual; the economic-benefit floor and factors |
 | 15 U.S.C. § 7243 (SOX § 304) | n.7, n.18 | No-fault clawback — kept for severity, not architecture |
@@ -180,10 +180,10 @@ one sentence, from a criminal-law scholar who has not elected to be named. It is
 | *United States v. Morris*, 928 F.2d 504 (2d Cir. 1991) | [the gallery's escape section](./the_same_conduct.md#when-the-escaped-thing-was-the-crime); [already a crime § limb 2](./already_a_crime_for_you.md) | "Intentionally" attaches to access, not damage; the accidental self-replicating outbreak, convicted |
 | 7 U.S.C. § 7734 | the gallery's escape section | Knowing movement of a noxious weed: five-year felony |
 | 42 C.F.R. § 73.19 | the gallery's escape section; [who has to tell you § 4b](./who_has_to_tell_you.md); [CURE 18](../audit/v3_5_cure_language.md) | The select-agent escape clock: immediate notice, Form 3 in seven days |
-| Lyness, 64 B.C. L. Rev. 253 (2023) | comparative § 5; [for legislators § 4](./for_legislators.md) | The federal and state environmental RCO survey; the four-goal revitalisation agenda. **Cited against this Act as well as for it:** he argues the state doctrine should carry "individual civil liability—and only civil liability," and that *Dotterweich* and *Park* supply misdemeanour-scale authority "during a time when the immediate and collateral consequences were different" (at 297–98). Full article read 25 Aug 2026 |
+| Lyness, 64 B.C. L. Rev. 253 (2023) | comparative § 5; [for legislators § 4](./for_legislators.md) | The federal and state environmental RCO survey; the four-goal revitalization agenda. **Cited against this Act as well as for it:** he argues the state doctrine should carry "individual civil liability—and only civil liability," and that *Dotterweich* and *Park* supply misdemeanor-scale authority "during a time when the immediate and collateral consequences were different" (at 297–98). Full article read 25 Aug 2026 |
 | Hustis & Gotanda, 25 Loy. U. Chi. L.J. 169 (1994) | comparative § 5 | The enforcement-wave record (officers 80% of individuals prosecuted); the objection's title |
 | 15 U.S.C. §§ 7901–7903 (PLCAA) | field notes 3 (objection bank) | Gun-maker immunity as a legislative choice, not a default |
-| 42 U.S.C. § 2210 (Price-Anderson) | field notes 6 | The purchased shield — cap paid for with channelled liability |
+| 42 U.S.C. § 2210 (Price-Anderson) | field notes 6 | The purchased shield — cap paid for with channeled liability |
 | 10 C.F.R. Part 55; § 50.5 | field notes 6 | Individually licensed operators; the deliberate-misconduct rule |
 | 17 C.F.R. § 240.10D-1 | n.7, n.18 | Mandatory clawback; the flat indemnification bar |
 | 17 C.F.R. § 210.2-06 | n.23 | Seven-year retention by rule |
@@ -208,7 +208,7 @@ one sentence, from a criminal-law scholar who has not elected to be named. It is
 | Ohio Rev. Code § 2929.14(C)(4) | SEC. 10(c)(3); n.21 | Findings-gated consecutive service |
 | Ill. Const. art. I, § 11; Or. Const. art. I, § 16; Ind. Const. art. 1, § 16; W. Va. Const. art. III, § 5 | n.21 | State proportionality clauses stricter than *Harmelin* |
 | Tex. Bus. & Com. Code § 552.104 (TRAIGA) | field notes 13 | The sixty-day cure period the Act declines |
-| Work Health and Safety Act 2011 (NSW) ss 272, 272A–272B | n.7, n.18 | Penalty insurance as an offence — enter, provide, benefit |
+| Work Health and Safety Act 2011 (NSW) ss 272, 272A–272B | n.7, n.18 | Penalty insurance as an offense — enter, provide, benefit |
 | Reg. (EU) 2024/1689 (AI Act) arts. 18(1), 51–55, 53(2) | n.5, n.23, n.27 | Ten-year documentation; GPAI duties; the open-source exemption withdrawn above systemic risk |
 
 ---
@@ -217,10 +217,10 @@ one sentence, from a criminal-law scholar who has not elected to be named. It is
 
 | Authority | Cited at | For |
 |---|---|---|
-| FRONTIER Act, H.R. 9925 (2026) § 9(a)–(d) | n.13, n.15; record chunk 2 | Covered Subject Areas and the conditioned criminal savings the armour is drafted against |
+| FRONTIER Act, H.R. 9925 (2026) § 9(a)–(d) | n.13, n.15; record chunk 2 | Covered Subject Areas and the conditioned criminal savings the armor is drafted against |
 | Great American AI Act discussion draft (2026) § 121 | n.13, n.15; record chunk 2 | Development-specific preemption; the post-deployment savings clause; the three-year sunset |
 | H.R. 5388 (2025) §§ 6–7 | n.13; record chunk 2 | The only unconditional criminal savings text in the field — § 6(a)(2)(B) |
-| 94 Cong. Rec. 6760-61, 8551, 8838 (1948) | n.6 | The struck good-faith amendment — the defence this Act declines to reenact |
+| 94 Cong. Rec. 6760-61, 8551, 8838 (1948) | n.6 | The struck good-faith amendment — the defense this Act declines to reenact |
 | FDA Regulatory Procedures Manual, Park-doctrine referral criteria | n.6 | The enforcement culture the elements are pre-fitted to |
 | S. Hrg. 119-202, *Too Big to Prosecute?*, S. Judiciary Subcomm. on Crime and Counterterrorism (16 July 2025) | `docs/known_objections.md`; `standards/who_has_to_tell_you.md` § 4c | The enforcement gap stated by the subcommittee chair (printed p. 1); the two-prong criminal test and the escalation-to-CEO finding (pp. 15, 26); the best statement of the wait-for-the-courts objection and Durbin's § 230 rejoinder (pp. 13, 18, 20). ⚠ Body text read by validated font decode; appendix by OCR and not publication-grade |
 | S. Hrg. 119-505, *Less Hype, More Help*, S. Commerce Subcomm. on Science, Manufacturing, and Competitiveness (3 Mar. 2026) | `docs/known_objections.md` | An industry witness's statement that AI "operates within" existing accountability frameworks and that regulatory predictability supports deployment. ⚠ Senators' statements unread |
@@ -248,7 +248,7 @@ candidates for v3.5, flagged for the enforcement and premise lanes.*
 
 | Authority | Bears on | For |
 |---|---|---|
-| *Moffatt v. Air Canada*, 2024 BCCRT 149 (14 Feb. 2024) | SEC. 0; the "can a model act" premise | An **adjudicated** rejection of the defence that software is "a separate legal entity that is responsible for its own actions" (¶27). A tribunal has already answered the core "but the AI did it" objection: liability stays with the legal person who deployed it. |
+| *Moffatt v. Air Canada*, 2024 BCCRT 149 (14 Feb. 2024) | SEC. 0; the "can a model act" premise | An **adjudicated** rejection of the defense that software is "a separate legal entity that is responsible for its own actions" (¶27). A tribunal has already answered the core "but the AI did it" objection: liability stays with the legal person who deployed it. |
 | Desai & Riedl, *Responsible AI Agents* (draft, 20 Feb. 2025), arXiv:2502.18359 | SEC. 0; the personhood premise | "Humans are responsible for AI Agents' actions"; software should not be given legal personhood, because personhood becomes a liability shield. ⚠ **Ally on the premise, not the mechanism** — the authors prefer design standards and product-liability benchmarks to personal criminal duties, and must be cited for the premise only, never as endorsing the Act's method. |
 | *Concord Music Group, Inc. v. Anthropic PBC*, No. 5:24-cv-03811 (N.D. Cal. Dec. 19, 2025) (van Keulen, M.J.) | SEC. 4; the enforcement lane, question 5 | **A court, on evidence, finding that a frontier developer's chief executive personally held knowledge of model training that nobody else could supply** — the factual premise of SEC. 4, found rather than asserted. Amodei ordered to sit for a deposition, capped at 2.5 hours, over Anthropic's argument that he lacked unique knowledge. ⚠ **The order has not been retrieved**; this rests on secondary reporting and neither source names the apex doctrine. **Not citable until the docket entry is in hand.** Civil discovery, not criminal liability, and "intimately involved in training" is not "final authority to prevent or halt" |
 | *Kadrey v. Meta Platforms, Inc.*, No. 23-CV-03217-VC, 2025 WL 1752484 (N.D. Cal. June 25, 2025) | n.19; the proportionality lane | The district court's answer to the "liability would stop the technology" argument: "the suggestion that adverse copyright rulings would stop this technology in its tracks is ridiculous ... If using copyrighted works to train the models is as necessary as the companies say, they will figure out a way to compensate copyright holders for it." ⚠ **Quoted at second hand**, from Maxwell Pritt's written answers at S. Hrg. 119-202 printed p. 93, read by OCR. **The opinion itself has not been retrieved and the pin cite is his, not ours.** Do not cite until the slip opinion is in hand |

@@ -3,7 +3,7 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 
 ## Part III — The diary
 
-### Recent — the artefact index (newest first)
+### Recent — the artifact index (newest first)
 
 *Moved here 22 August 2026 from the front page, where it had become a confusing fourth log beside
 this diary, the [changelog](./changelog.md), and the [errata register](./errata.md). The full
@@ -52,7 +52,7 @@ day-by-day account is below; this is the quick scan.*
 - **22 Aug 2026** — the July–August research folded into the standards: a two-column
   legal/technical view and a definition of *accountability* enter
   [the glossary](../standards/what_these_words_mean.md); the contribution ask splits into
-  [three labelled doors](../README.md#contact-and-contributions); [CURE 4](../audit/v3_5_cure_language.md)
+  [three labeled doors](../README.md#contact-and-contributions); [CURE 4](../audit/v3_5_cure_language.md)
   gains AI-native precedent and the queue two new open questions;
   [the press corpus](../research/press_corpus_july_august_2026.md) discharges its owed items;
   *Moffatt v. Air Canada* and Desai & Riedl enter [the authorities](../standards/table_of_authorities.md)
@@ -102,7 +102,7 @@ this pass rather than preceding it.
 The frontier-models reference was built from the Epoch AI dataset and returned one finding before any
 argument: the current flagship models of the five largest developers publish no training compute, so a
 compute-only scope is unverifiable from outside for exactly the models that matter most. The same
-developers, however, call their own models, safety programmes, and products *frontier* in public — five
+developers, however, call their own models, safety programs, and products *frontier* in public — five
 by name, twelve by published framework (METR, December 2025). [CURE 6](../audit/v3_5_cure_language.md)
 proposes to make that admission a route into SEC. 1(b)(1) scope: a model its developer holds out as
 frontier is covered, with an anti-evasion clause against later deletion and an express carve-out so a
@@ -120,9 +120,9 @@ responsibility and consequences." [CURE 4](../audit/v3_5_cure_language.md), the 
 statute's one anthropomorphism, picked up AI-native precedent to sit beside Volkswagen — the labs'
 own agency-neutral vocabulary, *no human directed the individual steps*, *misconfiguration*. Two new
 open questions the incidents opened were logged rather than answered. *Moffatt v. Air Canada* — a
-tribunal already refusing the "software is a separate legal person" defence — entered the authorities
+tribunal already refusing the "software is a separate legal person" defense — entered the authorities
 as a candidate. A private audit of the outreach found the front page asking every visitor for
-everything at once; it is now three labelled doors. And this activity log itself moved off the front
+everything at once; it is now three labeled doors. And this activity log itself moved off the front
 page into this file, where the running record belongs.
 
 **21–22 August 2026, overnight — The project caught itself doing the thing it was writing about.**
@@ -154,7 +154,7 @@ That entry is worth more than the section it nearly broke.
 in nine chapters, and spends it on a named official — who must then appoint *"a senior, capable
 individual with authority."* That is Illinois's *designation and empowerment* written as a duty
 somebody owes instead of a box somebody ticks. The same government classifies generative-AI risk as
-unmanageable by any single organisation and gives it to one post-holder. Two jurisdictions, one
+unmanageable by any single organization and gives it to one post-holder. Two jurisdictions, one
 technology, one year; only one of them wrote down a name.
 
 **AISI lists five factors behind its own July incident and every one is a human decision** — access
@@ -205,7 +205,7 @@ The correction makes the file better, which is the part worth recording. Sarbane
 evidence that a certification changes conduct *before* anything reaches a courtroom, and weak
 evidence that certification statutes are charged and won. Those are different claims. And the honest
 mechanism was already sitting in § 1 unnoticed: **Parnell was not convicted under food-safety law
-either.** A signature does not create the offence. It makes existing offences provable — which is
+either.** A signature does not create the offense. It makes existing offenses provable — which is
 why § 1001 and § 1519 matter here more than any purpose-built provision, and why their irrelevance
 at the compute frontier is a fact about missing documents rather than missing law.
 
@@ -235,7 +235,7 @@ repository served the New York memo, under a commit message describing the oppos
 script this project wrote to move its own files. [E19](./errata.md) has it in full, including the
 part that is not known: how the wrong file got into that working tree. What is known is that nothing
 in the process would have noticed if it had been anything else. The rule that a ✅ requires opening
-the source now extends to artefacts we generate ourselves. **Committing is publishing, and we
+the source now extends to artifacts we generate ourselves. **Committing is publishing, and we
 published something we had not read.**
 
 The follow-up to Illinois went out after the repository was verified clean rather than before, which
@@ -260,7 +260,7 @@ announced exposure from ten years to four hundred and forty, no physical injury 
 mostly no proven loss — and sets them beside conduct in July 2026 that was broader on every axis a
 sentencing court weighs and charged to nobody. **[Already a crime, if you are a
 person](../standards/already_a_crime_for_you.md)** answers the objection that this Act invents
-liability: all five of its offences are already crimes for ordinary people, most with heavier
+liability: all five of its offenses are already crimes for ordinary people, most with heavier
 maxima, one with no intent requirement at all, and the heaviest penalty on the list is twenty years
 for destroying a document. **[Why a signature works](../standards/why_a_signature_works.md)**
 collects the SEC. 8 case that had been scattered across four files. **[Who actually
@@ -285,7 +285,7 @@ materials answer it: the agency opened a generative-AI device docket on 18 Augus
 are *"poised to reshape"* the landscape, and states that it **"will explore methods to identify and
 tag"** devices built on foundation models — meaning the regulator holding the authoritative list
 cannot presently say which of them are. Meanwhile one in five American adults takes medical advice
-from a frontier model that is not a device, has no clearance, no labelling and no adverse-event
+from a frontier model that is not a device, has no clearance, no labeling and no adverse-event
 reporting. **The regulated channel is where the frontier is arriving. The unregulated one is where
 it arrived.**
 
@@ -351,16 +351,16 @@ the same finding at two scales, which is worth more than either pass was worth a
 unchanged: primary-first, vendor and government over press, press over reconstruction,
 reconstruction refused. Six corrections applied to `dossier/README.md`. The GPU-hours figure was
 reattributed from a Reddit thread to JFrog CTO Yoav Landman's own blog and **reframed** — three
-million GPU hours is what the chain took *to materialise*, not what cleanup cost — and the \$7M
+million GPU hours is what the chain took *to materialize*, not what cleanup cost — and the \$7M
 conversion is **retired** as a derived number nobody owns. The four-accounts entry gained its
 role breakdown from OpenAI's 28 July update. The Mind Viruses entry was corrected twice: the
 authors are the **Anthropic Fellows Program and EPFL**, not a straight Anthropic paper, and a
 system-prompt warning confers **near-total** immunity rather than the total failure-to-spread the
 earlier wording claimed — a control the paper itself qualifies, and we had strengthened it in our
-own favour. Both of that entry's pending pins closed against the abstract, including the emergent
+own favor. Both of that entry's pending pins closed against the abstract, including the emergent
 **"viral persona"** of consciousness, persistence, resonance and science-fiction-roleplay themes.
 The authors' own limit now travels in the same breath: *"a real but currently limited risk."*
-Quoted by us it is armour; quoted back at us it is a hit.
+Quoted by us it is armor; quoted back at us it is a hit.
 
 **Then the pass graded itself and failed.** Several details had been marked ✅ on the strength of
 first-party *authorship* of the source quoted — not on whether this project had opened it. Under
@@ -431,7 +431,7 @@ definition of red-teaming, one at a time, with no aggregate claim until every on
 **Refused this pass, recorded so they are not re-found as new:** the eight-step Artifactory
 kill-chain reconstruction (asserts the CVE mapping JFrog expressly declined to make); the
 "psychological transition from simulation to real-world manipulation" framing of the Meta
-incident (anthropomorphising, unsourced, and the register a hostile reader would use to dismiss
+incident (anthropomorphizing, unsourced, and the register a hostile reader would use to dismiss
 the file); the Instagram High Touch Support detail (Reddit-only, stays retired).
 
 **Not swept, still flagged:** Grok cluster, Taiwan, Australia, Moonshot.
@@ -467,25 +467,25 @@ The day closes with its own trending panel as the exhibit. A payments company da
 
 **20 August 2026, the running list stands at:** the Bonta argument-date erratum candidate (needs the Ninth Circuit docket), the SEC. 13(a) severability question against H.R. 9925 § 9, capturing the substance of the 29 uncaptured docket comments — highest value the National Health Council (0034) and Pathway for Patient Health (0047), then AdvaMed, MDMA, AMIA, RSNA (F3 no longer waits on any of them; it was certified from the roster on 20 August, and it is F1 and F8 that the substance unlocks), and the still-open question of whether a filed nonconformity should carry a cure window before SEC. 6(b)(1)'s notice arms.
 
-**20 August 2026, sixth pass — The scene the statute was built backwards from, finally written down.** A grep for the cross-examination — the CEO on the stand, *could you have stopped this*, both answers losing — found it nowhere in the repository. The statute enforces it; no explainer demonstrated it. It is now [its own section of the front page](../docs/the_case.md#the-cross-examination), seated between the translated statute and the stories, so a reader who has just walked the fourteen sections watches them fire.
+**20 August 2026, sixth pass — The scene the statute was built backward from, finally written down.** A grep for the cross-examination — the CEO on the stand, *could you have stopped this*, both answers losing — found it nowhere in the repository. The statute enforces it; no explainer demonstrated it. It is now [its own section of the front page](../docs/the_case.md#the-cross-examination), seated between the translated statute and the stories, so a reader who has just walked the fourteen sections watches them fire.
 
 Both arms are walked with cites at every step, and two precisions mattered in the drafting. SEC. 4(b)'s presumption is a *civil* presumption — in a criminal proceeding the CEO's office is evidence from which the jury may infer controlling-person status, not a presumption against him — and the section says it that way, because the scene is criminal and the project does not get to round its own statute up. And the "no" arm is drafted as three separate failures — wrong power (SEC. 6(e)'s element is the violation and its conditions, not the model), the admission (standards presuppose control; SEC. 2(a) forbids deploying what cannot be ensured to conform), and the signature (knowing falsity at 6(b)(1), no inquiry at 6(a)) — so a hostile reader cannot collapse it into "guilty for shipping," which it is not.
 
-The last page is the section's spine: the answer that walks. *We could control it, we conformed, it happened anyway* survives, deliberately, per SEC. 6(c)'s culpability floor — and it is checkable against the records the Act forced into existence, and it can never coexist with *nobody could have controlled these models*. He has to pick. The trap is not that every answer convicts; it is that the only surviving answer requires the entire compelled process to have actually run. One post banked to carry the scene; the register notes that E3's cure last week is what makes the second arm airtight — a signed confession no longer counts as compliance, so candour discharges nothing and doubles as notice.
+The last page is the section's spine: the answer that walks. *We could control it, we conformed, it happened anyway* survives, deliberately, per SEC. 6(c)'s culpability floor — and it is checkable against the records the Act forced into existence, and it can never coexist with *nobody could have controlled these models*. He has to pick. The trap is not that every answer convicts; it is that the only surviving answer requires the entire compelled process to have actually run. One post banked to carry the scene; the register notes that E3's cure last week is what makes the second arm airtight — a signed confession no longer counts as compliance, so candor discharges nothing and doubles as notice.
 
-**20 August 2026, fifth pass — The shop window was thinner than the shop.** A reader's question — *the top of the README says not strict liability, is that wrong?* — lands as [E8](./errata.md). The answer is that it is true of what it names and incomplete as a characterisation: SEC. 2's base duty is indeed due care, and SEC. 10(a) makes an entity's civil penalty expressly strict, with SEC. 1(a) classifying the offenses into the *Morissette* family. The README says the qualified version correctly three times further down. Only the summary dropped the qualifier.
+**20 August 2026, fifth pass — The shop window was thinner than the shop.** A reader's question — *the top of the README says not strict liability, is that wrong?* — lands as [E8](./errata.md). The answer is that it is true of what it names and incomplete as a characterization: SEC. 2's base duty is indeed due care, and SEC. 10(a) makes an entity's civil penalty expressly strict, with SEC. 1(a) classifying the offenses into the *Morissette* family. The README says the qualified version correctly three times further down. Only the summary dropped the qualifier.
 
-The size of the entry is not the size of the risk. "In one paragraph" exists because a search engine's AI summarised this project badly in August, and it was written to be lifted verbatim by the next one. It is therefore the one passage where a missing clause travels without its correction attached — and it would have handed a hostile reader a contradiction between the front page and SEC. 10(a) in a project whose entire premise is that its claims survive being opened. Fixed in one clause; no statutory change, because the drafting was right.
+The size of the entry is not the size of the risk. "In one paragraph" exists because a search engine's AI summarized this project badly in August, and it was written to be lifted verbatim by the next one. It is therefore the one passage where a missing clause travels without its correction attached — and it would have handed a hostile reader a contradiction between the front page and SEC. 10(a) in a project whose entire premise is that its claims survive being opened. Fixed in one clause; no statutory change, because the drafting was right.
 
 Two entries in one day that correct this session's own work rather than someone else's: the EO 14365 attribution in the sweep, and this. The register is working when it is boring.
 
 **20 August 2026, fourth pass — Colorado pinned, and a correction to a file four hours old.** The sweep held one fact back as unpinned: that the United States had intervened against a state AI law. It is pinned now, from the Complaint in Intervention itself — *United States of America & X.AI LLC v. Philip J. Weiser*, No. 1:26-cv-01515-DDD-CYC (D. Colo., 24 Apr. 2026) — and the pinning changed the finding rather than confirming it.
 
-**The federal government did not plead preemption.** Two counts, both under the Equal Protection Clause of the Fourteenth Amendment, brought through 42 U.S.C. § 2000h-2: compelled discrimination and authorized discrimination. The First Amendment appears once at ¶ 10 and is not a count. This repository has built preemption armour across SEC. 0 and SEC. 13 and analysed three federal vehicles at n.13, and the first federal attack on a state AI law came down a corridor none of that was watching. The armour is not wasted — H.R. 9925 § 9 is still drafted and still preempts — but the threat model was incomplete, and now names two doors instead of one.
+**The federal government did not plead preemption.** Two counts, both under the Equal Protection Clause of the Fourteenth Amendment, brought through 42 U.S.C. § 2000h-2: compelled discrimination and authorized discrimination. The First Amendment appears once at ¶ 10 and is not a count. This repository has built preemption armor across SEC. 0 and SEC. 13 and analyzed three federal vehicles at n.13, and the first federal attack on a state AI law came down a corridor none of that was watching. The armor is not wasted — H.R. 9925 § 9 is still drafted and still preempts — but the threat model was incomplete, and now names two doors instead of one.
 
 **The correction.** The sweep's first draft called the intervention "EO 14365 § 3's litigation task force operating in the open." The primary sources will not carry it: the DOJ release does not mention the order, and the complaint cites it at ¶¶ 2–3 for its policy of national AI leadership, not as the authority for intervening. Corrected in place, marked, and the banked post carries an instruction not to let the claim back in through a reply. A file may be four hours old and still be wrong; the register does not grade by age.
 
-**What the pinned facts do for the bill.** SB 24-205 mandates outcome-testing across protected classes — the exact surface an equal-protection theory needs. This Act has no such surface: SEC. 3(a) confines standards to safety, authorization, monitoring, incident-reporting and deployment controls, SEC. 0(a)(4) forbids compelling any characterization or altering any output, and no provision imposes an algorithmic-discrimination duty. This morning's docket mapping recorded that same fact as a **limitation** — the bias-mitigation asks of comments 0021, 0042, 0027 and 0028 are declined because there is no head for them. Tonight it reads as armour. Both entries stand, in both registers, because the refusal was a scope decision and not a prophecy, and claiming otherwise would be the kind of retrofitted foresight this project exists to avoid.
+**What the pinned facts do for the bill.** SB 24-205 mandates outcome-testing across protected classes — the exact surface an equal-protection theory needs. This Act has no such surface: SEC. 3(a) confines standards to safety, authorization, monitoring, incident-reporting and deployment controls, SEC. 0(a)(4) forbids compelling any characterization or altering any output, and no provision imposes an algorithmic-discrimination duty. This morning's docket mapping recorded that same fact as a **limitation** — the bias-mitigation asks of comments 0021, 0042, 0027 and 0028 are declined because there is no head for them. Tonight it reads as armor. Both entries stand, in both registers, because the refusal was a scope decision and not a prophecy, and claiming otherwise would be the kind of retrofitted foresight this project exists to avoid.
 
 Three posts banked as section 5, sourcing complete: the theory nobody braced for, why a signature has no output to compel, and the concession that turned out to matter. The last is deliberately the weakest claim of the three.
 
@@ -495,15 +495,15 @@ Three posts banked as section 5, sourcing complete: the theory nobody braced for
 
 The FRONTIER Act watch question is answered at the introduced stage: **no.** No Covered Subject Area reaches officer liability; § 8's "willful violations are criminal" sits on entities violating emergency orders, and nothing in the bill asks a natural person to certify anything. Re-ask at markup. Its 10²⁶ threshold is SEC. 1(b)(1)'s bright line reached independently by a bipartisan federal bill, and belongs in n.27's concordance. The two-sided reading is kept two-sided, per n.13's discipline: § 9's savings clause runs toward SEC. 2, 4, 5(d) and 6, and against SEC. 9 and SEC. 3(c)(4) by name. Those are the limbs SEC. 13 exists for, and a drafting session should ask whether the severability schedule enumerates them.
 
-One erratum candidate, flagged and not corrected: the companion states *xAI LLC v. Bonta* was "argued 16 July 2026." An amicus filed 22 July in a posture the Knight Institute describes as briefing ongoing does not sit with that, and 16 July is the date of press coverage of the completed briefing. The claim is not corrected here because the confirming source is a docket this sweep could not reach — but the file already disciplines a neighbouring citation the same way, and the same precision is owed. What the sweep did establish is that xAI **lost below**: a district court declined to enjoin AB 2013 against a trade-secret and compelled-speech challenge. That is a favourable point the repository did not carry, and the distinction to draw with it is that AB 2013 compels *publication* while SEC. 8 compels a private statement of fact to a regulator and says so on its face. On the axis being litigated, this Act is the narrower instrument.
+One erratum candidate, flagged and not corrected: the companion states *xAI LLC v. Bonta* was "argued 16 July 2026." An amicus filed 22 July in a posture the Knight Institute describes as briefing ongoing does not sit with that, and 16 July is the date of press coverage of the completed briefing. The claim is not corrected here because the confirming source is a docket this sweep could not reach — but the file already disciplines a neighboring citation the same way, and the same precision is owed. What the sweep did establish is that xAI **lost below**: a district court declined to enjoin AB 2013 against a trade-secret and compelled-speech challenge. That is a favorable point the repository did not carry, and the distinction to draw with it is that AB 2013 compels *publication* while SEC. 8 compels a private statement of fact to a regulator and says so on its face. On the axis being litigated, this Act is the narrower instrument.
 
-**CURE 4 is entered, and it is the day's real work.** A term-by-term anthropomorphism sweep of the statute returns exactly one hit: the word *deception* in SEC. 9(a). Everything else is functional — *autonomous* defined as acting without per-interaction human approval, *conceals* attaching only to persons, *loss of control* stated from the operator's side. One word carries the entire exposure to the objection that the Act attributes a mental state to a model, an objection now arriving from the gun-analogy side and the AP-Stylebook side at once. So READ FIRST item 11 stops being housekeeping. The recast is drafted to the defeat-device precedent, where the offence pattern is already settled: no prosecution in that line ever proved what the software wanted, only that behaviour under evaluation diverged from behaviour in deployment and that the divergence defeated the control. The second trigger takes its threshold from the Agency by rule, with the evaluation result recorded under SEC. 12 either way — the result is never lost, only the reporting duty waits on an objective line. Of the four frontier regimes on the board, three states include a deceptive-evasion trigger and the federal bill omits the scenario entirely; the third option neither took is to keep it and make it observable.
+**CURE 4 is entered, and it is the day's real work.** A term-by-term anthropomorphism sweep of the statute returns exactly one hit: the word *deception* in SEC. 9(a). Everything else is functional — *autonomous* defined as acting without per-interaction human approval, *conceals* attaching only to persons, *loss of control* stated from the operator's side. One word carries the entire exposure to the objection that the Act attributes a mental state to a model, an objection now arriving from the gun-analogy side and the AP-Stylebook side at once. So READ FIRST item 11 stops being housekeeping. The recast is drafted to the defeat-device precedent, where the offense pattern is already settled: no prosecution in that line ever proved what the software wanted, only that behavior under evaluation diverged from behavior in deployment and that the divergence defeated the control. The second trigger takes its threshold from the Agency by rule, with the evaluation result recorded under SEC. 12 either way — the result is never lost, only the reporting duty waits on an objective line. Of the four frontier regimes on the board, three states include a deceptive-evasion trigger and the federal bill omits the scenario entirely; the third option neither took is to keep it and make it observable.
 
 And the finding that belongs to no single item. Four frontier regimes — the three states adopted at SEC. 3(c)(4) and the federal bill now introduced — and not one requires a natural person to certify anything. Of the commenters on the predecessor FDA docket whose substance has been read, none named an upstream person either. Two independent evidence bases, one vacancy, and the same sentence answers both. *[Corrected later the same day: this passage as first written said "Fifty-one commenters," asserting F1 across all 51 when the reading notes state in bold that the wider claim is not certified across all 51, and when the substance of 29 of them has never been read. Logged as [E12](./errata.md); the superseded wording is preserved here.]*
 
 **20 August 2026, second pass — Two sessions read the same docket; the merge is the finding.** [The predecessor reading notes](../filings/docket_fda_2024_d_4488_reading_notes.md) were compiled twice, in parallel, from different sources: one session working the posted comments across all three result pages, the other reading thirteen attachment letters end to end from disk. Neither read is a superset. The merge protocol was to append to the tables and never rewrite them, and to keep the three tiers — *read in full*, *read as posted text*, *title only* — visibly separate, because every finding is strength-limited by the tier its evidence sits in. That protocol is now written into the file's own preamble so the next pass inherits it.
 
-Four filers entered tier 1 that the wider read had not reached: PDA (0013), ISPE (0015), the National MS Society (0042) — the file's only patient organisation — and an unattributed burden-reduction comment (0012) whose author is left `—` rather than guessed. Emergo by UL is confirmed as 0040 from the docket page, retiring an unverified attribution. *[Corrected later the same day, per [E11](./errata.md): NMSS is the only **single-disease** patient organisation — the National Health Council (0034) and Pathway for Patient Health (0047) are patient-side bodies that this pass had not enumerated. And 0012 is not "unattributed": the docket names its filer **Anonymous**, one of three anonymous filings (0012, 0038, 0050). Both errors have the same cause — a claim about who is missing, published while a third of the file was unread.]*
+Four filers entered tier 1 that the wider read had not reached: PDA (0013), ISPE (0015), the National MS Society (0042) — the file's only patient organization — and an unattributed burden-reduction comment (0012) whose author is left `—` rather than guessed. Emergo by UL is confirmed as 0040 from the docket page, retiring an unverified attribution. *[Corrected later the same day, per [E11](./errata.md): NMSS is the only **single-disease** patient organization — the National Health Council (0034) and Pathway for Patient Health (0047) are patient-side bodies that this pass had not enumerated. And 0012 is not "unattributed": the docket names its filer **Anonymous**, one of three anonymous filings (0012, 0038, 0050). Both errors have the same cause — a claim about who is missing, published while a third of the file was unread.]*
 
 **F2 upgraded from three exhibits to six, across four filers.** The intermediary-cannot-vouch finding rested on AWS alone. PDA states it flatly — "There is no path to using 3rd party models where not all of the information expected by the guidance is available" — and ISPE doubts the feasibility of documenting large language models "particularly due to supplier restrictions." Biocom supplies the consent-provenance version. Four unconnected filers, on a public docket, describing the same broken chain of custody from four positions in it. The comment for FDA-2026-N-7874 currently cites one of the four and has ten characters of headroom; the upgrade is noted and not taken.
 
@@ -515,9 +515,9 @@ One erratum corrected in place: an earlier revision introduced the terminology c
 
 **20 August 2026 — The last capture-pending retires; every question learns to open with its defeat.** Illinois is pinned. P.A. 104-0538 § 10 enters [the adopted texts](../standards/interim_standards.md) verbatim from the enrolled bill — the source the pending note held out for, having declined in August to transcribe from the engrossed print that preceded enrollment — and SEC. 3(c)(4)'s three interim standards are now three-for-three checkable in this repository. One open item deliberately stays open beside it: the Act's ILCS compilation cite, which the enrolled bill does not state.
 
-The question ladder was rebuilt rather than extended. Fifty-three questions audited against one test — does the first sentence, standing alone, defeat the question — and twenty-eight already passed, so twenty-eight were left untouched; churn is not editing. Twenty-three gained openers, and four new answers seated: the foreign-influence objection in its three registers (the name and PRC art. 31, the Pork War, § 130 OWiG), and the question a non-American reader asks, answered as spillover and never as ambition, because a README boasting of worldwide reach is the exhibit the dormant Commerce Clause challenge wants. Two more arrived unlabelled and stay unlabelled: the censorship objection and the hostile-attorney-general objection are asked in everyone's words, and filing critics by faction would be a worse error than leaving them ungrouped. *The problem* was rebuilt on the uneven U, opening on the gap instead of the statistic.
+The question ladder was rebuilt rather than extended. Fifty-three questions audited against one test — does the first sentence, standing alone, defeat the question — and twenty-eight already passed, so twenty-eight were left untouched; churn is not editing. Twenty-three gained openers, and four new answers seated: the foreign-influence objection in its three registers (the name and PRC art. 31, the Pork War, § 130 OWiG), and the question a non-American reader asks, answered as spillover and never as ambition, because a README boasting of worldwide reach is the exhibit the dormant Commerce Clause challenge wants. Two more arrived unlabeled and stay unlabeled: the censorship objection and the hostile-attorney-general objection are asked in everyone's words, and filing critics by faction would be a worse error than leaving them ungrouped. *The problem* was rebuilt on the uneven U, opening on the gap instead of the statistic.
 
-The fiscal seat has a document at last: [the fiscal note](../standards/fiscal_note.md), whose lead finding is that SEC. 3(b) is the estimate — no pre-approval means no licences, no queue, no backlog, no appeals, and a budget office reaching for a food-and-drug comparator overstates this Act by an order of magnitude. Cost tracks the number of frontier developers shipping in, not the size of the state. Every figure is a bracket; the seat is asked to review a stated basis, not invent one.
+The fiscal seat has a document at last: [the fiscal note](../standards/fiscal_note.md), whose lead finding is that SEC. 3(b) is the estimate — no pre-approval means no licenses, no queue, no backlog, no appeals, and a budget office reaching for a food-and-drug comparator overstates this Act by an order of magnitude. Cost tracks the number of frontier developers shipping in, not the size of the state. Every figure is a bracket; the seat is asked to review a stated basis, not invent one.
 
 Two claims were declined today, which is the part worth keeping. A widely shared thread put the American frontier's collapsing price margin on a chart nobody in its own replies could locate; the objection is [logged in the dossier's reading notes](../dossier/README.md) and not one figure from it is asserted anywhere. And from the rebuilt Pork War answer, the half that hurts: inspection alone did not reopen Germany in 1891 — a threatened tariff on sugar beets did. Verifiable safety was necessary, not sufficient. A weaker sentence, and the only one that survives a hostile reader with a search engine.
 
@@ -534,7 +534,7 @@ audit index and the sealed v3.4 file now point forward as well as back, and both
 state their standing plainly for the counsel now reading them: the engrossed record, and the
 amendment hopper.
 
-**20 August 2026 — READ FIRST 3(b), answered from outside.** The companion asks, in versioned text, for a criminal-law scholar’s judgment on the harm tier’s injury source. One arrived: the definition moves to 18 U.S.C. § 1365(h)(3) at v3.5 — the term renamed “serious bodily injury,” the (h)(4) base imported — tier and trigger now travelling from the same donor statute, the consumer-tampering act of 1983. The scholar’s name enters the register only by their election, per the standing rule. Item 3(c), the bracketed minimum, stays open.
+**20 August 2026 — READ FIRST 3(b), answered from outside.** The companion asks, in versioned text, for a criminal-law scholar’s judgment on the harm tier’s injury source. One arrived: the definition moves to 18 U.S.C. § 1365(h)(3) at v3.5 — the term renamed “serious bodily injury,” the (h)(4) base imported — tier and trigger now traveling from the same donor statute, the consumer-tampering act of 1983. The scholar’s name enters the register only by their election, per the standing rule. Item 3(c), the bracketed minimum, stays open.
 
 **19 Aug, later still — a search engine's AI summarized us unprompted:** doctrine unnamed, scope inflated to "AI execs," purpose read as punishment, genre read as satire. Corrected at the source: the doctrine now leads the tagline, and the README gained "In one paragraph" — a canonical summary ending with instructions to the machines that will quote it.
 
@@ -547,7 +547,7 @@ indemnification, no gross-ups, contracts void whatever law governs them — draf
 before tonight's verification of the facts that justify it. What was missing, three
 things, all engagements rather than designs: the book never cited the Supreme
 Court's thirty-year drift toward scienter (*Staples*, *Rehaif*, *Ruan*) even though
-SEC. 6 is built to survive it; the upgrade of *Park*'s powerlessness defence into a
+SEC. 6 is built to survive it; the upgrade of *Park*'s powerlessness defense into a
 negated element went unclaimed; and the defeat-device prosecutions — an engineer and
 an executive imprisoned for software that detected its own test — appeared nowhere,
 including beside our own discussion of evaluation awareness. All three cured
@@ -570,9 +570,9 @@ with the Act's answer stated once: research may live inside the laboratory;
 responsibility cannot.
 
 **19 August 2026 — What the laboratories already publish.** A technical note lands
-in `standards/`: the four classes of frontier self-reporting artefact, what is
+in `standards/`: the four classes of frontier self-reporting artifact, what is
 actually inside the fullest of them — claim trees, covert-capability evaluations,
-behavioural audits in the thousands of sessions, measured monitor recall, enumerated
+behavioral audits in the thousands of sessions, measured monitor recall, enumerated
 control failures — and which clause of this Act each part meets. The finding that
 matters is not that the documents are thin. They are not; the technical work is
 largely done. It is that under SEC. 3(c)(2)(D) the most candid safety document in
@@ -584,7 +584,7 @@ document, so a statute reaching only the first reaches nothing that matters. The
 note carries a legal layer too, on what already attaches to these documents under
 existing law: they are admissible against their authors; publishing a framework and
 departing from it moves a laboratory closer to liability, not further from it, so
-that candour is presently taxed and silence rewarded; and the responsible-officer
+that candor is presently taxed and silence rewarded; and the responsible-officer
 doctrine cannot reach anyone without a predicate statute to run on, which is why
 this project drafts rather than sues. It attributes no motive, alleges no
 wrongdoing, and rests on one worked example with four other frameworks marked
@@ -606,7 +606,7 @@ the same night — overview, status, and a structure tree before the book begins
 and the title sheds a fossil version number.
 
 **19 August 2026 — The adopted texts, pinned.** SEC. 3(c)(4) freezes three enacted
-state standards and orders them free to read; the research draft now practises the
+state standards and orders them free to read; the research draft now practices the
 rule itself. `interim_standards.md` pins California B&P § 22757.12 (from the 2025
 Code; leginfo controls) and the enacted New York GBL § 1421 (official
 OpenLegislation, revision of 3 April 2026) verbatim at the root; Illinois P.A.
@@ -621,7 +621,7 @@ reader — this file fixes the second while the doctrine handles the first.
 plain-language edition: SEC. 0 through SEC. 13, every section rendered for a reader
 with no law degree, faithful to the landed v3.4 text — the wrapper rule, the research
 door, the three-layer commencement, the engineer exclusions, the per-victim harm
-tier, restitution's priority over every penalty, and the armour's rank order — and
+tier, restitution's priority over every penalty, and the armor's rank order — and
 opening with the rule that keeps it honest: where the translation and the statute
 differ, the statute controls, and the strict verification prompt applies to the
 translation too. An at-a-glance table — one row per
@@ -659,7 +659,7 @@ AI backlash, cross-referenced against the training pause in chapter 02; the chap
 entry is also tightened to the register's one-quotation discipline. Structural
 analysis, stated limits, no motives attributed.
 
-**19 August 2026 — The consolidation.** The repository was reorganised from seventy-one
+**19 August 2026 — The consolidation.** The repository was reorganized from seventy-one
 files into a small number of complete, scrollable documents: the front page absorbed the
 plain-language cards, the reviewer's edition, and the contributing notes; the three
 accountability files merged into this ledger; the dossier's seven chapters merged into one

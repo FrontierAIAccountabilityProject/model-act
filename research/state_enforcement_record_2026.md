@@ -46,7 +46,7 @@ policies" — the presumption's exact factual predicate, pleaded by a sitting at
 **Sources.** FL AG release, myfloridalegal.com (primary, ✅, retrieved 23 Aug 2026); the filed
 complaint, myfloridalegal.com/sites/default/files/openai-filed-stamped-complaint.pdf (primary,
 ✅ in excerpt — **full read pending** before any further quotation); The Innovation Attorney
-(substack, secondary, ✅ for the FDUTPA officer-liability characterisation and the § 777.011
+(substack, secondary, ✅ for the FDUTPA officer-liability characterization and the § 777.011
 principal theory in the criminal file — *"if ChatGPT were a person, it would be charged as a
 principal"* — ⚠ against the charging documents themselves).
 
@@ -59,7 +59,7 @@ treatment of minors and seniors, internal company policies, and the behavioral p
 OpenAI's deep-learning models — including model sycophancy."* OpenAI said it would *"engage
 constructively."*
 
-**What it establishes.** Enforcement appetite is not a partisan artefact and not a single office's
+**What it establishes.** Enforcement appetite is not a partisan artifact and not a single office's
 posture: forty-two states, both parties, with a **design property of the model** (sycophancy) named
 in legal process. For [the fiscal note](../standards/fiscal_note.md)'s enforcement-realism question
 — *would anyone actually use these powers?* — the answer now has a number attached.
@@ -80,7 +80,7 @@ against the instrument.
 Hilgers (Nebraska), Gentner Drummond (Oklahoma), Dave Sunday (Pennsylvania), Alan Wilson (South
 Carolina), Ken Paxton (Texas), Derek E. Brown (Utah). **Fifteen signatories, fifteen states**,
 matching the opening roster exactly; Arkansas is in, Alaska is not. The letter states no party
-affiliations, so the secondary "14 Republicans and one Democrat" characterisation (InsideAIPolicy)
+affiliations, so the secondary "14 Republicans and one Democrat" characterization (InsideAIPolicy)
 is not the letter's fact to settle and stays with the coverage that made it.
 
 **What it asserts.** The letter opens: OpenAI *"unleashed an experimental artificial intelligence
@@ -135,7 +135,7 @@ order stay with [the press corpus](./press_corpus_july_august_2026.md).
 **Sources.** The letter itself (primary, ✅, in hand, read in full 23 Aug 2026). Iowa AG newsroom
 (primary, ✅); MLex 4 Aug (secondary, ✅); The Hill (secondary, ✅); Fox Business (secondary, ✅);
 InsideAIPolicy (secondary — its signatory count is superseded by the instrument; its party
-characterisation remains its own).
+characterization remains its own).
 
 ---
 
@@ -285,7 +285,7 @@ And request 13, which needs no gloss:
 > all steps taken by OpenAI in response to such incidents."
 
 Requests 11 and 12 reach beyond this incident to *"any other incidents"* of a model or agent using
-credentials on public services or making unauthorised intrusions. Request 10 asks for documents
+credentials on public services or making unauthorized intrusions. Request 10 asks for documents
 sufficient to ascertain all damage, harm and loss to any person.
 
 ### 7.3 The finding

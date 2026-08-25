@@ -3,7 +3,7 @@
 *A working file for members and legislative staff considering frontier-AI legislation. It
 answers one question the current discourse does not ask: **does any of this reach a natural
 person?** Every fact below is public and independently checkable — that is the point, and the
-licence is CC0. What this file supplies is not access. It is the question, and a fortnight of
+license is CC0. What this file supplies is not access. It is the question, and a fortnight of
 someone else's checking.*
 
 *Related: [the bill census](./frontier_bill_census.md) is the bill-by-bill checking behind § 1;
@@ -16,7 +16,7 @@ mean](./what_these_words_mean.md)** — it covers the distinction every drafter 
 not the same thing, and which one a bill names decides what it covers.
 
 **What this file is not.** Not legal advice, not a lobbying document, not a request. The
-project has no client, no funding, and no organisation behind it. Nothing here asks you to
+project has no client, no funding, and no organization behind it. Nothing here asks you to
 adopt anything.
 
 ---
@@ -127,7 +127,7 @@ action. *Source: [the bill census](./frontier_bill_census.md), Connecticut row, 
 own verification limits.*
 
 **And thirty-two more, called one by one.** When Sacramento decided thirty-two AI bills in a
-single week, this project published a call on each before the votes, scored itself afterwards,
+single week, this project published a call on each before the votes, scored itself afterward,
 and recorded its own misses. All thirty-two regulate the system. **None reached the person who
 ships it.** *Source: [the track record](../docs/the_case.md#the-track-record), including the two calls
 counted against ourselves for citing bill numbers that did not match the official record.*
@@ -212,7 +212,7 @@ Amazon, Cohere, Magic, NAVER and G42 — specify no decision authority at all.**
 
 **None of them requires a signature.** Not one framework requires an attestation,
 certification or authentication of the deployment decision. At the best-documented laboratory
-on earth there is a decision-maker and no artefact of the decision.
+on earth there is a decision-maker and no artifact of the decision.
 
 *The full entry, with sources and its own limits, is at
 [the dossier, chapter 06](../dossier/README.md#dossier--the-open-letters-record).*
@@ -240,7 +240,7 @@ industry." Several do. Full texts and sources at
 |---|---|---|---|
 | **United Kingdom** | Health and Safety at Work etc. Act 1974, s. 37 | Yes — "any director, manager, secretary or other similar officer… **or a person who was purporting to act in any such capacity**" | **Criminal**, on a **negligence** floor ("attributable to any neglect") |
 | **China** | PRC Criminal Law art. 31 | Yes — the persons directly in charge and other directly responsible persons | Criminal; general across the code since 1997 |
-| **Germany** | § 130 OWiG with §§ 9, 30 | Yes — owners, managing directors, board members | Administrative offence, not a crime; €1m where the underlying breach is criminal |
+| **Germany** | § 130 OWiG with §§ 9, 30 | Yes — owners, managing directors, board members | Administrative offense, not a crime; €1m where the underlying breach is criminal |
 | **United Kingdom** | FSMA 2000, ss. 60(2A), 66A(5)(d) | Yes — senior managers, by name, in a filed Statement of Responsibilities | **Regulatory**, not criminal — but responsibility allocated *in advance and in writing* |
 
 **The two clauses worth a drafter's attention**, both from the British provision and both fifty
@@ -249,10 +249,10 @@ by **what they were doing rather than by their title**.
 
 **And the split inside the British family, which tracks the same line a tiered statute draws.**
 The neglect limb appears in the public-welfare statutes — health and safety, environment, data
-protection — and is **withheld** from the dishonesty offences: the Fraud Act and the Bribery
+protection — and is **withheld** from the dishonesty offenses: the Fraud Act and the Bribery
 Act reach consent or connivance only. Parliament does not extend negligence liability to
-individuals indiscriminately. It attaches it where the offence is regulatory and withholds it
-where the offence is dishonesty.
+individuals indiscriminately. It attaches it where the offense is regulatory and withholds it
+where the offense is dishonesty.
 
 ---
 
@@ -268,7 +268,7 @@ No row will be filled by inference.
 
 **What the first pass already establishes, and it is a caution rather than a selling point.**
 State-level responsible-corporate-officer doctrine is **not** uniform and **not** universal.
-Academic treatment of the state environmental doctrine describes it as recognised in only a
+Academic treatment of the state environmental doctrine describes it as recognized in only a
 handful of states and as lacking cohesion and clarity. At least one state's own legislative
 research office reports that the doctrine there reaches environmental violations and not
 general criminal liability, its general officer provision covering conduct the officer
@@ -290,7 +290,7 @@ now, each carrying the survey's citation:
 
 | State | Form | The anchor, per Lyness Part III |
 |---|---|---|
-| Alabama | statutory | "Responsible corporate officer" inside the definition of "person," Ala. Code § 22-22-1(b)(7), with a wilful/gross-negligence mens rea — *stricter than the federal "knowing"* (at 278) |
+| Alabama | statutory | "Responsible corporate officer" inside the definition of "person," Ala. Code § 22-22-1(b)(7), with a willful/gross-negligence mens rea — *stricter than the federal "knowing"* (at 278) |
 | California | judicial | *People v. Matthews*, 9 Cal. Rptr. 2d 348 (Ct. App. 1992) (hazardous waste; strict-liability public-welfare reasoning); *People v. Roscoe*, 87 Cal. Rptr. 3d 187 (Ct. App. 2008) (tank laws, doctrine adopted expressly) (at 278–80) |
 | Connecticut | judicial, broad | *BEC Corp.*, 775 A.2d 928 (Conn. 2001) (strict-liability form); *Celentano*, 923 A.2d 709 (Conn. 2007) (extends to any "strict liability public welfare statute"); tempered by *Underpass Auto Parts*, 123 A.3d 1192 (Conn. 2015) (criminal yes, civil no, under one act) (at 280–81) |
 | Delaware | judicial, narrow | *T.V. Spano*, 628 A.2d 53 (Del. 1993) ("directed, ordered, ratified, approved, or consented" — narrower than *Park*) (at 282) |
@@ -324,7 +324,7 @@ own: the doctrine-ready state. **Oregon** supplies the closing argument instead:
 definitions, *"legislative adoption would be more comprehensive. A single statute could create a
 uniform category of individual civil liability … enforceable by the state and citizens alike"*
 (at 305–06) — the case for a drafted uniform text, made by the doctrine's own scholar. One
-honesty note travels with both: Lyness's revitalisation is **civil-only** by design; the
+honesty note travels with both: Lyness's revitalization is **civil-only** by design; the
 criminal tier is this Act's choice, defended at its own files, not his.
 
 
@@ -350,7 +350,7 @@ A live, actively amended statutory surface is the rarest thing a model-bill proj
 somewhere for officer provisions to *go*.
 
 **Illinois is the legislature that kept the teeth.** P.A. 104-0538 passed 110–0 and 52–5 over
-organised industry opposition, kept the mandatory independent audit both coastal statutes
+organized industry opposition, kept the mandatory independent audit both coastal statutes
 dropped, and took the family's one required human signature — the auditor's
 ([the census's lineage finding](./frontier_bill_census.md)). A chamber that holds a provision
 under that pressure is the chamber to bring the next provision to.

@@ -26,7 +26,7 @@ The next revision is v3.5, in preparation. This section is the authoritative sta
 | 8. Laboratory control objectives    | **Open**               | A security engineer with experience inside a frontier laboratory should test them against practice.                                                                                  |
 | 9. State conforming amendments      | **State-specific**     | Legislative counsel in the adopting state must settle placement, classifications, the pin date, and the state self-incrimination pass.                                               |
 | 10. Litigation-grade citation check | **Open**               | A law-review editor or other Bluebook-literate reader should complete the consolidated check.                                                                                        |
-| 11. Objective incident triggers     | **Open**               | The two characterisation-shaped triggers require objective, rule-thresholded drafting coordinated with the regulations.                                                              |
+| 11. Objective incident triggers     | **Open**               | The two characterization-shaped triggers require objective, rule-thresholded drafting coordinated with the regulations.                                                              |
 
 An answer to an open item may become splice-ready language in the [v3.5 cure queue](./audit/v3_5_cure_language.md) before the revision is tagged. State-specific items are instructions for an adopting jurisdiction rather than unfinished universal text. Closed items remain visible so that the movement is checkable.
 
@@ -45,7 +45,7 @@ responsibility for him.
 
 That is the allocation this Act extends. It does not ask first whether an officer knew the exact
 harm a system would cause. It asks who held practical power over the relevant risk and whether that
-person exercised due care. Knowledge and wilfulness grade the offense; they do not create the duty.
+person exercised due care. Knowledge and willfulness grade the offense; they do not create the duty.
 The entity remains separately liable, but its fine cannot discharge, insure, indemnify, reimburse,
 or otherwise absorb the natural person's consequence. SEC. 4 finds the power; SEC. 6 attaches the
 individual offense; SEC. 7 and SEC. 10 keep it personal.
@@ -125,7 +125,7 @@ every control, including the hands that decided how many controls to build.
 
 **The corporate form.** Incorporate as a DAO, the other proposal runs — tokenholders, multisig
 signers, no CEO to indict — sometimes offered as a fear, sometimes as a plan. A
-decentralised-governance vehicle is the next liability-evaporation structure in a lineage the Act
+decentralized-governance vehicle is the next liability-evaporation structure in a lineage the Act
 was drafted against: parent-entity folds, supervoting parents, controlling foundations, designated
 safety officers, and now formal control diffused across tokenholders and signers until no natural
 person "controls" anything. SEC. 4(a) was already waiting: authority "held or exercised directly
@@ -143,7 +143,7 @@ have to be told twice.
 ## PLACEMENT (FOR ADOPTING STATES)
 
 SEC. 0 should be enacted as an uncodified findings section — in the bill, outside the code:
-findings do characterisation work without creating duties, and an uncodified section is not
+findings do characterization work without creating duties, and an uncodified section is not
 readily the "law or regulation" a preemption clause operates on. SEC. 13 must be codified, because
 its clauses operate. Either style SEC. 0 as "SECTION 1. FINDINGS AND PURPOSE (uncodified)" with a
 global renumber, or keep the SEC. 0 style and let each state's legislative counsel conform. Do not
@@ -162,7 +162,7 @@ and SEC. 5(b) — in an AI-specific administrative chapter, so a court asking wh
 "generally applicable criminal law" will find an offense whose substance is defined by an AI
 regulatory chapter. Placement helps; it does not convert an AI-specific statute into a generally
 applicable one, and no drafting can. That is why SEC. 13(c)(2)(D) preserves the general criminal
-law as a separate route rather than relying on recharacterising this one.
+law as a separate route rather than relying on recharacterizing this one.
 
 Where the state's penal code already contains reckless endangerment, omission liability,
 corporate-officer liability, or false-statement-to-a-public-servant provisions, draft SEC. 6 as an
@@ -194,7 +194,7 @@ n.4 ON SEC. 4. Elements are drafted, not merely cited. The presumption in 4(b) i
 in civil proceedings; in criminal proceedings it operates as a permissive inference, per Sandstrom
 v. Montana, 442 U.S. 510 (1979). The section is drafted against the corporate structures in actual
 use: parent-entity folds, supervoting parents, controlling foundations, designated safety
-officers, and decentralised-governance vehicles — the DAO whose tokenholders and multisig signers
+officers, and decentralized-governance vehicles — the DAO whose tokenholders and multisig signers
 hold formal control so diffused that no natural person "controls" anything. Diffusion of formal
 control is a renaming of practical control, not an absence of it; 4(a) reaches authority held "in
 concert with others, and through any intermediary, entity, trust, or arrangement," and the signer
@@ -221,7 +221,7 @@ only the burden of production; the Government's ultimate burden, including the d
 never moves, and the prima facie case — authority to prevent in the first instance or promptly to
 correct, and failure to do so — "furnishes a sufficient causal link." The construction in 6(e)
 supplies the objective standard whose absence the Park dissent condemned as "a virtual nullity." A
-1948 Senate amendment restricting the parent doctrine to wilful or grossly negligent violations
+1948 Senate amendment restricting the parent doctrine to willful or grossly negligent violations
 was stricken in conference (Park n.15; 94 Cong. Rec. 6760-61, 8551, 8838); this Act declines to
 reenact the experiment. Express-scienter constructions such as Ruan v. United States, 597 U.S. 450
 (2022), and Rehaif v. United States, 588 U.S. 225 (2019), concern severe felony statutes and are
@@ -239,7 +239,7 @@ prohibited); SEC Reg S-K Item 512 (indemnification against public policy); Work 
 Act 2011 (NSW) ss 272 (no contracting out), 272A (statutory prohibition of insurance and indemnity
 for penalties); see n.18.
 
-n.8 ON SEC. 8. The certification offense is modelled on 18 U.S.C. § 1350, whose maxima (ten and
+n.8 ON SEC. 8. The certification offense is modeled on 18 U.S.C. § 1350, whose maxima (ten and
 twenty years) exceed this Act's base felony tier by a factor of three to six. Executives have
 signed under harsher terms every quarter since 2002.
 
@@ -261,7 +261,7 @@ Cir. 2012) (power upheld; duration remanded). The suspension remedies follow the
 of 21 U.S.C. §§ 332 and 334, including the dangerous-to-health valve, with a post-deprivation
 hearing added.
 
-n.11 ON SEC. 11. Modelled on the SEC whistleblower program (Exchange Act § 21F), which has paid
+n.11 ON SEC. 11. Modeled on the SEC whistleblower program (Exchange Act § 21F), which has paid
 over \$2 billion to individuals and generated over \$6.5 billion in sanctions, awards financed by
 violators' own penalties. The inspectors already work there; this section pays them.
 
@@ -280,9 +280,9 @@ operates and whoever speaks. What is *not* claimed, because the text will not be
 post-deployment conduct is safe across the board — FRONTIER CSA(1)(C), CSA(2)(A) and CSA(3)(A)
 reach deployment expressly, and CSA(2)(C) reaches requirements imposed "as a condition of"
 development, training, evaluation or release. Preemption clauses of this kind are read textually
-and a State's characterisation of its own statute will not defeat one: *Monsanto Co. v. Durnell*,
+and a State's characterization of its own statute will not defeat one: *Monsanto Co. v. Durnell*,
 609 U.S. ___, No. 24-1068 (U.S. June 25, 2026) (express clause; presumption against preemption not
-invoked; *Bates v. Dow Agrosciences LLC*, 544 U.S. 431 (2005), confined). Characterisation does
+invoked; *Bates v. Dow Agrosciences LLC*, 544 U.S. 431 (2005), confined). Characterization does
 its work on the other side of the clause — in the savings text — which is why SEC. 0 is drafted to
 the words those clauses use.
 
@@ -400,11 +400,11 @@ logic by choice (restitution first, fund second) because a clawback that pays vi
 treasuries is the version a court enforces without flinching. The insurance ban follows the NSW
 Work Health and Safety Act 2011 pattern in its post-2020 form: s 272 voids contracting-out terms;
 s 272A makes entering into, providing, and taking the benefit of penalty insurance each an
-offence, with officer accessorial liability at s 272B — the only jurisdiction located that has run
+offense, with officer accessorial liability at s 272B — the only jurisdiction located that has run
 the full experiment, and the reason SEC. 7(b) reaches the provider and the beneficiary, not only
-the insured entity. Defence costs are expressly preserved (advancement against an undertaking to
-repay on a knowing or wilful adjudication, the corporate-law norm): the line every model above
-draws is that *penalties* are uninsurable, not *defence* — a statute that starved defendants of
+the insured entity. Defense costs are expressly preserved (advancement against an undertaking to
+repay on a knowing or willful adjudication, the corporate-law norm): the line every model above
+draws is that *penalties* are uninsurable, not *defense* — a statute that starved defendants of
 counsel would deserve the constitutional attack it would get, and the deterrence case does not
 need it. What the ban protects is the Act's core wager: *Park*-doctrine liability works because
 the consequence lands on the person. An indemnified penalty is a premium; SEC. 7(b) is the
@@ -501,7 +501,7 @@ consecutive determinate terms gated behind stated findings and capped at twice t
 Fines under the tier aggregate per victim subject to the means-consideration sentence of (c)(4)
 and the Excessive Fines Clause (*Timbs*; *Bajakajian*; n.19): the fine stack is self-proportioning
 through the gain tie, and the imprisonment stack is proportioned by (c)(3), which is the division
-of labour the anchors themselves use.
+of labor the anchors themselves use.
 
 n.22 ON SEC. 6(b) (THE RECIDIVIST PATH). The path is the FDCA's own, quoted exactly: 21 U.S.C.
 § 333(a)(2) — "if any person commits such a violation after a conviction of him under this section
@@ -590,7 +590,7 @@ rules of (c)(4) convert transparency law into a validation measure: thresholds, 
 staggers disapplied (this Act's trigger is the covered system, not revenue — n.2's bargain does
 not ration by balance sheet); publication converted to transmission to the Agency (preserving the
 *NIFLA* posture built at n.16 — these are statements to a regulator, not conscription into public
-debate); third-party audit disapplied in favour of internal documentation (the validation mode
+debate); third-party audit disapplied in favor of internal documentation (the validation mode
 FRONTIER CSA(2) cannot reach, per the analysis at n.13); reporting and enforcement left to this
 Act's own sections; and conformity documented for California, New York, or Illinois credited here
 to the extent of the matters documented — for the entities this Act principally addresses,
@@ -621,7 +621,7 @@ floor. The bracketed figures are a default awaiting the evaluations researcher R
 names — the item narrows from designing a budget to reviewing one — and the direction of any error
 is asymmetric by construction: a floor set too low under-demands until the Agency acts; a floor
 set too high binds the Agency until the Legislature amends, which is why the figures are brackets
-and not convictions. What the floor is not: it is not a safe harbour above which modification is
+and not convictions. What the floor is not: it is not a safe harbor above which modification is
 presumed safe, and it is not the evaluator's spending cap — it is the least envelope of
 adversarial modification (safeguard removal, fine-tuning, and their kin) that a pre-release
 evaluation must cover to discharge the duty.
@@ -650,7 +650,7 @@ the developer-capacity application to pre-release evaluation records severs firs
 (SEC. 13(b)(3)), the offense generally sits at rank 2 beside the duties it enforces, and offense
 and duty sever independently in both directions (SEC. 13(b)(5)). Compelled-speech doctrine does
 not reach a filing cabinet: the records are the entity's own operational artifacts, no publication
-or characterisation is required, and the duty is incidental to conduct regulation (*Rumsfeld v.
+or characterization is required, and the duty is incidental to conduct regulation (*Rumsfeld v.
 FAIR*, 547 U.S. 47 (2006)). The Fifth Amendment answer is the required-records doctrine, satisfied
 on the face of the scheme per *Grosso v. United States*, 390 U.S. 62, 68 (1968): the inquiry is
 "essentially regulatory" (the records attach to lawful deployment, not to conduct criminal in
@@ -833,7 +833,7 @@ disciplined.
 chief executive exists. *Change:* where no such office exists, each natural person
 exercising the most senior executive authority certifies, severally; the Agency may
 designate certifying offices by rule; no designation diminishes the several obligation,
-and no form of organisation leaves the section without an obligated natural person.
+and no form of organization leaves the section without an obligated natural person.
 
 **n.35 — SEC. 3(b): the approval mode struck.** *Defect:* an Agency-approval validation
 mode contradicted the Act's no-gate design and handed capture a lever. *Change:* the mode
@@ -869,21 +869,21 @@ narrowed; changes below the material line certified in a periodic filing at leas
 SEC. 6 attach.
 
 **n.40 — SEC. 5(e): privilege preserved.** *Defect:* the records offense could be read to
-criminalise a privilege assertion. *Change:* no privilege recognised by state law is
+criminalize a privilege assertion. *Change:* no privilege recognized by state law is
 abrogated; a good-faith assertion, made as the law provides, is not refusal; underlying
 facts remain reachable from any source per SEC. 12.
 
 **n.41 — SEC. 9(a): the near-miss, calibrated.** *Defect:* controls working as designed
-generated reportable "near-misses," punishing defence-in-depth. *Change:* an event
+generated reportable "near-misses," punishing defense-in-depth. *Change:* an event
 prevented by intervention other than controls operating as designed, or by chance,
 remains a near-miss; an event detected and contained by controls operating as designed,
 before any external effect, is recorded under SEC. 12 rather than reported under SEC. 9.
 The paper trail survives; the perverse incentive does not.
 
 **n.42 — SEC. 12: the fallback recipient.** *Defect:* transmission duties presupposed an
-organised Agency. *Change:* until the Agency is designated and organised, transmission to
+organized Agency. *Change:* until the Agency is designated and organized, transmission to
 the Attorney General satisfies any transmission requirement, with transfer on
-organisation. No duty ever waits on machinery.
+organization. No duty ever waits on machinery.
 
 **n.43 — SEC. 2(c): controlled research deployment.** *Defect:* the Act priced genuine
 research access like a product launch. *Change:* a conduct-based pathway — authenticated

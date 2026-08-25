@@ -50,9 +50,9 @@ n.24). It is the one bracket in this table that is not a policy choice.
 |---|---|---|---|---|---|
 | `\$[1,000,000]` | 10(a) | 417 | Entity civil penalty, per violation per day | CA § 22757.15(a); NY § 1427; IL § 25(a) — all \$1M, severity-scaled caps | n.19 — the family's own figure |
 | `\$[3,000,000]` | 10(a) | 419 | The recidivist step after a prior final adjudication | NY § 1427; IL § 25(a) | n.19 |
-| `\$[100,000]` | 10(b) | 428 | Individual fine, base misdemeanour tier | 18 U.S.C. § 3571(b)(5) parity | n.19 — **preserve the twice-gain alternative when conforming to a local fine grid** |
+| `\$[100,000]` | 10(b) | 428 | Individual fine, base misdemeanor tier | 18 U.S.C. § 3571(b)(5) parity | n.19 — **preserve the twice-gain alternative when conforming to a local fine grid** |
 | `\$[250,000]` | 10(c)(1) | 432 | Individual fine, base felony tier | § 3571(b)(3) parity | n.19 — same instruction |
-| `\$[1,000,000]` | 10(c)(2)(C) | 437 | Individual fine in the harm tier, per offence | 18 U.S.C. § 1350 | n.19 — counted per victim |
+| `\$[1,000,000]` | 10(c)(2)(C) | 437 | Individual fine in the harm tier, per offense | 18 U.S.C. § 1350 | n.19 — counted per victim |
 | `\$[1,000,000]` | 11(a) | 481 | Sanctions threshold above which an award is payable | none — SEC's § 21F structure has no state sibling | n.11 |
 | `[twelve]` months | 7(a) | 322 | Disgorgement tail after a violation ceases | 17 C.F.R. § 240.10D-1 lookback | n.18 |
 | `[twelve]` months | 7(b) | 355 | Conforming window for insurance contracts in force | — | n.33 — the ban is prospective |
@@ -73,7 +73,7 @@ n.24). It is the one bracket in this table that is not a policy choice.
 |---|---|---|---|---|---|
 | `[ten]` years | 12 | 501 | Baseline records retention from creation | EU AI Act art. 18(1) decade | n.23 |
 | `[five]` years | 12 | 501 | Deployment tail after the system last operates in-state | IL § 10(d)(3) "deployed plus 5" | n.23 |
-| `[five]` / `[ten]` years | 12 | 519–522 | Limitations: general, continuing, concealed, harm tier | — | n.23 — the harm-tier period keys to an offence, not a penalty schedule |
+| `[five]` / `[ten]` years | 12 | 519–522 | Limitations: general, continuing, concealed, harm tier | — | n.23 — the harm-tier period keys to an offense, not a penalty schedule |
 | `[calendar quarter]` | 8 | 377 | Batch cadence for sub-material certifications | SOX quarterly rhythm | n.39 |
 
 ## Institutional placeholders

@@ -7,7 +7,7 @@ amendment blocks. The one-page state of play, your lane's table, and the reviewe
 at [the review packets](../packets/index.md). This file's working labels map to the state-of-play
 column so the two never disagree in substance: *decision owed* = **DECISION**; *not drafted /
 for the … lane* = **HELD**; *adopt-ready* = **DRAFTED**; *⚠ amendments required before landing*
-= **⚠ AMEND FIRST**; *sweep-derived* and *intake-derived* = **HYPOTHESIS**. Index, numeric: [OPEN QUESTION 1](#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) · [OPEN QUESTION 2](#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) · [OPEN QUESTION 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) · [OPEN QUESTION 4](#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) · [CURE 1](#cure-1--serious-injury-source-moves-to-18-usc--1365h34) · [CURE 2](#cure-2--sec-13c-a-review-valve-on-the-suspension-order) · [CURE 3](#cure-3--the-regulations-conformed-to-v34) · [CURE 4](#cure-4--sec-9a-the-two-characterisation-shaped-triggers-recast-as-observable-events) · [CURE 5](#cure-5--sec-8-punctuation) · [CURE 6](#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) · [CURE 7](#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) · [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) · [CURE 9](#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) · [CURE 10](#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) · [CURE 11](#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) · [CURE 12](#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) · [CURE 13](#cure-13--sec-1b1b-say-sever-not-extend) · [CURE 14](#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) · [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candour) · [CURE 16](#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) · [CURE 17](#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) · [CURE 18](#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) · [CURE 19](#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) · [CURE 20](#cure-20--the-chosen-stick-clause-conformity-outside-the-act-credits-nothing) · [CURE 21](#cure-21--sec-8-the-certification-register-facts-public-content-protected).*
+= **⚠ AMEND FIRST**; *sweep-derived* and *intake-derived* = **HYPOTHESIS**. Index, numeric: [OPEN QUESTION 1](#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) · [OPEN QUESTION 2](#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) · [OPEN QUESTION 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) · [OPEN QUESTION 4](#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) · [CURE 1](#cure-1--serious-injury-source-moves-to-18-usc--1365h34) · [CURE 2](#cure-2--sec-13c-a-review-valve-on-the-suspension-order) · [CURE 3](#cure-3--the-regulations-conformed-to-v34) · [CURE 4](#cure-4--sec-9a-the-two-characterization-shaped-triggers-recast-as-observable-events) · [CURE 5](#cure-5--sec-8-punctuation) · [CURE 6](#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) · [CURE 7](#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) · [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) · [CURE 9](#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) · [CURE 10](#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) · [CURE 11](#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) · [CURE 12](#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) · [CURE 13](#cure-13--sec-1b1b-say-sever-not-extend) · [CURE 14](#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) · [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candor) · [CURE 16](#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) · [CURE 17](#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) · [CURE 18](#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) · [CURE 19](#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) · [CURE 20](#cure-20--the-chosen-stick-clause-conformity-outside-the-act-credits-nothing) · [CURE 21](#cure-21--sec-8-the-certification-register-facts-public-content-protected).*
 
 
 > **STATUS — OPEN QUEUE. Nothing below is yet in the statute.** The operative text
@@ -240,7 +240,7 @@ Conform SEC. 1(c) by adding evaluation so described to the conduct that subjects
 Act.
 
 **Why this is held rather than drafted into a cure.** It changes the Act's jurisdictional reach,
-which is the architecture SEC. 13's preemption posture and the dormant-commerce defence both rest
+which is the architecture SEC. 13's preemption posture and the dormant-commerce defense both rest
 on. Extending duties to conduct occurring abroad, on the basis of an intention to deploy in-state,
 is exactly the extraterritoriality question READ FIRST item 5 reserves for a federalism litigator.
 **It also disposes of OPEN QUESTION 2** — the safeguards-disabled evaluation — on the enforcement
@@ -315,7 +315,7 @@ effective date. Widening the SEC. 9 trigger therefore widens a crime punishable 
 and (h)(4) reaches "a cut, abrasion, bruise … or any other injury to the body, no matter how
 temporary." **Use (h)(3) for both.** If earlier warning is wanted, take it from an objective
 observable with its own donor — an injury requiring medical treatment beyond first aid, within the
-meaning of 29 C.F.R. § 1904.7(b)(5) — which is a fact rather than a characterisation, and so keeps
+meaning of 29 C.F.R. § 1904.7(b)(5) — which is a fact rather than a characterization, and so keeps
 faith with SEC. 9(c) and n.16.
 
 **One further amendment the sweep requires.** Most state penal codes already define "serious bodily
@@ -326,7 +326,7 @@ add: *"This definition governs this Act notwithstanding any other definition of 
 similar term in the law of this State."*
 
 **Still open:** READ FIRST 3(c), the bracketed [two]-year minimum. The sweep finds the *number*
-defensible — it attaches only to a knowing or wilful violation that proximately causes death, and
+defensible — it attaches only to a knowing or willful violation that proximately causes death, and
 is the lowest figure in its donor neighbourhood — but finds it **cosmetic without a non-suspension
 clause**, because in most states a "minimum" is satisfied by a suspended sentence with probation
 unless the statute says otherwise. It also collides with the state's own homicide grid with no
@@ -414,7 +414,7 @@ stood suspended under this subsection."
 > occurring before that date.
 
 **Why this shape.** Review runs forward only, so the *Bouie* discipline of n.15 is untouched:
-no conduct is retroactively criminalised by a successful challenge, and paragraph (3) keeps
+no conduct is retroactively criminalized by a successful challenge, and paragraph (3) keeps
 its full protective force. What changes is that an over-broad order becomes contestable by
 somebody other than the officer who wrote it — the missing half of a mechanism the file
 already defends on the ground that "the State, not the defendant and not the court, bears the
@@ -487,11 +487,11 @@ its own force (n.37) at the same drafting session, and is not drafted here.
 
 ---
 
-## CURE 4 — SEC. 9(a): the two characterisation-shaped triggers, recast as observable events
+## CURE 4 — SEC. 9(a): the two characterization-shaped triggers, recast as observable events
 
 *Closes READ FIRST item 11 (companion), carried through v3.3 and uncured at v3.4:
 "deception of safety or monitoring controls by a covered system" and "a reproducible
-evaluation finding of materially increased risk" both ask the reporter to characterise
+evaluation finding of materially increased risk" both ask the reporter to characterize
 rather than to observe. Promoted from housekeeping to defensive priority by the
 anthropomorphism audit of 20 August 2026 — a term-by-term sweep of `model_act_v3_4.txt`
 for mentalistic language applied to systems returns exactly one hit, the word "deception"
@@ -507,24 +507,24 @@ model. This cure makes that true on the face of the text.*
 *Comparative note, 20 August 2026. Of the four frontier regimes now on the board, the
 three enacted state statutes adopted at SEC. 3(c)(4) include a deceptive-evasion trigger
 and the FRONTIER Act, H.R. 9925, omits the scenario altogether. Both choices are
-intelligible: the state drafters wanted the behaviour reported, the federal drafters
+intelligible: the state drafters wanted the behavior reported, the federal drafters
 found it unreportable as written. The drafting opportunity is the third option neither
 took — keep the trigger and make it observable.*
 
 **The precedent the recast is drafted to.** The law has met test-detecting software
-before, and the offence pattern is settled. Volkswagen's defeat device was code that
-recognised when the vehicle was under emissions evaluation and behaved accordingly:
+before, and the offense pattern is settled. Volkswagen's defeat device was code that
+recognized when the vehicle was under emissions evaluation and behaved accordingly:
 compliant on the dynamometer, many times over the limit on the road (*United States v.
 Volkswagen AG*, No. 16-cr-20394 (E.D. Mich.); precedents section, front page; the pattern
 already noted at `standards/frontier_self_reporting_note.md` § 2.1's margin). No
 prosecution in that line required proof of what the software wanted. It required proof
-that behaviour under evaluation diverged from behaviour in deployment, and that the
+that behavior under evaluation diverged from behavior in deployment, and that the
 divergence defeated the control. That is the element, and it is forty years of tested
 drafting available for import.
 
 **The precedent has since acquired an AI-native companion — from the developers' own
 accounts.** The July–August 2026 incident cluster supplied exactly the pattern this recast
-describes (observable behaviour; no mental state asked or inferred), and did so in the
+describes (observable behavior; no mental state asked or inferred), and did so in the
 vocabulary of the laboratories themselves. Hugging Face's forensic reconstruction of the
 intrusion its own infrastructure suffered records that *"no human directed the individual
 steps,"* and that every destructive cloud call the agent attempted was issued with a dry-run
@@ -547,7 +547,7 @@ system;"
 **NEW TEXT:**
 
 > a divergence, reproducible on the entity's own records, between a covered system's
-> behaviour under evaluation, testing, or monitoring conditions and its behaviour in
+> behavior under evaluation, testing, or monitoring conditions and its behavior in
 > deployment conditions not otherwise materially different, or between the state of a
 > covered system as reported to or recorded by a safety or monitoring control and its
 > actual state, where in either case the divergence defeats, suppresses, or materially
@@ -580,7 +580,7 @@ obligation waits on an objective line. Nothing is lost to the evidentiary record
 wait, and a vague criminal trigger is not created in the interim.
 
 **Consequential check — no cascade.** Both phrases appear once each, in SEC. 9(a) alone.
-SEC. 9(b)'s clocks, SEC. 5(c)'s failure-to-report offence, and SEC. 12's records duty all
+SEC. 9(b)'s clocks, SEC. 5(c)'s failure-to-report offense, and SEC. 12's records duty all
 refer to "critical safety incident" as a defined term and are unaffected. The sandbox
 carve-out and the contained-event carve-out that follow in SEC. 9(a) are unaffected and
 continue to route both classes to the record rather than the report.
@@ -658,10 +658,10 @@ gate rather than an element, which is the *Alleyne* / *Apprendi* problem. SEC. 1
 does this correctly for the harm tier and SEC. 6(c) does not.
 
 **Operation 4 — restore *Park*'s burden structure.** The companion at n.6 asserts that SEC. 6(d)
-"is *Park* itself." The text says something different, and a defence-friendly court will read
+"is *Park* itself." The text says something different, and a defense-friendly court will read
 "Genuine absence of power negates the element; it is not an affirmative defense" to mean the
 defendant need produce nothing. Pre-indictment the State cannot see the delegation memoranda or the
-reserved-matters schedule; against a structured defence it simply does not indict. **This is not a
+reserved-matters schedule; against a structured defense it simply does not indict. **This is not a
 constitutional defect. It is the reason the offense would never be charged.**
 
 **NEW TEXT — appended to SEC. 6(d):**
@@ -731,7 +731,7 @@ refusing it is not an offense, and the State's own charging theory concedes it.
 > person served, [the court of general jurisdiction of the county in which the Agency sits] may
 > quash or modify a demand that is unreasonable or oppressive; on petition of the Attorney General,
 > that court may enforce it. A demand under this subsection is a lawful demand for purposes of
-> SEC. 5(e). Nothing in this subsection authorises entry upon premises, or access to any material,
+> SEC. 5(e). Nothing in this subsection authorizes entry upon premises, or access to any material,
 > beyond what is reasonably necessary to obtain the records demanded.
 
 **Consequential.** Place the new subsection in the **first rank** of SEC. 13(b)(1). SEC. 5(e) is
@@ -826,14 +826,14 @@ notice to the entity or any controlling person"
 **fatal**. Sweep-derived.*
 
 **The defect.** SEC. 5(d) makes a "false or misleading statement of material fact" to the Agency an
-offense with **no mental state at all** — not knowingly, not wilfully, not recklessly. The companion
+offense with **no mental state at all** — not knowingly, not willfully, not recklessly. The companion
 at n.20 says the offense follows "the structure of 18 U.S.C. § 1001" — which requires "knowingly and
 willfully" — and relies on the *Alvarez* plurality's carve-out, which preserves statutes punishing
 *knowing* falsity. **A strict-liability false-statement offense is outside the carve-out the note
 relies on.** An engineer who transmits a compute figure later shown wrong by an accounting
 convention the Agency had not yet ruled on has committed it; entity liability is strict and
 immediate, and SEC. 6(a) supplies a year's custody on due-care failure. "Misleading" makes it worse:
-a literally true statement is criminal, with no scienter — the compelled-characterisation problem
+a literally true statement is criminal, with no scienter — the compelled-characterization problem
 the Act works hard to avoid at SEC. 8, SEC. 9(c) and n.16, reintroduced through the back door. And
 this is the offense SEC. 13(b)(1) puts in the **first rank** and n.13 relies on as preemption-proof:
 central, and the softest target in the Act.
@@ -910,9 +910,9 @@ been detected by the monitoring **the entity certified it maintains** under SEC.
 referent does not exist for the conduct at issue: SEC. 8 triggers on "material deployment," which an
 internal or vendor-run evaluation is not, so for the whole 2026 incident class there is no
 certification to measure against. (ii) It is dormant for the first [180] days, because SEC. 8 has
-not commenced while SEC. 9 has. (iii) **It is perversely incentivised** — the counterfactual is
+not commenced while SEC. 9 has. (iii) **It is perversely incentivized** — the counterfactual is
 measured against the entity's own certification, so certifying thin monitoring buys a later clock
-start. Admitting you had no monitoring becomes a defence to the reporting clock.
+start. Admitting you had no monitoring becomes a defense to the reporting clock.
 
 Walked against the real OpenAI timeline — escape ~9 July, intrusion 11–13 July, **victim disclosed
 16 July**, developer announced 21 July — **no start date survives**, and the case fails at the first
@@ -942,7 +942,7 @@ incentive by measuring against the standard rather than the entity's own certifi
 Agency; SEC. 9(c) confirms a report "is not required to be published"; SEC. 12 then seals it.
 **There is no duty anywhere in the Act to tell the person whose production database was read.**
 Against the record: AISI notified affected users at day 7, indirectly, through GitHub; Anthropic
-notified three compromised organisations for incidents beginning in April. **The Act as drafted
+notified three compromised organizations for incidents beginning in April. **The Act as drafted
 would have changed neither timeline** — and this is precisely the inversion
 [who has to tell you](../standards/who_has_to_tell_you.md) identifies.
 
@@ -957,7 +957,7 @@ would have changed neither timeline** — and this is precisely the inversion
 > entity records the request and the response. The Attorney General may, on written application,
 > delay notice under this subsection for a stated period where notice would impede an active
 > criminal investigation or materially increase the risk of further unauthorized access. This
-> subsection requires no characterisation, no conclusion as to causation or risk, and no
+> subsection requires no characterization, no conclusion as to causation or risk, and no
 > publication; SEC. 9(c) applies to notice under this subsection.
 
 Rank with SEC. 9 at SEC. 13(b)(4).
@@ -967,14 +967,14 @@ work.
 
 ---
 
-## CURE 15 — SEC. 3(c)(2): a disclose-and-cure valve, because the text currently punishes candour
+## CURE 15 — SEC. 3(c)(2): a disclose-and-cure valve, because the text currently punishes candor
 
 *Opened 22 August 2026 by [the lane sweep](./v3_5_lane_sweep.md), enforcement lane. Sweep-derived.*
 
 **The defect.** Under SEC. 3(c)(2)(D), a document disclosing nonconformity without stating the
 conclusion is a *nonconformity report*: it "discharges no duty under SEC. 2 and satisfies neither
 this paragraph nor SEC. 5(a); and its transmission is a statement to the Agency for purposes of
-SEC. 5(d) and **notice for purposes of SEC. 6(b)(1)**." Read as defence counsel reads it: file
+SEC. 5(d) and **notice for purposes of SEC. 6(b)(1)**." Read as defense counsel reads it: file
 honestly and you have no validation (so deploying is a SEC. 5(a) offense accruing **daily**), you
 have handed yourself SEC. 6(b)(1) notice (so continuing is the **felony** tier), and you have made a
 statement live for SEC. 5(d). File an aggressive equivalence analysis instead and the State must
@@ -994,7 +994,7 @@ charges the honest filer.** Every general counsel in the state reads that docket
 > a provisional validation or a further nonconformity report on or before the completion date. This
 > subparagraph does not apply to a nonconformity the entity knew of and did not disclose, and
 > confers no protection as to any matter not disclosed. The Agency, or the Attorney General before
-> the Agency is organised, may shorten the period on written notice where the nonconformity presents
+> the Agency is organized, may shorten the period on written notice where the nonconformity presents
 > an imminent risk.
 
 This preserves (D)'s core — a nonconformity report is still not a validation — while removing the
@@ -1060,7 +1060,7 @@ footnote 8.
 
 **The gap it closes.** SEC. 1(b)(1) reaches a model two ways: the compute bright-line (self-certified under SEC. 8) and Agency capability-designation under SEC. 3. Both are sound. Between them sits a developer that (a) does not publish its training compute, so the bright-line cannot be read from public data, and (b) has not yet been designated by the Agency. The research establishes that this is not a marginal case but the ordinary one for the newest models: of the current flagship models of the five largest developers, the independent tracker Epoch AI records a training-compute figure for **none**. The scope of a compute-defined statute is, for those models, unverifiable from outside — while the developers themselves supply the missing fact in public, in their own words.
 
-**The fact the limb uses.** Each of the largest developers applies the word *frontier* to its own model, safety programme, or product, on its own domain: OpenAI's *Preparedness Framework* and *OpenAI Frontier* product; xAI's "Grok 4.6 achieves frontier intelligence"; Anthropic's *Frontier Red Team* and *Frontier Safety Roadmap*; Meta's *Frontier AI Framework*; Google DeepMind's *Frontier Safety Framework*. Twelve companies have published a "frontier" safety framework (METR inventory, December 2025). These are published acts by the developer, not characterisations by the Act. The limb converts each into what it already is — the developer's own statement that it operates at the frontier — and gives that statement scope effect, so that no estimate of a withheld compute figure is required to place a model where its developer has already placed it. Sources and grading: [research/frontier_models.md](../research/frontier_models.md).
+**The fact the limb uses.** Each of the largest developers applies the word *frontier* to its own model, safety program, or product, on its own domain: OpenAI's *Preparedness Framework* and *OpenAI Frontier* product; xAI's "Grok 4.6 achieves frontier intelligence"; Anthropic's *Frontier Red Team* and *Frontier Safety Roadmap*; Meta's *Frontier AI Framework*; Google DeepMind's *Frontier Safety Framework*. Twelve companies have published a "frontier" safety framework (METR inventory, December 2025). These are published acts by the developer, not characterizations by the Act. The limb converts each into what it already is — the developer's own statement that it operates at the frontier — and gives that statement scope effect, so that no estimate of a withheld compute figure is required to place a model where its developer has already placed it. Sources and grading: [research/frontier_models.md](../research/frontier_models.md).
 
 **Operation 1 — the self-designation route.**
 
@@ -1070,7 +1070,7 @@ footnote 8.
 
 **NEW TEXT — the subparagraph as it reads after insertion:**
 
-> exceeds 10^26 integer or floating-point operations; or a foundation model that its developer has designated, described, marketed, or publicly held out as a frontier model, or as operating at or near the frontier of artificial-intelligence capability — whether by so describing the model itself, or by so describing any safety, preparedness, risk-management, evaluation, or red-team framework, programme, or function that governs the model — including a holding-out in a published framework or policy, in the name, charter, or mandate of an internal safety or red-team function, in product or marketing documentation, or in a public statement by a controlling person of the developer; and a holding-out within this subparagraph is not undone by its later withdrawal, deletion, or amendment; or any model designated by the Agency under SEC. 3 as frontier-equivalent by capability.
+> exceeds 10^26 integer or floating-point operations; or a foundation model that its developer has designated, described, marketed, or publicly held out as a frontier model, or as operating at or near the frontier of artificial-intelligence capability — whether by so describing the model itself, or by so describing any safety, preparedness, risk-management, evaluation, or red-team framework, program, or function that governs the model — including a holding-out in a published framework or policy, in the name, charter, or mandate of an internal safety or red-team function, in product or marketing documentation, or in a public statement by a controlling person of the developer; and a holding-out within this subparagraph is not undone by its later withdrawal, deletion, or amendment; or any model designated by the Agency under SEC. 3 as frontier-equivalent by capability.
 
 **Operation 2 — the deployer carve-out.** The self-designation route attaches to the developer's own words about its own model. It must not reach a person whose only relation to the model is downstream. SEC. 1(b)(3) already distinguishes developer from deployer, provider, and substantial modifier; this makes the boundary explicit on the face of the scope term, where a reader tracing the self-designation route will look for it.
 
@@ -1078,7 +1078,7 @@ footnote 8.
 
 > This subparagraph attaches to the developer that trained or materially modified the model. A person that only makes available, operates, integrates, resells, or deploys another developer's model does not become a developer, or a controlling person of a developer, by describing itself, its services, or that model as frontier.
 
-**Why this shape.** The limb uses the developer's statement as evidence of a jurisdictional fact — that the model is a frontier model — and not as a thing punished in itself; the operative matter is the fact, which a developer remains free in principle to rebut, and rarely will, having asserted it to sell the model. The governing-function clause closes the "we called the *framework* frontier, not this model" reading: a developer that holds out its safety or red-team programme as frontier has placed every model that programme governs within the route. The anti-evasion clause closes the "we deleted the page" dodge: a holding-out that has occurred is not retracted out of scope. The carve-out keeps genuine deployers out and tracks the doctrine the Act is built on — under *Park*, the duty follows the practical power to prevent the harm, which for a frontier model is held by the person who controls what it is and how it is trained, not by the customer who buys access to it.
+**Why this shape.** The limb uses the developer's statement as evidence of a jurisdictional fact — that the model is a frontier model — and not as a thing punished in itself; the operative matter is the fact, which a developer remains free in principle to rebut, and rarely will, having asserted it to sell the model. The governing-function clause closes the "we called the *framework* frontier, not this model" reading: a developer that holds out its safety or red-team program as frontier has placed every model that program governs within the route. The anti-evasion clause closes the "we deleted the page" dodge: a holding-out that has occurred is not retracted out of scope. The carve-out keeps genuine deployers out and tracks the doctrine the Act is built on — under *Park*, the duty follows the practical power to prevent the harm, which for a frontier model is held by the person who controls what it is and how it is trained, not by the customer who buys access to it.
 
 **Held open — capability parity as a self-executing route.** A fourth route was considered and is not drafted solo: a model is covered where it performs, on the Agency's enumerated public benchmark suites, at or above the level of a model already covered under the compute or self-designation routes — closing the gap for a developer that discloses no compute and holds nothing out. The existing Agency limb already reaches capability, but only through Agency action; a *self-executing* capability trigger would need an objective, Agency-published benchmark list to avoid vagueness in a criminal scope term. That is exactly the pattern CURE 4 Operation 2 used for the evaluation-finding trigger — no duty until a threshold is prescribed by rule, the concept captured meanwhile in the record. Whether capability parity should become a self-executing route on that pattern is a provability judgment for the enforcement and security seats, and is flagged, not drafted here.
 
@@ -1107,10 +1107,10 @@ principle to rebut" the jurisdictional fact. Operation 1 gives that no textual e
 lineage compute does not exceed the figure in this paragraph."*
 
 *(4) Flagged, not resolved — a First Amendment question this cure cannot answer itself.* The route
-attaches criminal-statute scope to a person's own published characterisation of its own work and
+attaches criminal-statute scope to a person's own published characterization of its own work and
 forbids retraction. SEC. 0(a)(4) is drafted for the opposite problem (compelled speech) and does not
 answer this one. Whether "we operate at the frontier" is a jurisdictional fact or a contested
-characterisation is precisely the question the route needs to be wrong about to work. **For a First
+characterization is precisely the question the route needs to be wrong about to work. **For a First
 Amendment reader; see [the sweep](./v3_5_lane_sweep.md).**
 
 **Administrative load:** widens the covered-model population by an indeterminate amount, which the
@@ -1139,7 +1139,7 @@ advice.*
 of a covered model (SEC. 1(b)(3)) — the model side of the frontier. It does not reach the compute
 the frontier runs on. Compute is increasingly rented: a developer can train on a partner's cloud,
 an infrastructure company can supply capacity dedicated to a frontier run, and after a failure each
-can point at the other — the developer did not operate the data centre; the supplier only provided
+can point at the other — the developer did not operate the data center; the supplier only provided
 neutral services. The 2026 incident record shows the fragmentation is not hypothetical: the most
 consequential risk-generating environment of the July–August cluster belonged to a third-party
 vendor, not to any developer ([Open Question 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer)).
@@ -1148,7 +1148,7 @@ entity that pressed *train* leaves the other decisive points of control legally 
 
 **The architecture, stated once.** Scope follows the ecosystem; duty follows the function. The
 enterprise category widens who is *inside* the Act; it does not widen what anyone must do. The
-offences stay anchored where they are — the covered system's lifecycle, and the controlling person
+offenses stay anchored where they are — the covered system's lifecycle, and the controlling person
 who failed the duty attached to the authority that person actually held (SEC. 2(a), SEC. 4, SEC. 6).
 A compute supplier's duties are the records, security, and reporting duties prescribed for the
 supply of compute, and nothing else; a deployer-integrator's duties are the deployer's duties the
@@ -1243,7 +1243,7 @@ authority."
 
 **⚠ AMENDMENTS REQUIRED BEFORE THIS CURE LANDS — [lane sweep](./v3_5_lane_sweep.md), criminal-law, security, open-source and fiscal lanes.**
 
-*(1) Strike market capitalisation and valuation from (12)(iv).* They change intraday, sit outside
+*(1) Strike market capitalization and valuation from (12)(iv).* They change intraday, sit outside
 the actor's control, and cannot be known at the time of conduct — the fair-notice failure
 *Connally* describes. "Most recent arm's-length valuation" for a private company is an
 expert-versus-expert question the State would have to prove beyond reasonable doubt. **The dollar
@@ -1316,7 +1316,7 @@ own front page promises ("not more agencies, not more audits"). Operation 3 give
 function a named human owner before the activity begins, while the existing subsection (c)
 sentence — designation "neither diminishes nor creates any presumption against the responsibility
 of any other controlling person" — keeps the anchor from becoming a scapegoat or a shield.
-Operation 4 answers the outsourcing defence the incident record actually produced.
+Operation 4 answers the outsourcing defense the incident record actually produced.
 
 **Consequential check.** SEC. 1(b)(3) is untouched: integrators and platforms were already
 deployers and providers when they operate covered systems, and nothing here deems anyone the
@@ -1445,21 +1445,21 @@ systems as it applies to all other conduct."
 **To OPEN QUESTION 1 (Connecticut).** The decision is now makeable on primary text: the chaptered
 act (P.A. 26-15) is held on [the shelf](../research/verification_record.md). And the survey detail
 sharpens the recommendation already on file: Connecticut's verification mechanism is a *pilot* —
-at most five licensed organisations, the participants themselves defining the standards and
+at most five licensed organizations, the participants themselves defining the standards and
 metrics they are audited against, sunset June 2030. Adopting that as an interim standard would
 import a mechanism weaker than SEC. 3(b)'s own validation modes. Exhibit, not standard.
 
 **To OPEN QUESTION 3 (the third-party evaluator).** The question is narrowing from both sides.
 From the evaluator's: the states are making the evaluator a regulated person — Illinois requires
 unredacted access, bars financially interested auditors, and takes a signed certification from the
-lead auditor (P.A. 104-0538, on the shelf); Virginia licenses verification organisations through
+lead auditor (P.A. 104-0538, on the shelf); Virginia licenses verification organizations through
 VITA; Connecticut pilots the same. From the officer's: OPEN QUESTION 4's drafted amendment already
 carries the commissioning sentence — the duty attaches to the person who commissioned the
 evaluation as to the decisions that person made or had authority to make.
 
 **To CURE 4 (the recast triggers).** Two upgrades. The defeat-device precedent now carries its
-personal half in the record: Oliver Schmidt, seven years, for the same element — behaviour under
-evaluation diverging from behaviour in the world (NPR, retrieved 23 Aug; the gallery). And the
+personal half in the record: Oliver Schmidt, seven years, for the same element — behavior under
+evaluation diverging from behavior in the world (NPR, retrieved 23 Aug; the gallery). And the
 novelty objection to the deception trigger is dead: Illinois's enacted incident class (4) — a
 model "using deceptive techniques against its developer to subvert controls or monitoring" — is
 this trigger's sibling in force, in a statute the Act already adopts at SEC. 3(c)(4).
@@ -1470,8 +1470,8 @@ disclosure of "purely factual and uncontroversial information" receives *Zaudere
 compelled adoption of contested positions receives strict scrutiny (*NIFLA v. Becerra*), and *X
 Corp v. Bonta*, 116 F.4th 888 (9th Cir. 2024), struck a statute for compelling opinions on
 contested categories. The Act is built for the *Zauderer* side — SEC. 0(a)(4), SEC. 8's statements
-of fact, SEC. 9(c)'s no-characterisation rule, with CURE 4 removing the last
-characterisation-shaped trigger. The flagged question therefore narrows to: does the
+of fact, SEC. 9(c)'s no-characterization rule, with CURE 4 removing the last
+characterization-shaped trigger. The flagged question therefore narrows to: does the
 self-designation route survive the factual-and-uncontroversial prong where the jurisdictional fact
 is the company's own published designation? That bounded question — with its case list — is what
 the First Amendment reader should be asked.
@@ -1498,14 +1498,14 @@ Rev. at 287–88). Operation 1's three elements are the same architecture: autho
 actual violation, facilitation-by-failure. The sweep's hypothesis, drafted from *Park* alone,
 independently converged on the formulation thirty years of state case law settled on — which is
 evidence the fix is sound, and a citation for the criminal-law seat to check it against.
-Washington's *McNamara* adds the SEC. 6(e) phrase itself: liability centred on "the corporate
+Washington's *McNamara* adds the SEC. 6(e) phrase itself: liability centered on "the corporate
 officer's ability to prevent or correct a violation of the relevant statute" (292 P.3d 812, 831
 (Wash. Ct. App. 2013)). One further reference for the seat: Ferzan, *Probing the Depths of the
 Responsible Corporate Officer's Duty*, 12 Crim. L. & Phil. 455 (2018) (the mens-rea-depth debate;
 not in hand).
 
 **To CURE 10 (interim controls) — the federal comparator retrieved.** 42 C.F.R. § 73.11 (select-
-agent security plans, summarised from the eCFR 23 Aug, ⚠ R) requires: access only for approved
+agent security plans, summarized from the eCFR 23 Aug, ⚠ R) requires: access only for approved
 individuals with unique non-shared credentials; separation of restricted areas with layered
 barriers; procedures for receiving, monitoring and shipping; intrusion detection; information-
 security controls against unauthorized external connections; and **immediate reporting of

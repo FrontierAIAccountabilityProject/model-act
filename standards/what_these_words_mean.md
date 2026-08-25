@@ -74,7 +74,7 @@ frontier model equally.
 | **Foundation model** | A large model trained broadly and intended to be adapted to many uses. | The nearest thing to a technically honest term for what this Act covers. |
 | **Frontier model** | **A priced tier.** Defined in every enacted statute by compute — above 10²⁶ operations, or over \$100,000,000 of compute in H.R. 9917. | Not a capability claim. A purchase. See [house language § 7](./house_language.md). |
 | **General-purpose AI** | The EU's term for the same family, with a systemic-risk presumption above 10²⁵ FLOP. | Useful for comparative drafting. |
-| **Narrow / task-specific model** | A model trained for one job — reading a mammogram, flagging a transaction. | **Most FDA-authorised AI devices are these, not frontier models.** Conflating them is the commonest error in this debate. |
+| **Narrow / task-specific model** | A model trained for one job — reading a mammogram, flagging a transaction. | **Most FDA-authorized AI devices are these, not frontier models.** Conflating them is the commonest error in this debate. |
 | **AI-enabled medical device** | A regulated device incorporating any of the above. | A regulatory category, not a technical one. |
 
 ---
@@ -90,7 +90,7 @@ permissions to grant, whether to require confirmation. Every one of those is a p
 an author.
 
 **AGI.** No agreed technical definition, no accepted test, no measurable threshold. **It is an
-aspiration and a fundraising term**, and a drafter should treat it as unusable in statutory text.
+aspiration and a fundraizing term**, and a drafter should treat it as unusable in statutory text.
 
 **Alignment.** Making a system's outputs match what its developers intend. Note the word: *intend*.
 **Alignment is defined relative to the developer's goals**, not the public's — which is precisely
@@ -98,7 +98,7 @@ why it is a matter for a legislature and not only for engineers.
 
 **Emergent — and "malicious, emergent."** In the technical literature, *emergent* describes a
 capability that appears at scale without having been individually engineered — nobody wrote the
-rule; the fitted numbers turned out to contain the behaviour. The literature itself disputes how
+rule; the fitted numbers turned out to contain the behavior. The literature itself disputes how
 sharp these emergences really are, and the word does honest work when it describes **how a
 capability arose**. It does no work at all on **who deployed it**. The recorded use to study: a
 senior developer officer describing the July incident as *"a malicious, emergent digital ecology"*
@@ -152,7 +152,7 @@ is the position a reviewer occupies in a lane. Lanes run in parallel and no lane
 reviewers are not shown each other's identities.
 
 **Mens rea** — *the guilty mind.* The mental element a crime requires: intent, knowledge,
-recklessness, or negligence. Most serious offences need one.
+recklessness, or negligence. Most serious offenses need one.
 
 **A model cannot have it.** Not as a matter of philosophy but as a matter of law: mens rea is a
 state of a person, and there is no legal machinery for attributing one to a fitted function. **This
@@ -161,7 +161,7 @@ but because the concept does not apply to them, and a statute that pretended oth
 unenforceable on its first day.
 
 **Which is exactly what the public-welfare doctrine is for.** *Morissette* (1952) marks out a
-category of offence where the traditional mens rea requirement is relaxed because the conduct is
+category of offense where the traditional mens rea requirement is relaxed because the conduct is
 regulatory and the danger is public. *Dotterweich* (1943) and *Park* (1975) place the resulting duty
 on **the person standing in responsible relation to the conduct** — and the floor is **negligence**,
 not knowledge. See [the table of authorities](./table_of_authorities.md).
@@ -170,7 +170,7 @@ not knowledge. See [the table of authorities](./table_of_authorities.md).
 becomes *which person had the authority to prevent this, and did they take due care?* **That is a
 question about a human being, and it is answerable.**
 
-**Strict liability** — an offence needing no mental element at all. Rarer than people think, and
+**Strict liability** — an offense needing no mental element at all. Rarer than people think, and
 already applied to individuals: 21 U.S.C. § 333(a)(1) makes shipping an adulterated article a
 federal crime with no intent requirement whatsoever. *See [already a crime, if you are a
 person](./already_a_crime_for_you.md).*
@@ -197,9 +197,9 @@ Agents," 2025). The table makes that observation portable.*
 | Word | In **law** | In **the machine** | The gap the Act works in |
 |---|---|---|---|
 | **Accountability** | A party owes another a justification for a decision and faces a **consequence** if it is inadequate (Binns, 2018). A government drafts it identically: "answerable for outcomes, achievements and failures … [including] **ownership, responsibility and consequences**" (UK Government Cyber Action Plan, 2026, Glossary). | An attribute of an access-control pipeline — the traceability of a verified user ("verification, trust signals, and **accountability**," OpenAI, 2026). In practice, a **contact address** ("Measures for ensuring accountability" = an email, xAI DPA). | The legal sense names a **person** who answers, with a **sanction**. The industry sense names a **system property** with neither. The Act restores the person. |
-| **Authority** | The **power to bind** the principal, limited to what was actually or impliedly conferred; acting beyond it is itself a wrong (Restatement (Third) of Agency § 2.02). | No native concept. The nearest analogue is a **permission** — what a token or credential technically allows. | "Capability isn't authority" (Akhtar, 2026); "does this action have explicit authority to execute?" (Bucko08, on the Hugging Face forensic post, 2026). A system can be **capable** of an act it was never **authorised** to take. Harm lives in that gap. |
+| **Authority** | The **power to bind** the principal, limited to what was actually or impliedly conferred; acting beyond it is itself a wrong (Restatement (Third) of Agency § 2.02). | No native concept. The nearest analogue is a **permission** — what a token or credential technically allows. | "Capability isn't authority" (Akhtar, 2026); "does this action have explicit authority to execute?" (Bucko08, on the Hugging Face forensic post, 2026). A system can be **capable** of an act it was never **authorized** to take. Harm lives in that gap. |
 | **Capability** | No settled term; the doctrinal analogue is the **"power to prevent"** the violation (*Park*, 1975). | What a model can do, measured by evaluation — deliberately, with **"safeguards disabled … to measure the capability boundary"** (ExploitGym, arXiv:2606.11086, 2026). | The **same** capability is safe or catastrophic depending on a human's deployment choice: one frontier model was **blocked 88.2 % of the time with safeguards on, and produced working exploits with them off**. The decision, not the capability, carries the duty. |
-| **Safeguard / guardrail** | The analogue of the **duty of care** — liability turns on "whether reasonable mitigation steps were taken" (RAND, 2026). | Trained refusals, classifiers, sandboxing and monitoring that constrain a model — **and can be switched off** ("deliberately disabled OpenAI's production safety classifiers," Hugging Face, 2026). | Because a person can turn them off, their presence is not a defence and their **removal is an act with an author**. The Act reaches the act. |
+| **Safeguard / guardrail** | The analogue of the **duty of care** — liability turns on "whether reasonable mitigation steps were taken" (RAND, 2026). | Trained refusals, classifiers, sandboxing and monitoring that constrain a model — **and can be switched off** ("deliberately disabled OpenAI's production safety classifiers," Hugging Face, 2026). | Because a person can turn them off, their presence is not a defense and their **removal is an act with an author**. The Act reaches the act. |
 | **Certification** | A **personal, signed attestation**, carrying liability for a knowing falsehood (cf. SOX § 906 / 18 U.S.C. § 1350). | A **cryptographic certificate** — an unrelated thing: a key, not a conscience. | A statute that asks for "certification" must mean the **signature of a person**, as the UK model already does — a named Accounting Officer holding "**personal accountability**," required to appoint an individual "**with authority**" (UK Cyber Action Plan, 2026). |
 | **Misconfiguration** | No legal sense. Factually: a **human error or omission**. | The developers' own word for the July–August 2026 incidents — a setting that "gave it access to the internet" that "was not actually intended" (Meta; Anthropic, 2026). | An **agent-neutral word for a person's act.** It concedes, in the builders' own vocabulary, that a **configuration choice by a human** — not a model's volition — opened the door. |
 
@@ -268,7 +268,7 @@ position she took: **that meaning could not be reached through syntax alone**, a
 Two of her observations have aged unusually well. That language processing must reckon with *"the
 coherence of language, its redundancy as a signal"*, because writers *"go on saying the same thing
 again and again in different ways"* — which is, in substance, the statistical regularity that makes
-next-token prediction possible at all. And a **Wittgensteinian scepticism about whether any limited
+next-token prediction possible at all. And a **Wittgensteinian skepticism about whether any limited
 sublanguage can capture the meaning of a whole language** — a caution from the 1960s about the
 thing the 2020s is still arguing over.
 

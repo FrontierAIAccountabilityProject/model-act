@@ -144,7 +144,7 @@ intersection is empty. That claim is the first thing worth attacking.*
 
 **Nothing in this lane.** The sweep drafted repairs for the criminal-law, enforcement and
 open-source lanes; for security it recorded findings and stopped, because the fix is a technical
-judgment the project does not have. Two items from the neighbouring lane are the closest thing to
+judgment the project does not have. Two items from the neighboring lane are the closest thing to
 drafted language touching your objectives, and your question 3 is best answered with them in view.
 
 """,
@@ -193,7 +193,7 @@ administration, federalism and preemption, proportionality and sentencing, torts
 open source and academia. Each seat reviews independently and each disposition publishes
 independently, as written, so no lane waits on another. Findings that change text route through the
 public cure queue and the errata register, where every other lane sees them. The maintainer collates
-and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside
+and responds separately and labeled, and may not overrule or edit a disposition. Anonymous outside
 contributions arrive through the repository's correction doors and are credited by election — one
 open drafting question has already been answered from outside this way. Reviewer identities are not
 shared between reviewers, and attribution is each reviewer's own election.

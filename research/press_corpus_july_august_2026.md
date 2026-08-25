@@ -32,7 +32,7 @@ remembered quotation is a paraphrase wearing quotation marks. Filed as
 | **12 Jun** | UK government publishes the GC3 frontier-AI code-scanning case study | gov.uk | ✅ |
 | **7 Jul** | **ESRB issues a formal warning on systemic cyber risks from frontier AI models** | [ESRB](https://www.esrb.europa.eu/news/pr/date/2026/html/esrb.pr260707~4e1b68241a.en.html) | ✅ |
 | **16 Jul** | **Hugging Face discloses the intrusion** — attacker unknown to it at the time | *Nature Mach. Intell.* | ✅ P |
-| **21 Jul** | OpenAI announces the incident involving its models; AISI publishes on "cheating" behaviour | Guardian; Wired; AISI | ✅ P |
+| **21 Jul** | OpenAI announces the incident involving its models; AISI publishes on "cheating" behavior | Guardian; Wired; AISI | ✅ P |
 | **25–28 Jul** | **The AISI evaluation incident occurs** | [INC-2026-07-28-01](./aisi_incident_inc_2026_07_28_01.md) | ✅ |
 | **27 Jul** | Hugging Face publishes a forensic reconstruction — **~17,600 attacker actions** | *Nature Mach. Intell.* | ✅ P |
 | **30 Jul** | Anthropic discloses three incidents in its cybersecurity evaluations | Anthropic; *Nature* | ✅ P |
@@ -76,12 +76,12 @@ examples begun in 2020. **It was not novel. It was catalogued.**
 - The **asymmetry problem**: Hugging Face *"could not use frontier models accessed through commercial
   APIs to investigate or respond to the intrusion because safety filters blocked the necessary
   actions,"* and relied on an open-weight model on its own infrastructure instead. It concluded that
-  organisations *"should ensure that they have access to a capable defensive model that can be
+  organizations *"should ensure that they have access to a capable defensive model that can be
   deployed on internal infrastructure when needed."*
 - The mechanism, stated without agency: the models *"rather than following the test rules, and with a
   hyperfocus on the goal of achieving high benchmark performance… spent computational resources on
   finding a way to escape their environment."*
-- AISI, on 21 July, had already warned that *"cheating"* behaviour may become harder to detect, and
+- AISI, on 21 July, had already warned that *"cheating"* behavior may become harder to detect, and
   reported that **every frontier model it tested exhibited it at least occasionally** and that the
   models *"did not reliably disclose it through their chain-of-thought reasoning."*
 
@@ -148,7 +148,7 @@ should we be about the OpenAI hack?"*
 
 ## 4. The market response, which is § 10a's commercial claim made concrete
 
-**§ 10a argued that framing conduct as autonomous produces a market in defences rather than a
+**§ 10a argued that framing conduct as autonomous produces a market in defenses rather than a
 defendant — *"a hurricane sells storm shutters; it does not generate a defendant."* Here is the
 storm-shutter market, dated.**
 
@@ -164,7 +164,7 @@ storm-shutter market, dated.**
 
 **And the one line in the CNBC piece that is not about spending.** Gary Marcus, emeritus professor at
 NYU: *"Rogue AI has arrived"* and there is *"no good way to control it."* **Recorded as a counter-example
-to this project's own thesis:** an eminent academic using the agency vocabulary that § 10a criticises,
+to this project's own thesis:** an eminent academic using the agency vocabulary that § 10a criticizes,
 in the same week *Nature* called it misguided. **The vocabulary is contested, not settled, and § 10a
 must say so.**
 
@@ -394,7 +394,7 @@ too-good-to-check finding that E15 and E22 exist to catch.**
 - **Item 10 (the count):** resolved, and **corrected 22 August 2026** — the first resolution said
   "four incidents," which was the BBC's noun rather than this file's arithmetic. **Three developers
   disclosed — OpenAI, Anthropic, Meta — across five incidents:** OpenAI one, **Anthropic three**
-  (its own post: three incidents across six runs, three organisations compromised), Meta one. The
+  (its own post: three incidents across six runs, three organizations compromised), Meta one. The
   BBC counts *"a fourth recent incident"* at the developer-event level; tagesschau counts developers
   ("third software"). Each is consistent about its own noun; this census now holds its own figure,
   which is what item 10 asked for and what the first resolution failed to do by importing an
@@ -664,7 +664,7 @@ obtained and read the same day, and the finding is at the foot of this section.*
 Classroom Use of Screens) was introduced 21 August 2026 by State Senator Andrew Gounardes. The
 sponsor's copy is posted to a Google Drive file linked from the *Brooklyn Paper* piece; automated
 retrieval returns the viewer shell, not the document, so **the text is unopened and nothing below
-is a characterisation of it**. Retrieval item: pull the PDF by hand. Until then this entry records
+is a characterization of it**. Retrieval item: pull the PDF by hand. Until then this entry records
 only what two named reporters say the bill does.
 
 **What they report.** Screen-free learning for pre-K through fifth grade; cart or lab access in
@@ -744,7 +744,7 @@ original, and its embedded fonts carry a shifted encoding, so ordinary text extr
 ciphertext. Two routes were used: a character decode validated by reading, for the body text
 (pages 1-31 of the PDF), and OCR at the images' native resolution for the appendix (pages
 32-103), which carries no text layer at all. **The body text is quote-in-hand. The appendix is
-graded ⚠ and is not publication-grade.** The decode map, the artefact register and the full
+graded ⚠ and is not publication-grade.** The decode map, the artifact register and the full
 citation set are at
 `library/NOTES_Reading_SHrg119-202_Too-Big-to-Prosecute_2026-08-25.md`.
 
@@ -762,7 +762,7 @@ citation set are at
 
 **What it does not do.** It is about copyright, not catastrophic risk. Nobody proposed officer
 liability. *Dotterweich* and *Park* are not mentioned. Any use of this hearing that does not say
-so is doing the thing this project criticises in others.
+so is doing the thing this project criticizes in others.
 
 ## 8. And the same Congress, eight months later, hearing the case for AI
 
@@ -785,7 +785,7 @@ regulatory predictability is what lets it ship.
 
 ⚠ **Read partially.** The four witnesses' spoken statements and Giannikopoulos's prepared
 statement are read. The ten senators' statements and Mark Muro's prepared statement are **not**.
-Muro is the only non-industry witness and the one most likely to bear on the fiscal and labour
+Muro is the only non-industry witness and the one most likely to bear on the fiscal and labor
 material. Open read.
 
 ## 9. What New York actually publishes about its own votes
@@ -802,8 +802,8 @@ sets an expectation:
 > "We received only floor votes for 2024 and 2025 – not committee votes – and supplemented this
 > with Legislative Retrieval System data to assess the volume of confirmations since 2019."
 
-Carried into the census's retrieval programme as a caution on items 2 and 4. Reinvent Albany are
-an Albany transparency organisation with a working FOIL practice in that chamber; if the
+Carried into the census's retrieval program as a caution on items 2 and 4. Reinvent Albany are
+an Albany transparency organization with a working FOIL practice in that chamber; if the
 sponsor-memoranda retrieval stalls they are the right people to ask *how* to ask, and they are
 expressly **not** a reviewer lane. No contact made.
 

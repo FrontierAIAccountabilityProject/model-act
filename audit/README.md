@@ -21,7 +21,7 @@ every file in this folder has a door.*
 | File | What it is |
 |---|---|
 | [`chunk1_landscape_audit.md`](./chunk1_landscape_audit.md) | The landscape survey the drafting started from |
-| [`chunk2_preemption_armour.md`](./chunk2_preemption_armour.md) | The preemption armour and the savings-clause reading |
+| [`chunk2_preemption_armour.md`](./chunk2_preemption_armour.md) | The preemption armor and the savings-clause reading |
 | [`chunk3_penalty_architecture.md`](./chunk3_penalty_architecture.md) | The penalty architecture and the bracket calibration |
 | [`chunk4_harm_tier_rebuild.md`](./chunk4_harm_tier_rebuild.md) | The harm-tier rebuild |
 | [`chunk5_commencement_and_records.md`](./chunk5_commencement_and_records.md) | Commencement, records, and the time rule |

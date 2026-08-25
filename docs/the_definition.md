@@ -28,7 +28,7 @@ route, the developer's own designation of its model as frontier, proposed at
 
 ## The legal frontier — what a covered enterprise is
 
-Frontier AI is an industrial system, not a model file. It is produced by chips, data centres,
+Frontier AI is an industrial system, not a model file. It is produced by chips, data centers,
 cloud access, models, deployment platforms, sensitive data, institutional permissions, and the
 capital that sustains the whole. A company controlling one decisive layer of that system may hold
 more practical power over public risk than a smaller company that technically pressed *train*.
@@ -114,7 +114,7 @@ quantity of computing power greater than 10²⁶ … including … the original 
 subsequent fine-tuning, reinforcement learning, or other material modifications"* — the same
 figure, counted the same lineage-inclusive way, with thresholds updatable by rule
 ([the census](../standards/frontier_bill_census.md#the-queue) carries the full row). The Act's
-most-criticised definitional choice is now also Congress's bipartisan drafting instinct.
+most-criticized definitional choice is now also Congress's bipartisan drafting instinct.
 
 ## Where the operative text stands
 
@@ -127,4 +127,4 @@ revision, and the [known objections](./known_objections.md) to them are publishe
 
 *The argument this page supports: [the case](./the_case.md) — when a natural person has practical
 authority over a frontier-AI activity, responsibility for preventing public harm cannot disappear
-through delegation, corporate structure, or an "I did not personally build the system" defence.*
+through delegation, corporate structure, or an "I did not personally build the system" defense.*

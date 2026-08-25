@@ -74,16 +74,16 @@ docket runs from *Academia – E0007* through *Individual Consumer*, *Health
 Professional – A0007*, and half a dozen flavours of government. The letter families are
 legible from the labels themselves: **A** health professionals, **B** consumer groups,
 **C** industry and media, **D** trade and professional associations, **E** academia and
-other organisations, **G** government at each level, **I** the international mirror of
+other organizations, **G** government at each level, **I** the international mirror of
 the same set.
 
 Two things to understand about this box. First, it is a *tabulation label*: it lets the
-agency sort and summarise who commented, and it populates the tables in whatever
+agency sort and summarize who commented, and it populates the tables in whatever
 summary-of-comments document follows. Second, it is not a scoring rubric. Nothing in
 the APA or the agency's published procedure conditions the weight of a comment on the
 category ticked; weight follows substance, per the same tips sheet as everything else.
 The right way to fill it is therefore the boring way: pick the label that is true.
-An *Individual Consumer* with a specific, sourced observation outweighs a mislabelled
+An *Individual Consumer* with a specific, sourced observation outweighs a mislabeled
 one, and the category that flatters is worth nothing where the category that fits costs
 nothing.
 

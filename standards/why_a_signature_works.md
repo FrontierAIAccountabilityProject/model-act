@@ -27,7 +27,7 @@ death.** One received the lightest sentence in [the gallery](./the_same_conduct.
 heaviest.
 
 **Don Blankenship.** Twenty-nine miners died at Upper Big Branch. He was convicted of a single
-**misdemeanour** — conspiracy to violate mine safety standards — acquitted of every felony, and
+**misdemeanor** — conspiracy to violate mine safety standards — acquitted of every felony, and
 sentenced to **twelve months**, the statutory maximum.
 
 **Stewart Parnell.** Nine people died and roughly seven hundred fell ill from salmonella in Peanut
@@ -44,7 +44,7 @@ sentence was not the body count. **It was whether there existed a document the d
 that was untrue.**
 
 Parnell signed, so the law had a purchase and used it. Blankenship signed nothing of that kind, so
-twenty-nine deaths produced a regulatory misdemeanour with a one-year cap.
+twenty-nine deaths produced a regulatory misdemeanor with a one-year cap.
 
 *Sources: [DOJ, Blankenship sentencing](https://www.justice.gov/opa/pr/former-massey-energy-ceo-sentenced-year-federal-prison);
 [DOJ, Parnell sentencing](https://justice.gov/archives/opa/pr/former-peanut-company-president-receives-largest-criminal-sentence-food-safety-case-two).
@@ -63,7 +63,7 @@ Not the institution. Not the sponsor. A named human, in their own name.
 **Public companies.** After Enron, Congress required the chief executive and chief financial officer
 to **personally sign** a certification that the financial statements fairly present the company's
 condition — **18 U.S.C. § 1350**. False certification carries **\$1,000,000 and ten years** if
-knowing, **\$5,000,000 and twenty years** if wilful.
+knowing, **\$5,000,000 and twenty years** if willful.
 
 The 2002 objections were the ones a frontier-officer duty attracts today: no competent person will
 take the job; no individual can verify a large firm's whole position; the exposure is
@@ -81,10 +81,10 @@ much undermined."*
 **So Sarbanes-Oxley proves the narrower thing — which is the thing this file needs.** It is strong
 evidence that a certification requirement **changes conduct before anything reaches a courtroom**:
 every public company now has a named person who has to ask, and not one of the 2002 objections
-materialised. It is **weak evidence that certification statutes are charged and won**, and this file
+materialized. It is **weak evidence that certification statutes are charged and won**, and this file
 previously ran the two together.
 
-**Because the signature is not the offence. It is what makes an offence provable.** Parnell was not
+**Because the signature is not the offense. It is what makes an offense provable.** Parnell was not
 convicted under food-safety law either — he was convicted under fraud statutes that finally had a
 document to attach to. That is why § 1001, § 1519 and the ordinary fraud statutes matter here more
 than any purpose-built provision could. **They already exist. They already reach individuals. At the
@@ -96,7 +96,7 @@ compute frontier they have nothing to attach to, because nobody signs anything.*
 
 **Records.** Under **18 U.S.C. § 1519**, destroying a document with intent to impede a federal
 matter carries **twenty years** — and it bites *"in relation to or contemplation of"* a matter, so
-the offence is complete before any investigation opens.
+the offense is complete before any investigation opens.
 
 **The heaviest penalty in this whole file is not for killing anyone. It is for what happened to a
 piece of paper.**
@@ -146,7 +146,7 @@ no competent person would take the job.
 **And the phrase appears exactly once in the entire plan.** A document of nine chapters about
 accountability uses the words *personal accountability* one time, and spends them on the Accounting
 Officer. **Everything else in it is owned by units, functions, boards and departments.** The plan is
-not casual about this: it knows the difference between an organisation being accountable and a person
+not casual about this: it knows the difference between an organization being accountable and a person
 being accountable, and it makes the distinction once, deliberately, at the top.
 
 ### And the duties read like SEC. 8 with the numbers filed off
@@ -171,17 +171,17 @@ of as a box for an auditor to tick.**
 official to appoint them, and answers for it if they do not.** Same requirement. Different end of the
 telescope.
 
-### And generative AI is already classified as the risk no single organisation can hold
+### And generative AI is already classified as the risk no single organization can hold
 
 The plan divides cyber risk in two. **Government-wide risks** are defined as *"risks with
-severity/complexity that would be unmanageable by a single organisation"* — and the listed examples
+severity/complexity that would be unmanageable by a single organization"* — and the listed examples
 include:
 
 > *"Risks created by widespread adoption of **novel technologies, such as generative AI**."*
 
 **Those risks are owned by the DSIT Permanent Secretary, as Government Technology Risk Owner.** One
 post. One person. The stated objective is to *"establish central accountability for risks that
-departments or organisations cannot reasonably be expected to manage."*
+departments or organizations cannot reasonably be expected to manage."*
 
 > **A government has formally judged that generative-AI risk exceeds what any single organisation can
 > hold, and responded by naming one individual to hold it.**
@@ -226,7 +226,7 @@ normal and no evidence at all that it bites.*
 
 ## 3. What a signature actually does, from the field that measured it
 
-The best evidence that naming a person changes behaviour does not come from law. It comes from
+The best evidence that naming a person changes behavior does not come from law. It comes from
 surgery, where somebody ran the experiment.
 
 The WHO safe surgery checklist runs nineteen checks at three pause points. One of them is not a
@@ -260,7 +260,7 @@ word.** The list was the occasion. The redistribution of power was the mechanism
 surgeons resisted it is that they correctly understood which of the two was happening.
 
 **That is what a signature is, and it is why "this is just paperwork" misses.** A certification does
-two things at once. It creates an artefact — the evidentiary function § 2 describes. And it creates
+two things at once. It creates an artifact — the evidentiary function § 2 describes. And it creates
 **a person who is permitted to say no**, and with them a route for everyone below who wants to. An
 engineer with a concern and nobody obliged to receive it has no channel. An engineer with a concern
 and a named officer who must personally certify has one — and that officer now has a reason to want
@@ -288,7 +288,7 @@ reports.**
 
 **The first time a frontier incident produced public blame, it went to the tester.**
 
-Meta told the BBC that the incident in which its model reached another organisation's systems was
+Meta told the BBC that the incident in which its model reached another organization's systems was
 caused by a **"misconfiguration" by its independent tester**. The German public broadcaster reported
 it the same way: the problem *"lag… in einer Fehlkonfiguration des Systems **bei demselben
 Testpartner**"* — ⚠ at the same test partner. The tester, **Irregular**, responded that the Meta
@@ -300,7 +300,7 @@ work. The contractor locates it in a class of problem affecting everyone. **Neit
 person, and the only party publicly identified as at fault is the one with no power to stop a
 deployment.**
 
-*Nothing here asserts that Meta's characterisation is wrong, or that Irregular did anything improper.
+*Nothing here asserts that Meta's characterization is wrong, or that Irregular did anything improper.
 This project takes no position on either. **The point is where the blame landed, not whether it was
 deserved.***
 
@@ -319,7 +319,7 @@ directions.** Give the power to the person who can use it. Put the name on the p
 
 ---
 
-## 4. And the reason the frontier's own defence fails on Gawande's distinction
+## 4. And the reason the frontier's own defense fails on Gawande's distinction
 
 The same book supplies the distinction that decides whether a duty is fair. Following the
 philosophers Gorovitz and MacIntyre, Gawande separates two ways of failing:
@@ -335,7 +335,7 @@ And then he reaches for the legal word himself, without being asked:
 > **ineptitude**. Those on the receiving end use other words, like **negligence** or even
 > **heartlessness**."*
 
-**The industry's defence is ignorance.** Nobody yet knows how to make these systems reliably safe,
+**The industry's defense is ignorance.** Nobody yet knows how to make these systems reliably safe,
 so nobody can fairly be blamed for failing to.
 
 **But the frontier safety frameworks are the industry's own written statement of what it does
@@ -363,8 +363,8 @@ Engineers who lawyer up instead of writing incident reports. **It is a serious o
 about enforcement capacity, which is the scarce resource in every regulatory regime ever built.**
 
 **The UK government answered it in June 2026 while trying to do something else entirely.** Running
-frontier models against government code across nine organisations, the Government Cyber Coordination
-Centre found that the models produced candidate findings far faster than humans could check them,
+frontier models against government code across nine organizations, the Government Cyber Coordination
+Center found that the models produced candidate findings far faster than humans could check them,
 and wrote down the lesson:
 
 > *"Triage is essential. Agents generate candidate findings far faster than humans can validate them.
@@ -440,9 +440,9 @@ Member)."*
 
 And of twelve published frontier safety frameworks, **not one requires an attestation of a
 deployment decision.** At the best-documented laboratory on earth there is a decision-maker and no
-artefact of the decision.
+artifact of the decision.
 
-**So the objection has the burden backwards.** A signature is not a novel formality being proposed
+**So the objection has the burden backward.** A signature is not a novel formality being proposed
 for an industry that has never faced one. **It is the ordinary instrument by which American law
 reaches an executive at all** — and its absence at the compute frontier is not a gap in
 transparency. It is the removal of the mechanism.

@@ -49,7 +49,7 @@ downward readily. These files are the checking.*
   the comparative answers: s. 37 HSWA, PRC art. 31, § 130 OWiG, FSMA senior-manager
   responsibilities, and the claims this project declined to make.
 - [`already_a_crime_for_you.md`](./already_a_crime_for_you.md) — the statutory text behind the
-  front page's claim that **every offence this Act creates is already a crime for an ordinary
+  front page's claim that **every offense this Act creates is already a crime for an ordinary
   person**, most with heavier maxima and one with no intent requirement at all.
 - [`who_has_to_tell_you.md`](./who_has_to_tell_you.md) — ⚠ **a hypothesis, graded as one, not a
   finding.** That the duty to disclose a breach attaches to the party intruded upon rather than to
