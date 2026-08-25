@@ -242,6 +242,23 @@ html {
   }
 }
 
+// The text should not touch the frame. Just the Docs sets a tight gutter for
+// documentation; a page read slowly, at length, wants more air at the edges.
+@media (min-width: 50rem) {
+  .main-content-wrap {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1.8rem;
+    padding-bottom: 3.5rem;
+  }
+}
+@media (min-width: 66.5rem) {
+  .main-content-wrap {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}
+
 
 // The packets entry is a shelf, and the door should look like one.
 .site-nav .nav-list-expander {
