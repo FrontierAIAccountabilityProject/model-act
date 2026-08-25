@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640">
+  <rect width="1280" height="640" fill="#fbf8f1"/>
+  <rect x="24" y="24" width="1232" height="592" fill="none" stroke="#ddd5c5" stroke-width="3"/>
+  <text x="96" y="250" font-family="Bitstream Charter, Charter, Georgia, 'Times New Roman', serif" font-size="190" font-weight="700" fill="#5c1f1c">&#167;</text>
+  <text x="240" y="232" font-family="Bitstream Charter, Charter, Georgia, 'Times New Roman', serif" font-size="70" font-weight="700" fill="#191613">Model Act</text>
+  <text x="240" y="310" font-family="Bitstream Charter, Charter, Georgia, 'Times New Roman', serif" font-size="46" fill="#191613">Frontier AI Public Welfare Offenses</text>
+  <rect x="96" y="366" width="1088" height="2" fill="#ddd5c5"/>
+  <text x="96" y="440" font-family="Bitstream Charter, Charter, Georgia, 'Times New Roman', serif" font-size="38" fill="#5a544a">Responsible corporate officer liability, applied to frontier AI.</text>
+  <text x="96" y="500" font-family="Bitstream Charter, Charter, Georgia, 'Times New Roman', serif" font-size="38" fill="#5a544a">Public domain. Drafted in public, with its audits and errata beside it.</text>
+  <text x="96" y="576" font-family="DejaVu Sans Mono, ui-monospace, 'Courier New', monospace" font-size="28" fill="#9a8f77">frontieraiaccountabilityproject.github.io/model-act</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#fbf8f1"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#5c1f1c" stroke-width="6"/>
+  <rect x="34" y="34" width="432" height="432" fill="none" stroke="#ddd5c5" stroke-width="2"/>
+  <text x="250" y="330" text-anchor="middle" font-family="Bitstream Charter, Charter, Georgia, 'Times New Roman', serif" font-size="300" font-weight="700" fill="#5c1f1c">&#167;</text>
+</svg>
