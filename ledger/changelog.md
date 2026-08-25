@@ -3,6 +3,44 @@
 
 ## Part II — The changelog
 
+**Between versions — 25 August 2026, the word, the aim, and where this stands in the process.**
+The project has been asking experts for something it had never defined. A *disposition* is now
+defined where it is used: a reviewer's determination of a question, in the judicial sense of a
+matter finally determined rather than merely discussed, published entire under their name or
+anonymously, which the maintainer may answer beside but may not edit or overrule. The glossary
+gains that entry and two more, *lane* and *seat*. The dispositions register states the aim in one
+sentence — not approval, but a text attacked in public by people qualified to attack it, with the
+results published whichever way they fall.
+
+The same batch locates the project in the legislative process, using the process's own account of
+itself. USA.gov lists a "petition by people or citizen groups who recommend a new or amended law"
+as one of three recognised origins of a bill; the House's summary begins "First, a representative
+sponsors a bill," and everything after that presupposes a sponsor this Act does not have. So the
+Act sits before step one, in a space no procedure reaches — which is why the review structure had
+to be invented rather than borrowed. Congress.gov's observation that policy expertise lives in
+standing committees, whose members serve on few of them for many years, is the model the eight
+lanes reproduce; its admission that "for many bills, the process will not follow the sequence of
+congressional stages that are often understood to make up the legislative process" is the argument
+for finding defects now rather than trusting a later stage to catch them.
+
+Harvard's research guide supplies the standing and the strongest objection in the same paragraph.
+Model acts "may be proposed by any individual or organization," and are "rarely enacted in
+entirety" — so the form is open and the realistic success condition is being used as a basis. But
+a uniform law "takes at least two years; some have taken 15 years," and this Act has existed since
+June. That is quoted against ourselves on two surfaces, with the concession that nothing in the
+project's method substitutes for years of committee scrutiny, and that a disposition finding the
+text premature would be a legitimate outcome rather than a failure of the process.
+
+**One claim of ours was withdrawn in the writing.** Both the front page and the reviewer page had
+said that no producer of model legislation opens its drafting to outside experts. The Uniform Law
+Commission's own site says its acts are "drafted in an open and deliberative process that draws on
+the expertise of state-appointed commissioners, legal advisors and observers," with published
+drafts and section-by-section readings at two annual meetings. The claim was wrong and is now the
+narrower true one: what is unusual here is not that outsiders are consulted, but that a reviewer's
+conclusion is published as theirs, unedited, beside a numbered register of the drafter's own
+mistakes. The reviewer page's freeze, in place since the criminal-law packet was delivered, was
+lifted by the maintainer to land this batch.
+
 **Between versions — 24 August 2026, the reviewer page's doors.** The packets now greet a
 reviewer at the top of the page and see them out at the bottom — the paper path offered before
 the terms and after the map; CURE 19's row catches up with its own evening (the gate is

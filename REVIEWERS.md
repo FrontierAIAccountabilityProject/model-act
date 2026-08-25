@@ -20,12 +20,20 @@ Model acts are produced by a handful of bodies: the Uniform Law Commission, the 
 Institute, the American Bar Association, the American Legislative Exchange Council, and their
 international equivalents. Between them they have shaped a great deal of American law.
 
-**None of them offers what this page offers, because there is no standard pre-introduction review
-for model legislation at all.** Those bodies draft internally, through reporters, advisers and
-committees of their own members, and then circulate the result to legislatures. Some publish their
-drafting history; at least one keeps its model bills out of public view entirely. What none of them
-does is publish an unfinished statute together with its audits, its known defects and its own
-errata, and then invite named outside experts to attack it in public before anyone introduces it.
+**What this page offers is narrower than "nobody does review", and the narrower claim is the true
+one.** The Uniform Law Commission's process is genuinely open: by its own description, each uniform
+act "is drafted in an open and deliberative process that draws on the expertise of state-appointed
+commissioners, legal advisors and observers." Drafts are published, outside observers sit with
+drafting committees, and acts are read section by section at two annual meetings before adoption.
+That is a serious process and this project does not claim to better it.
+
+The difference is what happens to a critic's conclusion. In that model, an observer's view is input
+to a committee which then votes, and the act that emerges is the committee's. Here there is no
+committee and no vote: a reviewer's determination is published entire, under their name or
+anonymously, and the maintainer may answer beside it but cannot edit or overrule it. Nor does any
+producer of model legislation publish a numbered register of its own drafting mistakes. **What is
+unusual here is not that outsiders are consulted, but that their conclusions are published as
+theirs, and that the drafter's errors are published too.**
 
 The stage is worth naming too, because it is officially described. USA.gov lists a "petition by
 people or citizen groups who recommend a new or amended law" as one of the three recognised origins
@@ -34,11 +42,17 @@ bill" — everything else follows a sponsor. This Act has no sponsor. It sits in
 first step, where nothing is scrutinised because no procedure reaches it ([the route, in
 full](./docs/paths_to_enactment.md)).
 
-That is the whole of the offer here, and the reason it is worth an expert's time. **A disposition
-filed on this Act would be the first published expert determination on a model statute before its
-introduction.** Not a comment absorbed into a committee's product, not advice to a drafter who may
+That is the offer, and the reason it may be worth an expert's time. **A disposition filed here would
+be a signed outside determination on a model statute that its own drafter cannot edit, published
+before any legislator has been asked to carry it.** Not a comment absorbed into a committee's product, not advice to a drafter who may
 take it or leave it, but a signed finding standing in public beside the text it examined, for as
 long as the text exists.
+
+One number belongs here rather than in a footnote: a Uniform Law takes at least two years to draft
+and some have taken fifteen. This Act has existed since June 2026. That is the strongest argument
+available that it is not ready, a reviewer is entitled to make it, and a disposition concluding the
+text is premature would be a legitimate finding rather than a failure ([the full statement of the
+problem](./docs/paths_to_enactment.md)).
 
 There is a corresponding warning, which belongs in the same paragraph as the boast. This project
 has no institutional standing whatsoever. There is no membership, no vote, no body that adopts

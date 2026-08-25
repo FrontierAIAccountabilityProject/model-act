@@ -180,7 +180,82 @@ most such recommendations are ignored. What the project can control is whether, 
 look, the text is ready and its weaknesses are already on the record rather than waiting to be
 discovered in committee.
 
+### Standing, and the timeline problem — added 25 August 2026
+
+Harvard Law School's research guide to uniform laws and model acts settles the question of whether
+a project like this one has any business existing:
+
+> "Model Acts and Model Codes are similar to Uniform Laws but may be proposed by any individual or
+> organization including the American Bar Association, the American Law Institute, and ULC."
+
+**Any individual.** The form is open by design, and a model act's authority comes from its drafting
+rather than from its author's letterhead. That is the whole basis on which this project offers a
+text at all, and it is stated by a law library rather than asserted by the maintainer.
+
+The same guide states the expectation honestly, and it is worth quoting because it lowers the bar
+this project should be judged against:
+
+> "In comparison to Uniform Laws, Model Acts are generally used as a basis for designing state
+> laws. They are rarely enacted in entirety."
+
+Success for a model act is not enactment word for word. It is being used as a basis. A state that
+takes SEC. 6 and leaves everything else has used this Act properly.
+
+**And now the passage that should worry us most:**
+
+> "The drafting process for a Uniform Law takes at least two years; some have taken 15 years."
+
+This Act has existed since June 2026. Against a two-to-fifteen-year benchmark, months of drafting is
+not a boast, it is the single strongest argument that the text is not ready, and any reviewer is
+entitled to raise it. The record's answers, offered without pretending they settle it: the drafting
+is AI-assisted and disclosed, which changes throughput but not judgment; the project publishes its
+audits, its known defects and a numbered errata register precisely because a fast draft accumulates
+errors a slow one would have caught; and the tagged text is v3.4 with an open queue of unresolved
+questions rather than a finished instrument. **None of that substitutes for years of committee
+scrutiny. It is why the seats exist, and why a disposition finding the text premature would be a
+legitimate outcome rather than a failure of the process.**
+
+*Source: [Uniform Laws and Model Acts, Harvard Law School Library research
+guide](https://guides.library.harvard.edu/law/unifmodelacts) (last updated 18 December 2025), read
+25 August 2026.*
+
+### Why the review is organised in lanes, and why that is not an invention
+
+Congress.gov's overview of the legislative process describes where a legislature's own expertise
+actually lives:
+
+> "In both chambers, much of the policy expertise resides in the standing committees — panels of
+> members from both parties that typically take the lead in developing and assessing legislation.
+> Members typically serve on a small number of committees, often for many years, allowing them to
+> become highly knowledgeable in certain policy areas."
+
+That is the model this project's lanes reproduce at the pre-introduction stage. A reviewer takes one
+lane rather than the whole statute for the same reason a member sits on a small number of
+committees: subject-matter depth is what makes assessment worth anything, and a general impression
+of a whole bill is worth very little. Eight lanes, one seat each, is a committee structure without a
+legislature attached to it.
+
+The same source explains why doing this early matters. Its account of oversight is that *"once law
+is enacted, Congress has the prerogative and responsibility to provide oversight of policy
+implementation."* Scrutiny of that kind arrives after enactment, when the text is fixed and the
+harm, if the drafting was wrong, has already had time to occur.
+
+And it is candid about how little the textbook sequence can be relied upon:
+
+> "The process by which a bill becomes law is rarely predictable and can vary significantly from
+> bill to bill. In fact, for many bills, the process will not follow the sequence of congressional
+> stages that are often understood to make up the legislative process."
+
+Which is the practical argument for the whole exercise. If the process a bill will actually undergo
+cannot be predicted, then a defect left in the text on the assumption that some later stage will
+catch it is a defect gambling on a stage that may never happen. Better to find it now, in public,
+while nobody's name is on it.
+
 *Sources: [USA.gov, "How laws are made"](https://www.usa.gov/how-laws-are-made) (last updated
 17 November 2025); [U.S. House of Representatives, "The Legislative
-Process"](https://www.house.gov/the-house-explained/the-legislative-process). Both read
-25 August 2026.*
+Process"](https://www.house.gov/the-house-explained/the-legislative-process). Both read 25 August 2026. Committee, oversight and unpredictability passages from
+[Congress.gov, "The Legislative Process: Overview"](https://www.congress.gov/legislative-process),
+read 25 August 2026. The process diagram those videos accompany is
+[Congress.gov's legislative process poster](https://www.congress.gov/content/legprocess/legislative-process-poster.pdf),
+held in the project's private library; every stage it shows begins to the right of where this
+project works.*

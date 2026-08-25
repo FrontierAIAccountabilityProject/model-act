@@ -484,15 +484,18 @@ wrong, sent to the address below, enters the public register with its answer att
 
 ## For the review council
 
-**No model act gets this.** Model legislation in the United States is produced by the Uniform Law
-Commission, the American Law Institute, the American Bar Association and their peers, drafted
-internally by reporters and committees and then circulated to legislatures. There is no standard
-pre-introduction review, and at least one producer keeps its model bills out of public view. None
-of them publishes an unfinished statute alongside its audits, its known defects and its own errata
-and invites named outside experts to attack it in public before anyone introduces it. A disposition
-filed here would be the first published expert determination on a model statute before its
-introduction — and this project has no institutional standing to offer in return, which is stated
-on the reviewer page rather than buried.
+**What is unusual here, stated accurately.** Model legislation in the United States comes from the
+Uniform Law Commission, the American Law Institute, the American Bar Association and their peers.
+Their processes are not closed: the ULC's acts are drafted, in its own words, through "an open and
+deliberative process" drawing on commissioners, legal advisors and observers, with section-by-section
+readings at two annual meetings. The difference here is what becomes of a critic's conclusion. Those
+bodies take outside views as input to a committee that then votes, and the act belongs to the
+committee. This project has no committee and no vote: a reviewer's determination is published entire,
+under their name or anonymously, and the maintainer may answer beside it but cannot edit it. Nor does
+any producer of model legislation publish a numbered register of its own drafting errors. **Outsiders
+being consulted is ordinary; their conclusions being published as theirs, beside the drafter's own
+mistakes, is not** — and this project has no institutional standing to offer in exchange, which the
+reviewer page says outright.
 
 *The working detail moved to [REVIEWERS.md](./REVIEWERS.md) on 23 August 2026 — the bounded path,
 the lane briefs each with its shelf, the print-copy mechanics, filing, and the terms, in one page
