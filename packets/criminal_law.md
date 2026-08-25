@@ -345,6 +345,16 @@ defendant need produce nothing. Pre-indictment the State cannot see the delegati
 reserved-matters schedule; against a structured defense it simply does not indict. **This is not a
 constitutional defect. It is the reason the offense would never be charged.**
 
+**✅ Verified 25 August 2026, and *Park* is more specific than this cure assumed.** Read at 672–73:
+a claim that a defendant was "powerless" to prevent or correct the violation is "raised defensively
+at a trial on the merits"; "the defendant has the burden of coming forward with evidence, but this
+does not alter the Government's ultimate burden of proving beyond a reasonable doubt the defendant's
+guilt, **including his power**, in light of the duty imposed by the Act, to prevent or correct the
+prohibited condition." **That is the two-burden structure this operation proposes, in the Supreme
+Court's own words** — production on the defendant, persuasion on the State, and power expressly
+among the elements the State must prove. The sweep's finding that SEC. 6(d) deletes it stands, and
+now stands on the opinion rather than on the companion's summary of it.
+
 **NEW TEXT — appended to SEC. 6(d):**
 
 > Evidence that the person, by reason of position, ownership, or authority, had responsibility and
@@ -555,6 +565,8 @@ can coexist without the first eating the second; whether a state that has not ad
 willful-blindness instruction can be given one by statute; and whether the Act should follow the
 First Circuit or the Third on knowledge of the permit requirement, which here means knowledge that
 SEC. 5 applied at all.
+
+---
 
 ## Addendum — the criminal lane's missing shelf, 25 August 2026
 
