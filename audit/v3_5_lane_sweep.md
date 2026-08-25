@@ -376,3 +376,50 @@ plaintiff's — is not among the seats, and this is the finding that argues it s
 
 *The addendum drafts no operation and changes no tagged text; the sweep's framing is unchanged —
 this is not a review, and nothing here may be described as one.*
+
+---
+
+## Addendum — the criminal lane's missing shelf, 25 August 2026
+
+*Not a finding of this sweep. It comes from a vocabulary audit run two days later: the
+lawyer-written documents in the working library were n-grammed against all files in the
+repository, and a group of case names every criminal-law reviewer would reach for came back
+**zero**. The method is recorded in the diary; the tool is `check_vocabulary.py`.*
+
+**What was absent.** *MacDonald & Watson*. *Johnson & Towers*. *Iverson*, except in passing.
+*Hanousek*. *Jewell*. *Global-Tech*. *Bank of New England*. *Ahmad*. **Respondeat superior**,
+**collective knowledge**, **willful blindness** and **conscious avoidance** — none of them present
+in a repository whose central offense is a knowledge-and-authority offense.
+
+**Why it matters to this lane specifically, and not as a matter of presentation.** This sweep
+graded SEC. 6(a) fatal and drafted CURE 8, whose Operation 4 proposes that evidence of
+responsibility and authority "is sufficient to warrant a finding of practical power." That is
+*Park*'s burden structure and it is right for the base tier. **It is the precise move
+*United States v. MacDonald & Watson Waste Oil Co.*, 933 F.2d 35, 55 (1st Cir. 1991) forbids where
+knowledge is an express element** — which is what SEC. 6(b)(1) makes it. So the cure this sweep
+drafted works at the misdemeanor tier and fails silently at the felony tier, and the sweep's own
+*Held open* paragraph half-saw it, calling SEC. 6(b)(1)'s "knowingly" undistributed without knowing
+there was a case on the point.
+
+**The repair is [CURE 22](./v3_5_cure_language.md), and the answer comes from the same line rather
+than from us.** *United States v. Iverson*, 162 F.3d 1015, 1026 (9th Cir. 1998): the
+responsible-officer instruction "relieved the government only of having to prove that defendant
+personally discharged or caused the discharge of a pollutant. The government still had to prove . . .
+that defendant knew." Responsibility replaces the act element, not the knowledge element.
+
+**And the objection this lane most needs is now on the shelf too.** *United States v. Ahmad*,
+101 F.3d 386, 391 (5th Cir. 1996) holds that CWA discharges are **not** public welfare offenses,
+because they are "felonies punishable by years in federal prison." Training and deploying a model is
+ordinary commercial activity. **If a court took that view, the public-welfare framing would not
+carry SEC. 6(b) at all**, and the felony tier would need a conventional mens rea rather than a
+relaxed one. That is a sharper attack than anything this sweep produced, and nobody in-house can
+settle it.
+
+**The method point, which belongs here rather than in the cure.** The five lanes did not find this,
+because none of the five was asked *what a specialist would look for and fail to find*. Asking what
+is absent is a different instrument from asking what is wrong, and on its first run it produced a
+front-page erratum ([E42](../ledger/errata.md)) and this addendum.
+
+⚠ *Every authority named above is quoted from a secondary source and unread in the reporter. E22
+governs: none may be described as verified.*
+

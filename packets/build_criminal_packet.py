@@ -58,6 +58,11 @@ cure11 = section(queue, "## CURE 11 —", ["\n## CURE 12"])
 cure12 = section(queue, "## CURE 12 —", ["\n## CURE 13"])
 cure17 = section(queue, "### CURE 17 —", ["\n### CURE 18"])
 dougherty = section(queue, "**To CURE 8 (SEC. 6(a) reconstructed)", ["\n\n**To ", "\n\n**On "])
+# CURE 22 is the knowledge-element repair to CURE 8 and belongs immediately after it;
+# the sweep addendum of 25 Aug is this lane's own account of why. Both were written after
+# this builder was, and a packet that claims to be the whole lane must carry them (E38).
+cure22 = section(queue, "## CURE 22 —", ["\n## CURE ", "\n## COMPANION NOTE"])
+addendum = section(sweep, "## Addendum — the criminal lane's missing shelf", ["\n## "])
 
 parts = [
     """# The criminal-law lane — one page
@@ -122,6 +127,10 @@ candidate finding — verifying or refuting one is a complete finding for the di
     relink(cure1),
     "\n",
     relink(cure8),
+    "\n*The knowledge-element repair to the above, opened 25 August after a vocabulary audit found\nthe case law this lane was missing:*\n\n",
+    relink(cure22),
+    "\n",
+    relink(addendum),
     "\n*From the queue's fatals pass, same file — the state-court cross-check:*\n\n",
     relink(dougherty),
     "\n",

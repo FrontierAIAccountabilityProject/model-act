@@ -405,6 +405,72 @@ Act's duties attach to conduct and to authority instead, which is why the same e
 inside it. The honest cost of that choice is that it reaches conduct which harms nobody, and a
 reviewer who thinks the trade is wrong should say so.
 
+## "This is vicarious liability wearing a costume" — added 25 August 2026
+
+The objection: the Act punishes a person for what a machine did and what other people built,
+because they happened to sit above it. That is liability by position, and criminal law does not do
+that.
+
+**It is worth stating why the objection has real force.** Vicarious criminal liability — punishing
+A for B's act, with nothing of A's own in the offense — is disfavored for good reason, and a
+statute that reaches a chief executive for an evaluation run by a team of forty looks like exactly
+that from a distance.
+
+**The answer is that the Act's own text refuses the move at three separate points.**
+
+SEC. 4(a) excludes, in terms, "title, office, seniority, or status," and closes:
+**"Authority under this section is the authority to decide, not the capacity to act."** SEC. 4(b)
+makes the chief-executive presumption civil only; in a criminal proceeding status is merely
+"evidence from which the trier of fact may infer controlling-person status," and "the prosecution
+retains its burden on every element." And the element itself is the defendant's **own** failure of
+due care, measured against "the conduct of a reasonably prudent controlling person in like
+circumstances."
+
+**So nothing is imputed. What is proved is what this person had the authority to prevent, and
+whether this person took the measures a prudent person in that position would have taken.**
+
+### The part of the objection that is right, and what the Act does about it
+
+Corporate criminal liability really is built on imputation. *Respondeat superior* is how a company
+acquires a mental state at all, and the collective knowledge doctrine lets prosecutors aggregate
+what several employees each knew: *United States v. Bank of New England*, 821 F.2d 844, 856
+(1st Cir. 1984). Courts are split on that second one, and CRS records that some "have been wary or
+critical of this approach."
+
+**This Act declines to aggregate.** It reaches one natural person and must prove what that person
+knew, or deliberately avoided knowing, or failed to inquire into. **That is a harder case for the
+State than a corporate prosecution, not an easier one** — and the objection has the direction of
+travel backward.
+
+There is a version of the complaint that survives, and it is the better one: in an organization
+that compartmentalizes by design, the person with authority may genuinely never hold the facts.
+Uhlmann puts the mechanism plainly: "Corporations compartmentalize knowledge and subdivide
+operational duties to promote corporate efficiency." A frontier laboratory is an unusually clean
+example, since the people who evaluate a model, the people who ship it and the people who buy the
+compute are three different sets of people. **If that makes SEC. 6 unprovable in practice, the Act
+has a problem the drafting cannot argue its way out of, and the criminal-law seat should say so.**
+
+### And the doctrine that cuts hardest, which we raise ourselves
+
+Where knowledge is an express element — as it is at SEC. 6(b)(1) — *United States v. MacDonald &
+Watson Waste Oil Co.*, 933 F.2d 35, 55 (1st Cir. 1991) holds that "a mere showing of official
+responsibility under *Dotterweich* and *Park* is not an adequate substitute for direct or
+circumstantial proof of knowledge." **CURE 8's proposed burden-shift at SEC. 6(d) is exactly the
+move that case forbids at the felony tier**, and
+[CURE 22](../audit/v3_5_cure_language.md) is the repair.
+
+The answer comes from the same line of cases rather than from us. *United States v. Iverson*,
+162 F.3d 1015, 1026 (9th Cir. 1998): the responsible-officer instruction "relieved the government
+only of having to prove that defendant personally discharged or caused the discharge of a
+pollutant. The government still had to prove . . . that defendant knew." **Responsibility replaces
+the act element. It does not replace the knowledge element.** That is the architecture, and a
+circuit has already upheld it.
+
+⚠ **Read-status.** *MacDonald & Watson*, *Iverson*, *Bank of New England* and the CRS passages are
+quoted from secondary sources and **have not been read in the reporters**. They are on the retrieval
+list; under E22 none may be described as verified.
+
+
 ## "Corporate law already answers this, and it answers in our favour" — added 25 August 2026
 
 This is the objection a corporate governance lawyer raises, and until today this file could not

@@ -383,6 +383,223 @@ queue as operations.
 
 ---
 
+*The knowledge-element repair to the above, opened 25 August after a vocabulary audit found
+the case law this lane was missing:*
+
+## CURE 22 — SEC. 6(b): the felony tier's knowledge element, and one word that is not American
+
+*Opened 25 August 2026, not from a lane seat but from a vocabulary audit: the library's
+lawyer-written documents were n-grammed against all 102 files here, and a case name that every
+criminal-law reviewer would reach for came back **zero**. The method is recorded in
+[the diary](../ledger/diary.md). Treat this entry as sweep-grade, not maintainer-drafted.*
+
+**The defect, in one line.** [CURE 8](../audit/v3_5_cure_language.md#cure-8--sec-6-the-individual-liability-offense-reconstructed)
+builds a burden-shifting presumption out of official responsibility, and SEC. 6(b)(1) makes
+knowledge an express element. There is a leading appellate decision holding that the first cannot
+supply the second, and this repository had never cited it.
+
+**ANCHOR (SEC. 6(b)(1), verbatim from the tagged text):** "A person who knowingly or wilfully
+causes, directs, conceals, or materially facilitates a violation of SEC. 5, or who deliberately
+fails to halt a violation after notice, or who knowingly makes a false certification under SEC. 8,
+is subject to the felony penalties of SEC. 10(c)."
+
+### The authority the repository was missing
+
+*United States v. MacDonald & Watson Waste Oil Co.*, 933 F.2d 35 (1st Cir. 1991) — the same
+decision that calls *Dotterweich* and *Park* "the seminal cases regarding the responsible corporate
+officer doctrine," at 51 — holds at 55:
+
+> "In a crime having knowledge as an express element, a mere showing of official responsibility
+> under *Dotterweich* and *Park* is not an adequate substitute for direct or circumstantial proof
+> of knowledge."
+
+⚠ **Quoted from two secondary sources, not from the reporter.** Lyness, 64 B.C. L. Rev. 253, at
+n.148, and the Congressional Research Service's *Enforcement of Federal Pollution Control Laws*,
+which cites the same page. **Until the slip opinion is read this cure may not be described as
+verified, and no outreach may cite it as settled.** E22 governs.
+
+### Why it bites here, and exactly where
+
+CURE 8's Operation 4 proposes appending to SEC. 6(d):
+
+> Evidence that the person, by reason of position, ownership, or authority, had responsibility and
+> authority either to prevent the violation in the first instance or promptly to correct it, and did
+> not do so, is sufficient to warrant a finding of practical power.
+
+That is *Park*'s burden structure, and for SEC. 6(a) it is right: the elements there are practical
+power and a failure of due care, neither of which is knowledge. It is the precise thing
+MacDonald & Watson forbids at SEC. 6(b)(1), where the element **is** "knowingly or wilfully."
+
+**So the cure as drafted works at the base tier and fails silently at the felony tier** — the tier
+that carries the sentence the Act exists to make available. CURE 8's own *Held open* paragraph
+half-saw this, calling SEC. 6(b)(1)'s "knowingly" undistributed. It did not know there was a case
+on it.
+
+**The circuits are not unanimous, and the disagreement runs the other way.**
+*United States v. Johnson & Towers, Inc.*, 741 F.2d 662, 669 (3d Cir. 1984) requires the jury to
+find that each defendant "knew that Johnson & Towers was required to have a permit, and knew that
+Johnson & Towers did not have a permit" — a knowledge-of-the-law requirement the First Circuit and
+most others reject. CRS carries the split under a *But see* signal. ⚠ Also unread in the original.
+
+### Operation 1 — take the bridge the pollution statutes already codified
+
+The federal answer to MacDonald & Watson is not to abandon the knowledge element. It is willful
+blindness, and Congress wrote it into the statutes rather than leaving it to instructions. Per CRS:
+the CAA and TSCA provide that "in proving a defendant's possession of actual knowledge,
+circumstantial evidence may be used, including evidence that the defendant took affirmative steps
+to be shielded from relevant information," and RCRA carries near-identical language for its knowing
+endangerment offense. MacDonald & Watson itself, at 52 n.15, approved the district court's willful
+blindness instruction. The constitutional ceiling is *Global-Tech Appliances, Inc. v. SEB S.A.*,
+563 U.S. 754, 769 (2011). ⚠ All three unread in the original.
+
+**NEW TEXT — appended to SEC. 6(b):**
+
+> In proving that a person acted knowingly or willfully under this subsection, circumstantial
+> evidence may be used, including evidence that the person took affirmative steps to be shielded
+> from information that would have disclosed the violation or the conditions giving rise to it.
+> Responsibility and authority under SEC. 6(d), standing alone, do not establish knowledge.
+
+The second sentence is the concession, and it is written against the Act's own convenience. It
+states MacDonald & Watson as a limit on the statute rather than waiting for a defendant to state it
+first. **A reviewer who thinks the first sentence swallows the second has found the objection this
+cure most needs.**
+
+### Operation 2 — one word, and it is in the tagged text
+
+SEC. 6(b)(1) reads "knowingly or **wilfully**"; SEC. 7(b)(5)'s defense-costs proviso reads "a knowing or
+**wilful** violation." That is British spelling on the operative mens rea term of an American felony
+provision, and it is the only British spelling left in `model_act_v3_4.txt`. Three consequences,
+in ascending order of seriousness: a legislative counsel running a conformity check sees an
+instrument that does not match its own jurisdiction's usage; a reader searching "willful" in this
+site's search bar does not find the felony tier; and the whole federal willful-blindness line above
+is indexed under a spelling the Act does not use.
+
+**NEW TEXT:** in SEC. 6(b)(1) and SEC. 7(b)(5), read *willfully* as **willfully** and *willful* as
+**willful**.
+
+*Why this is a cure and not a correction.* `model_act_v3_4.txt` is tagged and checksummed. A change
+to it is an amendment with a number, not a sweep — so the commentary around it was normalized to
+American spelling on 25 August 2026 by `check_spelling.py` and the instrument was left alone,
+pending this operation at the revision.
+
+### What the repository owes the reader beside the objection
+
+Lyness does not accept MacDonald & Watson's reasoning as the end of it. At n.150: "This conclusion
+ignores that both the CWA and the CAA have versions of the doctrine with a mens rea element of
+'knowingly.'" And at the text his footnote 152 supports: the strict-liability form of the doctrine
+"may be inappropriate under the RCRA's statutory language, but there is still room under the RCRA
+to prosecute responsible corporate officers, at least in instances where 'knowledge' is implied by
+the evidence."
+
+**That is the shape of the answer.** MacDonald & Watson does not bar a knowledge-tier RCO offense.
+It bars using responsibility as a *substitute* for knowledge. The Act may keep its felony tier; it
+may not reach it through SEC. 6(d).
+
+
+### The answer the same line already supplies, and it is better than the objection
+
+*United States v. Iverson*, 162 F.3d 1015 (9th Cir. 1998) is a Clean Water Act prosecution in which
+the responsible-corporate-officer instruction was given and upheld. The court described exactly what
+the instruction did and did not do, at 1026:
+
+> "[T]he 'responsible corporate officer' instruction relieved the government only of having to prove
+> that defendant personally discharged or caused the discharge of a pollutant. The government still
+> had to prove that the discharges violated the [CWA] and that defendant knew that the discharges
+> were pol[lutants]."
+
+**That is the whole architecture in one sentence, and it is the architecture this cure proposes.**
+Responsible-officer status replaces the **act** element. It does not replace the **knowledge**
+element. MacDonald & Watson and *Iverson* are not in tension: the first forbids using responsibility
+as a substitute for knowledge, and the second confirms that an RCO instruction which does not
+attempt that substitution survives.
+
+So SEC. 6(b)(1) may keep its felony tier and its "knowingly or wilfully," provided the prosecution
+proves knowledge by ordinary means — including the willful blindness route Congress codified. What
+it may not do is reach knowledge through SEC. 6(d).
+
+**And *Iverson* carries a second holding this project has never used.** At 1024, on why *Park*'s
+refinement applies to the CWA at all: "In 1987, after the Supreme Court decided Park, Congress
+revised and replaced the criminal provisions of the CWA. . . . Congress made no changes to its
+'responsible corporate officer' provision. That being so, we can presume that Congress intended for
+Park's refinement of the 'responsible corporate officer' doctrine to apply." **A legislature that
+re-enacts around a doctrine adopts it.** That is an argument available to any state adopting this
+Act on top of a framework statute it has already passed.
+
+⚠ Both passages quoted from Lyness, 64 B.C. L. Rev. 253, nn.117–118, not from the reporter. Unread,
+on the retrieval list, and not to be described as verified.
+
+### The best objection, stated because this cure would rather lose here than in a hearing
+
+*United States v. Ahmad*, 101 F.3d 386, 391 (5th Cir. 1996) holds that illegal discharges under the
+CWA are **not** public welfare offenses, because they are "felonies punishable by years in federal
+prison" and "dispensing with mens rea would require the defendant to have knowledge only of
+traditionally lawful conduct" (quoting *Staples*, 511 U.S. at 618). And Justice Thomas, dissenting
+from the denial of certiorari in *Hanousek v. United States*, 528 U.S. 1102 (2000): the CWA "imposes
+criminal liability for persons using standard equipment to engage in a broad range of ordinary
+industrial and commercial activities."
+
+**Read against this Act, that is an attack on the felony tier's entire framing**, and it is
+sharper than the knowledge objection this cure was opened to answer. Training and deploying a model
+is ordinary commercial activity. If a court took *Ahmad*'s view, the public-welfare label would not
+carry SEC. 6(b) at all, and the tier would need a conventional mens rea of its own rather than a
+relaxed one. **No one in-house can settle that. It is the criminal-law seat's question and it
+belongs at the top of that seat's list.**
+
+⚠ Both quoted from the CRS report *Enforcement of Federal Pollution Control Laws*, not from the
+reporters. E22 governs.
+
+**Administrative load:** none. Element and evidence provisions only.
+
+**Held open for the criminal-law seat.** Whether the shielding sentence and the SEC. 6(d) carve-out
+can coexist without the first eating the second; whether a state that has not adopted a
+willful-blindness instruction can be given one by statute; and whether the Act should follow the
+First Circuit or the Third on knowledge of the permit requirement, which here means knowledge that
+SEC. 5 applied at all.
+
+## Addendum — the criminal lane's missing shelf, 25 August 2026
+
+*Not a finding of this sweep. It comes from a vocabulary audit run two days later: the
+lawyer-written documents in the working library were n-grammed against all files in the
+repository, and a group of case names every criminal-law reviewer would reach for came back
+**zero**. The method is recorded in the diary; the tool is `check_vocabulary.py`.*
+
+**What was absent.** *MacDonald & Watson*. *Johnson & Towers*. *Iverson*, except in passing.
+*Hanousek*. *Jewell*. *Global-Tech*. *Bank of New England*. *Ahmad*. **Respondeat superior**,
+**collective knowledge**, **willful blindness** and **conscious avoidance** — none of them present
+in a repository whose central offense is a knowledge-and-authority offense.
+
+**Why it matters to this lane specifically, and not as a matter of presentation.** This sweep
+graded SEC. 6(a) fatal and drafted CURE 8, whose Operation 4 proposes that evidence of
+responsibility and authority "is sufficient to warrant a finding of practical power." That is
+*Park*'s burden structure and it is right for the base tier. **It is the precise move
+*United States v. MacDonald & Watson Waste Oil Co.*, 933 F.2d 35, 55 (1st Cir. 1991) forbids where
+knowledge is an express element** — which is what SEC. 6(b)(1) makes it. So the cure this sweep
+drafted works at the misdemeanor tier and fails silently at the felony tier, and the sweep's own
+*Held open* paragraph half-saw it, calling SEC. 6(b)(1)'s "knowingly" undistributed without knowing
+there was a case on the point.
+
+**The repair is [CURE 22](../audit/v3_5_cure_language.md), and the answer comes from the same line rather
+than from us.** *United States v. Iverson*, 162 F.3d 1015, 1026 (9th Cir. 1998): the
+responsible-officer instruction "relieved the government only of having to prove that defendant
+personally discharged or caused the discharge of a pollutant. The government still had to prove . . .
+that defendant knew." Responsibility replaces the act element, not the knowledge element.
+
+**And the objection this lane most needs is now on the shelf too.** *United States v. Ahmad*,
+101 F.3d 386, 391 (5th Cir. 1996) holds that CWA discharges are **not** public welfare offenses,
+because they are "felonies punishable by years in federal prison." Training and deploying a model is
+ordinary commercial activity. **If a court took that view, the public-welfare framing would not
+carry SEC. 6(b) at all**, and the felony tier would need a conventional mens rea rather than a
+relaxed one. That is a sharper attack than anything this sweep produced, and nobody in-house can
+settle it.
+
+**The method point, which belongs here rather than in the cure.** The five lanes did not find this,
+because none of the five was asked *what a specialist would look for and fail to find*. Asking what
+is absent is a different instrument from asking what is wrong, and on its first run it produced a
+front-page erratum ([E42](../ledger/errata.md)) and this addendum.
+
+⚠ *Every authority named above is quoted from a secondary source and unread in the reporter. E22
+governs: none may be described as verified.*
+
 *From the queue's fatals pass, same file — the state-court cross-check:*
 
 **To CURE 8 (SEC. 6(a) reconstructed) — the reconstruction matches the doctrine the state courts

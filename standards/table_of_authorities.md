@@ -41,6 +41,24 @@ claim: every line restates a citation already published elsewhere in the reposit
 | *United States v. DeCoster*, 828 F.3d 626 (8th Cir. 2016) | n.6 (concurrence at 637) | The constitutional floor: Park requires negligence to convict; imprisonment on negligence is permissible |
 | *Morissette v. United States*, 342 U.S. 246 (1952) | SEC. 1(a); n.2 (at 256) | The public-welfare category, and the bargain: strict liability without imprisonment |
 
+| *United States v. MacDonald & Watson Waste Oil Co.*, 933 F.2d 35 (1st Cir. 1991) | CURE 22; the glossary | ⚠ At 55: where knowledge is an express element, official responsibility under *Dotterweich* and *Park* is **not an adequate substitute** for proof of knowledge. At 51, the "seminal cases" description. At 52 n.15, approval of a willful blindness instruction |
+| *United States v. Iverson*, 162 F.3d 1015 (9th Cir. 1998) | CURE 22 | ⚠ At 1026: the RCO instruction relieves the government of the **act** element only, not the knowledge element. At 1024: Congress re-enacted the CWA's criminal provisions after *Park* and left the RCO provision untouched, so *Park*'s refinement applies |
+| *United States v. Johnson & Towers, Inc.*, 741 F.2d 662 (3d Cir. 1984) | CURE 22 | ⚠ At 669: the Third Circuit's outlier rule requiring the jury to find the defendant knew a permit was required and that none was held. Carried for the split, not for the proposition |
+| *United States v. Ahmad*, 101 F.3d 386 (5th Cir. 1996) | CURE 22; the criminal lane | ⚠ At 391, **against this Act**: CWA discharges are not public welfare offenses because they are "felonies punishable by years in federal prison" (quoting *Staples*, 511 U.S. at 618) |
+| *United States v. Hanousek*, 176 F.3d 1116 (9th Cir. 1999); cert. denied, 528 U.S. 1102 (2000) | the glossary | ⚠ At 1120–21: ordinary negligence suffices under 33 U.S.C. § 1319(c)(1)(A). Thomas, J., dissenting from denial: the CWA reaches "persons using standard equipment to engage in a broad range of ordinary industrial and commercial activities" |
+| *United States v. Jewell*, 532 F.2d 697 (9th Cir. 1976) (en banc) | the glossary | ⚠ At 704: willful blindness — ignorance "solely and entirely a result of . . . a conscious purpose to avoid learning the truth" |
+| *United States v. Cincotta*, 689 F.2d 238 (1st Cir. 1982) | the glossary | ⚠ At 243 n.2: conscious avoidance means only that specific knowledge "may be inferred when a person knows other facts that would induce most people to acquire" it |
+| *Global-Tech Appliances, Inc. v. SEB S.A.*, 563 U.S. 754 (2011) | the glossary | ⚠ At 769: the constitutional ceiling on willful blindness |
+| *United States v. Bank of New England, N.A.*, 821 F.2d 844 (1st Cir. 1984) | the glossary | ⚠ At 856: collective knowledge — a corporation "cannot plead innocence" because no single employee held the whole picture |
+| *United States v. Philip Morris USA Inc.*, 566 F.3d 1095 (D.C. Cir. 2009) | the glossary | ⚠ At 1118: corporate intent "depends on the wrongful intent of specific employees" — the *respondeat superior* premise this Act builds on |
+| 33 U.S.C. § 1319(c)(6) | E42; the glossary | ⚠ The Clean Water Act's own responsible-corporate-officer provision: "the term 'person' means . . . any responsible corporate officer" |
+
+*⚠ **Every authority in this block is quoted from a secondary source** — the Congressional Research
+Service's* Enforcement of Federal Pollution Control Laws*, Lyness, 64 B.C. L. Rev. 253, or Hustis
+and Gotanda, 25 Loy. U. Chi. L.J. 169 — **and none has been read in the reporter.** They are on the
+retrieval list. Under E22 none may be described as verified, and no outreach may cite them as
+settled.*
+
 ### Culpability and elements
 
 | Authority | Cited at | For |
