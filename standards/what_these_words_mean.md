@@ -193,6 +193,70 @@ apply.
 narrower and better one than the version this page carried until 25 August 2026 — see
 [E42](../ledger/errata.md#e42--the-doctrine-was-said-never-to-have-left-food-and-drug-it-left-decades-ago-by-act-of-congress).
 
+**Respondeat superior** — Latin, *"let the superior answer."* The master answers for the servant.
+It is the doctrine that lets a company be criminally liable at all, because a company has no mind
+of its own for the law to inquire into. Per CRS, courts analyze corporate mens rea "by reference to
+the principle of respondeat superior — under which corporations can be responsible for the acts of
+their employees acting in the scope of their employment with the intent to benefit the
+corporation." Or as the D.C. Circuit put it in *United States v. Philip Morris USA Inc.*,
+566 F.3d 1095, 1118 (2009): "Because a corporation only acts and wills by virtue of its employees,
+the proscribed corporate intent depends on the wrongful intent of specific employees."
+
+**Where this Act stands, and it is the argument rather than a concession.** If corporate intent
+already depends on the intent of *specific employees*, then a statute that goes directly to the
+specific person is not a departure from corporate criminal law. **It is the same idea with the
+detour removed.** The company remains liable under SEC. 10(a); this Act simply declines to stop
+there.
+
+**Collective knowledge** — the doctrine that lets prosecutors add up what several employees each
+knew and treat the total as the company's knowledge, even where no single person held the whole
+picture. *United States v. Bank of New England, N.A.*, 821 F.2d 844, 856 (1st Cir. 1984): "a
+corporation cannot plead innocence by asserting that the information obtained by several employees
+was not acquired by any one individual who then would have comprehended its full import. Rather the
+corporation is considered to have acquired the collective knowledge of its employees and is held
+responsible for their failure to act accordingly."
+
+**Why the doctrine exists is the part that matters here.** Uhlmann, 49 U.C. Davis L. Rev. 1235,
+1280 (2016): "Corporations compartmentalize knowledge and subdivide operational duties to promote
+corporate efficiency." That is a description of every large organization, and it is an unusually
+exact description of a frontier laboratory, where the people who evaluate a model, the people who
+ship it and the people who price the compute are three different sets of people.
+
+**And courts are split on it.** CRS records that some have recognized the doctrine and "other
+courts have been wary or critical of this approach."
+
+**Where this Act stands.** SEC. 6 reaches the natural person with practical authority, which is a
+position on collective knowledge whether or not the Act says so: **it declines to aggregate.** The
+prosecution must prove what *this person* knew or failed to inquire into, not what the organization
+collectively held. That is harder for the State and fairer to the defendant, and a reviewer who
+thinks it makes the offense unprovable in a compartmentalized company has found a real objection.
+
+**Willful blindness** — also called *conscious avoidance*, and in older cases *the ostrich
+instruction*. Deliberately not looking, where looking would have produced knowledge. The classic
+formulation is *United States v. Jewell*, 532 F.2d 697, 704 (9th Cir. 1976) (en banc): the
+government must prove "beyond a reasonable doubt, that if the defendant was not actually aware [of
+the crime] . . . his ignorance in that regard was solely and entirely a result of . . . a conscious
+purpose to avoid learning the truth." Narrowed in *United States v. Cincotta*, 689 F.2d 238, 243 n.2
+(1st Cir. 1982): "specific knowledge may be inferred when a person knows other facts that would
+induce most people to acquire the specific knowledge in question." The constitutional ceiling is
+*Global-Tech Appliances, Inc. v. SEB S.A.*, 563 U.S. 754, 769 (2011).
+
+**Congress did not leave this to jury instructions.** Per CRS, the Clean Air Act and TSCA provide
+that "in proving a defendant's possession of actual knowledge, circumstantial evidence may be used,
+including evidence that the defendant took affirmative steps to be shielded from relevant
+information," and RCRA carries near-identical language for its knowing-endangerment offense.
+
+**Where this Act stands.** The tagged text does not mention it. **That is a gap, not a position**,
+and [CURE 22](../audit/v3_5_cure_language.md) proposes the codified form, because SEC. 9(b) already
+does the same work from the other end: the reporting clock runs from when an incident "would have
+been detected by the monitoring the entity certified it maintains." **An Act that already refuses to
+credit unmonitored ignorance should say so about deliberate ignorance too.**
+
+⚠ **Read-status.** Every case in these three entries is quoted from the Congressional Research
+Service's *Enforcement of Federal Pollution Control Laws* or from Hustis and Gotanda,
+25 Loy. U. Chi. L.J. 169 (1994) — **not from the reporters.** All are on the retrieval list and
+none may be described as verified. E22 governs.
+
 **Duty of oversight** — *the Caremark line.* The corporate-law doctrine nearest to what this Act
 does, and the one a governance lawyer reaches for first. It asks whether those in charge built a
 system to know. *In re Caremark*, 698 A.2d 959, 971 (Del. Ch. 1996): "only a sustained or systematic
