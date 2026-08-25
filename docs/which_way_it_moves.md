@@ -60,6 +60,22 @@ concerning the same class of risk."
 [CURE 15](../audit/v3_5_cure_language.md) is the drafted repair and it is unvalidated. *This is the
 enforcement lane's sharpest live question.*
 
+**And the same two sections run candour the other way, which nobody had put beside this.** SEC. 9(b)
+starts the clock from what "would have been detected by the monitoring **the entity certified it
+maintains under SEC. 8**." SEC. 8 provides that a certification "disclosing identified noncompliance
+satisfies the duty to certify." So an entity that honestly discloses it does not maintain the
+prescribed monitoring has, on the face of SEC. 9(b), certified **less** monitoring — and is deemed
+to have known less. [CURE 14](../audit/v3_5_cure_language.md) identified this on 22 August as a
+gaming problem and drafted the repair, measuring the counterfactual against the standard rather than
+the entity's own certification.
+
+**Read the two together and it is not two defects but one shape.** Through SEC. 8 and SEC. 9, the
+Act **punishes candour about nonconformity and rewards candour about missing monitoring**. The
+person who tells the truth about the system is worse off; the person who tells the truth about the
+watching is better off. Neither result was chosen, both follow from routing evidentiary consequences
+through documents the defendant writes, and **a reviewer who can say which one the drafter should
+have preferred has answered a question this project has only been able to describe.**
+
 ## Deliberate ignorance costs the deployer its safe course, and costs the developer nothing
 
 The Act uses the willful blindness idea **once**. SEC. 2(b), on the reliance path that lets a

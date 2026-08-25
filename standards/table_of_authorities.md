@@ -266,6 +266,7 @@ one sentence, from a criminal-law scholar who has not elected to be named. It is
 | Becker, *Crime and Punishment: An Economic Approach*, 76 J. Pol. Econ. 169 (1968) | n.19 | Deterrence requires the expected sanction to exceed the benefit |
 | Gneezy & Rustichini, *A Fine Is a Price*, 29 J. Legal Stud. 1 (2000) | n.19 | Why a payable fine is a price |
 | Shavell, *The Judgment Proof Problem*, 6 Int'l Rev. L. & Econ. 45 (1986) | n.19 | Why fines alone cannot reach the judgment-proof or the equity-rich |
+| Guidelight AI Standards, *Control Assessment of Frontier AI Companies* (18 Aug 2026) | known objections, reasonable inquiry; SEC. 3(c)(4)(C) | ✅ **Read in the primary 25 Aug 2026** (held in the working library). Six practices from public information only, June–Aug 2026. Anthropic C+ (2.50), OpenAI C+ (2.50), Google D+ (1.50), xAI D− (0.83), Meta F (0.67). "no company's score on any practice exceeded a 3." "[T]he best public evidence is that companies have few containment protocols ready for an emergency." "Three companies describe logging at least some internal usage that is then scanned for signs of misbehavior." "Four of them (all but xAI) participated in METR's first Frontier Risk Report." No byline; rubric not audited here |
 
 ---
 

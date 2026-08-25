@@ -574,6 +574,59 @@ And SEC. 6(a) repeats it: "an entity's own framework is evidence of neither." **
 your own people that your own framework was followed is expressly not enough** — which is a partial
 answer to the objection, and it is the only one the Act gives.
 
+### And there is now an outside measure, which the Act does not use and could
+
+On 18 August 2026 Guidelight AI Standards published a control assessment of five frontier companies
+against six practices — logging, monitor efficacy, gated actions, circuit breaking, third-party
+review, containment plan — scoring Anthropic C+ (2.50), OpenAI C+ (2.50), Google D+ (1.50), xAI
+D− (0.83) and Meta F (0.67). Method, in its own words: over June to August 2026, "We compiled each
+company's relevant public materials: frontier safety frameworks, system cards and model reports,
+technical blog posts, attributed company statements in third-party publications, etc. **We only drew
+upon public information.**"
+
+> "Across frontier companies, basic control practices are at most partially implemented. On our 0–5
+> scale, no company's score on any practice exceeded a 3 (substantial partial implementation). The
+> majority of scores are 2 (limited partial implementation) or lower."
+
+> "How AI companies would respond to such incidents is even less clear; the best public evidence is
+> that companies have few containment protocols ready for an emergency."
+
+> "Three companies describe logging at least some internal usage that is then scanned for signs of
+> misbehavior."
+
+**Why this bears on reasonable inquiry.** The objection above assumes the officer's alternative to
+personal knowledge is her own safety team. It is not the only alternative. **A third party reading
+nothing but published documents produced a graded finding about containment and internal
+monitoring** — which means "did this officer make reasonable inquiry" has at least one answerable
+form: *did she know what an outsider could already see from her own company's published material,
+and did she ask about the gap?*
+
+That does not settle whether asking the safety team suffices. It does establish that **an officer who
+certifies compliance while her own public documents will not support a passing grade on containment
+is not in the hard case at all**, and the hard case is the only one this section has been arguing
+about.
+
+**And one finding cuts at a drafting choice this Act made deliberately.** SEC. 3(c)(4)(C) provides
+that in the adopted interim standards, "provisions respecting assessment or audit by a third party do
+not apply, and conformity may be documented internally, **independent assessment being at the
+entity's election**." The assessment records that "Four of them (all but xAI) participated in METR's
+first Frontier Risk Report," and that deeper hands-on access for assessors is something "only
+Anthropic seems to have to date."
+
+**So the Act made elective the one practice four of five frontier developers were already doing
+voluntarily.** That is a defensible choice — the drafting note is that independent assessment
+capacity did not exist to be compelled — but it is now a choice against the observed facts rather
+than around a gap, and the reviewer's question is whether an election is the right setting for a
+practice with an 80% voluntary take-up rate. **The single non-participant is xAI**, which is also the
+plaintiff arguing in [*X.AI v. Bonta*](#this-is-a-taking--the-count-they-actually-lead-with--added-25-august-2026)
+that compelled disclosure of this material is a taking.
+
+✅ **Read-status: primary.** Read in full from the report held in the working library
+(`REPORT_Guidelight_Control-Assessment-Frontier-AI-Companies_2026-08-18.pdf`), 25 August 2026; every
+quotation above transcribed from it, not from a summary. **The report carries no byline.** It is a
+standards body's own assessment, not a peer-reviewed finding, and this project has not audited its
+rubric or its scoring.
+
 ### Why this is a finding and not a section with an answer at the end
 
 The gap is narrow and specific: **the Act credits conformity with an external standard, discredits
@@ -701,6 +754,16 @@ rule in name only.
 
 **Four.** The [10^22] records duty below coverage was drafted for lineage arithmetic, not against
 this objection, and it is the widest surface the Act presents to it.
+
+**One fact about the plaintiff, recorded because it cuts both ways.** The Guidelight control
+assessment of 18 August 2026 records that four of the five companies it assessed took part in METR's
+first Frontier Risk Report, and that **xAI was the only one that did not**. So the company pressing
+the takings argument against compelled disclosure is also the one that declined the voluntary
+equivalent. **A reviewer may read that as a party with the most to lose by either route, or as the
+most consistent objector on the field** — this project has no way to choose between those readings
+and should not pretend otherwise. It is recorded because a court weighing investment-backed
+expectations may find a company's own disclosure practice relevant, and neither side's brief will
+raise it.
 
 ⚠ **Read-status.** The complaint is held in the working library and was read in full. **The
 authorities inside it — *Ruckelshaus*, *Cedar Point*, *Penn Central*, *Armstrong*, *Tyler*,

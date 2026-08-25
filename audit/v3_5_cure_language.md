@@ -1006,6 +1006,15 @@ Limb (ii) is drafted to the victim-disclosed-first fact and gives the entity a d
 connect its own system rather than an open-ended forensic window. Limb (iii) removes the perverse
 incentive by measuring against the standard rather than the entity's own certification.
 
+**Added 25 August 2026 — this cure and [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candor)
+are the same defect facing opposite ways, and neither said so.** CURE 15 repairs a text in which
+candour about **nonconformity** supplies the notice element of a felony. This cure repairs a text in
+which candour about **missing monitoring** shortens the clock the entity is measured by. Through
+SEC. 8 and SEC. 9 the Act therefore punishes one kind of honesty and rewards the other, and it does
+so because both routes run evidentiary consequences through documents the defendant writes. **Fixing
+either one alone leaves the asymmetry standing.** See
+[which way each provision moves](../docs/which_way_it_moves.md).
+
 **Operation 2 — notice to the people whose systems were breached.** Every duty in SEC. 9 runs to the
 Agency; SEC. 9(c) confirms a report "is not required to be published"; SEC. 12 then seals it.
 **There is no duty anywhere in the Act to tell the person whose production database was read.**

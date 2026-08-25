@@ -1567,3 +1567,39 @@ else's choice about where to stop, and that choice was made for their argument, 
 quotation is finally read in the source, read the paragraph around it**: in this instance the
 sentence before the quotation and the clause after it were each worth more to this project than the
 quotation itself.
+
+## E49 — a "finding" the repository had already made three days earlier, caught at the door
+
+**Status: caught, not published. Recorded because it is the fourth of its kind today.**
+
+**What was about to be written.** Reading the Guidelight control assessment sent the maintainer back
+into SEC. 8 and SEC. 9, and two things looked like discoveries: that SEC. 9(b)'s constructive-notice
+limb is inert for the first [180] days because SEC. 9 commences on the effective date while SEC. 8
+commences at day 180; and that measuring the counterfactual against "the monitoring the entity
+certified it maintains" rewards an entity for certifying thin monitoring. Both were about to be
+opened as a new OPEN QUESTION.
+
+**Both are CURE 14**, opened by the lane sweep on 22 August, which states them as defects (ii) and
+(iii) of three, in those words, and drafts the repair. The second one is **in the cure's title**:
+*"a detection clock that cannot be gamed by certifying less monitoring."*
+
+**How it was missed.** The statute was searched. The cure register was not. `v3_5_cure_language.md`
+carries a numeric index of every cure by name in its own second paragraph, and the answer was sitting
+in a title.
+
+### The rule
+
+**E49 — the register is part of the text. Before opening a question, read the index of what is
+already open.**
+
+This project's three instruments — the statute, the sweep and the cure register — are searched as if
+the first were the source and the other two commentary. They are not. **A defect this repository has
+already found is not findable by reading the statute, because the statute still contains it.**
+
+**What survived the check, and it is smaller and better than what was nearly claimed.** CURE 14
+frames the certification incentive as *gaming*. [CURE 15](../audit/v3_5_cure_language.md) frames the
+nonconformity report as *punishing candour*. **Nobody had placed them side by side**: through SEC. 8
+and SEC. 9 the Act punishes honesty about the system and rewards honesty about the watching, and
+repairing either alone leaves the asymmetry standing. That observation is now in both cures and on
+[the flow page](../docs/which_way_it_moves.md) — **a paragraph of synthesis rather than the new
+finding it was going to be announced as.**
