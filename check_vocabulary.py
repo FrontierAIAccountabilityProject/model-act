@@ -39,6 +39,8 @@ SKIP = {".git", "_site", "archive", "_sass", "_includes", "_mail",
 # The project's own working notes are not sources. On 25 August a plan note that
 # merely LISTED the missing terms registered as library coverage for every one of
 # them, which would have sent the next round diving for material that is not there.
+UNREADABLE = []   # files the corpus could not open; reported, never swallowed
+
 NOT_A_SOURCE = ("NOTES_", "DRAFT_", "CORRESPONDENCE_", "_LIBRARY_INDEX")
 UNSEARCHABLE = {"./audit/record.md", "./dossier/README.md"}
 
@@ -231,7 +233,11 @@ def load(root, exts=(".md",), skip_files=frozenset()):
             p = os.path.join(r, f)
             if os.path.normpath(p) in {os.path.normpath(s) for s in skip_files}: continue
             try: out[p] = open(p, encoding="utf-8", errors="replace").read().lower()
-            except OSError: pass
+            except OSError as e:
+                # E50's family: a file that cannot be read used to vanish from the
+                # corpus with no trace, and every term it holds then reports ABSENT.
+                # A narrowed corpus and a real absence look identical in the output.
+                UNREADABLE.append((p, str(e)))
     return out
 
 repo = load(".", (".md",), UNSEARCHABLE)
@@ -263,6 +269,11 @@ else:
     print(f"  absent .................. {len(absent)}")
     print(f"  thin (1-2 hits) ......... {len(thin)}")
     print(f"  held .................... {len(rows) - len(absent) - len(thin)}")
+    if UNREADABLE:
+        print("\n*** CORPUS INCOMPLETE — files that could not be read ***")
+        for pth, err in UNREADABLE:
+            print(f"    {pth}: {err}")
+        print("    Every ABSENT below is provisional until these are readable.")
     cur = None
     for c, s, n, fl, lb, t, sl in rows:
         if s == "held": continue
