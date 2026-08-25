@@ -119,6 +119,17 @@ TERMS = [
  ("anti-commandeering",             "preemption",    G),
  ("Morrison v. National Australia", "preemption",    "authorities"),
  ("RJR Nabisco",                    "preemption",    "authorities"),
+ # --- takings: the count xAI actually leads with -----------------------------
+ ("Takings Clause",               "takings",       "known objections"),
+ ("regulatory taking",            "takings",       "known objections"),
+ ("per se taking",                "takings",       G),
+ ("Ruckelshaus",                  "takings",       "authorities"),
+ ("Cedar Point",                  "takings",       "authorities"),
+ ("Penn Central",                 "takings",       "authorities"),
+ ("investment-backed expectation","takings",       G),
+ ("right to exclude",             "takings",       G),
+ ("just compensation",            "takings",       G),
+ ("Defend Trade Secrets Act",     "takings",       "authorities"),
  # --- speech --------------------------------------------------------------
  ("Moody v. NetChoice",             "speech",        "authorities"),
  ("NetChoice",                      "speech",        "authorities"),

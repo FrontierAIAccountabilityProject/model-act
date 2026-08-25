@@ -21,6 +21,7 @@ pre-resistance is not "we would add a safeguard" but "it is already in the text.
 - ["You will delay the cures" — the acceleration objection, answered with clinical numbers](#you-will-delay-the-cures--the-acceleration-objection-answered-with-clinical-numbers--added-25-august)
 - ["The states have already legislated, so this is redundant"](#the-states-have-already-legislated-so-this-is-redundant--added-25-august-2026)
 - ["This is vicarious liability wearing a costume"](#this-is-vicarious-liability-wearing-a-costume--added-25-august-2026)
+- ["This is a taking" — the count they actually lead with](#this-is-a-taking--the-count-they-actually-lead-with--added-25-august-2026)
 - ["Corporate law already answers this, and it answers in our favour"](#corporate-law-already-answers-this-and-it-answers-in-our-favor--added-25-august-2026)
 - ["You cannot prove an AI system caused the harm"](#you-cannot-prove-an-ai-system-caused-the-harm--added-25-august-2026)
 - ["The timelines make this pointless"](#the-timelines-make-this-pointless--added-24-august)
@@ -492,6 +493,107 @@ circuit has already upheld it.
 ⚠ **Read-status.** *MacDonald & Watson*, *Iverson*, *Bank of New England* and the CRS passages are
 quoted from secondary sources and **have not been read in the reporters**. They are on the retrieval
 list; under E22 none may be described as verified.
+
+
+## "This is a taking" — the count they actually lead with — added 25 August 2026
+
+**Until today this page did not contain the word.** *Takings Clause*, *regulatory taking*, *per se
+taking*, *Penn Central*, *Ruckelshaus*: none appeared anywhere in this repository. The project
+tracked compelled speech and vagueness — the objections raised in conference rooms — and missed the
+one being litigated.
+
+**It is being litigated now.** In *X.AI LLC v. Bonta*, No. 2:25-cv-12295 (C.D. Cal., filed
+29 December 2025), on appeal as No. 26-1591 (9th Cir.), xAI attacks California's AB 2013
+training-data transparency statute in four counts. **The first two are takings. Speech is third.**
+That ordering was chosen by an appellate firm, and it is information: they think property is the
+better ground.
+
+### The objection, at its strongest
+
+Trade secrets are property for Takings Clause purposes. That is not a stretch; it is
+*Ruckelshaus v. Monsanto Co.*, 467 U.S. 986, 1003–04 (1984), which the complaint cites. A training
+corpus, an evaluation result and a compute ledger are "valuable precisely because they are not
+public" — the complaint's phrase. **A statute compelling their disclosure appropriates the thing
+that made them valuable**, and the right to exclude is the "sine qua non" of the property interest
+(*Cedar Point Nursery v. Hassid*, 594 U.S. 139, 150 (2021)).
+
+Applied here the objection is heavier than it is against AB 2013. SEC. 8 compels a personal
+certification. SEC. 9 compels incident reports. SEC. 3 compels validation materials. SEC. 12
+compels ten years of compute records, evaluation results, permission manifests and change
+histories — and **SEC. 1(b)(1)(C) reaches records for derivations at [10^22] operations, two orders
+of magnitude below coverage, "whether or not the resulting model is covered."**
+
+### The answer turns on one distinction, and the Act draws it twice
+
+**AB 2013 compels publication. This Act compels transmission to a regulator.** SEC. 8: "A
+certification is made to the Agency and **is not required to be published**." SEC. 9(c): "A report
+is made to the Agency and **is not required to be published**." And SEC. 12:
+
+> "reports under SEC. 9, certifications under SEC. 8, and validation materials under SEC. 3 are
+> exempt from disclosure under [the State public-records act], and to the extent they contain
+> security-sensitive information — including information that would materially assist unauthorized
+> access to model weights or covered systems — **shall be maintained under seal in any proceeding**"
+
+That matters because of what a regulatory takings claim requires. *Monsanto* held that where a
+submitter knows in advance that data goes to a regulator on stated terms, there is **no reasonable
+investment-backed expectation** of confidentiality against that use — and without one, the
+*Penn Central* limb fails. **This Act supplies the advance terms in its own text, before any duty
+attaches.**
+
+### But the tagged text buys that answer at a price this project should not pay
+
+Sealing everything defeats the takings count and **abandons the transparency statutes this project
+treats as allies.** California, New York and Illinois each enacted the same operative sentence —
+*write, implement, comply with, and clearly and conspicuously publish a frontier AI framework* — and
+SEC. 3(c)(4)(B) adopts those duties while converting publication into filing.
+
+So the honest statement of the Act's position is not "we protect trade secrets." It is: **the tagged
+text protects them by removing the publication that three legislatures thought was the point.**
+
+### The repair, which an ally drafted first
+
+[CURE 23](../audit/v3_5_cure_language.md) restores publication on the terms of California Business
+and Professions Code § 22757.12(f) — **already adopted by this Act as an interim standard and then
+disapplied**. A developer publishing under it "may make redactions... necessary to protect the
+frontier developer's trade secrets, the frontier developer's cybersecurity, public safety, or the
+national security of the United States," must "describe the character and justification of the
+redaction in any published version," and must retain the unredacted information.
+
+**Under that repair the takings answer gets stronger, not weaker.** The framework is public; the
+trade secret is redacted by its owner; the unredacted copy is a sealed record. **Nothing secret is
+surrendered to anyone, and nothing is hidden that is not a secret.** A count that requires an
+appropriation has nothing to point at.
+
+### What the answer does not reach
+
+**One.** SEC. 12's exemption "does not create any privilege for underlying facts, which remain
+subject to discovery and subpoena from any source." Sealed against the public is not sealed against
+a litigant, and a competitor with a lawsuit is a source.
+
+**Two.** The per se limb may not care about publication at all. *Cedar Point* treats the right to
+exclude as the property itself, and a compelled handover to the State is a handover whether or not
+the State prints it. **Whether "under seal" answers a per se theory or only a regulatory one is the
+question this project cannot settle in-house.**
+
+**Three.** The redaction power in SB 53 § (f) is exercised by the developer, with no agency approval
+and no penalty attaching to over-redaction as such. If it is a rule in name only, CURE 23 imports a
+rule in name only.
+
+**Four.** The [10^22] records duty below coverage was drafted for lineage arithmetic, not against
+this objection, and it is the widest surface the Act presents to it.
+
+⚠ **Read-status.** The complaint is held in the working library and was read in full. **The
+authorities inside it — *Ruckelshaus*, *Cedar Point*, *Penn Central*, *Armstrong*, *Tyler*,
+*Sheetz* — are cited as the plaintiff cites them and have not been read in the reporters.** E22
+governs; nothing here may be described as verified.
+
+### Why this was missing, recorded rather than tidied away
+
+The vocabulary audit of 25 August asked which terms a specialist would search for and fail to find.
+It surfaced corporate governance, criminal imputation and attorney-general clusters. **It did not
+surface takings, because the term list was built from what this project already imagined its
+adversaries would argue.** A list of expected objections cannot contain the unexpected one. The gap
+closed because a reader put an adversary's actual pleading in the library.
 
 
 ## "Corporate law already answers this, and it answers in our favor" — added 25 August 2026
