@@ -940,17 +940,48 @@ opened)*:
   Infrastructure, unanimously; the person, not at all. *(Reading note with every quotation and the
   OCR artefacts named: `library/NOTES_Reading_HR9333-FLARE-Science_2026-08-25.md`.)*
 
-- [ ] **New York — the FOCUS Act** (Fostering Optimal Classroom Use of Screens; Gounardes,
-  introduced 21 Aug 2026) — ⚠ **text unopened.** Not a frontier bill and no row is owed on the
-  census's own question, but it enters the queue for two reasons. It reportedly requires an ed tech
-  vendor to register with the Attorney General and to show that **at least one independent study**
-  found the product improves academic performance, which is a prove-it-before-you-ship duty on a
-  technology vendor in the same state and session as RAISE. And its author is RAISE's Senate
-  sponsor, now its **surviving** author after Alex Bores's departure. Whether it names a natural
-  person is exactly the census's question and is **not answered until the text is read** — the
-  sponsor's copy sits behind a Google Drive viewer that defeats automated retrieval, so it needs
-  pulling by hand. Press entry, with the caveat repeated:
-  [the press corpus § 6](../research/press_corpus_july_august_2026.md).
+- [x] **New York — the FOCUS Act** — done, 25 Aug, ✅ **primary read in full** (Fostering Optimal
+  Classroom Use of Screens; Gounardes, introduced 21 Aug 2026; drafting commission print
+  16298-02-6-1, dated 19 Aug, on [the shelf](../research/verification_record.md); no bill number
+  yet, consistent with a draft for the 2027 session). **No row is owed on this census's own
+  question** — it is an education-law bill about screens and ed tech, not a frontier statute, and
+  it is recorded here because of who wrote it and what its structure shows.
+
+**The word test, run on the text.** *Officer*, *director*, *executive*, *misdemeanor*,
+*felony*, *chief* and *president*: **nil.** *Certification* appears once and means the registry's
+own process. *Signature* appears only on the drafting commission's cover sheet. *Criminal* appears
+once, inside a data-disclosure carve-out for complying with an inquiry. *Personally* appears three
+times and every one is *"personally identifiable information."* And **the single occurrence of
+"natural person" in the whole Act is § 33's data-protection carve-out**, *"(9) protecting the vital
+interests of a natural person"* — the data subject, not a duty-bearer.
+
+**What the Act does place, and how close it comes.** Providers must register with the Attorney
+General and show, among other things, *"at least one independent study to lead to improved academic
+performance in users related to specific curriculum objectives"*; *"Schools may only offer, deploy,
+or provide educational technology to a pupil that is included in the registry."* The Attorney
+General runs a public complaints website, and may act where a provider *"has falsely attested that
+such provider meets the registration requirements."* Enforcement, at § 39, runs where *"any
+educational technology provider or any device provider has knowingly subverted the purposes"* of
+the operative sections, and yields injunction, restitution, destruction of unlawfully obtained
+data, damages and civil penalties.
+
+**So there is an attestation, a knowing-violation standard, and a prove-it-before-you-ship duty,
+and every one of them attaches to a company.** The Act is one word away from this project's
+mechanism and does not take it: nobody signs, and nobody answers.
+
+  **Why the row is worth having.** Andrew Gounardes is the Senate sponsor of the RAISE Act
+  (ch. 96 of 2026) and the author of S 10456, both already read and recorded here. After Alex
+  Bores's departure he is New York's **surviving** frontier author. Eighteen months after RAISE,
+  in a bill written expressly to stop technology companies treating children as, in his own words
+  to the *Brooklyn Paper*, *"a science experiment"*, he reaches for registration, attestation and
+  an Attorney General, and stops at the company door — the same place RAISE stopped. **One
+  legislator, two AI accountability statutes, no natural person in either.** That is the census's
+  finding demonstrated inside a single sponsor's own record rather than across forty strangers'.
+
+  **What is not claimed.** Nothing here says the drafting is wrong. An ed tech registry is
+  entity-shaped work and a personal criminal duty would be absurd in it. The row records only that
+  the reflex is consistent, and that the reflex is what this project exists to question. Press
+  coverage at [the press corpus § 6](../research/press_corpus_july_august_2026.md).
 
 **Then the rest, by state.** ⚠ *Counts below are the tracker's and are known to be unreliable:
 California and Illinois each had a bill listed twice, New York's list showed seven bills under a

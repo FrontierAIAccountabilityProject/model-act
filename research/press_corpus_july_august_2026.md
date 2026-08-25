@@ -659,7 +659,8 @@ https://www.brooklynpaper.com/gounardes-bill-regulate-screens-ai-ed-tech-schools
 *Gothamist* / WNYC, 21 August 2026**
 https://gothamist.com/news/make-classrooms-analog-again-a-new-bill-aims-to-limit-tech-in-schools
 
-⚠ **Both are secondary and the bill text is not in hand.** The FOCUS Act (Fostering Optimal
+⚠ **Both are secondary. The bill text was not in hand when this entry was written; it was
+obtained and read the same day, and the finding is at the foot of this section.** The FOCUS Act (Fostering Optimal
 Classroom Use of Screens) was introduced 21 August 2026 by State Senator Andrew Gounardes. The
 sponsor's copy is posted to a Google Drive file linked from the *Brooklyn Paper* piece; automated
 retrieval returns the viewer shell, not the document, so **the text is unopened and nothing below
@@ -700,9 +701,14 @@ RAISE Act (ch. 96 of 2026) and the author of S 10456, both already in
 Alex Bores, lost his June election and is not returning next session, confirmed 24 August by
 Bores's own staff. **Gounardes is the surviving author of New York's frontier statute.**
 
-**Three, and it is the census's finding waiting to be tested.** Every instrument this project has
-read places its duties on companies, agencies and systems, and none on the officer of a covered
-developer. Whether FOCUS does the same is **not asserted here** and cannot be until the text is
-opened. If it does, it is the same legislator writing the same absence twice in eighteen months,
-which is the most useful single data point the census could acquire. **That is a reason to read
-the bill, not a finding.**
+**Three, and the read gate is now discharged.** When this entry was first written the bill text
+was not in hand and the question was left open. **The drafting commission print was obtained the
+same day and read in full.** *Officer*, *director*, *executive*, *misdemeanor* and *felony* return
+nil; the one occurrence of *natural person* is a data-protection carve-out for the data subject;
+the attestation and the knowing-violation standard both attach to *"an educational technology
+provider."* The full row, with quotations, is at
+[the census](../standards/frontier_bill_census.md).
+
+So it is the same legislator writing the same absence twice in eighteen months, and that is the
+most useful single data point the census has acquired: **not forty strangers converging, but one
+author's own record.**
