@@ -260,8 +260,66 @@ this Act carries at SEC. 9(a). Neither settles the preemption cost recorded abov
 limb still widens the § 121(b) surface, and belongs in the SEC. 13(b)(3) tier); both strip the
 question of its "no one regulates the testing room" premise.
 
-**Status: open. For the enforcement, criminal-law and federalism lanes jointly. The single most
-important item in this queue.**
+### Maintainer ruling, 25 August 2026 — the item splits, and only half of it was ever a federalism question
+
+*A ruling, not a finding, and it is recorded as one. It follows the precedent of CURE 19's wording
+and CURE 23's restoration: the maintainer decides, says so, and writes underneath what a seat could
+still overturn. **No reviewer has seen this.***
+
+**The amendment above has two limbs and they carry completely different risk.**
+
+> **(i)** evaluation of "a covered frontier model **that is deployed, released, or made available in
+> or into this State**"
+>
+> **(ii)** "**or that** the person conducting or commissioning the evaluation **intends** so to
+> deploy, release, or make available"
+
+**Limb (ii) is the whole of the extraterritoriality problem** this entry was held for. Duties on
+conduct abroad, keyed to an intention, is exactly what READ FIRST item 5 reserves for a federalism
+litigator, and exactly what SEC. 13's preemption posture and the dormant-commerce defense rest on.
+
+**Limb (i) extends the Act's reach by nothing at all.** The model is already deployed here; SEC. 1(c)
+already subjects its developer to this Act as to that system. Limb (i) says only that duties attach
+to the *evaluation* of a system the Act already reaches, as well as to its deployment. There is no
+new person, no new state, no new jurisdictional theory. **It was held for a reason that applies to
+its other half.**
+
+**And the reason it matters is that limb (i) keys to the model, not the configuration.** This entry
+records that SEC. 3(b) compounds the gap because an evaluation configuration "is by definition not
+the validated commercial one." Limb (i) does not care: it reaches evaluation of a covered frontier
+**model** that is deployed here, whatever configuration the evaluation runs it in. That is the
+sentence that closes the safeguards-disabled hole.
+
+**Checked against the record, incident by incident, 25 August 2026.**
+
+| Incident | Model deployed or released in-state? | Reached by limb (i)? |
+|---|---|---|
+| **Anthropic ×3** — third-party evaluator, Tel Aviv | Yes, commercially deployed | **Yes** — and the commissioning sentence attaches the duty to Anthropic |
+| **Meta ×1** — same evaluator environment | Yes, open weights released | **Yes**, on the same footing |
+| **OpenAI ×1** — developer's own sandbox | Yes | Already inside the Act |
+| **AISI ×1** — UK, "an open-weight frontier model running on its own infrastructure" | Yes, weights released | **No** |
+
+**Five of six. Not six.** The AISI incident is not a jurisdictional gap and limb (ii) would not close
+it either. **Nobody in the developer's chain made any decision about that evaluation**: an
+independent national institute obtained released weights and ran them on its own hardware, on its own
+initiative. There was no deployment decision to be careless about and no evaluation to commission.
+**That is a limit of the responsible-officer theory itself, not of this Act's drafting**, and it
+should be said in those terms rather than left to be discovered — see SEC. 1(b)(9), where duties in
+connection with a release "are limited to those capable of performance before the release."
+
+**Ruled:** limb (i) **lands into v3.5** as drafted, conformed at SEC. 1(c), placed in the
+SEC. 13(b)(3) severance tier with the developer-capacity duties. Limb (ii) **remains open**, for the
+federalism seat, on the reasoning this entry already gives.
+
+**What a seat may still overturn, and should be told it may.** That limb (i) is jurisdictionally
+neutral is the maintainer's reading and nobody has tested it: an evaluation conducted abroad, of a
+model deployed here, by a person who deploys here, may still present an extraterritoriality question
+this ruling treats as settled. **If it does, the ruling is wrong and the whole item goes back to
+held.** And the drafting is unreviewed: "conducted or commissioned" carries the entire weight of who
+answers, and no criminal-law seat has read it.
+
+**Status: half landed by ruling, half open. Limb (ii) is for the federalism lane. The single most
+important item in this queue, and now the most important half of it.**
 
 ---
 
