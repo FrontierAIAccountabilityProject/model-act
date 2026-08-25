@@ -20,6 +20,35 @@ valuations are softer than market capitalisations.*
 
 ---
 
+
+### Quotation audit, 25 August 2026 — every quote from the day's four intakes checked against source
+
+*Recorded so this never needs repeating. Each quotation now published from the four documents
+taken in on 25 August was matched, programmatically, against text extracted from the source PDF
+itself, with whitespace, curly quotes and hyphenation normalised.*
+
+**Result: every quotation verified accurate.** No misquotation was found on any published surface.
+
+**Three extraction artefacts caused false alarms, and are noted so a future check is not misread
+as a failure:**
+
+1. **Dropped ligatures.** The Javorsky essay's PDF loses the "fi" ligature on extraction, so
+   "definitely" extracts as "denitely", "scientific" as "scientic" and "efficacy" as "eÂ©cacy".
+   Quotations containing those words will not match a naive string search against extracted text.
+   The published wording follows the rendered document, which is correct.
+2. **Multi-column interleaving.** *The Lancet* report is three-column and the Kierans paper is
+   two-column. A layout-preserving extraction interleaves the columns, so a sentence is broken by
+   text from a neighbouring column. Extract without layout preservation, or read the rendered
+   page, before concluding a quote is wrong.
+3. **Footnote intrusion.** In the Lyness article, law-review footnotes interrupt the body text
+   mid-sentence on extraction. The misdemeanour quotation at 64 B.C. L. Rev. 298 is split this way
+   and is accurate as published.
+
+**Method, for repetition if ever needed:** extract with `pdftotext` (no `-layout` for multi-column
+sources), normalise whitespace and quotation marks, then substring-match each published quotation.
+The audit script is not committed; it is four lines and rewriting it is faster than maintaining it.
+
+
 ## 1. The developers' own designations
 
 | Company | Quotation, verbatim | Source | Date | Grade |
