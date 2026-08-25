@@ -323,3 +323,84 @@ one of which is already in the working library.
 because those are *support* for arguments and this is the Act's own operative text for four years.
 A reviewer who asks "what exactly does this Act require on day 181?" is owed an answer read from the
 source, and today the honest answer is that two-thirds of it has been searched rather than read.
+
+## PF-10 · Illinois § 10 read in full, as [PF-9](#pf-9--the-acts-operative-content-for-its-first-four-years-rests-on-two-statutes-nobody-has-read) said to. Four things the disapplication list did not anticipate
+
+*Read 25 August 2026 from the enrolled slip law held in the working library
+(`BILL_IL-SB315_enrolled_PA104-0538_LegiScan`), against the single question PF-9 poses: **what does
+this impose that SEC. 3(c)(4) neither adopts deliberately nor disapplies?** PF-9 was filed less than
+an hour before this. It is answered here for one of the two statutes; New York remains open.*
+
+### One — the interim standards already reach internal use, and OPEN QUESTION 4 does not know it
+
+**§ 10(a)(10)**, one of ten matters a large frontier developer's framework must address:
+
+> "assessing and managing catastrophic risk resulting from the **internal use** of its frontier
+> models, including risks resulting from a frontier model **circumventing oversight mechanisms**."
+
+**Nothing in SEC. 3(c)(4)'s disapplication list touches it.** It is not a revenue threshold, an
+effective date, a publication duty, a third-party audit, an incident-reporting provision, a penalty,
+an enforcement mechanism, a fee, or a whistleblower protection. **It is adopted.**
+
+And § 10(a) requires the developer to "write, implement, **comply with**" the framework. So
+compliance with the interim standards includes complying with one's own framework as to internal-use
+catastrophic risk and oversight circumvention. **SEC. 8 certifies compliance with the applicable
+standards. Knowing false certification is a felony under SEC. 6(b)(1).**
+
+**[OPEN QUESTION 4](./v3_5_cure_language.md) says the Act does not reach the evaluation conduct it
+was written after, because SEC. 2(a) tethers every duty to in-state deployment.** That remains true
+of the *conduct*. But this is a different route to the same place: **the certification may already
+reach internal-use risk management even where SEC. 2(a) does not reach the internal use itself.**
+A developer who certifies compliance while its framework's internal-use provisions are a fiction is
+exposed under SEC. 8 and SEC. 6(b)(1) without SEC. 2(a) doing any work at all.
+
+⚠ **Stated as a question, not a finding, because it turns on a construction nobody here can settle**:
+whether "compliance with the applicable standards" in SEC. 8 reaches compliance with the framework
+the standards require you to write. **If it does, OQ4 is smaller than the repository says, and the
+paperwork route this project has been apologising for is the route.** The criminal and enforcement
+seats should take this before the amendment OQ4 drafts.
+
+### Two — the Act deletes the duty to be able to respond to an incident, and keeps the duty to report one
+
+**§ 10(a)(8)**: the framework must address "identifying and responding to critical safety incidents."
+
+**SEC. 3(c)(4)(D)** disapplies "provisions respecting incident reporting." (a)(8) is not a reporting
+provision — it is a capability requirement, owed inward. **Read broadly, (D) removes it**, leaving
+SEC. 9's duty to *tell the Agency* with nothing anywhere in the Act requiring the developer to have a
+process for *identifying and responding*. **Reporting without required response capability.**
+One clause in (D) — "other than provisions requiring a framework to address the identification of and
+response to incidents" — closes it.
+
+### Three — (C) is broader than its purpose, and today's evidence makes that expensive
+
+**§ 10(a)(5)** requires the framework to describe how the developer approaches "using third parties to
+assess the potential for catastrophic risks"; **§ 10(c)(2)(C)** requires the transparency report to
+summarise "the extent to which third-party evaluators were involved."
+
+**Neither is a mandate to be audited. Both are transparency about the developer's own practice.**
+SEC. 3(c)(4)(C) disapplies "provisions respecting assessment or audit by a third party," which on its
+face takes both — so the Act removes not only the obligation to obtain independent assessment but the
+obligation to say whether you sought any.
+
+**The Guidelight control assessment of 18 August 2026** ([known objections](../docs/known_objections.md))
+found third-party review among the weakest dimensions across all five frontier developers, and that
+four of five nonetheless participated in METR's first Frontier Risk Report voluntarily. **The Act
+disapplies the mandate and the disclosure together, at the moment the disclosure is the part doing
+work.** (C) should be narrowed to the mandate.
+
+### Four — an operative requirement nobody has costed
+
+**§ 10(c)(3)**: "All summaries required under paragraph (2) shall be provided in a **machine-readable
+format** to facilitate verification of model claims."
+
+Not on the disapplication list, so it survives, and SEC. 3(c)(4)(B) converts publication into
+transmission to the Agency. **Every transmitted summary therefore inherits a machine-readable
+requirement**, which is an Agency intake-format obligation the
+[fiscal lane](../packets/fiscal.md) has never costed and the Act never mentions.
+
+---
+
+**What this says about the method.** Four items, one section, one statute, one read. **None was
+findable by word search**, because each is a duty the disapplication list did not anticipate rather
+than a word the census was looking for. **New York's § 1421 has not had this read**, and on this
+evidence it should have it before anything else in the repository.
