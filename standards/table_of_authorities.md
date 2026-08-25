@@ -231,11 +231,11 @@ one sentence, from a criminal-law scholar who has not elected to be named. It is
 
 | Authority | Cited at | For |
 |---|---|---|
-| Cal. Bus. & Prof. Code § 22757.12 | SEC. 3(c)(4); n.24, n.27; standards | Interim standard — the frontier-framework duty, pinned verbatim |
+| Cal. Bus. & Prof. Code § 22757.12 | SEC. 3(c)(4); n.24, n.27; standards | ✅ **Read in full** (census: "the chaptered text read in full", pinned verbatim). Interim standard — the frontier-framework duty. **The only one of the Act's three adopted standards that has been read by a human** |
 | Cal. Bus. & Prof. Code § 22757.13, § 22757.15 | n.19, n.27 | Incident clocks; the \$1,000,000 severity-scaled penalty |
-| N.Y. Gen. Bus. Law § 1421, § 1427, § 1426 | SEC. 3(c)(4); n.19, n.24, n.27; standards | Interim standard; penalties as caps; the academic exception the reading rules disapply |
+| N.Y. Gen. Bus. Law § 1421, § 1427, § 1426 | SEC. 3(c)(4); n.19, n.24, n.27; standards | ⚠ **Opened and word-searched; not yet read by a human eye** (the census's own grade, ⚠ R). Enacted chapter text pinned in the sibling New York repository, not in the working library. Interim standard; penalties as caps; the academic exception the reading rules disapply. **See [PF-9](../audit/pre_review_pass_2026-08-24.md): a word search establishes what a statute lacks, not what it contains** |
 | N.Y. Penal Law § 80.00(1) | n.19 | State-native gain-scaled fines |
-| Illinois P.A. 104-0538 (SB 315) § 10, § 15, § 25 | SEC. 3(c)(4); n.19, n.23, n.27; standards | Interim standard; penalties; the deployment-plus-five retention formula |
+| Illinois P.A. 104-0538 (SB 315) § 10, § 15, § 25 | SEC. 3(c)(4); n.19, n.23, n.27; standards | ⚠ **Slip-law PDF opened; not yet read by a human eye** (the census's own grade, ⚠ R). Held in the working library. Interim standard; penalties; the deployment-plus-five retention formula. **See [PF-9](../audit/pre_review_pass_2026-08-24.md)** |
 | K.S.A. 21-6819(b)(4) | SEC. 10(c)(3); n.21 | The double rule behind the [forty]-year cap |
 | Ohio Rev. Code § 2929.14(C)(4) | SEC. 10(c)(3); n.21 | Findings-gated consecutive service |
 | Ill. Const. art. I, § 11; Or. Const. art. I, § 16; Ind. Const. art. 1, § 16; W. Va. Const. art. III, § 5 | n.21 | State proportionality clauses stricter than *Harmelin* |

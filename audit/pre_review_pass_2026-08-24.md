@@ -263,3 +263,63 @@ on the thing rather than on conduct. That connection is not made anywhere in thi
 takings section should carry it.
 
 **Administrative load:** none for option one. Option two adds an appearance procedure.
+
+## PF-9 · The Act's operative content for its first four years rests on two statutes nobody has read
+
+*Found 25 August 2026 at the end of the statutory citation verification. **No error is alleged and
+nothing here contradicts the record — every grade below is the census's own.** The finding is that
+the grades have never been added up.*
+
+**What SEC. 3(c)(4) does.** It adopts three enacted statutes as this Act's interim standards, "each
+as in effect on [1 August 2026] … as they so exist and not as they may afterward be amended," and
+then disapplies a list of their features: revenue thresholds, exemptions, effective and phase-in
+dates, territorial terms (A); duties to publish, converted to transmission (B); third-party
+assessment or audit (C); incident reporting, penalties, enforcement, fees, assessments and
+whistleblowers (D).
+
+**Between the effective date and the Agency's own standards — year four on the statute's own clock —
+those three statutes minus that list ARE this Act's substantive content.** SEC. 3(c)(2) says so:
+the certification duty of SEC. 8 operates from day 180, "the applicable standards for its purposes
+being the interim standards of paragraph (4)."
+
+**How well the project knows them, per its own census:**
+
+| Adopted standard | The census's grade | What that means |
+|---|---|---|
+| Cal. Bus. & Prof. Code § 22757.12 | **✅** "the chaptered text read in full" | Read |
+| N.Y. Gen. Bus. Law § 1421 | **⚠ R** "opened and searched directly… **not yet read by a human eye**" | Word-searched |
+| Illinois P.A. 104-0538 § 10 | **⚠ R** "the legislature's own slip-law PDF was opened. **Not yet read by a human eye**" | Word-searched |
+
+**One of three is read.**
+
+### Why a word search is the wrong instrument for this particular job
+
+The census's word tests were built to answer a question they answer well: *does this statute make a
+natural person sign anything?* For that, absence is the finding, and searching for *certify*,
+*officer*, *signature* and *natural person* is exactly right. **The New York row is short for a good
+reason and its conclusion is almost certainly correct.**
+
+**SEC. 3(c)(4) asks the opposite question.** It does not ask what these statutes lack. It imports
+what they contain, minus an enumerated list, and **a word search cannot establish that the list is
+complete.** Any duty in § 1421 or in P.A. 104-0538 that is not a revenue threshold, a publication
+requirement, a third-party audit, an incident-reporting provision, a penalty, an enforcement
+mechanism, a fee or a whistleblower protection **is adopted into this Act unchanged, and has not
+been read.**
+
+**The disapplication list was drafted from the categories the drafter expected**, which is the same
+method the [vocabulary audit](../standards/what_these_words_mean.md) used in August and the same
+limit it hit: *a list of expected features cannot contain the unexpected one.* That audit missed
+takings. This one may have missed nothing at all — but the project cannot say so, and it currently
+implies otherwise by treating all three as settled.
+
+### What would close it
+
+**A full read of two statutes, against one question**: *what duty does this impose that SEC. 3(c)(4)
+neither adopts deliberately nor disapplies?* Everything found is either a deliberate import to be
+stated, or an addition to the disapplication list. It is a bounded afternoon's work on two documents,
+one of which is already in the working library.
+
+**It is also the highest-value unread item in the repository**, above the twenty flagged authorities,
+because those are *support* for arguments and this is the Act's own operative text for four years.
+A reviewer who asks "what exactly does this Act require on day 181?" is owed an answer read from the
+source, and today the honest answer is that two-thirds of it has been searched rather than read.
