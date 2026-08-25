@@ -126,10 +126,43 @@ claim: every line restates a citation already published elsewhere in the reposit
 | 18 U.S.C. § 1001 | n.20 | The free-standing false-statement structure |
 | 18 U.S.C. § 1350 | n.8; n.19 | Certification offence model; the \$1,000,000 per-victim fine figure |
 | 18 U.S.C. § 1365(a) | SEC. 10(c); n.21 | The harm tier's geometry — twenty years per serious injury; life where death results |
-| 18 U.S.C. § 1365(h)(3)–(4) | v3.5 queue, CURE 1 (adopted, not yet landed) | The injury definition replacing 21 C.F.R. § 803.3(w) |
+| 18 U.S.C. § 1365(h)(3)–(4) | v3.5 queue, CURE 1 (adopted, not yet landed) | The injury definition replacing 21 C.F.R. § 803.3(w). **Cite with care: these definitions sat at § 1365(g)(3)–(4) until 2 December 2002**, when Pub. L. 107-307 (the *Product Packaging Protection Act of 2002*) added a new subsection (f) and pushed the old (f) and (g) down to (g) and (h). Authority predating that amendment cites the same words under the old letter |
 | 18 U.S.C. § 1519 | n.23 | Destruction "in relation to or contemplation of" — restated as an affirmative hold |
 | 18 U.S.C. § 1520(a)(1) | n.23 | The five-year statutory floor extended by rule to seven |
 | 18 U.S.C. § 3571(b), (d) | n.19 | Individual fine parity; the twice-gross-gain alternative |
+
+**A note on the donor of the harm tier, added 25 August 2026.** § 1365 is not a stray federal
+section. It was enacted whole by **Pub. L. 98-127, § 1, Oct. 13, 1983, 97 Stat. 831**, whose own
+short title is the **Federal Anti-Tampering Act**, and which also enacted 35 U.S.C. § 155A. The
+LII page and its notes are held on [the shelf](../research/verification_record.md); the provenance
+below is read from them rather than inferred.
+
+**Three things the amendment history gives this Act, and the first is the most useful.**
+
+**One. Congress swept its own fixed dollar fines out of this statute eleven years after enacting
+them.** As passed in 1983 the section carried four hard numbers: \$25,000, \$100,000, \$50,000 and
+\$10,000. In 1994, Pub. L. 103-322 § 330016(1)(L), (O), (Q), (S) replaced every one of them with
+*"fined under this title"*, which routes to 18 U.S.C. § 3571. **That is exactly the choice this Act
+already makes** at n.19, where individual fines take § 3571(b) parity and the criminal fines carry
+§ 3571(d)'s twice-the-gross-gain alternative, against the cautionary example of the FDCA's
+\$1,000 sitting nominal since 1938. The design preference is now a documented federal correction,
+made by Congress, to the very statute this Act's harm tier borrows from. A model act offered to
+fifty legislatures inherits the same decay problem and the same fix.
+
+**Two. The geometry has held for forty-three years across three amendments.** 1990 (Pub. L.
+101-647), 1994 (Pub. L. 103-322) and 2002 (Pub. L. 107-307) touched the fines, the lettering and a
+punctuation mark. **The tier itself — twenty years where serious bodily injury results, any term of
+years or life where death results — has never been reopened.** A drafter borrowing it is borrowing
+a structure Congress built for a novel hazard class and has left alone ever since.
+
+**Three, and it belongs to this project's own habits.** Pub. L. 101-647, § 3544 exists, in part, to
+insert *"opening quotation marks before 'device'"* in what is now § 1365(h)(1)(A). Congress passed
+an Act to add a missing quotation mark. Enacted federal law keeps an errata register too; ours is
+at [the errata](../ledger/errata.md) and is not a sign of an unusually careless draft.
+
+*Credit where it is owed: the move to § 1365's injury definition came from outside this project, in
+one sentence, from a criminal-law scholar who has not elected to be named. It is
+[CURE 1](../audit/v3_5_cure_language.md).*
 | 18 U.S.C. § 3572(a) | n.19 | Means consideration in fixing fines |
 | 18 U.S.C. § 3584(a)–(b) | SEC. 10(c)(3); n.21 | Concurrency default; the per-offence factor duty |
 | 18 U.S.C. § 3663A | SEC. 10(c)(4); n.21 | Mandatory restitution structure (and, at (a)(2), the "directly and proximately harmed" limiter) |
