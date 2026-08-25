@@ -1751,9 +1751,15 @@ blindness, and Congress wrote it into the statutes rather than leaving it to ins
 the CAA and TSCA provide that "in proving a defendant's possession of actual knowledge,
 circumstantial evidence may be used, including evidence that the defendant took affirmative steps
 to be shielded from relevant information," and RCRA carries near-identical language for its knowing
-endangerment offense. MacDonald & Watson itself, at 52 n.15, approved the district court's willful
-blindness instruction. The constitutional ceiling is *Global-Tech Appliances, Inc. v. SEB S.A.*,
-563 U.S. 754, 769 (2011). ⚠ All three unread in the original.
+endangerment offense. MacDonald & Watson itself carries a willful blindness instruction at
+footnote 15. ⚠ **What the footnote does with it is not confirmed.** The opinion was read on
+25 August 2026 and n.15 is the willful-blindness footnote, but the source carried no star pagination
+and the footnote's own text was not recovered, so *whether the First Circuit approved the
+instruction or merely recited it* is open — and this Operation leans on the approval. **A reviewer
+with reporter access should settle it first; if the court did not approve it, Operation 1 loses its
+federal anchor and stands on the CAA and TSCA text alone.** The constitutional ceiling is
+*Global-Tech Appliances, Inc. v. SEB S.A.*, 563 U.S. 754, 769 (2011). ⚠ CRS and *Global-Tech*
+remain unread in the original.
 
 **NEW TEXT — appended to SEC. 6(b):**
 

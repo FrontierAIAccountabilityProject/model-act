@@ -1475,3 +1475,38 @@ calibration signals were real and the calibration was wrong, which is the harder
 a source that is right most of the time trains you to stop checking. The ⚠ blocks are what made this
 recoverable, and every claim added today that has not yet been read still carries one.
 
+
+## E47 — three page numbers, from a source that has no page numbers, caught before publication
+
+**Status: caught, not published. Recorded because the near-miss is the finding.**
+
+**What nearly went in.** The retrieval debt on *United States v. MacDonald & Watson Waste Oil Co.*,
+933 F.2d 35 (1st Cir. 1991) was to be paid by reading the opinion. A first pass over it reported all
+three passages present **and reported them at different pages than this repository publishes** — 51,
+45 and 50, against the published 55, 51 and 52 n.15. The next step was to correct five files to the
+new numbers.
+
+**What the second pass found.** The source carries **no star pagination at all.** It reproduces the
+opinion as continuous text. The three page numbers were not read out of the document; they were
+produced by the process that read it. Had the correction gone in, this project would have replaced
+three sourced pincites with three invented ones **and marked the row verified while doing it** —
+strictly worse than the debt it was paying.
+
+**What is actually now known.** Both operative sentences are verbatim in the opinion. Footnote 15 is
+the willful-blindness footnote. **The pages are not confirmed and remain the secondary source's.**
+The row keeps its ⚠ for that reason.
+
+### The rule, which E22 did not already cover
+
+E22 says a quote must be in hand. It says nothing about the pincite, because until today the two
+always arrived together. They do not.
+
+**E47 — text and page are two claims and are verified separately. A source without star pagination
+can confirm a quotation and can never confirm a pincite.** Where a page cannot be confirmed, the
+published pincite stays as it was, attributed to whoever supplied it, and the ⚠ stays with it.
+
+**And the second-order rule.** The first pass returned pages *that did not match the repository's*,
+which read as a correction and therefore as evidence of careful reading. **A reported discrepancy is
+not evidence of retrieval.** It is the single most persuasive form an invention can take, because
+agreeing with what you already hold is what a lazy answer looks like — so disagreement gets trusted
+by default. Ask what the page marker looked like, in its own characters, before believing a page.

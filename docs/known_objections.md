@@ -492,9 +492,11 @@ pollutant. The government still had to prove . . . that defendant knew." **Respo
 the act element. It does not replace the knowledge element.** That is the architecture, and a
 circuit has already upheld it.
 
-⚠ **Read-status.** *MacDonald & Watson*, *Iverson*, *Bank of New England* and the CRS passages are
-quoted from secondary sources and **have not been read in the reporters**. They are on the retrieval
-list; under E22 none may be described as verified.
+⚠ **Read-status, partly paid 25 August 2026.** The two *MacDonald & Watson* sentences quoted above
+were read in the opinion and are verbatim. **Their page numbers were not**: the source carries no
+star pagination, so "at 55" is still the CRS pincite and not a verified one. *Iverson*,
+*Bank of New England* and the CRS passages remain **unread in the reporters** and are on the
+retrieval list; under E22 none of those may be described as verified.
 
 
 ## "She relied on her safety team" — the defense the Act has not answered — added 25 August 2026

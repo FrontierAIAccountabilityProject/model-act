@@ -140,8 +140,8 @@ across existing regimes; [a census of the frontier bills](./standards/frontier_b
 [a fiscal note](./standards/fiscal_note.md) that states its own defects; and close analyses of the
 field's language and practice, named in the tour below.
 
-**The ledger.** [An append-only errata register](./ledger/errata.md) — thirty-three entries under
-numbers that reach E46, the numbers being identifiers rather than an ordering, each mistake
+**The ledger.** [An append-only errata register](./ledger/errata.md) — thirty-four entries under
+numbers that reach E47, the numbers being identifiers rather than an ordering, each mistake
 published with its fix attached, including entries that record a *rule* changing rather than a
 claim failing. [A changelog](./ledger/changelog.md) with tag checksums. [A diary](./ledger/diary.md).
 

@@ -167,7 +167,8 @@ notice," or "knowingly makes a false certification under SEC. 8." Notice under t
 mere showing of official responsibility under *Dotterweich* and *Park* is not an adequate substitute
 for direct or circumstantial proof of knowledge." **The ticket is the knowledge evidence. Without
 it, the felony tier has nothing to stand on but the defendant's position, which is exactly what that
-case forbids.** *Quoted from a secondary source; the opinion is unread and on the retrieval list.*
+case forbids.** *The sentence was read in the opinion on 25 August 2026 and is verbatim; the page
+number is the secondary source's and is unconfirmed.*
 
 ---
 
@@ -216,5 +217,5 @@ anyone has done what is described. It is a test instrument: **if the chain above
 statute does not work, and the fastest way to show that is to walk it.**
 
 *Every section quoted here was read in the tagged text `model_act_v3_4.txt` before being quoted, on
-25 August 2026. The single external authority cited, MacDonald & Watson, is quoted from a secondary
-source and is unverified.*
+25 August 2026. The single external authority cited, MacDonald & Watson, was read in the opinion the
+same day: the sentence is verbatim, the pincite is not confirmed.*
