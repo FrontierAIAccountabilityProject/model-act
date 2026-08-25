@@ -164,6 +164,20 @@ count, and file-status claim in the evidence base was made;
 
 ## V. Filing
 
+## The other seats, and how this lane meets them
+
+The review runs in eight parallel lanes: criminal law, enforcement, frontier security, fiscal and
+administration, federalism and preemption, proportionality and sentencing, torts and design, and
+open source and academia. Each seat reviews independently and each disposition publishes
+independently, as written, so no lane waits on another. Findings that change text route through the
+public cure queue and the errata register, where every other lane sees them. The maintainer collates
+and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside
+contributions arrive through the repository's correction doors and are credited by election — one
+open drafting question has already been answered from outside this way. Reviewer identities are not
+shared between reviewers, and attribution is each reviewer's own election.
+
+**This lane specifically.** Criminal law gates the others in one direction: if the offence structure does not hold, the enforcement seat has nothing to charge and the proportionality seat nothing to grade. It meets the proportionality lane on the tier structure and the misdemeanour question, and the enforcement lane on what a prosecutor could actually prove.
+
 *How this seat's work becomes the next version: verified findings are drafted as cures against the
 tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so
 a disposition here is a chapter of the next version, written alongside the other seats'. Reviewer

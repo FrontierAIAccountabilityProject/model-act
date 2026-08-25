@@ -114,7 +114,7 @@ across existing regimes; [a census of the frontier bills](./standards/frontier_b
 field's language and practice, named in the tour below.
 
 **The ledger.** [An append-only errata register](./ledger/errata.md) — twenty-two entries under
-numbers that reach E35, the numbers being identifiers rather than an ordering, each mistake
+numbers that reach E36, the numbers being identifiers rather than an ordering, each mistake
 published with its fix attached, including entries that record a *rule* changing rather than a
 claim failing. [A changelog](./ledger/changelog.md) with tag checksums. [A diary](./ledger/diary.md).
 
@@ -190,8 +190,8 @@ errata already filed in your lane,
 and the donor material the intake of 23–24 August added. Five register entries are method-wide
 rather than lane-specific — E21, E22 (extended by E32), E27, and E33 — and govern how every date,
 quotation, count, and file-status claim in the evidence base was made;
-[the register](./ledger/errata.md) itself is short and worth ten minutes. Seven lanes now
-have a [single-page packet](./packets/index.md) — the lane's whole apparatus inlined in reading
+[the register](./ledger/errata.md) itself is short and worth ten minutes. Every lane now
+has a [single-page packet](./packets/index.md) — the lane's whole apparatus inlined in reading
 order, assembled by committed script so it cannot silently drift:
 [criminal law](./packets/criminal_law.md),
 [enforcement and prosecution](./packets/enforcement.md),
@@ -199,9 +199,10 @@ order, assembled by committed script so it cannot silently drift:
 [fiscal and administration](./packets/fiscal.md),
 [federalism and preemption](./packets/federalism.md),
 [proportionality and sentencing](./packets/proportionality.md), and
-[torts and design](./packets/torts_design.md) — the last three serving question
-clusters this page routes through the seats above (READ FIRST items 4 and 5, and the
-state-of-play's federalism rows). The remaining lane follows the same builder pattern.*
+[torts and design](./packets/torts_design.md), and
+[open source and academia](./packets/open_source.md) — the shelf is complete: **every lane now has
+its packet**, each assembled by a committed script from the sources, so none can silently drift
+from the record it summarises.*
 
 ### Criminal law
 

@@ -213,6 +213,20 @@ Method-wide entries — E21, E22 (extended by E32), E27, E33 — govern how ever
 count, and file-status claim in the evidence base was made;
 [the register](../ledger/errata.md) is short and worth ten minutes.
 
+## The other seats, and how this lane meets them
+
+The review runs in eight parallel lanes: criminal law, enforcement, frontier security, fiscal and
+administration, federalism and preemption, proportionality and sentencing, torts and design, and
+open source and academia. Each seat reviews independently and each disposition publishes
+independently, as written, so no lane waits on another. Findings that change text route through the
+public cure queue and the errata register, where every other lane sees them. The maintainer collates
+and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside
+contributions arrive through the repository's correction doors and are credited by election — one
+open drafting question has already been answered from outside this way. Reviewer identities are not
+shared between reviewers, and attribution is each reviewer's own election.
+
+**This lane specifically.** Security and the open-source lane are one question from two sides: weight security assumes control that an open release forfeits. It hands the enforcement seat the question of what an investigator could obtain, and takes from the criminal-law seat the question of whose duty a control failure actually is.
+
 *How this seat's work becomes the next version: verified findings are drafted as cures against the
 tagged v3.4 text in the public queue, and the assembled v3.5 carries every lane's accepted work, so
 a disposition here is a chapter of the next version, written alongside the other seats'. Reviewer
