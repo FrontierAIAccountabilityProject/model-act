@@ -14,6 +14,39 @@ reading order, built by committed script. Print it, mark it up, send the marked 
 page remains the terms, the tables, and the map; the packet is the same journey as one
 document.
 
+## Why this invitation is unusual, stated before the ask
+
+Model acts are produced by a handful of bodies: the Uniform Law Commission, the American Law
+Institute, the American Bar Association, the American Legislative Exchange Council, and their
+international equivalents. Between them they have shaped a great deal of American law.
+
+**None of them offers what this page offers, because there is no standard pre-introduction review
+for model legislation at all.** Those bodies draft internally, through reporters, advisers and
+committees of their own members, and then circulate the result to legislatures. Some publish their
+drafting history; at least one keeps its model bills out of public view entirely. What none of them
+does is publish an unfinished statute together with its audits, its known defects and its own
+errata, and then invite named outside experts to attack it in public before anyone introduces it.
+
+The stage is worth naming too, because it is officially described. USA.gov lists a "petition by
+people or citizen groups who recommend a new or amended law" as one of the three recognised origins
+of a bill, and the House's own summary of the process begins "First, a representative sponsors a
+bill" — everything else follows a sponsor. This Act has no sponsor. It sits in the gap before the
+first step, where nothing is scrutinised because no procedure reaches it ([the route, in
+full](./docs/paths_to_enactment.md)).
+
+That is the whole of the offer here, and the reason it is worth an expert's time. **A disposition
+filed on this Act would be the first published expert determination on a model statute before its
+introduction.** Not a comment absorbed into a committee's product, not advice to a drafter who may
+take it or leave it, but a signed finding standing in public beside the text it examined, for as
+long as the text exists.
+
+There is a corresponding warning, which belongs in the same paragraph as the boast. This project
+has no institutional standing whatsoever. There is no membership, no vote, no body that adopts
+anything, and no organisation behind the maintainer. A reviewer here is not joining an institution
+and gains nothing from it but the published work and whatever the work is worth. If that sounds
+thin, it should: the exchange offered is a genuine question, a real audience, and a guarantee that
+the answer is published exactly as written.
+
 ## The ask
 
 One seat, one lane, scope in writing before work begins. The bounded form: the statute straight

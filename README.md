@@ -484,8 +484,18 @@ wrong, sent to the address below, enters the public register with its answer att
 
 ## For the review council
 
-*This section moved to [REVIEWERS.md](./REVIEWERS.md) on 23 August 2026 — the bounded path, the
-five lane briefs each with its shelf, the print-copy mechanics, filing, and the terms, in one page
+**No model act gets this.** Model legislation in the United States is produced by the Uniform Law
+Commission, the American Law Institute, the American Bar Association and their peers, drafted
+internally by reporters and committees and then circulated to legislatures. There is no standard
+pre-introduction review, and at least one producer keeps its model bills out of public view. None
+of them publishes an unfinished statute alongside its audits, its known defects and its own errata
+and invites named outside experts to attack it in public before anyone introduces it. A disposition
+filed here would be the first published expert determination on a model statute before its
+introduction — and this project has no institutional standing to offer in return, which is stated
+on the reviewer page rather than buried.
+
+*The working detail moved to [REVIEWERS.md](./REVIEWERS.md) on 23 August 2026 — the bounded path,
+the lane briefs each with its shelf, the print-copy mechanics, filing, and the terms, in one page
 that changes in the same commit as the reading order changes. What stands here is the part that
 never moves: scope in writing before work begins; unpaid; dispositions published as written,
 including "approved with reservations" and including hostile; and under the project's own published

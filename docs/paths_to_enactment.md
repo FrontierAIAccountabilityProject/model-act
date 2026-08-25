@@ -142,3 +142,45 @@ as much as any drafting catch.
 [already a crime](../standards/already_a_crime_for_you.md) ·
 [the enforcement record](../research/state_enforcement_record_2026.md) ·
 [the fiscal note](../standards/fiscal_note.md).*
+
+---
+
+## Where this project sits in the process, according to the process — added 25 August 2026
+
+It is worth stating precisely what stage this is, because the answer is officially described and
+more ordinary than it sounds.
+
+USA.gov's account of how federal laws are made lists three origins for the idea behind a bill: a
+sitting member of the Senate or House; a proposal made during a congressional candidate's election
+campaign; and
+
+> "Petition by people or citizen groups who recommend a new or amended law to a member of Congress
+> that represents them."
+
+That third route is this project, described by the government itself. A member of the public, or a
+group of them, recommends a law to a legislator. It is a recognised origin, not an irregular one.
+
+**The stage matters as much as the route.** The House's own summary of the legislative process
+begins: *"Laws begin as ideas. First, a representative sponsors a bill."* Everything that follows,
+committee study, calendar, floor vote, the second chamber, conference, enrolling, signature, occurs
+after a sponsor exists. **This project has no sponsor.** It sits before the first step, in the space
+where an idea is turned into text good enough for a legislator to introduce without redrafting it.
+
+That space has no formal procedure attached to it, which is exactly why this project invented one.
+There is no committee to refer a pre-introduction draft to, no hearing at which it can be tested,
+and no record of its defects unless someone keeps it. So the Act keeps its own: published audits, a
+numbered errata register, an open queue of unresolved drafting questions, and outside experts
+invited to attack the text in public before any legislator's name is attached to it.
+
+**Two honest qualifications.** The pages quoted describe the *federal* process, and this is a model
+*state* statute; state legislatures mirror the sequence but differ in detail, and the applicable
+route in any given state is that state's own. And the citizen-petition origin describes where an
+idea may come from, not any entitlement to have it taken up: a legislator is free to ignore it, and
+most such recommendations are ignored. What the project can control is whether, when a sponsor does
+look, the text is ready and its weaknesses are already on the record rather than waiting to be
+discovered in committee.
+
+*Sources: [USA.gov, "How laws are made"](https://www.usa.gov/how-laws-are-made) (last updated
+17 November 2025); [U.S. House of Representatives, "The Legislative
+Process"](https://www.house.gov/the-house-explained/the-legislative-process). Both read
+25 August 2026.*
