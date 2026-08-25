@@ -529,8 +529,8 @@ returns **zero occurrences of every one of these**, each of which appears in S 6
 | § 1422(5)(A)(ii) — **corporate officers** included as protected employees | **absent** |
 | § 1423(2)(B) — *"A COURT SHALL DISREGARD CORPORATE FORMALITIES AND IMPOSE JOINT AND SEVERAL LIABILITY ON AFFILIATED ENTITIES"* | **absent** |
 
-**So the finding is not that New York dropped an audit.** New York's bill, six days before it
-passed, required a developer to designate senior personnel, had an independent auditor verify that
+**So the finding is not that New York dropped an audit.** New York's bill, in the print that stood
+from 3 to 9 June 2025, required a developer to designate senior personnel, had an independent auditor verify that
 those personnel were designated *and empowered*, took that auditor's signature, protected corporate
 officers who raised risks, barred deployment at unreasonable risk of critical harm, and told courts
 to pierce the corporate veil where the structure was built to frustrate recovery.
@@ -675,12 +675,13 @@ Set the two traces beside each other.
 **The accountability line.** California SB 1047 drafts an annual independent audit, a lead-auditor
 signature, and assessment of designated and empowered senior personnel. **Vetoed with its bill.**
 New York carries it at S 6953-A § 1421(4), together with veil-piercing, officer whistleblower
-protection and a bar on unreasonably risky deployment. **Struck at the B amendment, six days before
-passage.** Louisiana drafts the audit without the signature. **Dies in chamber.** Illinois enacts it.
+protection and a bar on unreasonably risky deployment. **Struck at the B amendment on 9 June 2025,
+three days before passage, after six days in the bill.** Louisiana drafts the audit without the signature. **Dies in chamber.** Illinois enacts it.
 **One survivor in four attempts.**
 
 **And the largest unanswered question in this file sits inside that sentence.** This census records
-*that* § 1421(4) was struck at the B amendment, six days before passage. **It does not record why,
+*that* § 1421(4) was struck at the B amendment on 9 June 2025, three days before passage and six
+days after it was introduced. **It does not record why,
 because nobody has written it down.** Not the sponsors, not the press, not the advocacy record this
 project has read. The possibilities are not equivalent and the difference matters to every drafter
 who comes after: the provision may have been traded for votes, it may have been a casualty of
@@ -689,12 +690,12 @@ it that this project ought to be taking seriously and currently is not.**
 
 **This is not a rhetorical question.** If the third possibility is the true one, the strongest
 objection to this Act's central mechanism already exists, was persuasive enough to move a
-legislature in six days, and is unrecorded. A drafter who does not go looking for it is choosing
+legislature in three days, and is unrecorded. A drafter who does not go looking for it is choosing
 not to know. **The route to an answer is the two sponsors and their counsel**, and it is being
 asked. Whatever comes back is published as given, including that the provision was wrong.
 
-*(Open item. Any reader who knows what happened in those six days, or who has a primary document
-from them, is asked to send it; it enters the record with attribution unless anonymity is
+*(Open item. Any reader who knows what happened between 3 and 12 June 2025, or who has a primary
+document from those days, is asked to send it; it enters the record with attribution unless anonymity is
 preferred.)*
 
 #### How this question actually gets answered, in order of what it costs
@@ -736,7 +737,7 @@ Nothing below is a finding; it is a list of places the finding might be.*
 
    **And the honest limit on it, stated before anyone gets excited.** A jacket captures what was
    sent *to the Governor about the bill as passed*. The B amendment happened in the legislature,
-   six days earlier. So the jacket is strong evidence about who opposed the provision and on what
+   three days earlier. So the jacket is strong evidence about who opposed the provision and on what
    grounds, and it is **not** direct evidence of the legislature's own reason for striking it. A
    recent jacket may also not be processed yet.
 

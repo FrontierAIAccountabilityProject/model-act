@@ -1036,6 +1036,38 @@ floor is half the reported one — the argument the number serves got stronger.
 **Rule kept.** Reliance follows retrieval; where it must precede it, the ⚠ travels with the
 figure and the primary is fetched before the figure is repeated a second time.
 
+## E37 — the same six days used for two different intervals, one of them wrong
+
+**The error.** This project's own pinned chronology for New York's RAISE Act is `PRINT NUMBER
+6953A` on **3 June 2025**, `PRINT NUMBER 6953B` on **9 June 2025**, passed both houses **12 June
+2025**. From those dates, the audit-and-signature provision at § 1421(4) **existed for six days**
+(3 to 9 June) and was struck **three days before passage** (9 to 12 June).
+
+Several surfaces said instead that it was *"struck at the B amendment, six days before passage"* —
+the census twice, [house language](../standards/house_language.md), the changelog, and the
+retrieval programme added the same day. One further surface said the bill *"six days before it
+passed"* carried the provision, which is a third interval again: 3 to 12 June is **nine** days.
+**One number was doing the work of three, and only its original use was right.**
+
+**Cause.** The correct sentence, *"it existed for six days"*, was written first and is accurate.
+Later paraphrases reached for the striking number rather than the pinned dates, and nobody
+subtracted. The dates were in the same file the whole time, four hundred lines above.
+
+**Caught by.** Preparing to pull the Senate floor transcript for the passage date. Establishing
+which date to search made the arithmetic unavoidable.
+
+**Why it mattered more than three days usually would.** The wrong figure was in a drafted letter to
+Senator Gounardes, the bill's surviving sponsor, who was present for all three dates. A cold
+approach that misstates the chronology of the recipient's own bill does not get a second reading.
+
+**Fix.** Every occurrence conformed to the pinned dates: the provision **existed for six days** and
+was **struck three days before passage**. The letter corrected before sending.
+
+**Rule kept, and it is a new one.** *An interval is a claim.* Where this project states a number of
+days, the two dates it runs between are named in the same sentence or the sentence is rewritten
+until they are. A duration with no endpoints attached cannot be checked, and this one was repeated
+five times without anyone being able to.
+
 <a id="part-ii"></a>
 
 ---

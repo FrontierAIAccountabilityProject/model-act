@@ -1075,7 +1075,7 @@ from lying about what it published.
 
 **This is an observation about drafting convention, not about the sponsors**, who wrote the audit,
 the lead-auditor signature and the veil-piercing provision into their own bill and had them struck
-six days before passage. **The title survived the provisions.** That is the finding, and it is a
+at the B amendment on 9 June 2025, three days before passage. **The title survived the provisions.** That is the finding, and it is a
 finding about legislatures rather than about anyone in one.
 
 ### What follows for anyone drafting the other kind of bill

@@ -782,8 +782,8 @@ sat at (g)(3)-(4) until December 2002, so pre-2002 authority cites them under th
 
 **And an open question, named at last.** The census has recorded for weeks *that* New York's
 § 1421(4) — the audit, the lead auditor's signature, the designation of senior personnel,
-veil-piercing, officer whistleblower protection — was struck at the B amendment six days before
-passage. **It has never recorded why, because nobody has written it down.** That gap is now stated
+veil-piercing, officer whistleblower protection — was struck at the B amendment on 9 June 2025,
+three days before passage and six days after it entered the bill. **It has never recorded why, because nobody has written it down.** That gap is now stated
 in the file as an open item rather than left as an implication: if the provision was struck because
 somebody made a good argument against it, that argument is the strongest objection to this Act's
 central mechanism and it is currently unrecorded. It is being asked of the sponsors, and whatever
