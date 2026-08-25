@@ -256,7 +256,7 @@ before any file relies on it, and its read-status is a recorded fact, not a reco
 | GAAIA discussion draft § 121 (4 Jun; not introduced) | Subsections (b) and (e) **pinned verbatim**; full-draft read unrecorded | [the record § C.2](../audit/record.md) |
 | FRONTIER Act, H.R. 9925, § 9 | Characterised; full-text read unrecorded | the record; [standing watch](../audit/standing_watch_2026-08-20.md) |
 | *United States v. Park*, 421 U.S. 658 (1975) | Three burden passages **verified against the reported opinion, 22 Aug** (prima facie at 673–74; impossibility at 672–73; the two burdens at 673); full-opinion read pending before CURE 8 lands | [CURE 8](../audit/v3_5_cure_language.md); companion notes |
-| 18 U.S.C. § 1365(h)(3)–(4) | **Verified verbatim, 23 Aug** | CURE 1 and its addendum |
+| 18 U.S.C. § 1365(h)(3)–(4) | **Verified verbatim, 23 Aug; upgraded 25 Aug** — the LII page and its notes are now held as PDFs on the shelf, so the citation rests on a held primary rather than a single web read. Re-checked against the held copy: (h)(3) *"a substantial risk of death; extreme physical pain; protracted and obvious disfigurement; or protracted loss or impairment of the function of a bodily member, organ, or mental faculty"*, (h)(4) as drafted. Source of the section: Pub. L. 98–127 § 2 (13 Oct 1983), as amended through Pub. L. 107–307 (2002) | CURE 1 and its addendum |
 | 21 C.F.R. § 803.3(w) | **Verified via the live eCFR** | SEC. 1(b)(8); the CURE 1 addendum |
 | S. 1792 (119th), AI Whistleblower Protection Act | **Primary XML read in full, 23 Aug** — public domain; held on the shelf below | [who has to tell you § 4b](../standards/who_has_to_tell_you.md); census queue |
 | 42 C.F.R. § 73.19 (select-agent theft/loss/release notification) | **Retrieved 23 Aug** (eCFR, ⚠ R) | [the gallery's escape section](../standards/the_same_conduct.md); who has to tell you § 4b |
@@ -320,6 +320,8 @@ pass: this table listed the Virginia SB 384 substitute twice.*
 | LETTER_Ossoff-plus-5-to-Hegseth_Grok-DoD_2026-02-09 (⚠ R extract; primary URL held) | The six-senator deployment-review letter |
 | ARTICLE_Diamantis_Employed-Algorithms_72-Duke-LJ-797_2023.pdf | Diamantis, 72 Duke L.J. 797 (2023) |
 | BILL_US-HR9333_introduced_2026-06-18.pdf | The GPO introduced print, seven pages; OCR'd and XML-checked |
+| BILL_US-18USC1365_Tampering-with-consumer-products_LII_2026-08-25.pdf (+ LII notes) | The donor statute for CURE 1's injury tier, held as primary |
+| REPORT_CRS-RS22477_Sponsorship-and-Cosponsorship-of-House-Bills_2025-08-14.pdf | CRS, Oleszek; sponsor and cosponsor mechanics in the House |
 | ARTICLE_Longpre-Ghosh-et-al_FLARE-AI_arXiv-2606.31567_2026-06-30.pdf | The ICML 2026 flaw-reporting paper, 20 pp. plus appendices |
 | PRESS_Science_Zhao_AI-unicorns-barely-publishing_2026-07-27.pdf | *Science* news, 27 Jul 2026; copyrighted, never republished |
 | NOTES_Reading_HR9333-FLARE-Science_2026-08-25.md | The project's own reading note for the three above, quotations extracted verbatim |
