@@ -219,7 +219,7 @@ not charter law breakers." The rule protects a decision that carries legal risk;
 a decision to violate a statute.
 
 **Exculpation, indemnification, and advancement** — the three ways a company pays for an officer's
-defense, and the reason SEC. 6(b)(5) exists. Delaware's exculpation provision, 8 Del. C.
+defense, and the reason SEC. 7(b) exists. Delaware's exculpation provision, 8 Del. C.
 § 102(b)(7), reaches "monetary damages for **breach of fiduciary duty**" and expressly cannot reach
 "acts or omissions not in good faith or which involve intentional misconduct or a knowing violation
 of law." Its indemnification provision, § 145(a), covers criminal proceedings only where the person
@@ -228,8 +228,18 @@ insurance that excludes "any . . . deliberate criminal or deliberate fraudulent 
 or a knowing violation of law by such person, if . . . established by a final, nonappealable
 adjudication."
 
-**Where this Act stands.** SEC. 6(b)(5) bars indemnification and insurance for what the tagged text
-still calls "a knowing or wilful violation," once finally adjudicated. **That is not a novel imposition on corporate practice. It is nearly
+**Where this Act stands.** SEC. 7(b)(1)–(2) bars insuring or reimbursing an individual penalty
+outright. SEC. 7(b)(5) then does something narrower and more interesting: it **permits**
+insurance and advancement for "reasonable costs of defense," provided the amounts "shall be
+repaid by a person finally adjudicated to have committed a knowing or willful violation under
+SEC. 6(b)."
+
+That is Delaware's own structure. 8 Del. C. § 145(e) permits advancement "upon receipt of an
+undertaking . . . to repay such amount if it shall ultimately be determined that such person is
+not entitled to be indemnified," and § 145(g)(1) contemplates excluding cover for a "deliberate
+criminal . . . act" once "established by a final, nonappealable adjudication." **Advance, then
+claw back on an adverse final adjudication — the Act and the Delaware Code reach the same
+mechanism.** **That is not a novel imposition on corporate practice. It is nearly
 the line Delaware's own code already draws, in nearly the same words** — which is either the
 strongest defense of the provision or the strongest argument that it is redundant, and the torts and
 design seat is asked which.

@@ -58,7 +58,7 @@ those sealed documents keep the sealed heading's spelling, or the anchor stops r
 GAAIA's defined term as "Independent Verification **Organisation**"; the discussion draft says
 **Organization**, and a defined term quoted with the wrong spelling is a misquoted defined term.
 And `model_act_v3_4.txt` itself carries the only British spellings left standing: SEC. 6(b)(1)'s
-"knowingly or **wilfully**" and SEC. 6(b)(5)'s "knowing or **wilful**". The instrument is tagged and
+"knowingly or **wilfully**" and SEC. 7(b)(5)'s "knowing or **wilful**". The instrument is tagged and
 checksummed, so that is an amendment with a number rather than a sweep, and it is drafted and held.
 
 ⚠ *One integrity gap found and not fixed here, because a spelling sweep is the wrong instrument for

@@ -1249,3 +1249,47 @@ may describe them as verified until the primaries are read.
 specialist reader would search for and failing to find. That is the second finding this month that
 came from asking what is *absent* rather than checking what is present.
 
+<a id="e43"></a>
+
+## E43 — a provision cited to a paragraph that does not exist, and an exception described as the prohibition
+
+**Filed 25 August 2026. Internal catch, same day, before the next chunk was written. The error was
+introduced today and published today.**
+
+**What was published.** The glossary's new entry on exculpation and indemnification, added this
+afternoon, said: *"SEC. 6(b)(5) bars indemnification and insurance for what the tagged text still
+calls 'a knowing or wilful violation,' once finally adjudicated."* The same wrong citation was
+carried in the changelog's spelling entry earlier the same day.
+
+**Two errors, and the second is the worse one.**
+
+**First, the citation.** SEC. 6(b) has paragraphs (1) and (2). **There is no SEC. 6(b)(5).** The
+indemnification and insurance provision is **SEC. 7. PERSONAL ECONOMIC CONSEQUENCES**, subsection
+(b), and the language quoted sits at **SEC. 7(b)(5)**. The phrase "under SEC. 6(b)" appears inside
+it as a cross-reference, which is how the mistake was made: a cross-reference read as a location.
+
+**Second, the substance.** SEC. 7(b)(5) is not a bar. The bar is SEC. 7(b)(1)–(2), which prohibits
+insuring or reimbursing an individual penalty. SEC. 7(b)(5) is the **carve-out from that bar**: it
+*permits* insurance and advancement for "reasonable costs of defense, provided that amounts advanced
+or indemnified shall be repaid by a person finally adjudicated to have committed a knowing or wilful
+violation under SEC. 6(b)." **The entry described the exception as the prohibition** — a reader
+would have taken the Act to forbid the very thing that paragraph allows.
+
+**Why it matters, beyond accuracy.** The entry was making a comparative argument: that this Act's
+treatment of defence costs tracks a line Delaware already draws. With the provision read correctly
+the argument is *stronger and more exact*, because SEC. 7(b)(5) and 8 Del. C. § 145(e) share a
+mechanism rather than merely a mood — advance the costs, then claw them back on an adverse final
+adjudication. § 145(e) permits advancement "upon receipt of an undertaking . . . to repay such
+amount if it shall ultimately be determined that such person is not entitled to be indemnified."
+**The mistake cost the point its best form.**
+
+**Fix:** the glossary entry restated with the correct citation and the correct operation, and the
+comparison rewritten to name the shared mechanism. The changelog's citation corrected. A held draft
+in the working library carried the same error and was corrected before it could enter the queue.
+Status: cured.
+
+**Method note, since this is the third finding today from the same habit.** The wrong paragraph
+number was never checked against the statute; it was carried from an earlier reading of a passage
+that quoted the cross-reference. The project's standing rule says a grep finds the owning file and
+never replaces reading it. **The rule was written for exactly this and was not followed.**
+
