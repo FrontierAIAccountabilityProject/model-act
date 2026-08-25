@@ -157,6 +157,48 @@ post or a sponsor package until a human has read the enrolled text.
 
 ## The worked example — what a completed row looks like
 
+### ILLINOIS — SB 3261 — Artificial Intelligence Public Safety and Child Protection Transparency Act
+
+**Status:** introduced, pending · **Session:** 104th General Assembly, 2025–26 · **Introduced:**
+3 February 2026 by **Sen. Mary Edly-Allen** · **Effective date if enacted:** 1 January 2027 ·
+**Checked:** 25 Aug 2026 · **Source:** introduced text, read in full
+
+**Word test.** *Signature* — **zero**. *Certify*, *certification* — **zero**. *Natural person* —
+zero. *Personally* — zero. *Criminal*, *knowingly*, *willful* — **zero**. *Indemnification* — zero.
+*Officer* appears three times and never as a duty-holder: once for information "shared with officers
+and directors," twice in the whistleblower section describing wrongdoing **by** an officer.
+
+**What it does.** Section 15 requires a large frontier developer or large chatbot provider to
+"write, implement, comply with, and clearly and conspicuously publish on its website a public safety
+and child protection plan." Section 20 requires safety-incident reporting to the Attorney General.
+Section 30 protects whistleblowers. Section 35 requires an annual third-party audit. Section 40 sets
+civil penalties. Section 25 gives the Attorney General rulemaking.
+
+**And this is the finding.** Its enacted sibling, P.A. 104-0538, at least takes **one** human
+signature: the lead auditor's, at 430 ILCS 185/10(d)(2)(G). **SB 3261 takes none.** Section 35
+requires the auditor to produce a report and requires only that the auditor "employ or contract one
+or more individuals with expertise in corporate compliance and one or more individuals with
+technical expertise in the safety of foundation models" — named roles inside the *auditor*, and no
+signature from any of them either.
+
+**So the same legislator has now written two frontier-AI instruments. The enacted one takes the
+outside auditor's signature. The pending one takes nobody's.** Both describe, in detail, an
+organization that must plan, monitor, assess and report — and neither identifies a person who
+answers if it does not.
+
+**One provision worth flagging for the fiscal and torts lanes.** Section 45, "Loss of equity," reads
+in full: "The loss of value of equity does not count as damage to or loss of property for the
+purposes of this Act." A deliberate limit on what counts as harm, and the only place in the bill
+where the drafter chose to narrow rather than describe.
+
+**Who owes the duty.** The large frontier developer or large chatbot provider, as an entity.
+**Does a human sign?** **No — nobody at all.**
+**Who pays.** The entity: up to \$1,000,000 per violation for a large frontier developer, up to
+\$50,000 for a large chatbot provider, recovered by the Attorney General in a civil action. No
+private right of action.
+**Criminal exposure.** **None.** The word does not appear.
+
+
 ### ILLINOIS — P.A. 104-0538 — Artificial Intelligence Safety Measures Act
 
 **Status:** enacted · **Session:** 2026 · **Checked:** 20 Aug 2026 · **Source:** enrolled bill,
