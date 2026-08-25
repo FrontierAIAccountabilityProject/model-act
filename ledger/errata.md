@@ -1603,3 +1603,49 @@ and SEC. 9 the Act punishes honesty about the system and rewards honesty about t
 repairing either alone leaves the asymmetry standing. That observation is now in both cures and on
 [the flow page](../docs/which_way_it_moves.md) — **a paragraph of synthesis rather than the new
 finding it was going to be announced as.**
+
+## E50 — the spelling sweep erased the erratum that records the spelling sweep erasing things
+
+**Status: applied to the working tree, caught in the diff, reverted before commit.**
+
+**How it became possible.** `ledger/errata.md` opens at line 7 with
+`<!-- BEGIN ERRATA.md · … merged 19 Aug 2026, content verbatim -->` and **no closing END marker
+anywhere in the file.** The sweep's sealed-region pattern ran a seal to the matching END *or to end
+of file*, so a single unterminated marker sealed **1,599 of this register's 1,605 lines**, including
+every entry written since 19 August. The register had never once been swept. The same defect sealed
+160 lines of the diary.
+
+**What happened when the hole was closed.** With the seal made honest, the sweep proposed 43
+substitutions across eight files. Fifty-six of the changed lines were in this register, and one of
+them was [E44](#e44--the-tool-built-to-protect-quotations-falsified-fourteen-of-them):
+
+**We had written:** "…where ***towards*** became ***toward***. This one is the sharpest rebuke
+available: the tool's own docstring names AISI's ***towards*** as the example of why the mask
+exists."
+
+**The sweep produced:** "…where ***toward*** became ***toward***."
+
+**The tool deleted the record of its own previous failure, and misquoted AISI a second time inside
+the sentence that exists to explain why AISI must not be misquoted.** E44 was recoverable in August
+because the erratum named the words. After this run it named nothing.
+
+### The rule, and it is a category the project did not have
+
+**E50 — an errata register is a document *about* words. Much of it quotes words as specimens rather
+than using them, and no normaliser can tell mention from use. It is corrected by hand or not at
+all.**
+
+`ledger/errata.md` and `ledger/diary.md` are now in the sweep's `SKIP_FILES` beside the drafting
+record and the dossier. **They are excluded for a different reason from the other two**: those are
+sealed because they are frozen, these because their content is evidence.
+
+**And the second-order lesson, which is the more useful one.** The seal hole was not found by
+reading the file. It was found by asking why a checker's own machinery had a branch nobody had
+tested. **A silent skip and a clean pass are indistinguishable in the output**, and this one printed
+`0 substitutions` for six days while a fifth of the repository went unread. The sweep now prints
+`*** UNTERMINATED SEAL ***` with the file, the line, and the number of lines left unprotected, and
+protects nothing on a broken marker's say-so.
+
+**Not fixed, and it is a maintainer question.** The BEGIN marker at line 7 is still unterminated.
+Closing it requires deciding where the merged content ends, and the honest answer may be that a
+register appended to daily was never sealed content in the first place and the marker should go.

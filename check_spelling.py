@@ -33,10 +33,24 @@ SKIP_DIRS = {".git", "_site", "archive", "_sass", "_includes", "node_modules"}
 # dossier/README.md: "It is sealed: the text below is never edited, because a
 # record whose contents change is not a record." Those are the project's rules
 # and they bind this tool too.
-SKIP_FILES = {"./audit/record.md", "./dossier/README.md"}
+SKIP_FILES = {
+  "./audit/record.md",     # the drafting record: verbatim and unedited
+  "./dossier/README.md",   # sealed
+  # Added 25 August 2026, after this sweep was let loose on the register for the
+  # first time and immediately falsified E44 — the erratum that exists to record
+  # this sweep falsifying quotations. E44 contains the sentence "where *towards*
+  # became *toward*", naming the words as specimens. The sweep converted the
+  # specimen, producing "where *toward* became *toward*", and misquoted AISI in
+  # the same breath, inside the very passage explaining why AISI must not be
+  # misquoted. An errata register is a document ABOUT words: much of it quotes
+  # words as evidence rather than using them, and no normaliser can tell the two
+  # apart. It is corrected by hand or not at all. See E50.
+  "./ledger/errata.md",
+  "./ledger/diary.md",
+}
 
-# A merged block marked "content verbatim" is sealed from its BEGIN marker to
-# the matching END, or to end of file where no END was ever written.
+# A merged block marked "content verbatim" is sealed from its BEGIN marker to the
+# matching END. A BEGIN with no END is a defect, not a seal — see seal_defects().
 SEAL_BEGIN = re.compile(r"<!--\s*BEGIN\b.*content verbatim\s*-->")
 SEAL_END   = re.compile(r"<!--\s*END\b.*-->")
 
@@ -287,7 +301,23 @@ def recase(src, dst):
 
 FENCE  = re.compile(r"(?ms)^```.*?^```")
 BQLINE = re.compile(r"(?m)^[ \t]*>.*$")
-SEALED = re.compile(r"(?s)" + SEAL_BEGIN.pattern + r".*?(?:" + SEAL_END.pattern + r"|\Z)")
+SEALED = re.compile(r"(?s)" + SEAL_BEGIN.pattern + r".*?" + SEAL_END.pattern)
+# An unterminated seal used to run to \Z, which meant one BEGIN with no matching END
+# sealed the entire remainder of the file. On 25 August 2026 that was found to be
+# hiding 1,598 of the 1,605 lines of the errata register from this sweep, including
+# every entry written since 19 August. A seal that swallows a file is not a seal, it
+# is a hole, so the sweep now reports it and protects nothing on its say-so.
+UNSEALED = []
+
+def seal_defects(text, path):
+    """A BEGIN with no END after it. Reported, never silently honored."""
+    out = []
+    for m in SEAL_BEGIN.finditer(text):
+        if not SEAL_END.search(text, m.end()):
+            line = text.count("\n", 0, m.start()) + 1
+            out.append((path, line, text[m.start():m.end()][:70],
+                        text.count("\n", m.end()) ))
+    return out
 
 def protected_spans(text, path):
     """Character ranges the sweep must not touch.
@@ -297,6 +327,8 @@ def protected_spans(text, path):
     25 August 2026 it falsified fourteen of them.  Returns (spans, review),
     where review lists blockquote lines carrying a hit for a human to decide.
     """
+    for d in seal_defects(text, path):
+        if d not in UNSEALED: UNSEALED.append(d)
     spans = []
     for rx in (FENCE, SEALED):
         spans += [m.span() for m in rx.finditer(text)]
@@ -365,6 +397,14 @@ def main():
     for k, v in sorted(tally.items(), key=lambda x: -x[1]):
         print(f"  {v:5d}  {k}")
     print("\nfiles skipped as self-declared sealed: " + ", ".join(skipped))
+
+    if UNSEALED:
+        print("\n*** UNTERMINATED SEAL — a BEGIN with no END ***")
+        for path, line, marker, tail in UNSEALED:
+            print("    %s:%d  %s" % (path, line, marker))
+            print("        %d lines follow it with no END marker. They are NOT sealed"
+                  " and NOT protected." % tail)
+        print("    Close each seal at the end of the merged content, or delete the marker.")
     print(f"\nblockquote lines matching a recorded foreign quotation, left alone: {known}")
     print(f"blockquote lines needing a human decision: {len(review)}")
     for p, i, ws, t in review[:200]:

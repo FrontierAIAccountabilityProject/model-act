@@ -292,7 +292,7 @@ now, each carrying the survey's citation:
 repository by this same route, from this same reading of Lyness. When they were finally read in the
 opinions on 25 August, **two words in a published quotation were not the court's and a paragraph had
 been cut before its most useful sentence** ([E48](../ledger/errata.md)). The fault was in the
-transit, not demonstrably in the survey. **But the ten rows below travelled the same road**, none has
+transit, not demonstrably in the survey. **But the ten rows below traveled the same road**, none has
 been read in the state reporters, and this is the document legislators are most likely to rely on and
 least likely to check. Treat every row as a pointer to a case, not as a reading of one.
 

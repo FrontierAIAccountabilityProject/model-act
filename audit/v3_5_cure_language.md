@@ -1008,8 +1008,8 @@ incentive by measuring against the standard rather than the entity's own certifi
 
 **Added 25 August 2026 — this cure and [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candor)
 are the same defect facing opposite ways, and neither said so.** CURE 15 repairs a text in which
-candour about **nonconformity** supplies the notice element of a felony. This cure repairs a text in
-which candour about **missing monitoring** shortens the clock the entity is measured by. Through
+candor about **nonconformity** supplies the notice element of a felony. This cure repairs a text in
+which candor about **missing monitoring** shortens the clock the entity is measured by. Through
 SEC. 8 and SEC. 9 the Act therefore punishes one kind of honesty and rewards the other, and it does
 so because both routes run evidentiary consequences through documents the defendant writes. **Fixing
 either one alone leaves the asymmetry standing.** See
@@ -1866,7 +1866,7 @@ they are "felonies punishable by years in federal prison." *Iverson* supplies th
 **Those two are not squarely reconcilable and neither case tries.** The reconciliation this cure
 offers — that RCO relieves the act element while knowledge is proved by ordinary means — is
 available on both sets of facts, and it is *our* reconciliation, not a court's. **A reviewer who
-thinks a felony tier cannot rest on a doctrine grown in the misdemeanour soil of *Dotterweich* has
+thinks a felony tier cannot rest on a doctrine grown in the misdemeanor soil of *Dotterweich* has
 the two cases lined up to say so.**
 
 ⚠ The pincites 1024 and 1023–24 are still the secondary source's; the source read carries no star

@@ -564,7 +564,7 @@ they are "felonies punishable by years in federal prison." *Iverson* supplies th
 **Those two are not squarely reconcilable and neither case tries.** The reconciliation this cure
 offers — that RCO relieves the act element while knowledge is proved by ordinary means — is
 available on both sets of facts, and it is *our* reconciliation, not a court's. **A reviewer who
-thinks a felony tier cannot rest on a doctrine grown in the misdemeanour soil of *Dotterweich* has
+thinks a felony tier cannot rest on a doctrine grown in the misdemeanor soil of *Dotterweich* has
 the two cases lined up to say so.**
 
 ⚠ The pincites 1024 and 1023–24 are still the secondary source's; the source read carries no star

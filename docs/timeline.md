@@ -138,14 +138,14 @@ Safety and Education Act — **General Business Law § 1421**, one of the three 
 Democratic primary in New York's 12th congressional district to Assemblymember Micah Lasher.
 **Leading the Future**, funded by Marc Andreessen, OpenAI president Greg Brockman and Palantir
 co-founder Joe Lonsdale, spent **$7.6 million against him through a subsidiary**, part of a declared
-programme against pro-regulation candidates. On the other side, the **Guardrails Alliance PAC**
+program against pro-regulation candidates. On the other side, the **Guardrails Alliance PAC**
 opened with a $250,000 buy on 18 June, and Anthropic investor Chris Larsen put in $3.5 million.
 **Bores spent five years at Palantir before leaving to write the law.** A source in the reporting
 gives the motive as: *"They're trying to teach someone in a similar position not to do it."*
 
   **Why it is in this record.** This project asks legislators to carry a **criminal** statute
   reaching named officers. The most recent evidence on what that costs a legislator is that carrying
-  a **civil transparency** statute drew an eight-figure programme and cost him the seat.
+  a **civil transparency** statute drew an eight-figure program and cost him the seat.
   **Every legislative ask in this repository is more expensive than it was in May**, and outreach
   that does not say so is asking someone to pay a price it has not named. The Act being CC0 and
   carryable without attribution is not a licensing footnote; on these facts it is the feature.
