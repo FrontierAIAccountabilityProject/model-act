@@ -288,6 +288,14 @@ Rev. 253 (2023) (Parts II–III read in full; held on
 it (food-and-drug and consumer-protection branches remain to be built) — and it permits ten rows
 now, each carrying the survey's citation:
 
+⚠ **Calibration note added 25 August 2026.** *Iverson* and *MacDonald & Watson* reached this
+repository by this same route, from this same reading of Lyness. When they were finally read in the
+opinions on 25 August, **two words in a published quotation were not the court's and a paragraph had
+been cut before its most useful sentence** ([E48](../ledger/errata.md)). The fault was in the
+transit, not demonstrably in the survey. **But the ten rows below travelled the same road**, none has
+been read in the state reporters, and this is the document legislators are most likely to rely on and
+least likely to check. Treat every row as a pointer to a case, not as a reading of one.
+
 | State | Form | The anchor, per Lyness Part III |
 |---|---|---|
 | Alabama | statutory | "Responsible corporate officer" inside the definition of "person," Ala. Code § 22-22-1(b)(7), with a willful/gross-negligence mens rea — *stricter than the federal "knowing"* (at 278) |
