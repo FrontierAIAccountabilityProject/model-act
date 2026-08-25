@@ -32,7 +32,30 @@ is difficult to reconcile with argument having occurred on 16 July. The likelies
 explanation is a conflation with press coverage dated 16 July 2026 describing the case as
 facing its "first federal appeals court test" — coverage of the completed briefing, not of
 an argument. **Recommendation:** restate as *fully briefed; argument date not confirmed;
-undecided* until the Ninth Circuit docket is read directly. The companion already imposes
+undecided* until the Ninth Circuit docket is read directly.
+
+**Docket read directly, 25 August 2026.** The Ninth Circuit docket for No. 26-1591 is now in the
+working library, together with the district court complaint. **Appeal opened 17 March 2026.** The
+docket corroborates the Knight Institute's chronology from the primary: **Filing 15, opening brief,
+entered 14 May 2026**; Filing 17, clerk action filing it, 15 May 2026. **No entry for argument, for
+submission, or for an opinion appears anywhere in the retrievable record**, and the snapshot ends
+15 May 2026, so **it cannot reach the 16 July question either way.**
+
+*What changed: the brief dates are now primary rather than reported. What did not: the argument date
+remains unconfirmed, and confirming it needs PACER or a fresher pull. The companion's current
+wording — "the reported argument date of 16 July 2026 unconfirmed against the docket" — is correct
+as it stands and should not be strengthened.*
+
+**And the complaint itself is now held**, No. 2:25-cv-12295 (C.D. Cal.), filed 29 December 2025.
+Two things in it that this project did not have. Counsel for xAI is **Erin E. Murphy of Clement &
+Murphy, PLLC**, with four others — not in-house counsel but a first-rank appellate firm, retained to
+seek statewide relief against a state AI statute. And the pleading leads with **two takings counts**
+before it reaches speech: Count One per se takings, Count Two regulatory takings, Count Three
+compelled speech, Count Four vagueness. **This repository tracks counts three and four and has
+essentially nothing on one and two** — *Takings Clause* zero, *regulatory taking* zero, *per se
+taking* zero, *Penn Central* zero. The theory is that compelled disclosure of training data destroys
+a trade secret, which is property. It is the live constitutional attack on an American AI
+transparency statute, and it is the one we were not watching. The companion already imposes
 this discipline on a neighboring citation — "*X Corp. v. Bonta* is always described as a
 preliminary-injunction likelihood ruling" — and the same precision is owed here.
 
