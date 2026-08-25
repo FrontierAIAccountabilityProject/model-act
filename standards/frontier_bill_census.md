@@ -679,6 +679,24 @@ protection and a bar on unreasonably risky deployment. **Struck at the B amendme
 passage.** Louisiana drafts the audit without the signature. **Dies in chamber.** Illinois enacts it.
 **One survivor in four attempts.**
 
+**And the largest unanswered question in this file sits inside that sentence.** This census records
+*that* § 1421(4) was struck at the B amendment, six days before passage. **It does not record why,
+because nobody has written it down.** Not the sponsors, not the press, not the advocacy record this
+project has read. The possibilities are not equivalent and the difference matters to every drafter
+who comes after: the provision may have been traded for votes, it may have been a casualty of
+drafting convention in a fast amendment, or **somebody may have made a substantive argument against
+it that this project ought to be taking seriously and currently is not.**
+
+**This is not a rhetorical question.** If the third possibility is the true one, the strongest
+objection to this Act's central mechanism already exists, was persuasive enough to move a
+legislature in six days, and is unrecorded. A drafter who does not go looking for it is choosing
+not to know. **The route to an answer is the two sponsors and their counsel**, and it is being
+asked. Whatever comes back is published as given, including that the provision was wrong.
+
+*(Open item. Any reader who knows what happened in those six days, or who has a primary document
+from them, is asked to send it; it enters the record with attribution unless anonymity is
+preferred.)*
+
 **The transparency line.** California SB 53 — framework, transparency report, incident reporting,
 no audit, no signature, officers and directors as recipients of a quarterly report they owe nothing
 about. **Enacted in California. Substantially adopted in New York's enacted text. The

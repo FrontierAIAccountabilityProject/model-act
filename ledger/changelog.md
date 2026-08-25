@@ -755,3 +755,36 @@ five or more. Entered at [the press corpus](../research/press_corpus_july_august
 graded as reported from a preprint this project has not opened. And Emma Pierson's answer to the
 acceleration objection — the race is not toward the capability the objection invokes — joins
 Javorsky at [known objections](../docs/known_objections.md).
+
+### 25 August 2026, second entry — the same author, the same absence, and a question nobody has answered
+
+**The FOCUS Act read in full and entered.** Gounardes introduced it on 21 August; the drafting
+commission print, 16298-02-6-1, is on the shelf and was read the same day the press entry was
+written, which discharged that entry's own read gate rather than leaving it hanging. The word test
+returns nil for *officer*, *director*, *executive*, *misdemeanor* and *felony*; the single
+occurrence of *natural person* is a data-protection carve-out for the data subject; and both the
+attestation and the § 39 knowing-violation standard attach to *"an educational technology
+provider."* Row at [the census](../standards/frontier_bill_census.md), coverage at
+[the press corpus](../research/press_corpus_july_august_2026.md) § 6.
+
+**What is claimed from it is narrow.** An ed tech registry is entity-shaped work and a personal
+criminal duty would be absurd inside it. The row records that the reflex is consistent, not that
+the drafting is wrong.
+
+**The donor of the harm tier gets its name and its bill.** 18 U.S.C. § 1365 was enacted by
+Pub. L. 98-127 (13 Oct 1983), the **Federal Anti-Tampering Act**; the LII page and its notes are now
+held as primaries rather than a single web read. Three findings entered at
+[the table of authorities](../standards/table_of_authorities.md). The useful one: Congress swept
+this section's four fixed dollar fines out in 1994 and replaced them with *"fined under this
+title"*, routing to 18 U.S.C. § 3571 — **which is the choice n.19 already makes**, now supported by
+Congress's own correction to the very statute this Act borrows from. Also recorded: the definitions
+sat at (g)(3)-(4) until December 2002, so pre-2002 authority cites them under the old letter.
+
+**And an open question, named at last.** The census has recorded for weeks *that* New York's
+§ 1421(4) — the audit, the lead auditor's signature, the designation of senior personnel,
+veil-piercing, officer whistleblower protection — was struck at the B amendment six days before
+passage. **It has never recorded why, because nobody has written it down.** That gap is now stated
+in the file as an open item rather than left as an implication: if the provision was struck because
+somebody made a good argument against it, that argument is the strongest objection to this Act's
+central mechanism and it is currently unrecorded. It is being asked of the sponsors, and whatever
+comes back is published as given.
