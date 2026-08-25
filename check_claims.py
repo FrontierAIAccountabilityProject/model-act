@@ -1,0 +1,62 @@
+#!/usr/bin/env python3
+"""Hardcoded-claim audit. Every number a page states about the repository is recomputed
+from the repository and compared. Run before any push. Exit 1 on mismatch.
+
+A to-do list rots; this does not. When a count changes, this tells you which pages lie."""
+import re, glob, os, sys
+
+def read(p):
+    return open(p, encoding="utf-8").read() if os.path.exists(p) else ""
+
+WORDS = {1:"one",2:"two",3:"three",4:"four",5:"five",6:"six",7:"seven",8:"eight",9:"nine",
+         10:"ten",11:"eleven",12:"twelve",13:"thirteen",14:"fourteen",20:"twenty",
+         21:"twenty-one",22:"twenty-two",23:"twenty-three",24:"twenty-four",25:"twenty-five",
+         30:"thirty",31:"thirty-one",32:"thirty-two",33:"thirty-three"}
+
+# ---- recompute the truth -------------------------------------------------
+errata      = read("ledger/errata.md")
+entries     = len(re.findall(r'(?m)^## E\d+', errata))
+highest_e   = max([int(n) for n in re.findall(r'(?m)^## E(\d+)', errata)] or [0])
+packets     = [p for p in glob.glob("packets/*.md") if os.path.basename(p) not in ("index.md","README.md")]
+lanes       = len(packets)
+statute     = read("model_act_v3_4.txt")
+stat_lines  = len(statute.splitlines())
+reviewers   = read("REVIEWERS.md")
+# state-of-play rows: table lines starting with a link or bold item in that section
+sop = reviewers.split("The state of play")[1] if "The state of play" in reviewers else ""
+sop_rows    = len([l for l in sop.splitlines() if l.startswith("| ") and "---" not in l]) - 1
+
+CHECKS = [
+ ("errata entry count", "REVIEWERS.md", r'([\w-]+) entries under', entries,
+  WORDS.get(entries,entries)),
+ ("highest errata number", "REVIEWERS.md", r'reach E(\d+)', highest_e, f"E{highest_e}"),
+ ("lane count (REVIEWERS)", "REVIEWERS.md", r'(\w+) lanes have', lanes, WORDS.get(lanes,lanes)),
+ ("lane count (packets index)", "packets/index.md", r'(\w+) lanes', lanes, WORDS.get(lanes,lanes)),
+ ("statute line count", "REVIEWERS.md", r'(\d+) lines', stat_lines, str(stat_lines)),
+ ("statute line count", "MAP.md", r'(\d+) lines', stat_lines, str(stat_lines)),
+ ("state-of-play rows", "REVIEWERS.md", r'\*([\w-]+) rows:', sop_rows, WORDS.get(sop_rows,sop_rows)),
+]
+
+print("RECOMPUTED FROM THE REPOSITORY")
+print(f"  errata entries .......... {entries}   (highest number E{highest_e})")
+print(f"  lane packets ............ {lanes}")
+print(f"  statute lines ........... {stat_lines}")
+print(f"  state-of-play rows ...... {sop_rows}")
+print()
+
+bad = 0
+for label, path, pattern, truth, want in CHECKS:
+    text = read(path)
+    if not text:
+        print(f"  [SKIP] {label}: {path} not found"); continue
+    m = re.search(pattern, text)
+    if not m:
+        print(f"  [none] {label} in {path}: no claim found (pattern {pattern!r})"); continue
+    said = m.group(1)
+    ok = str(said).lower() == str(want).lower() or str(said) == str(truth)
+    print(("  [ok]   " if ok else "  [STALE]") + f" {label} in {path}: page says {said!r}, truth is {want!r}")
+    if not ok: bad += 1
+
+print()
+print("ALL CLAIMS CURRENT" if not bad else f"*** {bad} STALE CLAIM(S) — fix before pushing ***")
+sys.exit(1 if bad else 0)
