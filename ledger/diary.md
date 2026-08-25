@@ -9,6 +9,41 @@ the ledger; the [errata register](./errata.md) and [changelog](./changelog.md) a
 this diary, the [changelog](./changelog.md), and the [errata register](./errata.md). The full
 day-by-day account is below; this is the quick scan.*
 
+- **25 Aug 2026** — the day the instruments were audited by what they missed. The prose moved to
+  American spelling and a checker was written to hold it there. Five federal criminal authorities
+  were read in the opinions rather than at second hand, and the published versions did not survive
+  it: *MacDonald & Watson*, whose text is exact but whose pincites cannot be confirmed from a source
+  carrying no star pagination ([E47](./errata.md)); and *Iverson*, where two words inside a block
+  quotation were not the court's, and where the sentences we had elided held the bridge to *Ahmad*
+  the criminal lane had spent the day arguing around ([E48](./errata.md)). The Guidelight control
+  assessment was read in the primary and became an outside measure for reasonable inquiry, together
+  with an objection to this Act's own election on third-party assessment. A currency pass on the
+  recruitment list found a letter queued to a member of Congress whose seat has been vacant since
+  January; chasing why the author of GBL § 1421 — one of this Act's three interim standards — is no
+  longer in the running turned up $7.6 million of industry money spent against him, and a source
+  giving the motive as *"they're trying to teach someone in a similar position not to do it"*. Two
+  of the day's errata are about this project's own instruments: [E49](./errata.md), a finding
+  announced that the cure register had already made three days earlier and put in a title; and
+  [E50](./errata.md), in which an unterminated seal was found to have hidden 1,599 of the errata
+  register's 1,605 lines from the spelling sweep, which on being let in at last immediately
+  falsified E44 — the erratum recording that same sweep falsifying quotations — by converting the
+  very words E44 quotes as specimens. Four checkers repaired, including two silent-skip branches
+  where a clean pass and an unread file looked identical.
+
+  *Framing note, entered because the maintainer asked for it and because it survives being taken
+  seriously.* On the industry's own vocabulary this repository is a pro-social emergent digital
+  ecology: heterogeneous agents, no central planner, artifacts produced faster than any one
+  participant can personally verify. Three of today's four findings arrived from outside the
+  instrument built to find them — a report from a scrolled timeline, a defeated sponsor from a
+  mailing-list chore, a hole in a checker from idle curiosity — which is, unhelpfully, exactly what
+  an ecology looks like. **The project may use the word on one condition, and it is the test
+  [the glossary](../standards/what_these_words_mean.md) already applies to *emergent*: does the
+  framing add a person or remove one?** Theirs removes; "the system exhibited emergent behavior" is
+  a sentence with no subject, which is the whole of its appeal. Ours adds: the push is one named
+  human's and never the assistant's, the errata name who erred, and the letters carry a real
+  signature. **The day this register says *the ecology produced this error* in place of *the
+  maintainer published a fabricated quotation*, the word has changed sides and goes.**
+
 - **24 Aug 2026** — the longest day in the ledger. The mailbox archive rebuilt the outreach
   record (a first reply arrived from a New York Assembly office — courteous, engaged, and the
   sponsor lost his seat in June; the amendment outlives him). The AI Futures corpus and the
