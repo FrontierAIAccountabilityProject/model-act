@@ -77,25 +77,25 @@ defaults:
     values: { nav_exclude: false, parent: "The review packets", nav_order: 8, title: "Open source and academia" }
   - scope:
       path: "docs/the_case.md"
-    values: { nav_exclude: false, nav_order: 3, title: "The case" }
+    values: { nav_exclude: false, nav_order: 7, title: "The case" }
   - scope:
       path: "docs/the_statute_translated.md"
-    values: { nav_exclude: false, nav_order: 4, title: "The statute, translated" }
+    values: { nav_exclude: false, nav_order: 3, title: "The statute, translated" }
   - scope:
       path: "docs/questions.md"
-    values: { nav_exclude: false, nav_order: 5, title: "Questions and answers" }
+    values: { nav_exclude: false, nav_order: 8, title: "Questions and answers" }
   - scope:
       path: "docs/the_definition.md"
     values: { nav_exclude: false, nav_order: 6, title: "Two definitions of \"frontier\"" }
   - scope:
       path: "docs/known_objections.md"
-    values: { nav_exclude: false, nav_order: 7, title: "Known objections" }
+    values: { nav_exclude: false, nav_order: 9, title: "Known objections" }
   - scope:
       path: "docs/what_a_case_looks_like.md"
-    values: { nav_exclude: false, nav_order: 8, title: "What a case would look like" }
+    values: { nav_exclude: false, nav_order: 4, title: "What a case would look like" }
   - scope:
       path: "docs/which_way_it_moves.md"
-    values: { nav_exclude: false, nav_order: 9, title: "Which way each provision moves" }
+    values: { nav_exclude: false, nav_order: 5, title: "Which way each provision moves" }
   - scope:
       path: "standards/what_these_words_mean.md"
     values: { nav_exclude: false, nav_order: 10, title: "The glossary — what these words mean" }

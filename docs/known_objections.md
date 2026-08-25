@@ -6,6 +6,29 @@ are not objections the project intends to evade; they are the reason the review 
 Where the tagged statute already contains the answer, the section is cited — the strongest form of
 pre-resistance is not "we would add a safeguard" but "it is already in the text."
 
+## The objections on this page
+
+*Jump to the one you came for. Each states the objection at its strongest before answering it, and several end by saying what the answer does not reach.*
+
+- [The objections and the answers](#the-objections-and-the-answers)
+- [The counter they will coordinate around](#the-counter-they-will-coordinate-around)
+- ["You are criminalizing uncertainty"](#you-are-criminalizing-uncertainty)
+- [Why not voluntary standards, more agencies, corporate fines, or auditors alone](#why-not-voluntary-standards-more-agencies-corporate-fines-or-auditors-alone)
+- [Why one named officer](#why-one-named-officer)
+- [Three additions from the August record](#three-additions-from-the-august-record--added-23-august)
+- ["So this is an FDA for AI?" — no, and the difference is the design](#so-this-is-an-fda-for-ai--no-and-the-difference-is-the-design--added-24-august)
+- ["It shouldn't target AI companies" — the objection an assistant will raise](#it-shouldnt-target-ai-companies--the-objection-an-assistant-will-raise--added-24-august)
+- ["You will delay the cures" — the acceleration objection, answered with clinical numbers](#you-will-delay-the-cures--the-acceleration-objection-answered-with-clinical-numbers--added-25-august)
+- ["The states have already legislated, so this is redundant"](#the-states-have-already-legislated-so-this-is-redundant--added-25-august-2026)
+- ["This is vicarious liability wearing a costume"](#this-is-vicarious-liability-wearing-a-costume--added-25-august-2026)
+- ["Corporate law already answers this, and it answers in our favour"](#corporate-law-already-answers-this-and-it-answers-in-our-favor--added-25-august-2026)
+- ["You cannot prove an AI system caused the harm"](#you-cannot-prove-an-ai-system-caused-the-harm--added-25-august-2026)
+- ["The timelines make this pointless"](#the-timelines-make-this-pointless--added-24-august)
+- ["Wait for the courts" — the strongest form of the objection, and it was made under oath](#wait-for-the-courts--the-strongest-form-of-the-objection-and-it-was-made-under-oath--added-25-august-2026)
+- ["The enforcement gap is theoretical" — it is not, and a Senate chair says so](#the-enforcement-gap-is-theoretical--it-is-not-and-a-senate-chair-says-so--added-25-august-2026)
+- ["Regulation and deployment are enemies" — an industry witness says otherwise](#regulation-and-deployment-are-enemies--an-industry-witness-says-otherwise--added-25-august-2026)
+- ["A patchwork of state laws is the real danger" — the ceiling campaign, from the podium, under examination](#a-patchwork-of-state-laws-is-the-real-danger--the-ceiling-campaign-from-the-podium-under-examination--added-25-august-2026)
+
 ## What we expect reviewers to attack
 
 The project does not assume the proposed definitions are legally sufficient. The central review
@@ -471,7 +494,7 @@ quoted from secondary sources and **have not been read in the reporters**. They 
 list; under E22 none may be described as verified.
 
 
-## "Corporate law already answers this, and it answers in our favour" — added 25 August 2026
+## "Corporate law already answers this, and it answers in our favor" — added 25 August 2026
 
 This is the objection a corporate governance lawyer raises, and until today this file could not
 answer it because it had never named the doctrine. *Caremark*, *Stone v. Ritter*, the business
