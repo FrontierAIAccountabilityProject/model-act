@@ -94,11 +94,14 @@ defaults:
       path: "docs/what_a_case_looks_like.md"
     values: { nav_exclude: false, nav_order: 8, title: "What a case would look like" }
   - scope:
+      path: "docs/which_way_it_moves.md"
+    values: { nav_exclude: false, nav_order: 9, title: "Which way each provision moves" }
+  - scope:
       path: "standards/what_these_words_mean.md"
-    values: { nav_exclude: false, nav_order: 9, title: "The glossary — what these words mean" }
+    values: { nav_exclude: false, nav_order: 10, title: "The glossary — what these words mean" }
   - scope:
       path: "MAP.md"
-    values: { nav_exclude: false, nav_order: 10, title: "Everything — the full index" }
+    values: { nav_exclude: false, nav_order: 11, title: "Everything — the full index" }
   - scope:
       path: "archive"         # superseded versions: reachable by link, never by search
     values:

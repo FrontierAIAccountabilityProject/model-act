@@ -27,7 +27,10 @@ map; the packet is the same journey as one document.
 **Want to see what a prosecution under this Act actually consists of?**
 [What a case would look like](./docs/what_a_case_looks_like.md) walks an invented fact pattern step
 by step against the sections that catch each one — and marks the two places the chain breaks under
-the tagged text.
+the tagged text. Its companion,
+[which way each provision moves](./docs/which_way_it_moves.md), reads the Act by direction instead:
+what leaves and cannot come back, what arrives and starts a clock, what passes through a corporate
+structure without stopping, and the two flows the Act was written to catch and does not.
 
 **Came here looking for a particular word, case, or objection?** Two pages answer that directly.
 [The glossary](./standards/what_these_words_mean.md) defines the terms the Act turns on, in the
