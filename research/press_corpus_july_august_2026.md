@@ -606,3 +606,46 @@ commissioner's declaration is held in the library as
 **Why it is here.** A state AI statute carrying criminal exposure is being tested on constitutional
 grounds, and the outcome will be read across every state AI law including any that adopts this Act.
 It belongs on the standing watch as well as here.
+
+## 5. How little the frontier firms publish, measured
+**Celina Zhao, "AI's top startups are barely publishing their research," *Science* news,
+27 July 2026** (print: *Science*, vol. 393, issue 6810; doi 10.1126/science.z9ifpyw). Read in full
+25 August; the saved page is on the shelf as
+`PRESS_Science_Zhao_AI-unicorns-barely-publishing_2026-07-27.pdf`.
+
+⚠ **Graded as reported.** The article reports a bioRxiv preprint of 16 July 2026 co-authored by
+John Ioannidis. This project has not opened the preprint; every figure below carries that grade
+and nothing here is relied on beyond it.
+
+**The measurement.** 317 unicorn AI companies existing 1998–2025; 2,077 qualifying publications
+(1,389 peer-reviewed, 688 preprints), counting only work where a company researcher was first or
+last author. More than half the firms had never produced one. The top 5% hold more than 90% of the
+citations. OpenAI alone accounts for nearly 40% of them — and, employing roughly 4,500 people, has
+**eight** researchers with five or more qualifying papers. Collectively the unicorns account for
+one AI paper in every thousand published in 2025. Chinese firms published consistently more than
+American ones.
+
+Ioannidis's question, quoted:
+
+> "How can you judge that what they say is real, validated, and reproducible?"
+
+**The other side of it, stated fairly.** Mohamed Abdalla (University of Alberta) tells the paper
+the finding reflects incentives rather than a failure of scientific virtue: *"It's not the
+company's job to advance science, right?"* And Avijit Ghosh (Hugging Face) points out that the
+analysis did not track blogs, technical reports, code, data sets or weights — the "blogification"
+of the field — and that the question worth asking is whether enough is released for others to
+**independently verify and build on** the work. Both objections are sound and neither disturbs the
+finding this corpus takes.
+
+**Why it is here.** Every provision of this Act that touches records, disclosure or third-party
+scrutiny rests on a premise: that what a frontier developer says about its own systems cannot at
+present be independently checked. That premise has usually been argued. Here it is measured, on a
+population defined without reference to this debate, by a metascientist who made his name
+measuring exactly this in biotech. A drafter who wants to know whether the verification problem is
+real now has a number to argue with rather than an assertion.
+
+**And one sentence from the same piece belongs to a different argument.** Emma Pierson (UC
+Berkeley), on whether the race is worth the risk: *"If we were racing forward on cancer-curing AI,
+I would be like, 'Fantastic, full steam ahead,'"* — *"But that's not what we're racing toward,
+right?"* Filed at [known objections](../docs/known_objections.md), acceleration section, beside
+Javorsky.

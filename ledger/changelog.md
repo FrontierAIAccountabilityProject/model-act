@@ -722,3 +722,36 @@ looks like.
 ---
 
 *Corrections to the project contact; they enter [the errata register](./errata.md) with the fix attached and permanent credit.*
+
+### 25 August 2026 — a federal definition worth having, and the verification problem measured
+
+**H.R. 9333 read in full and entered.** The AI Flaw Reporting and Security Enhancement Act (Ross,
+Hurd of Colorado, Beyer; introduced 18 June 2026; ordered reported 35–0 on 25 June) joins
+[the census](../standards/frontier_bill_census.md) and
+[the reporting page](../standards/who_has_to_tell_you.md), which now brackets the disclosure
+question with three federal instruments rather than two. The GPO print's font encoding defeats
+text extraction, so it was OCR'd and every quotation cross-checked against the govinfo bulk XML;
+the artefacts corrected are named in the library reading note rather than hidden.
+
+The find is § 2(e)(2): *"artificial intelligence flaw"* means conditions or behaviours allowing a
+policy violation *"and which is not dependent on the presence of malicious intent or related
+harm."* A federal statutory definition in which reportability turns on what the condition is —
+carried unanimously out of committee — and the answer to the evidentiary problem
+[§ 4a](../standards/who_has_to_tell_you.md) has been circling since it was written. **And the
+census's finding holds in a new register:** the Act builds the national database and places the
+duty to file into it on nobody.
+
+**FLARE-AI read**, the reference implementation the field is building for that flow (Longpre, Zhu,
+Ezell & Ghosh et al., arXiv:2606.31567, ICML 2026), with CERT, MITRE, AIID, Hugging Face, OECD and
+several developers, after consulting 49 experts across 32 organisations. Its authors call flaw
+reporting for AI *"decades behind"* software, and state their own limit: FLARE-AI is *"an ecosystem
+coordination tool rather than a compliance reporting tool."* The infrastructure and the duty are
+complements, and the people building the first say so.
+
+**The verification premise, measured.** *Science*, 27 July: of 317 AI unicorns, more than half have
+never published a paper on which one of their own researchers was first or last author; the top 5%
+of firms hold over 90% of the citations; OpenAI, at roughly 4,500 staff, has eight researchers with
+five or more. Entered at [the press corpus](../research/press_corpus_july_august_2026.md) § 5, ⚠
+graded as reported from a preprint this project has not opened. And Emma Pierson's answer to the
+acceleration objection — the race is not toward the capability the objection invokes — joins
+Javorsky at [known objections](../docs/known_objections.md).

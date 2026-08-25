@@ -237,11 +237,12 @@ sequence is not a legal finding, and the temptation to treat it as one is exactl
 
 ---
 
-## 4b. Two federal instruments read in full — the first statutes this file can actually cite
+## 4b. Three federal instruments read in full — the first statutes this file can actually cite
 
-*Added 23 August. §§ 1–4's caveat stands: no breach-notification statute has been read and the
-queue in § 5 is undischarged. These two instruments are adjacent law, read in full, and they
-bracket the disclosure question from both sides.*
+*Added 23 August; a third instrument added 25 August. §§ 1–4's caveat stands: no
+breach-notification statute has been read and the queue in § 5 is undischarged. These
+instruments are adjacent law, read in full, and they bracket the disclosure question from
+every side but the one this Act occupies.*
 
 **The clock that already exists — for pathogens.** 42 C.F.R. § 73.19 (read in full at the eCFR,
 23 Aug): upon discovery of a *release* of a select agent causing occupational exposure, the entity
@@ -267,6 +268,50 @@ is outside it**, as he is outside every framework in [the census](./frontier_bil
 its § 2(2)(B) quietly presupposes this project's premise: reporting a *failure to respond* can
 only be protected conduct if responding is somebody's obligation. Congress's bipartisan draft
 assumes the duty this Act writes down.
+
+**And the receiving end, drafted and reported without a dissenting vote.** H.R. 9333, the AI Flaw
+Reporting and Security Enhancement Act (Ross, with Hurd of Colorado and Beyer; introduced 18 June
+2026; ordered reported by Science, Space, and Technology **35–0** on 25 June 2026; introduced print
+read in full, 25 Aug, OCR cross-checked against the govinfo XML). NIST, in consultation with CISA,
+is to run a programme supporting *"the voluntary reporting, collection, and tracking of artificial
+intelligence flaws"* and to build *"a national database of artificial intelligence flaws or the
+modification of an existing national database."*
+
+**Two findings, and they pull in opposite directions.**
+
+**The first is a gift to this Act.** § 2(e)(2) defines the reportable thing:
+
+> The term "artificial intelligence flaw" means a set of conditions or behaviors that allow the
+> violation of an explicit or implicit policy related to the safety, security, or other
+> undesirable effects from use of an artificial intelligence system, including artificial
+> intelligence vulnerabilities and artificial intelligence incidents, **and which is not dependent
+> on the presence of malicious intent or related harm.**
+
+That is a federal statutory definition in which reportability turns on **what the condition is**,
+not on whether anyone meant it or anyone has yet been hurt — and it cleared committee unanimously.
+§ 2's own § 4a problem, that evidence of harm is a thing a developer can arrange not to have, is
+answered in the definition Congress is already prepared to adopt.
+
+**The second is § 4a again.** Every duty in H.R. 9333 falls on the Director of NIST. The Act
+builds the place where a report would go and places **no obligation on anyone to send one**. The
+word test returns nil for *officer*, *certify*, *attest*, *signature* and *penalty*; *voluntary*
+appears in the long title, in (a), in (c)(1) and in (d)(3).
+
+**So the three instruments now bracket the question exactly.** For pathogens, a mandatory clock
+with a form. For AI, a protection for those who choose to speak, and a database for what they
+choose to send. **Nobody is required to speak.** *(Row and quotations at
+[the census](./frontier_bill_census.md); reading note at
+`library/NOTES_Reading_HR9333-FLARE-Science_2026-08-25.md`.)*
+
+**A note on how the field itself sees this, from outside law.** The reference implementation for
+the reporting flow H.R. 9333 anticipates is FLARE-AI (Longpre, Zhu, Ezell & Ghosh et al.,
+arXiv:2606.31567, ICML 2026; read 25 Aug), built with CERT, MITRE, AIID, Hugging Face, OECD and
+several developers after consulting *"49 experts across 32 organizations."* Its own assessment of
+the field is blunt — *"Flaw reporting for AI is not working at present"* and *"Compared to
+vulnerability reporting for software systems, flaw reporting for AI is decades behind"* — and its
+authors state the limit plainly: FLARE-AI is *"an ecosystem coordination tool rather than a
+compliance reporting tool."* **The infrastructure and the duty are complements. The people
+building the first say so.**
 
 ## 5. What is owed before any of this is used
 

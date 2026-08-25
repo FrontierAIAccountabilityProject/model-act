@@ -358,6 +358,32 @@ page leans on her further than those findings support should say so, and the dis
 published.
 
 
+**A second voice, from computer science rather than medicine — added 25 August.** *Science* put
+the acceleration question to Emma Pierson, a computer scientist at the University of California,
+Berkeley, in reporting on how little AI's largest private firms publish (Celina Zhao, *Science*,
+27 July 2026). Her answer separates the two halves of the objection in one sentence:
+
+> "If we were racing forward on cancer-curing AI, I would be like, 'Fantastic, full steam ahead,'"
+> … "But that's not what we're racing toward, right?"
+
+**Why that sentence does work Javorsky's essay does not.** Javorsky's finding is that the
+acceleration claim is overstated on its own terms — the constraint is not intelligence. Pierson's
+is narrower and harder to answer: **even granting the claim, the capability actually being raced
+toward is not the one the objection invokes.** She names the cyber case specifically. The two
+findings are independent, reached in different disciplines, and neither author has been asked
+about this Act or is claimed as a supporter.
+
+**And the article supplies the measurement behind both.** The study it reports — a bioRxiv
+preprint of 16 July 2026, co-authored by John Ioannidis — examined 317 unicorn AI companies from
+1998 to 2025 and found that more than half had never produced a paper on which one of their own
+researchers was first or last author; that the top 5% of firms hold more than 90% of the
+citations; and that OpenAI, employing roughly 4,500 people, had **eight** researchers with five or
+more qualifying papers. Ioannidis's question is the one this Act's disclosure provisions exist to
+make answerable: *"How can you judge that what they say is real, validated, and reproducible?"*
+
+⚠ **Graded as reported.** These figures come from *Science*'s account of a preprint. This project
+has not opened the preprint, and no figure above is relied on beyond that grade.
+
 ## "The states have already legislated, so this is redundant" — added 25 August 2026
 
 The objection has force: California, New York and Illinois have enacted frontier AI statutes, and a

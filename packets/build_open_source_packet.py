@@ -89,12 +89,52 @@ and leveraged a vulnerability in the UK AI Security Institute's evaluation envir
 cyber evaluation" — the same failure mode as the closed-model incidents, in the population the
 federal review framework excludes by design.
 
-Two consequences for this seat. It answers, at least once, the objection that open-weight systems
-are not yet capable of the conduct this Act's security duties describe. And it sharpens question 2
-below: if a national safety institute's evaluation environment can be broken by a released model,
-the question of who can measure a threshold from outside a lab is not academic. The counter this
-seat should also weigh: one incident against a national institute is thin evidence for a criminal
-statute's scope, and a reviewer who thinks the record is being stretched should say so.
+**Read the threshold before reading the incident, because it changes what the datapoint is
+evidence of.** Kimi K3's training compute is estimated at 2.0 x 10^25 operations
+([the model table](../research/frontier_models.md)), which is **below this Act's [10^26] line**.
+Under the statute as drafted, Moonshot is not a covered developer and no officer of it owes
+anything. **This packet is therefore not citing the incident as a reason to reach open-weight
+developers, and the project does not want that outcome.**
+
+Three consequences for this seat. It answers, at least once, the objection that open-weight
+systems are not yet capable of the conduct this Act's security duties describe, which is a claim
+about capability and not about who should be liable for it. It sharpens question 2 below: if a
+national safety institute's evaluation environment can be broken by a released model, the question
+of who can measure a threshold from outside a lab is not academic. And it puts a hard question to
+the drafters rather than to open source: **a threshold that excludes the one released model in the
+record known to have broken an evaluator is either correctly calibrated or badly calibrated, and
+this seat is the right place to say which.** The counter this seat should also weigh: one incident
+against a national institute is thin evidence for anything, and a reviewer who thinks the record
+is being stretched should say so.
+
+### And a second arrival, 25 August: the federal definition, and how little gets published
+
+Two intakes bear on this seat, and they pull against each other.
+
+**H.R. 9333**, the AI Flaw Reporting and Security Enhancement Act (Ross, Hurd of Colorado, Beyer;
+introduced 18 June 2026; ordered reported 35-0 on 25 June) has NIST build "a national database of
+artificial intelligence flaws" and defines the reportable thing at SEC. 2(e)(2) as conditions or
+behaviours allowing a policy violation "and which is not dependent on the presence of malicious
+intent or related harm." That definition is better than ours in one respect this seat should test:
+it does not care who caused the flaw. For an open release, where the releaser cannot know what a
+downstream party will do, a harm-independent and intent-independent definition of the reportable
+condition may be the only workable one. Every duty in H.R. 9333 falls on the Director of NIST, and
+nobody is required to file anything.
+
+**FLARE-AI** (Longpre, Zhu, Ezell and Ghosh et al., arXiv:2606.31567, ICML 2026) is the reference
+implementation for that flow, built with CERT, MITRE, AIID, Hugging Face, OECD, OpenAI, Anthropic
+and Google after consulting 49 experts across 32 organisations. Its authors state its limit
+themselves: it is "an ecosystem coordination tool rather than a compliance reporting tool." A
+reviewer in this seat is entitled to ask whether a criminal reporting duty can sit on top of
+voluntary infrastructure without breaking it.
+
+**And the measurement that cuts the other way.** *Science*, 27 July 2026, reporting a bioRxiv
+preprint: of 317 AI unicorns from 1998 to 2025, more than half have never published a paper on
+which one of their own researchers was first or last author, and the top 5% of firms hold more
+than 90% of the citations. If the case for open weights is that openness makes claims checkable,
+the same measurement is the case against trusting the closed side's self-reports. This seat can
+use it either way, and should say which. Graded as reported: the preprint itself has not been
+opened by this project.
 
 ## IV. The question menu
 
@@ -115,6 +155,9 @@ are the seat done whole. Replace any with findings of your own.
    live case)?
 6. The academic half of the seat: what does the statute owe the research exemption, and does
    any current text distinguish a university fine-tune from a commercial one, and should it?
+7. Should SEC. 9's reportable condition be redrafted onto H.R. 9333's definition, which is
+   independent of malicious intent and of realised harm, and what does that do to an open
+   releaser who cannot observe downstream use?
 
 ## The other seats, and how this lane meets them
 

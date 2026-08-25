@@ -902,6 +902,44 @@ opened)*:
   Liebman, 61 Wake Forest L. Rev. 115 (2026). Rows on these enter when the remaining texts are
   opened; [CURE 19](../audit/v3_5_cure_language.md) carries the drafting consequence.
 
+**Done 25 August, from the day's intake:**
+
+- [x] **Federal — H.R. 9333** — done, 25 Aug, ✅ **primary read in full, all seven pages**
+  (GPO introduced print on [the shelf](../research/verification_record.md); the print's font
+  encoding defeats text extraction, so it was OCR'd at 300 dpi and every quotation below was
+  **cross-checked against the govinfo bulk XML**). The **AI Flaw Reporting and Security
+  Enhancement Act** — Ross, with Hurd of Colorado and Beyer; bipartisan; introduced 18 June 2026;
+  Science, Space, and Technology; **ordered reported 35–0 on 25 June 2026**. NIST, consulting CISA,
+  runs a programme supporting *"the voluntary reporting, collection, and tracking of artificial
+  intelligence flaws"*, convenes a multi-stakeholder process to define nine terms
+  (vulnerabilities, failure modes, accidents, failures, hazards, catastrophes, misuse, incidents,
+  adverse events), and builds *"a national database of artificial intelligence flaws or the
+  modification of an existing national database"*. **Every duty in the Act falls on the Director
+  of NIST.** The word test returns nil for *officer*, *director*, *executive*, *certify*,
+  *attest*, *signature*, *criminal*, *misdemeanor*, *felony* and *penalty*; *voluntary* appears in
+  the long title, in (a), in (c)(1) and in (d)(3).
+
+  **The row's find is the definition at § 2(e)(2)**, and it is the most useful sentence any
+  federal vehicle has given this project:
+
+  > (2) ARTIFICIAL INTELLIGENCE FLAW.—The term "artificial intelligence flaw" means a set of
+  > conditions or behaviors that allow the violation of an explicit or implicit policy related to
+  > the safety, security, or other undesirable effects from use of an artificial intelligence
+  > system, including artificial intelligence vulnerabilities and artificial intelligence
+  > incidents, **and which is not dependent on the presence of malicious intent or related harm.**
+
+  A federal statutory definition of *flaw* that is expressly independent of both intent and harm,
+  reported out of committee without a dissenting vote. That is the architecture SEC. 9 of this Act
+  needs — a thing is reportable because of what it is, not because someone meant it or someone
+  has been hurt yet. The drafting consequence is carried at
+  [the reporting duty](./who_has_to_tell_you.md) and at
+  [CURE 17/18](../audit/v3_5_cure_language.md).
+
+  **And the census's finding survives in a new register.** H.R. 9333 builds the receiving end that
+  a reporting duty presupposes — the database — and creates no duty on anyone to file into it.
+  Infrastructure, unanimously; the person, not at all. *(Reading note with every quotation and the
+  OCR artefacts named: `library/NOTES_Reading_HR9333-FLARE-Science_2026-08-25.md`.)*
+
 **Then the rest, by state.** ⚠ *Counts below are the tracker's and are known to be unreliable:
 California and Illinois each had a bill listed twice, New York's list showed seven bills under a
 count of eight, and the federal row named six numbers under a count of five.*
