@@ -486,17 +486,38 @@ move that case forbids at the felony tier**, and
 [CURE 22](../audit/v3_5_cure_language.md) is the repair.
 
 The answer comes from the same line of cases rather than from us. *United States v. Iverson*,
-162 F.3d 1015, 1026 (9th Cir. 1998): the responsible-officer instruction "relieved the government
-only of having to prove that defendant personally discharged or caused the discharge of a
-pollutant. The government still had to prove . . . that defendant knew." **Responsibility replaces
-the act element. It does not replace the knowledge element.** That is the architecture, and a
-circuit has already upheld it.
+162 F.3d 1015 (9th Cir. 1998) — ✅ **read in the opinion 25 August 2026**:
 
-⚠ **Read-status, partly paid 25 August 2026.** The two *MacDonald & Watson* sentences quoted above
-were read in the opinion and are verbatim. **Their page numbers were not**: the source carries no
-star pagination, so "at 55" is still the CRS pincite and not a verified one. *Iverson*,
-*Bank of New England* and the CRS passages remain **unread in the reporters** and are on the
-retrieval list; under E22 none of those may be described as verified.
+> "Read together with the previous instruction, the 'responsible corporate officer' instruction
+> relieved the government only of having to prove that defendant personally discharged or caused the
+> discharge of a pollutant. The government still had to prove that the discharges violated the law
+> and that defendant knew that the discharges were pollutants. Thus, read as a whole, the
+> instructions were not erroneous in the manner that defendant asserts."
+
+**Responsibility replaces the act element. It does not replace the knowledge element.** That is the
+architecture, and a circuit has already upheld it.
+
+**And the test *Iverson* states is broader than the one this Act writes**, which is worth knowing
+before anyone argues SEC. 4 sweeps too widely:
+
+> "Under the CWA, a person is a 'responsible corporate officer' if the person has authority to
+> exercise control over the corporation's activity that is causing the discharges. There is no
+> requirement that the officer in fact exercise such authority or that the corporation expressly vest
+> a duty in the officer to oversee the activity."
+
+SEC. 4(a) agrees with both of those negatives and then narrows: the authority must be **final**,
+**material** and **independent**, and the subsection excludes title, credentials, technical ability,
+access, ministerial execution and the giving of advice by name. **A person who is a responsible
+corporate officer under the standard the Ninth Circuit approved may well not be a controlling person
+under this Act.** The Act is the narrower instrument, and that has never been said on this page.
+
+⚠ **Read-status, 25 August 2026.** The *MacDonald & Watson* sentences and all three *Iverson*
+passages above were read in the opinions and are transcribed character for character. **Their page
+numbers were not read**: the source carries no star pagination, so "at 55" and "at 1026" remain the
+secondary sources' pincites and are not verified ([E47](../ledger/errata.md)). *Bank of New England*
+and the CRS passages are still **unread in the reporters** and are on the retrieval list; under E22
+neither may be described as verified. **The *Iverson* quotation on this page was wrong until today**
+— see [E48](../ledger/errata.md).
 
 
 ## "She relied on her safety team" — the defense the Act has not answered — added 25 August 2026

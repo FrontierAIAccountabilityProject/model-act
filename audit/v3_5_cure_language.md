@@ -1809,13 +1809,21 @@ may not reach it through SEC. 6(d).
 
 *United States v. Iverson*, 162 F.3d 1015 (9th Cir. 1998) is a Clean Water Act prosecution in which
 the responsible-corporate-officer instruction was given and upheld. The court described exactly what
-the instruction did and did not do, at 1026:
+the instruction did and did not do — ✅ **read in the opinion 25 August 2026, transcribed
+character for character**:
 
-> "[T]he 'responsible corporate officer' instruction relieved the government only of having to prove
-> that defendant personally discharged or caused the discharge of a pollutant. The government still
-> had to prove that the discharges violated the [CWA] and that defendant knew that the discharges
-> were pol[lutants]."
+> "Read together with the previous instruction, the 'responsible corporate officer' instruction
+> relieved the government only of having to prove that defendant personally discharged or caused the
+> discharge of a pollutant. The government still had to prove that the discharges violated the law
+> and that defendant knew that the discharges were pollutants. Thus, read as a whole, the
+> instructions were not erroneous in the manner that defendant asserts."
 
+**Two words in the version this project published until today were not the court's.** We printed
+"violated the **[CWA]**" where the opinion says "violated the **law**", and "were **pol[lutants]**"
+where it says "were **pollutants**" — editorial brackets that were never in the original and, in the
+first case, narrowed a general word into a specific statute. See [E48](../ledger/errata.md). The
+pincite 1026 is still the secondary source's: the text was read in a source carrying no star
+pagination, so under [E47](../ledger/errata.md) the page is unconfirmed.
 **That is the whole architecture in one sentence, and it is the architecture this cure proposes.**
 Responsible-officer status replaces the **act** element. It does not replace the **knowledge**
 element. MacDonald & Watson and *Iverson* are not in tension: the first forbids using responsibility
@@ -1826,16 +1834,79 @@ So SEC. 6(b)(1) may keep its felony tier and its "knowingly or wilfully," provid
 proves knowledge by ordinary means — including the willful blindness route Congress codified. What
 it may not do is reach knowledge through SEC. 6(d).
 
-**And *Iverson* carries a second holding this project has never used.** At 1024, on why *Park*'s
-refinement applies to the CWA at all: "In 1987, after the Supreme Court decided Park, Congress
-revised and replaced the criminal provisions of the CWA. . . . Congress made no changes to its
-'responsible corporate officer' provision. That being so, we can presume that Congress intended for
-Park's refinement of the 'responsible corporate officer' doctrine to apply." **A legislature that
-re-enacts around a doctrine adopts it.** That is an argument available to any state adopting this
-Act on top of a framework statute it has already passed.
+**And *Iverson* carries a second holding this project has never used.** On why *Park*'s refinement
+applies to the CWA at all — ✅ **read in the opinion 25 August 2026, the paragraph entire**:
 
-⚠ Both passages quoted from Lyness, 64 B.C. L. Rev. 253, nn.117–118, not from the reporter. Unread,
-on the retrieval list, and not to be described as verified.
+> "In 1987, after the Supreme Court decided Park, Congress revised and replaced the criminal
+> provisions of the CWA. (Most importantly, Congress made a violation of the CWA a felony, rather
+> than a misdemeanor.) In replacing the criminal provisions of the CWA, Congress made no changes to
+> its 'responsible corporate officer' provision. That being so, we can presume that Congress intended
+> for Park's refinement of the 'responsible corporate officer' doctrine to apply under the CWA."
+
+**A legislature that re-enacts around a doctrine adopts it.** That is an argument available to any
+state adopting this Act on top of a framework statute it has already passed.
+
+**The parenthetical is the part this project needed and did not have.** Our published version cut the
+paragraph off before it and dropped the closing "under the CWA" without an ellipsis. Restored, the
+paragraph says something the criminal lane has been arguing around all day: **the Ninth Circuit
+applied *Park*'s responsible-officer refinement to a statute it had just told us Congress made a
+felony.** *Ahmad*, below, says CWA discharges cannot be public welfare offenses precisely *because*
+they are "felonies punishable by years in federal prison." *Iverson* supplies the premise of
+*Ahmad*'s argument in a parenthetical and then declines its conclusion.
+
+**Those two are not squarely reconcilable and neither case tries.** The reconciliation this cure
+offers — that RCO relieves the act element while knowledge is proved by ordinary means — is
+available on both sets of facts, and it is *our* reconciliation, not a court's. **A reviewer who
+thinks a felony tier cannot rest on a doctrine grown in the misdemeanour soil of *Dotterweich* has
+the two cases lined up to say so.**
+
+⚠ The pincites 1024 and 1023–24 are still the secondary source's; the source read carries no star
+pagination ([E47](../ledger/errata.md)). Lyness, 64 B.C. L. Rev. 253, remains unread in the original.
+
+### Operation 3 — the instruction a circuit has already approved, which the Act should be measured against
+
+*Iverson* sets out the responsible-corporate-officer instruction the district court gave and the
+Ninth Circuit upheld. ✅ **Read in the opinion 25 August 2026:**
+
+> "1. That the defendant had knowledge of the fact that pollutants were being discharged to the sewer
+> system by employees of CH2O, Inc.; 2. That the defendant had the authority and capacity to prevent
+> the discharge of pollutants to the sewer system; and 3. That the defendant failed to prevent the
+> on-going discharge of pollutants to the sewer system."
+
+**Knowledge of the fact. Authority and capacity to prevent. Failure to prevent.** That is a
+three-element structure, approved on appeal in a federal criminal prosecution, and it is very close
+to what [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) reconstructs SEC. 6
+into. **Element 1 is knowledge of the fact, not knowledge of illegality** — which is also the answer
+to *Johnson & Towers*'s outlier requirement that the defendant know a permit was required.
+
+**And the test behind the instruction is narrower in the Act than in the circuit.** *Iverson* states
+it directly:
+
+> "Under the CWA, a person is a 'responsible corporate officer' if the person has authority to
+> exercise control over the corporation's activity that is causing the discharges. There is no
+> requirement that the officer in fact exercise such authority or that the corporation expressly vest
+> a duty in the officer to oversee the activity."
+
+Set that beside SEC. 4(a). The Act agrees on both of *Iverson*'s negatives — it reaches a person who
+"possesses **or** exercises" the authority, and SEC. 4(b) provides that "substance controls over
+title" — but it then adds three qualifiers the federal test does not have. Authority must be
+**final**, **material** and **independent**, and SEC. 4(a) excludes by name "title, office, seniority,
+or status; professional credentials or technical ability; access to systems, weights, or
+infrastructure; the ministerial execution... of a decision made by another; or the provision of
+advice, analysis, or recommendation."
+
+**So on the authority element this Act is narrower than the standard a federal court of appeals has
+already approved in a criminal case.** That is an answer to the overbreadth objection the project did
+not previously have, and it should be stated wherever SEC. 4 is defended.
+
+**One drafting collision, and it is a word rather than a doctrine.** The approved instruction's
+element 2 is "the authority **and capacity** to prevent." SEC. 4(a) closes with "the authority to
+decide, **not the capacity to act**." The two senses differ — the instruction means power over the
+outcome, the Act means the ability to perform the operation personally, which is how it keeps the
+engineer with root access outside SEC. 4 — but the same word does opposite work in the Act and in
+the instruction it most resembles, and SEC. 6(d)'s "genuine absence of power" is *Iverson*'s sense,
+not SEC. 4(a)'s. **A legislative counsel will circle this. It costs nothing to fix and it has not
+been fixed.**
 
 ### The best objection, stated because this cure would rather lose here than in a hearing
 

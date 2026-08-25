@@ -1510,3 +1510,60 @@ which read as a correction and therefore as evidence of careful reading. **A rep
 not evidence of retrieval.** It is the single most persuasive form an invention can take, because
 agreeing with what you already hold is what a lazy answer looks like — so disagreement gets trusted
 by default. Ask what the page marker looked like, in its own characters, before believing a page.
+
+## E48 — a published quotation with two words the court did not write, and both were ours
+
+**Status: found and corrected the same day, by reading the opinion.**
+
+**What we published.** *United States v. Iverson*, 162 F.3d 1015 (9th Cir. 1998), in CURE 22 and in
+the criminal packet, as a block quotation:
+
+> "The government still had to prove that the discharges violated the **[CWA]** and that defendant
+> knew that the discharges were **pol[lutants]**."
+
+**What the opinion says:**
+
+> "The government still had to prove that the discharges violated the **law** and that defendant knew
+> that the discharges were **pollutants**."
+
+**Two alterations, and they are different in kind.** "pol[lutants]" is nonsense — a bracket around
+nothing, of the sort produced when a passage is reassembled rather than transcribed. "[CWA]" is
+worse: the court wrote a general word, **the law**, and the published version replaced it with a
+specific statute. Square brackets are a promise that the substitution is the editor's and is
+faithful. Here they narrowed the court's language and then advertised the narrowing as an editorial
+courtesy.
+
+**Nothing in the argument turns on either word**, and that is precisely why it went unnoticed
+through the sweep, the cure, the packet build and two rounds of review. **A quotation that supports
+your point is not checked for the words that do not.**
+
+### Two more defects in the same passage, found by the same read
+
+**The *Park* ratification paragraph was cut before its most useful sentence.** We published the
+paragraph as ending "...to apply." The opinion ends it "...to apply **under the CWA**," and, earlier
+in the same paragraph, carries a parenthetical we had elided entirely: "(Most importantly, Congress
+made a violation of the CWA a felony, rather than a misdemeanor.)"
+
+**That parenthetical is the bridge to the objection the criminal lane most fears.** *Ahmad* argues
+CWA discharges cannot be public welfare offenses *because* they are felonies. *Iverson* states the
+felony grade in a parenthetical and applies *Park*'s responsible-officer refinement anyway. The
+project had both cases and could not see they touched, because the sentence joining them had been
+cut out of our own copy.
+
+**And the whole of *Iverson*'s stated test was missing.** "[A] person is a 'responsible corporate
+officer' if the person has authority to exercise control over the corporation's activity that is
+causing the discharges. There is no requirement that the officer in fact exercise such authority or
+that the corporation expressly vest a duty in the officer to oversee the activity." Read against
+SEC. 4(a), **this Act is narrower than the federal standard a circuit approved** — an answer to the
+overbreadth objection that was sitting inside a case we had cited eleven times and never read.
+
+### The rule
+
+**E48 — an elision is an edit. What a quotation leaves out is published too.**
+
+E22 asks whether the words in the quotation marks are the court's. It does not ask what stood either
+side of them. Every passage carried at second hand in this repository has been through someone
+else's choice about where to stop, and that choice was made for their argument, not ours. **When a
+quotation is finally read in the source, read the paragraph around it**: in this instance the
+sentence before the quotation and the clause after it were each worth more to this project than the
+quotation itself.

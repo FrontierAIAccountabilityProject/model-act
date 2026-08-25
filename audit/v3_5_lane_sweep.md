@@ -402,10 +402,11 @@ drafted works at the misdemeanor tier and fails silently at the felony tier, and
 there was a case on the point.
 
 **The repair is [CURE 22](./v3_5_cure_language.md), and the answer comes from the same line rather
-than from us.** *United States v. Iverson*, 162 F.3d 1015, 1026 (9th Cir. 1998): the
-responsible-officer instruction "relieved the government only of having to prove that defendant
-personally discharged or caused the discharge of a pollutant. The government still had to prove . . .
-that defendant knew." Responsibility replaces the act element, not the knowledge element.
+than from us.** *United States v. Iverson*, 162 F.3d 1015 (9th Cir. 1998) — ✅ read in the opinion
+25 August 2026, pincite unconfirmed: the responsible-officer instruction "relieved the government
+only of having to prove that defendant personally discharged or caused the discharge of a pollutant.
+The government still had to prove that the discharges violated the law and that defendant knew that
+the discharges were pollutants." Responsibility replaces the act element, not the knowledge element.
 
 **And the objection this lane most needs is now on the shelf too.** *United States v. Ahmad*,
 101 F.3d 386, 391 (5th Cir. 1996) holds that CWA discharges are **not** public welfare offenses,
