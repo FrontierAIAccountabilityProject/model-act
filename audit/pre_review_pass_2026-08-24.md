@@ -177,7 +177,45 @@ Act and buys the § 1350 analogy outright. **It also abandons the negligence flo
 The choice is between a defensible analogy and a defensible doctrine, and it belongs to the
 criminal-law seat.
 
-**Administrative load:** none. One sentence in SEC. 8, or one clause in SEC. 6(a).
+### Amended the same day — there is a third answer, and it is better than both
+
+*Added on reading 33 U.S.C. § 1319(c)(1)–(2) and (c)(6) in the primary, later on 25 August 2026.*
+
+**The premise above is too narrow. § 1350 is not the Act's only federal model, and the other one
+reaches exactly where SEC. 6(a) reaches.**
+
+> **§ 1319(c)(1):** any person who "**negligently** violates" — imprisonment **not more than one
+> year** on a first conviction.
+>
+> **§ 1319(c)(6):** "For the purpose of this subsection, the term 'person' means, in addition to the
+> definition contained in section 1362(5) of this title, **any responsible corporate officer**."
+
+(c)(6) governs the whole of subsection (c), so it governs (c)(1). **Federal law therefore imposes
+criminal liability on a responsible corporate officer for a merely negligent violation, at the
+misdemeanor level, and has since 1987.** *United States v. Hanousek*, 176 F.3d 1116, 1120–21 (9th
+Cir. 1999) holds that ordinary negligence suffices. ⚠ *Hanousek* is still unread in the reporter.
+
+**That is SEC. 6(a), limb for limb**: a responsible officer, a failure of care rather than
+knowledge, and a one-year misdemeanor ceiling at SEC. 10(b).
+
+**So the repair is a citation, not an amendment.** SEC. 8's first limb is § 1350-shaped and says so;
+its second limb is § 1319(c)(1)-shaped and says nothing. The Act names one model and takes two.
+Raising SEC. 6(a) to recklessness would abandon a floor federal law has held for four decades in
+order to fit a statute that was never its donor.
+
+**And it takes the sting out of *Ahmad*.** *Ahmad* refuses public-welfare treatment to CWA discharges
+because they are "felonies punishable by years in federal prison." **§ 1319(c)(1) is a misdemeanor.**
+Whatever *Ahmad* does to a felony tier, it does not reach a one-year negligence offense, which makes
+SEC. 6(a) the least vulnerable part of the whole federal analogy rather than the most.
+
+**The irony worth recording.** This repository already held *Hanousek* — as an **objection**, in the
+criminal lane, beside *Ahmad*, for Justice Thomas's complaint that the CWA reaches "persons using
+standard equipment to engage in a broad range of ordinary industrial and commercial activities."
+**The same provision Thomas criticises is the precedent SEC. 6(a) needed.** We had the answer filed
+under attacks.
+
+**Administrative load:** none. One sentence in SEC. 8, or one clause in SEC. 6(a); on the amended
+reading, a citation added to the companion and nothing in the tagged text at all.
 
 ## PF-8 · CURE candidate — SEC. 10(d) cites two FDCA remedies and takes the protections of neither
 
