@@ -157,6 +157,66 @@ post or a sponsor package until a human has read the enrolled text.
 
 ## The worked example — what a completed row looks like
 
+### CONNECTICUT — SB 2 (2025) — the predecessor, and why it is not in this census
+
+**Status:** substitute bill, January Session 2025 · **Read in full:** 25 August 2026 ·
+**Source:** the R04 substitute text, held in the working library
+
+**It is not a frontier bill, and the word test settles it.** *Frontier* — **zero occurrences.**
+*Signature* zero, *natural person* zero, *knowingly* zero, *willful* zero, *indemnification* zero,
+*whistleblower* zero, *penalty* zero. The single hit for *criminal* is a compliance carve-out for
+responding to "a civil, criminal or regulatory inquiry," and the single hit for *personally* is
+"personally identifying information."
+
+**Its thirteen references to an *officer* are all to officers of the State** — the Chief Data
+Officer, the Chief Information Officer, the chief executive officer of Connecticut Innovations. Not
+one is an officer of a regulated developer.
+
+So SB 2 is a general artificial-intelligence act — consequential decisions, state-agency governance,
+workforce provisions — and it belongs outside a census of frontier bills. **This entry exists so
+that its absence is a recorded decision rather than an oversight**, and because it is the only
+document in the working library the repository had never once mentioned before today.
+
+**What it is good for is the arc.** Connecticut tried broad in 2025 and enacted narrow in 2026: SB 5
+became Public Act 26-15, and *frontier* appears in it twenty-nine times. **Broad AI act attempted,
+frontier-specific act passed** — which is a data point for anyone arguing about the right scope of a
+first instrument.
+
+---
+
+### CONNECTICUT — the officer provision, read closely — added 25 August 2026
+
+*This census already records that Connecticut is one of two enactments naming officers and
+directors in operative text, "both as recipients of a quarterly report, no duty attaching to
+either." Having now read the provision in full, that row understates what is there.*
+
+**Public Act 26-15 § (c)(2)(A):** each covered-employee report on catastrophic risk, and each update
+to it, "shall be shared with **the officers and directors of the large frontier developer at least
+quarterly**."
+
+**And subparagraph (B):** "If a covered employee has alleged wrongdoing by an officer or director of
+the large frontier developer in a report... neither such report nor any reasonable update... **shall
+be shared with such officer or director**."
+
+**Read those two together and Connecticut has legislated the exact moment this Act is about.** A
+warning about catastrophic risk travels, by statute, on a quarterly cadence, to a named officer. The
+legislature thought hard enough about that arrival to write a carve-out for the case where the
+officer is the subject of the complaint — which is a considered judgment about officers receiving
+warnings.
+
+**And then nothing follows.** No duty attaches on receipt. No obligation to inquire, to act, to halt,
+or to record what was done. The officer is a recipient and remains one.
+
+**This is the strongest single fact in the census for this project's central claim**, and it is
+stronger than "no state reaches an officer." It is that a state legislature has already routed the
+warning to the officer's desk on a schedule, thought about who should not receive it, and stopped at
+the delivery.
+
+*⚠ Read from the enacted chapter text held in the library. The quarterly-sharing and wrongdoing
+provisions were read in full on 25 August 2026; the surrounding subsection numbering is as printed
+in Public Act No. 26-15.*
+
+
 ### ILLINOIS — SB 3261 — Artificial Intelligence Public Safety and Child Protection Transparency Act
 
 **Status:** introduced, pending · **Session:** 104th General Assembly, 2025–26 · **Introduced:**
