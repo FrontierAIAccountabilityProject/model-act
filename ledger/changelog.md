@@ -3,6 +3,66 @@
 
 ## Part II — The changelog
 
+**Between versions — 25 August 2026, eighth batch: a letter became a subpoena, and then the
+subpoena itself arrived.** No change to any tagged text. *This entry was first written from the
+press release and rewritten the same day from the instrument.*
+
+On **24 August 2026** the Attorney General of Alabama issued a subpoena to OpenAI over the July
+evaluation escape, and the statute he reached for is the **Alabama Deceptive Trade Practices Act**.
+Marshall was one of the fifteen attorneys general who signed the 3 August preservation demand this
+repository already records, so this is the same office moving from asking a company to preserve to
+compelling it to produce, **twenty-one days apart, over the same evaluation run**.
+
+*The distinction this project exists to make, made.* The release is headed *"Investigation Into
+OpenAI and Sam Altman"* and its operative sentence announces a subpoena "demanding that OpenAI, led
+by Sam Altman, respond". **On what is public, that is a subpoena to the corporation and not to the
+officer**, and [the enforcement record](../research/state_enforcement_record_2026.md) § 7 says so in
+terms, contrasting it with Florida, which sued "Samuel Altman personally" and pleaded that he
+personally directed the safety policies. Getting that difference wrong would have been
+self-inflicted damage to the one argument this repository is making.
+
+*Two sentences in the argument were overtaken and are now dated rather than quietly repaired.*
+[The case](../docs/the_case.md) said in two places that a letter is not yet a subpoena. Both were
+true when written. Both now carry what happened on 24 August, with the date, beside the original
+sentence.
+
+*And the ceiling campaign gets its answer from an unexpected direction.*
+[Known objections](../docs/known_objections.md) gains Marshall's own words under the patchwork
+section: a Republican attorney general putting innovation and global competitiveness in the same
+sentence as the conclusion that **"states have to act"** — while having to improvise with consumer
+protection law, because no AI statute in force reaches a model that escaped its evaluation. The
+front page takes a fourteenth row.
+
+*And then the document itself.* **Subpoena Duces Tecum #26-0007** is now held and read in full.
+It is issued by the **Consumer Interest Division** to **OpenAI OpCo, LLC**, care of its general
+counsel, under **§ 8-19-9 of the Code of Alabama** — confirming from the instrument what the release
+only implied: **the letter of 3 August was addressed to "Sam Altman, CEO"; the subpoena is not
+addressed to any natural person.**
+
+*What it has to ask for is this repository's argument in somebody else's hand.* Request 1 compels
+the identity of *"every employee, officer, and agent"* involved in the testing. Request 8 compels
+the identity of everyone who *"raised any concern or complaint relating to the safety or security of
+any model testing"*, and request 9 the documents behind it. Request 14 compels whatever
+evaluation-safety policy existed, *"including materials relating to concerns about the lack of such
+policies"*. **A state has to issue compulsory process to learn the names of the responsible people,
+because no statute requires anyone to record them.** That is the production-burden gap the sweep's
+enforcement lane identified and CURE 8 is drafted against, operating in the wild at the scale of a
+state, and it is now sourced to a signed instrument rather than to reasoning.
+
+*A trap recorded before anyone falls into it.* **There are two subpoenas to Sam Altman in
+circulation.** Alabama's, of 24 August 2026, to the company. And a **witness** subpoena from the
+**San Francisco Public Defender's Office**, served on him personally on stage in **November 2025**,
+in the criminal trial of Stop AI activists — nothing to do with AI safety, consumer protection or
+Alabama. Press captures of both arrived here on the same day in the same folder. The enforcement
+record carries the distinction at § 7.5, the dated record carries a November 2025 row for it, and
+the library filenames say DIFFERENT-MATTER. This project came within one draft of merging them.
+
+⚠ **Two primaries the subpoena defines itself by are not held**: OpenAI's own blog post on the
+incident and Hugging Face's technical timeline. Both are now first-priority retrievals, because a
+state has pinned its own definition to them. An investigation is not a charge, a subpoena is not a
+finding, and the return date was not legible in the copy held and is not asserted.
+
+
 **Between versions — 25 August 2026, seventh batch: the project acquires a front door.** No change
 to any tagged text.
 

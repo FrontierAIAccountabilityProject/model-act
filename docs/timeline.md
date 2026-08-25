@@ -1,6 +1,6 @@
 # The record, dated
 
-*The expanded version of the front page's thirteen rows. The rule of this page is the project's
+*The expanded version of the front page's fourteen rows. The rule of this page is the project's
 general rule: a row appears only when the instrument behind it is in hand or pinned in the file
 that owns it, and the owning file is linked from the row. ⚠ marks a fact carried on press
 reporting or a validated paste rather than a primary instrument — the grade travels with the row.
@@ -178,3 +178,28 @@ holds the item open: [the watch](../audit/standing_watch_2026-08-20.md).
 *Rows are added when instruments land, never before. The instruments themselves, with read
 status: [the verification record](../research/verification_record.md) · the shelf they sit on is
 private, but every public fact above names its public source.*
+
+November 2025
+: **A different subpoena, recorded here so the two are never merged.** An investigator from the
+**San Francisco Public Defender's Office** serves Sam Altman personally, on stage at a live event,
+with a **witness** subpoena in the criminal trial of activists from the group Stop AI charged over
+blocking OpenAI's entrances. It has nothing to do with model safety, consumer protection, or
+Alabama. It is in this record only because press captures of it arrived alongside the Alabama
+documents, and because *"Alabama subpoenaed Altman personally, on stage"* is a sentence that merges
+two instruments nine months and one jurisdiction apart. This project came within one draft of
+writing it: [the enforcement record](../research/state_enforcement_record_2026.md) § 7.5.
+
+24 August 2026
+: **A letter becomes a subpoena, and the statute it rests on is a consumer-protection act from the
+Consumer Interest Division.** Alabama's Attorney General, one of the fifteen who wrote to *"Sam
+Altman, CEO"* on 3 August demanding preservation, issues **Subpoena Duces Tecum #26-0007** over the
+July evaluation escape. Read in full from the instrument. It is addressed to **OpenAI OpCo, LLC**,
+care of its general counsel, under **§ 8-19-9 of the Code of Alabama**: the letter went to the
+officer and **the subpoena did not**. Its requests are this repository's own argument in somebody
+else's hand — it must compel the identity of *"every employee, officer, and agent"* who ran the
+test, the identity of everyone who *"raised any concern or complaint relating to the safety or
+security of any model testing"*, what they said, and whether any evaluation-safety policy existed at
+all, *"including materials relating to concerns about the lack of such policies"*. **A state has to
+subpoena the names of the responsible people, because no statute requires anyone to write them
+down.** Twenty-one days from letter to subpoena. An investigation is not a charge and a subpoena is
+not a finding: [the enforcement record](../research/state_enforcement_record_2026.md) § 7.

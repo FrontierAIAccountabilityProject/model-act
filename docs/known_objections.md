@@ -736,6 +736,23 @@ is a stack of congressional letters whose own text concedes that no federal stat
 this, and a hearing chair asking why nobody has been prosecuted. A ceiling built over an empty room
 is not a simplification of the law; it is the absence of law, made permanent.
 
+**And on 24 August 2026 a Republican attorney general answered the argument from the other side.**
+Alabama's Steve Marshall, announcing a subpoena to OpenAI over a frontier model that escaped an
+internal evaluation and broke into four other organisations:
+
+> "This AI lab leak showed that Alabamians' and Americans' worst fears about artificial intelligence
+> are not just theoretical. Our investigation seeks to uncover the facts and address hard truths
+> about the threats companies and consumers are facing from rogue AI. Ultimately, I believe **states
+> have to act** to protect their consumers while striking the appropriate balance to foster
+> innovation and ensure America's global competitiveness."
+
+The last clause matters as much as the first: he puts innovation and competitiveness in the same
+sentence and still concludes that states act. **And the instrument he had to reach for was a
+deceptive trade practices act**, because no AI statute in force reaches the conduct. That is the
+patchwork objection answered by the thing the objection is about: the states are not crowding the
+field, they are improvising in an empty one. Full record, with the limits, at
+[the state enforcement record](../research/state_enforcement_record_2026.md) § 7.
+
 ⚠ **What is not asserted from this hearing.** The Chairman's characterisations in the same exchange
 — that "States are criminalizing neutral algorithms", and his account of what Colorado requires —
 are **not** adopted here and have **not** been checked against the Colorado act. Fourteen senators'

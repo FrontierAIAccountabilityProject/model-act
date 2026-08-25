@@ -35,6 +35,7 @@ technical definition of *frontier*; this project holds a legal one — [two defi
 | **3 Aug 2026** | Fifteen state attorneys general serve OpenAI with a preservation demand ([the enforcement record](./research/state_enforcement_record_2026.md)). |
 | **8 Aug 2026** | *"Yes, we accidentally made a weed"* — the developer’s head of strategic futures, on the record ([the press corpus](./research/press_corpus_july_august_2026.md)). |
 | **10–24 Aug 2026** | Seventeen congressional questions to Anthropic; the deadline passes with no public answer found ([the watch](./audit/standing_watch_2026-08-20.md)). |
+| **24 Aug 2026** | Alabama subpoenas OpenAI over the evaluation escape, under a **deceptive trade practices act**, and its Attorney General says *"states have to act"* ([the enforcement record](./research/state_enforcement_record_2026.md)). |
 
 *Every row with its sources, plus the rows that did not fit: **[the dated record](./docs/timeline.md)**.*
 
@@ -74,7 +75,7 @@ each put on that record by name: **willfulness**, **escalation to the chief exec
 *The front page is the book's spine, and it is long on purpose. In order:*
 
 - **[The project in one page](./docs/abstract.md)** — the short account, if you are deciding whether to spend longer here.
-- [The record, dated](#the-record-dated) — thirteen rows, each owned by the file it links; expanded at [the dated record](./docs/timeline.md).
+- [The record, dated](#the-record-dated) — fourteen rows, each owned by the file it links; expanded at [the dated record](./docs/timeline.md).
 - [Two definitions of "frontier"](#two-definitions-of-frontier) — the coverage architecture: system + activity + control, and the twelve-company table.
 - [Two sentences a government already wrote down](#two-sentences-a-government-already-wrote-down) — the UK's own evidence for a named responsible officer.
 - [In one paragraph](#in-one-paragraph) — the whole Act, precisely, with the interpretive key beneath it.

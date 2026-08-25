@@ -165,6 +165,15 @@ oath; the letters, with every signatory, are in
 grammar is 1943's: personal accountability, asked of the officers with authority, before
 any statute exists to require it.
 
+**And on 24 August 2026 one of the letters became a subpoena.** Alabama's Attorney General, one of
+the fifteen who signed the August preservation demand, issued compulsory process to OpenAI over the
+same evaluation escape, under a **deceptive trade practices act**, saying in the same release that
+*"states have to act."* Twenty-one days from the letter to the subpoena. **Read the instrument
+carefully, because this project's whole subject is the distinction: the subpoena demands that the
+company respond, and names the chief executive as the person who leads it. That is not a subpoena
+to the officer.** The full record, with what is and is not established, is at
+[the state enforcement record](../research/state_enforcement_record_2026.md) § 7.
+
 **And the doctrine is not only case law.** Congress has twice enacted the phrase itself —
 "responsible corporate officer" — into the criminal definition of "person," in the Clean Water Act
 and the Clean Air Act, as felony architecture, retained and extended after *Park*. The provisions,
@@ -531,7 +540,10 @@ of the largest AI companies should answer questions under oath" — and Senator 
 wrote to three chief executives urging a pause, warning that corporations "have already
 lost control." A letter is not a subpoena; but the grammar has changed, and the
 mechanism being reached for — personal accountability for the officers with authority —
-is the mechanism this Act writes down. The letters in full, with every signatory, are in
+is the mechanism this Act writes down. **Written before 24 August 2026, and overtaken on it:**
+Alabama issued one, over the same conduct, under consumer-protection authority, three weeks after
+signing the letter ([the enforcement record](../research/state_enforcement_record_2026.md) § 7).
+The sentence stands as written because it was true when written; what followed is dated beside it. The letters in full, with every signatory, are in
 [the dossier](../dossier/README.md#dossier--the-politicians-track-the-record-already-exists).
 
 **The government's own exhibit.** The AISI incident deserves its own account, because
