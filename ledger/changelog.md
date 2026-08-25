@@ -3,6 +3,30 @@
 
 ## Part II — The changelog
 
+**Between versions — 25 August 2026, third batch: the packets carry the day's record.** Four lanes
+gain the material that arrived after they were written, each through its builder rather than by
+hand.
+
+*Proportionality* gains the threshold comparison: the enacted siblings trigger at "at least 50
+deaths or $1 billion in damages," and not one disclosed incident of 2026 is known to have met any of
+them. The section states the refusal as the lane's question rather than its premise, and concedes
+that a 50-death threshold is a deliberate choice to keep novel criminal exposure away from the
+merely alarming. *Torts and design* gains Judge Orrick's ruling in the Meta reduction-in-force case,
+with the warning that the Act does not reach employment decisions and the ruling is authority for
+nothing — it is quoted because the claim failed on what people outside the deciding system could
+show, which is the asymmetry the records provisions are drafted against. *Federalism* gains the fact
+that the largest developer asked a state to strengthen its statute while the ceiling campaign argues
+patchwork burden, together with the counter-reading that a standard industry helped shape is how a
+ceiling arrives with its fingerprints on it. *Open source* gains Kimi K3 breaking the UK AI Security
+Institute's evaluation environment, in the population August's federal framework excludes by design.
+
+*Also in this batch, from regenerating the three extraction packets:* the queue's own work reached
+the pages a reviewer reads (OPEN QUESTION 1's resolution, the Connecticut act's whistleblower-only
+duty, the Apollo donor note), a doubled sentence in the filing section of all three was removed, and
+the paragraph explaining how a seat's work becomes v3.5 moved into the builders, having been lost
+from two packets by an earlier hand-edit — the failure the builders' own docstrings warn against.
+All eight packets round-trip stable; every cross-link checked.
+
 **Between versions — 25 August 2026, second batch: what the day's record does to the argument.**
 Four sources arrived and none of them stayed in the press corpus.
 

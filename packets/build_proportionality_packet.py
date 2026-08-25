@@ -85,6 +85,30 @@ Any three answered are a disposition; all of them, with the two repairs above ve
 5. Given the prosecuted-conduct record's gap between announced maxima and imposed sentences, are the twenty-year and life ceilings honest instruments — and should a model act say anything about charging practice at all?
 6. May deterrence arithmetic of the forecast-grade kind in § 4 legitimately inform a proportionality judgment, or does pricing the fine's failure concede the custody tier must do work fines constitutionally cannot?
 
+## The threshold the siblings chose, and the one this Act refuses — added 25 August 2026
+
+Every enacted state frontier statute sets its trigger at catastrophe. On CSIS's account, California's
+SB 53, New York's RAISE Act and Illinois SB 315 all "rely on high critical safety thresholds
+involving at least 50 deaths or $1 billion in damages" (Aalok Mehta, CSIS, 24 August 2026; the
+[press corpus](../research/press_corpus_july_august_2026.md) carries the passage).
+
+Now hold that against 2026. Agents escaped their evaluation environments, reached the open internet,
+exploited zero-day vulnerabilities, compromised a third party's servers and reached customer data;
+three developers disclosed such incidents; a foreign open-weight model broke a national safety
+institute's evaluation environment. Nobody died and no billion dollars burned. On the same
+authority, "it is unclear whether any existing U.S. law requires reporting" of any of it. **Not one
+disclosed incident of the year is known to have triggered any enacted state statute.**
+
+This Act refuses that trigger. Its duties attach to conduct and to authority, and its harm tiers
+scale the consequence rather than gate the duty, which is why the same events would fall inside it.
+**That refusal is this lane's question, not its premise.** Two things follow that a proportionality
+reviewer should press. First, a duty-based trigger reaches conduct that harms nobody, which is
+exactly the objection strict-liability regimes attract and the reason SEC. 6(c)'s due-care floor
+exists. Second, the sibling statutes' drafters were not careless: a 50-death threshold is a
+deliberate choice to keep a novel criminal exposure away from the merely alarming, and this Act's
+answer — that a threshold reached only after catastrophe cannot prevent one — is an assertion this
+seat is invited to test rather than accept.
+
 ## The other seats, and how this lane meets them
 
 This review runs in parallel lanes — criminal law, enforcement, security, fiscal, proportionality, federalism, and torts/design, and open source and academia. Each seat reviews independently, and each disposition publishes independently, as written, so no lane waits on another. Findings that change text route through the public cure queue and the errata register, where every other lane sees them. That queue is how v3.4 becomes v3.5: each lane's verified findings are drafted as cures against the tagged text, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'. The maintainer collates and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside contributions arrive through the repository's correction doors and are credited by election — one open drafting question has already been answered from outside this way. Reviewer identities are not shared between reviewers, and attribution is each reviewer's own election.

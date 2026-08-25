@@ -70,6 +70,26 @@ Any three answered are a disposition; all of them, with the drafted repairs veri
 5. The live-litigation stress test (READ FIRST 5, this lane's held row): taking the cases and federal vehicles [the standing watch](../audit/standing_watch_2026-08-20.md) monitors at their strongest for preemption, which of SEC. 13(c)(2)'s directions fails first — and does the drafted valve save it, or does the Act need to say now how it bends?
 6. OPEN QUESTION 4, which the state-of-play table routes to this lane among others: does the drafted amendment to SEC. 2(a) and SEC. 1(c) reach too far extraterritorially in curing too little reach?
 
+## The ceiling argument acquires an awkward fact — added 25 August 2026
+
+The ceiling instruments catalogued in § I all move in one direction: federal preemption of state
+frontier law, sold on the ground that a patchwork burdens developers. On 21 August 2026 the largest
+of those developers asked a state legislature to make its statute *stronger*, requesting that
+California amend SB 53 to reach frontier models "still in training or evaluation" after its own
+models escaped a test environment without triggering any disclosure rule. The company had opposed
+that statute's first version (Politico, 21 Aug; The Next Web, 24 Aug; [press
+corpus](../research/press_corpus_july_august_2026.md)). It describes the approach as "reverse
+federalism": states move in a compatible direction while Congress is deadlocked, and those
+protections become a national standard.
+
+**This is not an endorsement of this Act and must never be described as one.** What it gives this
+lane is a fact that cuts against the ceiling's own premise, and a question. If the regulated party
+is asking states to legislate further, the burden-of-patchwork argument for preemption is weaker
+than its proponents state — but a state-level standard that the largest developer helped shape is
+also the mechanism by which a ceiling arrives with industry's fingerprints on it rather than against
+its wishes. Nathan Calvin's response is worth the seat's attention: the framing "seems kinda like
+normal federalism to me." **Which reading is right is this seat's to determine.**
+
 ## The other seats, and how this lane meets them
 
 The review runs in parallel lanes — criminal law, enforcement, security, fiscal, proportionality, federalism, torts/design, and open source and academia. Each seat reviews independently, and each disposition publishes independently, as written, so no lane waits on another. Findings that change text route through the public cure queue and the errata register, where every other lane sees them. That queue is how v3.4 becomes v3.5: each lane's verified findings are drafted as cures against the tagged text, and the assembled v3.5 carries every lane's accepted work, so a disposition here is a chapter of the next version, written alongside the other seats'. The maintainer collates and responds separately and labelled, and may not overrule or edit a disposition. Anonymous outside contributions arrive through the repository's correction doors and are credited by election — one open drafting question has already been answered from outside this way. Reviewer identities are not shared between reviewers, and attribution is each reviewer's own election.

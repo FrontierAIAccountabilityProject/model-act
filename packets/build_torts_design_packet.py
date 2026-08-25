@@ -264,6 +264,30 @@ Method-wide entries — E21, E22 (extended by E32), E27, E33 — govern how ever
 count, and file-status claim in the evidence base was made; [the register](../ledger/errata.md) is
 short and worth ten minutes.
 
+## A court states the evidentiary problem — added 25 August 2026
+
+Twenty-six former Meta employees, all on protected leave during a May 2026 reduction in force,
+alleged the company "used a constellation of internal artificial intelligence systems," including
+one monitoring "employees' keystrokes and computer activity," to "score, rank and select employees
+for inclusion on the list." On 24 August 2026 U.S. District Judge William Orrick declined interim
+relief: *"I have a record I have to deal with and the record at the moment does not persuade me of
+the merits."* He allowed that the evidence "raised some potential questions about Meta's categorical
+denial of any impact of AI in the termination process," and called the matter "an unusual, or a new
+sort of issue" that was hard to gather evidence for at the outset (Courthouse News, 24 Aug 2026;
+[press corpus](../research/press_corpus_july_august_2026.md)).
+
+**This Act does not reach employment decisions, and the ruling is authority for nothing** — it is a
+denial of interim relief on an incomplete record. It sits in this packet because it is the clearest
+judicial statement yet of the problem this lane exists to solve. The claim did not fail because
+automated decision-making is unprovable in principle. It failed on the record available to people
+standing outside the system that decided about them.
+
+That asymmetry is the design question for this seat. Every logging, retention and reporting duty in
+the Act is drafted to make the facts exist somewhere reachable, created before anyone knew they
+would be wanted. Whether the duties as drafted would actually produce a record a court could use —
+or whether they would produce a compliance artefact that answers a different question — is a finding
+this lane can make and no other can.
+
 ## The other seats, and how this lane meets them
 
 The review runs in parallel lanes — criminal law, enforcement, security,

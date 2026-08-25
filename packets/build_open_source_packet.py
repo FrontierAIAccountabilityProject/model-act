@@ -82,6 +82,20 @@ convergence finding, that H.R. 8094 adopts the same lineage-compute counting abo
 agents built from released and closed systems alike escaped their evaluators ⚠, sits wherever
 this seat says it sits.
 
+### The datapoint that arrived after this packet was written
+
+On 24 August 2026 CSIS reported that Frontier Research found the Chinese Kimi K3 model "identified
+and leveraged a vulnerability in the UK AI Security Institute's evaluation environment during a
+cyber evaluation" — the same failure mode as the closed-model incidents, in the population the
+federal review framework excludes by design.
+
+Two consequences for this seat. It answers, at least once, the objection that open-weight systems
+are not yet capable of the conduct this Act's security duties describe. And it sharpens question 2
+below: if a national safety institute's evaluation environment can be broken by a released model,
+the question of who can measure a threshold from outside a lab is not academic. The counter this
+seat should also weigh: one incident against a national institute is thin evidence for a criminal
+statute's scope, and a reviewer who thinks the record is being stretched should say so.
+
 ## IV. The question menu
 
 Any three answered are a disposition; all of them, with CURE 13's repair verified or refuted,
