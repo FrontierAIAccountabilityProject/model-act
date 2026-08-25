@@ -47,9 +47,14 @@ wording — "the reported argument date of 16 July 2026 unconfirmed against the 
 as it stands and should not be strengthened.*
 
 **And the complaint itself is now held**, No. 2:25-cv-12295 (C.D. Cal.), filed 29 December 2025.
-Two things in it that this project did not have. Counsel for xAI is **Erin E. Murphy of Clement &
-Murphy, PLLC**, with four others — not in-house counsel but a first-rank appellate firm, retained to
-seek statewide relief against a state AI statute. And the pleading leads with **two takings counts**
+Two things in it that this project did not have. **xAI is not represented by in-house counsel here.**
+The signature block names **Erin E. Murphy, Matthew D. Rowen, James Y. Xi, Mitchell K. Pallaki and
+Ilan J. Posner of Clement & Murphy, PLLC**, Alexandria, Virginia — a first-rank appellate boutique,
+four of the five seeking pro hac vice admission, with Rowen the only California bar member and so
+the admitted counsel of record. *Counsel of record on a public filing; the block is page one of the
+complaint.* The posture is the point: a frontier developer answering a state AI statute with an
+appellate firm and a request for statewide relief, not with its general counsel. And the pleading
+leads with **two takings counts**
 before it reaches speech: Count One per se takings, Count Two regulatory takings, Count Three
 compelled speech, Count Four vagueness. **This repository tracks counts three and four and has
 essentially nothing on one and two** — *Takings Clause* zero, *regulatory taking* zero, *per se

@@ -1790,3 +1790,123 @@ can coexist without the first eating the second; whether a state that has not ad
 willful-blindness instruction can be given one by statute; and whether the Act should follow the
 First Circuit or the Third on knowledge of the permit requirement, which here means knowledge that
 SEC. 5 applied at all.
+
+---
+
+## CURE 23 — SEC. 3(c)(4)(B): restore the publication the allied statutes require, on their own redaction terms
+
+*Opened 25 August 2026 by **maintainer decision**, not by a lane finding and not by the sweep. It
+changes what the Act requires rather than repairing what it says, and it should be read on that
+footing. The occasion was a reader's question — whether sealing everything conflicts with the
+transparency statutes this project treats as allies — and the answer turned out to be yes.*
+
+### The defect
+
+The three enacted frontier statutes share one operative sentence, enacted three times in thirteen
+months in the three states where frontier developers sit: **write, implement, comply with, and
+clearly and conspicuously publish a frontier AI framework.** SEC. 3(c)(4) adopts those texts as
+this Act's interim standards. And then SEC. 3(c)(4)(B) takes the sentence apart.
+
+**ANCHOR (SEC. 3(c)(4)(B), verbatim from the tagged text):** "a duty to publish, or to transmit any
+document to an officer, agency, or the public of an enacting jurisdiction, is performed under this
+Act by transmission to the Agency, and **publication is permitted but not required by this Act**."
+
+**Two consequences, and the second is worse than the first.**
+
+*Where the allied statute is already in force* — California, New York, Illinois — nothing is lost.
+Their publication duties operate on their own terms and this Act adds a person layer above them.
+
+*Where it is not*, an adopting state gets the framework duty with its visible half removed. **A
+state that enacts this Act alone gives its residents less than California gives Californians, using
+California's words.** That is not a drafting slip; SEC. 3(c)(4)(B) does it deliberately, and the
+deliberateness is the problem, because nothing in the drafting record explains the choice.
+
+**And there is a political cost that this file should state rather than leave to be discovered.** A
+legislator who wrote a publication statute, invited to carry a model act that adopts her text and
+converts publishing into filing, is entitled to ask why. This project would have no answer.
+
+### Why the obvious fix is wrong
+
+The reason to seal is real. Incident reports describe how a system escaped, which is close to
+instructions; training corpora and evaluation results are trade secrets; and **compelled
+publication of a trade secret is the count a frontier developer actually litigates.** In
+*X.AI LLC v. Bonta*, No. 2:25-cv-12295 (C.D. Cal.), the complaint against AB 2013 leads with **per
+se and regulatory takings** and reaches speech third ([the standing
+watch](./standing_watch_2026-08-20.md) § 1). Publishing everything hands that count its best fact.
+
+So neither pole works: sealing everything abandons the allies, publishing everything abandons the
+defense.
+
+### The answer, which an ally already drafted
+
+California Business and Professions Code § 22757.12(f), enacted at SB 53 and **already adopted by
+this Act as an interim standard**:
+
+> "(1) When a frontier developer publishes documents to comply with this section, the frontier
+> developer **may make redactions** to those documents that are necessary to protect the frontier
+> developer's trade secrets, the frontier developer's cybersecurity, public safety, or the national
+> security of the United States or to comply with any federal or state law.
+>
+> (2) If a frontier developer redacts information in a document pursuant to this subdivision, the
+> frontier developer shall **describe the character and justification of the redaction** in any
+> published version of the document to the extent permitted by the concerns that justify redaction
+> and shall **retain the unredacted information for five years**."
+
+**Publish; redact for trade secrets and security; say what you redacted and why; keep the unredacted
+copy.** Nothing secret is surrendered, so the takings theory has nothing to appropriate. The
+mechanism of an escape stays sealed. The document is public. And the justification for each
+redaction is itself published, which is the part that keeps the mechanism from swallowing the rule.
+
+**This Act already adopted that subdivision and then disapplied it.** SEC. 3(c)(4)(B) is the only
+reason it does not operate.
+
+### Operation 1 — restore publication, on the adopted terms
+
+**NEW TEXT — replacing SEC. 3(c)(4)(B):**
+
+> (B) A duty to publish under an interim standard is performed under this Act by publication in the
+> manner that standard requires, together with transmission to the Agency; a duty to transmit a
+> document to an officer or agency of an enacting jurisdiction is performed under this Act by
+> transmission to the Agency alone. A person publishing under this subparagraph may redact, and
+> shall describe the character and justification of each redaction, on the terms of Section
+> 22757.12(f) of the California Business and Professions Code as adopted by this paragraph; the
+> unredacted document is a record under SEC. 12 and is retained, produced, and treated as SEC. 12
+> provides.
+
+*Why the split.* A duty to publish is a duty to the public and should survive adoption. A duty to
+file with a named state office is a duty to an administrator and is properly performed here by
+filing with the Agency. The tagged text collapses both into filing; this separates them.
+
+### Operation 2 — say what is not published, and why
+
+Restoring publication must not be read to reach the material SEC. 12 seals. The distinction is the
+one the takings answer depends on and it should be visible in the text rather than inferred.
+
+**NEW TEXT — appended to SEC. 3(c)(4)(B):**
+
+> Nothing in this subparagraph requires the publication of a report under SEC. 9, a certification
+> under SEC. 8 beyond the facts stated in any register maintained under that section, or validation
+> materials under subsection (b) or paragraph (2). Those materials are governed by SEC. 12.
+
+*So the shape of the Act after this cure:* **the framework is published, with reasoned redactions.
+The incident report is filed. The certification's facts are on a public register (CURE 21) and its
+content is filed.** Three tiers, each matched to what the document is for.
+
+### What this does not settle, and a seat should
+
+**Whether the redaction power swallows the duty.** SB 53 lets the developer decide what is a trade
+secret and what is a cybersecurity concern, subject only to describing the justification. No agency
+approves it and no penalty attaches to over-redaction as such. If that is a rule in name only, this
+cure imports a rule in name only, and the honest response would be to add review rather than to
+pretend the problem is elsewhere. **The torts and design seat and the enforcement seat both touch
+this; neither has been asked.**
+
+**Whether publication should reach beyond the framework.** This cure restores exactly what the
+allied statutes require and no more. A reviewer who thinks the incident reports should also be
+public — that a regulator-only channel makes the public depend on the regulator acting, and that
+this project's own evidence base exists only because a victim published rather than filed
+([E28](../ledger/errata.md)) — is making a serious argument that this cure does not answer.
+
+**Administrative load:** none on the Agency. The publication is by the regulated person, on terms
+that person already meets in three states.
+
