@@ -239,8 +239,20 @@ this beyond the watch.
    precedent.
 2. **One erratum candidate** — the *xAI v. Bonta* argument date, flagged not corrected.
 3. **One concordance addition** — H.R. 9925's 10²⁶ threshold, for n.27.
-4. **One question for a v3.5 drafting session** — whether SEC. 13(a) enumerates SEC. 9 and
-   SEC. 3(c)(4) as the limbs most exposed to H.R. 9925 § 9 as introduced.
+4. ~~**One question for a v3.5 drafting session** — whether SEC. 13(a) enumerates SEC. 9 and
+   SEC. 3(c)(4) as the limbs most exposed to H.R. 9925 § 9 as introduced.~~
+   **Answered 25 August 2026, on a cover-to-cover reading of the statute, and the premise was
+   wrong.** SEC. 13(a) enumerates nothing; it is the general severability clause. **SEC. 13(b)
+   does the ranking, and it puts the two limbs at opposite ends.** SEC. 9 sits in the **fourth
+   rank** — the first matter a court is directed to sever. SEC. 3(c), which carries the interim
+   standards at 3(c)(4), sits in the **first rank** — the last. That is not an oversight: SEC.
+   13(b)(5) preserves any provision supplying "an element, a definition, a standard, a limitations
+   period, or a commencement condition" to a surviving offense, and names SEC. 3(a) and SEC. 3(c)
+   expressly, because every surviving SEC. 5 offense depends on them. **So the Act already treats
+   the reporting duty as expendable and the standards as structural, and a federal vehicle that
+   reached SEC. 9 would meet a statute built to lose it.** The live question is the narrower one at
+   SEC. 13(c)(2)(C): whether preserving the records that would have supported a preempted report is
+   worth what it costs in a hearing.
 5. **A finding that is not about any single item.** Across four frontier regimes — the
    three states adopted at SEC. 3(c)(4) and the federal vehicle now introduced — not one
    requires a natural person to certify anything, and not one attaches a duty to an
