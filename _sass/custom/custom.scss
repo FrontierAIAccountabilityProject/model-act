@@ -422,7 +422,10 @@ body, .main-content, .side-bar, .search-input, .aux-nav { font-family: $reading-
 
 // `| | |` -- a table whose columns need no labels -- emits an empty header row.
 // Collapse it rather than render a blank grey band.
-.main-content thead:has(th:empty):not(:has(th:not(:empty))) { display: none; }
+// NOTE: a `:has()` inside `:not()` was here and is removed. Sass parses selectors
+// itself, and that nesting broke the build -- GitHub Pages kept serving the last
+// good deploy, which is why several pushes appeared to do nothing. The merged
+// table has real column headers now, so nothing needs collapsing.
 
 .main-content a,
 .main-content a:visited { color: #2c5fa8; }
