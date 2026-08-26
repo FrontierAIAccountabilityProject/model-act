@@ -10,15 +10,15 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 
 | | |
 |---|---|
-| References read | **3300** |
-| Files carrying at least one | **68** |
+| References read | **3346** |
+| Files carrying at least one | **70** |
 | Sections in the statute | **14** |
 
 ---
 
 ## SEC. 0 — FINDINGS AND PURPOSE (UNCODIFIED)
 
-**101 references across 24 files.** Anchor: `#sec-0`
+**103 references across 25 files.** Anchor: `#sec-0`
 
 **Sub-clauses referenced:** `SEC. 0(a)(4)` ×15 · `SEC. 0(a)(6)` ×6 · `SEC. 0(a)(5)` ×5 · `SEC. 0(a)(3)` ×4 · `SEC. 0(a)(2)` ×4 · `SEC. 0(a)(7)` ×3 · `SEC. 0(b)` ×3 · `SEC. 0(a)` ×2
 
@@ -44,14 +44,15 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | packet (generated) | [`packets/criminal_law.md`](../packets/criminal_law.md) | 1 |
 | sealed | [`dossier/README.md`](../dossier/README.md) | 6 |
 | sealed | [`filings/docket_fda_2024_d_4488_reading_notes.md`](../filings/docket_fda_2024_d_4488_reading_notes.md) | 3 |
+| root | [`README.md`](../README.md) | 4 |
 | root | [`MAP.md`](../MAP.md) | 3 |
-| root | [`README.md`](../README.md) | 3 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 3 |
+| root | [`_internal/reading_brief_sixteen.md`](../_internal/reading_brief_sixteen.md) | 1 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 7 |
 
 ## SEC. 1 — CLASSIFICATION AND DEFINITIONS
 
-**218 references across 41 files.** Anchor: `#sec-1`
+**219 references across 41 files.** Anchor: `#sec-1`
 
 **Sub-clauses referenced:** `SEC. 1(c)` ×48 · `SEC. 1(b)(1)` ×30 · `SEC. 1(b)(3)` ×17 · `SEC. 1(b)(9)` ×16 · `SEC. 1(b)(8)` ×15 · `SEC. 1(b)(6)` ×10 · `SEC. 1(a)` ×9 · `SEC. 1(b)(7)` ×9 · `SEC. 1(b)(2)` ×8 · `SEC. 1(b)(10)` ×8
 
@@ -95,13 +96,13 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | sealed | [`dossier/README.md`](../dossier/README.md) | 5 |
 | sealed | [`filings/docket_fda_2024_d_4488_reading_notes.md`](../filings/docket_fda_2024_d_4488_reading_notes.md) | 4 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 8 |
-| root | [`README.md`](../README.md) | 2 |
+| root | [`README.md`](../README.md) | 3 |
 | root | [`model_regulations_v1_draft.md`](../model_regulations_v1_draft.md) | 1 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 7 |
 
 ## SEC. 2 — PUBLIC WELFARE DUTY
 
-**205 references across 38 files.** Anchor: `#sec-2`
+**207 references across 38 files.** Anchor: `#sec-2`
 
 **Sub-clauses referenced:** `SEC. 2(a)` ×41 · `SEC. 2(b)` ×37 · `SEC. 2(c)` ×20 · `SEC. 2(e)(2)` ×2
 
@@ -143,12 +144,12 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | sealed | [`filings/docket_fda_2024_d_4488_reading_notes.md`](../filings/docket_fda_2024_d_4488_reading_notes.md) | 3 |
 | sealed | [`filings/banked_threads.md`](../filings/banked_threads.md) | 1 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 14 |
-| root | [`README.md`](../README.md) | 1 |
+| root | [`README.md`](../README.md) | 3 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 5 |
 
 ## SEC. 3 — DESIGNATED AGENCY; STANDARDS; COMMENCEMENT. (a) The [designa
 
-**356 references across 42 files.** Anchor: `#sec-3`
+**360 references across 43 files.** Anchor: `#sec-3`
 
 **Sub-clauses referenced:** `SEC. 3(c)(4)` ×58 · `SEC. 3(b)` ×53 · `SEC. 3(c)` ×39 · `SEC. 3(a)` ×36 · `SEC. 3(c)(3)` ×14 · `SEC. 3(c)(4)(B)` ×12 · `SEC. 3(c)(2)(D)` ×11 · `SEC. 3(c)(2)` ×9 · `SEC. 3(c)(4)(A)` ×7 · `SEC. 3(c)(5)` ×6
 
@@ -162,7 +163,7 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | finding | [`audit/v3_5_lane_sweep.md`](../audit/v3_5_lane_sweep.md) | 5 |
 | authority | [`standards/table_of_authorities.md`](../standards/table_of_authorities.md) | 6 |
 | objection | [`docs/known_objections.md`](../docs/known_objections.md) | 8 |
-| erratum | [`ledger/errata.md`](../ledger/errata.md) | 7 |
+| erratum | [`ledger/errata.md`](../ledger/errata.md) | 9 |
 | standard | [`standards/fiscal_note.md`](../standards/fiscal_note.md) | 15 |
 | standard | [`standards/frontier_self_reporting_note.md`](../standards/frontier_self_reporting_note.md) | 11 |
 | standard | [`standards/section_index.md`](../standards/section_index.md) | 11 |
@@ -193,13 +194,14 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | sealed | [`filings/fda_2026_n_7874_comment.md`](../filings/fda_2026_n_7874_comment.md) | 1 |
 | root | [`model_regulations_v1_draft.md`](../model_regulations_v1_draft.md) | 4 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 3 |
+| root | [`README.md`](../README.md) | 2 |
 | root | [`MAP.md`](../MAP.md) | 1 |
-| root | [`README.md`](../README.md) | 1 |
+| root | [`_internal/reading_brief_sixteen.md`](../_internal/reading_brief_sixteen.md) | 1 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 12 |
 
 ## SEC. 4 — CONTROLLING PERSONS
 
-**221 references across 36 files.** Anchor: `#sec-4`
+**225 references across 37 files.** Anchor: `#sec-4`
 
 **Sub-clauses referenced:** `SEC. 4(a)` ×45 · `SEC. 4(b)` ×24 · `SEC. 4(c)` ×17 · `SEC. 4(b)(2)` ×3 · `SEC. 4(d)` ×3 · `SEC. 4(a)(2)` ×2 · `SEC. 4(a)(3)` ×2 · `SEC. 4(a)(4)` ×2 · `SEC. 4(b)(1)` ×2
 
@@ -211,9 +213,9 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | cure | [`audit/v3_4_cure_language.md`](../audit/v3_4_cure_language.md) | 3 |
 | finding | [`audit/v3_5_lane_sweep.md`](../audit/v3_5_lane_sweep.md) | 6 |
 | finding | [`audit/pre_review_pass_2026-08-24.md`](../audit/pre_review_pass_2026-08-24.md) | 1 |
-| authority | [`standards/table_of_authorities.md`](../standards/table_of_authorities.md) | 6 |
+| authority | [`standards/table_of_authorities.md`](../standards/table_of_authorities.md) | 7 |
 | objection | [`docs/known_objections.md`](../docs/known_objections.md) | 21 |
-| erratum | [`ledger/errata.md`](../ledger/errata.md) | 4 |
+| erratum | [`ledger/errata.md`](../ledger/errata.md) | 5 |
 | standard | [`standards/section_index.md`](../standards/section_index.md) | 10 |
 | standard | [`standards/comparative_officer_liability.md`](../standards/comparative_officer_liability.md) | 1 |
 | standard | [`standards/frontier_self_reporting_note.md`](../standards/frontier_self_reporting_note.md) | 1 |
@@ -238,13 +240,14 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | sealed | [`dossier/README.md`](../dossier/README.md) | 39 |
 | sealed | [`filings/docket_fda_2024_d_4488_reading_notes.md`](../filings/docket_fda_2024_d_4488_reading_notes.md) | 3 |
 | sealed | [`filings/banked_threads.md`](../filings/banked_threads.md) | 2 |
-| root | [`README.md`](../README.md) | 6 |
+| root | [`README.md`](../README.md) | 7 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 1 |
+| root | [`_internal/reading_brief_sixteen.md`](../_internal/reading_brief_sixteen.md) | 1 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 8 |
 
 ## SEC. 5 — PROHIBITED ACTS
 
-**365 references across 35 files.** Anchor: `#sec-5`
+**366 references across 35 files.** Anchor: `#sec-5`
 
 **Sub-clauses referenced:** `SEC. 5(b)` ×83 · `SEC. 5(a)` ×67 · `SEC. 5(d)` ×53 · `SEC. 5(e)` ×46 · `SEC. 5(c)` ×34 · `SEC. 5(c)(1)(D)` ×2
 
@@ -282,27 +285,27 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | packet (generated) | [`packets/torts_design.md`](../packets/torts_design.md) | 1 |
 | sealed | [`dossier/README.md`](../dossier/README.md) | 14 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 7 |
-| root | [`README.md`](../README.md) | 1 |
+| root | [`README.md`](../README.md) | 2 |
 | root | [`model_regulations_v1_draft.md`](../model_regulations_v1_draft.md) | 1 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 16 |
 
 ## SEC. 6 — INDIVIDUAL LIABILITY
 
-**445 references across 40 files.** Anchor: `#sec-6`
+**466 references across 42 files.** Anchor: `#sec-6`
 
-**Sub-clauses referenced:** `SEC. 6(a)` ×112 · `SEC. 6(b)(1)` ×83 · `SEC. 6(b)` ×62 · `SEC. 6(d)` ×30 · `SEC. 6(c)` ×20 · `SEC. 6(e)` ×18 · `SEC. 6(b)(2)` ×10 · `SEC. 6(b)(5)` ×3
+**Sub-clauses referenced:** `SEC. 6(a)` ×115 · `SEC. 6(b)(1)` ×84 · `SEC. 6(b)` ×74 · `SEC. 6(d)` ×34 · `SEC. 6(c)` ×20 · `SEC. 6(e)` ×18 · `SEC. 6(b)(2)` ×10 · `SEC. 6(b)(5)` ×3
 
 | Kind | Where | Refs |
 |---|---|---|
 | statute | [`model_act_v3_4_companion.md`](../model_act_v3_4_companion.md) | 16 |
 | statute | [`model_act_v3_4.txt`](../model_act_v3_4.txt) | 15 |
-| cure | [`audit/v3_5_cure_language.md`](../audit/v3_5_cure_language.md) | 63 |
+| cure | [`audit/v3_5_cure_language.md`](../audit/v3_5_cure_language.md) | 64 |
 | cure | [`audit/v3_4_cure_language.md`](../audit/v3_4_cure_language.md) | 4 |
 | finding | [`audit/pre_review_pass_2026-08-24.md`](../audit/pre_review_pass_2026-08-24.md) | 20 |
 | finding | [`audit/v3_5_lane_sweep.md`](../audit/v3_5_lane_sweep.md) | 18 |
-| authority | [`standards/table_of_authorities.md`](../standards/table_of_authorities.md) | 12 |
-| objection | [`docs/known_objections.md`](../docs/known_objections.md) | 13 |
-| erratum | [`ledger/errata.md`](../ledger/errata.md) | 15 |
+| authority | [`standards/table_of_authorities.md`](../standards/table_of_authorities.md) | 13 |
+| objection | [`docs/known_objections.md`](../docs/known_objections.md) | 17 |
+| erratum | [`ledger/errata.md`](../ledger/errata.md) | 25 |
 | standard | [`standards/section_index.md`](../standards/section_index.md) | 10 |
 | standard | [`standards/what_these_words_mean.md`](../standards/what_these_words_mean.md) | 6 |
 | standard | [`standards/comparative_officer_liability.md`](../standards/comparative_officer_liability.md) | 5 |
@@ -323,7 +326,7 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | ledger | [`ledger/diary.md`](../ledger/diary.md) | 5 |
 | research | [`research/state_enforcement_record_2026.md`](../research/state_enforcement_record_2026.md) | 3 |
 | research | [`research/canon_check_2026-08-24.md`](../research/canon_check_2026-08-24.md) | 1 |
-| packet (generated) | [`packets/criminal_law.md`](../packets/criminal_law.md) | 73 |
+| packet (generated) | [`packets/criminal_law.md`](../packets/criminal_law.md) | 74 |
 | packet (generated) | [`packets/enforcement.md`](../packets/enforcement.md) | 8 |
 | packet (generated) | [`packets/torts_design.md`](../packets/torts_design.md) | 6 |
 | packet (generated) | [`packets/proportionality.md`](../packets/proportionality.md) | 3 |
@@ -331,13 +334,15 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | sealed | [`dossier/README.md`](../dossier/README.md) | 18 |
 | sealed | [`filings/banked_threads.md`](../filings/banked_threads.md) | 1 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 6 |
-| root | [`README.md`](../README.md) | 4 |
+| root | [`README.md`](../README.md) | 5 |
+| root | [`_internal/reading_brief_sixteen.md`](../_internal/reading_brief_sixteen.md) | 2 |
 | root | [`model_regulations_v1_draft.md`](../model_regulations_v1_draft.md) | 2 |
+| root | [`CLAUDE.md`](../CLAUDE.md) | 1 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 13 |
 
 ## SEC. 7 — PERSONAL ECONOMIC CONSEQUENCES
 
-**133 references across 22 files.** Anchor: `#sec-7`
+**137 references across 22 files.** Anchor: `#sec-7`
 
 **Sub-clauses referenced:** `SEC. 7(b)` ×30 · `SEC. 7(a)` ×26 · `SEC. 7(b)(5)` ×15 · `SEC. 7(b)(1)(A)` ×4 · `SEC. 7(b)(1)` ×4 · `SEC. 7(b)(2)` ×2 · `SEC. 7(b)(1)(B)` ×2 · `SEC. 7(b)(4)` ×2
 
@@ -347,8 +352,8 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | statute | [`model_act_v3_4.txt`](../model_act_v3_4.txt) | 5 |
 | cure | [`audit/v3_4_cure_language.md`](../audit/v3_4_cure_language.md) | 2 |
 | cure | [`audit/v3_5_cure_language.md`](../audit/v3_5_cure_language.md) | 2 |
-| authority | [`standards/table_of_authorities.md`](../standards/table_of_authorities.md) | 1 |
-| erratum | [`ledger/errata.md`](../ledger/errata.md) | 7 |
+| authority | [`standards/table_of_authorities.md`](../standards/table_of_authorities.md) | 2 |
+| erratum | [`ledger/errata.md`](../ledger/errata.md) | 9 |
 | standard | [`standards/section_index.md`](../standards/section_index.md) | 9 |
 | standard | [`standards/what_these_words_mean.md`](../standards/what_these_words_mean.md) | 3 |
 | standard | [`standards/frontier_self_reporting_note.md`](../standards/frontier_self_reporting_note.md) | 2 |
@@ -363,12 +368,12 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | packet (generated) | [`packets/criminal_law.md`](../packets/criminal_law.md) | 2 |
 | packet (generated) | [`packets/proportionality.md`](../packets/proportionality.md) | 1 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 4 |
-| root | [`README.md`](../README.md) | 1 |
+| root | [`README.md`](../README.md) | 2 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 11 |
 
 ## SEC. 8 — CERTIFICATION
 
-**246 references across 44 files.** Anchor: `#sec-8`
+**247 references across 44 files.** Anchor: `#sec-8`
 
 | Kind | Where | Refs |
 |---|---|---|
@@ -413,13 +418,13 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | sealed | [`filings/docket_fda_2024_d_4488_reading_notes.md`](../filings/docket_fda_2024_d_4488_reading_notes.md) | 9 |
 | sealed | [`filings/banked_threads.md`](../filings/banked_threads.md) | 1 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 3 |
-| root | [`README.md`](../README.md) | 1 |
+| root | [`README.md`](../README.md) | 2 |
 | root | [`model_regulations_v1_draft.md`](../model_regulations_v1_draft.md) | 1 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 5 |
 
 ## SEC. 9 — INCIDENT REPORTING
 
-**284 references across 39 files.** Anchor: `#sec-9`
+**285 references across 39 files.** Anchor: `#sec-9`
 
 **Sub-clauses referenced:** `SEC. 9(a)` ×69 · `SEC. 9(b)` ×40 · `SEC. 9(c)` ×26 · `SEC. 9(d)` ×4
 
@@ -461,13 +466,13 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | sealed | [`dossier/README.md`](../dossier/README.md) | 29 |
 | sealed | [`filings/docket_fda_2024_d_4488_reading_notes.md`](../filings/docket_fda_2024_d_4488_reading_notes.md) | 4 |
 | root | [`model_regulations_v1_draft.md`](../model_regulations_v1_draft.md) | 4 |
-| root | [`README.md`](../README.md) | 1 |
+| root | [`README.md`](../README.md) | 2 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 1 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 11 |
 
 ## SEC. 10 — ENFORCEMENT AND PENALTIES
 
-**268 references across 34 files.** Anchor: `#sec-10`
+**269 references across 34 files.** Anchor: `#sec-10`
 
 **Sub-clauses referenced:** `SEC. 10(a)` ×47 · `SEC. 10(c)(2)` ×30 · `SEC. 10(c)` ×24 · `SEC. 10(c)(2)(D)` ×18 · `SEC. 10(b)` ×17 · `SEC. 10(f)` ×17 · `SEC. 10(c)(4)` ×16 · `SEC. 10(d)(2)` ×14 · `SEC. 10(c)(3)` ×11 · `SEC. 10(e)` ×11
 
@@ -505,12 +510,12 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | sealed | [`filings/docket_fda_2024_d_4488_reading_notes.md`](../filings/docket_fda_2024_d_4488_reading_notes.md) | 1 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 8 |
 | root | [`model_regulations_v1_draft.md`](../model_regulations_v1_draft.md) | 4 |
-| root | [`README.md`](../README.md) | 1 |
+| root | [`README.md`](../README.md) | 2 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 10 |
 
 ## SEC. 11 — WHISTLEBLOWERS
 
-**97 references across 25 files.** Anchor: `#sec-11`
+**98 references across 25 files.** Anchor: `#sec-11`
 
 **Sub-clauses referenced:** `SEC. 11(a)` ×12 · `SEC. 11(d)` ×9 · `SEC. 11(e)` ×4 · `SEC. 11(b)` ×4 · `SEC. 11(f)` ×3
 
@@ -539,12 +544,12 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | sealed | [`filings/docket_fda_2024_d_4488_reading_notes.md`](../filings/docket_fda_2024_d_4488_reading_notes.md) | 1 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 4 |
 | root | [`model_regulations_v1_draft.md`](../model_regulations_v1_draft.md) | 3 |
-| root | [`README.md`](../README.md) | 1 |
+| root | [`README.md`](../README.md) | 2 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 2 |
 
 ## SEC. 12 — MACHINERY
 
-**191 references across 32 files.** Anchor: `#sec-12`
+**193 references across 32 files.** Anchor: `#sec-12`
 
 | Kind | Where | Refs |
 |---|---|---|
@@ -577,13 +582,13 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | packet (generated) | [`packets/fiscal.md`](../packets/fiscal.md) | 1 |
 | sealed | [`dossier/README.md`](../dossier/README.md) | 8 |
 | sealed | [`filings/docket_fda_2024_d_4488_reading_notes.md`](../filings/docket_fda_2024_d_4488_reading_notes.md) | 1 |
+| root | [`README.md`](../README.md) | 3 |
 | root | [`model_regulations_v1_draft.md`](../model_regulations_v1_draft.md) | 3 |
-| root | [`README.md`](../README.md) | 1 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 11 |
 
 ## SEC. 13 — SEVERABILITY, CONFORMING OPERATION, AND REVIVAL
 
-**170 references across 29 files.** Anchor: `#sec-13`
+**171 references across 29 files.** Anchor: `#sec-13`
 
 **Sub-clauses referenced:** `SEC. 13(c)` ×15 · `SEC. 13(b)(3)` ×15 · `SEC. 13(c)(2)(C)` ×13 · `SEC. 13(b)(5)` ×12 · `SEC. 13(b)(1)` ×12 · `SEC. 13(c)(2)(D)` ×10 · `SEC. 13(b)` ×9 · `SEC. 13(c)(3)` ×6 · `SEC. 13(a)` ×5 · `SEC. 13(c)(2)` ×4
 
@@ -616,6 +621,6 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | packet (generated) | [`packets/security.md`](../packets/security.md) | 1 |
 | sealed | [`dossier/README.md`](../dossier/README.md) | 4 |
 | root | [`REVIEWERS.md`](../REVIEWERS.md) | 6 |
-| root | [`README.md`](../README.md) | 1 |
+| root | [`README.md`](../README.md) | 2 |
 | archive | [`archive/model_act_v3_3_companion.md`](../archive/model_act_v3_3_companion.md) | 12 |
 

@@ -2449,3 +2449,869 @@ entered because the sentence arrived through *Ahmad* rather than from the report
 says a quotation held in a working summary is not a quotation; **a quotation held in an adversary's
 brief is not a holding**, and an adversary has every reason to stop reading at the sentence that
 helps.
+
+## E65 — *Global-Tech* called a constitutional ceiling in three files, and it decides no constitutional question
+
+**Status: published in `standards/what_these_words_mean.md`, `packets/criminal_law.md` and
+`audit/v3_5_cure_language.md`. Corrected on reading the opinion, 26 August 2026.**
+
+**What was published**, in identical words in all three files:
+
+> "The constitutional ceiling is *Global-Tech Appliances, Inc. v. SEB S.A.*, 563 U.S. 754, 769
+> (2011)."
+
+**The pincite is right and the characterization is wrong.** Read in the govinfo U.S. Reports print,
+which carries real reporter pagination, page **769** carries the two-part test:
+
+> "While the Courts of Appeals articulate the doctrine of willful blindness in slightly different
+> ways, all appear to agree on two basic requirements: (1) The defendant must subjectively believe
+> that there is a high probability that a fact exists and (2) the defendant must take deliberate
+> actions to avoid learning of that fact."
+
+**That is not a constitutional holding.** *Global-Tech* is a **civil** patent case under 35 U.S.C.
+§ 271(b). The passage is the Court's distillation of what the Courts of Appeals already agree on —
+"all appear to agree" — supported by a footnote collecting one case from each circuit. No
+constitutional question is presented, argued or decided. The word "constitutional" appears in this
+project's sentence and nowhere in the Court's.
+
+**The one constitutional touch in the opinion is a different doctrine.** At **767** the Court notes
+that it has used the Model Penal Code's definition of knowledge "as a guide in analyzing whether
+certain **statutory presumptions of knowledge** comported with due process," citing *Turner v.
+United States*, 396 U.S. 398, 416–417 (1970) and *Leary v. United States*, 395 U.S. 6, 46–47 and
+n.93 (1969). A due-process limit on a *statutory presumption* is not a constitutional ceiling on a
+*judicially administered doctrine*, and the two were merged somewhere between reading about the case
+and writing about it.
+
+### What is true, and is worth more to this Act than what was claimed
+
+**The test is a ceiling in substance, by ordinary stare decisis rather than by the Constitution**,
+and it binds in the direction SEC. 6(b) needs. At **770** the Court rejects the Federal Circuit's
+looser standard in terms — it "departs from the proper willful blindness standard in two important
+respects": it allowed knowledge on "merely a 'known risk'", and demanding only "deliberate
+indifference" it "does not require active efforts by an inducer to avoid knowing." The Court fixes
+willful blindness above recklessness and negligence: a willfully blind defendant "can almost be said
+to have actually known the critical facts," while "a reckless defendant is one who merely knows of a
+substantial and unjustified risk."
+
+### And the answer to the criminal-versus-civil question runs the other way
+
+The question asked of this case was whether the Court limits willful blindness in criminal as
+against civil contexts. **It does the reverse.** At **766**: "The doctrine of willful blindness is
+well established in criminal law." At **768**, having traced that history: "we can see no reason why
+the doctrine should not apply in **civil** lawsuits for induced patent infringement under 35 U.S.C.
+§ 271(b)." The movement is criminal outward into civil, and the opinion contains no sentence
+narrowing the doctrine for criminal cases.
+
+**Which leaves a smaller problem in place of the one that was claimed.** The authority this Act cites
+for the criminal knowledge element of SEC. 6(b) is a civil case, describing criminal practice
+accurately but deciding a civil question. That is a fair citation and it should be made in those
+words, not dressed as a constitutional limit.
+
+### The rule
+
+**E65 — "constitutional" is a claim about what a court decided, not an intensifier for how firmly it
+said it.** A rule can bind without being constitutional, and describing it as constitutional
+attributes to a court a question it was never asked. Before writing that an authority sets a
+constitutional limit, name the constitutional provision and the party who raised it.
+
+**The pincite survived the characterization, and that is the part to notice.** [E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication)
+separates text from page as two claims verified separately. This entry adds a third: **the
+proposition a pincite is offered *for* is a claim too**, and a correct page number lends it a
+borrowed credibility it has not earned.
+
+## E66 — half of *Johnson & Towers* published as the whole of it, and the missing half is the half that bears on SEC. 6(d)
+
+**Status: published in `standards/table_of_authorities.md` and `audit/v3_5_cure_language.md` (CURE
+22). Corrected on reading the opinion, 26 August 2026.**
+
+**What was published.** That *United States v. Johnson & Towers, Inc.*, 741 F.2d 662 (3d Cir. 1984)
+holds, as "the Third Circuit's outlier rule", that the jury must find the defendant "knew a permit
+was required and that none was held". CURE 22 carries it as the Third Circuit's side of a split.
+
+**That much is verbatim in the opinion**, in the body of Part III.B:
+
+> "in light of our interpretation of section 6928(d)(2)(A), it is evident that the district court
+> will be required to instruct the jury, inter alia, that in order to convict each defendant the
+> jury must find that each knew that Johnson & Towers was required to have a permit, and knew that
+> Johnson & Towers did not have a permit."
+
+**The next sentence was not published, and it is the court's own qualification:**
+
+> "Depending on the evidence, the district court may also instruct the jury that such knowledge may
+> be inferred."
+
+**And Part IV states the holding with the qualification built into it:**
+
+> "we conclude that the individual defendants are 'persons' within section 6928(d)(2)(A), that all
+> the elements of that offense must be shown to have been knowing, **but that such knowledge,
+> including that of the permit requirement, may be inferred by the jury as to those individuals who
+> hold the requisite responsible positions with the corporate defendant.**"
+
+**The knowledge requirement and the route around it are one sentence, and this project published the
+first clause.** The court says as much itself at the head of Part III.B: its conclusion "does not
+impose on the government as difficult a burden as it fears."
+
+### What this does to CURE 22
+
+CURE 22's new text for SEC. 6(b) ends with a sentence written as a concession against the Act's own
+convenience:
+
+> "Responsibility and authority under SEC. 6(d), standing alone, do not establish knowledge."
+
+**On the sentence *Johnson & Towers* actually holds, the Third Circuit permits the inference that
+sentence declines to permit** — knowledge "may be inferred by the jury as to those individuals who
+hold the requisite responsible positions with the corporate defendant." The two are not in
+contradiction: a permissive inference a jury may draw is not the same as a matter established as a
+matter of law, and SEC. 6(b) may be drafted more narrowly than RCRA if that is the choice. **But the
+concession was drafted as though the authority compelled it, and it does not.** It is a policy
+choice, and it should be defended as one.
+
+### The second half of the question, which the row does not answer
+
+**The rule is confined to the subsection and is not stated generally.** The court's own words tie it
+to the construction it had just performed — "in light of our interpretation of section
+6928(d)(2)(A)" — and Part IV repeats the confinement. Carrying it as "the Third Circuit's rule" on
+knowledge of a legal requirement, unqualified, is broader than the opinion.
+
+### The pincite, and a third copy the shelf did not know it had
+
+**669 remains unconfirmed, and the reason is not the one the row gives.** Three copies are held:
+
+| Copy | Pagination |
+|---|---|
+| law.resource.org reporter capture | none — continuous text, paragraph-numbered |
+| FindLaw capture | none — the reporter pages are absent |
+| OpenJuris capture, filed as `_second-copy` | **star pagination, `*664`** — and one page only, "Page 1 of 1" |
+
+**The only copy on the shelf that carries star pagination is a one-page capture that stops five pages
+short of the pincite.** Under [E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication)
+669 stays the secondary source's and the ⚠ stays with it.
+
+**And the filename is the finding.** `_second-copy` says nothing about what distinguishes this copy
+from the other two — that it is a truncated single page, and that it is the only one with real
+pagination. `CLAUDE.md` records that a filename is a claim written by the same process that writes
+the claims it warns about, and that nothing checks them. **This one understated a capability and
+concealed a truncation in the same word.**
+
+### The rule
+
+**E66 — a holding that states a requirement and then states how it may be satisfied is one holding.**
+Quoting the requirement and stopping is not an elision of detail; it reverses the balance the court
+struck, because the second clause exists to answer the objection the first clause invites.
+
+This is [E64](#e64--a-view-the-supreme-court-declines-to-adopt-published-as-the-rule-it-adopted)'s
+neighbour rather than its repeat. E64 is a court stating a proposition **in order to reject it**.
+Here the court states the rule and means it — **and qualifies it in the following breath**, so the
+quotation is accurate, the attribution is correct, and the reader is still misled about what the case
+does. **Reading the sentence after is not only a test for whether the court believed it.**
+
+## E67 — *Bank of New England* misdated by three years, and its most-quoted sentence belongs to a district court in West Virginia
+
+**Status: published in `standards/what_these_words_mean.md`, `docs/known_objections.md` and
+`standards/table_of_authorities.md`. Corrected on reading the opinion, 26 August 2026.**
+
+**What was published**, in the glossary and in the same form in the other two files:
+
+> *United States v. Bank of New England, N.A.*, 821 F.2d 844, 856 (1st Cir. **1984**): "a corporation
+> cannot plead innocence by asserting that the information obtained by several employees was not
+> acquired by any one individual who then would have comprehended its full import. Rather the
+> corporation is considered to have acquired the collective knowledge of its employees and is held
+> responsible for their failure to act accordingly."
+
+### Three things are wrong with that, and the quotation is not one of them
+
+**First, the year.** The opinion was **argued March 4, 1987 and decided June 10, 1987**. It is
+821 F.2d 844 (1st Cir. **1987**). The library filename has carried 1987 since the file arrived; three
+published files carried 1984. The date most likely migrated from the conduct — the charged
+transactions run from May 1983 to July 1984 — and no one asked which was which.
+
+**Second, and this is the substance: the sentence is not the First Circuit's.** It is a block
+quotation, and the line immediately following it in the opinion gives the source:
+
+> "*United States v. T.I.M.E.-D.C., Inc.*, 381 F. Supp. at 738."
+
+The words are those of the **United States District Court for the Southern District of West
+Virginia**, 1974, quoted with approval by the First Circuit. This project published a district
+court's sentence as a court of appeals holding, in a glossary entry defining the doctrine.
+
+**Third, "at 856" cannot be checked.** The copy held is a law.resource.org capture with no star
+pagination, as its filename says. Under [E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication)
+the pincite stays the secondary source's and the ⚠ stays with it.
+
+### What the First Circuit does say in its own words, which is stronger than what was quoted
+
+> "A collective knowledge instruction is entirely appropriate in the context of corporate criminal
+> liability. … Corporations compartmentalize knowledge, subdividing the elements of specific duties
+> and operations into smaller components. The aggregate of those components constitutes the
+> corporation's knowledge of a particular operation."
+
+And, upholding the charge: "Since the Bank had the compartmentalized structure common to all large
+corporations, the court's collective knowledge instruction was not only proper but **necessary**."
+
+**The instruction the court approved is quoted in the opinion and this project has never carried it:**
+
+> "In addition, however, you have to look at the bank as an institution. As such, its knowledge is
+> the sum of the knowledge of all of the employees. … So, if Employee A knows one facet of the
+> currency reporting requirement, B knows another facet of it, and C a third facet of it, the bank
+> knows them all."
+
+### The tension this was expected to expose is not there, and a different one is
+
+The question put to this case was whether a broadly stated collective-knowledge doctrine sits badly
+with SEC. 4, which locates authority in one natural person. **It does not, and the reason is in the
+first line the court wrote about it.** Collective knowledge is a rule of **corporate** criminal
+liability: knowledge of employees "is **imputed to the corporation**," and the aggregate "constitutes
+**the corporation's** knowledge." The doctrine has no operation against a natural person, and no
+case cited in the string supporting it aggregates the knowledge of several people onto one defendant.
+
+**So `docs/known_objections.md` and the glossary both overstate the Act's own modesty.** They say the
+Act "declines to aggregate", which reads as a choice to give up an available tool. **The tool was
+never available against an individual.** The Act is not declining collective knowledge; it is
+operating in the register where the doctrine does not reach. That is a smaller claim and a true one,
+and it survives a reader who knows the case.
+
+### And a theory in the same instruction that the repository has never mentioned
+
+The trial judge gave the jury a **second** route to willfulness, which the First Circuit also upheld:
+
+> "the bank as an institution has certain responsibilities … you will have to determine whether the
+> bank as an organization **consciously avoided learning about and observing** CTR requirements. The
+> Government to prove the bank guilty on this theory, has to show that its failure to file was the
+> result of some **flagrant organizational indifference**."
+
+**That is willful blindness at the level of the organization**, with the jury directed to weigh "the
+bank's effort, if any, to inform its employees of the law; its effort to check on their compliance;
+its response to various bits of information", and its policies against "how it carried out its stated
+policies." It is the entity-level analogue of what SEC. 6(b) does to a person, it is approved
+appellate authority, and this repository has cited *Bank of New England* five times without it.
+
+### The rule
+
+**E67 — a quotation inside a block quote belongs to whoever the citation under it names.** An
+appellate court quoting a district court with approval makes that sentence persuasive, not its own,
+and the difference is the difference between a First Circuit holding and a 1974 district court in
+West Virginia. **Where a quotation is followed by a bare citation rather than by more of the court's
+prose, that citation is the attribution.**
+
+**And the smaller rule, which cost less but recurs.** A case's date is a fact about the opinion, not
+about the conduct. **Where a published year sits inside the span of years the facts cover, check
+it** — 1984 was in the indictment, and that is exactly why it looked right.
+
+## E68 — *Caremark* can settle its own pincite after all, and the sentence before the famous one answers the objection the famous one was raising
+
+**Status: the pincite question is resolved in the repository's favour; two elisions and one
+characterization are corrected. Read 26 August 2026.**
+
+### The provenance caveat was right about the document and wrong about the pagination
+
+`standards/table_of_authorities.md` and `research/verification_record.md` both said of the copy held
+— a Thomson Reuters/Westlaw reprint with KeyCite headers, hosted by Penn Carey Law — that "**whether
+it may confirm 971 is a question for whoever reads it**."
+
+**It confirms it.** The reprint carries star pagination throughout, `*960` to `*972`, and the
+oversight passage falls between the `*971` and `*972` markers. **971 is confirmed from the copy on
+the shelf.**
+
+**The distinction worth keeping.** "Not an official court print" is a claim about whose text this is
+— the reprint is Thomson Reuters' rendering, not the Atlantic Reporter's own — and it remains true.
+It is not a claim about whether page boundaries are marked, and the filename's caveat was read as
+though it were both. **A provenance limit and a pagination limit are separate properties of a copy**,
+and this shelf has been treating "unofficial" as implying "unpaginated" since the file arrived.
+
+### The quotation is verbatim, and two things were dropped from it
+
+`standards/what_these_words_mean.md` carries it exactly as the opinion has it. **The opinion opens
+the clause with three words this project drops without an ellipsis:**
+
+> "Generally where a claim of directorial liability for corporate loss is predicated upon ignorance
+> of liability creating activities within the corporation, as in *Graham* or in this case, **in my
+> opinion** only a sustained or systematic failure of the board to exercise oversight . . . ."
+
+**"In my opinion" is Chancellor Allen marking the standard as his own view**, in the paragraph that
+became the most-cited passage in Delaware oversight law. Under [E48](#e48--a-published-quotation-with-two-words-the-court-did-not-write-and-both-were-ours)
+an elision is an edit, and this one removes the author's own hedge from a sentence this project
+offers as settled doctrine.
+
+**And the standard is confined, in the same sentence, to the branch of the case it decides** — claims
+"predicated upon **ignorance** of liability creating activities". It is not a general standard for
+director oversight, and both files present it as one.
+
+### The reservation two sentences earlier, which the objection never had to survive
+
+`docs/known_objections.md` builds the corporate-law objection on this passage: Delaware "set the bar
+high on purpose", so a state criminalizing the same conduct at a lower threshold "has overridden a
+considered judgment about how much protection a decision-maker needs."
+
+**Chancellor Allen expressly declines to decide the case this Act is about.** At 971, in the
+paragraph immediately preceding:
+
+> "Thus, this case presents no occasion to apply a principle to the effect that **knowingly causing
+> the corporation to violate a criminal statute** constitutes a breach of a director's fiduciary
+> duty. See *Roth v. Robertson*, 64 Misc. 343, 118 N.Y.S. 351 (N.Y. Sup. Ct. 1909); *Miller v.
+> American Tel. & Tel. Co.*, 507 F.2d 759 (3d Cir. 1974)."
+
+**The considered judgment Delaware made was about ignorance. It was not made about knowing
+violation, and the court said so while making it** — and cited two authorities going the other way
+on the reserved question. SEC. 6(b) is a knowing-conduct offense. **The objection, at the strength
+this page gives it, does not reach SEC. 6(b) at all**, and the answer has been sitting two sentences
+above the quotation since the objection was written.
+
+That does not dispose of the objection against **SEC. 6(a)**, whose floor is a failure of due care
+and which really does sit below the *Caremark* bar. The page should make that division rather than
+answering for the whole Act.
+
+### The rule
+
+**E68 — a caveat in a filename names one limit, and a reader will generalize it to every limit that
+sounds like it.** "Not an official print" was allowed to mean "cannot settle a page" for as long as
+the file sat unopened. **Check the property you actually need against the document, because the
+label warns about a different one.**
+
+**And the reservation is part of the holding.** [E64](#e64--a-view-the-supreme-court-declines-to-adopt-published-as-the-rule-it-adopted)
+covers a proposition a court states in order to reject it. This is a court stating what it is **not**
+deciding, next to what it is — and the sentence a project quotes is worth less than the sentence
+saying which cases it governs.
+
+## E69 — the instrument built to prevent E60 could not see the shelf, and said so in a line nobody read
+
+**Status: found and fixed 26 August 2026, while running the checkers before a hand-off. Nothing was
+published wrong; the guarantee simply was not running.**
+
+**What happened.** `check_quotations.py`, written this afternoon in answer to
+[E60](#e60--the-registers-most-cited-fabrication-finding-was-itself-wrong-and-a-real-quotation-was-deleted-on-the-strength-of-it),
+resolves the shelf from a single hardcoded path:
+
+> `LIB = os.path.expanduser("~/mnt/faap/library/_text")`
+
+**`~/mnt` does not exist on this machine.** The library is at `../library/_text`. Every run of the
+tool produced exactly one line —
+
+> `*** SHELF NOT REACHABLE at /Users/kris/mnt/faap/library/_text — this run proves nothing ***`
+
+— and exited. **No quotation was checked, and `--negatives` re-tested nothing.**
+
+### Why this is worse than an ordinary broken script
+
+`CLAUDE.md` records the guarantee this tool exists to provide: negative findings "are re-tested on
+**every run** by `check_quotations.py --negatives`", because "a false positive is caught by the next
+reader; **a false negative is caught by nothing.**" That re-test is the only mechanism standing
+behind a deleted sentence. **It has not run since the tool was written.**
+
+**The banner was honest and that is the whole problem.** The tool did not claim a clean pass — it
+said in terms that the run proved nothing, which is the correct behaviour and the reason this entry
+records no wrong publication. **An honest failure message is still a silent failure if the number it
+replaces is the number anyone looks at.** `CLAUDE.md` warns that "a silent skip and a clean pass look
+identical in output". This is the neighbouring case: **a loud skip and a clean pass look different,
+and are read the same**, because both end the run without a complaint to act on.
+
+### The fix, and what it now shows
+
+The path resolves against three candidates in order — the maintainer's device mount, `../library`
+beside the repository, and a local working copy — taking the first that exists, and falling back to
+the mount so the existing banner still fires when none does. The post-mortem is in the file, per the
+standing rule that these scripts carry their defects beside them.
+
+**First real run: 245 shelf files, 1,108 published quotations of 60 characters or more, 100 found on
+the shelf.** The three recorded negative findings all re-test as **confirmed present**, which is what
+[E62](#e62--the-third-fabrication-was-a-misattribution-and-the-instrument-built-to-catch-this-found-it-on-its-first-run)
+established by hand and nothing had re-established since.
+
+**One shelf file has no extractable text** — `BILL_CO-SB25B-004_signed-act_2025-08.txt` — so a miss
+against that source means nothing at all, and the tool now says so on every run.
+
+### The rule
+
+**E69 — a tool that reports its own failure has not thereby reported it to anyone.** Before relying
+on a checker's guarantee, run it once and confirm it can reach what it checks. **A guarantee that
+depends on a path is a guarantee about a machine**, and this repository is worked on from more than
+one.
+
+**And the caution it repeats.** `CLAUDE.local.md` records that tool-building is where this assistant
+over-produces, and that several of 26 August's errata were caused by checkers written that same
+afternoon. **This is the fourth.** The instrument was correct in design, complete in its reasoning
+about false negatives, and pointed at a directory that was not there.
+
+## E70 — *Cedar Point*'s "sine qua non" is a law professor's phrase in a *see also* parenthetical, and the case says nothing about intangible property
+
+**Status: published in `docs/known_objections.md` and `standards/table_of_authorities.md`. Corrected
+on reading the opinion, 26 August 2026.**
+
+**What was published**, in the takings objection stated at its strongest:
+
+> "the right to exclude is the 'sine qua non' of the property interest (*Cedar Point Nursery v.
+> Hassid*, 594 U.S. 139, 150 (2021))."
+
+**Read in the opinion, the phrase is there and it is not the Court's.** It appears once, at the end
+of a string citation, in the weakest signal the Bluebook has:
+
+> "*see also* Merrill, *Property and the Right to Exclude*, 77 Neb. L. Rev. 730 (1998) (**calling**
+> the right to exclude the 'sine qua non' of property)."
+
+**A parenthetical characterizing an academic article is not a holding, and "calling" is the
+Court's own word for what Merrill does with it.** The table row carried it as the proposition the
+case is cited for.
+
+**The Court's own words for the same idea, in the same paragraph, are weaker and are themselves
+quotations:** the right to exclude is "universally held to be a fundamental element of the property
+right" and "one of the most essential sticks in the bundle of rights that are commonly characterized
+as property" — both quoted from *Kaiser Aetna v. United States*, 444 U.S. 164, 176, 179–180 (1979).
+**The pincite this project needs is to *Kaiser Aetna*, and the sentence it wants is forty-two years
+older than the case it credited.**
+
+### The per se limb, verbatim, and it is narrower than the objection assumed
+
+> "The essential question is not, as the Ninth Circuit seemed to think, whether the government action
+> at issue comes garbed as a regulation (or statute, or ordinance, or miscellaneous decree). It is
+> whether the government has **physically taken property** for itself or someone else—by whatever
+> means—or has instead **restricted a property owner's ability to use his own property**. . . .
+> Whenever a regulation results in a **physical appropriation** of property, a per se taking has
+> occurred, and *Penn Central* has no place."
+
+**The dividing line is physical appropriation against restriction on use, and it is stated as the
+essential question.** *Cedar Point* concerns a right to "physically enter and occupy the growers'
+land for three hours per day, 120 days per year."
+
+### What the case does not contain, which is the finding
+
+**The words "trade secret" and "intangible" do not appear in the opinion. Neither does
+*Ruckelshaus*.** *Cedar Point* is about physical entry onto land, and its companion authority
+*Horne* is about raisins — tangible personal property physically set aside for the government.
+
+`docs/known_objections.md` builds the objection by pairing *Ruckelshaus* (trade secrets are property)
+with *Cedar Point* (the right to exclude is the property itself), and then reasons at point **Two**
+that "the per se limb may not care about publication at all", so "a compelled handover to the State
+is a handover whether or not the State prints it."
+
+**That step needs a bridge *Cedar Point* does not build.** Extending a per se physical-appropriation
+rule from occupying land to compelling the production of records is the whole of the argument, and
+the case cited for it never reaches intangible property, never cites the case that does, and frames
+its own rule around whether property was **physically** taken. The objection may still be good — but
+it is good on *Ruckelshaus* and on an extension nobody has briefed here, not on *Cedar Point*.
+
+**The prediction in the reading brief was right and this is the second instance.** The takings
+section was built reading *Ruckelshaus* and *Cedar Point* through the xAI plaintiff's brief.
+*Ruckelshaus* was read and came out narrower and more favourable to this Act than the brief implied.
+So does this.
+
+### The pincite cannot be settled, and the second copy is a label
+
+**Two copies are held and neither carries U.S. Reports pagination.** The supremecourt.gov slip
+opinion carries slip pages, as its filename says. **The second copy — filed as
+`594-US-139_2021_Justia` — carries no internal reporter pagination at all**, only the print pagination
+of the capture ("Page 22 of 26"). The reporter citation lives in the filename and the URL.
+
+Under [E58](#e58--a-citation-that-exists-only-in-a-url-and-a-page-title-is-not-a-citation-and-it-nearly-overwrote-a-correct-one)
+a citation that exists only in a URL or a filename is a label, not a citation. **This filename
+promises reporter pagination and delivers none**, and it was the more promising of the two copies on
+its name alone. **150 stays the plaintiff's brief's pincite** ([E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication)).
+
+### The rule
+
+**E70 — a citation signal is part of the citation.** *See also* introducing a parenthetical that
+reports what an academic "call[s]" something is the furthest a court can stand from adopting a
+phrase while still printing it. **Before attributing a quoted phrase to a court, find what
+introduces it**, and if the answer is a signal rather than the court's own sentence, the phrase
+belongs to whoever the citation names.
+
+**And the corollary this project keeps meeting.** [E67](#e67--bank-of-new-england-misdated-by-three-years-and-its-most-quoted-sentence-belongs-to-a-district-court-in-west-virginia)
+found a district court's sentence published as a court of appeals'. This finds a law review's phrase
+published as the Supreme Court's. **Both arrived the same way: from a source quoting the case rather
+than from the case**, and in both the real author was named on the page all along.
+
+## E71 — which *Walton* opinion is 294 A.3d 65 cannot be settled from the shelf, and the only source that answered it is one E59 already discredited
+
+**Status: the question E59 opened is examined and stays open. Recorded because "still open" is a
+finding when the reason is known, and because one source that looked like an answer is not one.**
+
+**The question, narrowly.** C.A. No. 2021-0827-JTL produced two opinions two weeks apart
+([E59](#e59--two-opinions-two-weeks-apart-under-one-case-number-and-a-date-i-confirmed-from-three-sources-that-the-document-contradicts)).
+This repository cites *Walton* as **294 A.3d 65, 90, 92**. Which opinion carries that citation?
+
+**Both are on the shelf and read. Neither answers it.**
+
+| | Laches opinion | Demand-futility opinion |
+|---|---|---|
+| Caption | "OPINION ADDRESSING DEFENDANTS' MOTION TO DISMISS ON THE BASIS OF LACHES" | "MEMORANDUM OPINION" |
+| Submitted | 13 January 2023 | 13 January 2023 |
+| Decided | **12 April 2023** | **26 April 2023** |
+| Last slip page | 62 | 121 |
+
+**Neither PDF carries an Atlantic Reporter stamp anywhere**, which is ordinary — a slip opinion is
+published before the reporter citation exists. **The shelf cannot settle this**, and no further
+reading of these two documents will change that.
+
+### The source that appeared to answer it, and why it does not
+
+`research/verification_record.md` carries a **◐ model-mediated** row asserting: "Laster V.C.,
+26 Apr. 2023, C.A. 2021-0827-JTL, **58 pp.**, reported **294 A.3d 65**."
+
+**That row is wrong about the page count in a way that is checkable, and it is now checked.** The
+26 April opinion runs to slip page **121**, not 58. E59 already recorded that "two separate
+model-mediated fetches" reported 56 or 58 pages for a document that has 64. **This is the same
+family of fetch, wrong by the same margin, and its reporter citation carries exactly the credibility
+of its page count.** Under [E57](#e57--a-new-provenance-grade-because-three-sources-arrived-by-a-route-this-register-had-no-name-for)
+a model-mediated fetch is a lead, not a reading, and this one has now failed the only part of itself
+that could be tested.
+
+### What reading the two opinions did establish
+
+**The 26 April opinion cites the 12 April opinion, and does it by Westlaw number:**
+
+> "*Ontario Provincial Council of Carpenters' Pension Tr. Fund v. Walton* (**Walmart Laches**),
+> **2023 WL 2904946**, at \*18 (Del. Ch. Apr. 12, 2023)."
+
+Two things follow. **As of 26 April 2023 the laches opinion had no Atlantic Reporter citation to give**
+— which is consistent with either eventually taking 294 A.3d 65 and settles nothing between them.
+
+**And the court supplies the short form this repository needs.** Vice Chancellor Laster calls the
+earlier one ***Walmart Laches***, and relies on it at \*18 and \*21 of the later one. E59's rule is
+that a case number is not a document; **the court had already solved the naming problem**, and
+adopting *Walmart Laches* for the April 12 opinion and *Walmart Demand Futility* for the April 26
+opinion makes the collision hard to repeat.
+
+### The temptation that was declined, and it is E47's
+
+The published pincites are 90 and 92; the confirmed quotations sit at slip op. 76 and 77–78 of the
+26 April opinion. **A ratio can be computed from those numbers that makes 90 and 92 look right**, and
+a 62-page laches opinion beginning at 65 would end well before 90, which makes the answer look
+obvious.
+
+**That reasoning is not permitted here and would not be worth much if it were.** E47's rule is that a
+page produced by a process is not a page read from a document, and its second-order rule is that the
+most persuasive form an invention takes is one that agrees with the arithmetic. **The pincites 90 and
+92 come from the same secondary source whose account of this case has now been wrong three times**;
+using them to identify the opinion and then reporting them as confirmed against it would be circular.
+
+### What would settle it
+
+**One look at 294 A.3d 65 in the Atlantic Reporter**, or any reporter-paginated copy of either
+opinion. Until then the row keeps its ⚠ on 90 and 92, the citation stays as published with its source
+named, and **neither opinion may be described as "the" reported one**.
+
+### The rule
+
+**E71 — when a source is shown wrong on a fact that can be checked, its other facts do not survive
+on their own.** The ◐ row was believed for its reporter citation while being disbelieved for its page
+count, and those arrived together from one fetch. **A retrieval is credited or discredited whole**,
+unless some part of it has been independently confirmed.
+
+## E72 — the "no-fault" claim at n.18 is good, the authority for it is now read, and the "split" attached to it is the law firm's word and not the court's
+
+**Status: a debt paid rather than an error published. One characterization in
+`standards/table_of_authorities.md` is corrected. Read 26 August 2026.**
+
+**What was owed.** `model_act_v3_4_companion.md` n.18 asserts that the clawback "keeps
+Sarbanes-Oxley § 304's **no-fault** severity". The table row recorded that this was
+"[t]he appellate authority this project's 'no-fault clawback' characterization rests on and does not
+cite", known only from a law-firm alert, and that the claim "remains uncited until someone reads it."
+
+**It is read, and the claim holds.** *SEC v. Jensen*, 835 F.3d 1100 (9th Cir. 2016), holding
+verbatim:
+
+> "In accordance with its text and legislative history, we hold that SOX 304 allows the SEC to seek
+> disgorgement from CEOs and CFOs **even if the triggering restatement did not result from misconduct
+> on the part of those officers**."
+
+The reasoning is textual and the court states it plainly: the clause "as a result of misconduct"
+modifies "the material noncompliance of **the issuer**", so "it is the issuer's misconduct that
+matters, and not the personal misconduct of the CEO or CFO." The court adds that Congress "knew how
+to draft a statute that would limit the disgorgement remedy to cases of officer or director
+misconduct, and chose not to do so", contrasting the enacted text with a rejected House version.
+
+**First in the courts of appeals, in the court's own words:** "While we are aware of no circuit court
+that has addressed this issue, most district courts to have examined it have concluded that SOX 304
+does not require CEOs or CFOs to have personally engaged in misconduct."
+
+### The one thing the row had wrong
+
+The row reports that "**district courts had split for fourteen years**."
+
+**The opinion describes no split.** It says "**most** district courts to have examined it have
+concluded" against a personal-misconduct requirement, and the string it gives runs one way —
+*Jenkins* (D. Ariz. 2010), *Baker* (W.D. Tex. 2012), *Geswein* (N.D. Ohio 2011), *Life Partners
+Holdings* (W.D. Tex. 2014). **No contrary district decision is cited anywhere in the discussion.**
+"Split" came from the law-firm alert, and this project reproduced it as though it were the court's
+account of the landscape.
+
+That matters more than it looks. **A holding that resolves a split and a holding that ratifies a
+settled district consensus carry different weight**, and the second is what happened here.
+
+### What the copy can and cannot do
+
+**The pincite cannot be settled.** The copy is the Ninth Circuit's own PDF, and its page markers are
+the **slip** pages of that issue (26, 27, 28, 29 through the SOX 304 discussion). **No F.3d page
+appears anywhere in the document**, so 835 F.3d 1100 and any pincite into it stay the secondary
+source's under [E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication).
+
+**And the disambiguation the row recorded in advance held up.** This is not the *Jensen* at n.22 —
+the DOJ food-safety prosecution in D. Colo. Two cases, one surname, opposite subjects.
+
+### The rule
+
+**E72 — a secondary source's account of the *landscape* is a claim, and a separate one from its
+account of the holding.** The alert was right that *Jensen* is first in the circuits and right about
+what it held. It was wrong that the district courts were split, and that word travelled into this
+repository attached to two facts that were true. **Check the background characterization against the
+opinion's own description of the authorities, which is usually a paragraph away from the holding.**
+
+## E73 — *Jewell* and *Cincotta* confirmed verbatim, the footnote number settled where the page cannot be, and *Cincotta*'s next sentence widens what this project cites it for narrowing
+
+**Status: two debts paid, one characterization corrected. Read 26 August 2026.**
+
+### *United States v. Jewell*, 532 F.2d 697 (9th Cir. 1976) (en banc)
+
+**The glossary's quotation is verbatim**, and it is the court's own recapitulation:
+
+> "In the language of the instruction in this case, the government must prove, 'beyond a reasonable
+> doubt, that if the defendant was not actually aware . . . his ignorance in that regard was solely
+> and entirely a result of . . . a conscious purpose to avoid learning the truth.'"
+
+**The words are the trial court's instruction**, set out at length earlier in the opinion and adopted
+by the en banc court as the standard. The glossary calls this "the classic formulation is *United
+States v. Jewell*", which is right about whose standard it became and imprecise about whose sentence
+it is. **The bracketed "[of the crime]" the glossary inserts stands in for the instruction's actual
+words** — "that there was marijuana in the vehicle he was driving when he entered the United States"
+— and the brackets disclose the substitution, which is what [E48](#e48--a-published-quotation-with-two-words-the-court-did-not-write-and-both-were-ours)
+requires.
+
+**704 stays unconfirmed.** The copy is a law.resource.org capture with no star pagination, as its
+filename says ([E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication)).
+**A lead, recorded as one:** *Cincotta* cites this discussion as "*United States v. Jewell*, 532 F.2d
+697, **699–704**", which puts 704 inside the range a first-order source assigns to it. That is
+corroboration from another opinion, not a page read from this one, and it does not retire the ⚠.
+
+**And the two authorities in this glossary entry share a source, which the entry does not say.**
+*Jewell* quotes Glanville Williams — "A court can properly find wilful blindness only where it can
+almost be said that the defendant actually knew" — and that is the same sentence *Global-Tech* quotes
+at 770 to fix willful blindness above recklessness. The Supreme Court's ceiling and the Ninth
+Circuit's origin rest on one line of a 1961 textbook.
+
+### *United States v. Cincotta*, 689 F.2d 238 (1st Cir. 1982)
+
+**The quotation is verbatim**, and **the footnote number is confirmed even though the page is not.**
+In the capture held the passage sits in the numbered note beginning "**2**", between the note
+quoting the indictment and note 3. **"n.2" is settled; "243" is not**, the copy carrying no star
+pagination.
+
+**What the glossary omits is the sentence immediately after, and it runs the other way.** The
+glossary offers *Cincotta* as a narrowing of *Jewell* — "**Narrowed in** *United States v.
+Cincotta*" — on the strength of "The conscious avoidance principle means **only** that specific
+knowledge may be inferred when a person knows other facts that would induce most people to acquire
+the specific knowledge in question."
+
+**The court continues:**
+
+> "Thus, if someone refuses to investigate an issue that cries out for investigation, **we may
+> presume that he already 'knows' the answer** an investigation would reveal, whether or not he is
+> 'certain'."
+
+**A presumption of knowledge from a refusal to investigate is wider than the sentence quoted, not
+narrower**, and it is the operative half for a prosecutor. The "only" limits what conscious avoidance
+*is* — circumstantial evidence of knowledge rather than a substitute for it, as the note goes on to
+say — and it does not limit how far the inference reaches.
+
+**Which compounds a correction already made.** [E65](#e65--global-tech-called-a-constitutional-ceiling-in-three-files-and-it-decides-no-constitutional-question)
+records that this glossary entry reads as a descent from broad to narrow — *Jewell*, then *Cincotta*
+"narrowed", then *Global-Tech* as the ceiling — and that the sequence is backwards, because
+*Cincotta*'s "would induce most people" is an **objective** test while *Global-Tech* requires a
+**subjective** belief in a high probability plus deliberate avoidance. **This entry adds that
+*Cincotta* is not a narrowing of *Jewell* either.** The word "Narrowed" was doing work no authority
+in the entry supports.
+
+### The rule
+
+**E73 — where a page cannot be confirmed, check whether some other coordinate in the citation can
+be.** A footnote number, a part heading, a paragraph number and a docket entry are all locators, and
+a source without star pagination may still fix three of them. **"Unconfirmable" is a property of the
+page, not of the whole pincite**, and this repository has been retiring the entire locator whenever
+the page failed.
+
+## E74 — *Liu* confirmed as n.18 states it, and read beside *Jensen* it puts a question to the sentence next to it
+
+**Status: a debt paid; one assumption in n.18 identified as an assumption. Read 26 August 2026.**
+
+**n.18 states** that "*Liu v. SEC*, 591 U.S. 71 (2020), confined equitable disgorgement to net
+profits applied for victims — a statutory clawback is not so confined, but the section adopts *Liu*'s
+destination logic by choice (restitution first, fund second)."
+
+**The first clause is exact.** The holding, verbatim:
+
+> "The Court holds today that a disgorgement award that does not exceed a wrongdoer's net profits and
+> is awarded for victims is **equitable relief** permissible under §78u(d)(5)."
+
+And the rationale: "to avoid transforming an equitable remedy into a punitive sanction, courts
+restricted the remedy to an individual wrongdoer's net profits to be awarded for victims."
+
+### The assumption, which reading *Jensen* the same day exposed
+
+n.18's second clause — "**a statutory clawback is not so confined**" — is offered without authority
+and is doing real work: it is what lets SEC. 7 keep *Liu*'s destination logic as a **choice** rather
+than a constraint.
+
+**But *Liu*'s limit attaches to relief that is equitable, and the Ninth Circuit calls SOX 304's
+reimbursement provision exactly that.** In the same opinion this project read today to confirm n.18's
+"no-fault" claim:
+
+> "This is consistent with our conclusion elsewhere that **the reimbursement provision is an
+> equitable and not a legal remedy**." *SEC v. Jensen*, citing *SEC v. Jasper*, 678 F.3d 1116, 1130
+> (9th Cir. 2012).
+
+**So the one statutory clawback in American law that this section is modelled on has been
+characterized by a court of appeals as equitable**, and *Liu* confines equitable disgorgement to net
+profits for victims. Whether *Liu*'s ceiling reaches a statutory clawback that a court has called
+equitable is a live question, and n.18 answers it in a subordinate clause.
+
+**This is not a finding that n.18 is wrong.** *Liu* construes §78u(d)(5) specifically, SOX 304 is a
+different statute with its own text, and *Jensen*'s characterization was made for a different purpose.
+**It is a finding that the clause is an argument rather than a given**, and that the two authorities
+n.18 cites in the same breath pull against each other in a way nobody here had noticed because they
+had not been read together.
+
+**The practical consequence is small and worth stating**, because it cuts the way the section already
+goes: SEC. 7 adopting restitution-first "by choice" reaches the same destination *Liu* would compel
+if the ceiling does apply. **The design is safe; the reasoning offered for it is not the reasoning
+that makes it safe.**
+
+### Pagination
+
+⚠ **The copy is the supremecourt.gov slip opinion and it says so on every page** — "Cite as: 591
+U. S. ____ (2020)", the blank being the tell. No U.S. Reports pincite can be taken from it
+([E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication)).
+The filename is accurate.
+
+### The rule
+
+**E74 — two authorities cited in one sentence have to be read against each other, not only against
+the sentence.** n.18 cites *Liu* and relies on SOX 304, and the proposition joining them — that a
+statutory clawback escapes *Liu*'s ceiling — survived because the two were verified separately and
+never set side by side. **Where a note cites more than one case, ask what each says about the other.**
+
+## E75 — the last six of the sixteen, read: five confirm what was published, and *National Pork Producers* did not remove a rule that never existed
+
+**Status: five debts paid with no correction owed; one characterization corrected. Read 26 August
+2026.**
+
+### *Veeck v. Southern Building Code Congress Int'l*, 293 F.3d 791 (5th Cir. 2002) (en banc)
+
+**`docs/questions.md` states it accurately** — "model codes enacted into law enter the public domain
+as law" — and the court's own summary is the source of that phrasing: "as law, the model codes enter
+the public domain and are not subject to the copyright holder's exclusive prerogatives."
+
+**The clause after it is the one this project should carry, because it is about this project.** The
+same sentence continues: "**As model codes, however, the organization's works retain their protected
+status.**" *Veeck* is a two-sided holding. **An unenacted model act is not in the public domain under
+it**, and this Act has been enacted nowhere.
+
+So *Veeck* is not authority that this Act "is CC0", as the table row's cited-for column has it. **The
+CC0 dedication is a choice**, and *Veeck* tells you what happens after a legislature acts, not
+before. The choice is prudent on *Veeck*'s reasoning — the text goes into the public domain the
+moment anyone enacts it, so reserving rights buys a right that expires on success. **That is a good
+argument and it is not the argument the row makes.**
+
+⚠ **No star pagination**, as the filename says; nothing may be pincited to it.
+
+### *Kentucky v. Dennison*, 65 U.S. (24 How.) 66 (Dec. Term 1860)
+
+**The quotation in `audit/record.md` is verbatim in the Library of Congress print**, allowing for a
+scan whose OCR renders "offences" as "o[lYnces" in the same line:
+
+> "The word 'crime' of itself includes every offence, from the highest to the lowest in the grade of
+> offences, and includes what are called 'misdemeanors,' as well as treason and felony."
+
+**And the overruling note is precisely right.** The syllabus separates the two holdings the way this
+repository does: point 4 gives the scope of "treason, felony, or other crime", while points 8 and 9
+are the mandamus holding — "Congress cannot coerce a State officer, as such, to perform any duty"
+and "upon that ground only, this motion for a mandamus was overruled." **It is points 8 and 9 that
+*Puerto Rico v. Branstad*, 483 U.S. 219 (1987) overruled; the scope holding stands**, which is what
+the record says and what the Act relies on.
+
+**A note on this copy, recorded because the next reader will hit it.** The scan is genuinely
+paginated, but the page numbers are OCR-damaged and irregular in the extracted text — markers jump
+97 to 105 with the intermediate numbers lost to the running heads. **The passage's page was not
+computed and is not published**, per [E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication).
+Nothing turns on it: `audit/record.md` cites the case without a pincite.
+
+**A search that failed, recorded because it failed the way the manual says it will.** The first
+`--find` for this quotation returned NO MATCH. The string was in the document. **The search omitted
+the quotation marks around 'crime' that the reporter prints**, and the tool matched nothing. The
+banner held — a miss is not a finding — and reading the file settled it in one command.
+
+### *National Pork Producers Council v. Ross*, 598 U.S. 356 (2023)
+
+**n.17 says the case "removed the almost-per-se rule against state laws with extraterritorial
+practical effects".**
+
+**The Court's position is that there was no such rule to remove.** Its words:
+
+> "A close look at those cases reveals **nothing like** the 'almost per se' rule against laws that
+> have the 'practical effect' of 'controlling' extraterritorial commerce that petitioners posit . . . .
+> *Baldwin*, *Brown-Forman*, and *Healy* **did not mean to do so much**."
+
+The rule is attributed throughout to the petitioners — "**Petitioners insist** that *Baldwin*,
+*Brown-Forman*, and *Healy* taken together suggest an 'almost per se' rule" — and the Court declines
+to find it in them, explaining that the highlighted language "appeared in a particular context and
+did particular work."
+
+**"Removed" and "declined to recognize" are different holdings, and the second is stronger for this
+Act.** A rule abolished in 2023 invites the argument that it may be restored or narrowed. A rule the
+Court says never existed leaves nothing to restore. **n.17 understated its own authority.**
+
+The rest of n.17 checks out: the line is re-read as being about discrimination — laws that "hoard"
+commerce "for the benefit of in-state merchants" — and what remains is *Pike*.
+
+⚠ **Slip opinion: "Cite as: 598 U. S. ____".** No U.S. Reports pincite from this copy.
+
+### *Sveen v. Melin*, 584 U.S. 811 (2018)
+
+**The two-step Contract Clause test is verbatim**, and the threshold is as the record has it: whether
+the state law has "operated as a substantial impairment of a contractual relationship", and "[i]f
+such factors show a substantial impairment, the inquiry turns to whether the state law is" drawn
+appropriately.
+
+⚠ **Slip opinion: "Cite as: 584 U. S. ____".** ✅ **But 811 does not need this copy** —
+`audit/record.md` records it confirmed against the preliminary print, "Volume 584 U.S. Part 2, Pages
+811–836". **The table row's ⚠ said no U.S. Reports pincite was available and another file in this
+repository already had the first page**, which is [E49](#e49--a-finding-the-repository-had-already-made-three-days-earlier-caught-at-the-door)'s
+rule turned on the shelf: the register is part of the text, and so is the drafting record.
+
+### *Trump v. Slaughter*, No. 25-332 (2026)
+
+**The holding, verbatim: "If anything more is left of *Humphrey's*, we overrule it."** The Lawfare
+commentary's account was right, including "the demise of *Humphrey's Executor*". What survives of the
+1935 case is only "its observation that an agency that 'exercises no part of the executive power'
+need not fall within the rule of Presidential removal."
+
+**And the answer to the question the table row asked is that SEC. 3's Agency is untouched.** The
+decision rests entirely on **Article II** and the President's removal power over federal officers.
+**The phrase "state agency" does not appear in the opinion**, and no part of its reasoning reaches a
+State's power to structure its own agencies, which is a matter for that State's own constitution.
+
+**What is exposed is a rhetorical position, not a legal one.** SEC. 3 is designed on the
+independent-commission model, and that model has just lost its federal exemplar. **A legislator who
+asks "why build an independent commission when the Supreme Court has just dismantled the idea
+federally" is asking a fair question with a good answer** — the answer being that the objection is
+about Article II and a State is not subject to it. **That answer is not written anywhere in this
+repository**, and the row was right that nobody had asked.
+
+### Desai & Riedl, *Responsible AI Agents*, arXiv:2502.18359
+
+**Verbatim, from the abstract:** "no matter how much AI Agents seem like human agents, they need not,
+and should not, be given legal personhood status. In short, **humans are responsible for AI Agents'
+actions**."
+
+**And the liability-shield reasoning the row summarizes is in the text:** "Anthropomorphizing
+software confuses issues and could lead to a world where software has legal personhood, related
+rights, and **liability shields**. If that happens, the power for people to use software would grow
+while also increasing the ability to avoid responsibility. That is the situation to avoid."
+
+**The row's caution stands and is confirmed by the same page**: "Put simply, responsible AI Agents
+are about responsible human action" — a premise this Act shares, reached by authors who prefer design
+standards to personal criminal duties. **Ally on the premise, not the mechanism**, exactly as the row
+says.
+
+### The rule
+
+**E75 — check whether the authority says a rule was abolished or says it never existed.** The two
+read alike in a summary and differ in what they leave standing. **Where a court attributes a rule to
+a party — "petitioners insist" — and then declines to find it, a project that reports the rule as
+"removed" has credited the losing side's premise while citing the winning side's case.**

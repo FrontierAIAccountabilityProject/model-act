@@ -1,6 +1,15 @@
 {
  "references": [
   {
+   "sec": 6,
+   "sub": "(b)(1)",
+   "cite": "SEC. 6(b)(1)",
+   "file": "CLAUDE.md",
+   "line": 43,
+   "kind": "root",
+   "text": "as MHRA does. **Where the statute's own text uses a form that is not American** \u2014 SEC. 6(b)(1) says"
+  },
+  {
    "sec": 0,
    "sub": "",
    "cite": "SEC. 0",
@@ -14,7 +23,7 @@
    "sub": "",
    "cite": "SEC. 0",
    "file": "MAP.md",
-   "line": 145,
+   "line": 147,
    "kind": "root",
    "text": "| [`model_act_v3_4.txt`](./model_act_v3_4.txt) | **The operative text.** SEC. 0\u201313. Everything else in this repository is apparatus around it. | tagged |"
   },
@@ -23,7 +32,7 @@
    "sub": "",
    "cite": "SEC. 0",
    "file": "MAP.md",
-   "line": 158,
+   "line": 160,
    "kind": "root",
    "text": "| [`docs/the_statute_translated.md`](./docs/the_statute_translated.md) | SEC. 0\u201313 in plain language beside what the text says. The statute governs where they differ. | live |"
   },
@@ -32,16 +41,160 @@
    "sub": "(c)(4)",
    "cite": "SEC. 3(c)(4)",
    "file": "MAP.md",
-   "line": 211,
+   "line": 213,
    "kind": "root",
    "text": "| [`standards/interim_standards.md`](./standards/interim_standards.md) | **The enacted standards SEC. 3(c)(4) freezes**, pinned verbatim, and why Connecticut is not among them. | live |"
+  },
+  {
+   "sec": 0,
+   "sub": "",
+   "cite": "SEC. 0",
+   "file": "README.md",
+   "line": 43,
+   "kind": "root",
+   "text": "| **SEC. 0** \u2014 Findings And Purpose (uncodified) | 4 \u00b7 **3 read** \u00b7 0 owed | CURE 19 | \u2014 |"
+  },
+  {
+   "sec": 1,
+   "sub": "",
+   "cite": "SEC. 1",
+   "file": "README.md",
+   "line": 44,
+   "kind": "root",
+   "text": "| **SEC. 1** \u2014 Classification And Definitions | 2 \u00b7 **0 read** \u00b7 0 owed | CURE 6, CURE 13, CURE 16 | F7 |"
+  },
+  {
+   "sec": 2,
+   "sub": "",
+   "cite": "SEC. 2",
+   "file": "README.md",
+   "line": 45,
+   "kind": "root",
+   "text": "| **SEC. 2** \u2014 Public Welfare Duty | \u26a0 **none** | \u2014 | F5 |"
+  },
+  {
+   "sec": 3,
+   "sub": "",
+   "cite": "SEC. 3",
+   "file": "README.md",
+   "line": 46,
+   "kind": "root",
+   "text": "| **SEC. 3** \u2014 Designated Agency; Standards; Commencement. (a) The [designa | 5 \u00b7 **5 read** \u00b7 0 owed | CURE 10, CURE 15, CURE 23, CURE 26 | \u2014 |"
   },
   {
    "sec": 4,
    "sub": "",
    "cite": "SEC. 4",
    "file": "README.md",
-   "line": 88,
+   "line": 47,
+   "kind": "root",
+   "text": "| **SEC. 4** \u2014 Controlling Persons | 4 \u00b7 **3 read** \u00b7 2 pincites owed | \u2014 | \u2014 |"
+  },
+  {
+   "sec": 5,
+   "sub": "",
+   "cite": "SEC. 5",
+   "file": "README.md",
+   "line": 48,
+   "kind": "root",
+   "text": "| **SEC. 5** \u2014 Prohibited Acts | 2 \u00b7 **1 read** \u00b7 0 owed | CURE 10, CURE 11, CURE 12 | F3 |"
+  },
+  {
+   "sec": 6,
+   "sub": "",
+   "cite": "SEC. 6",
+   "file": "README.md",
+   "line": 49,
+   "kind": "root",
+   "text": "| **SEC. 6** \u2014 Individual Liability | 9 \u00b7 **6 read** \u00b7 1 pincite owed | CURE 8, CURE 22, CURE 24 | F1, PF-7 |"
+  },
+  {
+   "sec": 7,
+   "sub": "",
+   "cite": "SEC. 7",
+   "file": "README.md",
+   "line": 50,
+   "kind": "root",
+   "text": "| **SEC. 7** \u2014 Personal Economic Consequences | 1 \u00b7 **1 read** \u00b7 0 owed | \u2014 | \u2014 |"
+  },
+  {
+   "sec": 8,
+   "sub": "",
+   "cite": "SEC. 8",
+   "file": "README.md",
+   "line": 51,
+   "kind": "root",
+   "text": "| **SEC. 8** \u2014 Certification | 2 \u00b7 **2 read** \u00b7 0 owed | CURE 5, CURE 21, CURE 24 | PF-7 |"
+  },
+  {
+   "sec": 9,
+   "sub": "",
+   "cite": "SEC. 9",
+   "file": "README.md",
+   "line": 52,
+   "kind": "root",
+   "text": "| **SEC. 9** \u2014 Incident Reporting | 1 \u00b7 **1 read** \u00b7 0 owed | CURE 4, CURE 11, CURE 14, CURE 18 | \u2014 |"
+  },
+  {
+   "sec": 10,
+   "sub": "",
+   "cite": "SEC. 10",
+   "file": "README.md",
+   "line": 53,
+   "kind": "root",
+   "text": "| **SEC. 10** \u2014 Enforcement And Penalties | 12 \u00b7 **7 read** \u00b7 0 owed | CURE 9, CURE 25 | PF-8 |"
+  },
+  {
+   "sec": 11,
+   "sub": "",
+   "cite": "SEC. 11",
+   "file": "README.md",
+   "line": 54,
+   "kind": "root",
+   "text": "| **SEC. 11** \u2014 Whistleblowers | 1 \u00b7 **1 read** \u00b7 0 owed | CURE 17 | \u2014 |"
+  },
+  {
+   "sec": 12,
+   "sub": "",
+   "cite": "SEC. 12",
+   "file": "README.md",
+   "line": 55,
+   "kind": "root",
+   "text": "| **SEC. 12** \u2014 Machinery | \u26a0 **none** | \u2014 | \u2014 |"
+  },
+  {
+   "sec": 13,
+   "sub": "",
+   "cite": "SEC. 13",
+   "file": "README.md",
+   "line": 56,
+   "kind": "root",
+   "text": "| **SEC. 13** \u2014 Severability, Conforming Operation, And Revival | 1 \u00b7 **1 read** \u00b7 0 owed | CURE 2 | \u2014 |"
+  },
+  {
+   "sec": 2,
+   "sub": "",
+   "cite": "SEC. 2",
+   "file": "README.md",
+   "line": 58,
+   "kind": "root",
+   "text": "\u26a0 **SEC. 2 \u2014 the public welfare duty \u2014 has no authority joined to it at all**, and carries an open"
+  },
+  {
+   "sec": 12,
+   "sub": "",
+   "cite": "SEC. 12",
+   "file": "README.md",
+   "line": 59,
+   "kind": "root",
+   "text": "finding. The provision this Act is named for rests on nothing in the table. **SEC. 12 has neither"
+  },
+  {
+   "sec": 4,
+   "sub": "",
+   "cite": "SEC. 4",
+   "file": "README.md",
+   "line": 127,
    "kind": "root",
    "text": "premise, stated by a prosecutor who has just run into it: SEC. 4 exists to identify the natural"
   },
@@ -50,7 +203,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "README.md",
-   "line": 89,
+   "line": 128,
    "kind": "root",
    "text": "person, and SEC. 6 exists to charge them."
   },
@@ -59,7 +212,7 @@
    "sub": "",
    "cite": "SEC. 0",
    "file": "README.md",
-   "line": 92,
+   "line": 131,
    "kind": "root",
    "text": "*chatbot* can be criminally liable. [SEC. 0](./model_act_v3_4.txt) and the personhood premise take the"
   },
@@ -68,7 +221,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "README.md",
-   "line": 459,
+   "line": 498,
    "kind": "root",
    "text": "- **Known defects:** an [in-house pre-review across all five lanes](./audit/v3_5_lane_sweep.md), 22 August 2026, returned **seven findings graded fatal \u2014 four in the tagged text**, including that SEC."
   },
@@ -77,7 +230,7 @@
    "sub": "",
    "cite": "SEC. 0",
    "file": "README.md",
-   "line": 471,
+   "line": 510,
    "kind": "root",
    "text": "\u251c\u2500\u2500 model_act_v3_4.txt               # the statute, SEC. 0\u201313 (authoritative text)"
   },
@@ -86,7 +239,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "README.md",
-   "line": 535,
+   "line": 574,
    "kind": "root",
    "text": "file](./standards/for_legislators.md), then the statute's SEC. 4 and SEC. 6 \u2014 who is reached"
   },
@@ -95,7 +248,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "README.md",
-   "line": 535,
+   "line": 574,
    "kind": "root",
    "text": "file](./standards/for_legislators.md), then the statute's SEC. 4 and SEC. 6 \u2014 who is reached"
   },
@@ -104,7 +257,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "README.md",
-   "line": 542,
+   "line": 581,
    "kind": "root",
    "text": "decision are excluded from authority in black letter (SEC. 4); the thresholds and penalty"
   },
@@ -113,7 +266,7 @@
    "sub": "",
    "cite": "SEC. 1",
    "file": "README.md",
-   "line": 605,
+   "line": 644,
    "kind": "root",
    "text": "**A note on fixed headcounts.** Earlier public-facing copy used \u201cten men\u201d and \u201croughly a dozen.\u201d The Act does not establish either count. Its term is *controlling person*: any natural person who meets"
   },
@@ -122,7 +275,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "README.md",
-   "line": 605,
+   "line": 644,
    "kind": "root",
    "text": "**A note on fixed headcounts.** Earlier public-facing copy used \u201cten men\u201d and \u201croughly a dozen.\u201d The Act does not establish either count. Its term is *controlling person*: any natural person who meets"
   },
@@ -131,7 +284,7 @@
    "sub": "",
    "cite": "SEC. 0",
    "file": "README.md",
-   "line": 647,
+   "line": 686,
    "kind": "root",
    "text": "moves frequently. Section starts against the v3.4 tag: SEC. 0 \u2014 L9 \u00b7 SEC. 1 \u2014 L44 \u00b7 SEC. 2 \u2014 L103"
   },
@@ -140,7 +293,7 @@
    "sub": "",
    "cite": "SEC. 1",
    "file": "README.md",
-   "line": 647,
+   "line": 686,
    "kind": "root",
    "text": "moves frequently. Section starts against the v3.4 tag: SEC. 0 \u2014 L9 \u00b7 SEC. 1 \u2014 L44 \u00b7 SEC. 2 \u2014 L103"
   },
@@ -149,7 +302,7 @@
    "sub": "",
    "cite": "SEC. 2",
    "file": "README.md",
-   "line": 647,
+   "line": 686,
    "kind": "root",
    "text": "moves frequently. Section starts against the v3.4 tag: SEC. 0 \u2014 L9 \u00b7 SEC. 1 \u2014 L44 \u00b7 SEC. 2 \u2014 L103"
   },
@@ -158,7 +311,7 @@
    "sub": "",
    "cite": "SEC. 3",
    "file": "README.md",
-   "line": 648,
+   "line": 687,
    "kind": "root",
    "text": "\u00b7 SEC. 3 \u2014 L149 \u00b7 SEC. 4 \u2014 L236 \u00b7 SEC. 5 \u2014 L265 \u00b7 SEC. 6 \u2014 L284 \u00b7 SEC. 7 \u2014 L316 \u00b7 SEC. 8 \u2014 L365 \u00b7"
   },
@@ -167,7 +320,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "README.md",
-   "line": 648,
+   "line": 687,
    "kind": "root",
    "text": "\u00b7 SEC. 3 \u2014 L149 \u00b7 SEC. 4 \u2014 L236 \u00b7 SEC. 5 \u2014 L265 \u00b7 SEC. 6 \u2014 L284 \u00b7 SEC. 7 \u2014 L316 \u00b7 SEC. 8 \u2014 L365 \u00b7"
   },
@@ -176,7 +329,7 @@
    "sub": "",
    "cite": "SEC. 5",
    "file": "README.md",
-   "line": 648,
+   "line": 687,
    "kind": "root",
    "text": "\u00b7 SEC. 3 \u2014 L149 \u00b7 SEC. 4 \u2014 L236 \u00b7 SEC. 5 \u2014 L265 \u00b7 SEC. 6 \u2014 L284 \u00b7 SEC. 7 \u2014 L316 \u00b7 SEC. 8 \u2014 L365 \u00b7"
   },
@@ -185,7 +338,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "README.md",
-   "line": 648,
+   "line": 687,
    "kind": "root",
    "text": "\u00b7 SEC. 3 \u2014 L149 \u00b7 SEC. 4 \u2014 L236 \u00b7 SEC. 5 \u2014 L265 \u00b7 SEC. 6 \u2014 L284 \u00b7 SEC. 7 \u2014 L316 \u00b7 SEC. 8 \u2014 L365 \u00b7"
   },
@@ -194,7 +347,7 @@
    "sub": "",
    "cite": "SEC. 7",
    "file": "README.md",
-   "line": 648,
+   "line": 687,
    "kind": "root",
    "text": "\u00b7 SEC. 3 \u2014 L149 \u00b7 SEC. 4 \u2014 L236 \u00b7 SEC. 5 \u2014 L265 \u00b7 SEC. 6 \u2014 L284 \u00b7 SEC. 7 \u2014 L316 \u00b7 SEC. 8 \u2014 L365 \u00b7"
   },
@@ -203,7 +356,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "README.md",
-   "line": 648,
+   "line": 687,
    "kind": "root",
    "text": "\u00b7 SEC. 3 \u2014 L149 \u00b7 SEC. 4 \u2014 L236 \u00b7 SEC. 5 \u2014 L265 \u00b7 SEC. 6 \u2014 L284 \u00b7 SEC. 7 \u2014 L316 \u00b7 SEC. 8 \u2014 L365 \u00b7"
   },
@@ -212,7 +365,7 @@
    "sub": "",
    "cite": "SEC. 9",
    "file": "README.md",
-   "line": 649,
+   "line": 688,
    "kind": "root",
    "text": "SEC. 9 \u2014 L394 \u00b7 SEC. 10 \u2014 L417 \u00b7 SEC. 11 \u2014 L479 \u00b7 SEC. 12 \u2014 L493 \u00b7 SEC. 13 \u2014 L527. So"
   },
@@ -221,7 +374,7 @@
    "sub": "",
    "cite": "SEC. 10",
    "file": "README.md",
-   "line": 649,
+   "line": 688,
    "kind": "root",
    "text": "SEC. 9 \u2014 L394 \u00b7 SEC. 10 \u2014 L417 \u00b7 SEC. 11 \u2014 L479 \u00b7 SEC. 12 \u2014 L493 \u00b7 SEC. 13 \u2014 L527. So"
   },
@@ -230,7 +383,7 @@
    "sub": "",
    "cite": "SEC. 11",
    "file": "README.md",
-   "line": 649,
+   "line": 688,
    "kind": "root",
    "text": "SEC. 9 \u2014 L394 \u00b7 SEC. 10 \u2014 L417 \u00b7 SEC. 11 \u2014 L479 \u00b7 SEC. 12 \u2014 L493 \u00b7 SEC. 13 \u2014 L527. So"
   },
@@ -239,7 +392,7 @@
    "sub": "",
    "cite": "SEC. 12",
    "file": "README.md",
-   "line": 649,
+   "line": 688,
    "kind": "root",
    "text": "SEC. 9 \u2014 L394 \u00b7 SEC. 10 \u2014 L417 \u00b7 SEC. 11 \u2014 L479 \u00b7 SEC. 12 \u2014 L493 \u00b7 SEC. 13 \u2014 L527. So"
   },
@@ -248,7 +401,7 @@
    "sub": "",
    "cite": "SEC. 13",
    "file": "README.md",
-   "line": 649,
+   "line": 688,
    "kind": "root",
    "text": "SEC. 9 \u2014 L394 \u00b7 SEC. 10 \u2014 L417 \u00b7 SEC. 11 \u2014 L479 \u00b7 SEC. 12 \u2014 L493 \u00b7 SEC. 13 \u2014 L527. So"
   },
@@ -257,7 +410,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "README.md",
-   "line": 650,
+   "line": 689,
    "kind": "root",
    "text": "[`model_act_v3_4.txt#L236`](./model_act_v3_4.txt#L236) opens SEC. 4."
   },
@@ -872,6 +1025,51 @@
    "line": 383,
    "kind": "root",
    "text": "| [Security-lane findings](./audit/v3_5_lane_sweep.md#f5--the-safeguards-off-evaluation-falls-into-a-hole-between-sec-2c-and-sec-2a-security) | The SEC. 2(c)/2(a) hole around safeguards-disabled evalu"
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "_internal/reading_brief_sixteen.md",
+   "line": 21,
+   "kind": "root",
+   "text": "the willful-blindness theory SEC. 6(b) depends on. **Reading them in table order would be a mistake.**"
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "_internal/reading_brief_sixteen.md",
+   "line": 31,
+   "kind": "root",
+   "text": "to avoid learning. Quote it verbatim, with the page. **SEC. 6(b)'s knowledge element is meant to be"
+  },
+  {
+   "sec": 4,
+   "sub": "",
+   "cite": "SEC. 4",
+   "file": "_internal/reading_brief_sixteen.md",
+   "line": 46,
+   "kind": "root",
+   "text": "**The question:** the collective-knowledge instruction verbatim. **SEC. 4 does the opposite** \u2014 it"
+  },
+  {
+   "sec": 3,
+   "sub": "",
+   "cite": "SEC. 3",
+   "file": "_internal/reading_brief_sixteen.md",
+   "line": 91,
+   "kind": "root",
+   "text": "**The question:** whether SEC. 3's independent-commission Agency still travels. This is the newest"
+  },
+  {
+   "sec": 0,
+   "sub": "",
+   "cite": "SEC. 0",
+   "file": "_internal/reading_brief_sixteen.md",
+   "line": 94,
+   "kind": "root",
+   "text": "**13. Desai & Riedl, *Responsible AI Agents*, arXiv:2502.18359** \u2014 SEC. 0's personhood premise, 51 pp."
   },
   {
    "sec": 0,
@@ -12395,10 +12593,19 @@
   },
   {
    "sec": 6,
+   "sub": "(d)",
+   "cite": "SEC. 6(d)",
+   "file": "audit/v3_5_cure_language.md",
+   "line": 1768,
+   "kind": "cure",
+   "text": "SEC. 6(d), standing alone, do not establish knowledge\" is a narrower rule than *Johnson & Towers*"
+  },
+  {
+   "sec": 6,
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1773,
+   "line": 1803,
    "kind": "cure",
    "text": "**NEW TEXT \u2014 appended to SEC. 6(b):**"
   },
@@ -12407,7 +12614,7 @@
    "sub": "(d)",
    "cite": "SEC. 6(d)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1778,
+   "line": 1808,
    "kind": "cure",
    "text": "> Responsibility and authority under SEC. 6(d), standing alone, do not establish knowledge."
   },
@@ -12416,7 +12623,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1787,
+   "line": 1817,
    "kind": "cure",
    "text": "SEC. 6(b)(1) reads \"knowingly or **wilfully**\"; SEC. 7(b)(5)'s defense-costs proviso reads \"a knowing or"
   },
@@ -12425,7 +12632,7 @@
    "sub": "(b)(5)",
    "cite": "SEC. 7(b)(5)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1787,
+   "line": 1817,
    "kind": "cure",
    "text": "SEC. 6(b)(1) reads \"knowingly or **wilfully**\"; SEC. 7(b)(5)'s defense-costs proviso reads \"a knowing or"
   },
@@ -12434,7 +12641,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1795,
+   "line": 1825,
    "kind": "cure",
    "text": "**NEW TEXT:** in SEC. 6(b)(1) and SEC. 7(b)(5), read *willfully* as **willfully** and *willful* as"
   },
@@ -12443,27 +12650,9 @@
    "sub": "(b)(5)",
    "cite": "SEC. 7(b)(5)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1795,
+   "line": 1825,
    "kind": "cure",
    "text": "**NEW TEXT:** in SEC. 6(b)(1) and SEC. 7(b)(5), read *willfully* as **willfully** and *willful* as"
-  },
-  {
-   "sec": 6,
-   "sub": "(d)",
-   "cite": "SEC. 6(d)",
-   "file": "audit/v3_5_cure_language.md",
-   "line": 1814,
-   "kind": "cure",
-   "text": "may not reach it through SEC. 6(d)."
-  },
-  {
-   "sec": 6,
-   "sub": "(b)(1)",
-   "cite": "SEC. 6(b)(1)",
-   "file": "audit/v3_5_cure_language.md",
-   "line": 1842,
-   "kind": "cure",
-   "text": "So SEC. 6(b)(1) may keep its felony tier and its \"knowingly or wilfully,\" provided the prosecution"
   },
   {
    "sec": 6,
@@ -12472,6 +12661,24 @@
    "file": "audit/v3_5_cure_language.md",
    "line": 1844,
    "kind": "cure",
+   "text": "may not reach it through SEC. 6(d)."
+  },
+  {
+   "sec": 6,
+   "sub": "(b)(1)",
+   "cite": "SEC. 6(b)(1)",
+   "file": "audit/v3_5_cure_language.md",
+   "line": 1872,
+   "kind": "cure",
+   "text": "So SEC. 6(b)(1) may keep its felony tier and its \"knowingly or wilfully,\" provided the prosecution"
+  },
+  {
+   "sec": 6,
+   "sub": "(d)",
+   "cite": "SEC. 6(d)",
+   "file": "audit/v3_5_cure_language.md",
+   "line": 1874,
+   "kind": "cure",
    "text": "it may not do is reach knowledge through SEC. 6(d)."
   },
   {
@@ -12479,7 +12686,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1887,
+   "line": 1917,
    "kind": "cure",
    "text": "to what [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) reconstructs SEC. 6"
   },
@@ -12488,7 +12695,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1899,
+   "line": 1929,
    "kind": "cure",
    "text": "Set that beside SEC. 4(a). The Act agrees on both of *Iverson*'s negatives \u2014 it reaches a person who"
   },
@@ -12497,7 +12704,7 @@
    "sub": "(b)",
    "cite": "SEC. 4(b)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1900,
+   "line": 1930,
    "kind": "cure",
    "text": "\"possesses **or** exercises\" the authority, and SEC. 4(b) provides that \"substance controls over"
   },
@@ -12506,7 +12713,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1902,
+   "line": 1932,
    "kind": "cure",
    "text": "**final**, **material** and **independent**, and SEC. 4(a) excludes by name \"title, office, seniority,"
   },
@@ -12515,7 +12722,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1909,
+   "line": 1939,
    "kind": "cure",
    "text": "not previously have, and it should be stated wherever SEC. 4 is defended."
   },
@@ -12524,7 +12731,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1912,
+   "line": 1942,
    "kind": "cure",
    "text": "element 2 is \"the authority **and capacity** to prevent.\" SEC. 4(a) closes with \"the authority to"
   },
@@ -12533,7 +12740,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1915,
+   "line": 1945,
    "kind": "cure",
    "text": "engineer with root access outside SEC. 4 \u2014 but the same word does opposite work in the Act and in"
   },
@@ -12542,7 +12749,7 @@
    "sub": "(d)",
    "cite": "SEC. 6(d)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1916,
+   "line": 1946,
    "kind": "cure",
    "text": "the instruction it most resembles, and SEC. 6(d)'s \"genuine absence of power\" is *Iverson*'s sense,"
   },
@@ -12551,7 +12758,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1917,
+   "line": 1947,
    "kind": "cure",
    "text": "not SEC. 4(a)'s. **A legislative counsel will circle this. It costs nothing to fix and it has not"
   },
@@ -12560,7 +12767,7 @@
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1953,
+   "line": 1983,
    "kind": "cure",
    "text": "carry SEC. 6(b) at all, and the tier would need a conventional mens rea of its own rather than a"
   },
@@ -12569,7 +12776,7 @@
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1989,
+   "line": 2019,
    "kind": "cure",
    "text": "be a public welfare offense\" \u2014 a circuit has answered that twice \u2014 but whether SEC. 6(b)'s knowledge"
   },
@@ -12578,7 +12785,7 @@
    "sub": "(d)",
    "cite": "SEC. 6(d)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1994,
+   "line": 2024,
    "kind": "cure",
    "text": "**Held open for the criminal-law seat.** Whether the shielding sentence and the SEC. 6(d) carve-out"
   },
@@ -12587,7 +12794,7 @@
    "sub": "",
    "cite": "SEC. 5",
    "file": "audit/v3_5_cure_language.md",
-   "line": 1998,
+   "line": 2028,
    "kind": "cure",
    "text": "SEC. 5 applied at all."
   },
@@ -12596,7 +12803,7 @@
    "sub": "(c)(4)(B)",
    "cite": "SEC. 3(c)(4)(B)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2002,
+   "line": 2032,
    "kind": "cure",
    "text": "## CURE 23 \u2014 SEC. 3(c)(4)(B): restore the publication the allied statutes require, on their own redaction terms"
   },
@@ -12605,7 +12812,7 @@
    "sub": "(c)(4)",
    "cite": "SEC. 3(c)(4)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2013,
+   "line": 2043,
    "kind": "cure",
    "text": "clearly and conspicuously publish a frontier AI framework.** SEC. 3(c)(4) adopts those texts as"
   },
@@ -12614,7 +12821,7 @@
    "sub": "(c)(4)(B)",
    "cite": "SEC. 3(c)(4)(B)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2014,
+   "line": 2044,
    "kind": "cure",
    "text": "this Act's interim standards. And then SEC. 3(c)(4)(B) takes the sentence apart."
   },
@@ -12623,7 +12830,7 @@
    "sub": "(c)(4)(B)",
    "cite": "SEC. 3(c)(4)(B)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2016,
+   "line": 2046,
    "kind": "cure",
    "text": "**ANCHOR (SEC. 3(c)(4)(B), verbatim from the tagged text):** \"a duty to publish, or to transmit any"
   },
@@ -12632,7 +12839,7 @@
    "sub": "(c)(4)(B)",
    "cite": "SEC. 3(c)(4)(B)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2027,
+   "line": 2057,
    "kind": "cure",
    "text": "California's words.** That is not a drafting slip; SEC. 3(c)(4)(B) does it deliberately, and the"
   },
@@ -12641,7 +12848,7 @@
    "sub": "(c)(4)(B)",
    "cite": "SEC. 3(c)(4)(B)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2066,
+   "line": 2096,
    "kind": "cure",
    "text": "**This Act already adopted that subdivision and then disapplied it.** SEC. 3(c)(4)(B) is the only"
   },
@@ -12650,7 +12857,7 @@
    "sub": "(c)(4)(B)",
    "cite": "SEC. 3(c)(4)(B)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2071,
+   "line": 2101,
    "kind": "cure",
    "text": "**NEW TEXT \u2014 replacing SEC. 3(c)(4)(B):**"
   },
@@ -12659,7 +12866,7 @@
    "sub": "",
    "cite": "SEC. 12",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2079,
+   "line": 2109,
    "kind": "cure",
    "text": "> unredacted document is a record under SEC. 12 and is retained, produced, and treated as SEC. 12"
   },
@@ -12668,7 +12875,7 @@
    "sub": "",
    "cite": "SEC. 12",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2079,
+   "line": 2109,
    "kind": "cure",
    "text": "> unredacted document is a record under SEC. 12 and is retained, produced, and treated as SEC. 12"
   },
@@ -12677,7 +12884,7 @@
    "sub": "",
    "cite": "SEC. 12",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2088,
+   "line": 2118,
    "kind": "cure",
    "text": "Restoring publication must not be read to reach the material SEC. 12 seals. The distinction is the"
   },
@@ -12686,7 +12893,7 @@
    "sub": "(c)(4)(B)",
    "cite": "SEC. 3(c)(4)(B)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2091,
+   "line": 2121,
    "kind": "cure",
    "text": "**NEW TEXT \u2014 appended to SEC. 3(c)(4)(B):**"
   },
@@ -12695,7 +12902,7 @@
    "sub": "",
    "cite": "SEC. 9",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2093,
+   "line": 2123,
    "kind": "cure",
    "text": "> Nothing in this subparagraph requires the publication of a report under SEC. 9, a certification"
   },
@@ -12704,7 +12911,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2094,
+   "line": 2124,
    "kind": "cure",
    "text": "> under SEC. 8 beyond the facts stated in any register maintained under that section, or validation"
   },
@@ -12713,7 +12920,7 @@
    "sub": "",
    "cite": "SEC. 12",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2095,
+   "line": 2125,
    "kind": "cure",
    "text": "> materials under subsection (b) or paragraph (2). Those materials are governed by SEC. 12."
   },
@@ -12722,7 +12929,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2122,
+   "line": 2152,
    "kind": "cure",
    "text": "## CURE 24 \u2014 SEC. 8: the certification's lower tier names a mental state SEC. 6(a) does not require"
   },
@@ -12731,7 +12938,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2122,
+   "line": 2152,
    "kind": "cure",
    "text": "## CURE 24 \u2014 SEC. 8: the certification's lower tier names a mental state SEC. 6(a) does not require"
   },
@@ -12740,7 +12947,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2129,
+   "line": 2159,
    "kind": "cure",
    "text": "**ANCHOR (SEC. 8, closing sentence, verbatim):** \"Knowing false certification is an offense under"
   },
@@ -12749,7 +12956,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2130,
+   "line": 2160,
    "kind": "cure",
    "text": "SEC. 6(b)(1); **reckless certification without reasonable inquiry** is an offense under SEC. 6(a).\""
   },
@@ -12758,7 +12965,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2130,
+   "line": 2160,
    "kind": "cure",
    "text": "SEC. 6(b)(1); **reckless certification without reasonable inquiry** is an offense under SEC. 6(a).\""
   },
@@ -12767,7 +12974,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2132,
+   "line": 2162,
    "kind": "cure",
    "text": "SEC. 6(a)'s element is that the person \"failed to exercise due care,\" measured against \"the conduct"
   },
@@ -12776,7 +12983,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2133,
+   "line": 2163,
    "kind": "cure",
    "text": "of a reasonably prudent controlling person in like circumstances.\" **That is negligence.** SEC. 8"
   },
@@ -12785,7 +12992,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2135,
+   "line": 2165,
    "kind": "cure",
    "text": "inquiry satisfies SEC. 6(a) while SEC. 8 says it does not."
   },
@@ -12794,7 +13001,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2135,
+   "line": 2165,
    "kind": "cure",
    "text": "inquiry satisfies SEC. 6(a) while SEC. 8 says it does not."
   },
@@ -12803,7 +13010,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2144,
+   "line": 2174,
    "kind": "cure",
    "text": "under it. **So \u00a7 1350 cannot be the donor of SEC. 8's second limb, and the Act names no other.**"
   },
@@ -12812,7 +13019,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2151,
+   "line": 2181,
    "kind": "cure",
    "text": "misdemeanor level, since 1987.** That is SEC. 6(a) limb for limb, including SEC. 10(b)'s one-year"
   },
@@ -12821,7 +13028,7 @@
    "sub": "(b)",
    "cite": "SEC. 10(b)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2151,
+   "line": 2181,
    "kind": "cure",
    "text": "misdemeanor level, since 1987.** That is SEC. 6(a) limb for limb, including SEC. 10(b)'s one-year"
   },
@@ -12830,7 +13037,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2156,
+   "line": 2186,
    "kind": "cure",
    "text": "**NEW TEXT \u2014 replacing SEC. 8's closing sentence:**"
   },
@@ -12839,7 +13046,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2158,
+   "line": 2188,
    "kind": "cure",
    "text": "> Knowing false certification is an offense under SEC. 6(b)(1); certification without reasonable"
   },
@@ -12848,7 +13055,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2159,
+   "line": 2189,
    "kind": "cure",
    "text": "> inquiry is an offense under SEC. 6(a), which requires proof of the failure of due care described in"
   },
@@ -12857,7 +13064,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2164,
+   "line": 2194,
    "kind": "cure",
    "text": "n.8 defends SEC. 8 from \u00a7 1350 by argument from practice \u2014 its maxima are three to six times this"
   },
@@ -12866,7 +13073,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2227,
+   "line": 2257,
    "kind": "cure",
    "text": "**Two. The due process answer is broader than SEC. 6(a) and the Act has never stated it.** Verbatim:"
   },
@@ -12875,7 +13082,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2234,
+   "line": 2264,
    "kind": "cure",
    "text": "constitutional defense of SEC. 6(a)'s entire design, and [known objections](../docs/known_objections.md)"
   },
@@ -12884,7 +13091,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2243,
+   "line": 2273,
    "kind": "cure",
    "text": "**Apply that to this Act's own text.** SEC. 8 says \"**reckless** certification without reasonable"
   },
@@ -12893,7 +13100,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2244,
+   "line": 2274,
    "kind": "cure",
    "text": "inquiry\"; SEC. 6(a), where SEC. 8 sends it, requires only the failure of due care. **A court applying"
   },
@@ -12902,7 +13109,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2244,
+   "line": 2274,
    "kind": "cure",
    "text": "inquiry\"; SEC. 6(a), where SEC. 8 sends it, requires only the failure of due care. **A court applying"
   },
@@ -12911,7 +13118,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2246,
+   "line": 2276,
    "kind": "cure",
    "text": "reading SEC. 8's second limb as reaching only recklessness, which is not what SEC. 6(a) says. The"
   },
@@ -12920,7 +13127,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2246,
+   "line": 2276,
    "kind": "cure",
    "text": "reading SEC. 8's second limb as reaching only recklessness, which is not what SEC. 6(a) says. The"
   },
@@ -12929,7 +13136,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2252,
+   "line": 2282,
    "kind": "cure",
    "text": "person therefore reaches an operational supervisor, where SEC. 4(a) expressly excludes \"the"
   },
@@ -12938,7 +13145,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2259,
+   "line": 2289,
    "kind": "cure",
    "text": "felony tier it does not reach a one-year negligence offense, which makes SEC. 6(a) the least exposed"
   },
@@ -12947,7 +13154,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2262,
+   "line": 2292,
    "kind": "cure",
    "text": "**The alternative a reviewer should weigh and this cure rejects:** raise SEC. 6(a) to the recklessness"
   },
@@ -12956,7 +13163,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2263,
+   "line": 2293,
    "kind": "cure",
    "text": "SEC. 8 advertises. That buys the \u00a7 1350 analogy and abandons the negligence floor *DeCoster* says"
   },
@@ -12965,7 +13172,7 @@
    "sub": "(d)",
    "cite": "SEC. 10(d)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2270,
+   "line": 2300,
    "kind": "cure",
    "text": "## CURE 25 \u2014 SEC. 10(d): the FDCA remedies are cited and their protections are not taken"
   },
@@ -12974,7 +13181,7 @@
    "sub": "(d)(2)",
    "cite": "SEC. 10(d)(2)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2277,
+   "line": 2307,
    "kind": "cure",
    "text": "SEC. 10(d)(2) provides that operation of a suspended configuration by a person with notice \"is"
   },
@@ -12983,7 +13190,7 @@
    "sub": "(a)",
    "cite": "SEC. 5(a)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2278,
+   "line": 2308,
    "kind": "cure",
    "text": "**contempt and a violation of SEC. 5(a)**.\" That double character is the precise case"
   },
@@ -12992,7 +13199,7 @@
    "sub": "(d)",
    "cite": "SEC. 10(d)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2289,
+   "line": 2319,
    "kind": "cure",
    "text": "**NEW TEXT \u2014 SEC. 10(d), new final sentence:**"
   },
@@ -13001,7 +13208,7 @@
    "sub": "",
    "cite": "SEC. 5",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2292,
+   "line": 2322,
    "kind": "cure",
    "text": "> a violation of SEC. 5, trial shall be by the court or, upon demand of the accused, by a jury."
   },
@@ -13010,7 +13217,7 @@
    "sub": "(d)(2)",
    "cite": "SEC. 10(d)(2)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2298,
+   "line": 2328,
    "kind": "cure",
    "text": "\"on demand of either party any issue of fact\u2026 shall be tried by jury.\" SEC. 10(d)(2) takes the"
   },
@@ -13019,7 +13226,7 @@
    "sub": "(c)(4)",
    "cite": "SEC. 3(c)(4)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2314,
+   "line": 2344,
    "kind": "cure",
    "text": "## CURE 26 \u2014 SEC. 3(c)(4): the disapplication list, repaired against a full read of all three adopted standards"
   },
@@ -13028,7 +13235,7 @@
    "sub": "(c)(4)",
    "cite": "SEC. 3(c)(4)",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2323,
+   "line": 2353,
    "kind": "cure",
    "text": "SEC. 3(c)(4) adopts three enacted statutes and disapplies an enumerated list of their features. **The"
   },
@@ -13037,7 +13244,7 @@
    "sub": "",
    "cite": "SEC. 9",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2353,
+   "line": 2383,
    "kind": "cure",
    "text": "governed from the effective date by SEC. 9, SEC. 10, and SEC. 11 of this Act.\""
   },
@@ -13046,7 +13253,7 @@
    "sub": "",
    "cite": "SEC. 10",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2353,
+   "line": 2383,
    "kind": "cure",
    "text": "governed from the effective date by SEC. 9, SEC. 10, and SEC. 11 of this Act.\""
   },
@@ -13055,7 +13262,7 @@
    "sub": "",
    "cite": "SEC. 11",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2353,
+   "line": 2383,
    "kind": "cure",
    "text": "governed from the effective date by SEC. 9, SEC. 10, and SEC. 11 of this Act.\""
   },
@@ -13064,7 +13271,7 @@
    "sub": "",
    "cite": "SEC. 9",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2357,
+   "line": 2387,
    "kind": "cure",
    "text": "provision.** Read broadly, (D) removes it, leaving SEC. 9's duty to tell the Agency with nothing"
   },
@@ -13073,7 +13280,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2389,
+   "line": 2419,
    "kind": "cure",
    "text": "N.Y. \u00a7 1421(4)(a)(ii) is **SEC. 8's false-certification offense as a substantive duty owed by the"
   },
@@ -13082,7 +13289,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2390,
+   "line": 2420,
    "kind": "cure",
    "text": "entity, with no signatory.** The Act adopts it and then builds SEC. 8 above it without noticing."
   },
@@ -13091,7 +13298,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "audit/v3_5_cure_language.md",
-   "line": 2394,
+   "line": 2424,
    "kind": "cure",
    "text": "**And \u00a7 1421(4)(b)'s good-faith-and-reasonableness defense sits directly beside SEC. 8's \"after"
   },
@@ -13991,7 +14198,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "docs/known_objections.md",
-   "line": 476,
+   "line": 483,
    "kind": "objection",
    "text": "compute are three different sets of people. **If that makes SEC. 6 unprovable in practice, the Act"
   },
@@ -14000,7 +14207,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "docs/known_objections.md",
-   "line": 481,
+   "line": 488,
    "kind": "objection",
    "text": "Where knowledge is an express element \u2014 as it is at SEC. 6(b)(1) \u2014 *United States v. MacDonald &"
   },
@@ -14009,7 +14216,7 @@
    "sub": "(d)",
    "cite": "SEC. 6(d)",
    "file": "docs/known_objections.md",
-   "line": 484,
+   "line": 491,
    "kind": "objection",
    "text": "circumstantial proof of knowledge.\" **CURE 8's proposed burden-shift at SEC. 6(d) is exactly the"
   },
@@ -14018,7 +14225,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "docs/known_objections.md",
-   "line": 501,
+   "line": 508,
    "kind": "objection",
    "text": "before anyone argues SEC. 4 sweeps too widely:"
   },
@@ -14027,7 +14234,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "docs/known_objections.md",
-   "line": 508,
+   "line": 515,
    "kind": "objection",
    "text": "SEC. 4(a) agrees with both of those negatives and then narrows: the authority must be **final**,"
   },
@@ -14036,7 +14243,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "docs/known_objections.md",
-   "line": 541,
+   "line": 550,
    "kind": "objection",
    "text": "**SEC. 8:** \"The certification consists of statements of fact within the certifying person's"
   },
@@ -14045,7 +14252,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "docs/known_objections.md",
-   "line": 543,
+   "line": 552,
    "kind": "objection",
    "text": "is an offense under SEC. 6(a).\""
   },
@@ -14054,7 +14261,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "docs/known_objections.md",
-   "line": 548,
+   "line": 557,
    "kind": "objection",
    "text": "**If it does**, SEC. 8 is theater. Every officer signs on a briefing, the inquiry element is"
   },
@@ -14063,7 +14270,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "docs/known_objections.md",
-   "line": 551,
+   "line": 560,
    "kind": "objection",
    "text": "**If it does not**, SEC. 8 may be unsignable. No chief executive can form personal knowledge about a"
   },
@@ -14072,7 +14279,7 @@
    "sub": "(c)",
    "cite": "SEC. 4(c)",
    "file": "docs/known_objections.md",
-   "line": 555,
+   "line": 564,
    "kind": "objection",
    "text": "**The Act picks neither.** SEC. 4(c) answers a different question \u2014 delegation of *authority* does"
   },
@@ -14081,7 +14288,7 @@
    "sub": "(c)(5)",
    "cite": "SEC. 3(c)(5)",
    "file": "docs/known_objections.md",
-   "line": 563,
+   "line": 572,
    "kind": "objection",
    "text": "**Three things point one way.** SEC. 3(c)(5) provides that documented conformity with the applicable"
   },
@@ -14090,7 +14297,7 @@
    "sub": "",
    "cite": "SEC. 2",
    "file": "docs/known_objections.md",
-   "line": 564,
+   "line": 573,
    "kind": "objection",
    "text": "standards \"satisfies the duty of due care under SEC. 2 as to the matters conformed\" \u2014 so following"
   },
@@ -14099,7 +14306,7 @@
    "sub": "(b)",
    "cite": "SEC. 2(b)",
    "file": "docs/known_objections.md",
-   "line": 565,
+   "line": 574,
    "kind": "objection",
    "text": "the standard, on advice, *is* a defense to the due-care offense as far as it goes. SEC. 2(b) gives a"
   },
@@ -14108,7 +14315,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "docs/known_objections.md",
-   "line": 567,
+   "line": 576,
    "kind": "objection",
    "text": "avoids knowing, of a material nonconformity.\" And SEC. 6(a) measures due care against \"the conduct"
   },
@@ -14117,7 +14324,7 @@
    "sub": "(c)(5)",
    "cite": "SEC. 3(c)(5)",
    "file": "docs/known_objections.md",
-   "line": 571,
+   "line": 580,
    "kind": "objection",
    "text": "**Two things point the other way.** SEC. 3(c)(5) closes: \"An entity's own frontier artificial"
   },
@@ -14126,7 +14333,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "docs/known_objections.md",
-   "line": 573,
+   "line": 582,
    "kind": "objection",
    "text": "And SEC. 6(a) repeats it: \"an entity's own framework is evidence of neither.\" **So being told by"
   },
@@ -14135,7 +14342,7 @@
    "sub": "(c)(4)(C)",
    "cite": "SEC. 3(c)(4)(C)",
    "file": "docs/known_objections.md",
-   "line": 609,
+   "line": 618,
    "kind": "objection",
    "text": "**And one finding cuts at a drafting choice this Act made deliberately.** SEC. 3(c)(4)(C) provides"
   },
@@ -14144,7 +14351,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "docs/known_objections.md",
-   "line": 641,
+   "line": 650,
    "kind": "objection",
    "text": "decides whether SEC. 8 is a real duty or a formality. A reviewer who concludes that reasonable"
   },
@@ -14153,7 +14360,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "docs/known_objections.md",
-   "line": 668,
+   "line": 677,
    "kind": "objection",
    "text": "**SEC. 8, verbatim:**"
   },
@@ -14162,7 +14369,7 @@
    "sub": "(c)(1)(D)",
    "cite": "SEC. 5(c)(1)(D)",
    "file": "docs/known_objections.md",
-   "line": 680,
+   "line": 689,
    "kind": "objection",
    "text": "The Act's other candor machinery points the same way. **SEC. 5(c)(1)(D)** creates a category of"
   },
@@ -14171,7 +14378,7 @@
    "sub": "",
    "cite": "SEC. 11",
    "file": "docs/known_objections.md",
-   "line": 682,
+   "line": 691,
    "kind": "objection",
    "text": "honest document has a name. **SEC. 11** pays whistleblowers. **Neither protects the person who"
   },
@@ -14180,7 +14387,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "docs/known_objections.md",
-   "line": 697,
+   "line": 706,
    "kind": "objection",
    "text": "\u26a0 **Open, and it is the torts-and-design seat's question.** Whether SEC. 6(a) should carry a"
   },
@@ -14189,7 +14396,7 @@
    "sub": "(c)",
    "cite": "SEC. 4(c)",
    "file": "docs/known_objections.md",
-   "line": 753,
+   "line": 762,
    "kind": "objection",
    "text": "**SEC. 4(c)** forecloses shedding: \"no appointment of a safety officer, compliance officer,"
   },
@@ -14198,7 +14405,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "docs/known_objections.md",
-   "line": 755,
+   "line": 764,
    "kind": "objection",
    "text": "authority.\" **SEC. 4(a)** reaches authority held \"directly or indirectly, individually or in concert"
   },
@@ -14207,7 +14414,7 @@
    "sub": "(b)",
    "cite": "SEC. 4(b)",
    "file": "docs/known_objections.md",
-   "line": 759,
+   "line": 768,
    "kind": "objection",
    "text": "**And SEC. 4(b) is the provision written for this objection.** The chief executive is a **presumed**"
   },
@@ -14216,7 +14423,7 @@
    "sub": "(b)",
    "cite": "SEC. 4(b)",
    "file": "docs/known_objections.md",
-   "line": 762,
+   "line": 771,
    "kind": "objection",
    "text": "### But read the rest of SEC. 4(b), because it gives the answer back"
   },
@@ -14225,7 +14432,7 @@
    "sub": "(d)",
    "cite": "SEC. 6(d)",
    "file": "docs/known_objections.md",
-   "line": 766,
+   "line": 775,
    "kind": "objection",
    "text": "> controlling-person status; the prosecution retains its burden on every element under SEC. 6(d).\""
   },
@@ -14234,7 +14441,7 @@
    "sub": "(b)",
    "cite": "SEC. 4(b)",
    "file": "docs/known_objections.md",
-   "line": 772,
+   "line": 781,
    "kind": "objection",
    "text": "concession the objection is pointing at, and this page should say so rather than let SEC. 4(b) be"
   },
@@ -14243,7 +14450,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "docs/known_objections.md",
-   "line": 784,
+   "line": 793,
    "kind": "objection",
    "text": "SEC. 4(a) requires authority that is **final, material and independent**, and excludes by name \"the"
   },
@@ -14252,7 +14459,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "docs/known_objections.md",
-   "line": 786,
+   "line": 795,
    "kind": "objection",
    "text": "**A person the federal doctrine would reach can be outside SEC. 4.** That narrowing is defensible \u2014"
   },
@@ -14261,7 +14468,7 @@
    "sub": "(b)",
    "cite": "SEC. 4(b)",
    "file": "docs/known_objections.md",
-   "line": 792,
+   "line": 801,
    "kind": "objection",
    "text": "whether the civil presumption in SEC. 4(b) is worth having if it stops at the courtroom door."
   },
@@ -14270,7 +14477,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "docs/known_objections.md",
-   "line": 812,
+   "line": 821,
    "kind": "objection",
    "text": "**SEC. 6(a)** \u2014 a controlling person who had the duty or the practical power to prevent, and"
   },
@@ -14279,7 +14486,7 @@
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "docs/known_objections.md",
-   "line": 816,
+   "line": 825,
    "kind": "objection",
    "text": "**SEC. 6(b)** \u2014 a person who **\"knowingly or wilfully\"** causes, directs, conceals or materially"
   },
@@ -14288,7 +14495,7 @@
    "sub": "(c)",
    "cite": "SEC. 10(c)",
    "file": "docs/known_objections.md",
-   "line": 818,
+   "line": 827,
    "kind": "objection",
    "text": "false certification, faces the felony penalties of SEC. 10(c). (The statute's own spelling of that word is not American; the point is [CURE 22](../audit/v3_5_cure_language.md)'s, not this page's.)"
   },
@@ -14297,7 +14504,7 @@
    "sub": "(a)(5)",
    "cite": "SEC. 0(a)(5)",
    "file": "docs/known_objections.md",
-   "line": 847,
+   "line": 856,
    "kind": "objection",
    "text": "**SEC. 0(a)(5)**, in the findings: this Act \"draws no distinction between persons within and persons"
   },
@@ -14306,7 +14513,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "docs/known_objections.md",
-   "line": 852,
+   "line": 861,
    "kind": "objection",
    "text": "**SEC. 4(a)** goes further and excludes identity from the element itself: \"title, office, seniority,"
   },
@@ -14315,7 +14522,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "docs/known_objections.md",
-   "line": 886,
+   "line": 904,
    "kind": "objection",
    "text": "Applied here the objection is heavier than it is against AB 2013. SEC. 8 compels a personal"
   },
@@ -14324,7 +14531,7 @@
    "sub": "",
    "cite": "SEC. 9",
    "file": "docs/known_objections.md",
-   "line": 887,
+   "line": 905,
    "kind": "objection",
    "text": "certification. SEC. 9 compels incident reports. SEC. 3 compels validation materials. SEC. 12"
   },
@@ -14333,7 +14540,7 @@
    "sub": "",
    "cite": "SEC. 3",
    "file": "docs/known_objections.md",
-   "line": 887,
+   "line": 905,
    "kind": "objection",
    "text": "certification. SEC. 9 compels incident reports. SEC. 3 compels validation materials. SEC. 12"
   },
@@ -14342,7 +14549,7 @@
    "sub": "",
    "cite": "SEC. 12",
    "file": "docs/known_objections.md",
-   "line": 887,
+   "line": 905,
    "kind": "objection",
    "text": "certification. SEC. 9 compels incident reports. SEC. 3 compels validation materials. SEC. 12"
   },
@@ -14351,7 +14558,7 @@
    "sub": "(b)(1)(C)",
    "cite": "SEC. 1(b)(1)(C)",
    "file": "docs/known_objections.md",
-   "line": 889,
+   "line": 907,
    "kind": "objection",
    "text": "histories \u2014 and **SEC. 1(b)(1)(C) reaches records for derivations at [10^22] operations, two orders"
   },
@@ -14360,7 +14567,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "docs/known_objections.md",
-   "line": 894,
+   "line": 912,
    "kind": "objection",
    "text": "**AB 2013 compels publication. This Act compels transmission to a regulator.** SEC. 8: \"A"
   },
@@ -14369,7 +14576,7 @@
    "sub": "(c)",
    "cite": "SEC. 9(c)",
    "file": "docs/known_objections.md",
-   "line": 895,
+   "line": 913,
    "kind": "objection",
    "text": "certification is made to the Agency and **is not required to be published**.\" SEC. 9(c): \"A report"
   },
@@ -14378,7 +14585,7 @@
    "sub": "",
    "cite": "SEC. 12",
    "file": "docs/known_objections.md",
-   "line": 896,
+   "line": 914,
    "kind": "objection",
    "text": "is made to the Agency and **is not required to be published**.\" And SEC. 12:"
   },
@@ -14387,7 +14594,7 @@
    "sub": "",
    "cite": "SEC. 9",
    "file": "docs/known_objections.md",
-   "line": 898,
+   "line": 916,
    "kind": "objection",
    "text": "> \"reports under SEC. 9, certifications under SEC. 8, and validation materials under SEC. 3 are"
   },
@@ -14396,7 +14603,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "docs/known_objections.md",
-   "line": 898,
+   "line": 916,
    "kind": "objection",
    "text": "> \"reports under SEC. 9, certifications under SEC. 8, and validation materials under SEC. 3 are"
   },
@@ -14405,7 +14612,7 @@
    "sub": "",
    "cite": "SEC. 3",
    "file": "docs/known_objections.md",
-   "line": 898,
+   "line": 916,
    "kind": "objection",
    "text": "> \"reports under SEC. 9, certifications under SEC. 8, and validation materials under SEC. 3 are"
   },
@@ -14414,7 +14621,7 @@
    "sub": "(c)(4)(B)",
    "cite": "SEC. 3(c)(4)(B)",
    "file": "docs/known_objections.md",
-   "line": 914,
+   "line": 932,
    "kind": "objection",
    "text": "SEC. 3(c)(4)(B) adopts those duties while converting publication into filing."
   },
@@ -14423,16 +14630,52 @@
    "sub": "",
    "cite": "SEC. 12",
    "file": "docs/known_objections.md",
-   "line": 935,
+   "line": 953,
    "kind": "objection",
    "text": "**One.** SEC. 12's exemption \"does not create any privilege for underlying facts, which remain"
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "docs/known_objections.md",
+   "line": 1033,
+   "kind": "objection",
+   "text": "creating activities\". SEC. 6(b) is a knowing-conduct offense, and Delaware did not weigh it. The"
   },
   {
    "sec": 6,
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "docs/known_objections.md",
-   "line": 1056,
+   "line": 1037,
+   "kind": "objection",
+   "text": "**The objection survives against SEC. 6(a) and this page should say so.** SEC. 6(a)'s floor is a"
+  },
+  {
+   "sec": 6,
+   "sub": "(a)",
+   "cite": "SEC. 6(a)",
+   "file": "docs/known_objections.md",
+   "line": 1037,
+   "kind": "objection",
+   "text": "**The objection survives against SEC. 6(a) and this page should say so.** SEC. 6(a)'s floor is a"
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "docs/known_objections.md",
+   "line": 1039,
+   "kind": "objection",
+   "text": "has overridden a considered judgment is available there. It is not available against SEC. 6(b)."
+  },
+  {
+   "sec": 6,
+   "sub": "(a)",
+   "cite": "SEC. 6(a)",
+   "file": "docs/known_objections.md",
+   "line": 1105,
    "kind": "objection",
    "text": "SEC. 6(a)'s due-care floor is too low given that Delaware deliberately set bad faith as its own"
   },
@@ -14441,7 +14684,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "docs/known_objections.md",
-   "line": 1123,
+   "line": 1174,
    "kind": "objection",
    "text": "duty, and in a **criminal** statute it would be unavailable: this Act's SEC. 6 puts every element on"
   },
@@ -19828,6 +20071,141 @@
    "text": "- And *Balint* is the case ***Hanousek* rests SEC. 6(a)'s due-process answer on**, already read and"
   },
   {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "ledger/errata.md",
+   "line": 2488,
+   "kind": "erratum",
+   "text": "and it binds in the direction SEC. 6(b) needs. At **770** the Court rejects the Federal Circuit's"
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "ledger/errata.md",
+   "line": 2506,
+   "kind": "erratum",
+   "text": "for the criminal knowledge element of SEC. 6(b) is a civil case, describing criminal practice"
+  },
+  {
+   "sec": 6,
+   "sub": "(d)",
+   "cite": "SEC. 6(d)",
+   "file": "ledger/errata.md",
+   "line": 2522,
+   "kind": "erratum",
+   "text": "## E66 \u2014 half of *Johnson & Towers* published as the whole of it, and the missing half is the half that bears on SEC. 6(d)"
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "ledger/errata.md",
+   "line": 2556,
+   "kind": "erratum",
+   "text": "CURE 22's new text for SEC. 6(b) ends with a sentence written as a concession against the Act's own"
+  },
+  {
+   "sec": 6,
+   "sub": "(d)",
+   "cite": "SEC. 6(d)",
+   "file": "ledger/errata.md",
+   "line": 2559,
+   "kind": "erratum",
+   "text": "> \"Responsibility and authority under SEC. 6(d), standing alone, do not establish knowledge.\""
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "ledger/errata.md",
+   "line": 2565,
+   "kind": "erratum",
+   "text": "matter of law, and SEC. 6(b) may be drafted more narrowly than RCRA if that is the choice. **But the"
+  },
+  {
+   "sec": 4,
+   "sub": "",
+   "cite": "SEC. 4",
+   "file": "ledger/errata.md",
+   "line": 2661,
+   "kind": "erratum",
+   "text": "with SEC. 4, which locates authority in one natural person. **It does not, and the reason is in the"
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "ledger/errata.md",
+   "line": 2685,
+   "kind": "erratum",
+   "text": "policies.\" It is the entity-level analogue of what SEC. 6(b) does to a person, it is approved"
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "ledger/errata.md",
+   "line": 2755,
+   "kind": "erratum",
+   "text": "on the reserved question. SEC. 6(b) is a knowing-conduct offense. **The objection, at the strength"
+  },
+  {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "ledger/errata.md",
+   "line": 2756,
+   "kind": "erratum",
+   "text": "this page gives it, does not reach SEC. 6(b) at all**, and the answer has been sitting two sentences"
+  },
+  {
+   "sec": 6,
+   "sub": "(a)",
+   "cite": "SEC. 6(a)",
+   "file": "ledger/errata.md",
+   "line": 2759,
+   "kind": "erratum",
+   "text": "That does not dispose of the objection against **SEC. 6(a)**, whose floor is a failure of due care"
+  },
+  {
+   "sec": 7,
+   "sub": "",
+   "cite": "SEC. 7",
+   "file": "ledger/errata.md",
+   "line": 3148,
+   "kind": "erratum",
+   "text": "and is doing real work: it is what lets SEC. 7 keep *Liu*'s destination logic as a **choice** rather"
+  },
+  {
+   "sec": 7,
+   "sub": "",
+   "cite": "SEC. 7",
+   "file": "ledger/errata.md",
+   "line": 3171,
+   "kind": "erratum",
+   "text": "goes: SEC. 7 adopting restitution-first \"by choice\" reaches the same destination *Liu* would compel"
+  },
+  {
+   "sec": 3,
+   "sub": "",
+   "cite": "SEC. 3",
+   "file": "ledger/errata.md",
+   "line": 3284,
+   "kind": "erratum",
+   "text": "**And the answer to the question the table row asked is that SEC. 3's Agency is untouched.** The"
+  },
+  {
+   "sec": 3,
+   "sub": "",
+   "cite": "SEC. 3",
+   "file": "ledger/errata.md",
+   "line": 3289,
+   "kind": "erratum",
+   "text": "**What is exposed is a rhetorical position, not a legal one.** SEC. 3 is designed on the"
+  },
+  {
    "sec": 0,
    "sub": "",
    "cite": "SEC. 0",
@@ -23600,10 +23978,19 @@
   },
   {
    "sec": 6,
+   "sub": "(d)",
+   "cite": "SEC. 6(d)",
+   "file": "packets/criminal_law.md",
+   "line": 466,
+   "kind": "packet (generated)",
+   "text": "SEC. 6(d), standing alone, do not establish knowledge\" is a narrower rule than *Johnson & Towers*"
+  },
+  {
+   "sec": 6,
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "packets/criminal_law.md",
-   "line": 471,
+   "line": 501,
    "kind": "packet (generated)",
    "text": "**NEW TEXT \u2014 appended to SEC. 6(b):**"
   },
@@ -23612,7 +23999,7 @@
    "sub": "(d)",
    "cite": "SEC. 6(d)",
    "file": "packets/criminal_law.md",
-   "line": 476,
+   "line": 506,
    "kind": "packet (generated)",
    "text": "> Responsibility and authority under SEC. 6(d), standing alone, do not establish knowledge."
   },
@@ -23621,7 +24008,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "packets/criminal_law.md",
-   "line": 485,
+   "line": 515,
    "kind": "packet (generated)",
    "text": "SEC. 6(b)(1) reads \"knowingly or **wilfully**\"; SEC. 7(b)(5)'s defense-costs proviso reads \"a knowing or"
   },
@@ -23630,7 +24017,7 @@
    "sub": "(b)(5)",
    "cite": "SEC. 7(b)(5)",
    "file": "packets/criminal_law.md",
-   "line": 485,
+   "line": 515,
    "kind": "packet (generated)",
    "text": "SEC. 6(b)(1) reads \"knowingly or **wilfully**\"; SEC. 7(b)(5)'s defense-costs proviso reads \"a knowing or"
   },
@@ -23639,7 +24026,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "packets/criminal_law.md",
-   "line": 493,
+   "line": 523,
    "kind": "packet (generated)",
    "text": "**NEW TEXT:** in SEC. 6(b)(1) and SEC. 7(b)(5), read *willfully* as **willfully** and *willful* as"
   },
@@ -23648,27 +24035,9 @@
    "sub": "(b)(5)",
    "cite": "SEC. 7(b)(5)",
    "file": "packets/criminal_law.md",
-   "line": 493,
+   "line": 523,
    "kind": "packet (generated)",
    "text": "**NEW TEXT:** in SEC. 6(b)(1) and SEC. 7(b)(5), read *willfully* as **willfully** and *willful* as"
-  },
-  {
-   "sec": 6,
-   "sub": "(d)",
-   "cite": "SEC. 6(d)",
-   "file": "packets/criminal_law.md",
-   "line": 512,
-   "kind": "packet (generated)",
-   "text": "may not reach it through SEC. 6(d)."
-  },
-  {
-   "sec": 6,
-   "sub": "(b)(1)",
-   "cite": "SEC. 6(b)(1)",
-   "file": "packets/criminal_law.md",
-   "line": 540,
-   "kind": "packet (generated)",
-   "text": "So SEC. 6(b)(1) may keep its felony tier and its \"knowingly or wilfully,\" provided the prosecution"
   },
   {
    "sec": 6,
@@ -23677,6 +24046,24 @@
    "file": "packets/criminal_law.md",
    "line": 542,
    "kind": "packet (generated)",
+   "text": "may not reach it through SEC. 6(d)."
+  },
+  {
+   "sec": 6,
+   "sub": "(b)(1)",
+   "cite": "SEC. 6(b)(1)",
+   "file": "packets/criminal_law.md",
+   "line": 570,
+   "kind": "packet (generated)",
+   "text": "So SEC. 6(b)(1) may keep its felony tier and its \"knowingly or wilfully,\" provided the prosecution"
+  },
+  {
+   "sec": 6,
+   "sub": "(d)",
+   "cite": "SEC. 6(d)",
+   "file": "packets/criminal_law.md",
+   "line": 572,
+   "kind": "packet (generated)",
    "text": "it may not do is reach knowledge through SEC. 6(d)."
   },
   {
@@ -23684,7 +24071,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "packets/criminal_law.md",
-   "line": 585,
+   "line": 615,
    "kind": "packet (generated)",
    "text": "to what [CURE 8](../audit/v3_5_cure_language.md#cure-8--sec-6-the-individual-liability-offense-reconstructed) reconstructs SEC. 6"
   },
@@ -23693,7 +24080,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "packets/criminal_law.md",
-   "line": 597,
+   "line": 627,
    "kind": "packet (generated)",
    "text": "Set that beside SEC. 4(a). The Act agrees on both of *Iverson*'s negatives \u2014 it reaches a person who"
   },
@@ -23702,7 +24089,7 @@
    "sub": "(b)",
    "cite": "SEC. 4(b)",
    "file": "packets/criminal_law.md",
-   "line": 598,
+   "line": 628,
    "kind": "packet (generated)",
    "text": "\"possesses **or** exercises\" the authority, and SEC. 4(b) provides that \"substance controls over"
   },
@@ -23711,7 +24098,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "packets/criminal_law.md",
-   "line": 600,
+   "line": 630,
    "kind": "packet (generated)",
    "text": "**final**, **material** and **independent**, and SEC. 4(a) excludes by name \"title, office, seniority,"
   },
@@ -23720,7 +24107,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "packets/criminal_law.md",
-   "line": 607,
+   "line": 637,
    "kind": "packet (generated)",
    "text": "not previously have, and it should be stated wherever SEC. 4 is defended."
   },
@@ -23729,7 +24116,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "packets/criminal_law.md",
-   "line": 610,
+   "line": 640,
    "kind": "packet (generated)",
    "text": "element 2 is \"the authority **and capacity** to prevent.\" SEC. 4(a) closes with \"the authority to"
   },
@@ -23738,7 +24125,7 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "packets/criminal_law.md",
-   "line": 613,
+   "line": 643,
    "kind": "packet (generated)",
    "text": "engineer with root access outside SEC. 4 \u2014 but the same word does opposite work in the Act and in"
   },
@@ -23747,7 +24134,7 @@
    "sub": "(d)",
    "cite": "SEC. 6(d)",
    "file": "packets/criminal_law.md",
-   "line": 614,
+   "line": 644,
    "kind": "packet (generated)",
    "text": "the instruction it most resembles, and SEC. 6(d)'s \"genuine absence of power\" is *Iverson*'s sense,"
   },
@@ -23756,7 +24143,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "packets/criminal_law.md",
-   "line": 615,
+   "line": 645,
    "kind": "packet (generated)",
    "text": "not SEC. 4(a)'s. **A legislative counsel will circle this. It costs nothing to fix and it has not"
   },
@@ -23765,7 +24152,7 @@
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "packets/criminal_law.md",
-   "line": 651,
+   "line": 681,
    "kind": "packet (generated)",
    "text": "carry SEC. 6(b) at all, and the tier would need a conventional mens rea of its own rather than a"
   },
@@ -23774,7 +24161,7 @@
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "packets/criminal_law.md",
-   "line": 687,
+   "line": 717,
    "kind": "packet (generated)",
    "text": "be a public welfare offense\" \u2014 a circuit has answered that twice \u2014 but whether SEC. 6(b)'s knowledge"
   },
@@ -23783,7 +24170,7 @@
    "sub": "(d)",
    "cite": "SEC. 6(d)",
    "file": "packets/criminal_law.md",
-   "line": 692,
+   "line": 722,
    "kind": "packet (generated)",
    "text": "**Held open for the criminal-law seat.** Whether the shielding sentence and the SEC. 6(d) carve-out"
   },
@@ -23792,7 +24179,7 @@
    "sub": "",
    "cite": "SEC. 5",
    "file": "packets/criminal_law.md",
-   "line": 696,
+   "line": 726,
    "kind": "packet (generated)",
    "text": "SEC. 5 applied at all."
   },
@@ -23801,7 +24188,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 699,
+   "line": 729,
    "kind": "packet (generated)",
    "text": "## CURE 24 \u2014 SEC. 8: the certification's lower tier names a mental state SEC. 6(a) does not require"
   },
@@ -23810,7 +24197,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 699,
+   "line": 729,
    "kind": "packet (generated)",
    "text": "## CURE 24 \u2014 SEC. 8: the certification's lower tier names a mental state SEC. 6(a) does not require"
   },
@@ -23819,7 +24206,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 706,
+   "line": 736,
    "kind": "packet (generated)",
    "text": "**ANCHOR (SEC. 8, closing sentence, verbatim):** \"Knowing false certification is an offense under"
   },
@@ -23828,7 +24215,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "packets/criminal_law.md",
-   "line": 707,
+   "line": 737,
    "kind": "packet (generated)",
    "text": "SEC. 6(b)(1); **reckless certification without reasonable inquiry** is an offense under SEC. 6(a).\""
   },
@@ -23837,7 +24224,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 707,
+   "line": 737,
    "kind": "packet (generated)",
    "text": "SEC. 6(b)(1); **reckless certification without reasonable inquiry** is an offense under SEC. 6(a).\""
   },
@@ -23846,7 +24233,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 709,
+   "line": 739,
    "kind": "packet (generated)",
    "text": "SEC. 6(a)'s element is that the person \"failed to exercise due care,\" measured against \"the conduct"
   },
@@ -23855,7 +24242,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 710,
+   "line": 740,
    "kind": "packet (generated)",
    "text": "of a reasonably prudent controlling person in like circumstances.\" **That is negligence.** SEC. 8"
   },
@@ -23864,7 +24251,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 712,
+   "line": 742,
    "kind": "packet (generated)",
    "text": "inquiry satisfies SEC. 6(a) while SEC. 8 says it does not."
   },
@@ -23873,7 +24260,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 712,
+   "line": 742,
    "kind": "packet (generated)",
    "text": "inquiry satisfies SEC. 6(a) while SEC. 8 says it does not."
   },
@@ -23882,7 +24269,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 721,
+   "line": 751,
    "kind": "packet (generated)",
    "text": "under it. **So \u00a7 1350 cannot be the donor of SEC. 8's second limb, and the Act names no other.**"
   },
@@ -23891,7 +24278,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 728,
+   "line": 758,
    "kind": "packet (generated)",
    "text": "misdemeanor level, since 1987.** That is SEC. 6(a) limb for limb, including SEC. 10(b)'s one-year"
   },
@@ -23900,7 +24287,7 @@
    "sub": "(b)",
    "cite": "SEC. 10(b)",
    "file": "packets/criminal_law.md",
-   "line": 728,
+   "line": 758,
    "kind": "packet (generated)",
    "text": "misdemeanor level, since 1987.** That is SEC. 6(a) limb for limb, including SEC. 10(b)'s one-year"
   },
@@ -23909,7 +24296,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 733,
+   "line": 763,
    "kind": "packet (generated)",
    "text": "**NEW TEXT \u2014 replacing SEC. 8's closing sentence:**"
   },
@@ -23918,7 +24305,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "packets/criminal_law.md",
-   "line": 735,
+   "line": 765,
    "kind": "packet (generated)",
    "text": "> Knowing false certification is an offense under SEC. 6(b)(1); certification without reasonable"
   },
@@ -23927,7 +24314,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 736,
+   "line": 766,
    "kind": "packet (generated)",
    "text": "> inquiry is an offense under SEC. 6(a), which requires proof of the failure of due care described in"
   },
@@ -23936,7 +24323,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 741,
+   "line": 771,
    "kind": "packet (generated)",
    "text": "n.8 defends SEC. 8 from \u00a7 1350 by argument from practice \u2014 its maxima are three to six times this"
   },
@@ -23945,7 +24332,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 804,
+   "line": 834,
    "kind": "packet (generated)",
    "text": "**Two. The due process answer is broader than SEC. 6(a) and the Act has never stated it.** Verbatim:"
   },
@@ -23954,7 +24341,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 811,
+   "line": 841,
    "kind": "packet (generated)",
    "text": "constitutional defense of SEC. 6(a)'s entire design, and [known objections](../docs/known_objections.md)"
   },
@@ -23963,7 +24350,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 820,
+   "line": 850,
    "kind": "packet (generated)",
    "text": "**Apply that to this Act's own text.** SEC. 8 says \"**reckless** certification without reasonable"
   },
@@ -23972,7 +24359,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 821,
+   "line": 851,
    "kind": "packet (generated)",
    "text": "inquiry\"; SEC. 6(a), where SEC. 8 sends it, requires only the failure of due care. **A court applying"
   },
@@ -23981,7 +24368,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 821,
+   "line": 851,
    "kind": "packet (generated)",
    "text": "inquiry\"; SEC. 6(a), where SEC. 8 sends it, requires only the failure of due care. **A court applying"
   },
@@ -23990,7 +24377,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 823,
+   "line": 853,
    "kind": "packet (generated)",
    "text": "reading SEC. 8's second limb as reaching only recklessness, which is not what SEC. 6(a) says. The"
   },
@@ -23999,7 +24386,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 823,
+   "line": 853,
    "kind": "packet (generated)",
    "text": "reading SEC. 8's second limb as reaching only recklessness, which is not what SEC. 6(a) says. The"
   },
@@ -24008,7 +24395,7 @@
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "packets/criminal_law.md",
-   "line": 829,
+   "line": 859,
    "kind": "packet (generated)",
    "text": "person therefore reaches an operational supervisor, where SEC. 4(a) expressly excludes \"the"
   },
@@ -24017,7 +24404,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 836,
+   "line": 866,
    "kind": "packet (generated)",
    "text": "felony tier it does not reach a one-year negligence offense, which makes SEC. 6(a) the least exposed"
   },
@@ -24026,7 +24413,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 839,
+   "line": 869,
    "kind": "packet (generated)",
    "text": "**The alternative a reviewer should weigh and this cure rejects:** raise SEC. 6(a) to the recklessness"
   },
@@ -24035,7 +24422,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 840,
+   "line": 870,
    "kind": "packet (generated)",
    "text": "SEC. 8 advertises. That buys the \u00a7 1350 analogy and abandons the negligence floor *DeCoster* says"
   },
@@ -24044,7 +24431,7 @@
    "sub": "(d)",
    "cite": "SEC. 10(d)",
    "file": "packets/criminal_law.md",
-   "line": 844,
+   "line": 874,
    "kind": "packet (generated)",
    "text": "## CURE 25 \u2014 SEC. 10(d): the FDCA remedies are cited and their protections are not taken"
   },
@@ -24053,7 +24440,7 @@
    "sub": "(d)(2)",
    "cite": "SEC. 10(d)(2)",
    "file": "packets/criminal_law.md",
-   "line": 851,
+   "line": 881,
    "kind": "packet (generated)",
    "text": "SEC. 10(d)(2) provides that operation of a suspended configuration by a person with notice \"is"
   },
@@ -24062,7 +24449,7 @@
    "sub": "(a)",
    "cite": "SEC. 5(a)",
    "file": "packets/criminal_law.md",
-   "line": 852,
+   "line": 882,
    "kind": "packet (generated)",
    "text": "**contempt and a violation of SEC. 5(a)**.\" That double character is the precise case"
   },
@@ -24071,7 +24458,7 @@
    "sub": "(d)",
    "cite": "SEC. 10(d)",
    "file": "packets/criminal_law.md",
-   "line": 863,
+   "line": 893,
    "kind": "packet (generated)",
    "text": "**NEW TEXT \u2014 SEC. 10(d), new final sentence:**"
   },
@@ -24080,7 +24467,7 @@
    "sub": "",
    "cite": "SEC. 5",
    "file": "packets/criminal_law.md",
-   "line": 866,
+   "line": 896,
    "kind": "packet (generated)",
    "text": "> a violation of SEC. 5, trial shall be by the court or, upon demand of the accused, by a jury."
   },
@@ -24089,7 +24476,7 @@
    "sub": "(d)(2)",
    "cite": "SEC. 10(d)(2)",
    "file": "packets/criminal_law.md",
-   "line": 872,
+   "line": 902,
    "kind": "packet (generated)",
    "text": "\"on demand of either party any issue of fact\u2026 shall be tried by jury.\" SEC. 10(d)(2) takes the"
   },
@@ -24098,7 +24485,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 899,
+   "line": 929,
    "kind": "packet (generated)",
    "text": "graded SEC. 6(a) fatal and drafted CURE 8, whose Operation 4 proposes that evidence of"
   },
@@ -24107,7 +24494,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "packets/criminal_law.md",
-   "line": 903,
+   "line": 933,
    "kind": "packet (generated)",
    "text": "knowledge is an express element** \u2014 which is what SEC. 6(b)(1) makes it. So the cure this sweep"
   },
@@ -24116,7 +24503,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "packets/criminal_law.md",
-   "line": 905,
+   "line": 935,
    "kind": "packet (generated)",
    "text": "*Held open* paragraph half-saw it, calling SEC. 6(b)(1)'s \"knowingly\" undistributed without knowing"
   },
@@ -24125,7 +24512,7 @@
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "packets/criminal_law.md",
-   "line": 921,
+   "line": 951,
    "kind": "packet (generated)",
    "text": "carry SEC. 6(b) at all**, and the felony tier would need a conventional mens rea rather than a"
   },
@@ -24134,7 +24521,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 951,
+   "line": 981,
    "kind": "packet (generated)",
    "text": "**To CURE 8 (SEC. 6(a) reconstructed) \u2014 the reconstruction matches the doctrine the state courts"
   },
@@ -24143,7 +24530,7 @@
    "sub": "(e)",
    "cite": "SEC. 6(e)",
    "file": "packets/criminal_law.md",
-   "line": 963,
+   "line": 993,
    "kind": "packet (generated)",
    "text": "Washington's *McNamara* adds the SEC. 6(e) phrase itself: liability centered on \"the corporate"
   },
@@ -24152,7 +24539,7 @@
    "sub": "",
    "cite": "SEC. 5",
    "file": "packets/criminal_law.md",
-   "line": 969,
+   "line": 999,
    "kind": "packet (generated)",
    "text": "## CURE 11 \u2014 SEC. 5: name the obligor; SEC. 9(b): write the duty in the active voice"
   },
@@ -24161,7 +24548,7 @@
    "sub": "(b)",
    "cite": "SEC. 9(b)",
    "file": "packets/criminal_law.md",
-   "line": 969,
+   "line": 999,
    "kind": "packet (generated)",
    "text": "## CURE 11 \u2014 SEC. 5: name the obligor; SEC. 9(b): write the duty in the active voice"
   },
@@ -24170,7 +24557,7 @@
    "sub": "(a)",
    "cite": "SEC. 5(a)",
    "file": "packets/criminal_law.md",
-   "line": 973,
+   "line": 1003,
    "kind": "packet (generated)",
    "text": "**The defect.** SEC. 5(a) reads \"Deployment of a covered system without validation\" \u2014 deployment"
   },
@@ -24179,7 +24566,7 @@
    "sub": "(c)",
    "cite": "SEC. 5(c)",
    "file": "packets/criminal_law.md",
-   "line": 974,
+   "line": 1004,
    "kind": "packet (generated)",
    "text": "**by whom**? SEC. 5(c) reads \"Failure to report as required by SEC. 9\" \u2014 and SEC. 9(b) is written"
   },
@@ -24188,7 +24575,7 @@
    "sub": "",
    "cite": "SEC. 9",
    "file": "packets/criminal_law.md",
-   "line": 974,
+   "line": 1004,
    "kind": "packet (generated)",
    "text": "**by whom**? SEC. 5(c) reads \"Failure to report as required by SEC. 9\" \u2014 and SEC. 9(b) is written"
   },
@@ -24197,7 +24584,7 @@
    "sub": "(b)",
    "cite": "SEC. 9(b)",
    "file": "packets/criminal_law.md",
-   "line": 974,
+   "line": 1004,
    "kind": "packet (generated)",
    "text": "**by whom**? SEC. 5(c) reads \"Failure to report as required by SEC. 9\" \u2014 and SEC. 9(b) is written"
   },
@@ -24206,7 +24593,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "packets/criminal_law.md",
-   "line": 976,
+   "line": 1006,
    "kind": "packet (generated)",
    "text": "commanded to report anywhere in the Act.** A defendant charged under SEC. 6(b)(1) with concealing a"
   },
@@ -24215,7 +24602,7 @@
    "sub": "(c)",
    "cite": "SEC. 5(c)",
    "file": "packets/criminal_law.md",
-   "line": 977,
+   "line": 1007,
    "kind": "packet (generated)",
    "text": "SEC. 5(c) violation moves to dismiss on the ground that SEC. 9 imposes no duty on any identified"
   },
@@ -24224,7 +24611,7 @@
    "sub": "",
    "cite": "SEC. 9",
    "file": "packets/criminal_law.md",
-   "line": 977,
+   "line": 1007,
    "kind": "packet (generated)",
    "text": "SEC. 5(c) violation moves to dismiss on the ground that SEC. 9 imposes no duty on any identified"
   },
@@ -24233,7 +24620,7 @@
    "sub": "(c)",
    "cite": "SEC. 5(c)",
    "file": "packets/criminal_law.md",
-   "line": 978,
+   "line": 1008,
    "kind": "packet (generated)",
    "text": "person, so no one can violate SEC. 5(c). Lenity does the rest. This matters most in the first"
   },
@@ -24242,7 +24629,7 @@
    "sub": "(c)",
    "cite": "SEC. 5(c)",
    "file": "packets/criminal_law.md",
-   "line": 979,
+   "line": 1009,
    "kind": "packet (generated)",
    "text": "[180] days, when SEC. 5(c), (d) and (e) are the only live offenses."
   },
@@ -24251,7 +24638,7 @@
    "sub": "",
    "cite": "SEC. 5",
    "file": "packets/criminal_law.md",
-   "line": 981,
+   "line": 1011,
    "kind": "packet (generated)",
    "text": "**Operation 1 \u2014 a chapeau to SEC. 5.**"
   },
@@ -24260,7 +24647,7 @@
    "sub": "",
    "cite": "SEC. 5",
    "file": "packets/criminal_law.md",
-   "line": 983,
+   "line": 1013,
    "kind": "packet (generated)",
    "text": "**NEW TEXT \u2014 inserted at the head of SEC. 5:**"
   },
@@ -24269,7 +24656,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "packets/criminal_law.md",
-   "line": 986,
+   "line": 1016,
    "kind": "packet (generated)",
    "text": "> operates the covered system to which the prohibited act relates, and, for purposes of SEC. 6, by"
   },
@@ -24278,7 +24665,7 @@
    "sub": "(b)",
    "cite": "SEC. 9(b)",
    "file": "packets/criminal_law.md",
-   "line": 989,
+   "line": 1019,
    "kind": "packet (generated)",
    "text": "**Operation 2 \u2014 SEC. 9(b) in the active voice.**"
   },
@@ -24287,7 +24674,7 @@
    "sub": "(b)",
    "cite": "SEC. 9(b)",
    "file": "packets/criminal_law.md",
-   "line": 991,
+   "line": 1021,
    "kind": "packet (generated)",
    "text": "**ANCHOR (SEC. 9(b), verbatim):** \"Preliminary notice to the Agency within 72 hours of credible"
   },
@@ -24296,7 +24683,7 @@
    "sub": "(d)",
    "cite": "SEC. 5(d)",
    "file": "packets/criminal_law.md",
-   "line": 1004,
+   "line": 1034,
    "kind": "packet (generated)",
    "text": "## CURE 12 \u2014 SEC. 5(d): restore the scienter its own donor requires"
   },
@@ -24305,7 +24692,7 @@
    "sub": "(d)",
    "cite": "SEC. 5(d)",
    "file": "packets/criminal_law.md",
-   "line": 1009,
+   "line": 1039,
    "kind": "packet (generated)",
    "text": "**The defect.** SEC. 5(d) makes a \"false or misleading statement of material fact\" to the Agency an"
   },
@@ -24314,7 +24701,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 1016,
+   "line": 1046,
    "kind": "packet (generated)",
    "text": "immediate, and SEC. 6(a) supplies a year's custody on due-care failure. \"Misleading\" makes it worse:"
   },
@@ -24323,7 +24710,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 1018,
+   "line": 1048,
    "kind": "packet (generated)",
    "text": "the Act works hard to avoid at SEC. 8, SEC. 9(c) and n.16, reintroduced through the back door. And"
   },
@@ -24332,7 +24719,7 @@
    "sub": "(c)",
    "cite": "SEC. 9(c)",
    "file": "packets/criminal_law.md",
-   "line": 1018,
+   "line": 1048,
    "kind": "packet (generated)",
    "text": "the Act works hard to avoid at SEC. 8, SEC. 9(c) and n.16, reintroduced through the back door. And"
   },
@@ -24341,7 +24728,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 13(b)(1)",
    "file": "packets/criminal_law.md",
-   "line": 1019,
+   "line": 1049,
    "kind": "packet (generated)",
    "text": "this is the offense SEC. 13(b)(1) puts in the **first rank** and n.13 relies on as preemption-proof:"
   },
@@ -24350,7 +24737,7 @@
    "sub": "(d)",
    "cite": "SEC. 5(d)",
    "file": "packets/criminal_law.md",
-   "line": 1024,
+   "line": 1054,
    "kind": "packet (generated)",
    "text": "**ANCHOR (SEC. 5(d), verbatim):** \"(d) A false or misleading statement of material fact concerning"
   },
@@ -24359,7 +24746,7 @@
    "sub": "",
    "cite": "SEC. 8",
    "file": "packets/criminal_law.md",
-   "line": 1037,
+   "line": 1067,
    "kind": "packet (generated)",
    "text": "The reckless limb preserves SEC. 8's closing sentence \u2014 reckless certification without reasonable"
   },
@@ -24368,7 +24755,7 @@
    "sub": "(d)",
    "cite": "SEC. 11(d)",
    "file": "packets/criminal_law.md",
-   "line": 1044,
+   "line": 1074,
    "kind": "packet (generated)",
    "text": "### CURE 17 \u2014 SEC. 11(d): remedies for a reporter outside employment"
   },
@@ -24377,7 +24764,7 @@
    "sub": "(d)",
    "cite": "SEC. 11(d)",
    "file": "packets/criminal_law.md",
-   "line": 1055,
+   "line": 1085,
    "kind": "packet (generated)",
    "text": "11(a)'s award is already any-person (\u00a7 78u-6 structure) and would have reached him; SEC. 11(d)'s"
   },
@@ -24386,7 +24773,7 @@
    "sub": "(d)",
    "cite": "SEC. 11(d)",
    "file": "packets/criminal_law.md",
-   "line": 1060,
+   "line": 1090,
    "kind": "packet (generated)",
    "text": "**ANCHOR (SEC. 11(d), verbatim):** \"(d) Retaliation against a person for reporting, internally or"
   },
@@ -24395,7 +24782,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "packets/criminal_law.md",
-   "line": 1081,
+   "line": 1111,
    "kind": "packet (generated)",
    "text": "1. Is the reconstructed SEC. 6(a) chargeable?"
   },
@@ -24404,7 +24791,7 @@
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "packets/criminal_law.md",
-   "line": 1094,
+   "line": 1124,
    "kind": "packet (generated)",
    "text": "SEC. 6(b).** Either supply that argument or refute it; either way it is a finding, and it is the"
   },
@@ -28393,7 +28780,7 @@
    "file": "standards/section_index.md",
    "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7112 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
@@ -28402,7 +28789,7 @@
    "file": "standards/section_index.md",
    "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7112 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
@@ -28411,7 +28798,7 @@
    "file": "standards/section_index.md",
    "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7112 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
@@ -28420,7 +28807,7 @@
    "file": "standards/section_index.md",
    "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7112 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
@@ -28429,7 +28816,7 @@
    "file": "standards/section_index.md",
    "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7112 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
@@ -28438,7 +28825,7 @@
    "file": "standards/section_index.md",
    "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7112 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
@@ -28447,7 +28834,7 @@
    "file": "standards/section_index.md",
    "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7112 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
@@ -28456,7 +28843,7 @@
    "file": "standards/section_index.md",
    "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7112 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 7,
@@ -28949,6 +29336,15 @@
    "sub": "",
    "cite": "SEC. 4",
    "file": "standards/table_of_authorities.md",
+   "line": 66,
+   "kind": "authority",
+   "text": "| *United States v. Bank of New England, N.A.*, 821 F.2d 844 (1st Cir. **1987**) | the glossary; known objections | \u2705 **READ, 26 Aug 2026.** Collective knowledge, in the First Circuit's own words: \"A "
+  },
+  {
+   "sec": 4,
+   "sub": "",
+   "cite": "SEC. 4",
+   "file": "standards/table_of_authorities.md",
    "line": 67,
    "kind": "authority",
    "text": "| *United States v. Philip Morris USA Inc.*, 566 F.3d 1095 (D.C. Cir. 2009) | the glossary | \u26a0 At 1118: corporate intent \"depends on the wrongful intent of specific employees\" \u2014 the *respondeat superi"
@@ -28990,6 +29386,15 @@
    "text": "| *Erlinger v. United States*, 602 U.S. 821 (2024) | n.22 | Anything beyond that bare fact goes to the jury \u2014 SEC. 6(b)(2) is drafted inside the exception |"
   },
   {
+   "sec": 6,
+   "sub": "(b)",
+   "cite": "SEC. 6(b)",
+   "file": "standards/table_of_authorities.md",
+   "line": 91,
+   "kind": "authority",
+   "text": "| *In re Caremark Int'l Inc. Derivative Litig.*, 698 A.2d 959 (Del. Ch. 1996) | the glossary; known objections | \u2705 **READ, 26 Aug 2026, AND 971 IS CONFIRMED FROM THE COPY HELD.** The reprint carries s"
+  },
+  {
    "sec": 7,
    "sub": "(b)(5)",
    "cite": "SEC. 7(b)(5)",
@@ -29006,6 +29411,15 @@
    "line": 119,
    "kind": "authority",
    "text": "| *Rummel v. Estelle*, 445 U.S. 263 (1980) | **new row 26 Aug 2026** \u2014 cited in the repository's prose and never graded until now; the proportionality lane | \u2705 **Held in the working library from 26 Au"
+  },
+  {
+   "sec": 7,
+   "sub": "",
+   "cite": "SEC. 7",
+   "file": "standards/table_of_authorities.md",
+   "line": 132,
+   "kind": "authority",
+   "text": "| *Liu v. SEC*, 591 U.S. 71 (2020) | n.18 | \u2705 **READ, 26 Aug 2026, and n.18's account of it is exact.** \"The Court holds today that a disgorgement award that does not exceed a wrongdoer's net profits "
   },
   {
    "sec": 8,
@@ -29338,7 +29752,7 @@
    "file": "standards/table_of_authorities.md",
    "line": 309,
    "kind": "authority",
-   "text": "| *Trump v. Slaughter* (U.S. 2026) | **new 26 Aug 2026**; the federalism lane | \u26a0 **Unread; known only from a Lawfare commentary held in the working library.** Reported to expand presidential removal "
+   "text": "| *Trump v. Slaughter*, No. 25-332 (U.S. 2026) | the federalism lane | \u2705 **READ, 26 Aug 2026, and the commentary's account was right.** The holding, verbatim: **\"If anything more is left of *Humphrey'"
   },
   {
    "sec": 3,
@@ -29347,7 +29761,7 @@
    "file": "standards/table_of_authorities.md",
    "line": 309,
    "kind": "authority",
-   "text": "| *Trump v. Slaughter* (U.S. 2026) | **new 26 Aug 2026**; the federalism lane | \u26a0 **Unread; known only from a Lawfare commentary held in the working library.** Reported to expand presidential removal "
+   "text": "| *Trump v. Slaughter*, No. 25-332 (U.S. 2026) | the federalism lane | \u2705 **READ, 26 Aug 2026, and the commentary's account was right.** The holding, verbatim: **\"If anything more is left of *Humphrey'"
   },
   {
    "sec": 0,
@@ -29410,7 +29824,7 @@
    "file": "standards/table_of_authorities.md",
    "line": 335,
    "kind": "authority",
-   "text": "| Desai & Riedl, *Responsible AI Agents* (draft, 20 Feb. 2025), arXiv:2502.18359 | SEC. 0; the personhood premise | \"Humans are responsible for AI Agents' actions\"; software should not be given legal "
+   "text": "| Desai & Riedl, *Responsible AI Agents* (draft, 20 Feb. 2025), arXiv:2502.18359 | SEC. 0; the personhood premise | \u2705 **READ, 26 Aug 2026, and both propositions are verbatim.** From the abstract: \"no "
   },
   {
    "sec": 4,
@@ -29489,16 +29903,16 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "standards/what_these_words_mean.md",
-   "line": 228,
+   "line": 238,
    "kind": "standard",
-   "text": "**Where this Act stands.** SEC. 6 reaches the natural person with practical authority, which is a"
+   "text": "**Where this Act stands, stated more narrowly than it used to be.** SEC. 6 reaches the natural"
   },
   {
    "sec": 2,
    "sub": "(b)",
    "cite": "SEC. 2(b)",
    "file": "standards/what_these_words_mean.md",
-   "line": 250,
+   "line": 294,
    "kind": "standard",
    "text": "**once**, at SEC. 2(b), and uses it against the *smallest* actor it reaches: the reliance path that"
   },
@@ -29507,7 +29921,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "standards/what_these_words_mean.md",
-   "line": 256,
+   "line": 300,
    "kind": "standard",
    "text": "person of the developer does not.** SEC. 6 says nothing about it. Whether that asymmetry was chosen"
   },
@@ -29516,7 +29930,7 @@
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "standards/what_these_words_mean.md",
-   "line": 259,
+   "line": 303,
    "kind": "standard",
    "text": "into SEC. 6(b). SEC. 9(b) already does the same work from a third direction: the reporting clock"
   },
@@ -29525,7 +29939,7 @@
    "sub": "(b)",
    "cite": "SEC. 9(b)",
    "file": "standards/what_these_words_mean.md",
-   "line": 259,
+   "line": 303,
    "kind": "standard",
    "text": "into SEC. 6(b). SEC. 9(b) already does the same work from a third direction: the reporting clock"
   },
@@ -29534,7 +29948,7 @@
    "sub": "",
    "cite": "SEC. 9",
    "file": "standards/what_these_words_mean.md",
-   "line": 261,
+   "line": 305,
    "kind": "standard",
    "text": "maintains.\" **An Act that refuses to credit unmonitored ignorance at SEC. 9, and refuses to credit"
   },
@@ -29543,7 +29957,7 @@
    "sub": "",
    "cite": "SEC. 2",
    "file": "standards/what_these_words_mean.md",
-   "line": 262,
+   "line": 306,
    "kind": "standard",
    "text": "deliberate ignorance at SEC. 2, should say which it does at SEC. 6.**"
   },
@@ -29552,7 +29966,7 @@
    "sub": "",
    "cite": "SEC. 6",
    "file": "standards/what_these_words_mean.md",
-   "line": 262,
+   "line": 306,
    "kind": "standard",
    "text": "deliberate ignorance at SEC. 2, should say which it does at SEC. 6.**"
   },
@@ -29561,7 +29975,7 @@
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "standards/what_these_words_mean.md",
-   "line": 282,
+   "line": 331,
    "kind": "standard",
    "text": "owed to the public*. And oversight liability requires bad faith, while SEC. 6(a)'s floor is a"
   },
@@ -29570,7 +29984,7 @@
    "sub": "(b)",
    "cite": "SEC. 7(b)",
    "file": "standards/what_these_words_mean.md",
-   "line": 297,
+   "line": 346,
    "kind": "standard",
    "text": "defense, and the reason SEC. 7(b) exists. Delaware's exculpation provision, 8 Del. C."
   },
@@ -29579,7 +29993,7 @@
    "sub": "(b)(1)",
    "cite": "SEC. 7(b)(1)",
    "file": "standards/what_these_words_mean.md",
-   "line": 306,
+   "line": 355,
    "kind": "standard",
    "text": "**Where this Act stands.** SEC. 7(b)(1)\u2013(2) bars insuring or reimbursing an individual penalty"
   },
@@ -29588,7 +30002,7 @@
    "sub": "(b)(5)",
    "cite": "SEC. 7(b)(5)",
    "file": "standards/what_these_words_mean.md",
-   "line": 307,
+   "line": 356,
    "kind": "standard",
    "text": "outright. SEC. 7(b)(5) then does something narrower and more interesting: it **permits**"
   },
@@ -29597,7 +30011,7 @@
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "standards/what_these_words_mean.md",
-   "line": 310,
+   "line": 359,
    "kind": "standard",
    "text": "SEC. 6(b).\""
   },

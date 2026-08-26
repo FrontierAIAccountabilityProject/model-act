@@ -1748,10 +1748,29 @@ half-saw this, calling SEC. 6(b)(1)'s "knowingly" undistributed. It did not know
 on it.
 
 **The circuits are not unanimous, and the disagreement runs the other way.**
-*United States v. Johnson & Towers, Inc.*, 741 F.2d 662, 669 (3d Cir. 1984) requires the jury to
+*United States v. Johnson & Towers, Inc.*, 741 F.2d 662 (3d Cir. 1984) requires the jury to
 find that each defendant "knew that Johnson & Towers was required to have a permit, and knew that
 Johnson & Towers did not have a permit" — a knowledge-of-the-law requirement the First Circuit and
-most others reject. CRS carries the split under a *But see* signal. ⚠ Also unread in the original.
+most others reject. CRS carries the split under a *But see* signal. ✅ **Read in the opinion,
+26 August 2026, and it is narrower than this paragraph made it.**
+
+**The court qualifies the requirement in the next sentence and again in its holding.** "Depending on
+the evidence, the district court may also instruct the jury that such knowledge may be inferred";
+and Part IV concludes that all elements must be knowing "**but that such knowledge, including that
+of the permit requirement, may be inferred by the jury as to those individuals who hold the
+requisite responsible positions with the corporate defendant.**" The Third Circuit says so itself at
+the head of that discussion: its reading "does not impose on the government as difficult a burden as
+it fears." **The rule is also expressly confined to the subsection** — "in light of our
+interpretation of section 6928(d)(2)(A)" — and is not a general Third Circuit rule about knowledge
+of a legal requirement ([E66](../ledger/errata.md)).
+
+⚠ **This bears on the concession sentence drafted below.** "Responsibility and authority under
+SEC. 6(d), standing alone, do not establish knowledge" is a narrower rule than *Johnson & Towers*
+applies, since that court lets the jury infer the knowledge from the responsible position. The
+concession is a policy choice this project is making and not one the authority compels, and it
+should be defended on that footing. ⚠ 669 is not confirmed: of the three copies held, the two
+full-text captures carry no star pagination and the only paginated one stops at `*664`
+([E47](../ledger/errata.md)).
 
 ### Operation 1 — take the bridge the pollution statutes already codified
 
@@ -1766,9 +1785,20 @@ footnote 15. ⚠ **What the footnote does with it is not confirmed.** The opinio
 and the footnote's own text was not recovered, so *whether the First Circuit approved the
 instruction or merely recited it* is open — and this Operation leans on the approval. **A reviewer
 with reporter access should settle it first; if the court did not approve it, Operation 1 loses its
-federal anchor and stands on the CAA and TSCA text alone.** The constitutional ceiling is
-*Global-Tech Appliances, Inc. v. SEB S.A.*, 563 U.S. 754, 769 (2011). ⚠ CRS and *Global-Tech*
-remain unread in the original.
+federal anchor and stands on the CAA and TSCA text alone.** The ceiling is
+*Global-Tech Appliances, Inc. v. SEB S.A.*, 563 U.S. 754, 769 (2011), read in the U.S. Reports print
+on 26 August 2026: willful blindness requires both that "[t]he defendant must subjectively believe
+that there is a high probability that a fact exists" and that "the defendant must take deliberate
+actions to avoid learning of that fact," which "surpasses recklessness and negligence." ⚠ **It is
+not a constitutional ceiling and this file called it one** — *Global-Tech* is a civil patent case
+under 35 U.S.C. § 271(b) deciding no constitutional question ([E65](../ledger/errata.md)). ⚠ CRS
+remains unread in the original.
+
+**The second prong is the one this Operation has to clear.** The new text below admits evidence that
+a person "took affirmative steps to be shielded", which tracks *Global-Tech*'s deliberate-actions
+prong. **It carries no counterpart to the subjective-belief prong**, and under *Global-Tech* both are
+required. A reviewer who reads the new sentence as permitting knowledge on shielding alone has found
+the gap.
 
 **NEW TEXT — appended to SEC. 6(b):**
 

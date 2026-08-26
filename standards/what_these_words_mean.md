@@ -210,11 +210,21 @@ there.
 
 **Collective knowledge** — the doctrine that lets prosecutors add up what several employees each
 knew and treat the total as the company's knowledge, even where no single person held the whole
-picture. *United States v. Bank of New England, N.A.*, 821 F.2d 844, 856 (1st Cir. 1984): "a
-corporation cannot plead innocence by asserting that the information obtained by several employees
-was not acquired by any one individual who then would have comprehended its full import. Rather the
-corporation is considered to have acquired the collective knowledge of its employees and is held
-responsible for their failure to act accordingly."
+picture. *United States v. Bank of New England, N.A.*, 821 F.2d 844, 856 (1st Cir. **1987**), in
+the First Circuit's own words: "A collective knowledge instruction is entirely appropriate in the
+context of corporate criminal liability. . . . Corporations compartmentalize knowledge, subdividing
+the elements of specific duties and operations into smaller components. The aggregate of those
+components constitutes the corporation's knowledge of a particular operation." The instruction it
+approved, quoted in the opinion: "if Employee A knows one facet of the currency reporting
+requirement, B knows another facet of it, and C a third facet of it, the bank knows them all."
+
+⛔ **This entry previously dated the case 1984 and gave a different sentence as the First Circuit's**
+— "a corporation cannot plead innocence by asserting that the information obtained by several
+employees was not acquired by any one individual . . . ." That sentence is real and is in the
+opinion, but it is a **block quotation from *United States v. T.I.M.E.-D.C., Inc.*, 381 F. Supp. 730,
+738 (S.D. W. Va. 1974)**, quoted with approval. The case was decided **10 June 1987**
+([E67](../ledger/errata.md)). ⚠ 856 stays the secondary source's — no star pagination
+([E47](../ledger/errata.md)).
 
 **Why the doctrine exists is the part that matters here.** Uhlmann, 49 U.C. Davis L. Rev. 1235,
 1280 (2016): "Corporations compartmentalize knowledge and subdivide operational duties to promote
@@ -225,21 +235,55 @@ ship it and the people who price the compute are three different sets of people.
 **And courts are split on it.** CRS records that some have recognized the doctrine and "other
 courts have been wary or critical of this approach."
 
-**Where this Act stands.** SEC. 6 reaches the natural person with practical authority, which is a
-position on collective knowledge whether or not the Act says so: **it declines to aggregate.** The
-prosecution must prove what *this person* knew or failed to inquire into, not what the organization
-collectively held. That is harder for the State and fairer to the defendant, and a reviewer who
-thinks it makes the offense unprovable in a compartmentalized company has found a real objection.
+**Where this Act stands, stated more narrowly than it used to be.** SEC. 6 reaches the natural
+person with practical authority. The prosecution must prove what *this person* knew or failed to
+inquire into, not what the organization collectively held. That is harder for the State and fairer
+to the defendant, and a reviewer who thinks it makes the offense unprovable in a compartmentalized
+company has found a real objection.
+
+⚠ **This page used to say the Act "declines to aggregate", and that claimed too much.** Read in the
+opinion, collective knowledge is a rule of **corporate** criminal liability — employees' knowledge
+"is imputed to the corporation," and the aggregate "constitutes the corporation's knowledge." **No
+case in the First Circuit's string aggregates several people's knowledge onto one defendant.** The
+doctrine was never available against a natural person, so the Act is not giving up a tool; it is
+working where the tool does not reach ([E67](../ledger/errata.md)).
 
 **Willful blindness** — also called *conscious avoidance*, and in older cases *the ostrich
 instruction*. Deliberately not looking, where looking would have produced knowledge. The classic
 formulation is *United States v. Jewell*, 532 F.2d 697, 704 (9th Cir. 1976) (en banc): the
 government must prove "beyond a reasonable doubt, that if the defendant was not actually aware [of
 the crime] . . . his ignorance in that regard was solely and entirely a result of . . . a conscious
-purpose to avoid learning the truth." Narrowed in *United States v. Cincotta*, 689 F.2d 238, 243 n.2
-(1st Cir. 1982): "specific knowledge may be inferred when a person knows other facts that would
-induce most people to acquire the specific knowledge in question." The constitutional ceiling is
-*Global-Tech Appliances, Inc. v. SEB S.A.*, 563 U.S. 754, 769 (2011).
+purpose to avoid learning the truth." ✅ **Read 26 Aug 2026**; the words are the trial court's
+instruction, adopted by the en banc court. ⚠ 704 unconfirmed — no star pagination. Restated in
+*United States v. Cincotta*, 689 F.2d 238, 243 n.2 (1st Cir. 1982): "specific knowledge may be
+inferred when a person knows other facts that would
+induce most people to acquire the specific knowledge in question." ✅ **Read 26 Aug 2026, and "n.2"
+is confirmed even though 243 is not.** ⚠ **This entry used to call *Cincotta* a narrowing of *Jewell*,
+and its next sentence widens it** ([E73](../ledger/errata.md)): "if someone refuses to investigate an
+issue that cries out for investigation, **we may presume that he already 'knows' the answer** an
+investigation would reveal, whether or not he is 'certain'." The "only" limits what conscious
+avoidance **is**, not how far the inference reaches. The ceiling is *Global-Tech
+Appliances, Inc. v. SEB S.A.*, 563 U.S. 754, 769 (2011), which states the test the Courts of Appeals
+had converged on: "all appear to agree on two basic requirements: (1) The defendant must
+subjectively believe that there is a high probability that a fact exists and (2) the defendant must
+take deliberate actions to avoid learning of that fact." Those requirements "give willful blindness
+an appropriately limited scope that surpasses recklessness and negligence": the willfully blind
+defendant "can almost be said to have actually known the critical facts," whereas "a reckless
+defendant is one who merely knows of a substantial and unjustified risk."
+
+**Read in the U.S. Reports print on 26 August 2026, and it corrects two things this glossary said.**
+This page called *Global-Tech* a **constitutional** ceiling. It is not one — the case is a civil
+patent suit under 35 U.S.C. § 271(b) and decides no constitutional question
+([E65](../ledger/errata.md)). And the ordering above is not a narrowing sequence: *Cincotta*'s
+"induce most people" is an objective inference, while *Global-Tech* requires a **subjective** belief
+in a high probability **and** deliberate action to avoid confirming it. **The Supreme Court's test is
+the harder of the two for a prosecutor**, and a reader who took this paragraph as a descent from
+broad to narrow had it backward.
+
+**The doctrine's traffic runs criminal-to-civil, not the reverse.** *Global-Tech* records that
+willful blindness "is well established in criminal law" and then extends it: "we can see no reason
+why the doctrine should not apply in civil lawsuits for induced patent infringement." Nothing in the
+opinion narrows it for criminal cases.
 
 **Congress did not leave this to jury instructions.** Per CRS, the Clean Air Act and TSCA provide
 that "in proving a defendant's possession of actual knowledge, circumstantial evidence may be used,
@@ -268,10 +312,15 @@ none may be described as verified. E22 governs.
 
 **Duty of oversight** — *the Caremark line.* The corporate-law doctrine nearest to what this Act
 does, and the one a governance lawyer reaches for first. It asks whether those in charge built a
-system to know. *In re Caremark*, 698 A.2d 959, 971 (Del. Ch. 1996): "only a sustained or systematic
-failure of the board to exercise oversight — such as an utter failure to attempt to assure a
-reasonable information and reporting system exists — will establish the lack of good faith that is a
-necessary condition to liability." *Marchand v. Barnhill*, 212 A.3d 805, 824 (Del. 2019) narrowed
+system to know. *In re Caremark*, 698 A.2d 959, 971 (Del. Ch. 1996): "Generally where a claim of
+directorial liability for corporate loss is predicated upon **ignorance** of liability creating
+activities within the corporation, as in *Graham* or in this case, **in my opinion** only a sustained
+or systematic failure of the board to exercise oversight — such as an utter failure to attempt to
+assure a reasonable information and reporting system exists — will establish the lack of good faith
+that is a necessary condition to liability." ✅ **Read in the copy held, 26 Aug 2026, and 971 is
+confirmed.** ⚠ **This entry used to begin the quotation at "only"**, dropping Chancellor Allen's own
+"in my opinion" and the confinement to claims predicated on ignorance ([E68](../ledger/errata.md));
+it is not a general standard for director oversight. *Marchand v. Barnhill*, 212 A.3d 805, 824 (Del. 2019) narrowed
 the target to what matters most: "In Blue Bell's case, food safety was essential and **mission
 critical**." And *In re McDonald's Corp. Stockholder Derivative Litigation*, C.A. No. 2021-0324-JTL (Del. Ch.
 26 Jan. 2023) (Laster, V.C.) moved it off the board, at slip op. 2: **"This decision clarifies that

@@ -42,7 +42,21 @@ USAGE
 
 import io, os, re, sys, unicodedata
 
-LIB   = os.path.expanduser("~/mnt/faap/library/_text")
+# The shelf sits at a different path depending on how the library is attached: on the
+# maintainer's device it is a mount under ~/mnt, and in a checkout beside the repository it is
+# ../library. This was hardcoded to the mount alone, so on any machine without that mount the
+# script printed "SHELF NOT REACHABLE ... this run proves nothing" and every quotation went
+# unchecked. The banner was honest and nobody read it. Resolve in order and use the first that
+# exists; if none does, LIB stays the first candidate so the existing banner still fires.
+_LIB_CANDIDATES = [
+    "~/mnt/faap/library/_text",       # the maintainer's device mount
+    "../library/_text",               # library checked out beside the repository
+    "~/Documents/faap/library/_text", # local working copy
+]
+LIB = next(
+    (os.path.expanduser(c) for c in _LIB_CANDIDATES if os.path.isdir(os.path.expanduser(c))),
+    os.path.expanduser(_LIB_CANDIDATES[0]),
+)
 REPO  = "."
 MINLEN = 60          # shorter strings match by accident; 60 chars is ~10 words
 

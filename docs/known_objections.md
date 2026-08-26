@@ -460,13 +460,20 @@ whether this person took the measures a prudent person in that position would ha
 Corporate criminal liability really is built on imputation. *Respondeat superior* is how a company
 acquires a mental state at all, and the collective knowledge doctrine lets prosecutors aggregate
 what several employees each knew: *United States v. Bank of New England*, 821 F.2d 844, 856
-(1st Cir. 1984). Courts are split on that second one, and CRS records that some "have been wary or
-critical of this approach."
+(1st Cir. **1987**). Courts are split on that second one, and CRS records that some "have been wary
+or critical of this approach."
 
-**This Act declines to aggregate.** It reaches one natural person and must prove what that person
-knew, or deliberately avoided knowing, or failed to inquire into. **That is a harder case for the
-State than a corporate prosecution, not an easier one** — and the objection has the direction of
-travel backward.
+**This Act reaches one natural person** and must prove what that person knew, or deliberately
+avoided knowing, or failed to inquire into. **That is a harder case for the State than a corporate
+prosecution, not an easier one** — and the objection has the direction of travel backward.
+
+⚠ **This passage used to say the Act "declines to aggregate", and the case does not support the
+implied concession.** Read on 26 August 2026, *Bank of New England* states collective knowledge as a
+rule of **corporate** criminal liability: employees' knowledge "is imputed to the corporation", and
+the aggregate "constitutes the corporation's knowledge of a particular operation". It does not
+aggregate onto an individual, and neither does any authority in the string it cites. **The Act
+declines nothing it could have had** ([E67](../ledger/errata.md)). The date was also wrong here —
+the case is 1987, not 1984.
 
 There is a version of the complaint that survives, and it is the better one: in an organization
 that compartmentalizes by design, the person with authority may genuinely never hold the facts.
@@ -514,9 +521,11 @@ under this Act.** The Act is the narrower instrument, and that has never been sa
 ⚠ **Read-status, 25 August 2026.** The *MacDonald & Watson* sentences and all three *Iverson*
 passages above were read in the opinions and are transcribed character for character. **Their page
 numbers were not read**: the source carries no star pagination, so "at 55" and "at 1026" remain the
-secondary sources' pincites and are not verified ([E47](../ledger/errata.md)). *Bank of New England*
-and the CRS passages are still **unread in the reporters** and are on the retrieval list; under E22
-neither may be described as verified. **The *Iverson* quotation on this page was wrong until today**
+secondary sources' pincites and are not verified ([E47](../ledger/errata.md)). ✅ ***Bank of New
+England* was read on 26 August 2026** and this page's account of it has been corrected in two
+respects ([E67](../ledger/errata.md)); ⚠ its 856 pincite is still unverifiable, the copy carrying no
+star pagination. **The CRS passages remain unread in the original** and under E22 may not be
+described as verified. **The *Iverson* quotation on this page was wrong until today**
 — see [E48](../ledger/errata.md).
 
 
@@ -880,8 +889,17 @@ Trade secrets are property for Takings Clause purposes. That is not a stretch; i
 *Ruckelshaus v. Monsanto Co.*, 467 U.S. 986, 1003–04 (1984), which the complaint cites. A training
 corpus, an evaluation result and a compute ledger are "valuable precisely because they are not
 public" — the complaint's phrase. **A statute compelling their disclosure appropriates the thing
-that made them valuable**, and the right to exclude is the "sine qua non" of the property interest
-(*Cedar Point Nursery v. Hassid*, 594 U.S. 139, 150 (2021)).
+that made them valuable**, and the right to exclude is "a fundamental element of the property right"
+and "one of the most essential sticks in the bundle of rights that are commonly characterized as
+property" (*Kaiser Aetna v. United States*, 444 U.S. 164, 176, 179–180 (1979), quoted in *Cedar
+Point Nursery v. Hassid*, 594 U.S. 139, 150 (2021)).
+
+⛔ **This passage used to give that proposition as *Cedar Point*'s "sine qua non" of the property
+interest, and the phrase is not the Court's.** Read on 26 August 2026, it appears once in the
+opinion, in a *see also* parenthetical reporting what an article "call[s]" the right to exclude —
+Merrill, *Property and the Right to Exclude*, 77 Neb. L. Rev. 730 (1998). The Court's own words are
+*Kaiser Aetna*'s, as now quoted ([E70](../ledger/errata.md)). ⚠ 150 remains the complaint's pincite:
+neither copy held carries U.S. Reports pagination.
 
 Applied here the objection is heavier than it is against AB 2013. SEC. 8 compels a personal
 certification. SEC. 9 compels incident reports. SEC. 3 compels validation materials. SEC. 12
@@ -941,6 +959,17 @@ exclude as the property itself, and a compelled handover to the State is a hando
 the State prints it. **Whether "under seal" answers a per se theory or only a regulatory one is the
 question this project cannot settle in-house.**
 
+⚠ **And point Two needs a step *Cedar Point* does not supply, which reading it made plain.** The
+Court frames its own rule around a physical line: "The essential question is . . . whether the
+government has **physically taken property** for itself or someone else—by whatever means—or has
+instead **restricted a property owner's ability to use his own property**", and "[w]henever a
+regulation results in a **physical appropriation** of property, a per se taking has occurred." The
+case concerns a right to "physically enter and occupy the growers' land for three hours per day, 120
+days per year". **The words "trade secret" and "intangible" do not appear in the opinion, and
+neither does *Ruckelshaus*.** Carrying a per se physical-appropriation rule across to compelled
+production of records is the argument, and no authority on this page makes it — the objection is
+good on *Ruckelshaus* and on an extension nobody has briefed ([E70](../ledger/errata.md)).
+
 **Three.** The redaction power in SB 53 § (f) is exercised by the developer, with no agency approval
 and no penalty attaching to over-redaction as such. If it is a rule in name only, CURE 23 imports a
 rule in name only.
@@ -985,9 +1014,29 @@ by fiduciaries. Delaware — where these companies are incorporated — has spen
 the law of when a fiduciary answers personally for a failure to supervise, and it set the bar high
 on purpose. *In re Caremark*, 698 A.2d 959, 971 (Del. Ch. 1996): only "a sustained or systematic
 failure of the board to exercise oversight — such as an utter failure to attempt to assure a
-reasonable information and reporting system exists" establishes the bad faith liability requires.
-A state that criminalizes the same conduct at a *lower* threshold has not filled a gap. It has
-overridden a considered judgment about how much protection a decision-maker needs.
+reasonable information and reporting system exists" will "establish the lack of good faith that is a
+necessary condition to liability." A state that criminalizes the same conduct at a *lower* threshold
+has not filled a gap. It has overridden a considered judgment about how much protection a
+decision-maker needs.
+
+**The answer, and it was two sentences above the quotation for as long as this objection stood.**
+✅ *Caremark* was read on 26 August 2026. In the paragraph immediately preceding the passage above,
+Chancellor Allen **reserves** the case this Act is about:
+
+> "Thus, this case presents no occasion to apply a principle to the effect that **knowingly causing
+> the corporation to violate a criminal statute** constitutes a breach of a director's fiduciary
+> duty. See *Roth v. Robertson*, 64 Misc. 343, 118 N.Y.S. 351 (N.Y. Sup. Ct. 1909); *Miller v.
+> American Tel. & Tel. Co.*, 507 F.2d 759 (3d Cir. 1974)."
+
+**The considered judgment was made about ignorance, and expressly not about knowing violation** —
+the standard itself is confined on its face to claims "predicated upon ignorance of liability
+creating activities". SEC. 6(b) is a knowing-conduct offense, and Delaware did not weigh it. The
+court cited two authorities running the other way on the reserved question and left it open
+([E68](../ledger/errata.md)).
+
+**The objection survives against SEC. 6(a) and this page should say so.** SEC. 6(a)'s floor is a
+failure of due care, which really does sit below the *Caremark* bar, and the argument that a state
+has overridden a considered judgment is available there. It is not available against SEC. 6(b).
 
 **The first half of the answer: this Act is not in that body of law at all.** Oversight liability is
 civil, it is fiduciary, and it is owed to the corporation and its stockholders. The duty here is
@@ -1061,7 +1110,9 @@ deciding it.** If a governance seat can, that is a finding.
 
 ⚠ **Read-status, stated so this section is not mistaken for more than it is.** *Stone*, *Massey*,
 *Marchand*, *McDonald's* and now *Walton* have been read in the opinions; **their pincites are slip-opinion
-pages, and none has been confirmed against a reporter print.** *Caremark* is held and unread. **The
+pages, and none has been confirmed against a reporter print.** ✅ ***Caremark* was read on 26 August
+2026 and its 971 pincite is confirmed** — the copy held carries star pagination, contrary to what
+this repository assumed from its filename ([E68](../ledger/errata.md)). **The
 *In re TransUnion* sentence removed by [E46](../ledger/errata.md) stays removed** — it has not been
 re-checked, and nothing in the *Walton* correction bears on it.
 Under [E22](../ledger/errata.md) nothing here may be described as verified, and no outreach may cite

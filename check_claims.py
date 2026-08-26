@@ -21,6 +21,24 @@ WORDS = {1:"one",2:"two",3:"three",4:"four",5:"five",6:"six",7:"seven",8:"eight"
          57:"fifty-seven",58:"fifty-eight",59:"fifty-nine",60:"sixty",
          30:"thirty",31:"thirty-one",32:"thirty-two",33:"thirty-three"}
 
+# The table above was written by hand and stopped at sixty. On 26 August 2026 the errata
+# register reached sixty-one and the checker began reporting a page that said "sixty-one"
+# as stale against a truth of 61 -- a defect in the map, read as a defect in the page.
+# Generated from here on so it cannot run out again; the literals above are left as written.
+_TENS = {2:"twenty",3:"thirty",4:"forty",5:"fifty",6:"sixty",7:"seventy",8:"eighty",9:"ninety"}
+_UNITS = {1:"one",2:"two",3:"three",4:"four",5:"five",6:"six",7:"seven",8:"eight",9:"nine"}
+for _n in range(15, 200):
+    if _n in WORDS:
+        continue
+    if _n < 20:
+        WORDS[_n] = {15:"fifteen",16:"sixteen",17:"seventeen",18:"eighteen",19:"nineteen"}[_n]
+    elif _n < 100:
+        _t, _u = divmod(_n, 10)
+        WORDS[_n] = _TENS[_t] + ("-" + _UNITS[_u] if _u else "")
+    else:
+        _h, _r = divmod(_n, 100)
+        WORDS[_n] = _UNITS[_h] + " hundred" + (" " + WORDS[_r] if _r else "")
+
 # ---- recompute the truth -------------------------------------------------
 errata      = read("ledger/errata.md")
 entries     = len(re.findall(r'(?m)^## E\d+', errata))
