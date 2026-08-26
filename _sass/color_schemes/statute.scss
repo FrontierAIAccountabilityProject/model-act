@@ -1,15 +1,17 @@
 // Statute — restyled 26 August 2026. The beige-and-maroon law-report register read as
 // decorative to the people it was written for; the authority it was reaching for is the
 // one a repository already has. So: white page, grey furniture, one green accent, system
-// sans throughout. GitHub's own light values, because that is the room this document
-// lives in. One accent, no decoration.
+// sans throughout. GitHub's own light greys, because that is the room this document lives
+// in — but NOT GitHub's green. #1a7f37 is its success colour, the merge button, tests-passed.
+// A statute about failures of care should not accent itself in the universal all-clear
+// signal. The accent is a desaturated pine instead: same family, no affordance.
 @import "./color_schemes/light";
 
 $body-background-color: #ffffff;        // the page
 $body-text-color: #1f2328;              // near-black, very slightly cool
 $body-heading-color: #1f2328;
-$link-color: #1a7f37;                   // the one accent: green, links and nothing else
-$btn-primary-color: #1f883d;
+$link-color: #3d7869;                   // the one accent: a pine green, links and nothing else
+$btn-primary-color: #33685b;
 $sidebar-color: #f6f8fa;                // the apparatus margin: the faintest grey
 $border-color: #d1d9e0;                 // hairlines, not boxes
 $search-background-color: #ffffff;

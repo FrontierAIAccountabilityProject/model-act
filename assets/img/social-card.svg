@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640">
   <rect width="1280" height="640" fill="#ffffff"/>
   <rect x="24" y="24" width="1232" height="592" fill="none" stroke="#d1d9e0" stroke-width="3"/>
-  <text x="96" y="250" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="180" font-weight="700" fill="#1a7f37">&#167;</text>
+  <text x="96" y="250" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="180" font-weight="700" fill="#3d7869">&#167;</text>
   <text x="240" y="232" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="70" font-weight="700" fill="#1f2328">Model Act</text>
   <text x="240" y="310" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="46" fill="#1f2328">Frontier AI Public Welfare Offenses</text>
   <rect x="96" y="366" width="1088" height="2" fill="#d1d9e0"/>

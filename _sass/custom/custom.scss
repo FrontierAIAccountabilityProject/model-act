@@ -5,7 +5,7 @@
 // requests, nothing to maintain. Size stays generous for long reading.
 
 $ink: #1f2328;
-$accent: #1a7f37;
+$accent: #3d7869;
 $subtle: #eaeef2;
 
 html {
@@ -60,7 +60,7 @@ html {
   text-decoration-thickness: 1px;
 }
 .main-content a:visited {
-  color: #55725e;
+  color: #6d938a;
 }
 .site-nav a,
 .aux-nav a,
@@ -199,7 +199,7 @@ html {
   user-select: text;
 }
 ::selection {
-  background: #dafbe1;
+  background: #e3efeb;
   color: $ink;
 }
 
@@ -215,7 +215,7 @@ html {
 // The dated record — rail on the expanded timeline page.
 .timeline dl { border-left: 2px solid #d1d9e0; padding-left: 1.4rem; margin: 1rem 0 0 0.2rem; }
 .timeline dt { font-weight: 700; font-variant-numeric: tabular-nums; margin-top: 0.9rem; position: relative; }
-.timeline dt::before { content: ""; position: absolute; left: calc(-1.4rem - 5px); top: 0.42em; width: 8px; height: 8px; border-radius: 50%; background: #1a7f37; }
+.timeline dt::before { content: ""; position: absolute; left: calc(-1.4rem - 5px); top: 0.42em; width: 8px; height: 8px; border-radius: 50%; background: #3d7869; }
 .timeline dd { margin: 0.1rem 0 0.4rem 0; }
 
 
