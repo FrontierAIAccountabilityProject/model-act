@@ -35,7 +35,7 @@ proved.
 | | |
 |---|---|
 | The statute | **611 lines, 32 sections**, tagged v3.4, with an **11,000-word** section-by-section companion |
-| The repository | **84 documents, more than 375,000 words**, mirrored as a searchable site. Twenty-one were retired on 26 August 2026 — they were signposts saying "this moved", and the links they redirected now point at the destination directly |
+| The repository | **85 documents, more than 375,000 words**, mirrored as a searchable site. Twenty-one were retired on 26 August 2026 — they were signposts saying "this moved", and the links they redirected now point at the destination directly |
 | The drafting record | **more than 460 commits**; every version's redline preserved; **16 cures** adopted verbatim at v3.4 and **26 more plus 4 open questions** drafted and waiting for v3.5 |
 | Corrections | A numbered, append-only **errata register: 50 entries**, numbers reaching E64, each with the cause, what caught it, the fix, and the rule kept |
 | Sources | A **verification record of more than 200 rows** — every instrument, its retrieval date, its grade, and, in its own section, the claims that **failed** verification and were withdrawn |
