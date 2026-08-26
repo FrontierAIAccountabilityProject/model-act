@@ -207,7 +207,8 @@ Raising SEC. 6(a) to recklessness would abandon a floor federal law has held for
 order to fit a statute that was never its donor.
 
 **And it takes the sting out of *Ahmad*.** *Ahmad* refuses public-welfare treatment to CWA discharges
-because they are "felonies punishable by years in federal prison." **§ 1319(c)(1) is a misdemeanor.**
+and offers as confirmation that those violations "are felonies punishable by years in federal
+prison." **§ 1319(c)(1) is a misdemeanor.**
 Whatever *Ahmad* does to a felony tier, it does not reach a one-year negligence offense, which makes
 SEC. 6(a) the least vulnerable part of the whole federal analogy rather than the most.
 

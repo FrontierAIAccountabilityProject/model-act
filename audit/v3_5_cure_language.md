@@ -1919,10 +1919,30 @@ been fixed.**
 
 ### The best objection, stated because this cure would rather lose here than in a hearing
 
-*United States v. Ahmad*, 101 F.3d 386, 391 (5th Cir. 1996) holds that illegal discharges under the
-CWA are **not** public welfare offenses, because they are "felonies punishable by years in federal
-prison" and "dispensing with mens rea would require the defendant to have knowledge only of
-traditionally lawful conduct" (quoting *Staples*, 511 U.S. at 618). And Justice Thomas, dissenting
+*United States v. Ahmad*, 101 F.3d 386 (5th Cir. 1996) holds that the § 1319(c)(2)(A) offenses of
+which Ahmad was convicted are **not** public welfare offenses, and that "the mens rea of knowledge
+applies to each element of the crimes." ✅ **Read in the opinion 26 August 2026.**
+
+**The ground is mistake of fact.** Ahmad discharged what the court calls "a large quantity of
+gasoline" from a leaking tank into a town's sewers, and the court's stated worry is the person on
+the other side of that fact: "if knowledge is not required as to the nature of the substance
+discharged, one who honestly and reasonably believes he is discharging water may find himself guilty
+of a felony if the substance turns out to be something else." The controlling test it takes from
+*Staples* is "whether 'dispensing with mens rea would require the defendant to have knowledge only
+of traditionally lawful conduct'" (quoting *Staples*, 511 U.S. at 618).
+
+⚠ **The felony point is a confirming reason and this project published it as the ratio.** The
+opinion's own sentence: "The fact that violations of § 1319(c)(2)(A) are felonies punishable by
+years in federal prison **confirms our view** that they do not fall within the public welfare offense
+exception." We had been writing that the offenses are not public welfare offenses *because* they are
+felonies. That inverts the reasoning. See [E56](../ledger/errata.md).
+
+⚠ **And *Ahmad* does not think it is splitting with *Weitzenhoff*.** On the Ninth Circuit's case it
+says the court "was concerned almost exclusively with whether the language of the CWA creates a
+mistake-of-law defense. Both cases are easily distinguishable, for neither directly addresses
+mistake of fact or the statutory construction issues raised by Ahmad." The disagreement that
+survives is narrower than a split: it is about what *Staples* at 618 decided, and there
+*Weitzenhoff* at 1286 n.7 is directly opposed. And Justice Thomas, dissenting
 from the denial of certiorari in *Hanousek v. United States*, 528 U.S. 1102 (2000): the CWA "imposes
 criminal liability for persons using standard equipment to engage in a broad range of ordinary
 industrial and commercial activities."
@@ -2162,10 +2182,10 @@ not conflate with the 1121 sentence.
 **One. There is a circuit split on the question the criminal lane calls unanswerable, and this
 project has been citing only one side of it.** *Hanousek* holds, twice, that "**The criminal
 provisions of the CWA constitute public welfare legislation**," resting on *United States v.
-Weitzenhoff*, 35 F.3d 1275, **1286** (9th Cir. 1993). *Ahmad* holds the opposite — that CWA discharges
-are **not** public welfare offenses, because they are "felonies punishable by years in federal
-prison." **The lane sweep records *Ahmad* as the sharpest attack available and says nobody in-house
-can settle it.**
+Weitzenhoff*, 35 F.3d 1275, **1286** (9th Cir. 1993). *Ahmad* holds the opposite for the § 1319(c)(2)(A)
+counts before it, on a mistake-of-fact ground, with the felony penalty stated as confirming that
+view rather than producing it. **The lane sweep records *Ahmad* as the sharpest attack available and
+says nobody in-house can settle it.**
 
 **A court has settled it, and the case was already on the shelf.** ✅ *Weitzenhoff* read in the
 amended opinion 26 August 2026, in a copy carrying continuous star pagination 1279–1299. At
@@ -2233,10 +2253,11 @@ person therefore reaches an operational supervisor, where SEC. 4(a) expressly ex
 ministerial execution, implementation, or communication of a decision made by another." **This Act
 is narrower than its own model, for the third time this week.**
 
-**And it takes the sting out of *Ahmad*.** *Ahmad* refuses public-welfare treatment to CWA discharges
-because they are "felonies punishable by years in federal prison." **§ 1319(c)(1) is a misdemeanor.**
-Whatever *Ahmad* does to a felony tier it does not reach a one-year negligence offense, which makes
-SEC. 6(a) the least exposed part of the federal analogy rather than the most.
+**And it takes the sting out of *Ahmad*.** *Ahmad* refuses public-welfare treatment to the
+§ 1319(c)(2)(A) counts before it, and offers as confirmation that those violations "are felonies
+punishable by years in federal prison." **§ 1319(c)(1) is a misdemeanor.** Whatever *Ahmad* does to a
+felony tier it does not reach a one-year negligence offense, which makes SEC. 6(a) the least exposed
+part of the federal analogy rather than the most.
 
 **The alternative a reviewer should weigh and this cure rejects:** raise SEC. 6(a) to the recklessness
 SEC. 8 advertises. That buys the § 1350 analogy and abandons the negligence floor *DeCoster* says

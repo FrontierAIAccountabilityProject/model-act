@@ -98,6 +98,22 @@ def captions(text):
         if not a or not b: continue
         a, b = trim_first_party(a), trim_second_party(b)
         if not a or not b: continue
+        # Two joining words in a row cannot occur inside one party name, but they
+        # occur constantly BETWEEN two captions in running prose. "Staples v.
+        # United States and for Liu v. SEC" produced the phantom caption
+        # "United States and for Liu v. SEC" on 26 Aug 2026: "and" and "for" are
+        # both legal inside a party name, so neither alone was a signal. Cut at
+        # the last such run and keep the tail, which is the real second caption.
+        _w = a.split()
+        _cut = 0
+        for _i in range(len(_w) - 1):
+            if (_w[_i].lower().rstrip(".,") in INPARTY
+                    and _w[_i+1].lower().rstrip(".,") in INPARTY):
+                _cut = _i + 2
+        if _cut: a = " ".join(_w[_cut:])
+        while a.split() and a.split()[-1].lower().rstrip(".,") in INPARTY:
+            a = " ".join(a.split()[:-1])
+        if not a: continue
         if a.split()[0].lower().rstrip(".,") in FRAGMENT and len(a.split()) <= 2: continue
         out.add(f"{a} v. {b}".rstrip(".,;:"))
     keep = set()
@@ -130,6 +146,29 @@ def main():
         elif line.startswith("| ") and not is_separator_row(line) and not line.startswith("| Authority"):
             toa_rows.append((section, line))
             if "⚠" in line: unread.append((section, line))
+    # Two rows for one authority is not a style problem; it is two read-statuses
+    # for one document, and they drift. On 26 August 2026 this table briefly carried
+    # two *Staples* rows and two *Liu v. SEC* rows, both added by someone who did not
+    # grep before inserting, and neither checker noticed. See E53.
+    # A pair is DELIBERATE when one of the two rows points at the other in words.
+    # That is the pattern already used for *Iverson*: one full row, one row that
+    # says where the read-status lives. A pair with no pointer is the defect,
+    # because the two statuses drift and nothing says which one is current.
+    POINTER = ("row above", "row below", "rows above", "rows below")
+    _first = {}
+    dupes, crossrefs = [], []
+    for sec, line in toa_rows:
+        cell = line.split("|")[1].strip()
+        key = re.sub(r"[*_`]", "", cell).split(",")[0].strip().lower()
+        if not key: continue
+        if key in _first:
+            s1, l1 = _first[key]
+            if any(p in line.lower() for p in POINTER) or any(p in l1.lower() for p in POINTER):
+                crossrefs.append((key, s1, sec))
+            else:
+                dupes.append((key, s1, sec))
+        else:
+            _first[key] = (sec, line)
     toa_caps = captions(toa_text)
 
     prose_caps = collections.Counter()
@@ -140,16 +179,27 @@ def main():
         for c in captions(t):
             prose_caps[c] += 1; where[c].add(f)
 
+    _FLAT_TOA = " ".join(re.sub(r"[*_`]", "", toa_text).split())
+
     def known(c):
         parts = c.split(" v. ")
-        return any(p[-16:] in toa_text or p[:16] in toa_text for p in parts if len(p) > 4)
+        long_parts = [p for p in parts if len(p) > 4]
+        if any(p[-16:] in toa_text or p[:16] in toa_text for p in long_parts):
+            return True
+        # Both party names short — the length guard above can never match them,
+        # so a rowed case like "Liu v. SEC" reported as unrowed forever. Fall
+        # back to the whole caption against the flattened table. Found 26 Aug
+        # 2026 when Liu kept reporting as missing with a row three lines away.
+        if not long_parts:
+            return c in _FLAT_TOA
+        return False
 
     missing = sorted((c for c in prose_caps if not known(c)), key=lambda c: -len(where[c]))
 
     print("CITATION SWEEP")
     print(f"  markdown files ............... {len(files)}")
     print(f"  rows in the table ............ {len(toa_rows)}")
-    print(f"  rows flagged unread (⚠) ...... {len(unread)}   <-- the standing debt")
+    print(f"  rows flagged with debt (⚠) ... {len(unread)}   <-- the standing debt")
     print(f"  case captions seen in prose .. {len(prose_caps)}")
     print(f"  captions with no table row ... {len(missing)}")
     if unread:
@@ -157,6 +207,13 @@ def main():
         for sec, line in unread:
             auth = line.split("|")[1].strip()[:78]
             print(f"    [UNREAD] {auth}")
+    if dupes:
+        print("\n  *** TWO ROWS FOR ONE AUTHORITY, NEITHER POINTING AT THE OTHER ***")
+        for key, s1, s2 in dupes:
+            print("    [DUPLICATE] %-60s  %s / %s" % (key[:60], s1, s2))
+        print("    Merge them, or make one row say where the read-status lives.")
+    for key, s1, s2 in crossrefs:
+        print("  [two rows, cross-referenced, allowed] %s  (%s / %s)" % (key[:56], s1, s2))
     if missing:
         print("\n  CITED WITH NO ROW IN THE TABLE:")
         for c in (missing if show_all else missing[:25]):

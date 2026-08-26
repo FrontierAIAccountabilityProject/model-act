@@ -396,15 +396,51 @@ pass: this table listed the Virginia SB 384 substitute twice.*
 *Rule, from the incident that created this section: when a file cites an instrument this table does
 not carry, the citation is the defect — add the row before the reliance.*
 
-⚠ **And that rule is currently broken at scale, stated here rather than discovered later.** A
-file-by-file comparison on 26 August 2026 found **155 of the 199 PDFs on the shelf have no row in
-this table.** The fifteen rows above are the criminal-reporter batch, added because published text
-now says those cases are "held in the working library" and the rule above requires the row before
-the reliance. **The other 140 are unreconciled.** Most arrived in the three intake batches of 24–26
-August, and the section's opening promise — that the repository knows what the project holds
-without anyone opening the folder — **is false for roughly three quarters of the shelf until that
-reconciliation is done.** The library's own index (`_LIBRARY_INDEX.md`, inside the folder) is
-complete; this table is the copy that fell behind.
+### The 26 August retrieval — thirty-nine documents, and what each copy cannot do
+
+*A second retrieval run delivered thirty-nine sources on 26 August 2026. They are listed here by
+what they settle and what they do not, because on this shelf that is the only fact about a copy that
+changes an argument. The run's own log is `NOTES_Retrieval-log_second-agent-run_2026-08-26.md` in
+the library.*
+
+| Held | What it is, and its limit |
+|---|---|
+| *Ahmad*, 101 F.3d 386 — law.resource.org | ✅ **Read in the opinion 26 Aug.** The objection the criminal lane called unanswerable, in its own words at last. ⚠ **No star pagination**, so nothing may be pincited to it |
+| *Iverson*, 162 F.3d 1015 — law.resource.org | The real *Iverson* at last, after a Tenth Circuit namesake was retrieved by mistake. ⚠ **No star pagination**; 1026 and 1024 stay the secondary source's. ⚠ **162 F.3d 1015 is a shared citation** — the first candidate under it is *Sementilli v. Trinidad Corp.* |
+| *MacDonald & Watson*, 933 F.2d 35 · *Johnson & Towers*, 741 F.2d 662 · *Bank of New England*, 821 F.2d 844 · *Jewell*, 532 F.2d 697 · *Cincotta*, 689 F.2d 238 · *Veeck*, 293 F.3d 791 — all law.resource.org | Held, unread. ⚠ **None carries star pagination.** Six opinions that can confirm text and cannot confirm a page ([E47](../ledger/errata.md)) |
+| *Ruckelshaus v. Monsanto*, 467 U.S. 986 — **LoC U.S. Reports scan, 39 pp.** | ✅ **Read, and it settled the 1003–04 pincite** the WIPO Lex copy could not. **The single most valuable file in the batch** |
+| *Balint* · *Global-Tech* · *South Dakota v. Dole* · *Pennhurst* · *Kentucky v. Dennison* · *Energy Reserves* · *Connecticut v. Doehr* · *Rummel v. Estelle* — LoC / govinfo U.S. Reports | Held, unread. ✅ **All carry real U.S. Reports pagination and can settle their own pincites** |
+| *Cedar Point* · *Trump v. Slaughter* · *National Pork Producers* · *Sveen v. Melin* · *Liu v. SEC* — supremecourt.gov slip opinions | Held, unread. ⚠ **A slip opinion carries slip pages, not U.S. Reports pages.** None of these can settle a U.S. pincite |
+| *In re Caremark*, 698 A.2d 959 | Held, unread. ⚠ **A Thomson Reuters/Westlaw reprint with KeyCite headers, hosted by a law school — not an official court print.** Whether it may settle 971 is a question for whoever reads it |
+| *SEC v. Jensen*, **835 F.3d 1100** (No. 14-55221) — the Ninth Circuit's own PDF | Held, unread. **The reporter citation this project did not have.** The "no-fault clawback" claim at n.18 stays uncited until it is read |
+| *Florida v. OpenAI* — the filed-stamped complaint, 83 pp. | Held, unread. Circuit Court, Tenth Judicial Circuit, Highlands County, against the OpenAI entities **and Sam Altman personally** |
+| *Wistisen v. Alibaba* · *Kadrey v. Meta* · *Concord Music v. Anthropic* · *X.AI v. Weiser* | ⚠ **Docket metadata stubs, not docket sheets.** Caption, number, court and filing date confirmed against the CourtListener RECAP index; the sheets themselves need PACER or a manual pull |
+| U.S.S.G. Manual 2025, 553 pp. — ussc.gov | ✅ **The Manual print § 5G1.2(d) was archive-pinned against.** Held, unread |
+| W. Va. Constitution — wvlegislature.gov | ⚠ **Whole-document capture, not art. III § 5 alone**; the clause is present in it. **One of the two constitutional texts the retrieval list called the quiet scandal.** The other, Ind. Const. art. 1 § 16, is **still not obtained** |
+| H.R. 9917 · CA SB 1047 (enrolled) · CT SB 5 (second copy) | Held. ⚠ **SB 1047's veto message is not captured** and is not on the bill-nav page |
+| S. Hrg. 119-202 · 119-505 — govinfo | ⚠ **Second copies, and thinner than the ones already held.** See the finding below |
+| Desai & Riedl, arXiv:2502.18359 · Florida AG news release | Held, unread / read for the announcement |
+
+**And a finding about S. Hrg. 119-202 that changes what its ⚠ means.** The govinfo PDF was fetched
+complete, 103 pages, and checked page by page: **pages 1–31 carry a text layer and pages 32–103
+carry none at all.** The 197 characters that extract from each appendix page are the Government
+Publishing Office's own print-job footer. **The appendix of this hearing has no text layer in the
+government's own publication**, so its flag is not a failure to find a better copy; there is no
+better copy of that print. Only the `-add1.pdf` package of separately submitted statements would
+discharge it, and that is still not held.
+
+*Rule, from the incident that created this section: when a file cites an instrument this table does
+not carry, the citation is the defect — add the row before the reliance.*
+
+⚠ **And that rule is broken at scale, stated here rather than discovered later.** A file-by-file
+comparison on 26 August 2026 found **180 of the 239 sources on the shelf have no row in this
+table.** The rows above cover the criminal-reporter batch and the 26 August retrieval, added because
+published text now says those documents are held and the rule requires the row before the reliance.
+**The remaining unreconciled files are mostly press, hearing and bill captures from the intake
+batches of 24–26 August.** The section's opening promise — that the repository knows what the
+project holds without anyone opening the folder — **is false for roughly three quarters of the shelf
+until that reconciliation is done.** The library's own index (`_LIBRARY_INDEX.md`, inside the
+folder) is complete; this table is the copy that fell behind.
 
 ---
 

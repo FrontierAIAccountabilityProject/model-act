@@ -1782,3 +1782,171 @@ lives where it belongs - on the *Staples* row, which is genuinely unread.
 **⚠ in this table is a read-status flag and has no other meaning.** It is not emphasis, not a
 caution, and not a way to point at something. If a read row needs to say something urgent, it says
 it in bold.
+
+---
+
+## E53 — two rows for one authority, twice, added by the person who had just written the rule against it
+
+**Status: found within the hour by a check written for the purpose. Both pairs merged.**
+
+**What happened.** On 26 August 2026 rows were added to
+`standards/table_of_authorities.md` for *Staples v. United States* and for *Liu v. SEC*, each
+described in the row itself as "cited in the repository's prose and never graded until now."
+**Both already had rows** — *Staples* under "Culpability and elements," *Liu* under "Penalties and
+proportionality" — and neither was checked for first.
+
+**Why it matters more than tidiness.** A row in this table is a **read-status**. Two rows for one
+document are two read-statuses that drift, and nothing on either says which is current. *Staples*
+briefly stood as both "unread, the pivot of the whole felony question" and "the modern presumption
+of scienter where penalties are severe," with no flag at all.
+
+**This is [E49](#e49--a-finding-the-repository-had-already-made-three-days-earlier-caught-at-the-door) again, on the same day E49 was cited in another correction.** E49's rule is that
+the register is part of the text and the index of what is already open is read before a question is
+opened. A table of authorities is exactly such an index. **Knowing the rule and citing the rule did
+not produce the two-second grep that the rule asks for.**
+
+**The repair, and it is the useful part.** `check_citations.py` now detects two rows carrying the
+same authority, and distinguishes the accident from the intended case: **a pair is allowed when one
+of the two rows points at the other in words** — the pattern already used for *Iverson*, where one
+row carries the reading and the other says where the read-status lives. A pair with no pointer is
+reported. The two pre-existing pairs it found on its first run, *Iverson* and 33 U.S.C. § 1319(c)(6),
+were both real: the § 1319(c)(6) pair had no pointer and its two rows had already drifted, one
+recording the statute's "**means**" verbatim and the other paraphrasing it as "includes."
+
+### The rule
+
+**E53 — a table of authorities is an index of read-statuses, and a second row for one authority is a
+second read-status. Before adding a row, grep for the party name. Where two rows are wanted, one of
+them must say where the reading lives.**
+
+### And a second checker defect found in the same pass
+
+`check_citations.py` reported *Liu v. SEC* as cited-with-no-row while its row sat three lines away.
+Its matcher tests whether either party name appears in the table and **skips any party shorter than
+five characters** to avoid noise. "Liu" and "SEC" are both shorter than five characters, so that
+case could never match, no matter how many rows it had. Any case with two short party names was
+permanently unmatchable and permanently reported as debt. **A guard against false positives had
+manufactured a false positive that could not be cleared by doing the work it demanded.** The matcher
+now falls back to the whole caption when every party name is short.
+
+---
+
+## E54 — a case caption written in the form such captions usually take, from a source that gave no caption
+
+**Status: published in `standards/table_of_authorities.md` on 26 August 2026; corrected the same day.**
+
+**The claim.** A row reading ***In re Alibaba Group Holding Ltd. Securities Litigation* (S.D.N.Y.,
+filed 4 Aug 2026)**, flagged ⚠ unread, "known from The D&O Diary."
+
+**The source, which this project holds and which was re-read to write this entry.** The D&O Diary
+piece names no case. It says "A securities class action complaint filed on August 4, 2026, in the
+Southern District of New York against Alibaba Group Holding Limited (Alibaba) and the company's
+CEO," and thereafter calls it "the Alibaba SCA."
+
+**The truth.** *Wistisen v. Alibaba Group Holding Limited*, No. 1:26-cv-06654 (S.D.N.Y., filed
+4 Aug. 2026) — caption, docket number, court and filing date confirmed against the CourtListener
+RECAP index on 26 August 2026.
+
+**How the wrong caption got written.** The court and the date were in the source. The caption slot
+was empty, and it was filled with the form such captions usually take: *In re [Company] Securities
+Litigation*. That form is correct for a **consolidated** securities class action. This one is a
+single named plaintiff and is not consolidated, so the invented caption is wrong in the one respect
+that would matter to anyone trying to find it.
+
+**Nothing marked it.** The ⚠ said *unread*, which was true. **A read-status flag cannot say "this
+caption was never in a source,"** and the row carried an attribution — "known from The D&O Diary" —
+that made the caption look sourced when only the surrounding facts were.
+
+### The rule
+
+**E54 — a citation has parts, and they are sourced separately. Court, date and docket may come from
+a report; the caption comes from the docket or it does not exist. Where a slot is empty, the entry
+says it is empty. A conventional form is not a source, and filling a slot from convention is
+[E46](#e46--two-quotations-published-this-afternoon-are-not-in-the-opinions-they-were-attributed-to) with better manners.**
+
+---
+
+## E55 — a citation taken from the first of two footnotes that contradict each other twelve lines apart
+
+**Status: published since 25 August 2026; corrected 26 August 2026.**
+
+**The claim.** *Kadrey v. Meta Platforms, Inc.*, **No. 23-CV-03217-VC**, 2025 WL 1752484 (N.D. Cal.
+June 25, 2025), taken from Maxwell V. Pritt's Written Answers to Questions for the Record at printed
+p. 93 of S. Hrg. 119-202. The row was honest about the chain: quoted at second hand, read by OCR,
+"the pin cite is his, not ours."
+
+**What is actually on that page.** Both of Pritt's first two footnotes cite the same case, and they
+give different numbers:
+
+> ¹ *Kadrey, et al. v. Meta Platforms, Inc.*, No. 23-CV-**03217**-VC, 2025 WL 1752484, at \*2
+> (N.D. Cal., June 25, 2025).
+>
+> ² *Kadrey, et al. v. Meta Platforms, Inc.*, No. 23-CV-**03417**-VC, Dkt. 574 (Pls' Mot. for
+> Partial Summary Judgment) at 8.
+
+Read at 200 dpi, re-read at 450 dpi, and finally looked at as an image rather than as text, because
+a 2 and a 4 are exactly what an OCR pass gets wrong and the whole question was one digit. The two
+footnotes genuinely differ. **CourtListener's RECAP index resolves it: 3:23-cv-03417, N.D. Cal.,
+filed 7 July 2023.**
+
+**So this is not an OCR error, ours or anyone's.** It is a typo in a document submitted to the
+Senate, reproduced faithfully by a project that took the first citation it found and did not read
+twelve lines further down the same page — where the source corrected itself.
+
+### The rule
+
+**E55 — when a citation is taken at second hand, read every place the source cites that authority,
+not the first. A source that cites something twice has checked itself, and the check is free.**
+
+**Second-order, and it is the reason this was findable at all.** The correcting footnote was
+discovered only because an outside retrieval returned a different docket number and the difference
+had to be explained. **A disagreement with an outside source is worth more than an agreement**, and
+this project's response to one should always be to open the page rather than to decide which side is
+more likely right.
+
+---
+
+## E56 — a holding published inside out: the court's confirming reason reported as its ratio
+
+**Status: published in the cure register, the lane sweep and both packets since 25 August 2026;
+corrected 26 August 2026 on reading the opinion.**
+
+**The claim, in the form it appeared in four files.** "*United States v. Ahmad*, 101 F.3d 386, 391
+(5th Cir. 1996) holds that illegal discharges under the CWA are **not** public welfare offenses,
+**because** they are 'felonies punishable by years in federal prison'."
+
+**The opinion, read 26 August 2026 in a law.resource.org reporter capture.** The sentence the
+"because" was built from reads:
+
+> "The fact that violations of § 1319(c)(2)(A) are felonies punishable by years in federal prison
+> **confirms our view** that they do not fall within the public welfare offense exception."
+
+**A reason offered as confirming a view already reached is not the reason the view was reached.**
+The court's ground is mistake of fact: whether "knowingly" attaches to the nature of the substance
+discharged, so that "one who honestly and reasonably believes he is discharging water may find
+himself guilty of a felony if the substance turns out to be something else."
+
+**And a second thing the reading corrected.** This project had been describing *Ahmad* and
+*Weitzenhoff* as a circuit split — including in [E51](#e51--a-pincite-copied-from-a-citing-case-from-the-wrong-one-of-its-four-citations), written the same morning. *Ahmad* says
+the opposite about its own relationship to that case: the Ninth Circuit "was concerned almost
+exclusively with whether the language of the CWA creates a mistake-of-law defense. Both cases are
+easily distinguishable, for neither directly addresses mistake of fact or the statutory construction
+issues raised by Ahmad." **A narrower disagreement does survive** — over what *Staples* decided at
+618 — and that one is real.
+
+### The rule
+
+**E56 — "because" is a claim about a court's reasoning, and it is verified in the opinion or not
+made. A case known only through a summary may be reported as holding something; it may not be
+reported as holding it *for a reason*.**
+
+This is [E32](#e32--e22-extended-from-the-repository-to-correspondence) applied to the inside of a case rather than its outside: no characterization until
+read, and the ordering of a court's reasons is a characterization. **The published version was
+sharper than the opinion**, which is the tell. A secondary summary compresses toward the memorable
+sentence, and the memorable sentence in *Ahmad* is the one about felonies.
+
+**Cost, stated plainly.** For a day the criminal lane treated its own hardest objection as resting
+on a ground the case does not rest on, and built two cures around answering it. The answers survive —
+*Weitzenhoff* at 1286 n.7 still refuses *Ahmad*'s reading of *Staples* — but the objection they were
+answering was not quite the one in the reports, and a criminal-law reviewer would have said so in
+the first paragraph of a disposition.

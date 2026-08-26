@@ -409,8 +409,10 @@ The government still had to prove that the discharges violated the law and that 
 the discharges were pollutants." Responsibility replaces the act element, not the knowledge element.
 
 **And the objection this lane most needs is now on the shelf too.** *United States v. Ahmad*,
-101 F.3d 386, 391 (5th Cir. 1996) holds that CWA discharges are **not** public welfare offenses,
-because they are "felonies punishable by years in federal prison." Training and deploying a model is
+101 F.3d 386 (5th Cir. 1996) holds that the § 1319(c)(2)(A) offenses before it are **not** public
+welfare offenses. ✅ **Read in the opinion 26 August 2026**, which corrected two things this sweep
+had published: the ground is **mistake of fact**, not the penalty, and the penalty is offered as
+what "**confirms our view**" ([E56](../ledger/errata.md)). Training and deploying a model is
 ordinary commercial activity. **If a court took that view, the public-welfare framing would not
 carry SEC. 6(b) at all**, and the felony tier would need a conventional mens rea rather than a
 relaxed one. That is a sharper attack than anything this sweep produced.
