@@ -24,6 +24,47 @@ deceiving Floridians."* A separate **criminal investigation** was opened by the 
 Prosecution after prosecutors reviewed chat logs between ChatGPT and the Florida State University
 gunman.
 
+### The criminal half, dated and quoted — added 26 August 2026
+
+**This record has said since August that "a separate criminal investigation was opened." It did not
+say when, on what theory, or what the Attorney General said about it. All three are now held.**
+
+**9 April 2026** — Uthmeier announces subpoenas to OpenAI, following allegations by plaintiffs'
+lawyers that the Florida State University gunman, who killed two people, was communicating with a
+chatbot as he carried out the attack.
+
+**21 April 2026** — Florida sends **criminal subpoenas**, in what the reporting calls "a novel
+investigation into whether **a chatbot could be criminally liable** for use in a mass shooting."
+
+**And the sentence this project should have had six weeks ago.** At a press conference, Attorney
+General James Uthmeier said:
+
+> "If that bot were a person they'd be charged with a principal in first degree murder."
+
+**Read it twice, because it is this project's premise stated by a sitting attorney general.** He is
+not saying the bot is a person. He is saying the *conduct* would be first-degree murder if there
+were a person to attach it to — **and that there is not.** That is the accountability gap SEC. 4 and
+SEC. 6 exist to close, described from the prosecutor's side by someone who has just discovered he
+cannot charge anyone.
+
+**The instrument he is reaching for is the wrong one, and that is the opening.** Florida is testing
+whether the *chatbot* can be criminally liable. This project's answer, at [SEC. 0](../model_act_v3_4.txt)
+and in [the personhood premise](../standards/table_of_authorities.md), is that the model is not a
+person and the officer is — so the question is not whether the bot can be charged but who signed for
+it. **A state that files a criminal theory against software and loses is a state that has proved the
+Act's necessity at its own expense.**
+
+**Note the sequence.** The criminal probe came **first**, on 9 and 21 April; the civil FDUTPA suit
+against OpenAI and Altman personally followed on **1 June**. The reading available here is that
+prosecutors reached for the criminal law, found nothing that fit, and filed a deception case instead.
+⚠ *That is an inference from dates, not a sourced account of the decision, and it is flagged as such.*
+
+⚠ **Sources.** Two Bloomberg Law items held in the working library, both truncated by the paywall:
+`PRESS_Bloomberg-Law_Florida-AG-probe-ChatGPT-mass-shooting_2026-04-09` and
+`PRESS_Bloomberg-Law_Florida-CRIMINAL-probe-OpenAI_Uthmeier-quote_2026-04-21`. **The quotation is
+verbatim from the second. The subpoenas themselves are not held**, and unlike the Alabama subpoena
+they have not been read in the instrument.
+
 **The legal theory, and why it matters here.** The vehicle is the Florida Deceptive and Unfair
 Trade Practices Act, Fla. Stat. § 501.201 et seq., which *"permits individual liability for
 corporate officers who directed or knowingly permitted deceptive practices."* The complaint pleads
