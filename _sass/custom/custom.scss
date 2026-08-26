@@ -345,50 +345,73 @@ html {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Reading register — 26 August 2026, matched to the reference renders.
+// Reading register — 26 August 2026.
 //
-// Sizes are absolute, not rem. Just the Docs sets a 14px root, so a rem value
-// under 1 shrinks the text instead of setting it: 0.97rem measured 13.58px on the
-// built page against a 15px reference. px here means the page reads at the size
-// intended rather than the size the theme's root happens to imply.
+// Four things the earlier passes got wrong, all visible on the built page:
+//   1. rem sizing shrank against the theme's 14px root instead of setting a size.
+//   2. Just the Docs wraps every table in .table-wrapper, which carries a shadow,
+//      a radius and a background -- so a filled table showed white strips above
+//      and below the fill. The wrapper is neutralised here, not fought.
+//   3. A markdown table written `| | |` emits an empty thead, which rendered as a
+//      grey band with nothing in it. Collapsed.
+//   4. The footer and the masthead were sized for a documentation theme.
 //
-// Tables are filled and unruled. The reference has no outer border and no cell
-// borders at all — grey blocks separated by white gaps, which is quieter than any
-// hairline and does the same separating.
-//
-// Supersedes the uppercase/monospace table headers and the pine link colour set in
-// _sass/color_schemes/statute.scss. Both are left above rather than deleted.
+// Inter supersedes the "system fonts only -- no webfont" rule recorded at the top
+// of this file. That rule was chosen to keep the page dependency-free; it is being
+// traded, deliberately, for the register the maintainer asked for.
+
+$reading-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+
+body, .main-content, .side-bar, .search-input, .aux-nav { font-family: $reading-sans; }
 
 .main-content,
 .main-content p,
 .main-content li,
-.main-content dd { font-size: 15px; line-height: 1.6; }
+.main-content dd { font-size: 14px; line-height: 1.62; }
 
-.main-content h1 { font-size: 30px; font-weight: 700; line-height: 1.25; margin-bottom: 0.7rem; }
-.main-content h2 { font-size: 20px; font-weight: 700; margin-top: 2.2rem; margin-bottom: 0.55rem; }
-.main-content h3 { font-size: 16px; font-weight: 700; margin-top: 1.7rem; margin-bottom: 0.45rem; }
-.main-content h4 { font-size: 15px; font-weight: 700; }
+.main-content h1 { font-size: 26px; font-weight: 700; line-height: 1.26; margin-bottom: 0.7rem; letter-spacing: -0.01em; }
+.main-content h2 { font-size: 18px; font-weight: 700; margin-top: 2.3rem; margin-bottom: 0.5rem; }
+.main-content h3 { font-size: 15px; font-weight: 700; margin-top: 1.7rem; margin-bottom: 0.4rem; }
+.main-content h4 { font-size: 14px; font-weight: 700; }
+
+// Air between the text and the edges it sits inside.
+.main-content-wrap { padding-left: 2.6rem; padding-right: 2.6rem; }
+@media (min-width: 50rem) {
+  .main-content-wrap { padding-left: 3.6rem; padding-right: 3.6rem; padding-top: 2.4rem; }
+}
+@media (max-width: 50rem) {
+  .main-content-wrap { padding-left: 1.4rem; padding-right: 1.4rem; }
+}
+
+// The wrapper the theme puts round every table: no shadow, no radius, no ground.
+.table-wrapper {
+  box-shadow: none;
+  border-radius: 0;
+  background: transparent;
+  padding: 0;
+  margin: 1rem 0 1.4rem;
+}
 
 .main-content table {
   border-collapse: separate;
   border-spacing: 0;
   border: 0;
-  font-size: 14px;
-  margin: 1rem 0 1.4rem;
+  font-size: 13px;
+  margin: 0;
+  width: 100%;
 }
 .main-content table th,
 .main-content table td {
   background: #f2f3f5;
   border: 0;
   border-bottom: 2px solid #ffffff;
-  padding: 10px 14px;
+  padding: 9px 13px;
   line-height: 1.5;
   vertical-align: top;
 }
 .main-content table th {
-  background: #eaecef;
-  font-family: inherit;
-  font-size: 14px;
+  background: #e8eaee;
+  font-size: 13px;
   font-weight: 600;
   color: #1f2328;
   text-transform: none;
@@ -397,24 +420,52 @@ html {
 }
 .main-content table tr:last-child td { border-bottom: 0; }
 
-// An empty header row -- written as `| | |` where the columns need no labels --
-// renders as a blank band with a rule under it. Collapse it instead.
-.main-content table thead tr:has(th:empty:only-of-type),
-.main-content table thead tr:has(th:empty + th:empty) { display: none; }
+// `| | |` -- a table whose columns need no labels -- emits an empty header row.
+// Collapse it rather than render a blank grey band.
+.main-content thead:has(th:empty):not(:has(th:not(:empty))) { display: none; }
 
 .main-content a,
 .main-content a:visited { color: #2c5fa8; }
 .main-content a:hover   { color: #1d4276; }
 
-.main-content hr { margin: 2rem 0; border: 0; border-top: 1px solid #e8eaed; }
+.main-content hr { margin: 2.1rem 0; border: 0; border-top: 1px solid #e8eaed; }
 .main-content blockquote {
   border-left: 3px solid #dfe3e7;
   background: #f7f8fa;
-  padding: 10px 14px;
+  padding: 9px 13px;
   margin: 1rem 0;
   color: #30363d;
-  font-size: 14px;
+  font-size: 13px;
 }
 
-.side-bar { font-size: 13px; }
-.site-title { font-size: 14px !important; font-weight: 700; }
+// Masthead: the same sans as everything else, and no boxed stamp.
+.side-bar .site-title,
+.site-title {
+  font-family: $reading-sans !important;
+  font-size: 13px !important;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+.aux-nav .site-button,
+.aux-nav a {
+  border: 0 !important;
+  font-family: $reading-sans !important;
+  font-size: 11px !important;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  color: #59636e !important;
+}
+.side-bar { font-size: 12.5px; }
+.site-nav .nav-list .nav-list-item { font-size: 12.5px; }
+
+// Footer: a line of small print, not a panel.
+.site-footer,
+.main-content-wrap .site-footer {
+  font-size: 11.5px;
+  line-height: 1.5;
+  color: #6b7784;
+  padding-top: 1rem;
+  margin-top: 2.5rem;
+  border-top: 1px solid #e8eaed;
+}
+.site-footer p { font-size: 11.5px !important; margin-bottom: 0.3rem; }
