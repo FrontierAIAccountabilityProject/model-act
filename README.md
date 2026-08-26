@@ -1,5 +1,13 @@
 # Model Act — Frontier AI Public Welfare Offenses
 
+### Read this as a website — [frontieraiaccountabilityproject.github.io/model-act](https://frontieraiaccountabilityproject.github.io/model-act/)
+
+*Same text, styled for reading, with full-text search and a navigation sidebar. This repository
+holds the versioned source and remains the authoritative record; where the two differ, the
+repository governs.*
+
+---
+
 **A model state statute that makes a named officer of a frontier AI company personally answerable
 for shipping an unsafe model.** Not the company — the person who had the authority to stop it.
 
@@ -91,12 +99,6 @@ Archived at CERN — DOI [10.5281/zenodo.22029795](https://doi.org/10.5281/zenod
 | [**Filed Comments**](./filed-comments/index.md) | The federal rulemaking comments this project has filed |
 
 ---
-
-**Two doors to the same text.** These pages are mirrored as a searchable site at
-**[frontieraiaccountabilityproject.github.io/model-act](https://frontieraiaccountabilityproject.github.io/model-act/)**
-— styled for reading, with full-text search and a navigation sidebar. The
-**[file repository](https://github.com/FrontierAIAccountabilityProject/model-act)** holds the
-versioned source and remains the authoritative record. Where the two differ, the repository governs.
 
 **Contact** `FrontierAIAccountabilityProject@proton.me` · **Cite** [`CITATION.cff`](./CITATION.cff) ·
 **License** [CC0](./LICENSE)

@@ -2792,7 +2792,7 @@ resolves the shelf from a single hardcoded path:
 **`~/mnt` does not exist on this machine.** The library is at `../library/_text`. Every run of the
 tool produced exactly one line —
 
-> `*** SHELF NOT REACHABLE at /Users/kris/mnt/faap/library/_text — this run proves nothing ***`
+> `*** SHELF NOT REACHABLE at <the configured path> — this run proves nothing ***`
 
 — and exited. **No quotation was checked, and `--negatives` re-tested nothing.**
 

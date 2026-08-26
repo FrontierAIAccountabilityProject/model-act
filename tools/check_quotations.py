@@ -50,8 +50,8 @@ import io, os, re, sys, unicodedata
 # exists; if none does, LIB stays the first candidate so the existing banner still fires.
 _LIB_CANDIDATES = [
     "~/mnt/faap/library/_text",       # the maintainer's device mount
-    "../library/_text",               # library checked out beside the repository
-    "~/Documents/faap/library/_text", # local working copy
+    "../library/_text",               # library checked out beside the repository (covers
+                                      # the ordinary working layout without naming a home directory)
 ]
 LIB = next(
     (os.path.expanduser(c) for c in _LIB_CANDIDATES if os.path.isdir(os.path.expanduser(c))),
