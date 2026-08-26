@@ -2112,8 +2112,55 @@ ceiling.
 n.8 defends SEC. 8 from § 1350 by argument from practice — its maxima are three to six times this
 Act's base felony tier, and "executives have signed under harsher terms every quarter since 2002."
 **That argument reaches the ceiling and is silent on the floor.** The note should carry
-§ 1319(c)(1) with (c)(6) as the second model, and *United States v. Hanousek*, 176 F.3d 1116, 1120–21
-(9th Cir. 1999) ⚠ for the holding that ordinary negligence suffices.
+§ 1319(c)(1) with (c)(6) as the second model, and *United States v. Hanousek*, 176 F.3d 1116
+(9th Cir. 1999) — ✅ **read in the opinion 26 August 2026, confirmed character for character on two
+independent sources and held in the working library** — for the holding:
+
+> "We conclude from the plain language of 33 U.S.C. § 1319(c)(1)(A) that Congress intended that a
+> person who acts with **ordinary negligence** in violating 33 U.S.C. § 1321(b)(3) may be subject to
+> criminal penalties."
+
+⚠ Pincites remain unconfirmed: no source located carries reporter star pagination ([E47](../ledger/errata.md)).
+
+### What the read produced beyond the holding, and it is larger than this cure
+
+**One. There is a circuit split on the question the criminal lane calls unanswerable, and this
+project has been citing only one side of it.** *Hanousek* holds, twice, that "**The criminal
+provisions of the CWA constitute public welfare legislation**," resting on *United States v.
+Weitzenhoff*, 35 F.3d 1275, 1283 (9th Cir. 1993). *Ahmad* holds the opposite — that CWA discharges
+are **not** public welfare offenses, because they are "felonies punishable by years in federal
+prison." **The lane sweep records *Ahmad* as the sharpest attack available and says nobody in-house
+can settle it.** It can be answered, by a case this repository already held and had filed under
+objections. *Weitzenhoff* is now a flagged row and is the next retrieval.
+
+**Two. The due process answer is broader than SEC. 6(a) and the Act has never stated it.** Verbatim:
+
+> "It is well established that a public welfare statute may subject a person to criminal liability
+> for his or her **ordinary negligence without violating due process**."
+
+citing *United States v. Balint*, 258 U.S. 250, 252–53 (1922) — **the 1922 case both *Dotterweich*
+and *Park* rest on, and which was absent from this repository until today.** That sentence is the
+constitutional defense of SEC. 6(a)'s entire design, and [known objections](../docs/known_objections.md)
+argues the point without it.
+
+**Three. The canon in *Hanousek* makes this cure urgent rather than tidy.** The court reasoned that
+Congress wrote "gross negligence" into 33 U.S.C. § 1321(b)(7)(D) and **not** into § 1319(c)(1)(A),
+and that "where Congress includes particular language in one section of a statute but omits it in
+another section of the same Act, it is generally presumed that Congress acts intentionally and
+purposely in the disparate inclusion or exclusion."
+
+**Apply that to this Act's own text.** SEC. 8 says "**reckless** certification without reasonable
+inquiry"; SEC. 6(a), where SEC. 8 sends it, requires only the failure of due care. **A court applying
+*Hanousek*'s canon would presume that disparity deliberate and give it meaning** — most likely by
+reading SEC. 8's second limb as reaching only recklessness, which is not what SEC. 6(a) says. The
+mismatch is not untidy drafting. It is drafting a court has a rule for.
+
+**Four, recorded because it points the other way.** Hanousek was a **roadmaster** — "responsible
+under his contract for every detail of the safe and efficient maintenance and construction of track,
+structures and marine facilities of the entire railroad." **Not an officer.** The CWA's responsible
+person therefore reaches an operational supervisor, where SEC. 4(a) expressly excludes "the
+ministerial execution, implementation, or communication of a decision made by another." **This Act
+is narrower than its own model, for the third time this week.**
 
 **And it takes the sting out of *Ahmad*.** *Ahmad* refuses public-welfare treatment to CWA discharges
 because they are "felonies punishable by years in federal prison." **§ 1319(c)(1) is a misdemeanor.**

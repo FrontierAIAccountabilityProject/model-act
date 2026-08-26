@@ -192,8 +192,11 @@ reaches exactly where SEC. 6(a) reaches.**
 
 (c)(6) governs the whole of subsection (c), so it governs (c)(1). **Federal law therefore imposes
 criminal liability on a responsible corporate officer for a merely negligent violation, at the
-misdemeanor level, and has since 1987.** *United States v. Hanousek*, 176 F.3d 1116, 1120–21 (9th
-Cir. 1999) holds that ordinary negligence suffices. ⚠ *Hanousek* is still unread in the reporter.
+misdemeanor level, and has since 1987.** *United States v. Hanousek*, 176 F.3d 1116 (9th Cir. 1999)
+✅ **read in the opinion 26 August 2026**: "a person who acts with **ordinary negligence** in
+violating 33 U.S.C. § 1321(b)(3) may be subject to criminal penalties." Pincites unconfirmed (E47).
+**The read also produced a circuit split, a due process holding and a canon of construction that
+bear on the whole criminal lane — carried at [CURE 24](./v3_5_cure_language.md).**
 
 **That is SEC. 6(a), limb for limb**: a responsible officer, a failure of care rather than
 knowledge, and a one-year misdemeanor ceiling at SEC. 10(b).
