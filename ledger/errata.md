@@ -1425,6 +1425,14 @@ the *Massey* language — "Delaware law allows corporations to pursue diverse me
 subject to a critical statutory floor" — which the source had separately attributed to *Massey*.
 So the same passage was given twice, once correctly and once as a sentence nobody wrote.
 
+> ⚠ **Half withdrawn, 26 August 2026.** **The sentence is not a fabrication.** It is Vice Chancellor
+> Laster's, at slip op. 76 of the *Walton* demand-futility opinion of 26 April 2023: **"What a
+> corporate fiduciary cannot do, however, is make a business judgment to cause or allow the
+> corporation to break the law."** What survives is that it was **attributed to the wrong case** —
+> and whether it also appears in *In re TransUnion* needs *TransUnion*, which this project does not
+> hold. **A misattribution is a different and lesser error than a sentence nobody wrote.** See
+> [E62](#e62--the-third-fabrication-was-a-misattribution-and-the-instrument-built-to-catch-this-found-it-on-its-first-run).
+
 **We published:** *Ontario Provincial Council of Carpenters' Pension Trust Fund v. Walton*, 294 A.3d
 65, 90, 92 (Del. Ch. 2023), that the rule protects a decision that "carries legal risk, but which
 otherwise involves legally compliant conduct," and that proceeding unlawfully "would constitute a
@@ -2225,3 +2233,112 @@ The **reporter pincites 90 and 92 are still unconfirmed.** The copy now held car
 not Atlantic Reporter pages**, and slip-to-reporter offsets are not computable — the two data points
 available happen to differ by sixteen, which is a coincidence and not a mapping. Under E47 this copy
 confirms the quotations and cannot confirm the pages.
+
+---
+
+## Part I(b) — The negative-findings register
+
+*Opened 26 August 2026 after [E60](#e60--the-registers-most-cited-fabrication-finding-was-itself-wrong-and-a-real-quotation-was-deleted-on-the-strength-of-it),
+in which a correct quotation was deleted from a public page because a search for it returned
+nothing.*
+
+**Why this is a separate register.** Every other entry above is **additive**: it says "we published
+X, X is wrong, here is the fix," and it quotes X, so the entry carries its own evidence and any later
+reader can re-test it. A finding that something is **absent** carries no evidence. The text is gone,
+nothing points at it, and **nobody re-checks a sentence that is no longer there.** That asymmetry is
+why E46 stood for a day and could have stood for years: a false positive is caught by the next
+reader; a false negative is caught by nothing.
+
+**So negative findings are listed, not merely recorded**, and `check_quotations.py --negatives`
+re-tests every line here against the shelf on every run. When a new source lands, the register
+answers for itself.
+
+```negative-findings
+# status | quoted string (verbatim, as published) | attributed to | erratum
+MISATTRIB| What a corporate fiduciary cannot do, however, is make a business judgment to cause or allow the corporation to break the law | Walton slip op. 76 (real); credited to In re TransUnion, 324 A.3d 869, 887 | E46 -> E62
+WITHDRAWN| carries legal risk, but which otherwise involves legally compliant conduct | Walton, C.A. 2021-0827-JTL (Del. Ch. 26 Apr. 2023) | E46 -> E60
+WITHDRAWN| would constitute a conscious decision to violate the law, the business judgment rule would not apply, and the directors would be acting in bad faith | Walton, C.A. 2021-0827-JTL (Del. Ch. 26 Apr. 2023) | E46 -> E60
+```
+
+**A WITHDRAWN line stays here forever.** It is the record of a finding this project got wrong in the
+direction nothing else catches, and deleting it would be deleting the only evidence that the failure
+mode is real.
+
+### E61 — how a negative finding is made
+
+**A finding that a quotation is absent is made by reading the cited location, not by searching.**
+
+1. **Enumerate the documents first.** A case number is not a document; one matter can produce several
+   opinions ([E59](#e59--two-opinions-two-weeks-apart-under-one-case-number-and-a-date-i-confirmed-from-three-sources-that-the-document-contradicts)).
+   State how many candidates exist and which was read.
+2. **Go to the pincite, not to the string.** "I read page 90 and it says X" is checkable by anyone.
+   "I searched and found nothing" is checkable by no one.
+3. **Where the location cannot be resolved** — no pincite, or a copy whose pagination cannot settle
+   one ([E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication))
+   — the finding is **"unverifiable from this copy."** That is a weaker and different claim from
+   "absent," and it does not justify deleting anything.
+4. **Name the file.** The shelf filename, so the check can be re-run against the same bytes.
+5. **A search that returns nothing is evidence about the search.** Extracted text has furniture
+   inserted into it: page numbers land inside sentences, words hyphenate across line breaks, quotation
+   marks curl. All three defeated a search on 26 August alone.
+
+**And the tool obeys the same rule.** `check_quotations.py` can conclude that a quotation **is** on
+the shelf. It can never conclude that one is absent — a miss is printed as a prompt to read, and the
+report says so on every run. A quotation-checker that reported absences would recreate E60 at scale,
+which is the one thing this project cannot afford to automate.
+
+---
+
+## E62 — the third "fabrication" was a misattribution, and the instrument built to catch this found it on its first run
+
+**Status: found 26 August 2026, about twenty minutes after `check_quotations.py` was written, by the
+tool's own re-test of the negative-findings register.**
+
+**What [E46](#e46--two-quotations-published-this-afternoon-are-not-in-the-opinions-they-were-attributed-to)
+said.** That this sentence, published attributed to *In re TransUnion Derivative Stockholder
+Litigation*, 324 A.3d 869, 887 (Del. Ch. 2024), "does not appear in that opinion."
+
+**Where the sentence actually is.** *Walton*, demand-futility opinion of 26 April 2023, **slip op. 76**:
+
+> "What a corporate fiduciary cannot do, however, is make a business judgment to cause or allow the
+> corporation to break the law. 'Delaware law does not charter law breakers.' *In re Massey Energy
+> Co.*, 2011 WL 2176479 (Del. Ch. May 31, 2011)."
+
+**E46 was right that it is not in the opinion it was credited to, and wrong about what that means.**
+The sentence is Laster's own, in a case this project cites, on the proposition it was wanted for.
+**A misattribution is not a fabrication.** One is a citation error; the other says no court wrote the
+thing. This register called the first the second and let it stand.
+
+**Still open:** whether the sentence also appears in *TransUnion*. That needs *TransUnion*, which is
+not held. It is a retrieval now, not a conclusion.
+
+### The rule
+
+**E62 — "not in the opinion it was credited to" and "nobody wrote it" are different findings, and the
+second is far larger. Before recording a fabrication, search the whole shelf for the sentence.** A
+real sentence in the wrong coat is the commonest citation error there is, and it is repaired by
+fixing the attribution, not by deleting the argument.
+
+### What found it, which is the part worth keeping
+
+`check_quotations.py` was written this afternoon in answer to E60, on one design rule: **it can
+conclude that a quotation is on the shelf and can never conclude that one is absent.** Its
+`--negatives` mode re-tests every recorded negative finding against the shelf on every run, because
+what E60 exposed is that **nobody re-checks a sentence that has been deleted.**
+
+Three findings were in the register when it first ran. It printed:
+
+```
+*** WAS RECORDED ABSENT AND IS ON THE SHELF ***
+    What a corporate fiduciary cannot do, however, is make a business judgment  (E46)
+    found in: RECORD_DelCh_Ontario-Carpenters-v-Walton_...DEMAND-FUTILITY-2023-04-26...
+    Read the document. This is how E60 was found.
+```
+
+**An hour earlier, having withdrawn two of E46's three findings, this project explicitly declined to
+touch the third** — "it has not been re-checked, and nothing in the *Walton* correction bears on it."
+That was the right call on the evidence then available and it was wrong on the facts. **The
+instrument, which knows nothing and cannot read, caught in one second what careful restraint got
+wrong.** That is not an argument against restraint. It is the argument for putting negative findings
+somewhere a machine re-tests them, because judgment does not re-examine what it has already
+deliberately set aside.
