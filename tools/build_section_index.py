@@ -32,7 +32,7 @@ import io, json, os, re, sys
 from collections import defaultdict, Counter
 
 REPO   = "."
-STATUTE = "model_act_v3_4.txt"
+STATUTE = "act/model-act.txt"
 OUT_MD  = "standards/section_index.md"
 OUT_JS  = "standards/section_index.json"
 

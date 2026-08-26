@@ -31,6 +31,18 @@ command is handed over unasked — see the hand-off format below.
 **2. Before asserting a fact a file already owns, read that file.** A grep finds the owning file; it
 never substitutes for reading it. This is the most-violated rule in this repository's history.
 
+**2a. Never move, rename, merge or retire a file you have not opened.** A filename is a claim, and
+several in this repository are wrong. On 26 August 2026 seven eleven-line redirect stubs were
+renamed as though they were research, one was described in a published index as "every publicly
+reported incident, dated", and a 2,698-line dossier was destroyed by three `mv` commands whose
+targets collided on `README.md`. **Read the file. Check the destination is empty. Then move it.**
+
+**2b. Open items live in one register and nowhere else.** Anything owed — a defect, a decision, an
+unpinned fact, an unanswered objection, a citation that cannot be confirmed — belongs in the
+worklist. A second list of open items in a second file is how this repository lost track of twelve
+unpinned facts inside a sealed dossier. **If you find work recorded somewhere else, move it to the
+worklist and leave a pointer, never a copy.**
+
 **3. American spelling** throughout, enforced by `check_spelling.py`. Em dashes are fine in repository
 prose and **banned in outgoing email**, enforced by `library/check_emails.py`.
 
@@ -38,7 +50,7 @@ prose and **banned in outgoing email**, enforced by `library/check_emails.py`.
 Use US legal register and US conventions: `offense` not `offence`, `defense` not `defence`,
 `judgment` without the medial e, `plaintiff`, `attorney general`, `district court`. (Backticked here
 because these are specimens rather than uses, and the spelling sweep cannot tell mention from use —
-that is [E50](./ledger/errata.md).) Citations follow US practice
+that is [E50](./corrections/corrections.md).) Citations follow US practice
 — reporter volume, abbreviation, first page, pincite; `Id.` and `supra` as the Bluebook uses them, not
 as MHRA does. **Where the statute's own text uses a form that is not American** — SEC. 6(b)(1) says
 "wilfully" — that is a defect the cure register owns, not a license to write British English around it.

@@ -1,0 +1,395 @@
+---
+title: For Legislatures
+nav_order: 4
+has_children: true
+---
+
+# For legislators and their staff — the four things this project checked so you do not have to
+
+*A working file for members and legislative staff considering frontier-AI legislation. It
+answers one question the current discourse does not ask: **does any of this reach a natural
+person?** Every fact below is public and independently checkable — that is the point, and the
+license is CC0. What this file supplies is not access. It is the question, and a fortnight of
+someone else's checking.*
+
+*Related: [the bill census](../appendix/bill-census.md) is the bill-by-bill checking behind § 1;
+[the commentary sweep](../appendix/commentary-sweep.md) is the same test run on the specialist literature;
+[house language § 8](../authorities/house-style.md) sets these findings beside the other frontier
+industries that reached the same question earlier.*
+
+**If the vocabulary is unfamiliar, start with [what these words
+mean](../authorities/glossary.md)** — it covers the distinction every drafter needs: *frontier model*, *foundation model*, *generative AI* and *narrow task-specific model* are
+not the same thing, and which one a bill names decides what it covers.
+
+**What this file is not.** Not legal advice, not a lobbying document, not a request. The
+project has no client, no funding, and no organization behind it. Nothing here asks you to
+adopt anything.
+
+---
+
+## Who this is about
+
+**About:** the **officers of frontier developers** — the companies training models above 10²⁶
+operations, or spending nine figures on a single training run. On the enacted family's own
+thresholds that is a **double-digit number of firms worldwide**, and inside them a smaller number of
+people who decide what ships.
+
+**Not about:** open-source contributors, startups, academic researchers, hospitals, schools,
+employers, small operators, ordinary deployers and API customers, or **users**. *On deployers,
+precisely: the Act has always defined deployer as a covered class (SEC. 1(b)(3)) and has always
+given the thin ones a route to discharge the duty rather than an exemption from it — adopt the
+upstream validation, keep the manifest, monitor, report (SEC. 2(b)). What the open queue would add
+at [Amendment 7](../revision/proposals.md) reaches a deployer only at consequential scale — mass
+market, or into government, military, financial, health or critical-infrastructure functions — and
+only for its own deployment decisions, never as the developer of a model it did not train. A
+company using a commercial model through an API is not covered by that fact.*
+
+**And the claim, stated precisely.** Not that no American law reaches a natural person over AI — it
+does, readily; Nebraska's "operator" includes one, so a sole trader running a chatbot is personally
+inside that statute. **What no American law does is place a duty on the officer of a covered
+frontier developer for the decision to release.** The law reaches down, not up.
+
+---
+## Why this file exists at all
+
+You can get everything below yourself. Your counsel can find your state's officer-liability
+provisions; your staff can read the laboratories' safety frameworks; LegiScan and NCSL track
+what other states are doing.
+
+It does not happen, for four structural reasons:
+
+1. **The demand exists; the channels do not carry it.** It is not true that nobody wants this.
+   Large majorities tell pollsters they do not trust these companies to act responsibly — 59% of
+   American adults, on Pew's February 2026 survey — and people ask for accountability constantly,
+   in surveys, in press coverage, in complaints, and in the ordinary way people talk about
+   products that frighten them. **What does not happen is the translation.** The demand is real
+   and arrives nowhere that drafts a statute. The specific legal question — *which named person
+   owes a duty* — is the one that goes unasked in the rooms where bills are written, and the
+   evidence for that is not public indifference but professional silence: fifty-one commenters
+   answered FDA's request for feedback on
+   AI devices and not one named a person who should answer for shipping. A dedicated academic
+   gap analysis of California's frontier-AI statute enumerated twenty-six deficiencies, and
+   the absence of personal accountability was not among them. Six enacted or introduced
+   frontier regimes were drafted without it. If the question is not in the discourse, no
+   amount of research capability produces the answer.
+2. **Negative findings are expensive and unrewarded.** Establishing that *nobody* does
+   something means checking everybody. No staffer is thanked for a memo reporting an absence.
+3. **Counsel drafts; members originate.** And a member reaching for a model reaches for what
+   exists — which is entity-level duties, because that is what the enacted family contains.
+   Copying what works copies the vacancy.
+4. **Staff time follows the bills in front of you**, not comparative doctrine. Nobody is given
+   a fortnight to read twelve corporate safety frameworks.
+
+---
+
+## 1. The negative findings, verified
+
+*Nobody publishes absences. These are the ones this project checked and can defend.*
+
+**Six frontier regimes checked, and not one reaches the officer who decides to release.** *(Stated
+precisely, because the loose version is false: American law reaches natural persons over AI readily
+enough — Nebraska's "operator" includes one, so a sole trader running a chatbot is personally
+inside that statute. What no American law does is place a duty on **an officer of a covered
+frontier developer for the decision to ship.** The law reaches down, not up.)* California's SB 53,
+New York's RAISE Act, Illinois's Act and Connecticut's SB 5 are enacted; H.R. 9925 and H.R. 9917
+are introduced. Not one requires
+a natural person to certify anything, and not one attaches a duty to an identified officer.
+H.R. 9925 does reach criminal liability — and reaches it at the entity. **What is uniform across
+all six is the enforcement architecture, not the price:** a single public enforcer, no private
+right of action, and a penalty paid by the company. The price itself varies by four orders of
+magnitude — from Connecticut's \$1,000 per violation, through the \$1,000,000 per violation that
+California, New York and Illinois converge on, to \$20,000,000 per day in H.R. 9917 — **and the
+personal reach is zero at every point on that range.** *Sources:
+[the adopted texts](../authorities/adopted-standards.md), pinned verbatim;
+[the standing watch](../revision/standing-watch.md).*
+
+**And the bill that mandates the brake does not say whose hand is on it.** H.R. 9917, the AI Kill
+Switch Act, introduced 23 July 2026 by Representatives Lieu and Moran, would require covered
+entities to maintain the technical ability to throttle, suspend or shut down a covered system, and
+would let Homeland Security order it — backed by civil penalties of up to \$2,000,000 a day, and
+\$20,000,000 a day for breach of an emergency order. Searched for the terms this file searches
+for: *officer*, *director*, *natural person*, *personally*, *certify*, *criminal* — **not one
+appears.** The single human signature the bill requires is the sponsor's own on its front page.
+**Penalty size and personal reach are separate axes:** this is the largest money penalty in the
+project's census and the smallest personal consequence in it. *Source:
+[the bill census](../appendix/bill-census.md), H.R. 9917 row.*
+
+**Two of the six name officers — and ask nothing of them.** California's SB 53, chaptered
+29 September 2025, was first: it routes employees' anonymous catastrophic-risk reports to officers
+and directors. Connecticut's SB 5, enacted 27 May 2026, is the fuller drafting of the same idea, on
+this Act's own compute threshold. *(Corrected 22 August 2026 — this passage read "one of the six"
+and called Connecticut the first American statute to write corporate roles into a frontier
+provision, which [E20](../corrections/corrections.md) had already disproved.)*
+Under Connecticut, large frontier developers must channel employees' anonymous reports of
+catastrophic risk, and
+each report *"shall be shared with the officers and directors of the large frontier developer at
+least quarterly"* — with a carve-out withholding a report from an officer or director it accuses.
+So **two legislatures, fourteen months apart, have independently put catastrophic-risk information
+into named officers' hands on a schedule** — and both attached to it **no duty to respond, no
+signature, and no liability.** That the instinct recurred without either asking anything of the
+officer told is the finding; the primacy is not. The penalty
+remains \$1,000 per violation against the company, Attorney General only, no private right of
+action. *Source: [the bill census](../appendix/bill-census.md), Connecticut row, which states its
+own verification limits.*
+
+**And thirty-two more, called one by one.** When Sacramento decided thirty-two AI bills in a
+single week, this project published a call on each before the votes, scored itself afterward,
+and recorded its own misses. All thirty-two regulate the system. **None reached the person who
+ships it.** *Source: [the track record](../commentary/the-case.md#the-track-record), including the two calls
+counted against ourselves for citing bill numbers that did not match the official record.*
+
+**The scope of that claim, stated so you can test it.** Thirty-seven bills, named and checkable —
+**not a survey of American AI legislation.** California alone introduces far more than
+thirty-two AI bills in a session, and there are forty-nine other states. Nobody has checked
+the remainder, including this project. If your office finds an American bill that places a
+duty on a named natural person, that is a correction this file wants: it enters
+[the register](../corrections/corrections.md) with credit, and it would be the most useful thing anyone
+has sent.
+
+**And the room is nearly empty, which is a structural fact rather than a complaint.** Fifty-one
+comments, twenty-one of them from industry or its associations, four from the patient side —
+settling how these systems may be used on children, on minority groups, and on people in a clinic
+at their worst moment. Meanwhile 49% of American adults use these tools, **one in five for medical
+advice**, and 59% are not confident the companies will act responsibly. A protection that depends
+on the affected public turning up will systematically miss them, for reasons of notice, format and
+arithmetic rather than indifference. *Full working: [who actually
+files](../filed-comments/who-files.md).*
+
+**When the federal government asked the public how to regulate AI in medical devices, nobody
+named an upstream person.** Docket FDA-2024-D-4488, 51 comments. Every safety mechanism
+proposed in the comments read is either a document — model card, label, manifest, monitoring
+plan, audit, registry, impact assessment — or a downstream professional: the radiologist, the
+site validator, the institution. The thirteen attachment letters were searched for *natural
+person*, *responsible officer*, *personally certify*, *attest*, *individual liability* and
+*criminal*: **zero occurrences of any of them.** *Source and method:
+[the reading notes](../filed-comments/fda-2024-d-4488.md), § 3, which states its
+own strength limits.*
+
+**The chain says so itself.** Four unconnected filers on that docket — a pharmaceutical
+engineering society, an international engineering body, a cloud platform and a biotechnology
+association — independently reported that they cannot obtain information about the upstream
+model. The platform's own words: it may not be able to provide training-data information
+*"when not otherwise disclosed by the model developer."* The chain of custody between the
+frontier model and the regulated product is broken, and the description of the break is
+supplied by the chain, voluntarily, on a public docket.
+
+**And the only signature enacted frontier law requires belongs to the auditor.** Illinois's
+statute requires "the signature of the lead auditor certifying the results." The legislative
+instinct to demand a named human signature exists and is already in force — aimed at the
+outside contractor hired to inspect the work, and not at the officer who decides to ship.
+
+---
+
+## 2. What the laboratories' own governance documents say
+
+*Twelve published frontier-safety frameworks, read 21 August 2026. Nobody in a legislature is
+reading twelve of these; here is what they contain on the only question that matters for
+accountability.*
+
+**Read the next paragraph before the evidence, because it governs how the evidence is used.**
+This section rests on documents the laboratories wrote about themselves, chose to publish, and
+may revise or withdraw at will. That is a weak evidentiary base and this file does not pretend
+otherwise. **It is used because it is the only base that exists.** Nothing in American law
+requires a frontier developer to state who decides, to record that a decision was made, or to
+produce any of it to anyone. Not one of the six regimes checked above compels a single line of
+what follows. So the strongest available evidence about how the most consequential deployment
+decisions in the world get made is a set of voluntary corporate publications — and **that fact
+is itself the finding**, prior to anything the documents say.
+
+This is not an accusation against the companies. Some of these documents are detailed, candid
+and better than the law asks for; a legislature could reasonably conclude their authors are
+acting in good faith. The observation is about the statute book, not about the drafters: **a
+regime that produces only voluntary self-disclosure has no way of telling a good actor from a
+lucky one, and no way of knowing when either stops.** Whatever a legislature makes of the
+laboratories, it should notice that it currently has no instrument for finding out.
+
+**Three name the office that decides.** Anthropic's Responsible Scaling Policy is explicit:
+*"The CEO and RSO will make the ultimate determination regarding the adequacy of the risk
+assessment and any downstream deployment or development plans."* Meta names a Chief AI Officer
+and a Director of Alignment and Risk. NVIDIA names a committee.
+
+**The rest describe a procedure with no actor in it.** OpenAI routes its Safety Advisory
+Group's recommendation to *"OpenAI Leadership"* — a direction, not an office. Google DeepMind
+commits to safety-case reviews and never says who approves. Microsoft's framework is reviewed by
+its Chief Responsible AI Officer and names no deployment approver. **The remaining six — xAI,
+Amazon, Cohere, Magic, NAVER and G42 — specify no decision authority at all.** *(Microsoft added
+22 August 2026: three plus two plus six accounts for eleven of the twelve, while
+[the dossier](../appendix/dossier.md) chapter this section draws on accounts for all twelve.)*
+
+**None of them requires a signature.** Not one framework requires an attestation,
+certification or authentication of the deployment decision. At the best-documented laboratory
+on earth there is a decision-maker and no artifact of the decision.
+
+*The full entry, with sources and its own limits, is at
+[the dossier, chapter 06](../appendix/dossier.md#dossier--the-open-letters-record).*
+
+**And the asymmetry to put to a committee in one line.** Every fact in this section is
+retractable by the party it describes. Every fact in section 1 is a statute. The accountability
+that exists today can be edited by the companies it governs; the accountability that does not
+exist is the part a legislature controls.
+
+**Why this matters for drafting.** It answers the two objections a bill of this kind attracts.
+*"Nobody would take the job"* — a frontier laboratory has staffed it, published its authority
+and named it in the governing policy. *"The duties are not technically real"* — one covered
+developer performs their substance voluntarily today. The contribution of a statute is
+uniformity and a signature, not a burden invented by drafters.
+
+---
+
+## 3. The comparative answer, with primary text
+
+*For the question you will be asked in committee: "no other country does this to its own
+industry." Several do. Full texts and sources at
+[the comparative provisions](../commentary/other-jurisdictions.md).*
+
+| Jurisdiction | Instrument | Reaches a named person? | Nature |
+|---|---|---|---|
+| **United Kingdom** | Health and Safety at Work etc. Act 1974, s. 37 | Yes — "any director, manager, secretary or other similar officer… **or a person who was purporting to act in any such capacity**" | **Criminal**, on a **negligence** floor ("attributable to any neglect") |
+| **China** | PRC Criminal Law art. 31 | Yes — the persons directly in charge and other directly responsible persons | Criminal; general across the code since 1997 |
+| **Germany** | § 130 OWiG with §§ 9, 30 | Yes — owners, managing directors, board members | Administrative offense, not a crime; €1m where the underlying breach is criminal |
+| **United Kingdom** | FSMA 2000, ss. 60(2A), 66A(5)(d) | Yes — senior managers, by name, in a filed Statement of Responsibilities | **Regulatory**, not criminal — but responsibility allocated *in advance and in writing* |
+
+**The two clauses worth a drafter's attention**, both from the British provision and both fifty
+years old: liability may rest on *neglect* rather than knowledge, and it attaches to a person
+by **what they were doing rather than by their title**.
+
+**And the split inside the British family, which tracks the same line a tiered statute draws.**
+The neglect limb appears in the public-welfare statutes — health and safety, environment, data
+protection — and is **withheld** from the dishonesty offenses: the Fraud Act and the Bribery
+Act reach consent or connivance only. Parliament does not extend negligence liability to
+individuals indiscriminately. It attaches it where the offense is regulatory and withholds it
+where the offense is dishonesty.
+
+---
+
+## 4. Your own state's analogue — **in progress**
+
+*The question your counsel can answer in an hour, if someone asks it: does your state already
+impose personal liability on officers anywhere in its own code — food and drug, environmental,
+consumer protection — and at what strength?*
+
+**Status: open.** This section is being built one state at a time and will be published with
+the same rule as everything else here: every row carries a citation, or says **"none found."**
+No row will be filled by inference.
+
+**What the first pass already establishes, and it is a caution rather than a selling point.**
+State-level responsible-corporate-officer doctrine is **not** uniform and **not** universal.
+Academic treatment of the state environmental doctrine describes it as recognized in only a
+handful of states and as lacking cohesion and clarity. At least one state's own legislative
+research office reports that the doctrine there reaches environmental violations and not
+general criminal liability, its general officer provision covering conduct the officer
+*performs or causes to be performed* — narrower than the federal *Park* rule. **Anyone told
+"your state already does this" should ask which statute, and this file will not say it until
+it can name one.**
+
+Priority order follows the session calendar in the front page's *Where and when*:
+Pennsylvania, Texas, California, Washington, New York, New Mexico.
+
+**First build-out, 23 August 2026 — the environmental branch of the answer, from a survey now in
+hand.** The academic treatment this section paraphrased above has been identified and read:
+Lyness, *Revitalizing the State Environmental Responsible Corporate Officer Doctrine*, 64 B.C. L.
+Rev. 253 (2023) (Parts II–III read in full; held on
+[the source library](../appendix/verification-record.md)). Its Part III is a ten-state survey of the state
+*environmental* officer doctrine — one branch of the question this section asks, not the whole of
+it (food-and-drug and consumer-protection branches remain to be built) — and it permits ten rows
+now, each carrying the survey's citation:
+
+⚠ **Calibration note added 25 August 2026.** *Iverson* and *MacDonald & Watson* reached this
+repository by this same route, from this same reading of Lyness. When they were finally read in the
+opinions on 25 August, **two words in a published quotation were not the court's and a paragraph had
+been cut before its most useful sentence** ([E48](../corrections/corrections.md)). The fault was in the
+transit, not demonstrably in the survey. **But the ten rows below traveled the same road**, none has
+been read in the state reporters, and this is the document legislators are most likely to rely on and
+least likely to check. Treat every row as a pointer to a case, not as a reading of one.
+
+| State | Form | The anchor, per Lyness Part III |
+|---|---|---|
+| Alabama | statutory | "Responsible corporate officer" inside the definition of "person," Ala. Code § 22-22-1(b)(7), with a willful/gross-negligence mens rea — *stricter than the federal "knowing"* (at 278) |
+| California | judicial | *People v. Matthews*, 9 Cal. Rptr. 2d 348 (Ct. App. 1992) (hazardous waste; strict-liability public-welfare reasoning); *People v. Roscoe*, 87 Cal. Rptr. 3d 187 (Ct. App. 2008) (tank laws, doctrine adopted expressly) (at 278–80) |
+| Connecticut | judicial, broad | *BEC Corp.*, 775 A.2d 928 (Conn. 2001) (strict-liability form); *Celentano*, 923 A.2d 709 (Conn. 2007) (extends to any "strict liability public welfare statute"); tempered by *Underpass Auto Parts*, 123 A.3d 1192 (Conn. 2015) (criminal yes, civil no, under one act) (at 280–81) |
+| Delaware | judicial, narrow | *T.V. Spano*, 628 A.2d 53 (Del. 1993) ("directed, ordered, ratified, approved, or consented" — narrower than *Park*) (at 282) |
+| Hawaii | **codified in the penal code** | Haw. Rev. Stat. § 702-228 — an agent "having primary responsibility for the discharge of the duty is legally accountable for a reckless omission to perform the required act to the same extent as if the duty were imposed by law directly upon the agent"; § 342D-37 adopts "any responsible corporate officer" on the CWA model (at 282–84) |
+| Illinois | judicial, well-developed | *People ex rel. Burris v. C.J.R. Processing*, 647 N.E.2d 1035 (Ill. App. Ct. 1995), and a consistent line since, under the omnibus IEPA — "well-developed … in part due to the state's comprehensive environmental law" (at 284–85) |
+| Indiana | judicial (civil) | *RLG, Inc.*, 755 N.E.2d 556 (Ind. 2001) — civil form adopted because "civil liability is more expansive than criminal liability" (at 286–87) |
+| Minnesota | judicial — the national template | *In re Dougherty*, 482 N.W.2d 485 (Minn. Ct. App. 1992) — the three factors (position of responsibility; nexus between position and violation; actions or inactions facilitated it) "adopted by other state courts as the essential elements" (at 287–88) |
+| New Jersey | statutory + judicial, extensive | "Any responsible corporate official" in N.J. Stat. Ann. § 58:10A-3(l), construed to *Dotterweich/Park* in *Standard Tank Cleaning*, 665 A.2d 753 (App. Div. 1995); extended judicially to solid waste and dams — rejecting a reading that would let officers "shirk responsibility … using holding companies" (at 289–90) |
+| Washington | judicial | *Lundgren*, 971 P.2d 948 (Wash. Ct. App. 1999) (knowledge + control); broadened in *McNamara*, 292 P.3d 812 (Wash. Ct. App. 2013) to "the corporate officer's ability to prevent or correct a violation" (at 290–92) |
+
+**Three uses, stated precisely.** *For the sponsor conversation:* in ten states, "your state
+already does this" is checkable against the rows above — and in Hawaii it is in the penal code
+itself. *For the honest caution:* the survey's own conclusion is this section's existing warning,
+now with a citation — forty states have not adopted the doctrine; where adopted it is "limited,
+narrow, and concentrated," piecemeal, and in one state criminal-but-not-civil (at 292–94). *For
+the design argument:* the survey's remedy list — individual civil liability, liability without a
+mens rea requirement, uniformity, broad enforceability — is what this Act's SEC. 6, SEC. 1(a),
+the model-act form, and SEC. 10 respectively provide; the fragmentation the survey documents is
+the argument for a drafted uniform text rather than thirty years of case-by-case accretion. Two
+venue notes fall out: Connecticut's courts already extend the doctrine to any strict-liability
+public-welfare statute (*Celentano*) — a fact for [Decision 1](../revision/proposals.md);
+and Illinois pairs a "well-developed" judicial doctrine with the strongest enacted frontier
+statute, which sharpens § 5's Illinois entry. *Washington's* McNamara formulation — ability to
+prevent or correct — is SEC. 6(e)'s own phrase, in a state appellate holding. **Addendum, same night — the survey's own case studies, and a fifth venue.** Lyness's Part V
+(now read in full) models adoption in two further states. **Massachusetts** is his "ideal
+jurisdiction": its environmental statutes define "person" near-uniformly to include *"any
+officer, employee, or agent of said person"* (Mass. Gen. Laws ch. 21C, § 2) — and Massachusetts
+also carries a pending frontier-family bill (S 2630, the census). A state whose code already
+names the officer, meeting a frontier bill already in its legislature, is a venue theory of its
+own: the doctrine-ready state. **Oregon** supplies the closing argument instead: with piecemeal
+definitions, *"legislative adoption would be more comprehensive. A single statute could create a
+uniform category of individual civil liability … enforceable by the state and citizens alike"*
+(at 305–06) — the case for a drafted uniform text, made by the doctrine's own scholar. One
+honesty note travels with both: Lyness's revitalization is **civil-only** by design; the
+criminal tier is this Act's choice, defended at its own files, not his.
+
+
+
+---
+
+## 5. Where this lands first — a reading of the 2026 map, added 23 August
+
+*Not a recommendation to any office; a reading of the public record, each fact at its owner's
+grade. Four states, four different theories of adoption.*
+
+**Iowa is the enforcement venue.** The office that led the only multistate action over an
+evaluation incident; the home circuit where *DeCoster* binds; the courthouse of the
+testing-gone-wrong exhibit; the chair held by the culpability scholarship's author; and the
+federal AI whistleblower bill's lead sponsor. Five threads, one state —
+[the enforcement record § 4](../appendix/state-enforcement.md).
+
+**New York is the amendment vehicle.** The RAISE Act — General Business Law Article 44-B, ch. 96
+of 2026 — is enacted, was amended within months, and its own sponsor is already adding sections to
+it: S 10456 (primary text read, [census queue](../appendix/bill-census.md#the-queue)) would order
+minimum standards for the frameworks the Article currently lets developers write for themselves.
+A live, actively amended statutory surface is the rarest thing a model-bill project can be offered:
+somewhere for officer provisions to *go*.
+
+**Illinois is the legislature that kept the teeth.** P.A. 104-0538 passed 110–0 and 52–5 over
+organized industry opposition, kept the mandatory independent audit both coastal statutes
+dropped, and took the family's one required human signature — the auditor's
+([the census's lineage finding](../appendix/bill-census.md)). A chamber that holds a provision
+under that pressure is the chamber to bring the next provision to.
+
+**Pennsylvania has the enforcement instinct without the vehicle.** A signatory attorney general;
+a governor's administration already suing a chatbot company under licensure law
+([enforcement record § 6](../appendix/state-enforcement.md)); the district where the
+Synthes officers went to prison. What it lacks is any frontier statute to amend — which makes it
+a first-enactment candidate, not an amendment one.
+
+*Colorado is the caution on the same map: a duty-of-care statute repealed before effect under
+industry-and-federal litigation pressure. Any sponsor should read that arc first — it is why this
+Act's severability ladder and its narrow, conduct-anchored duties are drafted the way they are.*
+
+## What a sponsor's office would actually receive
+
+Not this repository. A sponsor package is shorter and jurisdiction-specific: bill text conformed
+by your own legislative counsel, a section-by-section explanation, a sponsor memorandum, and a
+fiscal note. This repository is the public research record behind it — the model text, the
+sources, the open questions and every correction.
+
+Two things stated plainly, because they are the questions staff ask first. The draft **has been
+enacted nowhere** and claims no completed expert review; it says so on its own front page. And
+the project's known errors are published in an append-only register with their fixes attached,
+which is the only credential an independent drafting project can offer.
+
+*Corrections to the project contact; they enter [the the corrections register](../corrections/corrections.md) with
+the fix attached and permanent credit.*
