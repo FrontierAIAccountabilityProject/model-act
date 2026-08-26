@@ -547,7 +547,7 @@ signatory is a provision without a defendant.
 **Verdict.** *New York wrote a duty not to lie about catastrophic risk and left the line where a
 human being would sign it blank.*
 
-**Confidence. ⚠ R.** The enacted chapter text was opened and searched directly, not read from a
+**Confidence. ✅ Read in full 25 August 2026** (superseding the ⚠ R grade this row carried until then, which read: "opened and searched directly, not read from a summary; not yet read by a human eye"). § 1421 was read entire from the enacted chapter text; see [PF-11](../audit/pre_review_pass_2026-08-24.md) for the four provisions SEC. 3(c)(4) adopts and never mentions. The original note continued: the enacted chapter text was opened and searched directly, not read from a
 summary. Not yet read by a human eye.
 
 ---

@@ -75,6 +75,37 @@ each put on that record by name: **willfulness**, **escalation to the chief exec
 [known objections](./docs/known_objections.md); the hearing's own entry is at
 [the press corpus](./research/press_corpus_july_august_2026.md) § 7.
 
+### And a state attorney general, fourteen months later, describing the gap from the other end
+
+> "If that bot were a person they'd be charged with a principal in first degree murder."
+>
+> — **James Uthmeier**, Attorney General of Florida, at a press conference, **21 April 2026**,
+> announcing criminal subpoenas to OpenAI in what the reporting describes as "a novel investigation
+> into whether a chatbot could be criminally liable for use in a mass shooting."
+
+**He is not saying the model is a person.** He is saying the conduct would be charged as first-degree
+murder if there were a person to attach it to, **and that he cannot find one**. That is this Act's
+premise, stated by a prosecutor who has just run into it: SEC. 4 exists to identify the natural
+person, and SEC. 6 exists to charge them.
+
+**And the instrument he reached for is the one this Act rejects.** Florida is testing whether the
+*chatbot* can be criminally liable. [SEC. 0](./model_act_v3_4.txt) and the personhood premise take the
+opposite view — the model is not a person, the officer is, and the question is not whether software
+can be charged but who signed for it.
+
+**The same three limits apply here, and one more.** This is a state investigation, not a charge, and
+an investigation is not a finding. The subject is a mass shooting, not catastrophic AI risk. **No
+officer-liability theory has been proposed by anyone in Florida**, and the Act is not mentioned there
+or anywhere else. And the quotation reaches this page through two paywall-truncated Bloomberg Law
+reports: ⚠ **the subpoenas themselves are not held and have not been read in the instrument**, unlike
+Alabama's, which has. The dated account is at
+[the state enforcement record](./research/state_enforcement_record_2026.md) § 1.
+
+**What it does carry.** Two attorneys general and one Senate subcommittee chair have now said, in
+public and on their own initiative, that frontier-AI conduct which would be prosecuted in other hands
+is not being prosecuted. **None of them proposed a statute that would fix it.** That is the whole
+distance this project is trying to cover.
+
 ---
 
 ## What is on this page
