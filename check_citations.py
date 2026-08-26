@@ -141,11 +141,32 @@ def main():
     toa_text = open(TOA, encoding="utf-8").read()
 
     toa_rows, unread, section = [], [], None
+    halfgrade = []
+    # Only rows belonging to an AUTHORITY table are authorities. This file also
+    # contains explanatory tables — the legend of read-status marks, added
+    # 26 Aug 2026 — and counting their rows inflates both the row count and the
+    # debt count, because the legend's own ⚠ row contains a ⚠. The old test was
+    # "any pipe row that is not the header", which had no way to tell one table
+    # from another. Track which table we are inside instead.
+    in_authority_table = False
     for line in toa_text.split("\n"):
-        if line.startswith(("## ", "### ")): section = line.strip("# ").strip()
-        elif line.startswith("| ") and not is_separator_row(line) and not line.startswith("| Authority"):
+        if line.startswith(("## ", "### ")):
+            section = line.strip("# ").strip(); in_authority_table = False
+        elif line.startswith("| Authority"):
+            in_authority_table = True
+        elif line.startswith("| ") and not line.startswith("| Authority"):
+            # any other header row starts a non-authority table
+            if not is_separator_row(line) and not in_authority_table:
+                continue
+            if is_separator_row(line):
+                continue
             toa_rows.append((section, line))
             if "⚠" in line: unread.append((section, line))
+            # A ◐ row is model-mediated: reached, not read. The rule is that it
+            # always carries a ⚠ too, because a lead is not a reading. If one ever
+            # does not, say so loudly rather than letting it pass as graded — that
+            # is the E52 lesson, a row that is silently not counted.
+            elif "◐" in line: halfgrade.append((section, line))
     # Two rows for one authority is not a style problem; it is two read-statuses
     # for one document, and they drift. On 26 August 2026 this table briefly carried
     # two *Staples* rows and two *Liu v. SEC* rows, both added by someone who did not
@@ -207,6 +228,11 @@ def main():
         for sec, line in unread:
             auth = line.split("|")[1].strip()[:78]
             print(f"    [UNREAD] {auth}")
+    if halfgrade:
+        print("\n  *** ◐ WITHOUT ⚠ — model-mediated but not counted as debt ***")
+        for sec, line in halfgrade:
+            print("    [UNGRADED] %-60s  %s" % (line.split("|")[1].strip()[:60], sec))
+        print("    Add the ⚠, or read the document and remove the ◐.")
     if dupes:
         print("\n  *** TWO ROWS FOR ONE AUTHORITY, NEITHER POINTING AT THE OTHER ***")
         for key, s1, s2 in dupes:

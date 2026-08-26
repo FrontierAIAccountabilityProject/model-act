@@ -1950,3 +1950,119 @@ on a ground the case does not rest on, and built two cures around answering it. 
 *Weitzenhoff* at 1286 n.7 still refuses *Ahmad*'s reading of *Staples* — but the objection they were
 answering was not quite the one in the reports, and a criminal-law reviewer would have said so in
 the first paragraph of a disposition.
+
+---
+
+## E57 — a new provenance grade, because three sources arrived by a route this register had no name for
+
+**Not a correction. A rule entry, filed the day the category appeared, so that nothing enters the
+repository through it unlabeled.**
+
+**What happened.** Three sources that repeated retrieval runs could not reach — Ind. Const. art. 1,
+§ 16, *Walton*, and *Philip Morris* — were reached on 26 August 2026 by a **fetch tool that
+downloads a page and has a small language model answer a question against it**. It returned the
+Indiana clause, *Walton*'s full caption and court, and the *Philip Morris* respondeat superior
+passage: all three had defeated a script, and none of them defeated this.
+
+**The problem is that the register has two grades and this is neither.** A source is *held* — the
+document is on the shelf, and someone can open it — or it is *not held*. This is a third thing. **A
+model read the document and told us about it.** That is better than a secondary summary, because the
+model had the primary in front of it. It is worse than reading, because the thing that reaches the
+repository is the model's rendering, and nobody has seen the page.
+
+**[E22](#e22--a-quotation-held-in-a-working-summary-is-not-a-quotation) already decides the hard part.** A quotation held in a working summary is not a
+quotation, and a model's answer is a working summary — it is generated text about a document, which
+is the exact category E22 was written to exclude. **So nothing arriving this way may be published as
+a quotation.** What may be taken is the kind of fact that survives rendering: a caption, a court, a
+docket number, a date, a page count, whether a copy carries star pagination.
+
+### The rule
+
+**E57 — a model-mediated fetch is a lead, not a reading. It may fix metadata and it may not supply a
+quotation. It is marked ◐, it always carries a ⚠ beside it, and the file it produces says
+`MODEL-MEDIATED-FETCH-NOT-THE-DOCUMENT` in its own name.**
+
+The mark is now in this table's legend, and `check_citations.py` reports any ◐ row that does not
+also carry a ⚠, because a row graded half way and counted as graded is
+[E52](#e52--a-quotation-made-a-row-stop-being-a-row-and-the-sweep-counted-it-as-absent) in a new
+costume.
+
+### Two things worth keeping from the three fetches
+
+**One. The route matters, and it is not the same route a script takes.** *Philip Morris* was reached
+through CourtListener, which an earlier run that same morning reported behind a bot challenge, and
+the Indiana clause came from a legislature PDF whose sibling URL returns an empty application shell.
+**"Blocked" is a property of a request, not of a site**, and this register should stop recording it
+as though it were the second.
+
+**Two. A collision found while pinning a clause, recorded before it bites.** The companion cites
+**Or. Const. art. I, § 16** and **Ind. Const. art. 1, § 16** in a single sentence. Same section
+number, same opening words, three words apart at the end: the companion gives Oregon as "all
+penalties shall be proportioned to the offense," and Indiana reads "all penalties shall be
+proportioned to **the nature of** the offense." Oregon's text is still unpinned. **Whoever pins it
+must pin it against Oregon's own publication**, because the near-identity is precisely the shape of
+mistake this shelf keeps making with surnames, and it would be invisible in a proofread.
+
+### Added the same day: the clearest demonstration this rule will ever get
+
+Hours after E57 was written, **two fetches of the same *Walton* opinion, through two different
+renderings of it, disagreed about the document's own front page.** The Delaware courts' own service
+returned **26 April 2023, 58 pages**. A mirror's PDF of the same opinion returned **12 April 2023,
+56 pages**, with a confident summary of what the case was about. Two further pages settle it — the
+opinion's caption block reads "Date Submitted: January 13, 2023 Date Decided: April 26, 2023" — so
+the second rendering was simply wrong.
+
+**Nothing in either answer looked uncertain.** Both gave a date, a page count and a subject, in the
+same register of confidence. **The disagreement was only visible because the same document was
+fetched twice**, which is not something a retrieval does by default and is not something a reader
+would think to do.
+
+**So the rule tightens.** Where a ◐ source supplies a fact that will be published — a date, a docket,
+a page count — **fetch it twice, from two renderings, and record both.** Where they disagree, neither
+is the answer; the document is.
+
+**What the three fetches did not do.** None of them put a document on the shelf. The Indiana
+constitution PDF, the *Walton* opinion and a clean *Philip Morris* print are each one deliberate
+download away, and until someone makes it, the strongest thing this project can say about all three
+is that it knows where they are. **[E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication)'s discipline applies unchanged: the *Philip Morris*
+pincite at 1118 is no closer to confirmed than it was yesterday.**
+
+---
+
+## E58 — a citation that exists only in a URL and a page title is not a citation, and it nearly overwrote a correct one
+
+**Status: caught before any change was made. Filed because the near miss was one keystroke wide.**
+
+**What happened.** While looking for a clean print of *United States v. Philip Morris USA Inc.*, a
+search result appeared whose page title and URL both carried the case at **556 F.3d 1095**. This
+repository publishes it at **566 F.3d 1095**. One digit, and the outside source is the kind that
+usually wins an argument: a public-health litigation tracker, a specialist body with no reason to be
+careless.
+
+**A structural argument pointed the same way and was not enough.** Volume 556 of the Federal Reporter
+covers early 2009 and volume 566 covers late spring; the opinion was decided 22 May 2009, which fits
+566. **That is a rule of thumb about publication schedules, not a source**, and this register does not
+correct citations from rules of thumb in either direction.
+
+**What settled it.** The Solicitor General's own petition in the case, which states in its OPINIONS
+BELOW section: "The opinions of the court of appeals (Pet. App. 1a-98a, 99a-176a) are reported at
+**566 F.3d 1095** and 396 F.3d 1190." The repository's citation was right.
+
+**Where the 556 came from is the interesting part.** It appears in the tracker's **page title and URL
+slug** — the parts of a web page that are written once, by hand, usually years ago, and never
+proofread against anything, because nothing renders them next to the text they describe. The body of
+that page does not repeat the citation at all.
+
+### The rule
+
+**E58 — a citation appearing only in a URL, a page title, a filename or a link label is not a
+citation. Those are labels, written once and never checked against the document they name. Before
+changing a citation this project publishes, find it in a document that a court, a party or a
+publisher would be embarrassed to get wrong.**
+
+**And the second-order habit this reinforces**, because it is the third one-digit dispute in a single
+day. [E51](#e51--a-pincite-copied-from-a-citing-case-from-the-wrong-one-of-its-four-citations) was a page number taken from the wrong one of four citations; E55 was a docket number
+taken from the first of two footnotes that disagreed; this was a volume number taken from a URL.
+**All three were single digits, all three looked exactly like every other digit on the page, and none
+of the three would have been caught by reading more carefully.** They were caught by noticing that
+two sources disagreed and going to a third. **Disagreement is the instrument. Care is not.**

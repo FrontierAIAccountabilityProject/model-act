@@ -421,6 +421,24 @@ the library.*
 | S. Hrg. 119-202 · 119-505 — govinfo | ⚠ **Second copies, and thinner than the ones already held.** See the finding below |
 | Desai & Riedl, arXiv:2502.18359 · Florida AG news release | Held, unread / read for the announcement |
 
+### Three reached later the same day by a route that is not a reading — ◐, [E57](../ledger/errata.md)
+
+*Each of these had defeated a script earlier on 26 August. Each was reached by a fetch tool that
+downloads a page and has a language model answer against it. **Nothing here may be published as a
+quotation**, and the files carry `MODEL-MEDIATED-FETCH-NOT-THE-DOCUMENT` in their own names.*
+
+| Held as | What was learned, and what it is worth |
+|---|---|
+| `RECORD_IN_Constitution-art-1-s-16_...MODEL-MEDIATED-FETCH...txt` | ◐ **Ind. Const. art. 1, § 16 pinned at last** — "All penalties shall be proportioned to **the nature of** the offense" — returned identically by the Indiana General Assembly's own constitution PDF (current to 5 Nov. 2024) and by Justia, fetched separately. **The last of the two clauses the retrieval list called the quiet scandal.** ⚠ The PDF itself is one download away and is not on the shelf |
+| `RECORD_DelCh_Ontario-Carpenters-v-Walton_...MODEL-MEDIATED-FETCH...txt` | ◐ **Route found on the Delaware courts' own opinion service**, and the metadata corrected: **Court of Chancery, not the Supreme Court**, Laster V.C., 26 Apr. 2023, C.A. 2021-0827-JTL, 58 pp., reported 294 A.3d 65 — the Walmart opioids books-and-records litigation. ⚠ **This is the case [E46](../ledger/errata.md) found carrying two fabricated quotations**, so of everything on this list it is the one that gets read in the document or cited by nobody |
+| `RECORD_DCCir_US-v-Philip-Morris-USA_...MODEL-MEDIATED-FETCH...txt` | ◐ **Reached through CourtListener**, which the earlier run that same morning found bot-blocked — the route is browser-shaped, not script-shaped. The respondeat superior passage is now known and **not quotable**. ⚠ No star pagination on that route, so **1118 is no closer to confirmed than yesterday**; and the fetch confirmed neither the docket nor the date, while **a second D.C. Circuit *Philip Morris* opinion exists from 2012** |
+
+**The refusal that is worth as much as the retrievals.** The only *Philip Morris* PDF findable by
+either run is hosted at a law firm's site and is **a LexisNexis printout carrying a third party's
+account name and session job number**. Both runs refused it. A research library does not file a
+document that carries somebody else's subscription identity, and the correct next step is the D.C.
+Circuit's own opinion service, which nobody has yet tried.
+
 **And a finding about S. Hrg. 119-202 that changes what its ⚠ means.** The govinfo PDF was fetched
 complete, 103 pages, and checked page by page: **pages 1–31 carry a text layer and pages 32–103
 carry none at all.** The 197 characters that extract from each appendix page are the Government
