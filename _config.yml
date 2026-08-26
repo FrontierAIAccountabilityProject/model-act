@@ -17,6 +17,22 @@ plugins:
   - jekyll-seo-tag    # canonical URLs, meta descriptions, Open Graph, JSON-LD — per page, automatic
   - jekyll-sitemap    # sitemap.xml for search engines, regenerated on every push
 
+# Not built into the site. Jekyll already ignores _-prefixed directories, so
+# _internal/, _to_delete/ and _patches/ are safe by convention rather than by a
+# list somebody has to remember to update -- which is why they are named that way.
+# These are the ones that need saying out loud.
+exclude:
+  - CLAUDE.md            # the operating instructions are repository content, not a page
+  - CLAUDE.local.md
+  - tools/
+  - check_citations.py
+  - check_claims.py
+  - check_links.py
+  - check_quotations.py
+  - check_spelling.py
+  - check_vocabulary.py
+  - version.json
+
 # Just the Docs
 color_scheme: statute
 search_enabled: true

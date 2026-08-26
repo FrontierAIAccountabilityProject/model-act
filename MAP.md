@@ -142,7 +142,8 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
 
 | File | Owns | Status |
 |---|---|---|
-| [`internal/reading_brief_sixteen.md`](./internal/reading_brief_sixteen.md) | **Working brief, 26 Aug 2026.** The sixteen authorities held on the shelf and unopened, ordered by what breaks if the reading goes against us rather than by the debt count. Not public-facing; a task list for whoever does the reading |
+| [`_internal/reading_brief_sixteen.md`](./_internal/reading_brief_sixteen.md) | **Working brief, 26 Aug 2026.** The sixteen authorities held on the shelf and unopened, ordered by what breaks if the reading goes against us rather than by the debt count. Not public-facing; a task list for whoever does the reading |
+| [`CLAUDE.md`](./CLAUDE.md) | **The operating instructions for AI-assisted work in this repository.** Loaded automatically at the start of every Claude Code session. Published deliberately: this project's drafting is AI-assisted and says so everywhere, and these are the actual rules the assistance runs under, including every one written because something went wrong. A companion `CLAUDE.local.md` holds the maintainer's personal layer and is **not committed** |
 | [`model_act_v3_4.txt`](./model_act_v3_4.txt) | **The operative text.** SEC. 0–13. Everything else in this repository is apparatus around it. | tagged |
 | [`model_act_v3_4_jacket_clean.txt`](./model_act_v3_4_jacket_clean.txt) | The same text stripped of apparatus, for a bill folder. | tagged |
 | [`model_act_v3_4_companion.md`](./model_act_v3_4_companion.md) | Drafting notes n.1–n.43, the constitutional defense, and the READ FIRST open items. | tagged |

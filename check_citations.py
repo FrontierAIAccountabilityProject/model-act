@@ -22,7 +22,7 @@ Usage:  python3 check_citations.py [--all]
 """
 import os, re, sys, collections
 
-SKIP = {".git", "_site", "archive", "_sass", "_includes", "_to_delete", "_patches"}
+SKIP = {".git", "_site", "archive", "_sass", "_includes", "_to_delete", "_patches", "_internal"}
 TOA  = "standards/table_of_authorities.md"
 # Sections VI and V list candidates and scholarship; a row there need not be cited.
 NOT_REQUIRED_CITED = ("VI. Candidate authorities", "V. Scholarship")

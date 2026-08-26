@@ -29,9 +29,10 @@ packets     = [p for p in glob.glob("packets/*.md") if os.path.basename(p) not i
 # _to_delete is a holding area, not repository content -- the device shell cannot
 # delete, so retired files are parked there. Counting them inflated the published
 # document count by 21 the moment the consolidation ran. 26 Aug 2026.
-_HOLD = ("/.git", "/_site", "/_to_delete", "/_patches")
+_HOLD = ("/.git", "/_site", "/_to_delete", "/_patches", "/_internal")
 docs_count  = len([f for r, d, fs in os.walk(".") for f in fs
-                   if f.endswith(".md") and not any(h in (r + "/") for h in _HOLD)])
+                   if f.endswith(".md") and f != "CLAUDE.local.md"
+                   and not any(h in (r + "/") for h in _HOLD)])
 statute     = read("model_act_v3_4.txt")
 sections    = len(re.findall(r'(?m)^SEC\.', statute))
 q35         = read("audit/v3_5_cure_language.md")

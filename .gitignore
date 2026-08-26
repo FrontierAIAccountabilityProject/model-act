@@ -5,3 +5,8 @@ __pycache__/
 
 # scratch proof sheets, not part of the site
 assets/img/_proof_*.png
+
+# Personal working context for Claude Code sessions. CLAUDE.md is public and holds
+# the repository's discipline; CLAUDE.local.md holds the maintainer's own layer --
+# name, design preferences, tone -- and must never reach a public repository.
+CLAUDE.local.md
