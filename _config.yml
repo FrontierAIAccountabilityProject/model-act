@@ -48,111 +48,16 @@ footer_content: "A publication of the Frontier AI Accountability Project · Publ
 # and every lane packet hangs beneath it as a child, so a fifth lane costs a click
 # rather than a chapter. Children are matched to the parent by its exact title.
 defaults:
+  # Every page now declares its own nav placement in its front matter, so the old
+  # "exclude everything, then re-include by path" block is gone. It listed thirty
+  # paths -- REVIEWERS.md, packets/*, docs/* -- every one of which moved on
+  # 26 August 2026, so its first rule (nav_exclude: true for path "") was the only
+  # one still matching and the sidebar rendered empty.
   - scope:
-      path: ""
-    values:
-      nav_exclude: true
-  - scope:
-      path: "README.md"
-    values: { nav_exclude: false, nav_order: 0, title: "The front page — start here" }
-  - scope:
-      path: "REVIEWERS.md"
-    values: { nav_exclude: false, nav_order: 1, title: "For reviewers" }
-  - scope:
-      path: "packets/index.md"
-    values: { nav_exclude: false, nav_order: 2, title: "The review packets", has_children: true }
-  - scope:
-      path: "packets/criminal_law.md"
-    values: { nav_exclude: false, parent: "The review packets", nav_order: 1, title: "Criminal law" }
-  - scope:
-      path: "packets/enforcement.md"
-    values: { nav_exclude: false, parent: "The review packets", nav_order: 2, title: "Enforcement and prosecution" }
-  - scope:
-      path: "packets/security.md"
-    values: { nav_exclude: false, parent: "The review packets", nav_order: 3, title: "Frontier security" }
-  - scope:
-      path: "packets/fiscal.md"
-    values: { nav_exclude: false, parent: "The review packets", nav_order: 4, title: "Fiscal and administration" }
-  - scope:
-      path: "packets/federalism.md"
-    values: { nav_exclude: false, parent: "The review packets", nav_order: 5, title: "Federalism and preemption" }
-  - scope:
-      path: "packets/proportionality.md"
-    values: { nav_exclude: false, parent: "The review packets", nav_order: 6, title: "Proportionality and sentencing" }
-  - scope:
-      path: "packets/torts_design.md"
-    values: { nav_exclude: false, parent: "The review packets", nav_order: 7, title: "Torts and design" }
-  - scope:
-      path: "packets/open_source.md"
-    values: { nav_exclude: false, parent: "The review packets", nav_order: 8, title: "Open source and academia" }
-  - scope:
-      path: "docs/the_case.md"
-    values: { nav_exclude: false, nav_order: 7, title: "The case" }
-  - scope:
-      path: "docs/the_statute_translated.md"
-    values: { nav_exclude: false, nav_order: 3, title: "The statute, translated" }
-  - scope:
-      path: "docs/questions.md"
-    values: { nav_exclude: false, nav_order: 8, title: "Questions and answers" }
-  - scope:
-      path: "docs/the_definition.md"
-    values: { nav_exclude: false, nav_order: 6, title: "Two definitions of \"frontier\"" }
-  - scope:
-      path: "docs/known_objections.md"
-    values: { nav_exclude: false, nav_order: 9, title: "Known objections" }
-  - scope:
-      path: "docs/what_a_case_looks_like.md"
-    values: { nav_exclude: false, nav_order: 4, title: "What a case would look like" }
-  - scope:
-      path: "docs/which_way_it_moves.md"
-    values: { nav_exclude: false, nav_order: 5, title: "Which way each provision moves" }
-  - scope:
-      path: "standards/what_these_words_mean.md"
-    values: { nav_exclude: false, nav_order: 10, title: "The glossary — what these words mean" }
-  - scope:
-      path: "MAP.md"
-    values: { nav_exclude: false, nav_order: 11, title: "Everything — the full index" }
-  - scope:
-      path: "archive"         # superseded versions: reachable by link, never by search
+      path: "archive"          # superseded versions: reachable by link, never by search
     values:
       search_exclude: true
   - scope:
-      path: "docs/01-the-problem.md"     # retired signpost: the link lands, search should not
-    values:
-      search_exclude: true
-  - scope:
-      path: "docs/02-the-precedents.md"     # retired signpost: the link lands, search should not
-    values:
-      search_exclude: true
-  - scope:
-      path: "docs/03-whats-in-the-act.md"     # retired signpost: the link lands, search should not
-    values:
-      search_exclude: true
-  - scope:
-      path: "docs/04-how-to-hand-over-a-bill.md"     # retired signpost: the link lands, search should not
-    values:
-      search_exclude: true
-  - scope:
-      path: "docs/05-where-and-when.md"     # retired signpost: the link lands, search should not
-    values:
-      search_exclude: true
-  - scope:
-      path: "docs/06-track-record.md"     # retired signpost: the link lands, search should not
-    values:
-      search_exclude: true
-  - scope:
-      path: "docs/07-context-timeline.md"     # retired signpost: the link lands, search should not
-    values:
-      search_exclude: true
-  - scope:
-      path: "docs/08-behind-the-scenes.md"     # retired signpost: the link lands, search should not
-    values:
-      search_exclude: true
-  - scope:
-      path: "docs/09-the-government-caught-one.md"     # retired signpost: the link lands, search should not
-    values:
-      search_exclude: true
-  - scope:
-      path: "audit/record.md" # the 364KB frozen record would drown the search index
+      path: "corrections/drafting-history.md"   # 356KB frozen record; it would drown the index
     values:
       search_exclude: true
