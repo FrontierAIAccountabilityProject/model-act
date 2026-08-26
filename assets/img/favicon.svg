@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="8" fill="#fbf8f1"/>
-  <rect x="2" y="2" width="60" height="60" rx="6" fill="none" stroke="#ddd5c5" stroke-width="2"/>
-  <text x="32" y="48" text-anchor="middle" font-family="Bitstream Charter, Charter, Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" fill="#5c1f1c">&#167;</text>
+  <rect width="64" height="64" rx="8" fill="#ffffff"/>
+  <rect x="2" y="2" width="60" height="60" rx="6" fill="none" stroke="#d1d9e0" stroke-width="2"/>
+  <text x="32" y="46" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="#1a7f37">&#167;</text>
 </svg>

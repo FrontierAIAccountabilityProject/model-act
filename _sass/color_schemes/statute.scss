@@ -1,19 +1,19 @@
-// Statute — the site's one color scheme, evolved 24 Aug 2026: the register warmed to the
-// law-report page. The reading surface goes from screen-white to paper; the accent comes
-// home from spruce to law-report maroon itself (the spruce was chosen as its complement);
-// the apparatus margin takes a cream one step deeper than the page. One accent, no
-// decoration: legislative-counsel printing, not a product page.
+// Statute — restyled 26 August 2026. The beige-and-maroon law-report register read as
+// decorative to the people it was written for; the authority it was reaching for is the
+// one a repository already has. So: white page, grey furniture, one green accent, system
+// sans throughout. GitHub's own light values, because that is the room this document
+// lives in. One accent, no decoration.
 @import "./color_schemes/light";
 
-$body-background-color: #fbf8f1; // paper — the long-reading surface
-$body-text-color: #191613;       // warm near-black ink
-$body-heading-color: #191613;
-$link-color: #5c1f1c;            // law-report maroon — links, and nothing else
-$btn-primary-color: #5c1f1c;
-$sidebar-color: #f3eee2;         // the apparatus margin: cream, one step deeper than the page
-$border-color: #ddd5c5;          // hairlines, not boxes
-$search-background-color: #fffdf8;
-$search-result-preview-color: #5a544a;
-$table-background-color: #fbf8f1;
-$code-background-color: #f2ede0; // statute blocks and the file tree
-$feedback-color: #efe9db;
+$body-background-color: #ffffff;        // the page
+$body-text-color: #1f2328;              // near-black, very slightly cool
+$body-heading-color: #1f2328;
+$link-color: #1a7f37;                   // the one accent: green, links and nothing else
+$btn-primary-color: #1f883d;
+$sidebar-color: #f6f8fa;                // the apparatus margin: the faintest grey
+$border-color: #d1d9e0;                 // hairlines, not boxes
+$search-background-color: #ffffff;
+$search-result-preview-color: #59636e;  // muted grey for secondary text
+$table-background-color: #ffffff;
+$code-background-color: #f6f8fa;        // statute blocks and the file tree
+$feedback-color: #f6f8fa;
