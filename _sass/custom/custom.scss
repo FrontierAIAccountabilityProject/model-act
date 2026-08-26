@@ -34,13 +34,14 @@ html {
   letter-spacing: -0.008em;
 }
 
-// The page title carries a double rule — the law report's own furniture.
+// The title rule is a single hairline now. The double rule was law-report furniture
+// and it was the last thing on the page still dressed as a statute.
 .main-content h1 {
   font-weight: 700;
   font-size: 2.05rem;
   line-height: 1.18;
   padding-bottom: 0.45rem;
-  border-bottom: 4px double $ink;
+  border-bottom: 1px solid #d1d9e0;
 }
 .main-content h2 {
   font-weight: 700;
@@ -59,7 +60,7 @@ html {
   text-decoration-thickness: 1px;
 }
 .main-content a:visited {
-  color: #6d4a40;
+  color: #55725e;
 }
 .site-nav a,
 .aux-nav a,
@@ -72,7 +73,7 @@ html {
   margin-left: 0;
   padding-left: 1.1rem;
   border-left: 3px solid $ink;
-  color: #33302a;
+  color: #1f2328;
   font-style: normal;
 }
 
@@ -122,10 +123,10 @@ html {
 }
 .site-nav .nav-list .nav-list-item .nav-list-link {
   font-size: 0.84rem;
-  color: #3d382f;
+  color: #1f2328;
 }
 .site-nav .nav-list .nav-list-item .nav-list-link::before {
-  color: #9a8f77;
+  color: #8c959f;
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
   font-size: 0.78em;
   font-variant-numeric: tabular-nums;
@@ -153,7 +154,7 @@ html {
   font-weight: 700;
 }
 .site-nav .nav-list-link:hover {
-  background: #efe9da;
+  background: #eaeef2;
 }
 
 // The top-right repository link, dressed as the stamp it is.
@@ -198,7 +199,7 @@ html {
   user-select: text;
 }
 ::selection {
-  background: #ead9be;
+  background: #dafbe1;
   color: $ink;
 }
 
@@ -307,7 +308,7 @@ html {
 
 // ---- the build stamp in the footer ----
 .build-stamp {
-  color: #6b6355;
+  color: #59636e;
   font-size: 0.74rem;
   margin-top: 0.6rem;
 }
