@@ -347,44 +347,48 @@ html {
 // ─────────────────────────────────────────────────────────────────────────────
 // Reading register — 26 August 2026, matched to the reference renders.
 //
-// The target is the way this repository's own markdown reads in an editor: light
-// grey filled tables with room in the cells, sentence-case column heads, a
-// conventional blue link, comfortable line length. Grey and minimal, but not
-// cramped — the earlier pass shrank everything and lost the thing that made the
-// reference legible, which was the air inside the table cells.
+// Sizes are absolute, not rem. Just the Docs sets a 14px root, so a rem value
+// under 1 shrinks the text instead of setting it: 0.97rem measured 13.58px on the
+// built page against a 15px reference. px here means the page reads at the size
+// intended rather than the size the theme's root happens to imply.
+//
+// Tables are filled and unruled. The reference has no outer border and no cell
+// borders at all — grey blocks separated by white gaps, which is quieter than any
+// hairline and does the same separating.
 //
 // Supersedes the uppercase/monospace table headers and the pine link colour set in
 // _sass/color_schemes/statute.scss. Both are left above rather than deleted.
 
 .main-content,
 .main-content p,
-.main-content li { font-size: 0.97rem; line-height: 1.62; }
+.main-content li,
+.main-content dd { font-size: 15px; line-height: 1.6; }
 
-.main-content h1 { font-size: 1.72rem; font-weight: 700; line-height: 1.24; margin-bottom: 0.7rem; }
-.main-content h2 { font-size: 1.24rem; font-weight: 700; margin-top: 2.1rem; margin-bottom: 0.55rem; }
-.main-content h3 { font-size: 1.02rem; font-weight: 700; margin-top: 1.6rem; margin-bottom: 0.45rem; }
+.main-content h1 { font-size: 30px; font-weight: 700; line-height: 1.25; margin-bottom: 0.7rem; }
+.main-content h2 { font-size: 20px; font-weight: 700; margin-top: 2.2rem; margin-bottom: 0.55rem; }
+.main-content h3 { font-size: 16px; font-weight: 700; margin-top: 1.7rem; margin-bottom: 0.45rem; }
+.main-content h4 { font-size: 15px; font-weight: 700; }
 
-// Tables: filled, not ruled. The fill separates the rows; the white gap is the rule.
 .main-content table {
   border-collapse: separate;
   border-spacing: 0;
-  border: 1px solid #e1e5e9;
-  font-size: 0.93rem;
-  margin: 1rem 0 1.35rem;
+  border: 0;
+  font-size: 14px;
+  margin: 1rem 0 1.4rem;
 }
 .main-content table th,
 .main-content table td {
-  background: #f2f4f6;
+  background: #f2f3f5;
   border: 0;
   border-bottom: 2px solid #ffffff;
-  padding: 0.6rem 0.85rem;
+  padding: 10px 14px;
   line-height: 1.5;
   vertical-align: top;
 }
 .main-content table th {
-  background: #e8ecf0;
+  background: #eaecef;
   font-family: inherit;
-  font-size: 0.93rem;
+  font-size: 14px;
   font-weight: 600;
   color: #1f2328;
   text-transform: none;
@@ -393,20 +397,24 @@ html {
 }
 .main-content table tr:last-child td { border-bottom: 0; }
 
-// One link colour, the conventional one.
+// An empty header row -- written as `| | |` where the columns need no labels --
+// renders as a blank band with a rule under it. Collapse it instead.
+.main-content table thead tr:has(th:empty:only-of-type),
+.main-content table thead tr:has(th:empty + th:empty) { display: none; }
+
 .main-content a,
 .main-content a:visited { color: #2c5fa8; }
 .main-content a:hover   { color: #1d4276; }
 
-.main-content hr { margin: 2rem 0; border: 0; border-top: 1px solid #e6e9ec; }
+.main-content hr { margin: 2rem 0; border: 0; border-top: 1px solid #e8eaed; }
 .main-content blockquote {
   border-left: 3px solid #dfe3e7;
   background: #f7f8fa;
-  padding: 0.55rem 0.95rem;
+  padding: 10px 14px;
   margin: 1rem 0;
   color: #30363d;
+  font-size: 14px;
 }
 
-// The margin apparatus stays quieter than the text beside it.
-.side-bar { font-size: 0.87rem; }
-.site-title { font-size: 0.92rem !important; font-weight: 700; }
+.side-bar { font-size: 13px; }
+.site-title { font-size: 14px !important; font-weight: 700; }

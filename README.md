@@ -1,10 +1,7 @@
 # Model Act — Frontier AI Public Welfare Offenses
 
-### Read this as a website — [frontieraiaccountabilityproject.github.io/model-act](https://frontieraiaccountabilityproject.github.io/model-act/)
-
-*Same text, styled for reading, with full-text search and a navigation sidebar. This repository
-holds the versioned source and remains the authoritative record; where the two differ, the
-repository governs.*
+**Website version:** [frontieraiaccountabilityproject.github.io/model-act](https://frontieraiaccountabilityproject.github.io/model-act/) — styled for reading, with search
+**GitHub repository version:** [github.com/FrontierAIAccountabilityProject/model-act](https://github.com/FrontierAIAccountabilityProject/model-act) — the versioned source, and the authoritative record
 
 ---
 
