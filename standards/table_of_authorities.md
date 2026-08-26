@@ -264,6 +264,16 @@ one sentence, from a criminal-law scholar who has not elected to be named. It is
 
 ---
 
+### Federal agency action — opened 26 August 2026
+
+| Authority | Cited at | For |
+|---|---|---|
+| *Trump v. Slaughter* (U.S. 2026) | **new 26 Aug 2026**; the federalism lane | ⚠ **Unread; known only from a Lawfare commentary held in the working library.** Reported to expand presidential removal authority and to mark "the demise of *Humphrey's Executor*." **The repository has never mentioned it, *Humphrey's Executor*, or the independence of the agency SEC. 3 presupposes.** A state Act is not bound by federal removal doctrine, but SEC. 3's Agency is designed on the independent-commission model and no one here has asked whether that model still travels |
+| FTC, **AI Policy Statement** (2026) | **new 26 Aug 2026**; SEC. 13(c); the federalism lane | ⚠ **PRIMARY NOT HELD — this is the retrieval that matters most.** Per Lawfare: days after *Slaughter*, the Commission "asserted that Section 5 of the Federal Trade Commission Act could preempt certain state AI laws, **even while acknowledging that the FTC Act contains no express preemption provision**." **This is a preemption vector SEC. 13(c) was not drafted against.** Every vector the repository tracks is legislative — the FRONTIER Act, H.R. 9925 § 9, the Great American AI Act's three-year clause. **Preemption asserted by agency policy statement is cheaper and faster than a bill, and it is already asserted.** Get the statement itself; Lawfare is secondary and E22 governs |
+| *In re Alibaba Group Holding Ltd. Securities Litigation* (S.D.N.Y., filed 4 Aug 2026) | **new 26 Aug 2026**; known objections | ⚠ Unread; known from The D&O Diary. A securities class action against Alibaba **and its chief executive personally**, alleging investors were misled about the company's AI-related activities and the risks attending them. **Relevant to the "existing law already reaches officers" objection**: it shows securities law reaching an officer for AI statements, which is the strongest form of that objection and the page does not currently cite a live example |
+
+---
+
 ## V. Scholarship
 
 | Authority | Cited at | For |
