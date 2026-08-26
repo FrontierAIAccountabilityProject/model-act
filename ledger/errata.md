@@ -1433,6 +1433,20 @@ conscious decision to violate the law."
 **Neither sentence appears.** The opinion discusses "a conscious decision to prioritize profits over
 compliance," which is a different proposition.
 
+> ⚠ **Corrected 26 August 2026, on reading the opinion in the document rather than in a retrieval
+> reply.** The court's words are "a conscious decision to prioritize profits over **legal**
+> compliance" — this entry dropped "legal," which is [E48](#e48--a-published-quotation-with-two-words-the-court-did-not-write-and-both-were-ours)'s rule broken inside the register that
+> exists to record breaking it. And the sentence does not stop there. In full, at slip op. 2: **"The
+> Massey Claim asserts that Walmart did not comply with the Controlled Substances Act and the DEA
+> Settlement because its officers and directors made a conscious decision to prioritize profits over
+> legal compliance, thereby choosing to violate the law."** **The fabricated quotation was built out
+> of this one sentence's two halves** — "conscious decision" from the first, "violate the law" from
+> the last four words — which is a more useful account of how it happened than "the sentence does not
+> appear." Two further things this entry could not have known: the sentence is **the court describing
+> the plaintiffs' claim, not holding anything**, so even the real words cannot be cited as the court's
+> proposition; and there are **two opinions in this case**, so which one this entry read is now a live
+> question. See [E59](#e59--two-opinions-two-weeks-apart-under-one-case-number-and-a-date-i-confirmed-from-three-sources-that-the-document-contradicts).
+
 ### The one that was misquoted
 
 **We published:** "This decision **confirms** that **officers** owe a duty of oversight," at
@@ -2066,3 +2080,70 @@ taken from the first of two footnotes that disagreed; this was a volume number t
 **All three were single digits, all three looked exactly like every other digit on the page, and none
 of the three would have been caught by reading more carefully.** They were caught by noticing that
 two sources disagreed and going to a third. **Disagreement is the instrument. Care is not.**
+
+---
+
+## E59 — two opinions, two weeks apart, under one case number, and a date I confirmed from three sources that the document contradicts
+
+**Status: published this morning in `standards/table_of_authorities.md`; corrected the same day when
+the document arrived.**
+
+**What was published.** That the *Walton* opinion's own caption block reads **"Date Submitted:
+January 13, 2023 Date Decided: April 26, 2023,"** and that the subject is the Rule 23.1
+demand-futility ruling. It was written as a confirmation, on the strength of three sources agreeing:
+the Delaware courts' own opinion service, a Delaware firm's case note, and Justia's case page, which
+carries the date as a field.
+
+**What the document says.** The PDF, downloaded and opened:
+
+> **OPINION ADDRESSING DEFENDANTS' MOTION TO DISMISS ON THE BASIS OF LACHES**
+> Date Submitted: January 13, 2023
+> **Date Decided: April 12, 2023**
+
+**Sixty-four pages**, not the 56 or 58 that two separate model-mediated fetches reported.
+
+**Both things are true, and that is the finding.** There are **two opinions in C.A. No.
+2021-0827-JTL, two weeks apart**: a **laches** opinion on 12 April 2023, which is the one now on the
+shelf, and a **Rule 23.1 demand-futility** opinion on 26 April 2023, which is the one the firm note
+describes. Justia's case page carries the later date and serves the earlier opinion's PDF. Nothing
+in any of the three sources said "one of two."
+
+### What this costs, and it reaches backwards
+
+This repository cites *Walton* as **294 A.3d 65, 90, 92**. **Which of the two opinions is reported at
+294 A.3d 65 is now unsettled**, and so is the question of which one
+[E46](#e46--two-quotations-published-this-afternoon-are-not-in-the-opinions-they-were-attributed-to) read when it found two quotations fabricated. E46's finding survives — the invented
+sentences are absent from the opinion now held, and the reading also showed exactly which real
+sentence they were assembled from — but **an erratum that says "not in the opinion" has to name the
+opinion**, and until today nobody knew there was a choice to make.
+
+### The rule
+
+**E59 — a case number is not a document. Where a matter has produced more than one opinion, a
+citation that names only the case names nothing, and agreement among secondary sources about "the"
+opinion is agreement about a thing that may not exist. Before citing, ask how many opinions there
+are.**
+
+### And the third strike against confirming anything by consensus
+
+Three sources agreed on 26 April and the document says 12 April. **They did not agree because they
+had checked; they agreed because they were describing the other opinion**, and nothing in their
+phrasing distinguished the two. This is the same shape as [E58](#e58--a-citation-that-exists-only-in-a-url-and-a-page-title-is-not-a-citation-and-it-nearly-overwrote-a-correct-one),
+where a citation lived only in a page title, and the same shape as E55, where a witness's two
+footnotes disagreed. **Agreement among sources that are all downstream of one another is not
+corroboration.** The document is the only thing that ends the question, and this register has now
+recorded that lesson four times in one day, which suggests the lesson is not the problem.
+
+### One thing that went the other way, recorded because the register should not only collect failures
+
+The *Philip Morris* passage that the same model-mediated route returned — corporations liable for
+specific intent on the "knowledge and intent" of their employees, because "a corporation only acts
+and wills by virtue of its employees" — **is in the opinion, word for word**, confirmed on reading
+the document. [E57](#e57--a-new-provenance-grade-because-three-sources-arrived-by-a-route-this-register-had-no-name-for)'s caution is not that these fetches are wrong. It is that nothing in the
+answer tells you which kind you have got.
+
+**And a false negative worth admitting**, because it nearly produced a fifth erratum in the wrong
+direction: a first search of the document for that passage returned **zero hits** and briefly looked
+like proof the quotation was invented. The passage was there. The search failed because the text
+wraps mid-phrase across two lines and the document uses curly quotation marks. **A grep that returns
+nothing is evidence about the grep.**
