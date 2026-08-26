@@ -122,4 +122,4 @@ labeled maintainer response. This index gains a one-line row per entry.
 ---
 
 *The review structure this register serves: [REVIEWERS](./worklist.md) · findings that change
-text: [the cure queue](./proposals.md) · [the the corrections register](../corrections/corrections.md).*
+text: [the proposals](./proposals.md) · [the corrections register](../corrections/corrections.md).*

@@ -603,4 +603,4 @@ that one earns a verdict per citation.
 
 ---
 
-*Corrections to the project contact; they enter [the the corrections register](../corrections/corrections.md) with the fix attached and permanent credit.*
+*Corrections to the project contact; they enter [the corrections register](../corrections/corrections.md) with the fix attached and permanent credit.*

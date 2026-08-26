@@ -4,9 +4,9 @@ parent: For Legislatures
 nav_order: 2
 ---
 
-*The short account of the whole project, for someone who has thirty seconds and might give it five
-minutes. The front page is at [../README.md](../README.md); the chapter map is at
-[MAP.md](../README.md); a reviewer's working page is [REVIEWERS.md](../revision/worklist.md).*
+*The short account of the whole project, for someone who has thirty seconds.
+The front page is at [../README.md](../README.md); what is still open is in
+[the worklist](../revision/worklist.md).*
 
 # The project in one page
 
@@ -24,7 +24,7 @@ and its penalties on the company alone.
 
 A **public-domain model state statute** that makes the extension, drafted in the open, with its
 audits, its corrections, and its whole drafting record published beside it. It is not a proposal
-paper about what a law should contain. It is the text, tagged and versioned, with a
+paper about what a law should contain. It is the text, tagged and versioned, with
 section-by-section Comments, ready for a legislative counsel to conform to a state's code the day
 a sponsor takes it up.
 
@@ -40,13 +40,13 @@ proved.
 
 | | |
 |---|---|
-| The statute | **611 lines, 32 sections**, tagged v3.4, with an **11,000-word** section-by-section Comments |
+| The statute | **611 lines, 32 sections**, tagged v3.4, with an **11,000-word** section-by-section commentary |
 | The repository | **67 documents**, mirrored as a searchable site. Twenty-one were retired on 26 August 2026 — they were signposts saying "this moved", and the links they redirected now point at the destination directly |
 | The drafting record | **more than 460 commits**; every version's redline preserved; **16 cures** adopted verbatim at v3.4 and **26 more plus 4 open questions** drafted and waiting for v3.5 |
-| Corrections | A numbered, append-only **the corrections register: 61 entries**, numbers reaching E75, each with the cause, what caught it, the fix, and the rule kept |
+| Corrections | A numbered, append-only **corrections register: 61 entries**, numbers reaching E75, each with the cause, what caught it, the fix, and the rule kept |
 | Sources | A **verification record of more than 200 rows** — every instrument, its retrieval date, its grade, and, in its own section, the claims that **failed** verification and were withdrawn |
 | The evidence shelf | **137 files** held privately, including **24 primary bills** and **13 congressional hearings** read against their own text |
-| Review | **Eight topics**, each with a printable packet assembled by a committed script from the repository's own files |
+| Review | No reviewer has signed. Every open item is listed in [the worklist](../revision/worklist.md) |
 | Publication | CC0 public domain, archived at CERN, DOI [`10.5281/zenodo.22029795`](https://doi.org/10.5281/zenodo.22029795) |
 
 Every number above is recomputed from the files by two committed tools, `check_claims.py` and
@@ -86,10 +86,8 @@ the finding rather than to the data, and it is why this Act has one.
 
 ## What the project asks of a reader, and what it gives back
 
-**The ask is bounded and it is the same for everyone.** One topic, scope agreed in writing before
-work begins. The floor is **three findings, verified or refuted, with reasons** — perhaps six to
-eight hours. The whole reviewer is a topic worked through, roughly ten to twenty hours over eight weeks.
-Unpaid.
+**The terms are the same for everyone.** Scope agreed in writing before work begins. A complete
+response is **three findings, verified or refuted, with reasons**. Unpaid.
 
 **What is unusual is what happens to the answer.** It is published entire, as written, under your
 name or anonymously as you choose. The maintainer may respond beside it and **may not edit it**.
@@ -99,7 +97,7 @@ vote. The nearest familiar shape is a conference paper, not peer review.
 
 **A review that refutes one of this project's findings is worth more to it than a pass that
 agrees with everything.** That is not politeness. One outside answer has already changed the
-statutory text, and the the corrections register exists so that being right about a mistake is rewarded with
+statutory text, and the corrections register exists so that being right about a mistake is rewarded with
 a permanent, numbered, credited entry rather than a quiet edit.
 
 ## What this project is not, stated before anyone has to ask
@@ -123,7 +121,7 @@ findings are on the front page, above the argument.
 - The statute in plain English: [the statute translated](./plain-english.md)
 - The strongest objections, with answers: [known objections](../commentary/objections.md)
 - Every frontier AI bill in America, read: [the census](../appendix/bill-census.md)
-- What has gone wrong here and how: [the the corrections register](../corrections/corrections.md)
-- Taking a reviewer: [REVIEWERS.md](../revision/worklist.md)
+- What has gone wrong here and how: [the corrections register](../corrections/corrections.md)
+- What is still open, and how to take a piece of it: [the worklist](../revision/worklist.md)
 
 Corrections and questions: **FrontierAIAccountabilityProject@proton.me**

@@ -463,4 +463,4 @@ The first genuine outside catch is credited permanently as E7 in
 
 ---
 
-*Corrections to the project contact; they enter [the the corrections register](../corrections/corrections.md) with the fix attached and permanent credit.*
+*Corrections to the project contact; they enter [the corrections register](../corrections/corrections.md) with the fix attached and permanent credit.*

@@ -363,4 +363,4 @@ primary or first-party source at some point in the record; this table does not r
 it locates.
 
 *Compiled 20 August 2026 against the v3.4 tag. Corrections to FrontierAIAccountabilityProject@proton.me; they enter
-the the corrections register like everything else.*
+the corrections register like everything else.*

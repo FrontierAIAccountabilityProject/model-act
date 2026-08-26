@@ -6,9 +6,8 @@ nav_order: 1
 
 # Worklist
 
-*Everything open on this Act, on one page. Each row is a self-contained item. Select one, complete
-it, and return it; there is no application process and no minimum commitment. Recomputed
-26 August 2026.*
+*Every open item on this Act. Each row is discrete: what it is, which section it touches, what it
+needs, and whose call it is.*
 
 **Five kinds of work.** **Proposed amendments** are drafted and waiting for a lawyer to approve,
 change, or reject. **Decisions** are questions the drafter cannot settle alone. **Objections with no
@@ -17,11 +16,10 @@ claims the evidence record makes on a source that has not been confirmed. **Cita
 quotations read in the source whose page number the copy held cannot confirm — clearable only with
 library access, and not part of reviewing the Act.
 
-**How to respond.** Identify the item, state your conclusion, and give your reasons. One page is
-sufficient. Rejecting a proposed amendment is of more use than approving one: it is the only way a
-drafting error is caught. Responses are published as written, under your name or anonymously; the
-drafter may reply alongside a response but may not edit or overrule it.
-Contact: `FrontierAIAccountabilityProject@proton.me`.
+**Responses.** Name the item, state the conclusion, give the reasons. Responses are published as
+written, under a name or anonymously; the drafter may reply alongside one and may not edit or
+overrule it. A rejection is as publishable as an endorsement.
+`FrontierAIAccountabilityProject@proton.me`
 
 ---
 

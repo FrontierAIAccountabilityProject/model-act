@@ -10,3 +10,10 @@ assets/img/_proof_*.png
 # the repository's discipline; CLAUDE.local.md holds the maintainer's own layer --
 # name, design preferences, tone -- and must never reach a public repository.
 CLAUDE.local.md
+
+# Working material that is repository-adjacent but not repository content, and must not
+# reach the public remote. Added 26 August 2026: banked_threads.md -- drafted posts with
+# their timing instructions -- was moved into _internal/ to keep it off the built site,
+# and would have been pushed to a public GitHub repo anyway, because keeping a file out
+# of Jekyll and keeping it out of git are two different things.
+_internal/

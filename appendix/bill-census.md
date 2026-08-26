@@ -1337,7 +1337,7 @@ covered frontier developer** would be the most valuable entry in this file, not 
 **note the precision**: not a bill reaching any natural person, which several already do, but one
 reaching the person who decides to release a frontier system.
 
-*Corrections to the project contact; they enter [the the corrections register](../corrections/corrections.md) with
+*Corrections to the project contact; they enter [the corrections register](../corrections/corrections.md) with
 the fix attached and permanent credit.*
 
 ---

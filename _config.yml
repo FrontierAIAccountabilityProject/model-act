@@ -25,12 +25,6 @@ exclude:
   - CLAUDE.md            # the operating instructions are repository content, not a page
   - CLAUDE.local.md
   - tools/
-  - check_citations.py
-  - check_claims.py
-  - check_links.py
-  - check_quotations.py
-  - check_spelling.py
-  - check_vocabulary.py
   - version.json
 
 # Just the Docs

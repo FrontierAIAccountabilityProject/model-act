@@ -510,4 +510,4 @@ to people — and the question this project puts to a legislature is only: which
 ---
 
 *Corrections to the project contact — especially from people who build these systems. They enter
-[the the corrections register](../corrections/corrections.md) with the fix attached and permanent credit.*
+[the corrections register](../corrections/corrections.md) with the fix attached and permanent credit.*

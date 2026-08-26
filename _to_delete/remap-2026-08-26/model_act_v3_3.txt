@@ -1,9 +1,0 @@
-MODEL ACT v3.3 — SUPERSEDED
-
-The archived v3.3 statutory text is preserved at:
-archive/model_act_v3_3.txt
-
-The current authoritative statutory text is:
-model_act_v3_4.txt
-
-This file preserves the former root path for historical links.

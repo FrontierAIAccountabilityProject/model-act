@@ -391,5 +391,5 @@ enacted nowhere** and claims no completed expert review; it says so on its own f
 the project's known errors are published in an append-only register with their fixes attached,
 which is the only credential an independent drafting project can offer.
 
-*Corrections to the project contact; they enter [the the corrections register](../corrections/corrections.md) with
+*Corrections to the project contact; they enter [the corrections register](../corrections/corrections.md) with
 the fix attached and permanent credit.*

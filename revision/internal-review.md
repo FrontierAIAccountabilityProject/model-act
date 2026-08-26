@@ -12,13 +12,13 @@ nav_order: 3
 > is that nobody, the maintainer included, may claim this text "survived review" until named
 > reviewers sign. This document does not change that. It is **issue-spotting**, run in-house with
 > AI assistance, against the five topics the [review council](../revision/worklist.md)
-> defines — so that a reviewer's ten to twenty hours are not spent rediscovering what we could
+> defines — so that a reviewer's time is not spent rediscovering what we could
 > have found ourselves.
 >
 > **A reviewer arriving later can diff their findings against these.** Where a reviewer
 > disagrees with a finding below, the reviewer is right and the disagreement is itself a finding.
 > Where a reviewer finds something this sweep missed, that is the reviewer working, and it enters
-> [the the corrections register](../corrections/corrections.md) with credit attached.
+> [the corrections register](../corrections/corrections.md) with credit attached.
 
 ## Method, stated so it can be discounted
 

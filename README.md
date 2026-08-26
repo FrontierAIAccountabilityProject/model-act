@@ -17,13 +17,13 @@ be done in the open. Public domain: anyone may take it, change it, or build on i
 
 ---
 
-## Three ways in
+## Where to look
 
 | | |
 |---|---|
-| **I want to understand it** | [The Act, section by section](./act/comments.md) — what each section does and why it is written that way |
-| **I want to help** | [The Worklist](./revision/worklist.md) — every open item, one row each. Take one, send it back. No application |
-| **I think it's wrong** | [Objections](./commentary/objections.md) — every criticism made so far and the answer given, including the ones with no answer |
+| **The text and the reasoning** | [The Act, section by section](./act/comments.md) — what each section does and why it is written that way |
+| **What is open** | [The Worklist](./revision/worklist.md) — every open item, with what it needs and whose call it is |
+| **The objections** | [Objections](./commentary/objections.md) — every criticism made against it, with the answer given, and the ones with no answer |
 
 ---
 
