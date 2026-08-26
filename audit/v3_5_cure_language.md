@@ -7,7 +7,7 @@ amendment blocks. The one-page state of play, your lane's table, and the reviewe
 at [the review packets](../packets/index.md). This file's working labels map to the state-of-play
 column so the two never disagree in substance: *decision owed* = **DECISION**; *not drafted /
 for the … lane* = **HELD**; *adopt-ready* = **DRAFTED**; *⚠ amendments required before landing*
-= **⚠ AMEND FIRST**; *sweep-derived* and *intake-derived* = **HYPOTHESIS**. Index, numeric: [OPEN QUESTION 1](#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) · [OPEN QUESTION 2](#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) · [OPEN QUESTION 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) · [OPEN QUESTION 4](#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) · [CURE 1](#cure-1--serious-injury-source-moves-to-18-usc--1365h34) · [CURE 2](#cure-2--sec-13c-a-review-valve-on-the-suspension-order) · [CURE 3](#cure-3--the-regulations-conformed-to-v34) · [CURE 4](#cure-4--sec-9a-the-two-characterization-shaped-triggers-recast-as-observable-events) · [CURE 5](#cure-5--sec-8-punctuation) · [CURE 6](#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) · [CURE 7](#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) · [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) · [CURE 9](#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) · [CURE 10](#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) · [CURE 11](#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) · [CURE 12](#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) · [CURE 13](#cure-13--sec-1b1b-say-sever-not-extend) · [CURE 14](#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) · [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candor) · [CURE 16](#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) · [CURE 17](#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) · [CURE 18](#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) · [CURE 19](#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) · [CURE 20](#cure-20--the-chosen-stick-clause-conformity-outside-the-act-credits-nothing) · [CURE 21](#cure-21--sec-8-the-certification-register-facts-public-content-protected).*
+= **⚠ AMEND FIRST**; *sweep-derived* and *intake-derived* = **HYPOTHESIS**. Index, numeric: [OPEN QUESTION 1](#open-question-1--sec-3c4-does-connecticut-become-a-fourth-interim-standard) · [OPEN QUESTION 2](#open-question-2--sec-2--sec-9-does-the-duty-reach-an-evaluation-run-with-safeguards-disabled) · [OPEN QUESTION 3](#open-question-3--sec-4-the-third-party-evaluator--does-practical-authority-still-run-to-the-officer) · [OPEN QUESTION 4](#open-question-4--sec-2a-and-sec-1c-the-act-does-not-reach-the-conduct-it-was-written-after) · [CURE 1](#cure-1--serious-injury-source-moves-to-18-usc--1365h34) · [CURE 2](#cure-2--sec-13c-a-review-valve-on-the-suspension-order) · [CURE 3](#cure-3--the-regulations-conformed-to-v34) · [CURE 4](#cure-4--sec-9a-the-two-characterization-shaped-triggers-recast-as-observable-events) · [CURE 5](#cure-5--sec-8-punctuation) · [CURE 6](#cure-6--sec-1b1-the-developers-own-designation-as-a-third-route-into-scope) · [CURE 7](#cure-7--the-covered-frontier-enterprise-scope-follows-the-ecosystem-duty-follows-the-function) · [CURE 8](#cure-8--sec-6-the-individual-liability-offense-reconstructed) · [CURE 9](#cure-9--sec-10e-the-access-authority-the-act-forgot-to-import) · [CURE 10](#cure-10--sec-3c3-interim-controls-so-sec-5b-is-not-dormant-until-year-four) · [CURE 11](#cure-11--sec-5-name-the-obligor-sec-9b-write-the-duty-in-the-active-voice) · [CURE 12](#cure-12--sec-5d-restore-the-scienter-its-own-donor-requires) · [CURE 13](#cure-13--sec-1b1b-say-sever-not-extend) · [CURE 14](#cure-14--sec-9b-a-detection-clock-that-cannot-be-gamed-by-certifying-less-monitoring) · [CURE 15](#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candor) · [CURE 16](#cure-16--sec-1b7-a-deception-limb-because-van-buren-excludes-what-actually-happened) · [CURE 17](#cure-17--sec-11d-remedies-for-a-reporter-outside-employment) · [CURE 18](#cure-18--sec-9b-an-immediate-notice-tier-for-incidents-in-progress) · [CURE 19](#cure-19--sec-0a-the-personhood-finding-the-states-have-begun-to-enact) · [CURE 20](#cure-20--the-chosen-stick-clause-conformity-outside-the-act-credits-nothing) · [CURE 21](#cure-21--sec-8-the-certification-register-facts-public-content-protected) · [CURE 22](#cure-22--sec-6b-the-felony-tiers-knowledge-element-and-one-word-that-is-not-american) · [CURE 23](#cure-23--sec-3c4b-restore-the-publication-the-allied-statutes-require-on-their-own-redaction-terms) · [CURE 24](#cure-24--sec-8-the-certifications-lower-tier-names-a-mental-state-sec-6a-does-not-require) · [CURE 25](#cure-25--sec-10d-the-fdca-remedies-are-cited-and-their-protections-are-not-taken) · [CURE 26](#cure-26--sec-3c4-the-disapplication-list-repaired-against-a-full-read-of-all-three-adopted-standards).*
 
 
 > **STATUS — OPEN QUEUE. Nothing below is yet in the statute.** The operative text
@@ -2064,3 +2064,199 @@ this project's own evidence base exists only because a victim published rather t
 **Administrative load:** none on the Agency. The publication is by the regulated person, on terms
 that person already meets in three states.
 
+
+---
+
+## CURE 24 — SEC. 8: the certification's lower tier names a mental state SEC. 6(a) does not require
+
+*Opened 25 August 2026 from [PF-7](./pre_review_pass_2026-08-24.md), on reading 18 U.S.C. § 1350 and
+33 U.S.C. § 1319(c) in the primary. Numbered 26 August 2026.*
+
+### The defect
+
+**ANCHOR (SEC. 8, closing sentence, verbatim):** "Knowing false certification is an offense under
+SEC. 6(b)(1); **reckless certification without reasonable inquiry** is an offense under SEC. 6(a)."
+
+SEC. 6(a)'s element is that the person "failed to exercise due care," measured against "the conduct
+of a reasonably prudent controlling person in like circumstances." **That is negligence.** SEC. 8
+advertises recklessness, which is higher. A certification made negligently without reasonable
+inquiry satisfies SEC. 6(a) while SEC. 8 says it does not.
+
+**It is a fair-notice defect in the one provision the Act exists to make a natural person sign.**
+
+### What the models actually say
+
+**18 U.S.C. § 1350 — ✅ read in full 25 Aug 2026 — has no tier below knowledge.** (c)(1): "knowing"
+— \$1,000,000 / 10 years. (c)(2): "willfully… knowing" — \$5,000,000 / 20 years. An executive who
+certifies without adequate inquiry, not knowing the report is non-compliant, commits no offense
+under it. **So § 1350 cannot be the donor of SEC. 8's second limb, and the Act names no other.**
+
+**33 U.S.C. § 1319(c) — ✅ read in full 25 Aug 2026 — is the donor.** (c)(1) punishes one who
+"**negligently** violates," imprisonment not more than one year on a first conviction; (c)(6)
+provides that for the whole of subsection (c) "the term 'person' **means**, in addition to the
+definition contained in section 1362(5), **any responsible corporate officer**." **Federal law has
+imposed criminal liability on a responsible corporate officer for merely negligent violation, at the
+misdemeanor level, since 1987.** That is SEC. 6(a) limb for limb, including SEC. 10(b)'s one-year
+ceiling.
+
+### Operation 1 — the tagged text, one clause
+
+**NEW TEXT — replacing SEC. 8's closing sentence:**
+
+> Knowing false certification is an offense under SEC. 6(b)(1); certification without reasonable
+> inquiry is an offense under SEC. 6(a), which requires proof of the failure of due care described in
+> that subsection.
+
+### Operation 2 — the companion, one citation
+
+n.8 defends SEC. 8 from § 1350 by argument from practice — its maxima are three to six times this
+Act's base felony tier, and "executives have signed under harsher terms every quarter since 2002."
+**That argument reaches the ceiling and is silent on the floor.** The note should carry
+§ 1319(c)(1) with (c)(6) as the second model, and *United States v. Hanousek*, 176 F.3d 1116, 1120–21
+(9th Cir. 1999) ⚠ for the holding that ordinary negligence suffices.
+
+**And it takes the sting out of *Ahmad*.** *Ahmad* refuses public-welfare treatment to CWA discharges
+because they are "felonies punishable by years in federal prison." **§ 1319(c)(1) is a misdemeanor.**
+Whatever *Ahmad* does to a felony tier it does not reach a one-year negligence offense, which makes
+SEC. 6(a) the least exposed part of the federal analogy rather than the most.
+
+**The alternative a reviewer should weigh and this cure rejects:** raise SEC. 6(a) to the recklessness
+SEC. 8 advertises. That buys the § 1350 analogy and abandons the negligence floor *DeCoster* says
+*Park* supplies — trading a defensible doctrine for a defensible analogy.
+
+**Administrative load:** none.
+
+---
+
+## CURE 25 — SEC. 10(d): the FDCA remedies are cited and their protections are not taken
+
+*Opened 25 August 2026 from [PF-8](./pre_review_pass_2026-08-24.md), on reading 21 U.S.C. §§ 332 and
+334 in the primary. Numbered 26 August 2026.*
+
+### Operation 1 — the jury the source supplies in exactly this case
+
+SEC. 10(d)(2) provides that operation of a suspended configuration by a person with notice "is
+**contempt and a violation of SEC. 5(a)**." That double character is the precise case
+21 U.S.C. § 332(b) legislates for — ✅ read 25 Aug 2026:
+
+> "In case of violation of an injunction or restraining order issued under this section, **which also
+> constitutes a violation of this chapter**, trial shall be by the court, or, **upon demand of the
+> accused, by a jury**."
+
+**The Act cites § 332 for the injunction and drops § 332(b).** Ordinary law supplies a jury only where
+the contempt sentence is serious; § 332(b) supplies it by statute whenever the two characters
+overlap. **A defendant protection lost by omission.**
+
+**NEW TEXT — SEC. 10(d), new final sentence:**
+
+> In any proceeding for contempt of an order under this subsection where the conduct also constitutes
+> a violation of SEC. 5, trial shall be by the court or, upon demand of the accused, by a jury.
+
+### Operation 2 — the § 334 citation over-claims
+
+§ 334 — ✅ read 25 Aug 2026 — is *in rem*: an article "proceeded against… on **libel of information
+and condemned**," procedure conforming "as nearly as may be, to the procedure **in admiralty**," and
+"on demand of either party any issue of fact… shall be tried by jury." SEC. 10(d)(2) takes the
+thing-directed idea and none of the apparatus, while binding "any person with notice."
+
+**Functionally it is prospective and injunctive — § 332's relative, not § 334's.** Either re-cite it
+to § 332 and describe it as the injunction it is, which costs nothing; or keep the § 334 framing and
+import what makes an in rem remedy fair — a right for any person claiming an interest in the
+identified configuration to appear and contest before the suspension binds them.
+
+**And it touches the takings lane.** A remedy operating on the thing rather than on conduct sits
+closer to *Cedar Point*'s per se limb than to *Penn Central*'s regulatory one, and
+[known objections](../docs/known_objections.md) does not make that connection.
+
+**Administrative load:** none for the re-citation; an appearance procedure for the alternative.
+
+---
+
+## CURE 26 — SEC. 3(c)(4): the disapplication list, repaired against a full read of all three adopted standards
+
+*Opened 25 August 2026 from [PF-9](./pre_review_pass_2026-08-24.md), [PF-10](./pre_review_pass_2026-08-24.md)
+and [PF-11](./pre_review_pass_2026-08-24.md). Numbered 26 August 2026. **Until 25 August, two of the
+three statutes this subsection adopts had been word-searched and never read.** All three have now been
+read in full.*
+
+### Why the list was incomplete
+
+SEC. 3(c)(4) adopts three enacted statutes and disapplies an enumerated list of their features. **The
+list was drafted from the categories the drafter expected**, and a word search establishes what a
+statute lacks, not what it contains. Reading all three found four items the list did not anticipate.
+
+### Operation 1 — (C) is broader than its purpose
+
+**ANCHOR:** "(C) provisions respecting assessment or audit by a third party do not apply, and
+conformity may be documented internally, independent assessment being at the entity's election."
+
+Illinois § 10(a)(5) and N.Y. § 1421(1)(e) require the framework to describe how the developer
+approaches "using third parties to assess the potential for catastrophic risks"; Illinois § 10(c)(2)(C)
+and N.Y. § 1421(3)(b)(iii) require the transparency report to summarise "the extent to which
+third-party evaluators were involved." **None is a mandate to be audited. All are transparency about
+the developer's own practice**, and (C) on its face takes them.
+
+**NEW TEXT — replacing (C):**
+
+> (C) provisions requiring assessment or audit by a third party do not apply, independent assessment
+> being at the entity's election and conformity being documentable internally; but provisions
+> requiring an entity to state whether, and to what extent, third-party assessment was used **do**
+> apply, and are performed as subparagraph (B) provides.
+
+**The Guidelight control assessment of 18 August 2026** found third-party review among the weakest
+dimensions across all five frontier developers while four of five participated in METR's Frontier Risk
+Report voluntarily. **The disclosure is the part doing work, and (C) removes it along with the
+mandate.**
+
+### Operation 2 — (D) deletes the capability and keeps the report
+
+**ANCHOR:** "(D) provisions respecting incident reporting… are not adopted, those subjects being
+governed from the effective date by SEC. 9, SEC. 10, and SEC. 11 of this Act."
+
+Illinois § 10(a)(8) and N.Y. § 1421(1)(h) require the framework to address "identifying and responding
+to critical safety incidents." **That is a capability requirement owed inward, not a reporting
+provision.** Read broadly, (D) removes it, leaving SEC. 9's duty to tell the Agency with nothing
+anywhere requiring the developer to be able to identify or respond.
+
+**NEW TEXT — appended to (D):**
+
+> provided that provisions requiring a frontier AI framework to address the identification of, and
+> response to, critical safety incidents are adopted and are not incident-reporting provisions for
+> the purposes of this subparagraph.
+
+### Operation 3 — three standards, no conflict rule
+
+Illinois § 10(c)(3) requires transparency summaries "in a **machine-readable format**"; New York has
+no such requirement. N.Y. § 1421(4) carries a duty not to make "a materially false or misleading
+statement about its **implementation of, or compliance with, its frontier AI framework**" and, at
+(4)(b), a defence for a statement "made **in good faith and was reasonable under the circumstances**";
+Illinois § 10 carries neither. California is a third text again.
+
+**(E) credits conformity documented for any one of them. It does not say what happens where they
+diverge**, so it is currently unanswerable whether a developer gets New York's good-faith defence or
+owes Illinois' format.
+
+**NEW TEXT — new subparagraph (F):**
+
+> (F) where the adopted provisions differ, the interim standards operate cumulatively, each duty
+> applying according to its terms; a defense or exception stated in one adopted provision applies only
+> to a duty arising under that provision.
+
+**This is a maintainer choice, not a repair, and the alternative deserves argument**: several
+operation, where conformity with any one enactment suffices, is simpler and weaker.
+
+### Operation 4 — the import nobody has reconciled
+
+N.Y. § 1421(4)(a)(ii) is **SEC. 8's false-certification offense as a substantive duty owed by the
+entity, with no signatory.** The Act adopts it and then builds SEC. 8 above it without noticing.
+**No text is proposed here.** Whether the two are one duty described twice or two duties with
+different obligors changes what a certification means, and it belongs to the enforcement seat.
+
+**And § 1421(4)(b)'s good-faith-and-reasonableness defence sits directly beside SEC. 8's "after
+reasonable inquiry."** [Known objections](../docs/known_objections.md) reports that the Act "picks
+neither" on whether asking a safety team is reasonable inquiry. **On this reading it may have picked,
+by adoption, without saying so** — which is the answer to
+[the open question](../docs/known_objections.md) that section has been holding since August.
+
+**Administrative load:** Operation 1 restores a disclosure line to intake. Operation 3 is a
+construction rule and costs nothing.

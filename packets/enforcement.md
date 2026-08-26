@@ -229,8 +229,66 @@ this Act carries at SEC. 9(a). Neither settles the preemption cost recorded abov
 limb still widens the § 121(b) surface, and belongs in the SEC. 13(b)(3) tier); both strip the
 question of its "no one regulates the testing room" premise.
 
-**Status: open. For the enforcement, criminal-law and federalism lanes jointly. The single most
-important item in this queue.**
+### Maintainer ruling, 25 August 2026 — the item splits, and only half of it was ever a federalism question
+
+*A ruling, not a finding, and it is recorded as one. It follows the precedent of CURE 19's wording
+and CURE 23's restoration: the maintainer decides, says so, and writes underneath what a seat could
+still overturn. **No reviewer has seen this.***
+
+**The amendment above has two limbs and they carry completely different risk.**
+
+> **(i)** evaluation of "a covered frontier model **that is deployed, released, or made available in
+> or into this State**"
+>
+> **(ii)** "**or that** the person conducting or commissioning the evaluation **intends** so to
+> deploy, release, or make available"
+
+**Limb (ii) is the whole of the extraterritoriality problem** this entry was held for. Duties on
+conduct abroad, keyed to an intention, is exactly what READ FIRST item 5 reserves for a federalism
+litigator, and exactly what SEC. 13's preemption posture and the dormant-commerce defense rest on.
+
+**Limb (i) extends the Act's reach by nothing at all.** The model is already deployed here; SEC. 1(c)
+already subjects its developer to this Act as to that system. Limb (i) says only that duties attach
+to the *evaluation* of a system the Act already reaches, as well as to its deployment. There is no
+new person, no new state, no new jurisdictional theory. **It was held for a reason that applies to
+its other half.**
+
+**And the reason it matters is that limb (i) keys to the model, not the configuration.** This entry
+records that SEC. 3(b) compounds the gap because an evaluation configuration "is by definition not
+the validated commercial one." Limb (i) does not care: it reaches evaluation of a covered frontier
+**model** that is deployed here, whatever configuration the evaluation runs it in. That is the
+sentence that closes the safeguards-disabled hole.
+
+**Checked against the record, incident by incident, 25 August 2026.**
+
+| Incident | Model deployed or released in-state? | Reached by limb (i)? |
+|---|---|---|
+| **Anthropic ×3** — third-party evaluator, Tel Aviv | Yes, commercially deployed | **Yes** — and the commissioning sentence attaches the duty to Anthropic |
+| **Meta ×1** — same evaluator environment | Yes, open weights released | **Yes**, on the same footing |
+| **OpenAI ×1** — developer's own sandbox | Yes | Already inside the Act |
+| **AISI ×1** — UK, "an open-weight frontier model running on its own infrastructure" | Yes, weights released | **No** |
+
+**Five of six. Not six.** The AISI incident is not a jurisdictional gap and limb (ii) would not close
+it either. **Nobody in the developer's chain made any decision about that evaluation**: an
+independent national institute obtained released weights and ran them on its own hardware, on its own
+initiative. There was no deployment decision to be careless about and no evaluation to commission.
+**That is a limit of the responsible-officer theory itself, not of this Act's drafting**, and it
+should be said in those terms rather than left to be discovered — see SEC. 1(b)(9), where duties in
+connection with a release "are limited to those capable of performance before the release."
+
+**Ruled:** limb (i) **lands into v3.5** as drafted, conformed at SEC. 1(c), placed in the
+SEC. 13(b)(3) severance tier with the developer-capacity duties. Limb (ii) **remains open**, for the
+federalism seat, on the reasoning this entry already gives.
+
+**What a seat may still overturn, and should be told it may.** That limb (i) is jurisdictionally
+neutral is the maintainer's reading and nobody has tested it: an evaluation conducted abroad, of a
+model deployed here, by a person who deploys here, may still present an extraterritoriality question
+this ruling treats as settled. **If it does, the ruling is wrong and the whole item goes back to
+held.** And the drafting is unreviewed: "conducted or commissioned" carries the entire weight of who
+answers, and no criminal-law seat has read it.
+
+**Status: half landed by ruling, half open. Limb (ii) is for the federalism lane. The single most
+important item in this queue, and now the most important half of it.**
 
 ---
 
@@ -379,6 +437,15 @@ Limb (ii) is drafted to the victim-disclosed-first fact and gives the entity a d
 connect its own system rather than an open-ended forensic window. Limb (iii) removes the perverse
 incentive by measuring against the standard rather than the entity's own certification.
 
+**Added 25 August 2026 — this cure and [CURE 15](../audit/v3_5_cure_language.md#cure-15--sec-3c2-a-disclose-and-cure-valve-because-the-text-currently-punishes-candor)
+are the same defect facing opposite ways, and neither said so.** CURE 15 repairs a text in which
+candor about **nonconformity** supplies the notice element of a felony. This cure repairs a text in
+which candor about **missing monitoring** shortens the clock the entity is measured by. Through
+SEC. 8 and SEC. 9 the Act therefore punishes one kind of honesty and rewards the other, and it does
+so because both routes run evidentiary consequences through documents the defendant writes. **Fixing
+either one alone leaves the asymmetry standing.** See
+[which way each provision moves](../docs/which_way_it_moves.md).
+
 **Operation 2 — notice to the people whose systems were breached.** Every duty in SEC. 9 runs to the
 Agency; SEC. 9(c) confirms a report "is not required to be published"; SEC. 12 then seals it.
 **There is no duty anywhere in the Act to tell the person whose production database was read.**
@@ -487,6 +554,135 @@ footnote 8.
 **Administrative load:** none.
 
 ---
+## CURE 25 — SEC. 10(d): the FDCA remedies are cited and their protections are not taken
+
+*Opened 25 August 2026 from [PF-8](../audit/pre_review_pass_2026-08-24.md), on reading 21 U.S.C. §§ 332 and
+334 in the primary. Numbered 26 August 2026.*
+
+### Operation 1 — the jury the source supplies in exactly this case
+
+SEC. 10(d)(2) provides that operation of a suspended configuration by a person with notice "is
+**contempt and a violation of SEC. 5(a)**." That double character is the precise case
+21 U.S.C. § 332(b) legislates for — ✅ read 25 Aug 2026:
+
+> "In case of violation of an injunction or restraining order issued under this section, **which also
+> constitutes a violation of this chapter**, trial shall be by the court, or, **upon demand of the
+> accused, by a jury**."
+
+**The Act cites § 332 for the injunction and drops § 332(b).** Ordinary law supplies a jury only where
+the contempt sentence is serious; § 332(b) supplies it by statute whenever the two characters
+overlap. **A defendant protection lost by omission.**
+
+**NEW TEXT — SEC. 10(d), new final sentence:**
+
+> In any proceeding for contempt of an order under this subsection where the conduct also constitutes
+> a violation of SEC. 5, trial shall be by the court or, upon demand of the accused, by a jury.
+
+### Operation 2 — the § 334 citation over-claims
+
+§ 334 — ✅ read 25 Aug 2026 — is *in rem*: an article "proceeded against… on **libel of information
+and condemned**," procedure conforming "as nearly as may be, to the procedure **in admiralty**," and
+"on demand of either party any issue of fact… shall be tried by jury." SEC. 10(d)(2) takes the
+thing-directed idea and none of the apparatus, while binding "any person with notice."
+
+**Functionally it is prospective and injunctive — § 332's relative, not § 334's.** Either re-cite it
+to § 332 and describe it as the injunction it is, which costs nothing; or keep the § 334 framing and
+import what makes an in rem remedy fair — a right for any person claiming an interest in the
+identified configuration to appear and contest before the suspension binds them.
+
+**And it touches the takings lane.** A remedy operating on the thing rather than on conduct sits
+closer to *Cedar Point*'s per se limb than to *Penn Central*'s regulatory one, and
+[known objections](../docs/known_objections.md) does not make that connection.
+
+**Administrative load:** none for the re-citation; an appearance procedure for the alternative.
+## CURE 26 — SEC. 3(c)(4): the disapplication list, repaired against a full read of all three adopted standards
+
+*Opened 25 August 2026 from [PF-9](../audit/pre_review_pass_2026-08-24.md), [PF-10](../audit/pre_review_pass_2026-08-24.md)
+and [PF-11](../audit/pre_review_pass_2026-08-24.md). Numbered 26 August 2026. **Until 25 August, two of the
+three statutes this subsection adopts had been word-searched and never read.** All three have now been
+read in full.*
+
+### Why the list was incomplete
+
+SEC. 3(c)(4) adopts three enacted statutes and disapplies an enumerated list of their features. **The
+list was drafted from the categories the drafter expected**, and a word search establishes what a
+statute lacks, not what it contains. Reading all three found four items the list did not anticipate.
+
+### Operation 1 — (C) is broader than its purpose
+
+**ANCHOR:** "(C) provisions respecting assessment or audit by a third party do not apply, and
+conformity may be documented internally, independent assessment being at the entity's election."
+
+Illinois § 10(a)(5) and N.Y. § 1421(1)(e) require the framework to describe how the developer
+approaches "using third parties to assess the potential for catastrophic risks"; Illinois § 10(c)(2)(C)
+and N.Y. § 1421(3)(b)(iii) require the transparency report to summarise "the extent to which
+third-party evaluators were involved." **None is a mandate to be audited. All are transparency about
+the developer's own practice**, and (C) on its face takes them.
+
+**NEW TEXT — replacing (C):**
+
+> (C) provisions requiring assessment or audit by a third party do not apply, independent assessment
+> being at the entity's election and conformity being documentable internally; but provisions
+> requiring an entity to state whether, and to what extent, third-party assessment was used **do**
+> apply, and are performed as subparagraph (B) provides.
+
+**The Guidelight control assessment of 18 August 2026** found third-party review among the weakest
+dimensions across all five frontier developers while four of five participated in METR's Frontier Risk
+Report voluntarily. **The disclosure is the part doing work, and (C) removes it along with the
+mandate.**
+
+### Operation 2 — (D) deletes the capability and keeps the report
+
+**ANCHOR:** "(D) provisions respecting incident reporting… are not adopted, those subjects being
+governed from the effective date by SEC. 9, SEC. 10, and SEC. 11 of this Act."
+
+Illinois § 10(a)(8) and N.Y. § 1421(1)(h) require the framework to address "identifying and responding
+to critical safety incidents." **That is a capability requirement owed inward, not a reporting
+provision.** Read broadly, (D) removes it, leaving SEC. 9's duty to tell the Agency with nothing
+anywhere requiring the developer to be able to identify or respond.
+
+**NEW TEXT — appended to (D):**
+
+> provided that provisions requiring a frontier AI framework to address the identification of, and
+> response to, critical safety incidents are adopted and are not incident-reporting provisions for
+> the purposes of this subparagraph.
+
+### Operation 3 — three standards, no conflict rule
+
+Illinois § 10(c)(3) requires transparency summaries "in a **machine-readable format**"; New York has
+no such requirement. N.Y. § 1421(4) carries a duty not to make "a materially false or misleading
+statement about its **implementation of, or compliance with, its frontier AI framework**" and, at
+(4)(b), a defence for a statement "made **in good faith and was reasonable under the circumstances**";
+Illinois § 10 carries neither. California is a third text again.
+
+**(E) credits conformity documented for any one of them. It does not say what happens where they
+diverge**, so it is currently unanswerable whether a developer gets New York's good-faith defence or
+owes Illinois' format.
+
+**NEW TEXT — new subparagraph (F):**
+
+> (F) where the adopted provisions differ, the interim standards operate cumulatively, each duty
+> applying according to its terms; a defense or exception stated in one adopted provision applies only
+> to a duty arising under that provision.
+
+**This is a maintainer choice, not a repair, and the alternative deserves argument**: several
+operation, where conformity with any one enactment suffices, is simpler and weaker.
+
+### Operation 4 — the import nobody has reconciled
+
+N.Y. § 1421(4)(a)(ii) is **SEC. 8's false-certification offense as a substantive duty owed by the
+entity, with no signatory.** The Act adopts it and then builds SEC. 8 above it without noticing.
+**No text is proposed here.** Whether the two are one duty described twice or two duties with
+different obligors changes what a certification means, and it belongs to the enforcement seat.
+
+**And § 1421(4)(b)'s good-faith-and-reasonableness defence sits directly beside SEC. 8's "after
+reasonable inquiry."** [Known objections](../docs/known_objections.md) reports that the Act "picks
+neither" on whether asking a safety team is reasonable inquiry. **On this reading it may have picked,
+by adoption, without saying so** — which is the answer to
+[the open question](../docs/known_objections.md) that section has been holding since August.
+
+**Administrative load:** Operation 1 restores a disclosure line to intake. Operation 3 is a
+construction rule and costs nothing.
 
 *From the queue's fatals pass, same file — the witness and the second class:*
 

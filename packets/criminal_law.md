@@ -644,6 +644,105 @@ First Circuit or the Third on knowledge of the permit requirement, which here me
 SEC. 5 applied at all.
 
 ---
+## CURE 24 — SEC. 8: the certification's lower tier names a mental state SEC. 6(a) does not require
+
+*Opened 25 August 2026 from [PF-7](../audit/pre_review_pass_2026-08-24.md), on reading 18 U.S.C. § 1350 and
+33 U.S.C. § 1319(c) in the primary. Numbered 26 August 2026.*
+
+### The defect
+
+**ANCHOR (SEC. 8, closing sentence, verbatim):** "Knowing false certification is an offense under
+SEC. 6(b)(1); **reckless certification without reasonable inquiry** is an offense under SEC. 6(a)."
+
+SEC. 6(a)'s element is that the person "failed to exercise due care," measured against "the conduct
+of a reasonably prudent controlling person in like circumstances." **That is negligence.** SEC. 8
+advertises recklessness, which is higher. A certification made negligently without reasonable
+inquiry satisfies SEC. 6(a) while SEC. 8 says it does not.
+
+**It is a fair-notice defect in the one provision the Act exists to make a natural person sign.**
+
+### What the models actually say
+
+**18 U.S.C. § 1350 — ✅ read in full 25 Aug 2026 — has no tier below knowledge.** (c)(1): "knowing"
+— \$1,000,000 / 10 years. (c)(2): "willfully… knowing" — \$5,000,000 / 20 years. An executive who
+certifies without adequate inquiry, not knowing the report is non-compliant, commits no offense
+under it. **So § 1350 cannot be the donor of SEC. 8's second limb, and the Act names no other.**
+
+**33 U.S.C. § 1319(c) — ✅ read in full 25 Aug 2026 — is the donor.** (c)(1) punishes one who
+"**negligently** violates," imprisonment not more than one year on a first conviction; (c)(6)
+provides that for the whole of subsection (c) "the term 'person' **means**, in addition to the
+definition contained in section 1362(5), **any responsible corporate officer**." **Federal law has
+imposed criminal liability on a responsible corporate officer for merely negligent violation, at the
+misdemeanor level, since 1987.** That is SEC. 6(a) limb for limb, including SEC. 10(b)'s one-year
+ceiling.
+
+### Operation 1 — the tagged text, one clause
+
+**NEW TEXT — replacing SEC. 8's closing sentence:**
+
+> Knowing false certification is an offense under SEC. 6(b)(1); certification without reasonable
+> inquiry is an offense under SEC. 6(a), which requires proof of the failure of due care described in
+> that subsection.
+
+### Operation 2 — the companion, one citation
+
+n.8 defends SEC. 8 from § 1350 by argument from practice — its maxima are three to six times this
+Act's base felony tier, and "executives have signed under harsher terms every quarter since 2002."
+**That argument reaches the ceiling and is silent on the floor.** The note should carry
+§ 1319(c)(1) with (c)(6) as the second model, and *United States v. Hanousek*, 176 F.3d 1116, 1120–21
+(9th Cir. 1999) ⚠ for the holding that ordinary negligence suffices.
+
+**And it takes the sting out of *Ahmad*.** *Ahmad* refuses public-welfare treatment to CWA discharges
+because they are "felonies punishable by years in federal prison." **§ 1319(c)(1) is a misdemeanor.**
+Whatever *Ahmad* does to a felony tier it does not reach a one-year negligence offense, which makes
+SEC. 6(a) the least exposed part of the federal analogy rather than the most.
+
+**The alternative a reviewer should weigh and this cure rejects:** raise SEC. 6(a) to the recklessness
+SEC. 8 advertises. That buys the § 1350 analogy and abandons the negligence floor *DeCoster* says
+*Park* supplies — trading a defensible doctrine for a defensible analogy.
+
+**Administrative load:** none.
+## CURE 25 — SEC. 10(d): the FDCA remedies are cited and their protections are not taken
+
+*Opened 25 August 2026 from [PF-8](../audit/pre_review_pass_2026-08-24.md), on reading 21 U.S.C. §§ 332 and
+334 in the primary. Numbered 26 August 2026.*
+
+### Operation 1 — the jury the source supplies in exactly this case
+
+SEC. 10(d)(2) provides that operation of a suspended configuration by a person with notice "is
+**contempt and a violation of SEC. 5(a)**." That double character is the precise case
+21 U.S.C. § 332(b) legislates for — ✅ read 25 Aug 2026:
+
+> "In case of violation of an injunction or restraining order issued under this section, **which also
+> constitutes a violation of this chapter**, trial shall be by the court, or, **upon demand of the
+> accused, by a jury**."
+
+**The Act cites § 332 for the injunction and drops § 332(b).** Ordinary law supplies a jury only where
+the contempt sentence is serious; § 332(b) supplies it by statute whenever the two characters
+overlap. **A defendant protection lost by omission.**
+
+**NEW TEXT — SEC. 10(d), new final sentence:**
+
+> In any proceeding for contempt of an order under this subsection where the conduct also constitutes
+> a violation of SEC. 5, trial shall be by the court or, upon demand of the accused, by a jury.
+
+### Operation 2 — the § 334 citation over-claims
+
+§ 334 — ✅ read 25 Aug 2026 — is *in rem*: an article "proceeded against… on **libel of information
+and condemned**," procedure conforming "as nearly as may be, to the procedure **in admiralty**," and
+"on demand of either party any issue of fact… shall be tried by jury." SEC. 10(d)(2) takes the
+thing-directed idea and none of the apparatus, while binding "any person with notice."
+
+**Functionally it is prospective and injunctive — § 332's relative, not § 334's.** Either re-cite it
+to § 332 and describe it as the injunction it is, which costs nothing; or keep the § 334 framing and
+import what makes an in rem remedy fair — a right for any person claiming an interest in the
+identified configuration to appear and contest before the suspension binds them.
+
+**And it touches the takings lane.** A remedy operating on the thing rather than on conduct sits
+closer to *Cedar Point*'s per se limb than to *Penn Central*'s regulatory one, and
+[known objections](../docs/known_objections.md) does not make that connection.
+
+**Administrative load:** none for the re-citation; an appearance procedure for the alternative.
 
 ## Addendum — the criminal lane's missing shelf, 25 August 2026
 

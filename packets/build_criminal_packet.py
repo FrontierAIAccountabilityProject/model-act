@@ -62,6 +62,11 @@ dougherty = section(queue, "**To CURE 8 (SEC. 6(a) reconstructed)", ["\n\n**To "
 # the sweep addendum of 25 Aug is this lane's own account of why. Both were written after
 # this builder was, and a packet that claims to be the whole lane must carry them (E38).
 cure22 = section(queue, "## CURE 22 —", ["\n## CURE ", "\n## COMPANION NOTE"])
+# Added 26 Aug 2026. CURE 24 is SEC. 8's mens rea against its two federal models and CURE 25
+# is the contempt jury at SEC. 10(d); both are this lane's and both post-date this builder.
+# E38: a packet that claims the whole lane owes the lane's new material.
+cure24 = section(queue, "## CURE 24 —", ["\n## CURE ", "\n## COMPANION NOTE", "\n---\n"])
+cure25 = section(queue, "## CURE 25 —", ["\n## CURE ", "\n## COMPANION NOTE", "\n---\n"])
 addendum = section(sweep, "## Addendum — the criminal lane's missing shelf", ["\n## "])
 
 parts = [
@@ -129,6 +134,8 @@ candidate finding — verifying or refuting one is a complete finding for the di
     relink(cure8),
     "\n*The knowledge-element repair to the above, opened 25 August after a vocabulary audit found\nthe case law this lane was missing:*\n\n",
     relink(cure22),
+    relink(cure24),
+    relink(cure25),
     "\n",
     relink(addendum),
     "\n*From the queue's fatals pass, same file — the state-court cross-check:*\n\n",

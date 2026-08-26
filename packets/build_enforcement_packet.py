@@ -61,6 +61,10 @@ cure10 = section(queue, "## CURE 10 —", ["\n## CURE 11"])
 cure14 = section(queue, "## CURE 14 —", ["\n## CURE 15"])
 cure15 = section(queue, "## CURE 15 —", ["\n## CURE 16"])
 cure16 = section(queue, "## CURE 16 —", ["\n## CURE 5"])
+# Added 26 Aug 2026: CURE 25 (the contempt jury at SEC. 10(d)) and CURE 26 (the SEC. 3(c)(4)
+# disapplication list, repaired against a full read of all three adopted interim standards).
+cure25 = section(queue, "## CURE 25 —", ["\n## CURE ", "\n## COMPANION NOTE", "\n---\n"])
+cure26 = section(queue, "## CURE 26 —", ["\n## CURE ", "\n## COMPANION NOTE", "\n---\n"])
 
 oq4_colorado = section(queue, "**To OPEN QUESTION 4 —", ["\n\n**To ", "\n\n**Tennessee", "\n\n### "])
 select_agent = section(queue, "**To CURE 10 (interim controls)", ["\n\n**To ", "\n\n### "])
@@ -162,6 +166,8 @@ because the answer to it changes what the five repairs are worth.*
     relink(cure15_donor),
     "\n",
     relink(cure16),
+    relink(cure25),
+    relink(cure26),
     "\n*From the queue's fatals pass, same file — the witness and the second class:*\n\n",
     relink(cure16_donor_1),
     "\n",

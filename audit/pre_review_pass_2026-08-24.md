@@ -217,6 +217,8 @@ under attacks.
 **Administrative load:** none. One sentence in SEC. 8, or one clause in SEC. 6(a); on the amended
 reading, a citation added to the companion and nothing in the tagged text at all.
 
+*Resolved 26 August 2026: numbered **CURE 24**; language transplanted to [the queue](./v3_5_cure_language.md).*
+
 ## PF-8 · CURE candidate — SEC. 10(d) cites two FDCA remedies and takes the protections of neither
 
 *Found 25 August 2026 by reading 21 U.S.C. §§ 332 and 334 in the primary, continuing the statutory
@@ -263,6 +265,8 @@ on the thing rather than on conduct. That connection is not made anywhere in thi
 takings section should carry it.
 
 **Administrative load:** none for option one. Option two adds an appearance procedure.
+
+*Resolved 26 August 2026: numbered **CURE 25**; language transplanted to [the queue](./v3_5_cure_language.md).*
 
 ## PF-9 · The Act's operative content for its first four years rests on two statutes nobody has read
 
@@ -405,6 +409,8 @@ findable by word search**, because each is a duty the disapplication list did no
 than a word the census was looking for. **New York's § 1421 has not had this read**, and on this
 evidence it should have it before anything else in the repository.
 
+*Resolved 26 August 2026: numbered **CURE 26** (with PF-11); language transplanted to [the queue](./v3_5_cure_language.md).*
+
 ## PF-11 · New York § 1421 read in full. PF-9's queue is now empty, and the Act adopts three duties, a defence and a permission it never mentions
 
 *Read 25 August 2026 from the enacted chapter text pinned at
@@ -454,7 +460,20 @@ certifying person's knowledge **after reasonable inquiry**" and SEC. 6(a)'s due-
 whether reliance on a safety team is reasonable inquiry. **It may have picked, by adoption, without
 saying so.**
 
-### Four — a redaction right whose survival is unresolved, and it lands on the takings lane
+### Four — WITHDRAWN the same day: [CURE 23](./v3_5_cure_language.md) already owns this
+
+**This finding was written without reading CURE 23, which was drafted earlier on 25 August and
+resolves it.** CURE 23 takes the identical redaction subdivision from California
+(§ 22757.12(f) — the same text as N.Y. § 1421(5)), states in terms that "**This Act already adopted
+that subdivision and then disapplied it**," identifies SEC. 3(c)(4)(B) as "the only reason it does
+not operate," and drafts the repair. The two readings offered below were already resolved in favour
+of the second, with a fix.
+
+**Recorded rather than deleted, because it is the eighth time in two days that a finding announced
+here was already in the register** ([E49](../ledger/errata.md) is the rule). The material below
+stands only as the New York confirmation that California's subdivision has a twin.
+
+### Four (as written, superseded) — a redaction right whose survival is unresolved
 
 **§ 1421(5)** permits redaction "necessary to protect such frontier developer's trade secrets, such
 frontier developer's cybersecurity, public safety, or the national security of the United States,"
@@ -499,3 +518,5 @@ strictest governs) or severally (conformity with any one suffices).
 ---
 
 *PF-9 is discharged. The Act's operative content for years 0–4 has now been read in full.*
+
+*Resolved 26 August 2026: numbered **CURE 26** (with PF-10); language transplanted to [the queue](./v3_5_cure_language.md).*
