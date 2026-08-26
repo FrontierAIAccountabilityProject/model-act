@@ -1433,19 +1433,15 @@ conscious decision to violate the law."
 **Neither sentence appears.** The opinion discusses "a conscious decision to prioritize profits over
 compliance," which is a different proposition.
 
-> ⚠ **Corrected 26 August 2026, on reading the opinion in the document rather than in a retrieval
-> reply.** The court's words are "a conscious decision to prioritize profits over **legal**
-> compliance" — this entry dropped "legal," which is [E48](#e48--a-published-quotation-with-two-words-the-court-did-not-write-and-both-were-ours)'s rule broken inside the register that
-> exists to record breaking it. And the sentence does not stop there. In full, at slip op. 2: **"The
-> Massey Claim asserts that Walmart did not comply with the Controlled Substances Act and the DEA
-> Settlement because its officers and directors made a conscious decision to prioritize profits over
-> legal compliance, thereby choosing to violate the law."** **The fabricated quotation was built out
-> of this one sentence's two halves** — "conscious decision" from the first, "violate the law" from
-> the last four words — which is a more useful account of how it happened than "the sentence does not
-> appear." Two further things this entry could not have known: the sentence is **the court describing
-> the plaintiffs' claim, not holding anything**, so even the real words cannot be cited as the court's
-> proposition; and there are **two opinions in this case**, so which one this entry read is now a live
-> question. See [E59](#e59--two-opinions-two-weeks-apart-under-one-case-number-and-a-date-i-confirmed-from-three-sources-that-the-document-contradicts).
+> ⛔ **THIS ENTRY'S *WALTON* FINDING IS WITHDRAWN, 26 August 2026.** Both quotations it declared
+> fabricated are **verbatim in the opinion**. They are in the **26 April 2023 demand-futility
+> opinion**, at slip op. 76 and slip op. 77–78; this entry checked the **12 April 2023 laches
+> opinion**, which is a different document under the same case number. See
+> [E60](#e60--the-registers-most-cited-fabrication-finding-was-itself-wrong-and-a-real-quotation-was-deleted-on-the-strength-of-it).
+> An earlier note added here the same morning, reading the laches opinion and explaining how the
+> "fabrication" had been assembled from a sentence at slip op. 2, is withdrawn with it: it was a
+> plausible reconstruction of something that never happened. **The *In re TransUnion* finding in this
+> entry is untouched and stands** — it has not been re-checked and nothing here casts doubt on it.
 
 ### The one that was misquoted
 
@@ -2147,3 +2143,85 @@ direction: a first search of the document for that passage returned **zero hits*
 like proof the quotation was invented. The passage was there. The search failed because the text
 wraps mid-phrase across two lines and the document uses curly quotation marks. **A grep that returns
 nothing is evidence about the grep.**
+
+---
+
+## E60 — the register's most-cited fabrication finding was itself wrong, and a real quotation was deleted on the strength of it
+
+**Status: found 26 August 2026 on reading the second of two opinions. The correction runs the
+opposite way from every other entry in this register: something true was removed as false.**
+
+**What [E46](#e46--two-quotations-published-this-afternoon-are-not-in-the-opinions-they-were-attributed-to)
+said.** That two sentences published in `docs/known_objections.md` and attributed to *Ontario
+Provincial Council of Carpenters' Pension Trust Fund v. Walton*, 294 A.3d 65, 90, 92 (Del. Ch. 2023)
+"do not appear" in the opinion. The passage was removed and replaced with a sentence saying Delaware
+has **not** squarely decided the question.
+
+**What the opinion says.** Both sentences are there, word for word.
+
+At **slip op. 76**:
+
+> "When directors make a business decision that **carries legal risk, but which otherwise involves
+> legally compliant conduct,** then the business judgment rule protects that decision."
+
+At **slip op. 77–78**, across a page break:
+
+> "In the former case, the directors can make a business judgment to pursue the project. In the
+> latter case, the decision to pursue the project **would constitute a conscious decision to violate
+> the law, the business judgment rule would not apply, and the directors would be acting in bad
+> faith.**"
+
+**The published sentence quoted both correctly.** Nothing was invented.
+
+### How a correct quotation got deleted as a fabrication
+
+**C.A. No. 2021-0827-JTL produced two opinions two weeks apart** — a **laches** opinion on 12 April
+2023, 64 pages, and a **demand-futility memorandum opinion** on 26 April 2023, 123 pages. E46's check
+was run against the first. **Neither sentence is in the laches opinion, and both are in the other
+one.** Nothing in the retrieval, in the case name, in the citation, or in three secondary sources
+that describe "the" opinion said there was a choice to be made. [E59](#e59--two-opinions-two-weeks-apart-under-one-case-number-and-a-date-i-confirmed-from-three-sources-that-the-document-contradicts) records the discovery that
+there are two; this entry is what that discovery cost going backwards.
+
+### What it cost
+
+A published answer to the objection a governance lawyer raises first — *can the business judgment
+rule be raised against this Act?* — was **replaced with "that question is open"** and a note blaming
+the project's own fabricated citation. For a day, this repository told reviewers it had asserted
+something on the strength of quotations nobody wrote, when it had quoted a Delaware Vice Chancellor
+accurately and pincited him correctly.
+
+**And the deterrent effect is the worse half.** *Walton* was flagged in the table of authorities as
+the case carrying two fabricated quotations, with a standing instruction that nothing be attributed
+to it. That instruction was wrong and it was the loudest instruction in the row.
+
+### The rule
+
+**E60 — a finding that a quotation is absent is a claim about a document, and it names the document
+or it means nothing. "Not in the opinion" requires knowing which opinion, and how many there are.
+Absence is only ever provable against a specific text; it is never provable against a case.**
+
+**The asymmetry that makes this rule matter.** A false positive — publishing a quotation that turns
+out to be invented — is caught by the next person who reads the source. **A false negative is not
+caught by anything**, because the quotation has been deleted and nobody re-checks a sentence that is
+no longer there. This one surfaced only because an unrelated question about a date sent someone to
+the other opinion.
+
+### Two searches that returned nothing and meant nothing
+
+Both quotations were initially reported absent from the 26 April opinion too, by grep, before being
+found by eye. **"carries legal risk"** matched only because the phrase happens not to wrap; the
+longer sentence returned **zero hits** because it **spans a page break**, with a page number and two
+blank lines sitting inside it. Earlier the same day the *Philip Morris* passage returned zero hits
+because it wraps mid-phrase and uses curly quotation marks.
+
+**Three false negatives from three different causes in one session.** [E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication) says a source without
+pagination cannot confirm a page. This is its inverse: **pagination inside a text file breaks the
+sentences it paginates**, and a search over extracted text is searching a document that has had
+furniture inserted into it.
+
+### What is not fixed
+
+The **reporter pincites 90 and 92 are still unconfirmed.** The copy now held carries **slip pages,
+not Atlantic Reporter pages**, and slip-to-reporter offsets are not computable — the two data points
+available happen to differ by sixteen, which is a coincidence and not a mapping. Under E47 this copy
+confirms the quotations and cannot confirm the pages.

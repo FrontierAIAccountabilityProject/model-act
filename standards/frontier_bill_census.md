@@ -437,7 +437,7 @@ quoted, so it is the row that most needs it.**
 ### IDAHO — S 1297 — Conversational AI Safety Act
 
 **Status:** **enacted**, signed 31 Mar 2026, Session Law ch. 249; effective **1 July 2027** ·
-**Session:** 2026 · **Checked:** 21 Aug 2026 · **Source:** engrossed/enrolled text, Idaho
+**Session:** 2026 · **Checked:** 21 Aug 2026 · ✅ **Primary now held on the shelf, 26 Aug 2026** — the engrossed print, "SENATE BILL NO. 1297, As Amended, BY STATE AFFAIRS COMMITTEE," 3 pp., from the Idaho legislature's own site, which refused a machine on the same day. **Held, not yet read through.** · **Source:** engrossed/enrolled text, Idaho
 Legislature
 
 **First finding: this is not a frontier bill.** It regulates public-facing chatbots. *Frontier*,

@@ -817,10 +817,34 @@ opinion, 25 August 2026.*
 floor.** A rule that presumes good faith in a considered decision does not presume it in a decision
 to proceed unlawfully.
 
-**What Delaware has not squarely said — and we looked — is that the rule can never be raised
-against a duty imposed by a statute outside the DGCL.** That question is open. This section
-previously asserted the opposite on the strength of two quotations that are not in the opinions
-they were attributed to; see [E46](../ledger/errata.md).
+**And Delaware says where the line falls, in a sentence this section carried, deleted in error, and
+now restores.** *Ontario Provincial Council of Carpenters' Pension Trust Fund v. Walton*,
+C.A. No. 2021-0827-JTL (Del. Ch. 26 Apr. 2023) (Laster, V.C.) — ✅ **read in the opinion 26 August
+2026**, at slip op. 76 and slip op. 77–78:
+
+> "When directors make a business decision that **carries legal risk, but which otherwise involves
+> legally compliant conduct,** then the business judgment rule protects that decision."
+
+> "In the former case, the directors can make a business judgment to pursue the project. In the
+> latter case, the decision to pursue the project **would constitute a conscious decision to violate
+> the law, the business judgment rule would not apply, and the directors would be acting in bad
+> faith.**"
+
+**That is the line drawn exactly where this Act needs it drawn.** A decision that carries legal risk
+is protected; a decision to proceed unlawfully is not a business judgment at all.
+
+⚠ **The provenance of this passage is worth more than the passage.** It was published on 25 August,
+withdrawn the same day as fabricated, and restored on 26 August on reading the opinion. **The
+withdrawal was the error.** C.A. 2021-0827-JTL produced two opinions two weeks apart, and the check
+that found the sentences "absent" was run against the other one. See
+[E60](../ledger/errata.md).
+
+⚠ **Pincite not confirmed.** The copy held carries slip pages, not Atlantic Reporter pages, so the
+published *294 A.3d 65, 90, 92* remains unverified ([E47](../ledger/errata.md)). The quotations are
+verified; the page numbers are not.
+
+**What Delaware still has not squarely said — and we looked — is that the rule can never be raised
+against a duty imposed by a statute outside the DGCL.** That question remains open.
 
 **And the direction of travel runs the same way.** *Marchand v. Barnhill* (Del. 18 June 2019) (Strine, C.J.), at slip op. 31, held that
 "the board must make a good faith effort — i.e., **try** — to put in place a reasonable
@@ -842,9 +866,11 @@ exculpation, which by its terms reaches "monetary damages for breach of fiduciar
 anything to say about a duty imposed by a statute outside the DGCL. **We have found no case
 deciding it.** If a governance seat can, that is a finding.
 
-⚠ **Read-status, stated so this section is not mistaken for more than it is.** Every quotation above
-was obtained through a retrieval reply and **has not been checked against the reporters**. *Caremark*,
-*Stone*, *Marchand*, *McDonald's*, *TransUnion*, *Walton* and *Massey* are all on the retrieval list.
+⚠ **Read-status, stated so this section is not mistaken for more than it is.** *Stone*, *Massey*,
+*Marchand*, *McDonald's* and now *Walton* have been read in the opinions; **their pincites are slip-opinion
+pages, and none has been confirmed against a reporter print.** *Caremark* is held and unread. **The
+*In re TransUnion* sentence removed by [E46](../ledger/errata.md) stays removed** — it has not been
+re-checked, and nothing in the *Walton* correction bears on it.
 Under [E22](../ledger/errata.md) nothing here may be described as verified, and no outreach may cite
 it as settled, until the opinions are read.
 
