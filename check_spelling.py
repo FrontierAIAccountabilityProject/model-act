@@ -375,6 +375,11 @@ def convert_text(text, path):
 
 def main():
     changed_files = 0; total = 0; review = []; tally = {}; known = 0; skipped = []
+    # Where, not just what. A report that says "19 substitutions across 4 files"
+    # and does not name the four is the same defect E50 found in the seal branch:
+    # it is actionable-looking and not actionable. per_file is always collected
+    # and always printed; there is no flag to forget to pass.
+    per_file = []
     for root, dirs, files in os.walk("."):
         dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
         for fn in sorted(files):
@@ -392,10 +397,16 @@ def main():
             if touched and APPLY: open(path, "w", encoding="utf-8").write(new_text)
             if touched:
                 changed_files += 1
+                per_file.append((path, len(hits),
+                                 sorted({w.lower() for w, _ in hits})))
     print(f"{'APPLIED' if APPLY else 'DRY RUN'}: {total} substitutions across {changed_files} files")
     print("\nby word:")
     for k, v in sorted(tally.items(), key=lambda x: -x[1]):
         print(f"  {v:5d}  {k}")
+    if per_file:
+        print("\nby file:")
+        for path, n, words in sorted(per_file, key=lambda x: -x[1]):
+            print("  %5d  %-48s %s" % (n, path, ", ".join(words)))
     print("\nfiles skipped as self-declared sealed: " + ", ".join(skipped))
 
     if UNSEALED:

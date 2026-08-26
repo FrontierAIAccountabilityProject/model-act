@@ -37,7 +37,7 @@ proved.
 | The statute | **611 lines, 32 sections**, tagged v3.4, with an **11,000-word** section-by-section companion |
 | The repository | **104 documents, more than 375,000 words**, mirrored as a searchable site |
 | The drafting record | **more than 460 commits**; every version's redline preserved; **16 cures** adopted verbatim at v3.4 and **26 more plus 4 open questions** drafted and waiting for v3.5 |
-| Corrections | A numbered, append-only **errata register: 37 entries**, numbers reaching E50, each with the cause, what caught it, the fix, and the rule kept |
+| Corrections | A numbered, append-only **errata register: 39 entries**, numbers reaching E52, each with the cause, what caught it, the fix, and the rule kept |
 | Sources | A **verification record of more than 200 rows** — every instrument, its retrieval date, its grade, and, in its own section, the claims that **failed** verification and were withdrawn |
 | The evidence shelf | **137 files** held privately, including **24 primary bills** and **13 congressional hearings** read against their own text |
 | Review | **Eight lanes**, each with a printable packet assembled by a committed script from the repository's own files |

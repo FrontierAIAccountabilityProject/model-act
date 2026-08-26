@@ -1649,3 +1649,136 @@ protects nothing on a broken marker's say-so.
 **Not fixed, and it is a maintainer question.** The BEGIN marker at line 7 is still unterminated.
 Closing it requires deciding where the merged content ends, and the honest answer may be that a
 register appended to daily was never sealed content in the first place and the marker should go.
+
+---
+
+## E51 — a pincite copied from a citing case, from the wrong one of its four citations
+
+**Status: published in `audit/v3_5_cure_language.md` and its packet since 26 August 2026; corrected
+the same day on reading the cited case.**
+
+**The claim.** CURE 24 wrote that *Hanousek* holds the CWA's criminal provisions to be public
+welfare legislation, "resting on *United States v. Weitzenhoff*, 35 F.3d 1275, **1283**
+(9th Cir. 1993)."
+
+**The source.** *Hanousek* cites *Weitzenhoff* four times, at three different pages. At **1283**, for
+the standard of review: "presents a question of statutory interpretation, which we review de novo.
+See *United States v. Weitzenhoff*, 35 F.3d 1275, 1283 (9th Cir.1993)." At **1282-83**, for the facts
+of the case. At **1286**, for the sentence actually wanted: "The criminal provisions of the CWA
+constitute public welfare legislation. See *Weitzenhoff*, 35 F.3d at 1286." And at **1286 n.7**, for
+the penalty argument.
+
+**What went wrong.** The pincite was lifted from the first of the four, because it was the first one
+a search returned, and attached to the proposition carried by the third. **1283 is a real page of a
+real case cited for a real proposition. It is not this proposition's page.** Nothing in the form of
+the citation showed the defect: the reporter is right, the volume is right, the case is right, the
+year is right, and the number is a page the citing court genuinely wrote down.
+
+**The fix.** 1283 corrected to 1286 in the cure language and in `packets/criminal_law.md`, with the
+*Weitzenhoff* row rewritten from the opinion itself.
+
+### The rule
+
+**E51 — a pincite borrowed from a citing case is a claim about that case's citation, not about the
+source. Before taking it, find the citing court's own sentence and confirm it states the proposition
+you are about to attach the number to. A case cited more than once has more than one page, and only
+one of them is yours.**
+
+This is [E47](#e47--three-page-numbers-from-a-source-that-has-no-page-numbers-caught-before-publication)'s sibling. E47 says a
+source without pagination can confirm a quotation and never a pincite. E51 says a source *with*
+pagination can confirm the wrong one.
+
+### And the second-order defect, which is the more expensive of the two
+
+**The file that would have settled this was on the shelf, correctly retrieved, and labeled as
+useless.** It was saved on 26 August as
+`RECORD_9Cir_US-v-Weitzenhoff_35-F3d-1275_amended-opinion_PARTIAL-star-pagination.pdf`. The copy in
+fact carries **continuous star pagination from \*1279 to \*1299**. The label came from a check that
+found the first marker, `\*1279`, and did not ask whether there were more.
+
+**Then the label traveled.** A retrieval brief issued that morning recorded *Weitzenhoff* as "only
+one star marker (\*1279) - not enough to settle pincites at 1283 or 1286," and the repository
+proceeded on that basis for a day, including in the sentence this erratum corrects. **A warning label
+is a claim.** It was written by the same process that writes the claims it warns about, and it was
+never checked by the process that checks them.
+
+**Both defects have the same shape**: a search returned a first hit and the first hit was treated as
+the whole answer. E51's checkable form is therefore one question, asked twice - *is this the only
+one?*
+
+### What the corrected read produced, and it is larger than the correction
+
+*Weitzenhoff* at **1286 n.7** holds that *Staples* "refrains from holding that public welfare offenses
+may not be punished as felonies," which is the answer to *Ahmad*, the objection the lane sweep had
+recorded as unanswerable. **The finding was one page away from a citation this repository had
+published, and the wrong page number is what kept it there.**
+
+---
+
+## E52 — a quotation made a row stop being a row, and the sweep counted it as absent
+
+**Status: found the same hour it was created, on 26 August 2026. Both checkers repaired.**
+
+**What happened.** The *Weitzenhoff* row was written into
+`standards/table_of_authorities.md` carrying a citation exactly as the reporter prints it:
+`"511 U.S. at ----, 114 S.Ct. at 1804"`. The four hyphens are the West convention for a U.S. Reports
+page that had not issued when the opinion went to print, and [E48](#e48--a-published-quotation-with-two-words-the-court-did-not-write-and-both-were-ours)
+requires them to be reproduced rather than tidied away.
+
+**`check_citations.py` decided the row was a table separator and skipped it.** The test was:
+
+```python
+elif line.startswith("| ") and "---" not in line and not line.startswith("| Authority"):
+```
+
+Three hyphens anywhere in a row disqualified it. The row was therefore **not counted among the
+rows, not listed, and its flags were not counted in the standing debt.** The sweep printed
+`rows in the table ...... 150` while the file held 151, and reported a debt of 22 against a true 23.
+`check_claims.py` carried the same idiom for the state-of-play table.
+
+**How it was caught, and this is the only reason it was.** The row was expected to appear in the
+debt list and did not. Nothing in the output said a row had been dropped; the numbers were simply
+smaller, and a smaller debt figure looks like progress. **Had the row not been one whose absence was
+being watched for, this would have been a silent undercount of the repository's own reading debt.**
+
+**The repair.** A separator row is now identified by what it actually is - a row whose every cell
+consists only of hyphens, colons and space:
+
+```python
+_SEP_CELL = re.compile(r"^[\s:-]+$")
+
+def is_separator_row(line):
+    cells = [c for c in line.strip().strip("|").split("|")]
+    return bool(cells) and all(_SEP_CELL.match(c) for c in cells)
+```
+
+Applied in both checkers. The sweep now reads 151 rows and 22 flagged, the second figure having also
+been corrected by the second defect below.
+
+### The rule
+
+**E52 — a structural test written against a substring is a test against content. Markdown structure
+is positional, and a checker that infers it from characters will be defeated the first time a
+quotation contains those characters. Test the shape, not the spelling.**
+
+This is the third member of the family [E50](#e50--the-spelling-sweep-erased-the-erratum-that-records-the-spelling-sweep-erasing-things)
+opened: **a silent skip and a clean pass are indistinguishable in the output.** E50's seal ran to end
+of file, E51's label was believed because nobody asked whether the first hit was the only one, and
+E52's row vanished into a count that went down. All three were invisible in a report that said
+nothing was wrong.
+
+### And the second defect in the same row, which is a repeat offense
+
+The *Weitzenhoff* row was written with **three ⚠ markers used as annotation** - one flagging an
+unavailable pincite, one introducing the dissent, one introducing a correction - on a row whose
+reading is complete. `check_citations.py` counts any row containing ⚠ as unread, so the row would
+have declared itself unread the moment it became visible.
+
+**This is the same mistake made three times in two days.** It was made on the § 3663A row, caught;
+made again on both interim-standard rows, and reported to the maintainer as a debt of 22 when the
+truth was 19; and made a third time here. The markers are removed and the row's residual debt now
+lives where it belongs - on the *Staples* row, which is genuinely unread.
+
+**⚠ in this table is a read-status flag and has no other meaning.** It is not emphasis, not a
+caution, and not a way to point at something. If a read row needs to say something urgent, it says
+it in bold.

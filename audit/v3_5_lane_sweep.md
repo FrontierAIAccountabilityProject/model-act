@@ -413,8 +413,24 @@ the discharges were pollutants." Responsibility replaces the act element, not th
 because they are "felonies punishable by years in federal prison." Training and deploying a model is
 ordinary commercial activity. **If a court took that view, the public-welfare framing would not
 carry SEC. 6(b) at all**, and the felony tier would need a conventional mens rea rather than a
-relaxed one. That is a sharper attack than anything this sweep produced, and nobody in-house can
-settle it.
+relaxed one. That is a sharper attack than anything this sweep produced.
+
+**Answered 26 August 2026, and the sentence above overstated the difficulty.** ✅ *United States v.
+Weitzenhoff*, 35 F.3d 1275, 1286 n.7 (9th Cir. 1993) (as amended 8 Aug. 1994), read in the amended
+opinion in a star-paginated copy: "While the *Staples* opinion expresses concern with this evolution
+of enhanced punishments for public welfare offenses, **it refrains from holding that public welfare
+offenses may not be punished as felonies**." *Ahmad*'s argument is that *Staples* settled the point;
+the Ninth Circuit reads the same passage as expressly refusing to. *Hanousek*, 176 F.3d 1116,
+1122 n.4, then rejects the penalty argument by name. **What survives is a circuit split, which a
+state legislature can be told about, and not an unanswerable objection.** The full-strength version
+of the objection is the five-judge dissent from rehearing en banc in *Weitzenhoff* at 1293–1299, and
+the criminal-law seat should be handed that rather than *Ahmad*'s summary of it. See
+[CURE 22](./v3_5_cure_language.md) and [CURE 24](./v3_5_cure_language.md).
+
+**And the method point this correction earns.** "Nobody in-house can settle it" was written about a
+case whose answer was one citation away inside a case the repository already held. **The sentence
+should have read: nobody in-house has *read* enough to settle it.** Those are different claims, and
+only one of them is checkable.
 
 **The method point, which belongs here rather than in the cure.** The five lanes did not find this,
 because none of the five was asked *what a specialist would look for and fail to find*. Asking what

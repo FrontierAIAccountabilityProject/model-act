@@ -105,6 +105,20 @@ def captions(text):
         if not any(k.endswith(c) for k in keep): keep.add(c)
     return keep
 
+# A markdown table's separator row is one whose every cell is made only of
+# hyphens, colons and space. The old test was `"---" not in line`, which throws
+# away any DATA row that happens to contain three hyphens — and on 26 August 2026
+# it threw away exactly one: the *Weitzenhoff* row, because the reporter prints
+# an unissued U.S. Reports page as "511 U.S. at ----" and the row quotes it
+# verbatim. The row was invisible to this sweep: not counted, not listed, its
+# three ⚠ flags absent from the standing debt. A quotation made a row stop being
+# a row. See E52.
+_SEP_CELL = re.compile(r"^[\s:-]+$")
+
+def is_separator_row(line):
+    cells = [c for c in line.strip().strip("|").split("|")]
+    return bool(cells) and all(_SEP_CELL.match(c) for c in cells)
+
 def main():
     show_all = "--all" in sys.argv
     files = md_files()
@@ -113,7 +127,7 @@ def main():
     toa_rows, unread, section = [], [], None
     for line in toa_text.split("\n"):
         if line.startswith(("## ", "### ")): section = line.strip("# ").strip()
-        elif line.startswith("| ") and "---" not in line and not line.startswith("| Authority"):
+        elif line.startswith("| ") and not is_separator_row(line) and not line.startswith("| Authority"):
             toa_rows.append((section, line))
             if "⚠" in line: unread.append((section, line))
     toa_caps = captions(toa_text)

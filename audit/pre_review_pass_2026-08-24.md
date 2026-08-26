@@ -214,7 +214,7 @@ SEC. 6(a) the least vulnerable part of the whole federal analogy rather than the
 **The irony worth recording.** This repository already held *Hanousek* — as an **objection**, in the
 criminal lane, beside *Ahmad*, for Justice Thomas's complaint that the CWA reaches "persons using
 standard equipment to engage in a broad range of ordinary industrial and commercial activities."
-**The same provision Thomas criticises is the precedent SEC. 6(a) needed.** We had the answer filed
+**The same provision Thomas criticizes is the precedent SEC. 6(a) needed.** We had the answer filed
 under attacks.
 
 **Administrative load:** none. One sentence in SEC. 8, or one clause in SEC. 6(a); on the amended
@@ -364,7 +364,7 @@ exposed under SEC. 8 and SEC. 6(b)(1) without SEC. 2(a) doing any work at all.
 ⚠ **Stated as a question, not a finding, because it turns on a construction nobody here can settle**:
 whether "compliance with the applicable standards" in SEC. 8 reaches compliance with the framework
 the standards require you to write. **If it does, OQ4 is smaller than the repository says, and the
-paperwork route this project has been apologising for is the route.** The criminal and enforcement
+paperwork route this project has been apologizing for is the route.** The criminal and enforcement
 seats should take this before the amendment OQ4 drafts.
 
 ### Two — the Act deletes the duty to be able to respond to an incident, and keeps the duty to report one
@@ -382,7 +382,7 @@ response to incidents" — closes it.
 
 **§ 10(a)(5)** requires the framework to describe how the developer approaches "using third parties to
 assess the potential for catastrophic risks"; **§ 10(c)(2)(C)** requires the transparency report to
-summarise "the extent to which third-party evaluators were involved."
+summarize "the extent to which third-party evaluators were involved."
 
 **Neither is a mandate to be audited. Both are transparency about the developer's own practice.**
 SEC. 3(c)(4)(C) disapplies "provisions respecting assessment or audit by a third party," which on its
@@ -414,7 +414,7 @@ evidence it should have it before anything else in the repository.
 
 *Resolved 26 August 2026: numbered **CURE 26** (with PF-11); language transplanted to [the queue](./v3_5_cure_language.md).*
 
-## PF-11 · New York § 1421 read in full. PF-9's queue is now empty, and the Act adopts three duties, a defence and a permission it never mentions
+## PF-11 · New York § 1421 read in full. PF-9's queue is now empty, and the Act adopts three duties, a defense and a permission it never mentions
 
 *Read 25 August 2026 from the enacted chapter text pinned at
 `raise-officer-certification/research/raise_act_s8828_chapter_96_2026.txt`. **This is the reading the
@@ -450,13 +450,13 @@ Whether SEC. 8's personal certification and § 1421(4)(a)(ii)'s entity duty are 
 described twice is a question for the enforcement seat, and the answer changes what a certification
 means.
 
-### Three — a good-faith defence the Act imports and never mentions
+### Three — a good-faith defense the Act imports and never mentions
 
 **§ 1421(4)(b)**: "This subdivision shall not apply to a statement that was made **in good faith and
 was reasonable under the circumstances**."
 
 Not a penalty, not enforcement, not reporting: **it is adopted with the duty it qualifies.** So the
-interim standards carry a good-faith-and-reasonableness defence to the false-statement duty, and
+interim standards carry a good-faith-and-reasonableness defense to the false-statement duty, and
 nothing in this Act refers to it. It sits directly beside SEC. 8's "statements of fact within the
 certifying person's knowledge **after reasonable inquiry**" and SEC. 6(a)'s due-care element, and
 [known objections](../docs/known_objections.md) currently reports that the Act "picks neither" on
@@ -469,7 +469,7 @@ saying so.**
 resolves it.** CURE 23 takes the identical redaction subdivision from California
 (§ 22757.12(f) — the same text as N.Y. § 1421(5)), states in terms that "**This Act already adopted
 that subdivision and then disapplied it**," identifies SEC. 3(c)(4)(B) as "the only reason it does
-not operate," and drafts the repair. The two readings offered below were already resolved in favour
+not operate," and drafts the repair. The two readings offered below were already resolved in favor
 of the second, with a fix.
 
 **Recorded rather than deleted, because it is the eighth time in two days that a finding announced
@@ -505,13 +505,13 @@ period is adopted text and the two are never set beside each other.
 ### Five — three standards, no conflict rule
 
 Illinois § 10(c)(3) requires transparency summaries "in a **machine-readable format**"; New York has
-no such requirement. New York § 1421(4) and (5) carry a false-statement duty, a good-faith defence
+no such requirement. New York § 1421(4) and (5) carry a false-statement duty, a good-faith defense
 and a redaction regime; Illinois § 10 carries none of them. California is a third text again.
 
 **SEC. 3(c)(4) adopts all three as "the interim standards" and provides no rule for what happens where
 they diverge.** (E) credits conformity documented for any one of them "to the extent of the matters
 documented," which addresses crediting and not conflict. **So it is currently unanswerable whether a
-developer measured against the interim standards gets New York's good-faith defence, or owes Illinois'
+developer measured against the interim standards gets New York's good-faith defense, or owes Illinois'
 machine-readable format, or both, or neither.**
 
 **That is the largest unanswered question in SEC. 3(c)(4) and it was invisible until all three were

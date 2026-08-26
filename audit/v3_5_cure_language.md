@@ -1931,11 +1931,43 @@ industrial and commercial activities."
 sharper than the knowledge objection this cure was opened to answer. Training and deploying a model
 is ordinary commercial activity. If a court took *Ahmad*'s view, the public-welfare label would not
 carry SEC. 6(b) at all, and the tier would need a conventional mens rea of its own rather than a
-relaxed one. **No one in-house can settle that. It is the criminal-law seat's question and it
-belongs at the top of that seat's list.**
+relaxed one.
 
 ⚠ Both quoted from the CRS report *Enforcement of Federal Pollution Control Laws*, not from the
 reporters. E22 governs.
+
+**The answer, added 26 August 2026 on reading the case *Ahmad* argues against.** ✅ *United States v.
+Weitzenhoff*, 35 F.3d 1275, 1286 n.7 (9th Cir. 1993) (as amended 8 Aug. 1994), read in the amended
+opinion in a star-paginated copy:
+
+> "While the *Staples* opinion expresses concern with this evolution of enhanced punishments for
+> public welfare offenses, **it refrains from holding that public welfare offenses may not be
+> punished as felonies**."
+
+*Ahmad* treats *Staples* as having settled that a felony cannot be a public welfare offense.
+*Weitzenhoff* reads the same passage as declining to settle it, and quotes the Court saying so:
+"[w]e need not adopt such a definitive rule of construction to decide this case." *Hanousek*,
+176 F.3d 1116, 1122 n.4 (9th Cir. 1999), then rejects the penalty argument by name — "this argument
+was rejected in *Weitzenhoff*."
+
+**But the objection should be read at full strength, and its full strength is not in *Ahmad*.** It is
+in the dissent from the order rejecting rehearing en banc in *Weitzenhoff* itself, at 1293–1299,
+where Kleinfeld, J., joined by Reinhardt, Kozinski, Trott and T.G. Nelson, JJ., wrote:
+
+> "We have now made felons of a large number of innocent people doing socially valuable work. They
+> are innocent, because the one thing which makes their conduct felonious is something they do not
+> know."
+
+and, in the sentence this project will meet in its own hearings:
+
+> "If they knew they risk three years in prison, some might decide that their pay, though sufficient
+> inducement for processing the public's wastes, is not enough to risk prison for doing their jobs."
+
+**Five federal appellate judges stated the chilling-effect objection to this Act's own architecture,
+about sewage plant operators, in 1994.** Whoever takes the criminal-law seat should be handed that
+paragraph rather than *Ahmad*'s summary of it. **What the seat's question now is:** not "can a felony
+be a public welfare offense" — a circuit has answered that twice — but whether SEC. 6(b)'s knowledge
+element is enough to keep this Act on the panel's side of the line rather than the dissent's.
 
 **Administrative load:** none. Element and evidence provisions only.
 
@@ -2120,18 +2152,57 @@ independent sources and held in the working library** — for the holding:
 > person who acts with **ordinary negligence** in violating 33 U.S.C. § 1321(b)(3) may be subject to
 > criminal penalties."
 
-⚠ Pincites remain unconfirmed: no source located carries reporter star pagination ([E47](../ledger/errata.md)).
+✅ **Pincites confirmed 26 August 2026 against the West reporter print**, 176 F.3d 1116–1126, held
+in the working library: the holding at **1121**, and a second, differently worded statement of it in
+the CONCLUSION at **1126** — "may be **subjected** to criminal penalties" — which anyone quoting must
+not conflate with the 1121 sentence.
 
 ### What the read produced beyond the holding, and it is larger than this cure
 
 **One. There is a circuit split on the question the criminal lane calls unanswerable, and this
 project has been citing only one side of it.** *Hanousek* holds, twice, that "**The criminal
 provisions of the CWA constitute public welfare legislation**," resting on *United States v.
-Weitzenhoff*, 35 F.3d 1275, 1283 (9th Cir. 1993). *Ahmad* holds the opposite — that CWA discharges
+Weitzenhoff*, 35 F.3d 1275, **1286** (9th Cir. 1993). *Ahmad* holds the opposite — that CWA discharges
 are **not** public welfare offenses, because they are "felonies punishable by years in federal
 prison." **The lane sweep records *Ahmad* as the sharpest attack available and says nobody in-house
-can settle it.** It can be answered, by a case this repository already held and had filed under
-objections. *Weitzenhoff* is now a flagged row and is the next retrieval.
+can settle it.**
+
+**A court has settled it, and the case was already on the shelf.** ✅ *Weitzenhoff* read in the
+amended opinion 26 August 2026, in a copy carrying continuous star pagination 1279–1299. At
+**1286 n.7**, verbatim:
+
+> "While the *Staples* opinion expresses concern with this evolution of enhanced punishments for
+> public welfare offenses, **it refrains from holding that public welfare offenses may not be
+> punished as felonies**."
+
+**That is *Ahmad*'s premise refused at its source.** *Ahmad* reads *Staples* as forbidding
+public-welfare treatment of felonies. *Weitzenhoff* reads the same passage of *Staples* as expressly
+declining to adopt that rule, quoting the Court: "[w]e need not adopt such a definitive rule of
+construction to decide this case." The same footnote lists three public welfare offenses already
+punished as felonies — *International Minerals* (ten years where death or injury results), *Freed*,
+401 U.S. 601, 609–10 (five years for an unregistered grenade), and *Hoflin*, 880 F.2d 1033 (two
+years under RCRA).
+
+**And *Hanousek* rejects the penalty argument by name**, at 176 F.3d 1122 n.4: Hanousek argued that
+"the harsh penalties that may be imposed for violations of § 1319(c)(1) are another indication that
+the law of 'public welfare' offenses should not be applicable," and the court answered in one line —
+"this argument was rejected in *Weitzenhoff*," citing 35 F.3d at 1286 n.7.
+
+⚠ **Two limits on that quotation, both recorded rather than smoothed over.** The inner words are
+**Hanousek's brief, quoted by the court**, not the court's own; only the eight-word answer is the
+Ninth Circuit speaking. And both scans of the West print carry a stray hyphen at a line break
+("penalties- that"), which is removed here as a typesetting artifact and not as an elision
+([E48](../ledger/errata.md)).
+
+**One point of chronology that makes this stronger than it looks.** The entire *Staples* discussion,
+footnote 7 included, was **added by the 8 August 1994 order amending the opinion**. The original at
+1 F.3d 1523 was filed before *Staples* came down. So this is not a court brushing past a new Supreme
+Court case; it is a panel reopening its own opinion to answer one.
+
+**The honest limit, and it is the reason this stays a lane question.** *Weitzenhoff* is a Ninth
+Circuit footnote reading a Supreme Court reservation. It defeats the claim that *Staples* has
+already decided the question. It does not decide the question. A state court in a Fifth Circuit
+state has *Ahmad* to follow and nothing in this Act to stop it.
 
 **Two. The due process answer is broader than SEC. 6(a) and the Act has never stated it.** Verbatim:
 
@@ -2239,7 +2310,7 @@ conformity may be documented internally, independent assessment being at the ent
 
 Illinois § 10(a)(5) and N.Y. § 1421(1)(e) require the framework to describe how the developer
 approaches "using third parties to assess the potential for catastrophic risks"; Illinois § 10(c)(2)(C)
-and N.Y. § 1421(3)(b)(iii) require the transparency report to summarise "the extent to which
+and N.Y. § 1421(3)(b)(iii) require the transparency report to summarize "the extent to which
 third-party evaluators were involved." **None is a mandate to be audited. All are transparency about
 the developer's own practice**, and (C) on its face takes them.
 
@@ -2276,11 +2347,11 @@ anywhere requiring the developer to be able to identify or respond.
 Illinois § 10(c)(3) requires transparency summaries "in a **machine-readable format**"; New York has
 no such requirement. N.Y. § 1421(4) carries a duty not to make "a materially false or misleading
 statement about its **implementation of, or compliance with, its frontier AI framework**" and, at
-(4)(b), a defence for a statement "made **in good faith and was reasonable under the circumstances**";
+(4)(b), a defense for a statement "made **in good faith and was reasonable under the circumstances**";
 Illinois § 10 carries neither. California is a third text again.
 
 **(E) credits conformity documented for any one of them. It does not say what happens where they
-diverge**, so it is currently unanswerable whether a developer gets New York's good-faith defence or
+diverge**, so it is currently unanswerable whether a developer gets New York's good-faith defense or
 owes Illinois' format.
 
 **NEW TEXT — new subparagraph (F):**
@@ -2299,7 +2370,7 @@ entity, with no signatory.** The Act adopts it and then builds SEC. 8 above it w
 **No text is proposed here.** Whether the two are one duty described twice or two duties with
 different obligors changes what a certification means, and it belongs to the enforcement seat.
 
-**And § 1421(4)(b)'s good-faith-and-reasonableness defence sits directly beside SEC. 8's "after
+**And § 1421(4)(b)'s good-faith-and-reasonableness defense sits directly beside SEC. 8's "after
 reasonable inquiry."** [Known objections](../docs/known_objections.md) reports that the Act "picks
 neither" on whether asking a safety team is reasonable inquiry. **On this reading it may have picked,
 by adoption, without saying so** — which is the answer to

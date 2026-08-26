@@ -615,7 +615,7 @@ conformity may be documented internally, independent assessment being at the ent
 
 Illinois § 10(a)(5) and N.Y. § 1421(1)(e) require the framework to describe how the developer
 approaches "using third parties to assess the potential for catastrophic risks"; Illinois § 10(c)(2)(C)
-and N.Y. § 1421(3)(b)(iii) require the transparency report to summarise "the extent to which
+and N.Y. § 1421(3)(b)(iii) require the transparency report to summarize "the extent to which
 third-party evaluators were involved." **None is a mandate to be audited. All are transparency about
 the developer's own practice**, and (C) on its face takes them.
 
@@ -652,11 +652,11 @@ anywhere requiring the developer to be able to identify or respond.
 Illinois § 10(c)(3) requires transparency summaries "in a **machine-readable format**"; New York has
 no such requirement. N.Y. § 1421(4) carries a duty not to make "a materially false or misleading
 statement about its **implementation of, or compliance with, its frontier AI framework**" and, at
-(4)(b), a defence for a statement "made **in good faith and was reasonable under the circumstances**";
+(4)(b), a defense for a statement "made **in good faith and was reasonable under the circumstances**";
 Illinois § 10 carries neither. California is a third text again.
 
 **(E) credits conformity documented for any one of them. It does not say what happens where they
-diverge**, so it is currently unanswerable whether a developer gets New York's good-faith defence or
+diverge**, so it is currently unanswerable whether a developer gets New York's good-faith defense or
 owes Illinois' format.
 
 **NEW TEXT — new subparagraph (F):**
@@ -675,7 +675,7 @@ entity, with no signatory.** The Act adopts it and then builds SEC. 8 above it w
 **No text is proposed here.** Whether the two are one duty described twice or two duties with
 different obligors changes what a certification means, and it belongs to the enforcement seat.
 
-**And § 1421(4)(b)'s good-faith-and-reasonableness defence sits directly beside SEC. 8's "after
+**And § 1421(4)(b)'s good-faith-and-reasonableness defense sits directly beside SEC. 8's "after
 reasonable inquiry."** [Known objections](../docs/known_objections.md) reports that the Act "picks
 neither" on whether asking a safety team is reasonable inquiry. **On this reading it may have picked,
 by adoption, without saying so** — which is the answer to

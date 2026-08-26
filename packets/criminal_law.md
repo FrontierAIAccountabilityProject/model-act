@@ -629,11 +629,43 @@ industrial and commercial activities."
 sharper than the knowledge objection this cure was opened to answer. Training and deploying a model
 is ordinary commercial activity. If a court took *Ahmad*'s view, the public-welfare label would not
 carry SEC. 6(b) at all, and the tier would need a conventional mens rea of its own rather than a
-relaxed one. **No one in-house can settle that. It is the criminal-law seat's question and it
-belongs at the top of that seat's list.**
+relaxed one.
 
 ⚠ Both quoted from the CRS report *Enforcement of Federal Pollution Control Laws*, not from the
 reporters. E22 governs.
+
+**The answer, added 26 August 2026 on reading the case *Ahmad* argues against.** ✅ *United States v.
+Weitzenhoff*, 35 F.3d 1275, 1286 n.7 (9th Cir. 1993) (as amended 8 Aug. 1994), read in the amended
+opinion in a star-paginated copy:
+
+> "While the *Staples* opinion expresses concern with this evolution of enhanced punishments for
+> public welfare offenses, **it refrains from holding that public welfare offenses may not be
+> punished as felonies**."
+
+*Ahmad* treats *Staples* as having settled that a felony cannot be a public welfare offense.
+*Weitzenhoff* reads the same passage as declining to settle it, and quotes the Court saying so:
+"[w]e need not adopt such a definitive rule of construction to decide this case." *Hanousek*,
+176 F.3d 1116, 1122 n.4 (9th Cir. 1999), then rejects the penalty argument by name — "this argument
+was rejected in *Weitzenhoff*."
+
+**But the objection should be read at full strength, and its full strength is not in *Ahmad*.** It is
+in the dissent from the order rejecting rehearing en banc in *Weitzenhoff* itself, at 1293–1299,
+where Kleinfeld, J., joined by Reinhardt, Kozinski, Trott and T.G. Nelson, JJ., wrote:
+
+> "We have now made felons of a large number of innocent people doing socially valuable work. They
+> are innocent, because the one thing which makes their conduct felonious is something they do not
+> know."
+
+and, in the sentence this project will meet in its own hearings:
+
+> "If they knew they risk three years in prison, some might decide that their pay, though sufficient
+> inducement for processing the public's wastes, is not enough to risk prison for doing their jobs."
+
+**Five federal appellate judges stated the chilling-effect objection to this Act's own architecture,
+about sewage plant operators, in 1994.** Whoever takes the criminal-law seat should be handed that
+paragraph rather than *Ahmad*'s summary of it. **What the seat's question now is:** not "can a felony
+be a public welfare offense" — a circuit has answered that twice — but whether SEC. 6(b)'s knowledge
+element is enough to keep this Act on the panel's side of the line rather than the dissent's.
 
 **Administrative load:** none. Element and evidence provisions only.
 
@@ -697,18 +729,57 @@ independent sources and held in the working library** — for the holding:
 > person who acts with **ordinary negligence** in violating 33 U.S.C. § 1321(b)(3) may be subject to
 > criminal penalties."
 
-⚠ Pincites remain unconfirmed: no source located carries reporter star pagination ([E47](../ledger/errata.md)).
+✅ **Pincites confirmed 26 August 2026 against the West reporter print**, 176 F.3d 1116–1126, held
+in the working library: the holding at **1121**, and a second, differently worded statement of it in
+the CONCLUSION at **1126** — "may be **subjected** to criminal penalties" — which anyone quoting must
+not conflate with the 1121 sentence.
 
 ### What the read produced beyond the holding, and it is larger than this cure
 
 **One. There is a circuit split on the question the criminal lane calls unanswerable, and this
 project has been citing only one side of it.** *Hanousek* holds, twice, that "**The criminal
 provisions of the CWA constitute public welfare legislation**," resting on *United States v.
-Weitzenhoff*, 35 F.3d 1275, 1283 (9th Cir. 1993). *Ahmad* holds the opposite — that CWA discharges
+Weitzenhoff*, 35 F.3d 1275, **1286** (9th Cir. 1993). *Ahmad* holds the opposite — that CWA discharges
 are **not** public welfare offenses, because they are "felonies punishable by years in federal
 prison." **The lane sweep records *Ahmad* as the sharpest attack available and says nobody in-house
-can settle it.** It can be answered, by a case this repository already held and had filed under
-objections. *Weitzenhoff* is now a flagged row and is the next retrieval.
+can settle it.**
+
+**A court has settled it, and the case was already on the shelf.** ✅ *Weitzenhoff* read in the
+amended opinion 26 August 2026, in a copy carrying continuous star pagination 1279–1299. At
+**1286 n.7**, verbatim:
+
+> "While the *Staples* opinion expresses concern with this evolution of enhanced punishments for
+> public welfare offenses, **it refrains from holding that public welfare offenses may not be
+> punished as felonies**."
+
+**That is *Ahmad*'s premise refused at its source.** *Ahmad* reads *Staples* as forbidding
+public-welfare treatment of felonies. *Weitzenhoff* reads the same passage of *Staples* as expressly
+declining to adopt that rule, quoting the Court: "[w]e need not adopt such a definitive rule of
+construction to decide this case." The same footnote lists three public welfare offenses already
+punished as felonies — *International Minerals* (ten years where death or injury results), *Freed*,
+401 U.S. 601, 609–10 (five years for an unregistered grenade), and *Hoflin*, 880 F.2d 1033 (two
+years under RCRA).
+
+**And *Hanousek* rejects the penalty argument by name**, at 176 F.3d 1122 n.4: Hanousek argued that
+"the harsh penalties that may be imposed for violations of § 1319(c)(1) are another indication that
+the law of 'public welfare' offenses should not be applicable," and the court answered in one line —
+"this argument was rejected in *Weitzenhoff*," citing 35 F.3d at 1286 n.7.
+
+⚠ **Two limits on that quotation, both recorded rather than smoothed over.** The inner words are
+**Hanousek's brief, quoted by the court**, not the court's own; only the eight-word answer is the
+Ninth Circuit speaking. And both scans of the West print carry a stray hyphen at a line break
+("penalties- that"), which is removed here as a typesetting artifact and not as an elision
+([E48](../ledger/errata.md)).
+
+**One point of chronology that makes this stronger than it looks.** The entire *Staples* discussion,
+footnote 7 included, was **added by the 8 August 1994 order amending the opinion**. The original at
+1 F.3d 1523 was filed before *Staples* came down. So this is not a court brushing past a new Supreme
+Court case; it is a panel reopening its own opinion to answer one.
+
+**The honest limit, and it is the reason this stays a lane question.** *Weitzenhoff* is a Ninth
+Circuit footnote reading a Supreme Court reservation. It defeats the claim that *Staples* has
+already decided the question. It does not decide the question. A state court in a Fifth Circuit
+state has *Ahmad* to follow and nothing in this Act to stop it.
 
 **Two. The due process answer is broader than SEC. 6(a) and the Act has never stated it.** Verbatim:
 
@@ -825,8 +896,24 @@ the discharges were pollutants." Responsibility replaces the act element, not th
 because they are "felonies punishable by years in federal prison." Training and deploying a model is
 ordinary commercial activity. **If a court took that view, the public-welfare framing would not
 carry SEC. 6(b) at all**, and the felony tier would need a conventional mens rea rather than a
-relaxed one. That is a sharper attack than anything this sweep produced, and nobody in-house can
-settle it.
+relaxed one. That is a sharper attack than anything this sweep produced.
+
+**Answered 26 August 2026, and the sentence above overstated the difficulty.** ✅ *United States v.
+Weitzenhoff*, 35 F.3d 1275, 1286 n.7 (9th Cir. 1993) (as amended 8 Aug. 1994), read in the amended
+opinion in a star-paginated copy: "While the *Staples* opinion expresses concern with this evolution
+of enhanced punishments for public welfare offenses, **it refrains from holding that public welfare
+offenses may not be punished as felonies**." *Ahmad*'s argument is that *Staples* settled the point;
+the Ninth Circuit reads the same passage as expressly refusing to. *Hanousek*, 176 F.3d 1116,
+1122 n.4, then rejects the penalty argument by name. **What survives is a circuit split, which a
+state legislature can be told about, and not an unanswerable objection.** The full-strength version
+of the objection is the five-judge dissent from rehearing en banc in *Weitzenhoff* at 1293–1299, and
+the criminal-law seat should be handed that rather than *Ahmad*'s summary of it. See
+[CURE 22](../audit/v3_5_cure_language.md) and [CURE 24](../audit/v3_5_cure_language.md).
+
+**And the method point this correction earns.** "Nobody in-house can settle it" was written about a
+case whose answer was one citation away inside a case the repository already held. **The sentence
+should have read: nobody in-house has *read* enough to settle it.** Those are different claims, and
+only one of them is checkable.
 
 **The method point, which belongs here rather than in the cure.** The five lanes did not find this,
 because none of the five was asked *what a specialist would look for and fail to find*. Asking what

@@ -377,9 +377,34 @@ pass: this table listed the Virginia SB 384 substitute twice.*
 | TechCrunch, 24 Aug 2026, on the Alabama subpoena | ⚠ Secondary. Sole source for OpenAI's quoted response and for the link back to the fifteen-state letter. Not sought from OpenAI directly |
 | NOTES_Reading_Three-more-hearings-and-S1169-full_2026-08-25.md | The citation set for this batch, with the word test and the § 110 and § 114(2) quotations |
 | EVIDENCE_aisi-persona-avatar (withheld from description here) | Evidentiary artifact of the AISI incident's fake persona; never for publication |
+| RECORD_9Cir_US-v-Hanousek_176-F3d-1116_1999_WEST-REPORTER-PRINT-with-pagination.pdf | **The West reporter print, pp. 1116–1126, with real page numbers on every page. Read in full 26 Aug ✅.** The only source on the shelf that can settle an F.3d pincite. Settled *Hanousek*'s: holding at **1121**, due process and *Dotterweich* at **1122**, the roadmaster at **1119**, and a second differently worded statement of the holding in CONCLUSION at **1126** |
+| RECORD_9Cir_US-v-Hanousek_176-F3d-1116_1999_Justia.pdf + `..._CourtListener-Harvard-scan.pdf` | Two independent text copies, used to confirm the West print character for character. **Neither carries star pagination** ([E47](../ledger/errata.md)) |
+| RECORD_SCOTUS_Hanousek-v-US_No-99-323_Solicitor-General-brief-in-opposition.pdf (+ DOJ landing page; `_DUPLICATE` copy) | The United States' brief opposing certiorari. Unread |
+| RECORD_SCOTUS_Hanousek-v-US_528-US-1102_cert-denied_LII-syllabus.pdf | The cert denial, carrying Thomas, J., dissenting from denial. Read for the quoted sentence only |
+| RECORD_9Cir_US-v-Weitzenhoff_35-F3d-1275_amended-opinion_STAR-PAGINATED-1279-1299.pdf | **The amended opinion of 8 Aug. 1994, with continuous star pagination 1279–1299. Read 26 Aug ✅.** Carries the public-welfare holding at **1286**, the footnote answering *Ahmad* at **1286 n.7**, and the five-judge dissent from the order rejecting rehearing en banc at **1293–1299**. Saved that morning under `..._PARTIAL-star-pagination` on a check that found the first marker and stopped; renamed on reading ([E51](../ledger/errata.md)) |
+| RECORD_SCOTUS_US-v-Balint_258-US-250_1922_US-Reports-LoC-scan.pdf | **U.S. Reports, Library of Congress scan, pp. 250–254. Read in full 26 Aug ✅**, running-head pagination confirmed page by page; settles the 252–53 pincite |
+| RECORD_SCOTUS_Ruckelshaus-v-Monsanto_467-US-986_1984_WIPO-Lex_NO-usable-pagination.pdf | **Text read 26 Aug ✅; pincite 1003–04 still unconfirmed.** The figures that look like page markers are the dissent's own cross-references ("ante, at 1007, n. 11"), which is exactly the [E47](../ledger/errata.md) trap, walked into while checking for it. **A paginated copy is still a retrieval** |
+| RECORD_1Cir_US-v-MacDonald-Watson_933-F2d-35_1991_NO-star-pagination.pdf | **Text read 25 Aug ✅; pincites 55, 51, 52 n.15 remain the secondary source's** ([E47](../ledger/errata.md)). A paginated copy is a Tier 1 retrieval |
+| RECORD_3Cir_US-v-Johnson-and-Towers_741-F2d-662_1984_FindLaw.pdf (+ second copy) | The Third Circuit's outlier rule on knowledge of the permit requirement. **Unread** |
+| RECORD_10Cir_US-v-Iverson_No-14-8071_2016_WRONG-IVERSON-NOT-OUR-CASE.pdf | ⚠ **Not our case.** Ours is 162 F.3d 1015 (9th Cir. 1998); this is a Tenth Circuit case of the same surname, retrieved by mistake. **Kept, with the warning in the filename**, because this shelf has a demonstrated failure mode around surnames |
+| ARTICLE_Water-Law-Review_Snyder_case-note-US-v-Iverson-162-F3d-1015_1999.pdf | A 1999 case note. **Secondary; the *Iverson* opinion print is still not held** |
+| RECORD_SCOTUS_Morissette-v-US_342-US-246_1952_US-Reports-print.pdf | The public-welfare category and the bargain at 256. Held; read for the cited passage |
+| RECORD_SCOTUS_Cedar-Point-Nursery-v-Hassid_594-US-139_2021_Justia.pdf | The per se takings limb, now also CURE 25's question. **Unread** |
+| RECORD_SCOTUS_Trump-v-Slaughter_No-25-332_SLIP-OPINION_OT2025.pdf | The slip opinion, OT2025. Bears on whether SEC. 3's independent-commission Agency still travels. **Unread** |
+| RECORD_9Cir_Joffe-v-Google_11-17483_Street-View-wiretap_2013-12-27.pdf | Acquired unrequested with the criminal batch. Nothing relies on it |
 
 *Rule, from the incident that created this section: when a file cites an instrument this table does
 not carry, the citation is the defect — add the row before the reliance.*
+
+⚠ **And that rule is currently broken at scale, stated here rather than discovered later.** A
+file-by-file comparison on 26 August 2026 found **155 of the 199 PDFs on the shelf have no row in
+this table.** The fifteen rows above are the criminal-reporter batch, added because published text
+now says those cases are "held in the working library" and the rule above requires the row before
+the reliance. **The other 140 are unreconciled.** Most arrived in the three intake batches of 24–26
+August, and the section's opening promise — that the repository knows what the project holds
+without anyone opening the folder — **is false for roughly three quarters of the shelf until that
+reconciliation is done.** The library's own index (`_LIBRARY_INDEX.md`, inside the folder) is
+complete; this table is the copy that fell behind.
 
 ---
 

@@ -41,7 +41,22 @@ stat_lines  = len(statute.splitlines())
 reviewers   = read("REVIEWERS.md")
 # state-of-play rows: table lines starting with a link or bold item in that section
 sop = reviewers.split("The state of play")[1] if "The state of play" in reviewers else ""
-sop_rows    = len([l for l in sop.splitlines() if l.startswith("| ") and "---" not in l]) - 1
+# A markdown table's separator row is one whose every cell is made only of
+# hyphens, colons and space. The old test was `"---" not in line`, which throws
+# away any DATA row that happens to contain three hyphens — and on 26 August 2026
+# it threw away exactly one: the *Weitzenhoff* row, because the reporter prints
+# an unissued U.S. Reports page as "511 U.S. at ----" and the row quotes it
+# verbatim. The row was invisible to this checker: not counted, not listed, its
+# three ⚠ flags absent from the standing debt. A quotation made a row stop being
+# a row. See E52.
+_SEP_CELL = re.compile(r"^[\s:-]+$")
+
+def is_separator_row(line):
+    cells = [c for c in line.strip().strip("|").split("|")]
+    return bool(cells) and all(_SEP_CELL.match(c) for c in cells)
+
+sop_rows    = len([l for l in sop.splitlines()
+                   if l.startswith("| ") and not is_separator_row(l)]) - 1
 
 CHECKS = [
  ("errata entry count", "REVIEWERS.md", r'([\w-]+) entries under', entries,
