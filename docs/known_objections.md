@@ -642,6 +642,110 @@ decides whether SEC. 8 is a real duty or a formality. A reviewer who concludes t
 inquiry must be defined, or that reliance on a named qualified person should be an express partial
 defense with the burden on the defendant, is doing the most useful thing available in this lane.
 
+## "The veil is not the obstacle. Delegation is." — added 26 August 2026
+
+*Raised from outside the project, and it is the sharpest form of the individual-liability objection
+this page carries. It is not the same as ["She relied on her safety team"](#she-relied-on-her-safety-team--the-defense-the-act-has-not-answered--added-25-august-2026),
+which is about what a decider knew. This one says there may be no decider to reach.*
+
+### The objection
+
+Large firms have general counsel, chief safety officers, and model deployment committees — and every
+one of them is a person to whom responsibility was **formally assigned**, which is a person who is
+not the chief executive. The responsible-officer doctrine's whole premise is that the officer had the
+power to prevent the violation. **Modern corporate structure is very good at ensuring that the person
+with the power is three levels down and paid to be there.**
+
+Note what this is not. It is not piercing the corporate veil, and it is not a shell game with
+entities. It is an org chart, built in the open, by lawyers, for exactly this reason.
+
+### What the Act already does about it, and it is not nothing
+
+**SEC. 4(c)** forecloses shedding: "no appointment of a safety officer, compliance officer,
+committee, subsidiary, contractor, or other intermediary shields a person who retains such
+authority." **SEC. 4(a)** reaches authority held "directly or indirectly, individually or in concert
+with others, and through any intermediary, entity, trust, or arrangement," and closes with
+**"Substance controls over title."**
+
+**And SEC. 4(b) is the provision written for this objection.** The chief executive is a **presumed**
+controlling person "absent proof of genuine absence of practical authority."
+
+### But read the rest of SEC. 4(b), because it gives the answer back
+
+> "In any **civil** proceeding, absent proof of genuine absence of practical authority… In any
+> **criminal** proceeding, such status is **evidence from which the trier of fact may infer**
+> controlling-person status; the prosecution retains its burden on every element under SEC. 6(d)."
+
+**The presumption is civil only.** In the criminal case — the tier people mean when they ask whether
+this Act reaches a chief executive — there is no presumption, and the prosecution must prove final
+material independent authority against an org chart engineered to defeat exactly that showing.
+**That was a deliberate choice** and it is the right one on due-process grounds. It is also the
+concession the objection is pointing at, and this page should say so rather than let SEC. 4(b) be
+read as an answer it does not give in the tier that matters.
+
+### And on this element the Act is narrower than the federal doctrine it descends from
+
+*United States v. Iverson*, 162 F.3d 1015 (9th Cir. 1998) — ✅ read in the opinion 25 August 2026:
+
+> "Under the CWA, a person is a 'responsible corporate officer' if the person has authority to
+> exercise control over the corporation's activity that is causing the discharges. **There is no
+> requirement that the officer in fact exercise such authority or that the corporation expressly vest
+> a duty in the officer** to oversee the activity."
+
+SEC. 4(a) requires authority that is **final, material and independent**, and excludes by name "the
+provision of advice, analysis, or recommendation to a person holding decision authority."
+**A person the federal doctrine would reach can be outside SEC. 4.** That narrowing is defensible —
+it is what keeps the engineer with production access out — but it is spent precisely where the
+delegation objection is strongest, and no page in this repository currently notices the trade.
+
+⚠ **Open, and it belongs to the criminal-law seat.** Whether "final material independent decision
+authority" can be proved beyond reasonable doubt against a firm that has documented the opposite, and
+whether the civil presumption in SEC. 4(b) is worth having if it stops at the courtroom door.
+**Nobody in-house can settle it.**
+
+---
+
+## "So which is it — a deterrent, or a duty-and-fine regime?" — added 26 August 2026
+
+*Asked by a careful outside reader with the repository in front of them, which makes it a finding
+about this page rather than about the reader.*
+
+### The objection
+
+The project's rhetorical edge is individual criminal liability. Its operating machinery is duties,
+certifications, reporting and fines. **A reader cannot tell from the front page which one the Act is,
+and the two are very different drafting problems.**
+
+### The Act has decided, and it decided the way the federal model did
+
+**Two tiers, and the split is the whole design.**
+
+**SEC. 6(a)** — a controlling person who had the duty or the practical power to prevent, and
+**failed to exercise due care**, commits an offense. Ordinary negligence. This is the operating
+regime: it is what makes the duties real, and it carries misdemeanor-level exposure.
+
+**SEC. 6(b)** — a person who **"knowingly or wilfully"** causes, directs, conceals or materially
+facilitates a violation, or who deliberately fails to halt one after notice, or who knowingly makes a
+false certification, faces the felony penalties of SEC. 10(c). (The statute's own spelling of that word is not American; the point is [CURE 22](../audit/v3_5_cure_language.md)'s, not this page's.)
+
+**That is *Hanousek*'s shape, taken deliberately.** 33 U.S.C. § 1319(c)(1) with (c)(6) already
+imposes criminal liability on a responsible corporate officer for a **merely negligent** violation,
+at the misdemeanor level — ✅ *United States v. Hanousek*, 176 F.3d 1116, 1121 (9th Cir. 1999),
+read in the reporter print: ordinary negligence "may be subject to criminal penalties," and it does
+not violate due process. The felony tier requires knowledge, proved by ordinary means, including the
+willful-blindness route.
+
+**So: duties and a negligence floor as the operating regime; individual felony liability reserved for
+the person who knew.** Not a rhetorical edge on a fines regime, and not a jail-the-CEO statute. The
+two tiers exist because those are two different offenses committed by two different people.
+
+⚠ **The finding is that this had to be reconstructed from the statute and two cases.** No public page
+states it. `docs/03-whats-in-the-act.md` describes the provisions; nothing says *the negligence tier
+is the regime and the felony tier is the exception, and here is why.* Until it does, a careful reader
+is entitled to conclude the project has not decided.
+
+---
+
 ## "This is aimed at particular people" — attainder, and why it is not — added 25 August 2026
 
 Occasionally raised, easy to answer, and worth answering because the answer is structural rather

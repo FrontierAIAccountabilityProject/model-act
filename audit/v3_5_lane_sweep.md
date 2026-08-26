@@ -379,6 +379,29 @@ this is not a review, and nothing here may be described as one.*
 
 ---
 
+## Addendum — the delegation gap, 26 August 2026 *(criminal law / torts and design)*
+
+**Raised from outside the project and not found by any of the five lanes.** The obstacle to
+individual liability is not the corporate veil and not entity structure. It is **delegation**: large
+firms assign responsibility formally, to real people, three levels below the chief executive, and the
+responsible-officer doctrine's premise is that the officer had the power to prevent.
+
+**SEC. 4(b) is the provision written for this, and it is civil-only.** The chief executive is a
+presumed controlling person in civil proceedings; in criminal proceedings status is merely "evidence
+from which the trier of fact may infer," and the prosecution retains its burden on every element.
+**In the tier that carries prison, there is no presumption.**
+
+**And SEC. 4(a) is narrower than *Iverson*'s federal test on exactly this element** — final, material
+and independent authority, against a federal standard that requires only authority to control and
+expressly does not require that it be exercised or formally vested. The narrowing is defensible and
+it is spent where the objection is strongest.
+
+Filed as a [known objection](../docs/known_objections.md). **The question — whether final material
+independent authority can be proved beyond reasonable doubt against a firm that has documented the
+opposite — belongs to the criminal-law seat and nobody in-house can settle it.**
+
+---
+
 ## Addendum — the criminal lane's missing shelf, 25 August 2026
 
 *Not a finding of this sweep. It comes from a vocabulary audit run two days later: the
