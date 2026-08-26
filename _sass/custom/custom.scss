@@ -516,3 +516,31 @@ body, .main-content, .side-bar, .search-input, .aux-nav { font-family: $reading-
 .search-result-title { font-size: 12.5px; }
 .search-result-doc .search-result-doc-title { font-size: 12.5px; }
 .search-result-previews { font-size: 12px; color: #6b7784; }
+
+// Specificity: the theme's own rules were winning over the block above, so the
+// repository stamp stayed visible and the search box kept its border and height.
+.side-bar .aux-nav,
+.main-header .aux-nav,
+.aux-nav { display: none !important; }
+
+.main-header .search-input-wrap,
+.search-input-wrap {
+  box-shadow: none !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  height: auto !important;
+  background: transparent !important;
+}
+.main-header .search-input,
+.search-input {
+  font-size: 13px !important;
+  height: auto !important;
+  padding: 0.7rem 0 0.7rem 2rem !important;
+  background: transparent !important;
+}
+.main-header {
+  height: auto !important;
+  max-height: none !important;
+  background: #ffffff !important;
+  border-bottom: 1px solid #e8eaed !important;
+}
