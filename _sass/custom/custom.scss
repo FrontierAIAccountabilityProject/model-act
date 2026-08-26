@@ -469,3 +469,50 @@ body, .main-content, .side-bar, .search-input, .aux-nav { font-family: $reading-
   border-top: 1px solid #e8eaed;
 }
 .site-footer p { font-size: 11.5px !important; margin-bottom: 0.3rem; }
+
+
+// ── The top bar, 26 August 2026 ──────────────────────────────────────────────
+// It held a bordered search box and a boxed repository stamp, and read as theme
+// furniture rather than as part of the document. The stamp goes -- the front page
+// already names both doors in its first two lines, so the button was a third copy
+// of the same link. Search stays: on a reference set this size it is the feature,
+// and a reader looking for "willful blindness" should not have to guess a shelf.
+// What changes is that it stops announcing itself.
+
+.aux-nav { display: none; }
+
+.main-header {
+  border-bottom: 1px solid #e8eaed;
+  background: #ffffff;
+}
+.search {
+  padding: 0;
+}
+.search-input-wrap {
+  box-shadow: none;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  height: auto;
+}
+.search-input {
+  font-size: 13px;
+  padding: 0.75rem 0 0.75rem 2.1rem;
+  background: transparent;
+  border: 0;
+  color: #1f2328;
+}
+.search-input::placeholder { color: #8c959f; }
+.search-input:focus { outline: 0; box-shadow: none; }
+.search-label {
+  padding-left: 0.4rem;
+  .search-icon { color: #8c959f; }
+}
+.search-results {
+  border: 1px solid #e1e5e9;
+  box-shadow: 0 2px 8px rgba(16, 22, 26, 0.08);
+  border-radius: 2px;
+}
+.search-result-title { font-size: 12.5px; }
+.search-result-doc .search-result-doc-title { font-size: 12.5px; }
+.search-result-previews { font-size: 12px; color: #6b7784; }

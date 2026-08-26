@@ -22,16 +22,6 @@ be done in the open. Public domain: anyone may take it, change it, or build on i
 
 ---
 
-## Where to look
-
-| | |
-|---|---|
-| **The text and the reasoning** | [The Act, section by section](./act/comments.md) — what each section does and why it is written that way |
-| **What is open** | [The Worklist](./revision/worklist.md) — every open item, with what it needs and whose call it is |
-| **The objections** | [Objections](./commentary/objections.md) — every criticism made against it, with the answer given, and the ones with no answer |
-
----
-
 ## What it makes a crime
 
 Five things. A person answers for each.
@@ -87,18 +77,18 @@ Archived at CERN — DOI [10.5281/zenodo.22029795](https://doi.org/10.5281/zenod
 
 ---
 
-## The eight shelves
+## Where to look
 
-| | |
-|---|---|
-| [**The Act**](./act/index.md) | The statute, the section-by-section Comments, the draft rules, and the bracketed choices an adopting state makes |
-| [**Commentary**](./commentary/index.md) | Why it should exist — the case, the precedents, the objections, the questions asked most |
-| [**For Legislatures**](./enactment/index.md) | Fiscal note, the statute in plain English, a worked case, and the routes by which a model act reaches a floor |
-| [**Appendix**](./appendix/index.md) | What was actually checked — the bill census, the verification record, the incident record, the dossier |
-| [**Authorities**](./authorities/index.md) | Table of authorities, glossary, the adopted standards, house style |
-| [**Revision**](./revision/index.md) | The worklist, and everything proposed for v3.5 |
-| [**Corrections**](./corrections/index.md) | Every mistake found, what changed, and the drafting history |
-| [**Filed Comments**](./filed-comments/index.md) | The federal rulemaking comments this project has filed |
+| | What it holds | Start with |
+|---|---|---|
+| [**The Act**](./act/index.md) | The statute, the section-by-section Comments, the draft rules, and the bracketed choices an adopting state makes | [The Act, section by section](./act/comments.md) — what each provision does and why it is drafted that way |
+| [**Revision**](./revision/index.md) | Everything proposed for the next version, and nothing yet adopted | [The Worklist](./revision/worklist.md) — every open item, with what it needs and whose call it is |
+| [**Commentary**](./commentary/index.md) | Why it should exist — the case, the precedents, the questions asked most | [Objections](./commentary/objections.md) — every criticism made against it, the answers, and the ones with no answer |
+| [**For Legislatures**](./enactment/index.md) | What a sponsor's office needs before taking it up | [Fiscal note](./enactment/fiscal-note.md) — what the Act costs an adopting state |
+| [**Appendix**](./appendix/index.md) | What was actually checked, and what it showed | [The bill census](./appendix/bill-census.md) — every frontier AI bill in America, read one at a time |
+| [**Authorities**](./authorities/index.md) | Look-up material | [Table of authorities](./authorities/table-of-authorities.md) — every source, with whether anyone read it |
+| [**Corrections**](./corrections/index.md) | Every mistake this project has made, kept with the rule it produced | [Corrections](./corrections/corrections.md) — sixty-one entries, append-only |
+| [**Filed Comments**](./filed-comments/index.md) | Federal rulemaking comments filed by this project | [Who actually files](./filed-comments/who-files.md) |
 
 ---
 
