@@ -2386,3 +2386,66 @@ and one caption joined across an "and". Those are false positives and they are b
 **Tuning a checker until it reports zero is the failure this register spent the day recording.** A
 false positive costs somebody a look. A false negative cost this project a published claim that was
 not true, repeated three times, in two documents. **The error is left pointing toward noise.**
+
+---
+
+## E64 — a view the Supreme Court declines to adopt, published as the rule it adopted
+
+**Status: published in `standards/table_of_authorities.md` on 26 August 2026, hours before the case was
+read. Corrected on reading it.**
+
+**What was published.** That *Staples v. United States*, 511 U.S. 600, holds at **618** that serious
+felonies fall outside the public welfare offense exception "absent a clear statement from Congress
+that mens rea is not required." The line was taken from *Ahmad*, which quotes it that way, and
+recorded here as one of two pincites the case supplies.
+
+**What page 618 actually says**, read in the Library of Congress U.S. Reports print, in one
+continuous passage:
+
+> "Close adherence to the early cases described above might suggest that punishing a violation as a
+> felony is simply incompatible with the theory of the public welfare offense. **In this view,**
+> absent a clear statement from Congress that mens rea is not required, we should not apply the
+> public welfare offense rationale to interpret any statute defining a felony offense as dispensing
+> with mens rea. **But see *United States v. Balint*, 258 U. S. 250 (1922).**
+>
+> **We need not adopt such a definitive rule of construction to decide this case, however.** Instead,
+> we note only that where, as here, dispensing with mens rea would require the defendant to have
+> knowledge only of **traditionally lawful conduct**, **a severe penalty is a further factor** tending
+> to suggest that Congress did not intend to eliminate a mens rea requirement."
+
+**"In this view" opens it and "we need not adopt such a definitive rule" closes it.** The sentence is
+the *antecedent* of the reservation — the Court states a possible rule in order to decline it, and
+attaches a *But see* to its own counter-authority in the same breath.
+
+### What this does to the leading objection
+
+***Ahmad*, 101 F.3d 386, 391 quotes the declined view as though it were the holding**, and this
+project repeated it. The two sentences *Weitzenhoff* and *Ahmad* fight over turn out to be **the same
+passage on the same page**, and read whole it favours *Weitzenhoff*:
+
+- The Court **declines** the felony-incompatibility rule in terms.
+- It calls a severe penalty **"a further factor"**, not a bar. *Ahmad* treats it as decisive.
+- It cites **its own counter-authorities**: *Balint* in the text, and at **617 n.14** *State v.
+  Lindberg*, 125 Wash. 51 (1923), "applying the public welfare offense rationale to a felony."
+- And *Balint* is the case ***Hanousek* rests SEC. 6(a)'s due-process answer on**, already read and
+  held here. The Supreme Court flagged it as the answer to the felony objection thirty-two years
+  before this project independently arrived at it.
+
+**The operative trigger is not the penalty at all.** It is "where, as here, dispensing with mens rea
+would require the defendant to have knowledge only of **traditionally lawful conduct**." Owning a gun
+is traditionally lawful. **So the real question for this Act was never "can a felony be a public
+welfare offense." It is whether training and deploying a frontier model is traditionally lawful
+conduct** — a narrower question, and one a reviewer can actually answer.
+
+### The rule
+
+**E64 — a proposition a court states in order to reject it reads exactly like a proposition a court
+holds. Before quoting a sentence from an opinion, read the sentence after it.** Signals like "in this
+view", "it might be suggested", and a *But see* attached to the court's own contrary authority are
+the tell, and they are invisible in a quotation taken at second hand.
+
+**And the second-order point, which this register has now made four times in one day.** The error
+entered because the sentence arrived through *Ahmad* rather than from the reports. [E22](#e22--a-quotation-held-in-a-working-summary-is-not-a-quotation)
+says a quotation held in a working summary is not a quotation; **a quotation held in an adversary's
+brief is not a holding**, and an adversary has every reason to stop reading at the sentence that
+helps.

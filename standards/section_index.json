@@ -19819,6 +19819,15 @@
    "text": "and SEC. 9 the Act punishes honesty about the system and rewards honesty about the watching, and"
   },
   {
+   "sec": 6,
+   "sub": "(a)",
+   "cite": "SEC. 6(a)",
+   "file": "ledger/errata.md",
+   "line": 2430,
+   "kind": "erratum",
+   "text": "- And *Balint* is the case ***Hanousek* rests SEC. 6(a)'s due-process answer on**, already read and"
+  },
+  {
    "sec": 0,
    "sub": "",
    "cite": "SEC. 0",
@@ -27907,7 +27916,7 @@
    "file": "standards/section_index.md",
    "line": 23,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d714 \u00b7 `SEC. 0(a)(6)` \u00d75 \u00b7 `SEC. 0(a)(5)` \u00d74 \u00b7 `SEC. 0(a)(3)` \u00d73 \u00b7 `SEC. 0(a)(2)` \u00d73 \u00b7 `SEC. 0(a)(7)` \u00d72 \u00b7 `SEC. 0(b)` \u00d72 \u00b7 `SEC. 0(a)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d715 \u00b7 `SEC. 0(a)(6)` \u00d76 \u00b7 `SEC. 0(a)(5)` \u00d75 \u00b7 `SEC. 0(a)(3)` \u00d74 \u00b7 `SEC. 0(a)(2)` \u00d74 \u00b7 `SEC. 0(a)(7)` \u00d73 \u00b7 `SEC. 0(b)` \u00d73 \u00b7 `SEC. 0(a)` \u00d72"
   },
   {
    "sec": 0,
@@ -27916,7 +27925,7 @@
    "file": "standards/section_index.md",
    "line": 23,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d714 \u00b7 `SEC. 0(a)(6)` \u00d75 \u00b7 `SEC. 0(a)(5)` \u00d74 \u00b7 `SEC. 0(a)(3)` \u00d73 \u00b7 `SEC. 0(a)(2)` \u00d73 \u00b7 `SEC. 0(a)(7)` \u00d72 \u00b7 `SEC. 0(b)` \u00d72 \u00b7 `SEC. 0(a)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d715 \u00b7 `SEC. 0(a)(6)` \u00d76 \u00b7 `SEC. 0(a)(5)` \u00d75 \u00b7 `SEC. 0(a)(3)` \u00d74 \u00b7 `SEC. 0(a)(2)` \u00d74 \u00b7 `SEC. 0(a)(7)` \u00d73 \u00b7 `SEC. 0(b)` \u00d73 \u00b7 `SEC. 0(a)` \u00d72"
   },
   {
    "sec": 0,
@@ -27925,7 +27934,7 @@
    "file": "standards/section_index.md",
    "line": 23,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d714 \u00b7 `SEC. 0(a)(6)` \u00d75 \u00b7 `SEC. 0(a)(5)` \u00d74 \u00b7 `SEC. 0(a)(3)` \u00d73 \u00b7 `SEC. 0(a)(2)` \u00d73 \u00b7 `SEC. 0(a)(7)` \u00d72 \u00b7 `SEC. 0(b)` \u00d72 \u00b7 `SEC. 0(a)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d715 \u00b7 `SEC. 0(a)(6)` \u00d76 \u00b7 `SEC. 0(a)(5)` \u00d75 \u00b7 `SEC. 0(a)(3)` \u00d74 \u00b7 `SEC. 0(a)(2)` \u00d74 \u00b7 `SEC. 0(a)(7)` \u00d73 \u00b7 `SEC. 0(b)` \u00d73 \u00b7 `SEC. 0(a)` \u00d72"
   },
   {
    "sec": 0,
@@ -27934,7 +27943,7 @@
    "file": "standards/section_index.md",
    "line": 23,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d714 \u00b7 `SEC. 0(a)(6)` \u00d75 \u00b7 `SEC. 0(a)(5)` \u00d74 \u00b7 `SEC. 0(a)(3)` \u00d73 \u00b7 `SEC. 0(a)(2)` \u00d73 \u00b7 `SEC. 0(a)(7)` \u00d72 \u00b7 `SEC. 0(b)` \u00d72 \u00b7 `SEC. 0(a)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d715 \u00b7 `SEC. 0(a)(6)` \u00d76 \u00b7 `SEC. 0(a)(5)` \u00d75 \u00b7 `SEC. 0(a)(3)` \u00d74 \u00b7 `SEC. 0(a)(2)` \u00d74 \u00b7 `SEC. 0(a)(7)` \u00d73 \u00b7 `SEC. 0(b)` \u00d73 \u00b7 `SEC. 0(a)` \u00d72"
   },
   {
    "sec": 0,
@@ -27943,7 +27952,7 @@
    "file": "standards/section_index.md",
    "line": 23,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d714 \u00b7 `SEC. 0(a)(6)` \u00d75 \u00b7 `SEC. 0(a)(5)` \u00d74 \u00b7 `SEC. 0(a)(3)` \u00d73 \u00b7 `SEC. 0(a)(2)` \u00d73 \u00b7 `SEC. 0(a)(7)` \u00d72 \u00b7 `SEC. 0(b)` \u00d72 \u00b7 `SEC. 0(a)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d715 \u00b7 `SEC. 0(a)(6)` \u00d76 \u00b7 `SEC. 0(a)(5)` \u00d75 \u00b7 `SEC. 0(a)(3)` \u00d74 \u00b7 `SEC. 0(a)(2)` \u00d74 \u00b7 `SEC. 0(a)(7)` \u00d73 \u00b7 `SEC. 0(b)` \u00d73 \u00b7 `SEC. 0(a)` \u00d72"
   },
   {
    "sec": 0,
@@ -27952,7 +27961,7 @@
    "file": "standards/section_index.md",
    "line": 23,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d714 \u00b7 `SEC. 0(a)(6)` \u00d75 \u00b7 `SEC. 0(a)(5)` \u00d74 \u00b7 `SEC. 0(a)(3)` \u00d73 \u00b7 `SEC. 0(a)(2)` \u00d73 \u00b7 `SEC. 0(a)(7)` \u00d72 \u00b7 `SEC. 0(b)` \u00d72 \u00b7 `SEC. 0(a)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d715 \u00b7 `SEC. 0(a)(6)` \u00d76 \u00b7 `SEC. 0(a)(5)` \u00d75 \u00b7 `SEC. 0(a)(3)` \u00d74 \u00b7 `SEC. 0(a)(2)` \u00d74 \u00b7 `SEC. 0(a)(7)` \u00d73 \u00b7 `SEC. 0(b)` \u00d73 \u00b7 `SEC. 0(a)` \u00d72"
   },
   {
    "sec": 0,
@@ -27961,7 +27970,7 @@
    "file": "standards/section_index.md",
    "line": 23,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d714 \u00b7 `SEC. 0(a)(6)` \u00d75 \u00b7 `SEC. 0(a)(5)` \u00d74 \u00b7 `SEC. 0(a)(3)` \u00d73 \u00b7 `SEC. 0(a)(2)` \u00d73 \u00b7 `SEC. 0(a)(7)` \u00d72 \u00b7 `SEC. 0(b)` \u00d72 \u00b7 `SEC. 0(a)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d715 \u00b7 `SEC. 0(a)(6)` \u00d76 \u00b7 `SEC. 0(a)(5)` \u00d75 \u00b7 `SEC. 0(a)(3)` \u00d74 \u00b7 `SEC. 0(a)(2)` \u00d74 \u00b7 `SEC. 0(a)(7)` \u00d73 \u00b7 `SEC. 0(b)` \u00d73 \u00b7 `SEC. 0(a)` \u00d72"
   },
   {
    "sec": 0,
@@ -27970,491 +27979,491 @@
    "file": "standards/section_index.md",
    "line": 23,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d714 \u00b7 `SEC. 0(a)(6)` \u00d75 \u00b7 `SEC. 0(a)(5)` \u00d74 \u00b7 `SEC. 0(a)(3)` \u00d73 \u00b7 `SEC. 0(a)(2)` \u00d73 \u00b7 `SEC. 0(a)(7)` \u00d72 \u00b7 `SEC. 0(b)` \u00d72 \u00b7 `SEC. 0(a)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 0(a)(4)` \u00d715 \u00b7 `SEC. 0(a)(6)` \u00d76 \u00b7 `SEC. 0(a)(5)` \u00d75 \u00b7 `SEC. 0(a)(3)` \u00d74 \u00b7 `SEC. 0(a)(2)` \u00d74 \u00b7 `SEC. 0(a)(7)` \u00d73 \u00b7 `SEC. 0(b)` \u00d73 \u00b7 `SEC. 0(a)` \u00d72"
   },
   {
    "sec": 1,
    "sub": "",
    "cite": "SEC. 1",
    "file": "standards/section_index.md",
-   "line": 51,
+   "line": 52,
    "kind": "standard",
-   "text": "## SEC. 1 \u2014 CLASSIFICATION AND DEFINITIONS. (a) Offenses under this Act are public welfare offenses"
+   "text": "## SEC. 1 \u2014 CLASSIFICATION AND DEFINITIONS"
   },
   {
    "sec": 1,
    "sub": "(c)",
    "cite": "SEC. 1(c)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 1,
    "sub": "(b)(1)",
    "cite": "SEC. 1(b)(1)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 1,
    "sub": "(b)(3)",
    "cite": "SEC. 1(b)(3)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 1,
    "sub": "(b)(9)",
    "cite": "SEC. 1(b)(9)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 1,
    "sub": "(b)(8)",
    "cite": "SEC. 1(b)(8)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 1,
    "sub": "(b)(6)",
    "cite": "SEC. 1(b)(6)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 1,
    "sub": "(a)",
    "cite": "SEC. 1(a)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 1,
    "sub": "(b)(7)",
    "cite": "SEC. 1(b)(7)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 1,
    "sub": "(b)(2)",
    "cite": "SEC. 1(b)(2)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 1,
    "sub": "(b)(10)",
    "cite": "SEC. 1(b)(10)",
    "file": "standards/section_index.md",
-   "line": 55,
+   "line": 56,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d747 \u00b7 `SEC. 1(b)(1)` \u00d729 \u00b7 `SEC. 1(b)(3)` \u00d716 \u00b7 `SEC. 1(b)(9)` \u00d715 \u00b7 `SEC. 1(b)(8)` \u00d714 \u00b7 `SEC. 1(b)(6)` \u00d79 \u00b7 `SEC. 1(a)` \u00d78 \u00b7 `SEC. 1(b)(7)` \u00d78 \u00b7 `SEC. 1(b)(2)"
+   "text": "**Sub-clauses referenced:** `SEC. 1(c)` \u00d748 \u00b7 `SEC. 1(b)(1)` \u00d730 \u00b7 `SEC. 1(b)(3)` \u00d717 \u00b7 `SEC. 1(b)(9)` \u00d716 \u00b7 `SEC. 1(b)(8)` \u00d715 \u00b7 `SEC. 1(b)(6)` \u00d710 \u00b7 `SEC. 1(a)` \u00d79 \u00b7 `SEC. 1(b)(7)` \u00d79 \u00b7 `SEC. 1(b)(2"
   },
   {
    "sec": 2,
    "sub": "",
    "cite": "SEC. 2",
    "file": "standards/section_index.md",
-   "line": 100,
+   "line": 102,
    "kind": "standard",
-   "text": "## SEC. 2 \u2014 PUBLIC WELFARE DUTY. (a) Duty. No covered system may be deployed in or into this State, or"
+   "text": "## SEC. 2 \u2014 PUBLIC WELFARE DUTY"
   },
   {
    "sec": 2,
    "sub": "(a)",
    "cite": "SEC. 2(a)",
    "file": "standards/section_index.md",
-   "line": 104,
+   "line": 106,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 2(a)` \u00d740 \u00b7 `SEC. 2(b)` \u00d736 \u00b7 `SEC. 2(c)` \u00d719 \u00b7 `SEC. 2(e)(2)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 2(a)` \u00d741 \u00b7 `SEC. 2(b)` \u00d737 \u00b7 `SEC. 2(c)` \u00d720 \u00b7 `SEC. 2(e)(2)` \u00d72"
   },
   {
    "sec": 2,
    "sub": "(b)",
    "cite": "SEC. 2(b)",
    "file": "standards/section_index.md",
-   "line": 104,
+   "line": 106,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 2(a)` \u00d740 \u00b7 `SEC. 2(b)` \u00d736 \u00b7 `SEC. 2(c)` \u00d719 \u00b7 `SEC. 2(e)(2)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 2(a)` \u00d741 \u00b7 `SEC. 2(b)` \u00d737 \u00b7 `SEC. 2(c)` \u00d720 \u00b7 `SEC. 2(e)(2)` \u00d72"
   },
   {
    "sec": 2,
    "sub": "(c)",
    "cite": "SEC. 2(c)",
    "file": "standards/section_index.md",
-   "line": 104,
+   "line": 106,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 2(a)` \u00d740 \u00b7 `SEC. 2(b)` \u00d736 \u00b7 `SEC. 2(c)` \u00d719 \u00b7 `SEC. 2(e)(2)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 2(a)` \u00d741 \u00b7 `SEC. 2(b)` \u00d737 \u00b7 `SEC. 2(c)` \u00d720 \u00b7 `SEC. 2(e)(2)` \u00d72"
   },
   {
    "sec": 2,
    "sub": "(e)(2)",
    "cite": "SEC. 2(e)(2)",
    "file": "standards/section_index.md",
-   "line": 104,
+   "line": 106,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 2(a)` \u00d740 \u00b7 `SEC. 2(b)` \u00d736 \u00b7 `SEC. 2(c)` \u00d719 \u00b7 `SEC. 2(e)(2)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 2(a)` \u00d741 \u00b7 `SEC. 2(b)` \u00d737 \u00b7 `SEC. 2(c)` \u00d720 \u00b7 `SEC. 2(e)(2)` \u00d72"
   },
   {
    "sec": 3,
    "sub": "",
    "cite": "SEC. 3",
    "file": "standards/section_index.md",
-   "line": 146,
+   "line": 149,
    "kind": "standard",
-   "text": "## SEC. 3 \u2014 DESIGNATED AGENCY; STANDARDS; COMMENCEMENT. (a) The [designated state agency, board, or"
+   "text": "## SEC. 3 \u2014 DESIGNATED AGENCY; STANDARDS; COMMENCEMENT. (a) The [designa"
   },
   {
    "sec": 3,
    "sub": "(c)(4)",
    "cite": "SEC. 3(c)(4)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 3,
    "sub": "(b)",
    "cite": "SEC. 3(b)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 3,
    "sub": "(c)",
    "cite": "SEC. 3(c)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 3,
    "sub": "(a)",
    "cite": "SEC. 3(a)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 3,
    "sub": "(c)(3)",
    "cite": "SEC. 3(c)(3)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 3,
    "sub": "(c)(4)(B)",
    "cite": "SEC. 3(c)(4)(B)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 3,
    "sub": "(c)(2)(D)",
    "cite": "SEC. 3(c)(2)(D)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 3,
    "sub": "(c)(2)",
    "cite": "SEC. 3(c)(2)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 3,
    "sub": "(c)(4)(A)",
    "cite": "SEC. 3(c)(4)(A)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 3,
    "sub": "(c)(5)",
    "cite": "SEC. 3(c)(5)",
    "file": "standards/section_index.md",
-   "line": 150,
+   "line": 153,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d757 \u00b7 `SEC. 3(b)` \u00d752 \u00b7 `SEC. 3(c)` \u00d738 \u00b7 `SEC. 3(a)` \u00d735 \u00b7 `SEC. 3(c)(3)` \u00d713 \u00b7 `SEC. 3(c)(4)(B)` \u00d711 \u00b7 `SEC. 3(c)(2)(D)` \u00d710 \u00b7 `SEC. 3(c)(2)` \u00d78 \u00b7 `SEC. 3("
+   "text": "**Sub-clauses referenced:** `SEC. 3(c)(4)` \u00d758 \u00b7 `SEC. 3(b)` \u00d753 \u00b7 `SEC. 3(c)` \u00d739 \u00b7 `SEC. 3(a)` \u00d736 \u00b7 `SEC. 3(c)(3)` \u00d714 \u00b7 `SEC. 3(c)(4)(B)` \u00d712 \u00b7 `SEC. 3(c)(2)(D)` \u00d711 \u00b7 `SEC. 3(c)(2)` \u00d79 \u00b7 `SEC. 3("
   },
   {
    "sec": 4,
    "sub": "",
    "cite": "SEC. 4",
    "file": "standards/section_index.md",
-   "line": 196,
+   "line": 200,
    "kind": "standard",
-   "text": "## SEC. 4 \u2014 CONTROLLING PERSONS. (a) A controlling person is any natural person who, regardless of"
+   "text": "## SEC. 4 \u2014 CONTROLLING PERSONS"
   },
   {
    "sec": 4,
    "sub": "(a)",
    "cite": "SEC. 4(a)",
    "file": "standards/section_index.md",
-   "line": 200,
+   "line": 204,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d744 \u00b7 `SEC. 4(b)` \u00d723 \u00b7 `SEC. 4(c)` \u00d716 \u00b7 `SEC. 4(b)(2)` \u00d72 \u00b7 `SEC. 4(d)` \u00d72 \u00b7 `SEC. 4(a)(2)` \u00d71 \u00b7 `SEC. 4(a)(3)` \u00d71 \u00b7 `SEC. 4(a)(4)` \u00d71 \u00b7 `SEC. 4(b)(1)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d745 \u00b7 `SEC. 4(b)` \u00d724 \u00b7 `SEC. 4(c)` \u00d717 \u00b7 `SEC. 4(b)(2)` \u00d73 \u00b7 `SEC. 4(d)` \u00d73 \u00b7 `SEC. 4(a)(2)` \u00d72 \u00b7 `SEC. 4(a)(3)` \u00d72 \u00b7 `SEC. 4(a)(4)` \u00d72 \u00b7 `SEC. 4(b)(1)` \u00d72"
   },
   {
    "sec": 4,
    "sub": "(b)",
    "cite": "SEC. 4(b)",
    "file": "standards/section_index.md",
-   "line": 200,
+   "line": 204,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d744 \u00b7 `SEC. 4(b)` \u00d723 \u00b7 `SEC. 4(c)` \u00d716 \u00b7 `SEC. 4(b)(2)` \u00d72 \u00b7 `SEC. 4(d)` \u00d72 \u00b7 `SEC. 4(a)(2)` \u00d71 \u00b7 `SEC. 4(a)(3)` \u00d71 \u00b7 `SEC. 4(a)(4)` \u00d71 \u00b7 `SEC. 4(b)(1)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d745 \u00b7 `SEC. 4(b)` \u00d724 \u00b7 `SEC. 4(c)` \u00d717 \u00b7 `SEC. 4(b)(2)` \u00d73 \u00b7 `SEC. 4(d)` \u00d73 \u00b7 `SEC. 4(a)(2)` \u00d72 \u00b7 `SEC. 4(a)(3)` \u00d72 \u00b7 `SEC. 4(a)(4)` \u00d72 \u00b7 `SEC. 4(b)(1)` \u00d72"
   },
   {
    "sec": 4,
    "sub": "(c)",
    "cite": "SEC. 4(c)",
    "file": "standards/section_index.md",
-   "line": 200,
+   "line": 204,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d744 \u00b7 `SEC. 4(b)` \u00d723 \u00b7 `SEC. 4(c)` \u00d716 \u00b7 `SEC. 4(b)(2)` \u00d72 \u00b7 `SEC. 4(d)` \u00d72 \u00b7 `SEC. 4(a)(2)` \u00d71 \u00b7 `SEC. 4(a)(3)` \u00d71 \u00b7 `SEC. 4(a)(4)` \u00d71 \u00b7 `SEC. 4(b)(1)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d745 \u00b7 `SEC. 4(b)` \u00d724 \u00b7 `SEC. 4(c)` \u00d717 \u00b7 `SEC. 4(b)(2)` \u00d73 \u00b7 `SEC. 4(d)` \u00d73 \u00b7 `SEC. 4(a)(2)` \u00d72 \u00b7 `SEC. 4(a)(3)` \u00d72 \u00b7 `SEC. 4(a)(4)` \u00d72 \u00b7 `SEC. 4(b)(1)` \u00d72"
   },
   {
    "sec": 4,
    "sub": "(b)(2)",
    "cite": "SEC. 4(b)(2)",
    "file": "standards/section_index.md",
-   "line": 200,
+   "line": 204,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d744 \u00b7 `SEC. 4(b)` \u00d723 \u00b7 `SEC. 4(c)` \u00d716 \u00b7 `SEC. 4(b)(2)` \u00d72 \u00b7 `SEC. 4(d)` \u00d72 \u00b7 `SEC. 4(a)(2)` \u00d71 \u00b7 `SEC. 4(a)(3)` \u00d71 \u00b7 `SEC. 4(a)(4)` \u00d71 \u00b7 `SEC. 4(b)(1)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d745 \u00b7 `SEC. 4(b)` \u00d724 \u00b7 `SEC. 4(c)` \u00d717 \u00b7 `SEC. 4(b)(2)` \u00d73 \u00b7 `SEC. 4(d)` \u00d73 \u00b7 `SEC. 4(a)(2)` \u00d72 \u00b7 `SEC. 4(a)(3)` \u00d72 \u00b7 `SEC. 4(a)(4)` \u00d72 \u00b7 `SEC. 4(b)(1)` \u00d72"
   },
   {
    "sec": 4,
    "sub": "(d)",
    "cite": "SEC. 4(d)",
    "file": "standards/section_index.md",
-   "line": 200,
+   "line": 204,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d744 \u00b7 `SEC. 4(b)` \u00d723 \u00b7 `SEC. 4(c)` \u00d716 \u00b7 `SEC. 4(b)(2)` \u00d72 \u00b7 `SEC. 4(d)` \u00d72 \u00b7 `SEC. 4(a)(2)` \u00d71 \u00b7 `SEC. 4(a)(3)` \u00d71 \u00b7 `SEC. 4(a)(4)` \u00d71 \u00b7 `SEC. 4(b)(1)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d745 \u00b7 `SEC. 4(b)` \u00d724 \u00b7 `SEC. 4(c)` \u00d717 \u00b7 `SEC. 4(b)(2)` \u00d73 \u00b7 `SEC. 4(d)` \u00d73 \u00b7 `SEC. 4(a)(2)` \u00d72 \u00b7 `SEC. 4(a)(3)` \u00d72 \u00b7 `SEC. 4(a)(4)` \u00d72 \u00b7 `SEC. 4(b)(1)` \u00d72"
   },
   {
    "sec": 4,
    "sub": "(a)(2)",
    "cite": "SEC. 4(a)(2)",
    "file": "standards/section_index.md",
-   "line": 200,
+   "line": 204,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d744 \u00b7 `SEC. 4(b)` \u00d723 \u00b7 `SEC. 4(c)` \u00d716 \u00b7 `SEC. 4(b)(2)` \u00d72 \u00b7 `SEC. 4(d)` \u00d72 \u00b7 `SEC. 4(a)(2)` \u00d71 \u00b7 `SEC. 4(a)(3)` \u00d71 \u00b7 `SEC. 4(a)(4)` \u00d71 \u00b7 `SEC. 4(b)(1)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d745 \u00b7 `SEC. 4(b)` \u00d724 \u00b7 `SEC. 4(c)` \u00d717 \u00b7 `SEC. 4(b)(2)` \u00d73 \u00b7 `SEC. 4(d)` \u00d73 \u00b7 `SEC. 4(a)(2)` \u00d72 \u00b7 `SEC. 4(a)(3)` \u00d72 \u00b7 `SEC. 4(a)(4)` \u00d72 \u00b7 `SEC. 4(b)(1)` \u00d72"
   },
   {
    "sec": 4,
    "sub": "(a)(3)",
    "cite": "SEC. 4(a)(3)",
    "file": "standards/section_index.md",
-   "line": 200,
+   "line": 204,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d744 \u00b7 `SEC. 4(b)` \u00d723 \u00b7 `SEC. 4(c)` \u00d716 \u00b7 `SEC. 4(b)(2)` \u00d72 \u00b7 `SEC. 4(d)` \u00d72 \u00b7 `SEC. 4(a)(2)` \u00d71 \u00b7 `SEC. 4(a)(3)` \u00d71 \u00b7 `SEC. 4(a)(4)` \u00d71 \u00b7 `SEC. 4(b)(1)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d745 \u00b7 `SEC. 4(b)` \u00d724 \u00b7 `SEC. 4(c)` \u00d717 \u00b7 `SEC. 4(b)(2)` \u00d73 \u00b7 `SEC. 4(d)` \u00d73 \u00b7 `SEC. 4(a)(2)` \u00d72 \u00b7 `SEC. 4(a)(3)` \u00d72 \u00b7 `SEC. 4(a)(4)` \u00d72 \u00b7 `SEC. 4(b)(1)` \u00d72"
   },
   {
    "sec": 4,
    "sub": "(a)(4)",
    "cite": "SEC. 4(a)(4)",
    "file": "standards/section_index.md",
-   "line": 200,
+   "line": 204,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d744 \u00b7 `SEC. 4(b)` \u00d723 \u00b7 `SEC. 4(c)` \u00d716 \u00b7 `SEC. 4(b)(2)` \u00d72 \u00b7 `SEC. 4(d)` \u00d72 \u00b7 `SEC. 4(a)(2)` \u00d71 \u00b7 `SEC. 4(a)(3)` \u00d71 \u00b7 `SEC. 4(a)(4)` \u00d71 \u00b7 `SEC. 4(b)(1)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d745 \u00b7 `SEC. 4(b)` \u00d724 \u00b7 `SEC. 4(c)` \u00d717 \u00b7 `SEC. 4(b)(2)` \u00d73 \u00b7 `SEC. 4(d)` \u00d73 \u00b7 `SEC. 4(a)(2)` \u00d72 \u00b7 `SEC. 4(a)(3)` \u00d72 \u00b7 `SEC. 4(a)(4)` \u00d72 \u00b7 `SEC. 4(b)(1)` \u00d72"
   },
   {
    "sec": 4,
    "sub": "(b)(1)",
    "cite": "SEC. 4(b)(1)",
    "file": "standards/section_index.md",
-   "line": 200,
+   "line": 204,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d744 \u00b7 `SEC. 4(b)` \u00d723 \u00b7 `SEC. 4(c)` \u00d716 \u00b7 `SEC. 4(b)(2)` \u00d72 \u00b7 `SEC. 4(d)` \u00d72 \u00b7 `SEC. 4(a)(2)` \u00d71 \u00b7 `SEC. 4(a)(3)` \u00d71 \u00b7 `SEC. 4(a)(4)` \u00d71 \u00b7 `SEC. 4(b)(1)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 4(a)` \u00d745 \u00b7 `SEC. 4(b)` \u00d724 \u00b7 `SEC. 4(c)` \u00d717 \u00b7 `SEC. 4(b)(2)` \u00d73 \u00b7 `SEC. 4(d)` \u00d73 \u00b7 `SEC. 4(a)(2)` \u00d72 \u00b7 `SEC. 4(a)(3)` \u00d72 \u00b7 `SEC. 4(a)(4)` \u00d72 \u00b7 `SEC. 4(b)(1)` \u00d72"
   },
   {
    "sec": 5,
    "sub": "",
    "cite": "SEC. 5",
    "file": "standards/section_index.md",
-   "line": 240,
+   "line": 245,
    "kind": "standard",
-   "text": "## SEC. 5 \u2014 PROHIBITED ACTS. (a) Deployment of a covered system without validation required under"
+   "text": "## SEC. 5 \u2014 PROHIBITED ACTS"
   },
   {
    "sec": 5,
    "sub": "(b)",
    "cite": "SEC. 5(b)",
    "file": "standards/section_index.md",
-   "line": 244,
+   "line": 249,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d782 \u00b7 `SEC. 5(a)` \u00d766 \u00b7 `SEC. 5(d)` \u00d752 \u00b7 `SEC. 5(e)` \u00d745 \u00b7 `SEC. 5(c)` \u00d733 \u00b7 `SEC. 5(c)(1)(D)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d783 \u00b7 `SEC. 5(a)` \u00d767 \u00b7 `SEC. 5(d)` \u00d753 \u00b7 `SEC. 5(e)` \u00d746 \u00b7 `SEC. 5(c)` \u00d734 \u00b7 `SEC. 5(c)(1)(D)` \u00d72"
   },
   {
    "sec": 5,
    "sub": "(a)",
    "cite": "SEC. 5(a)",
    "file": "standards/section_index.md",
-   "line": 244,
+   "line": 249,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d782 \u00b7 `SEC. 5(a)` \u00d766 \u00b7 `SEC. 5(d)` \u00d752 \u00b7 `SEC. 5(e)` \u00d745 \u00b7 `SEC. 5(c)` \u00d733 \u00b7 `SEC. 5(c)(1)(D)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d783 \u00b7 `SEC. 5(a)` \u00d767 \u00b7 `SEC. 5(d)` \u00d753 \u00b7 `SEC. 5(e)` \u00d746 \u00b7 `SEC. 5(c)` \u00d734 \u00b7 `SEC. 5(c)(1)(D)` \u00d72"
   },
   {
    "sec": 5,
    "sub": "(d)",
    "cite": "SEC. 5(d)",
    "file": "standards/section_index.md",
-   "line": 244,
+   "line": 249,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d782 \u00b7 `SEC. 5(a)` \u00d766 \u00b7 `SEC. 5(d)` \u00d752 \u00b7 `SEC. 5(e)` \u00d745 \u00b7 `SEC. 5(c)` \u00d733 \u00b7 `SEC. 5(c)(1)(D)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d783 \u00b7 `SEC. 5(a)` \u00d767 \u00b7 `SEC. 5(d)` \u00d753 \u00b7 `SEC. 5(e)` \u00d746 \u00b7 `SEC. 5(c)` \u00d734 \u00b7 `SEC. 5(c)(1)(D)` \u00d72"
   },
   {
    "sec": 5,
    "sub": "(e)",
    "cite": "SEC. 5(e)",
    "file": "standards/section_index.md",
-   "line": 244,
+   "line": 249,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d782 \u00b7 `SEC. 5(a)` \u00d766 \u00b7 `SEC. 5(d)` \u00d752 \u00b7 `SEC. 5(e)` \u00d745 \u00b7 `SEC. 5(c)` \u00d733 \u00b7 `SEC. 5(c)(1)(D)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d783 \u00b7 `SEC. 5(a)` \u00d767 \u00b7 `SEC. 5(d)` \u00d753 \u00b7 `SEC. 5(e)` \u00d746 \u00b7 `SEC. 5(c)` \u00d734 \u00b7 `SEC. 5(c)(1)(D)` \u00d72"
   },
   {
    "sec": 5,
    "sub": "(c)",
    "cite": "SEC. 5(c)",
    "file": "standards/section_index.md",
-   "line": 244,
+   "line": 249,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d782 \u00b7 `SEC. 5(a)` \u00d766 \u00b7 `SEC. 5(d)` \u00d752 \u00b7 `SEC. 5(e)` \u00d745 \u00b7 `SEC. 5(c)` \u00d733 \u00b7 `SEC. 5(c)(1)(D)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d783 \u00b7 `SEC. 5(a)` \u00d767 \u00b7 `SEC. 5(d)` \u00d753 \u00b7 `SEC. 5(e)` \u00d746 \u00b7 `SEC. 5(c)` \u00d734 \u00b7 `SEC. 5(c)(1)(D)` \u00d72"
   },
   {
    "sec": 5,
    "sub": "(c)(1)(D)",
    "cite": "SEC. 5(c)(1)(D)",
    "file": "standards/section_index.md",
-   "line": 244,
+   "line": 249,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d782 \u00b7 `SEC. 5(a)` \u00d766 \u00b7 `SEC. 5(d)` \u00d752 \u00b7 `SEC. 5(e)` \u00d745 \u00b7 `SEC. 5(c)` \u00d733 \u00b7 `SEC. 5(c)(1)(D)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 5(b)` \u00d783 \u00b7 `SEC. 5(a)` \u00d767 \u00b7 `SEC. 5(d)` \u00d753 \u00b7 `SEC. 5(e)` \u00d746 \u00b7 `SEC. 5(c)` \u00d734 \u00b7 `SEC. 5(c)(1)(D)` \u00d72"
   },
   {
    "sec": 6,
    "sub": "",
    "cite": "SEC. 6",
    "file": "standards/section_index.md",
-   "line": 283,
+   "line": 289,
    "kind": "standard",
-   "text": "## SEC. 6 \u2014 INDIVIDUAL LIABILITY. (a) Offense. A controlling person who had a duty concerning the"
+   "text": "## SEC. 6 \u2014 INDIVIDUAL LIABILITY"
   },
   {
    "sec": 6,
    "sub": "(a)",
    "cite": "SEC. 6(a)",
    "file": "standards/section_index.md",
-   "line": 287,
+   "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7110 \u00b7 `SEC. 6(b)(1)` \u00d782 \u00b7 `SEC. 6(b)` \u00d761 \u00b7 `SEC. 6(d)` \u00d729 \u00b7 `SEC. 6(c)` \u00d719 \u00b7 `SEC. 6(e)` \u00d717 \u00b7 `SEC. 6(b)(2)` \u00d79 \u00b7 `SEC. 6(b)(5)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
    "sub": "(b)(1)",
    "cite": "SEC. 6(b)(1)",
    "file": "standards/section_index.md",
-   "line": 287,
+   "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7110 \u00b7 `SEC. 6(b)(1)` \u00d782 \u00b7 `SEC. 6(b)` \u00d761 \u00b7 `SEC. 6(d)` \u00d729 \u00b7 `SEC. 6(c)` \u00d719 \u00b7 `SEC. 6(e)` \u00d717 \u00b7 `SEC. 6(b)(2)` \u00d79 \u00b7 `SEC. 6(b)(5)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
    "sub": "(b)",
    "cite": "SEC. 6(b)",
    "file": "standards/section_index.md",
-   "line": 287,
+   "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7110 \u00b7 `SEC. 6(b)(1)` \u00d782 \u00b7 `SEC. 6(b)` \u00d761 \u00b7 `SEC. 6(d)` \u00d729 \u00b7 `SEC. 6(c)` \u00d719 \u00b7 `SEC. 6(e)` \u00d717 \u00b7 `SEC. 6(b)(2)` \u00d79 \u00b7 `SEC. 6(b)(5)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
    "sub": "(d)",
    "cite": "SEC. 6(d)",
    "file": "standards/section_index.md",
-   "line": 287,
+   "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7110 \u00b7 `SEC. 6(b)(1)` \u00d782 \u00b7 `SEC. 6(b)` \u00d761 \u00b7 `SEC. 6(d)` \u00d729 \u00b7 `SEC. 6(c)` \u00d719 \u00b7 `SEC. 6(e)` \u00d717 \u00b7 `SEC. 6(b)(2)` \u00d79 \u00b7 `SEC. 6(b)(5)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
    "sub": "(c)",
    "cite": "SEC. 6(c)",
    "file": "standards/section_index.md",
-   "line": 287,
+   "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7110 \u00b7 `SEC. 6(b)(1)` \u00d782 \u00b7 `SEC. 6(b)` \u00d761 \u00b7 `SEC. 6(d)` \u00d729 \u00b7 `SEC. 6(c)` \u00d719 \u00b7 `SEC. 6(e)` \u00d717 \u00b7 `SEC. 6(b)(2)` \u00d79 \u00b7 `SEC. 6(b)(5)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
    "sub": "(e)",
    "cite": "SEC. 6(e)",
    "file": "standards/section_index.md",
-   "line": 287,
+   "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7110 \u00b7 `SEC. 6(b)(1)` \u00d782 \u00b7 `SEC. 6(b)` \u00d761 \u00b7 `SEC. 6(d)` \u00d729 \u00b7 `SEC. 6(c)` \u00d719 \u00b7 `SEC. 6(e)` \u00d717 \u00b7 `SEC. 6(b)(2)` \u00d79 \u00b7 `SEC. 6(b)(5)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
    "sub": "(b)(2)",
    "cite": "SEC. 6(b)(2)",
    "file": "standards/section_index.md",
-   "line": 287,
+   "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7110 \u00b7 `SEC. 6(b)(1)` \u00d782 \u00b7 `SEC. 6(b)` \u00d761 \u00b7 `SEC. 6(d)` \u00d729 \u00b7 `SEC. 6(c)` \u00d719 \u00b7 `SEC. 6(e)` \u00d717 \u00b7 `SEC. 6(b)(2)` \u00d79 \u00b7 `SEC. 6(b)(5)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 6,
    "sub": "(b)(5)",
    "cite": "SEC. 6(b)(5)",
    "file": "standards/section_index.md",
-   "line": 287,
+   "line": 293,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7110 \u00b7 `SEC. 6(b)(1)` \u00d782 \u00b7 `SEC. 6(b)` \u00d761 \u00b7 `SEC. 6(d)` \u00d729 \u00b7 `SEC. 6(c)` \u00d719 \u00b7 `SEC. 6(e)` \u00d717 \u00b7 `SEC. 6(b)(2)` \u00d79 \u00b7 `SEC. 6(b)(5)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 6(a)` \u00d7111 \u00b7 `SEC. 6(b)(1)` \u00d783 \u00b7 `SEC. 6(b)` \u00d762 \u00b7 `SEC. 6(d)` \u00d730 \u00b7 `SEC. 6(c)` \u00d720 \u00b7 `SEC. 6(e)` \u00d718 \u00b7 `SEC. 6(b)(2)` \u00d710 \u00b7 `SEC. 6(b)(5)` \u00d73"
   },
   {
    "sec": 7,
    "sub": "",
    "cite": "SEC. 7",
    "file": "standards/section_index.md",
-   "line": 331,
+   "line": 338,
    "kind": "standard",
    "text": "## SEC. 7 \u2014 PERSONAL ECONOMIC CONSEQUENCES"
   },
@@ -28463,295 +28472,295 @@
    "sub": "(b)",
    "cite": "SEC. 7(b)",
    "file": "standards/section_index.md",
-   "line": 335,
+   "line": 342,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d729 \u00b7 `SEC. 7(a)` \u00d725 \u00b7 `SEC. 7(b)(5)` \u00d714 \u00b7 `SEC. 7(b)(1)(A)` \u00d73 \u00b7 `SEC. 7(b)(1)` \u00d73 \u00b7 `SEC. 7(b)(2)` \u00d71 \u00b7 `SEC. 7(b)(1)(B)` \u00d71 \u00b7 `SEC. 7(b)(4)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d730 \u00b7 `SEC. 7(a)` \u00d726 \u00b7 `SEC. 7(b)(5)` \u00d715 \u00b7 `SEC. 7(b)(1)(A)` \u00d74 \u00b7 `SEC. 7(b)(1)` \u00d74 \u00b7 `SEC. 7(b)(2)` \u00d72 \u00b7 `SEC. 7(b)(1)(B)` \u00d72 \u00b7 `SEC. 7(b)(4)` \u00d72"
   },
   {
    "sec": 7,
    "sub": "(a)",
    "cite": "SEC. 7(a)",
    "file": "standards/section_index.md",
-   "line": 335,
+   "line": 342,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d729 \u00b7 `SEC. 7(a)` \u00d725 \u00b7 `SEC. 7(b)(5)` \u00d714 \u00b7 `SEC. 7(b)(1)(A)` \u00d73 \u00b7 `SEC. 7(b)(1)` \u00d73 \u00b7 `SEC. 7(b)(2)` \u00d71 \u00b7 `SEC. 7(b)(1)(B)` \u00d71 \u00b7 `SEC. 7(b)(4)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d730 \u00b7 `SEC. 7(a)` \u00d726 \u00b7 `SEC. 7(b)(5)` \u00d715 \u00b7 `SEC. 7(b)(1)(A)` \u00d74 \u00b7 `SEC. 7(b)(1)` \u00d74 \u00b7 `SEC. 7(b)(2)` \u00d72 \u00b7 `SEC. 7(b)(1)(B)` \u00d72 \u00b7 `SEC. 7(b)(4)` \u00d72"
   },
   {
    "sec": 7,
    "sub": "(b)(5)",
    "cite": "SEC. 7(b)(5)",
    "file": "standards/section_index.md",
-   "line": 335,
+   "line": 342,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d729 \u00b7 `SEC. 7(a)` \u00d725 \u00b7 `SEC. 7(b)(5)` \u00d714 \u00b7 `SEC. 7(b)(1)(A)` \u00d73 \u00b7 `SEC. 7(b)(1)` \u00d73 \u00b7 `SEC. 7(b)(2)` \u00d71 \u00b7 `SEC. 7(b)(1)(B)` \u00d71 \u00b7 `SEC. 7(b)(4)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d730 \u00b7 `SEC. 7(a)` \u00d726 \u00b7 `SEC. 7(b)(5)` \u00d715 \u00b7 `SEC. 7(b)(1)(A)` \u00d74 \u00b7 `SEC. 7(b)(1)` \u00d74 \u00b7 `SEC. 7(b)(2)` \u00d72 \u00b7 `SEC. 7(b)(1)(B)` \u00d72 \u00b7 `SEC. 7(b)(4)` \u00d72"
   },
   {
    "sec": 7,
    "sub": "(b)(1)(A)",
    "cite": "SEC. 7(b)(1)(A)",
    "file": "standards/section_index.md",
-   "line": 335,
+   "line": 342,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d729 \u00b7 `SEC. 7(a)` \u00d725 \u00b7 `SEC. 7(b)(5)` \u00d714 \u00b7 `SEC. 7(b)(1)(A)` \u00d73 \u00b7 `SEC. 7(b)(1)` \u00d73 \u00b7 `SEC. 7(b)(2)` \u00d71 \u00b7 `SEC. 7(b)(1)(B)` \u00d71 \u00b7 `SEC. 7(b)(4)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d730 \u00b7 `SEC. 7(a)` \u00d726 \u00b7 `SEC. 7(b)(5)` \u00d715 \u00b7 `SEC. 7(b)(1)(A)` \u00d74 \u00b7 `SEC. 7(b)(1)` \u00d74 \u00b7 `SEC. 7(b)(2)` \u00d72 \u00b7 `SEC. 7(b)(1)(B)` \u00d72 \u00b7 `SEC. 7(b)(4)` \u00d72"
   },
   {
    "sec": 7,
    "sub": "(b)(1)",
    "cite": "SEC. 7(b)(1)",
    "file": "standards/section_index.md",
-   "line": 335,
+   "line": 342,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d729 \u00b7 `SEC. 7(a)` \u00d725 \u00b7 `SEC. 7(b)(5)` \u00d714 \u00b7 `SEC. 7(b)(1)(A)` \u00d73 \u00b7 `SEC. 7(b)(1)` \u00d73 \u00b7 `SEC. 7(b)(2)` \u00d71 \u00b7 `SEC. 7(b)(1)(B)` \u00d71 \u00b7 `SEC. 7(b)(4)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d730 \u00b7 `SEC. 7(a)` \u00d726 \u00b7 `SEC. 7(b)(5)` \u00d715 \u00b7 `SEC. 7(b)(1)(A)` \u00d74 \u00b7 `SEC. 7(b)(1)` \u00d74 \u00b7 `SEC. 7(b)(2)` \u00d72 \u00b7 `SEC. 7(b)(1)(B)` \u00d72 \u00b7 `SEC. 7(b)(4)` \u00d72"
   },
   {
    "sec": 7,
    "sub": "(b)(2)",
    "cite": "SEC. 7(b)(2)",
    "file": "standards/section_index.md",
-   "line": 335,
+   "line": 342,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d729 \u00b7 `SEC. 7(a)` \u00d725 \u00b7 `SEC. 7(b)(5)` \u00d714 \u00b7 `SEC. 7(b)(1)(A)` \u00d73 \u00b7 `SEC. 7(b)(1)` \u00d73 \u00b7 `SEC. 7(b)(2)` \u00d71 \u00b7 `SEC. 7(b)(1)(B)` \u00d71 \u00b7 `SEC. 7(b)(4)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d730 \u00b7 `SEC. 7(a)` \u00d726 \u00b7 `SEC. 7(b)(5)` \u00d715 \u00b7 `SEC. 7(b)(1)(A)` \u00d74 \u00b7 `SEC. 7(b)(1)` \u00d74 \u00b7 `SEC. 7(b)(2)` \u00d72 \u00b7 `SEC. 7(b)(1)(B)` \u00d72 \u00b7 `SEC. 7(b)(4)` \u00d72"
   },
   {
    "sec": 7,
    "sub": "(b)(1)(B)",
    "cite": "SEC. 7(b)(1)(B)",
    "file": "standards/section_index.md",
-   "line": 335,
+   "line": 342,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d729 \u00b7 `SEC. 7(a)` \u00d725 \u00b7 `SEC. 7(b)(5)` \u00d714 \u00b7 `SEC. 7(b)(1)(A)` \u00d73 \u00b7 `SEC. 7(b)(1)` \u00d73 \u00b7 `SEC. 7(b)(2)` \u00d71 \u00b7 `SEC. 7(b)(1)(B)` \u00d71 \u00b7 `SEC. 7(b)(4)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d730 \u00b7 `SEC. 7(a)` \u00d726 \u00b7 `SEC. 7(b)(5)` \u00d715 \u00b7 `SEC. 7(b)(1)(A)` \u00d74 \u00b7 `SEC. 7(b)(1)` \u00d74 \u00b7 `SEC. 7(b)(2)` \u00d72 \u00b7 `SEC. 7(b)(1)(B)` \u00d72 \u00b7 `SEC. 7(b)(4)` \u00d72"
   },
   {
    "sec": 7,
    "sub": "(b)(4)",
    "cite": "SEC. 7(b)(4)",
    "file": "standards/section_index.md",
-   "line": 335,
+   "line": 342,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d729 \u00b7 `SEC. 7(a)` \u00d725 \u00b7 `SEC. 7(b)(5)` \u00d714 \u00b7 `SEC. 7(b)(1)(A)` \u00d73 \u00b7 `SEC. 7(b)(1)` \u00d73 \u00b7 `SEC. 7(b)(2)` \u00d71 \u00b7 `SEC. 7(b)(1)(B)` \u00d71 \u00b7 `SEC. 7(b)(4)` \u00d71"
+   "text": "**Sub-clauses referenced:** `SEC. 7(b)` \u00d730 \u00b7 `SEC. 7(a)` \u00d726 \u00b7 `SEC. 7(b)(5)` \u00d715 \u00b7 `SEC. 7(b)(1)(A)` \u00d74 \u00b7 `SEC. 7(b)(1)` \u00d74 \u00b7 `SEC. 7(b)(2)` \u00d72 \u00b7 `SEC. 7(b)(1)(B)` \u00d72 \u00b7 `SEC. 7(b)(4)` \u00d72"
   },
   {
    "sec": 8,
    "sub": "",
    "cite": "SEC. 8",
    "file": "standards/section_index.md",
-   "line": 361,
+   "line": 369,
    "kind": "standard",
-   "text": "## SEC. 8 \u2014 CERTIFICATION. Before material deployment and following material change to a covered"
+   "text": "## SEC. 8 \u2014 CERTIFICATION"
   },
   {
    "sec": 9,
    "sub": "",
    "cite": "SEC. 9",
    "file": "standards/section_index.md",
-   "line": 411,
+   "line": 420,
    "kind": "standard",
-   "text": "## SEC. 9 \u2014 INCIDENT REPORTING. (a) \"Critical safety incident\": exfiltration or loss of control of"
+   "text": "## SEC. 9 \u2014 INCIDENT REPORTING"
   },
   {
    "sec": 9,
    "sub": "(a)",
    "cite": "SEC. 9(a)",
    "file": "standards/section_index.md",
-   "line": 415,
+   "line": 424,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 9(a)` \u00d768 \u00b7 `SEC. 9(b)` \u00d739 \u00b7 `SEC. 9(c)` \u00d725 \u00b7 `SEC. 9(d)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 9(a)` \u00d769 \u00b7 `SEC. 9(b)` \u00d740 \u00b7 `SEC. 9(c)` \u00d726 \u00b7 `SEC. 9(d)` \u00d74"
   },
   {
    "sec": 9,
    "sub": "(b)",
    "cite": "SEC. 9(b)",
    "file": "standards/section_index.md",
-   "line": 415,
+   "line": 424,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 9(a)` \u00d768 \u00b7 `SEC. 9(b)` \u00d739 \u00b7 `SEC. 9(c)` \u00d725 \u00b7 `SEC. 9(d)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 9(a)` \u00d769 \u00b7 `SEC. 9(b)` \u00d740 \u00b7 `SEC. 9(c)` \u00d726 \u00b7 `SEC. 9(d)` \u00d74"
   },
   {
    "sec": 9,
    "sub": "(c)",
    "cite": "SEC. 9(c)",
    "file": "standards/section_index.md",
-   "line": 415,
+   "line": 424,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 9(a)` \u00d768 \u00b7 `SEC. 9(b)` \u00d739 \u00b7 `SEC. 9(c)` \u00d725 \u00b7 `SEC. 9(d)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 9(a)` \u00d769 \u00b7 `SEC. 9(b)` \u00d740 \u00b7 `SEC. 9(c)` \u00d726 \u00b7 `SEC. 9(d)` \u00d74"
   },
   {
    "sec": 9,
    "sub": "(d)",
    "cite": "SEC. 9(d)",
    "file": "standards/section_index.md",
-   "line": 415,
+   "line": 424,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 9(a)` \u00d768 \u00b7 `SEC. 9(b)` \u00d739 \u00b7 `SEC. 9(c)` \u00d725 \u00b7 `SEC. 9(d)` \u00d73"
+   "text": "**Sub-clauses referenced:** `SEC. 9(a)` \u00d769 \u00b7 `SEC. 9(b)` \u00d740 \u00b7 `SEC. 9(c)` \u00d726 \u00b7 `SEC. 9(d)` \u00d74"
   },
   {
    "sec": 10,
    "sub": "",
    "cite": "SEC. 10",
    "file": "standards/section_index.md",
-   "line": 458,
+   "line": 468,
    "kind": "standard",
-   "text": "## SEC. 10 \u2014 ENFORCEMENT AND PENALTIES. (a) Entity: civil penalty of up to $[1,000,000] per violation"
+   "text": "## SEC. 10 \u2014 ENFORCEMENT AND PENALTIES"
   },
   {
    "sec": 10,
    "sub": "(a)",
    "cite": "SEC. 10(a)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 10,
    "sub": "(c)(2)",
    "cite": "SEC. 10(c)(2)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 10,
    "sub": "(c)",
    "cite": "SEC. 10(c)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 10,
    "sub": "(c)(2)(D)",
    "cite": "SEC. 10(c)(2)(D)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 10,
    "sub": "(b)",
    "cite": "SEC. 10(b)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 10,
    "sub": "(f)",
    "cite": "SEC. 10(f)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 10,
    "sub": "(c)(4)",
    "cite": "SEC. 10(c)(4)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 10,
    "sub": "(d)(2)",
    "cite": "SEC. 10(d)(2)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 10,
    "sub": "(c)(3)",
    "cite": "SEC. 10(c)(3)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 10,
    "sub": "(e)",
    "cite": "SEC. 10(e)",
    "file": "standards/section_index.md",
-   "line": 462,
+   "line": 472,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d746 \u00b7 `SEC. 10(c)(2)` \u00d729 \u00b7 `SEC. 10(c)` \u00d723 \u00b7 `SEC. 10(c)(2)(D)` \u00d717 \u00b7 `SEC. 10(b)` \u00d716 \u00b7 `SEC. 10(f)` \u00d716 \u00b7 `SEC. 10(c)(4)` \u00d715 \u00b7 `SEC. 10(d)(2)` \u00d713 \u00b7 `SEC."
+   "text": "**Sub-clauses referenced:** `SEC. 10(a)` \u00d747 \u00b7 `SEC. 10(c)(2)` \u00d730 \u00b7 `SEC. 10(c)` \u00d724 \u00b7 `SEC. 10(c)(2)(D)` \u00d718 \u00b7 `SEC. 10(b)` \u00d717 \u00b7 `SEC. 10(f)` \u00d717 \u00b7 `SEC. 10(c)(4)` \u00d716 \u00b7 `SEC. 10(d)(2)` \u00d714 \u00b7 `SEC."
   },
   {
    "sec": 11,
    "sub": "",
    "cite": "SEC. 11",
    "file": "standards/section_index.md",
-   "line": 500,
+   "line": 511,
    "kind": "standard",
-   "text": "## SEC. 11 \u2014 WHISTLEBLOWERS. (a) Award. A person who voluntarily provides the Agency with original"
+   "text": "## SEC. 11 \u2014 WHISTLEBLOWERS"
   },
   {
    "sec": 11,
    "sub": "(a)",
    "cite": "SEC. 11(a)",
    "file": "standards/section_index.md",
-   "line": 504,
+   "line": 515,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d711 \u00b7 `SEC. 11(d)` \u00d78 \u00b7 `SEC. 11(e)` \u00d73 \u00b7 `SEC. 11(b)` \u00d73 \u00b7 `SEC. 11(f)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d712 \u00b7 `SEC. 11(d)` \u00d79 \u00b7 `SEC. 11(e)` \u00d74 \u00b7 `SEC. 11(b)` \u00d74 \u00b7 `SEC. 11(f)` \u00d73"
   },
   {
    "sec": 11,
    "sub": "(d)",
    "cite": "SEC. 11(d)",
    "file": "standards/section_index.md",
-   "line": 504,
+   "line": 515,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d711 \u00b7 `SEC. 11(d)` \u00d78 \u00b7 `SEC. 11(e)` \u00d73 \u00b7 `SEC. 11(b)` \u00d73 \u00b7 `SEC. 11(f)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d712 \u00b7 `SEC. 11(d)` \u00d79 \u00b7 `SEC. 11(e)` \u00d74 \u00b7 `SEC. 11(b)` \u00d74 \u00b7 `SEC. 11(f)` \u00d73"
   },
   {
    "sec": 11,
    "sub": "(e)",
    "cite": "SEC. 11(e)",
    "file": "standards/section_index.md",
-   "line": 504,
+   "line": 515,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d711 \u00b7 `SEC. 11(d)` \u00d78 \u00b7 `SEC. 11(e)` \u00d73 \u00b7 `SEC. 11(b)` \u00d73 \u00b7 `SEC. 11(f)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d712 \u00b7 `SEC. 11(d)` \u00d79 \u00b7 `SEC. 11(e)` \u00d74 \u00b7 `SEC. 11(b)` \u00d74 \u00b7 `SEC. 11(f)` \u00d73"
   },
   {
    "sec": 11,
    "sub": "(b)",
    "cite": "SEC. 11(b)",
    "file": "standards/section_index.md",
-   "line": 504,
+   "line": 515,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d711 \u00b7 `SEC. 11(d)` \u00d78 \u00b7 `SEC. 11(e)` \u00d73 \u00b7 `SEC. 11(b)` \u00d73 \u00b7 `SEC. 11(f)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d712 \u00b7 `SEC. 11(d)` \u00d79 \u00b7 `SEC. 11(e)` \u00d74 \u00b7 `SEC. 11(b)` \u00d74 \u00b7 `SEC. 11(f)` \u00d73"
   },
   {
    "sec": 11,
    "sub": "(f)",
    "cite": "SEC. 11(f)",
    "file": "standards/section_index.md",
-   "line": 504,
+   "line": 515,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d711 \u00b7 `SEC. 11(d)` \u00d78 \u00b7 `SEC. 11(e)` \u00d73 \u00b7 `SEC. 11(b)` \u00d73 \u00b7 `SEC. 11(f)` \u00d72"
+   "text": "**Sub-clauses referenced:** `SEC. 11(a)` \u00d712 \u00b7 `SEC. 11(d)` \u00d79 \u00b7 `SEC. 11(e)` \u00d74 \u00b7 `SEC. 11(b)` \u00d74 \u00b7 `SEC. 11(f)` \u00d73"
   },
   {
    "sec": 12,
    "sub": "",
    "cite": "SEC. 12",
    "file": "standards/section_index.md",
-   "line": 533,
+   "line": 545,
    "kind": "standard",
-   "text": "## SEC. 12 \u2014 MACHINERY. This Act takes effect [90] days after enactment; until the Agency is"
+   "text": "## SEC. 12 \u2014 MACHINERY"
   },
   {
    "sec": 13,
    "sub": "",
    "cite": "SEC. 13",
    "file": "standards/section_index.md",
-   "line": 571,
+   "line": 584,
    "kind": "standard",
    "text": "## SEC. 13 \u2014 SEVERABILITY, CONFORMING OPERATION, AND REVIVAL"
   },
@@ -28760,90 +28769,90 @@
    "sub": "(c)",
    "cite": "SEC. 13(c)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 13,
    "sub": "(b)(3)",
    "cite": "SEC. 13(b)(3)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 13,
    "sub": "(c)(2)(C)",
    "cite": "SEC. 13(c)(2)(C)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 13,
    "sub": "(b)(5)",
    "cite": "SEC. 13(b)(5)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 13,
    "sub": "(b)(1)",
    "cite": "SEC. 13(b)(1)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 13,
    "sub": "(c)(2)(D)",
    "cite": "SEC. 13(c)(2)(D)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 13,
    "sub": "(b)",
    "cite": "SEC. 13(b)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 13,
    "sub": "(c)(3)",
    "cite": "SEC. 13(c)(3)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 13,
    "sub": "(a)",
    "cite": "SEC. 13(a)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 13,
    "sub": "(c)(2)",
    "cite": "SEC. 13(c)(2)",
    "file": "standards/section_index.md",
-   "line": 575,
+   "line": 588,
    "kind": "standard",
-   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d714 \u00b7 `SEC. 13(b)(3)` \u00d714 \u00b7 `SEC. 13(c)(2)(C)` \u00d712 \u00b7 `SEC. 13(b)(5)` \u00d711 \u00b7 `SEC. 13(b)(1)` \u00d711 \u00b7 `SEC. 13(c)(2)(D)` \u00d79 \u00b7 `SEC. 13(b)` \u00d78 \u00b7 `SEC. 13(c)(3)` \u00d75 \u00b7"
+   "text": "**Sub-clauses referenced:** `SEC. 13(c)` \u00d715 \u00b7 `SEC. 13(b)(3)` \u00d715 \u00b7 `SEC. 13(c)(2)(C)` \u00d713 \u00b7 `SEC. 13(b)(5)` \u00d712 \u00b7 `SEC. 13(b)(1)` \u00d712 \u00b7 `SEC. 13(c)(2)(D)` \u00d710 \u00b7 `SEC. 13(b)` \u00d79 \u00b7 `SEC. 13(c)(3)` \u00d76 "
   },
   {
    "sec": 6,

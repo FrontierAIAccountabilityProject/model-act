@@ -10,7 +10,7 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 
 | | |
 |---|---|
-| References read | **3299** |
+| References read | **3300** |
 | Files carrying at least one | **68** |
 | Sections in the statute | **14** |
 
@@ -288,9 +288,9 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 
 ## SEC. 6 — INDIVIDUAL LIABILITY
 
-**444 references across 40 files.** Anchor: `#sec-6`
+**445 references across 40 files.** Anchor: `#sec-6`
 
-**Sub-clauses referenced:** `SEC. 6(a)` ×111 · `SEC. 6(b)(1)` ×83 · `SEC. 6(b)` ×62 · `SEC. 6(d)` ×30 · `SEC. 6(c)` ×20 · `SEC. 6(e)` ×18 · `SEC. 6(b)(2)` ×10 · `SEC. 6(b)(5)` ×3
+**Sub-clauses referenced:** `SEC. 6(a)` ×112 · `SEC. 6(b)(1)` ×83 · `SEC. 6(b)` ×62 · `SEC. 6(d)` ×30 · `SEC. 6(c)` ×20 · `SEC. 6(e)` ×18 · `SEC. 6(b)(2)` ×10 · `SEC. 6(b)(5)` ×3
 
 | Kind | Where | Refs |
 |---|---|---|
@@ -302,7 +302,7 @@ this file nothing joined them. "What has to change in SEC. 6 before v3.5" was an
 | finding | [`audit/v3_5_lane_sweep.md`](../audit/v3_5_lane_sweep.md) | 18 |
 | authority | [`standards/table_of_authorities.md`](../standards/table_of_authorities.md) | 12 |
 | objection | [`docs/known_objections.md`](../docs/known_objections.md) | 13 |
-| erratum | [`ledger/errata.md`](../ledger/errata.md) | 14 |
+| erratum | [`ledger/errata.md`](../ledger/errata.md) | 15 |
 | standard | [`standards/section_index.md`](../standards/section_index.md) | 10 |
 | standard | [`standards/what_these_words_mean.md`](../standards/what_these_words_mean.md) | 6 |
 | standard | [`standards/comparative_officer_liability.md`](../standards/comparative_officer_liability.md) | 5 |
