@@ -26,7 +26,8 @@ Usage:
 import os, re, sys
 
 APPLY = "--apply" in sys.argv
-SKIP_DIRS = {".git", "_site", "archive", "_sass", "_includes", "node_modules"}
+SKIP_DIRS = {".git", "_site", "archive", "_sass", "_includes", "node_modules",
+             "_to_delete", "_patches", "__pycache__"}
 
 # Files that declare themselves unalterable in their own opening lines.
 # audit/record.md: "concatenates, verbatim and unedited ... their content is unchanged".

@@ -26,8 +26,12 @@ errata      = read("ledger/errata.md")
 entries     = len(re.findall(r'(?m)^## E\d+', errata))
 highest_e   = max([int(n) for n in re.findall(r'(?m)^## E(\d+)', errata)] or [0])
 packets     = [p for p in glob.glob("packets/*.md") if os.path.basename(p) not in ("index.md","README.md")]
+# _to_delete is a holding area, not repository content -- the device shell cannot
+# delete, so retired files are parked there. Counting them inflated the published
+# document count by 21 the moment the consolidation ran. 26 Aug 2026.
+_HOLD = ("/.git", "/_site", "/_to_delete", "/_patches")
 docs_count  = len([f for r, d, fs in os.walk(".") for f in fs
-                   if f.endswith(".md") and ".git" not in r and "_site" not in r])
+                   if f.endswith(".md") and not any(h in (r + "/") for h in _HOLD)])
 statute     = read("model_act_v3_4.txt")
 sections    = len(re.findall(r'(?m)^SEC\.', statute))
 q35         = read("audit/v3_5_cure_language.md")

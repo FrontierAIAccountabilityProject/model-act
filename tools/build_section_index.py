@@ -118,7 +118,7 @@ def statute_sections():
         if n not in out:                       # first occurrence is the heading
             # The statute puts the section title and subsection (a) on the SAME LINE --
             # "SEC. 6. INDIVIDUAL LIABILITY. (a) Offense. A controlling person who..." --
-            # so take only the leading capitalised title and stop at its period.
+            # so take only the leading capitalized title and stop at its period.
             raw = m.group(2).strip()
             mt = re.match(r"([A-Z0-9 ,'&()/\-]+?)\.(?:\s|$)", raw)
             out[n] = (mt.group(1) if mt else raw[:60]).strip().rstrip(".")

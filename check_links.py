@@ -13,7 +13,12 @@ before a push, not an opinion.
 """
 import io, os, re, sys, urllib.parse
 
-SKIP_DIRS = {".git", "_site", "node_modules", ".jekyll-cache"}
+SKIP_DIRS = {".git", "_site", "node_modules", ".jekyll-cache",
+             # _to_delete is a holding area, not repository content. Files are moved
+             # there because the device shell cannot delete; sweeping it reports links
+             # that were correct where the file used to live. Added 26 Aug 2026 when
+             # parking 21 retired signposts produced 50 phantom dead links.
+             "_to_delete", "_patches"}
 
 # Files that are deliberately reachable from nowhere, with the reason. A tombstone that
 # explains itself is not an orphan; anything else in this list needs justifying here.

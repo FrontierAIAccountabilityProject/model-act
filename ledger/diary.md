@@ -710,9 +710,9 @@ diary's earlier hand, as the record requires.
 # what just happened — the running log
 
 *one entry per upload. newest first. plain words. failures in the same font size as
-wins. the [changelog](../CHANGELOG.md) holds the detail; the [errata register](../ERRATA.md)
+wins. the [changelog](./changelog.md) holds the detail; the [errata register](./errata.md)
 holds the mistakes; this page holds the project's own story. (the world's
-story, plain words, is [context: summer 2026](../docs/07-context-timeline.md); the
+story, plain words, is [context: summer 2026](../docs/the_case.md); the
 evidence-grade record of those dates is [the dossier timeline](../dossier/02_incident_timeline.md).)
 subscribe to the raw feed:
 [commits](https://github.com/FrontierAIAccountabilityProject/model-act/commits/main) ·
@@ -822,7 +822,7 @@ own rule, the courtroom check, the staffer question, and privilege. retained ≠
 rich; pro bono is a door.
 
 **17 aug 2026 · the identity machinery, published.** recruiting real humans begins, so
-[behind the scenes](../docs/08-behind-the-scenes.md) now states the naming rules before
+[behind the scenes](./diary.md) now states the naming rules before
 they operate: the maintainer stays masked; retained counsel learns the name at
 engagement (privilege requires it); council members sign knowingly, conflicts disclosed;
 everyone else stays as anonymous as they like. the governed get the process in daylight
@@ -846,11 +846,11 @@ stays in the tree. "who this needs" compressed to two pointers: work items → t
 companion's READ FIRST; the five seats → docs/08. and this log now exists, linked
 from the front page — one entry per upload, from here on.
 
-**17 aug 2026 · integrity patch.** [ERRATA.md](../ERRATA.md) opened — we audited our own
+**17 aug 2026 · integrity patch.** [ERRATA.md](./errata.md) opened — we audited our own
 explainer against our own statute: six contradictions, statute wrong 5, copy wrong 1.
 the pdf is withdrawn until builds are reproducible. "introducible" went into the swear
 jar; the file is now `jacket_clean.txt`, with a signpost at the old name. the archive
-got its correction note. new page: [behind the scenes](../docs/08-behind-the-scenes.md).
+got its correction note. new page: [behind the scenes](./diary.md).
 
 **17 aug 2026 · housekeeping.** first pass of the research-draft relabel, before the
 full patch landed the same afternoon.

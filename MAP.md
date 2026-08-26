@@ -36,11 +36,11 @@ through it: [REVIEWERS.md](./REVIEWERS.md).*
 
 ### Introduction — the problem, the question, the scope
 
-* **[The problem](./docs/01-the-problem.md)**: The accountability gap, stated for any reader.
+* **[The problem](docs/the_case.md#the-problem)**: The accountability gap, stated for any reader.
 * **[The case](./docs/the_case.md)**: The central claim and its aims.
 * **[The master narrative](./dossier/01_master.md)**: The whole story in one document, press register — the case as a story rather than an argument.
-* **[The context timeline](./docs/07-context-timeline.md)**: The 2026 events in public order.
-* **[The government caught one](./docs/09-the-government-caught-one.md)**: The state's own evaluation incident, plainly.
+* **[The context timeline](docs/the_case.md)**: The 2026 events in public order.
+* **[The government caught one](docs/the_case.md)**: The state's own evaluation incident, plainly.
 * **[The definition](./docs/the_definition.md)**: Scope — the laboratories' "frontier" beside the Act's.
 * **[Frontier models](./research/frontier_models.md)**: Scope quantified — who crosses 10²⁶, who won't say.
 * **[Frontier enterprises](./research/frontier_enterprises.md)**: Scope embodied — twelve companies, four layers, the re-runnable selection test.
@@ -51,7 +51,7 @@ through it: [REVIEWERS.md](./REVIEWERS.md).*
 
 * **[The verification record](./research/verification_record.md)**: Sources doctrine — grades, the claims that failed, every instrument's recorded read-status.
 * **[House language](./standards/house_language.md)**: Language method — the verb analysis, the headline corpus, the work-in-hand rule.
-* **[The precedents](./docs/02-the-precedents.md)**: Theoretical lens — *Dotterweich*, *Park*, public-welfare doctrine.
+* **[The precedents](docs/the_case.md#the-precedents)**: Theoretical lens — *Dotterweich*, *Park*, public-welfare doctrine.
 * **[Why a signature works](./standards/why_a_signature_works.md)**: The theory of personal certification, on government evidence.
 * **[Why the disparity](./standards/why_the_disparity.md)**: The normative argument.
 * **[The commentary sweep](./standards/commentary_sweep.md)**: A stated, re-runnable empirical test.
@@ -59,7 +59,7 @@ through it: [REVIEWERS.md](./REVIEWERS.md).*
 * **[How to file a federal comment](./filings/how_to_file_a_federal_comment.md)**: The practice, made repeatable by anyone.
 * **[Banked threads](./filings/banked_threads.md)**: The discipline applied even to social posts — claims held until their facts publish.
 * **[The diary](./ledger/diary.md)**: Research design disclosed day by day, AI assistance included.
-* **[The track record](./docs/06-track-record.md)**: The self-correction method, shown outward.
+* **[The track record](docs/the_case.md#the-track-record)**: The self-correction method, shown outward.
 
 ### The Body — law as it stands, the record, the flaws, the reform
 
@@ -94,7 +94,7 @@ through it: [REVIEWERS.md](./REVIEWERS.md).*
 * **[The project in one page](./docs/abstract.md)**: The short account — what exists, counted; what the research found; what a reader is asked for and what they get back; and what this is not.
 * **[The lane sweep](./audit/v3_5_lane_sweep.md)**: Our own five-lane pre-review — seven defects graded fatal, four in the tagged statute.
 * **[The drafting record](./audit/record.md)**: Eight audits merged; at [chunk 7](./audit/record.md#chunk-7--the-hostile-brief-v33-read-by-the-other-sides-counsel), the hostile brief — the Act as opposing counsel reads it.
-* **[Assembly field notes](./audit/field_notes_for_assembly.md)**: The workbench of the current text, preserved.
+* **[Assembly field notes](audit/record.md#field-notes-for-assembly--chunk-6-inputs)**: The workbench of the current text, preserved.
 
 *The proposed reform:*
 
@@ -105,8 +105,8 @@ through it: [REVIEWERS.md](./REVIEWERS.md).*
 * **[The reviewer's copy](./archive/model_act_v3_4_reviewers_copy.pdf)**: Line-numbered for annotation — with **[its explainer](./archive/REVIEWERS_COPY.md)** and **[deterministic build script](./archive/build_reviewers_copy.py)**, provable by hash.
 * **[Bracketed matter](./standards/bracketed_matter.md)**: Every adopting-state choice, with considerations.
 * **[The fiscal note](./standards/fiscal_note.md)**: The costs, defects stated out loud.
-* **[What's in the Act](./docs/03-whats-in-the-act.md)** · **[the statute translated](./docs/the_statute_translated.md)** · **[what these words mean](./standards/what_these_words_mean.md)**: The reform for non-lawyers — summary, translation, glossary.
-* **[For legislators](./standards/for_legislators.md)** · **[how to hand over a bill](./docs/04-how-to-hand-over-a-bill.md)** · **[where and when](./docs/05-where-and-when.md)** · **[the open letters](./dossier/06_the_open_letters.md)**: The delivery apparatus, including the letters already sent.
+* **[What's in the Act](docs/the_case.md#what-the-act-provides)** · **[the statute translated](./docs/the_statute_translated.md)** · **[what these words mean](./standards/what_these_words_mean.md)**: The reform for non-lawyers — summary, translation, glossary.
+* **[For legislators](./standards/for_legislators.md)** · **[how to hand over a bill](docs/the_case.md#how-a-bill-is-handed-over)** · **[where and when](docs/the_case.md#where-and-when)** · **[the open letters](./dossier/06_the_open_letters.md)**: The delivery apparatus, including the letters already sent.
 * *The reform's version history:* **[v3.3 at root, for diffing](./model_act_v3_3.txt)** · **[v2 print](./archive/model_act_v2.pdf)** · **[v3.2 print](./archive/model_act_v3_2.pdf)** and **[text](./archive/model_act_v3_2.txt)** · **[v3.3 text](./archive/model_act_v3_3.txt)**, **[notes](./archive/model_act_v3_3_companion.md)**, **[jacket](./archive/model_act_v3_3_jacket_clean.txt)** · **[the withdrawn typeset edition](./archive/model_act_v3_3_withdrawn.pdf)** (E7 — the failure that produced the build script) · eighteen page images of the old editions.
 
 ### Conclusion — findings acted on, open items, emerging issues
@@ -123,10 +123,10 @@ is currently a set of open questions with drafted answers awaiting review.*
 * **[Table of authorities](./standards/table_of_authorities.md)**: Bibliography — every citation and what it is cited for.
 * **[The errata register](./ledger/errata.md)**: Corrigenda, append-only to E32 — each mistake beside its fix.
 * **[The changelog](./ledger/changelog.md)**: Version history, checksummed, drift noted.
-* **[The ledger front](./LEDGER.md)** · **[errata signpost](./ERRATA.md)** · **[changelog signpost](./CHANGELOG.md)**: The accountability structure, findable by its conventional names.
+* **[The ledger front](./LEDGER.md)** · **[errata signpost](ledger/errata.md)** · **[changelog signpost](ledger/changelog.md)**: The accountability structure, findable by its conventional names.
 * **[Citation metadata](./CITATION.cff)** · **[License](./LICENSE)**: How to cite; public domain.
 * *Orientations:* **[audit](./audit/README.md)** · **[docs](./docs/README.md)** · **[standards](./standards/README.md)** · **[ledger](./ledger/README.md)** · **[dossier](./dossier/README.md)** (opens with its corrections table) · **[dossier inner](./dossier/00_README.md)** · **[filings](./filings/README.md)** · **[archive](./archive/README.md)**.
-* *Traveled links, kept:* eight `chunk*.md` redirect stubs · **[the behind-the-scenes stub](./docs/08-behind-the-scenes.md)** — a path that has been cited is never broken.
+* *Traveled links, kept:* eight `chunk*.md` redirect stubs · **[the behind-the-scenes stub](ledger/diary.md)** — a path that has been cited is never broken.
 * **[One dated screenshot](./dossier/x_todays_news_2026-08-18.png)**: Project-level artifact.
 
 ---
@@ -190,7 +190,7 @@ chapter whose work it does. If it fits no chapter, that is a finding about the f
 | [`ledger/errata.md`](./ledger/errata.md) | **Every published claim this project got wrong**, with the fix. E1–E31. The project's only credential. | append-only |
 | [`ledger/changelog.md`](./ledger/changelog.md) | **What changed in the statute and when**, with checksums. Also the "between versions" notes for apparatus movement. | append-only |
 | [`ledger/diary.md`](./ledger/diary.md) | The working account, day by day, and the Recent artifact index. | append-only |
-| [`LEDGER.md`](./LEDGER.md) · [`ERRATA.md`](./ERRATA.md) · [`CHANGELOG.md`](./CHANGELOG.md) | Index and historic register names; the anchors are cited in published material and still land. | signpost |
+| [`LEDGER.md`](./LEDGER.md) · [`ERRATA.md`](ledger/errata.md) · [`CHANGELOG.md`](ledger/changelog.md) | Index and historic register names; the anchors are cited in published material and still land. | signpost |
 
 ## The drafting record — `audit/`
 

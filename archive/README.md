@@ -6,7 +6,7 @@ versions stay public, and corrections travel with them. This note is the correct
 **`model_act_v3_3_withdrawn.pdf`** (withdrawn 17 August 2026; moved here 18 August 2026).
 The typeset edition of v3.3, withdrawn pending a reproducible rebuild from the
 authoritative source. Its cover note still carries the pre-patch label ("the introducible
-text") — that label is retired and wrong (see [ERRATA E7](../ERRATA.md)); the statutory
+text") — that label is retired and wrong (see [ERRATA E7](../ledger/errata.md)); the statutory
 text it typesets is v3.3 as of 16 August. A one-page signpost holds the old root path, and a verified
 typeset edition returns with the rebuild. **Note, 20 August 2026:** this entry was written
 when v3.3 was current. The authoritative text is now
@@ -18,7 +18,7 @@ are historical and correct as written.
 The v3.2 penalty arithmetic — the stacked-maximums figure that circulated — was corrected
 at v3.3: the valve is enacted sentencing law, not stacked statutory maximums. See
 [the Ledger, Part II](../ledger/changelog.md) and
-[/audit/chunk3_penalty_architecture.md](../audit/chunk3_penalty_architecture.md) for the
+[/audit/chunk3_penalty_architecture.md](../audit/record.md#chunk-3--penalty-architecture-for-v33-sec-7-rework-and-bracket-calibration) for the
 architecture and the enacted-family numbers (CA/NY/IL: \$1M severity-scaled, "not to
 exceed," with recidivism steps).
 

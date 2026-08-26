@@ -2042,7 +2042,7 @@ the power. (One known gap, logged in public rather than smoothed over: the curre
 still lacks a written de-minimis rule for thin deployers — a company that merely operates
 someone else's validated system. The fix — documented reliance on the upstream validation
 plus your own configuration manifest — is first in the cure queue. Receipts:
-[ERRATA.md](../ERRATA.md), entry E5.)
+[ERRATA.md](../ledger/errata.md), entry E5.)
 
 **"Ten men" — isn't that a conspiracy-theory framing?**
 The statute names nobody, and it isn't gendered. Its word is *controlling person*:
