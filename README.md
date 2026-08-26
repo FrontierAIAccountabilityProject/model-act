@@ -1,8 +1,3 @@
----
-title: Model Act — Frontier AI Public Welfare Offenses
-nav_order: 1
----
-
 # Model Act — Frontier AI Public Welfare Offenses
 
 **A model state statute that makes a named officer of a frontier AI company personally answerable
