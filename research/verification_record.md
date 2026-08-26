@@ -452,7 +452,7 @@ not carry, the citation is the defect — add the row before the reliance.*
 
 ⚠ **And that rule is broken at scale, stated here rather than discovered later.** A file-by-file
 comparison on 26 August 2026 found **180 of the 239 sources on the shelf have no row in this
-table.** The rows above cover the criminal-reporter batch and the 26 August retrieval, added because
+table.** ⚠ **And a companion claim made the same day — that every case cited in prose now carries a read-status — was false; see [E63](../ledger/errata.md).** The rows above cover the criminal-reporter batch and the 26 August retrieval, added because
 published text now says those documents are held and the rule requires the row before the reliance.
 **The remaining unreconciled files are mostly press, hearing and bill captures from the intake
 batches of 24–26 August.** The section's opening promise — that the repository knows what the

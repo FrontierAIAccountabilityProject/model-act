@@ -74,6 +74,10 @@ def trim_first_party(a):
     return " ".join(toks)
 
 def trim_second_party(b):
+    # Stop at a sentence boundary. Without this the caption bleeds into the next
+    # sentence -- "Ulster County v. Allen. Extend the", "X Corp. v. Bonta. Recast"
+    # -- and then matches no row, reporting real rows as missing. Found 26 Aug 2026.
+    b = re.split(r"(?<=[a-z\)])\.\s+(?=[A-Z])", b)[0]
     """Stop at the first token that is prose rather than part of the name."""
     toks = b.split()
     for i, tok in enumerate(toks):
@@ -205,8 +209,20 @@ def main():
     def known(c):
         parts = c.split(" v. ")
         long_parts = [p for p in parts if len(p) > 4]
-        if any(p[-16:] in toa_text or p[:16] in toa_text for p in long_parts):
-            return True
+        # A party name only counts as evidence of a row if SOME SINGLE ROW carries
+        # both parties. Testing each party against the whole table separately was
+        # a silent under-count: "Johnson v. United States" matched because some
+        # other row says "United States", and "Lambert v. California" matched on
+        # "California". Three cases sat in prose with no row while this reported
+        # zero, on 26 Aug 2026. See E63.
+        if len(long_parts) >= 2:
+            a, b = long_parts[0], long_parts[-1]
+            if any(a[:16] in r and b[:16] in r for _, r in toa_rows):
+                return True
+        elif long_parts:
+            p = long_parts[0]
+            if any(p[:16] in r for _, r in toa_rows):
+                return True
         # Both party names short — the length guard above can never match them,
         # so a rowed case like "Liu v. SEC" reported as unrowed forever. Fall
         # back to the whole caption against the flattened table. Found 26 Aug

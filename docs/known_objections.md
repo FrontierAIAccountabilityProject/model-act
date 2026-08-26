@@ -642,6 +642,95 @@ decides whether SEC. 8 is a real duty or a formality. A reviewer who concludes t
 inquiry must be defined, or that reliance on a named qualified person should be an express partial
 defense with the burden on the defendant, is doing the most useful thing available in this lane.
 
+## "Criminalise the failure and the safety paper stops being written" — added 26 August 2026
+
+*Raised from outside the project. **This is the strongest objection on this page**, and it is a
+mechanism rather than a slippery slope, which is why it belongs above the others.*
+
+### The objection
+
+Aviation is the standard illustration. The **Aviation Safety Reporting System** gives near-immunity
+for self-reported error, and the result is the safest transport mode ever built, because everyone
+reports everything. Criminalize the failure and behavior inverts: legal privilege over every risk
+assessment, safety teams instructed not to write things down, no red-team report that is not drafted
+for a jury.
+
+**And this Act's own willful-blindness route is what causes it.** If ignored warnings are the
+evidence of knowledge, the rational response is to stop generating warnings. **You get less safety
+paper, not more** — and the paper is the only thing anyone outside the firm can ever see.
+
+⚠ **Held as stated, not as verified.** The ASRS immunity design is not on this project's shelf and
+nothing here has read it. The mechanism is recorded because it is the objection; **its empirical
+premise is a retrieval, not a finding** ([E57](../ledger/errata.md)).
+
+### What the Act actually does, and it is the opposite of a safe harbor — deliberately
+
+**SEC. 8, verbatim:**
+
+> "A certification disclosing identified noncompliance **satisfies the duty to certify** under this
+> section; **it constitutes neither compliance with the applicable standards, nor validation, nor
+> cure of, nor a defense to, any violation of this Act**, and a certification disclosing unremediated
+> material nonconformity … shall so state on its face."
+
+Read that twice. **Honesty protects the certifier from the certification offense, and the same
+sentence goes out of its way to say honesty is no defense to the underlying violation.** That is a
+drafted choice, not an omission — the clause exists to foreclose exactly the reading the aviation
+objection would want.
+
+The Act's other candor machinery points the same way. **SEC. 5(c)(1)(D)** creates a category of
+"nonconformity report" for a document that discloses a problem without claiming it is cured, so the
+honest document has a name. **SEC. 11** pays whistleblowers. **Neither protects the person who
+reports their own failure**, which is precisely the person the aviation design protects.
+
+### Why this is the sharpest form of the objection, and it is not answered
+
+The Act **has** a candor provision and **stops short** of a safe harbor, and **no page in this
+repository says why.** `docs/safe_harbors_and_affirmative_defenses.md` is about *other people's* safe
+harbours as an inoculation pattern — Texas TRAIGA's NIST-compliance defense, Colorado's — and not
+about whether this Act should have one.
+
+**The honest statement of the design tension:** the willful-blindness theory wants ignorance to be
+culpable; the disclosure regime needs reporting to be safe. **Those pull in opposite directions**,
+and a regime that criminalizes the error rather than the concealment gets the second at the cost of
+the first.
+
+⚠ **Open, and it is the torts-and-design seat's question.** Whether SEC. 6(a) should carry a
+self-report mitigation — criminalize the concealment, not the error — and if not, on what account of
+why aviation's answer does not transfer. **Nobody in-house has attempted it.**
+
+---
+
+## Not yet on this page — objections named and not answered, 26 August 2026
+
+*Listed rather than argued, because a page that pretends to completeness is worse than one that
+carries its gaps. Each was raised from outside and **none of these words appears anywhere else in
+this repository.***
+
+| Objection | State |
+|---|---|
+| **Vagueness.** A duty framed as "reasonable safeguards" is unconstitutionally vague where the penalty is prison — *Lambert v. California*, and the vagueness line in *Johnson v. United States* (2015). Specify the controls and they are obsolete on arrival | ⚠ **Neither case is held or cited.** This is the constitutional objection that most often kills a bill in committee |
+| **The First Amendment flank.** Model weights and code as expression — *Bernstein* left it half-open and nobody has resolved it for frontier models | ⚠ Not held, not cited |
+| **You cannot criminalize a standard you cannot measure.** No eval suite with published false-negative rates, no agreed threshold for sufficiency, no elicitation methodology two labs would apply identically. Every expert-witness battle is a coin flip | ⚠ Prior to every legal question on this page, and unaddressed |
+| **Deterrence assumes the deterred party is the marginal supplier.** Jail the US executive and the capability arrives from an open-weight release instead. Weaker for the largest training runs; somebody should make this project quantify it rather than assert it | ⚠ Unaddressed |
+| **Reversibility.** A criminal statute is close to permanent; a regulation is amendable in months. Under this much model uncertainty the decision-theoretic move is the revisable instrument | ⚠ Unaddressed |
+| **Adverse selection in the leadership pool.** Criminal exposure filters for risk tolerance and legal budget, not for care. The conscientious officer declines the title | ⚠ Unaddressed. The proponent rated it "moderate" confidence and wanted it tested |
+| **Moral luck.** The identical decision goes free or gets six months depending on the user it met. Criminal law tolerates this everywhere, and it is sharper through a stochastic system | ⚠ Unaddressed |
+| **The mens rea reform pincer.** A fifteen-year legislative project to *add* default mens rea and shrink strict liability, with the overcriminalization literature already written. A new public-welfare offense walks onto ground that coalition chose | ⚠ `research/canon_check_2026-08-24.md` has the literature; **nothing anticipates the coalition** |
+
+**And the strongest argument *for* this Act is also missing.** *Jennifer Arlen's* point — that
+individuals respond to personal liability in a way firms never respond to fines, because prison
+cannot be insured against, indemnified, or booked as a cost line — **is the answer to most of the
+above and appears nowhere in this repository.** ⚠ Stated as reported and not read; her work is not
+on the shelf. **She was written to during outreach and never replied**, which makes the absence
+harder to excuse rather than easier.
+
+⚠ **And one empirical hole, which is the largest.** This project has the RCO doctrine and **none of
+the outcome data**. Whether responsible-officer liability measurably reduced adulteration or
+pollution rates has no answer anywhere in this repository. **The central analogy is currently a legal
+argument wearing an empirical one's clothes**, and until somebody looks, that is what it will stay.
+
+---
+
 ## "The veil is not the obstacle. Delegation is." — added 26 August 2026
 
 *Raised from outside the project, and it is the sharpest form of the individual-liability objection

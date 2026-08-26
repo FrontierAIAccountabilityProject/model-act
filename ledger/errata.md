@@ -2342,3 +2342,47 @@ instrument, which knows nothing and cannot read, caught in one second what caref
 wrong.** That is not an argument against restraint. It is the argument for putting negative findings
 somewhere a machine re-tests them, because judgment does not re-examine what it has already
 deliberately set aside.
+
+---
+
+## E63 — "every case cited in prose now has a read-status" was false, and the checker that said so was matching on the words "United States"
+
+**Status: reported to the maintainer three times on 26 August 2026 and written into
+`research/verification_record.md` and a retrieval brief. Corrected the same day.**
+
+**The claim.** That `check_citations.py` showed **zero** case captions cited in the repository's
+prose without a row in the table of authorities — announced as the closing of Tier 4, the nineteen
+captions that had never been graded.
+
+**The defect.** The matcher asked whether *either* party name of a caption appeared **anywhere in the
+table's text**. So *Johnson v. United States* matched, because dozens of rows say "United States."
+*Lambert v. California* matched on "California." **Any case with one common party name was
+unmatchable-as-missing**, permanently, no matter how absent its row.
+
+**What it hid.** *Lambert v. California* and *Johnson v. United States* — the two leading vagueness
+cases, cited on the objections page against this Act's own duty language, with no row and no
+read-status. **The vagueness objection is the one that most often kills a bill in committee, and its
+two authorities were invisible to the instrument built to find exactly this.**
+
+**The repair.** A party name now counts as evidence only where **some single row carries both
+parties**. And `trim_second_party` stops at a sentence boundary, because captions were bleeding into
+the following sentence — "Ulster County v. Allen. **Extend the**" — and then matching no row, which
+reported real rows as missing in the other direction.
+
+### The rule
+
+**E63 — a test that asks whether a token appears *somewhere in a corpus* is not a test about the row
+that should contain it. Membership questions are answered against the record, not against the file.**
+
+This is [E52](#e52--a-quotation-made-a-row-stop-being-a-row-and-the-sweep-counted-it-as-absent)'s
+family again — a structural question answered by substring — and the third time in one day that a
+checker reported a clean number while not looking at part of what it claimed to cover.
+
+### What was deliberately not done
+
+The sweep now reports **three** captions with no row that **do have rows**: abbreviation mismatches
+and one caption joined across an "and". Those are false positives and they are being left in.
+
+**Tuning a checker until it reports zero is the failure this register spent the day recording.** A
+false positive costs somebody a look. A false negative cost this project a published claim that was
+not true, repeated three times, in two documents. **The error is left pointing toward noise.**
