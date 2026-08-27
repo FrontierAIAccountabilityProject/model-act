@@ -8,10 +8,9 @@ nav_order: 2
 
 *Reviewing? **You are not expected to read this file top to bottom.** It is the working
 drafting record — entries sit in working order, not numeric order, and several carry HOLD or
-amendment blocks. The one-page state of play, your topic's table, and the reviewer path are at
-[REVIEWERS.md](./worklist.md); three topics have their whole apparatus on one printable page each
-at [the review packets](./worklist.md). This file's working labels map to the state-of-play
-column so the two never disagree in substance: *decision owed* = **DECISION NEEDED**; *not drafted /
+amendment blocks. **The one-page index of every open item, and who can close it, is
+[the worklist](./worklist.md); start there.** This file's working labels map to that register's
+labels so the two never disagree in substance: *decision owed* = **DECISION NEEDED**; *not drafted /
 for the … topic* = **HELD**; *adopt-ready* = **DRAFTED**; *⚠ amendments required before landing*
 = **NEEDS CHANGES FIRST**; *from the internal review, unchecked* and *from intake, unchecked* = **UNCHECKED**. The one-page index of every item is [the worklist](./worklist.md).*
 

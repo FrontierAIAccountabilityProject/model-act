@@ -6,13 +6,14 @@ nav_order: 3
 
 # The internal review, 22 August 2026 (frozen)
 
-*Arrived here from an invitation? This is step 2 of the reviewer path — the whole path, your topic's brief, and the terms: [REVIEWERS.md](./worklist.md). The whole repository, in chapter order: [the map, Part I](../README.md).*
+*A frozen record of an in-house pass run on 22 August 2026. **Every finding below is now carried in
+[the worklist](./worklist.md)**, which is the register and governs where the two differ.*
 
 > **This is not a review, and nothing here may be described as one.** The project's standing rule
 > is that nobody, the maintainer included, may claim this text "survived review" until named
 > reviewers sign. This document does not change that. It is **issue-spotting**, run in-house with
-> AI assistance, against the five topics the [review council](../revision/worklist.md)
-> defines — so that a reviewer's time is not spent rediscovering what we could
+> AI assistance, against the five topics the review council would cover if its seats were
+> filled — so that a reviewer's time is not spent rediscovering what we could
 > have found ourselves.
 >
 > **A reviewer arriving later can diff their findings against these.** Where a reviewer
