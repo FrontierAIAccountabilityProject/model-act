@@ -1,5 +1,5 @@
 ---
-title: "Errata Register — Public Explainers vs. Statute Text"
+title: "Errata register"
 parent: Corrections
 nav_order: 1
 ---

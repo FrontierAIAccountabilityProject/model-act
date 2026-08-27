@@ -1,5 +1,5 @@
 ---
-title: "The frontier bill census — every frontier AI bill in America, read"
+title: "Bill census"
 parent: Appendix
 nav_order: 1
 ---

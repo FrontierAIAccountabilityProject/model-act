@@ -1,5 +1,5 @@
 ---
-title: "The same conduct, prosecuted — what American law does when a person does it"
+title: "The same conduct, prosecuted"
 parent: Commentary
 nav_order: 3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bracketed matter — the adopting state's worksheet"
+title: "Bracketed matter"
 parent: The Act
 nav_order: 4
 ---

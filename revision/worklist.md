@@ -1,5 +1,5 @@
 ---
-title: "Worklist — every open item"
+title: "Worklist"
 parent: Revision
 nav_order: 1
 ---

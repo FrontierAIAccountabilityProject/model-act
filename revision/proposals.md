@@ -1,5 +1,5 @@
 ---
-title: "Proposals — drafted amendments, none adopted"
+title: "Proposals"
 parent: Revision
 nav_order: 2
 ---

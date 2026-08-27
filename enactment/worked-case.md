@@ -1,5 +1,5 @@
 ---
-title: "What a case under this Act would look like"
+title: "A worked case"
 parent: For Legislatures
 nav_order: 5
 ---

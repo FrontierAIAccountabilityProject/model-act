@@ -1,5 +1,5 @@
 ---
-title: "Two visions of the future — and the page missing from both"
+title: "Two visions"
 parent: Commentary
 nav_order: 9
 ---

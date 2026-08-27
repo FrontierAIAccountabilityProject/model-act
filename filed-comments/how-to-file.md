@@ -2,6 +2,8 @@
 title: "How to file a federal comment — a field guide"
 parent: Filed Comments
 nav_order: 3
+nav_exclude: true
+search_exclude: true
 ---
 
 # How to file a federal comment — a field guide

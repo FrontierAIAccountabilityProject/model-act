@@ -1,5 +1,5 @@
 ---
-title: "Frontier self-reporting and this Act — a technical note"
+title: "What laboratories publish"
 parent: Appendix
 nav_order: 3
 ---

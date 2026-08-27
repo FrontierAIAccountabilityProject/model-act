@@ -1,5 +1,5 @@
 ---
-title: "Adopted at v3.4 — the amendments as they landed (frozen)"
+title: "Adopted at v3.4 (frozen)"
 parent: Revision
 nav_order: 6
 ---

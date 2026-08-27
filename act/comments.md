@@ -1,5 +1,5 @@
 ---
-title: "MODEL ACT — Frontier AI Public Welfare Offenses"
+title: "Section-by-section comments"
 parent: The Act
 nav_order: 2
 ---

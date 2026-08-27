@@ -1,5 +1,5 @@
 ---
-title: "Already a crime, if you are a person"
+title: "Already a crime"
 parent: Commentary
 nav_order: 2
 ---

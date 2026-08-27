@@ -1,5 +1,5 @@
 ---
-title: "Who has to tell you — the duty to disclose runs backward"
+title: "Who has to tell you"
 parent: Appendix
 nav_order: 4
 ---

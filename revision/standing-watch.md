@@ -1,5 +1,5 @@
 ---
-title: "Standing watch — re-sweep, 20 August 2026 (frozen)"
+title: "Standing watch (frozen)"
 parent: Revision
 nav_order: 5
 ---

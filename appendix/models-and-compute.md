@@ -1,5 +1,5 @@
 ---
-title: "Frontier models, their developers, and the compute threshold"
+title: "Models and compute"
 parent: Appendix
 nav_order: 6
 ---

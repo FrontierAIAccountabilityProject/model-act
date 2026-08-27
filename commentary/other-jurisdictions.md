@@ -1,5 +1,5 @@
 ---
-title: "Comparative officer liability — the primary provisions"
+title: "Other jurisdictions"
 parent: Commentary
 nav_order: 6
 ---

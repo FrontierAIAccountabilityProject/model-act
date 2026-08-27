@@ -1,5 +1,5 @@
 ---
-title: "What these words mean — a glossary for people who have to legislate about them"
+title: "Glossary"
 parent: Authorities
 nav_order: 2
 ---

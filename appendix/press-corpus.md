@@ -1,5 +1,5 @@
 ---
-title: "Press and commentary corpus — the July–August 2026 incidents"
+title: "Press corpus"
 parent: Appendix
 nav_order: 8
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Why the disparity exists — twelve explanations, argued rather than assumed"
+title: "Why the disparity exists"
 parent: Commentary
 nav_order: 4
 ---

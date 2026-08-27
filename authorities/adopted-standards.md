@@ -1,5 +1,5 @@
 ---
-title: "The interim standards — the adopted texts, pinned"
+title: "Adopted standards"
 parent: Authorities
 nav_order: 3
 ---

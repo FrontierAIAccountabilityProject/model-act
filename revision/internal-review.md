@@ -1,5 +1,5 @@
 ---
-title: "The internal review, 22 August 2026 (frozen)"
+title: "Internal review (frozen)"
 parent: Revision
 nav_order: 3
 ---

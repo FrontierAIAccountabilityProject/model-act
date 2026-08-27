@@ -1,5 +1,5 @@
 ---
-title: "The frontier enterprises — the coverage set"
+title: "Companies covered"
 parent: Appendix
 nav_order: 5
 ---

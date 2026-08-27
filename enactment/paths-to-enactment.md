@@ -1,5 +1,5 @@
 ---
-title: "Paths to enactment — how a model act reaches a floor"
+title: "Paths to enactment"
 parent: For Legislatures
 nav_order: 7
 ---

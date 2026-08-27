@@ -1,5 +1,5 @@
 ---
-title: "Questions this project is asked"
+title: "Questions"
 parent: Commentary
 nav_order: 11
 ---

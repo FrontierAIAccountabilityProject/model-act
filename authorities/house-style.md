@@ -1,5 +1,5 @@
 ---
-title: "House language — how this project describes frontier AI, and how it describes "
+title: "House language"
 parent: Authorities
 nav_order: 4
 ---

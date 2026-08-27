@@ -1,5 +1,5 @@
 ---
-title: "The pre-review pass, 24 August 2026 (frozen)"
+title: "Pre-review pass (frozen)"
 parent: Revision
 nav_order: 4
 ---

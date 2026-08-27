@@ -1,5 +1,5 @@
 ---
-title: "The examiner's bookshelf — a canon check (24 August 2026)"
+title: "Academic literature"
 parent: Appendix
 nav_order: 10
 ---

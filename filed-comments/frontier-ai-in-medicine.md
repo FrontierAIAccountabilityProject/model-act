@@ -2,6 +2,8 @@
 title: "Does the frontier touch medicine? — what the regulator can and cannot see"
 parent: Filed Comments
 nav_order: 4
+nav_exclude: true
+search_exclude: true
 ---
 
 # Does the frontier touch medicine? — what the regulator can and cannot see

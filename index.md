@@ -1,5 +1,5 @@
 ---
-title: Model Act — Frontier AI Public Welfare Offenses
+title: "Front page"
 nav_order: 1
 ---
 
@@ -100,7 +100,6 @@ Archived at CERN — DOI [10.5281/zenodo.22029795](https://doi.org/10.5281/zenod
 | [**Appendix**](./appendix/index.md) | What was actually checked, and what it showed | [The bill census](./appendix/bill-census.md) — every frontier AI bill in America, read one at a time |
 | [**Authorities**](./authorities/index.md) | Look-up material | [Table of authorities](./authorities/table-of-authorities.md) — every source, with whether anyone read it |
 | [**Corrections**](./corrections/index.md) | Every mistake this project has made, kept with the rule it produced | [Corrections](./corrections/corrections.md) — sixty-one entries, append-only |
-| [**Filed Comments**](./filed-comments/index.md) | Federal rulemaking comments filed by this project | [Who actually files](./filed-comments/who-files.md) |
 
 ---
 

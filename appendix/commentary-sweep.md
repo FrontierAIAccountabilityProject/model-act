@@ -1,5 +1,5 @@
 ---
-title: "Commentary sweep — what the specialists say is missing, and what none of them "
+title: "Commentary sweep"
 parent: Appendix
 nav_order: 2
 ---

@@ -2,6 +2,8 @@
 title: "Who actually files — the room where it is decided, and how few people are in i"
 parent: Filed Comments
 nav_order: 2
+nav_exclude: true
+search_exclude: true
 ---
 
 # Who actually files — the room where it is decided, and how few people are in it

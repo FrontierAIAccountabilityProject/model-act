@@ -1,5 +1,5 @@
 ---
-title: "Safe harbors, affirmative defenses, and the half-statute: the inoculation patt"
+title: "Half-statutes"
 parent: Commentary
 nav_order: 8
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The forecasters' arithmetic — what the AI Futures corpus does to this statute"
+title: "Forecasts"
 parent: Appendix
 nav_order: 11
 ---

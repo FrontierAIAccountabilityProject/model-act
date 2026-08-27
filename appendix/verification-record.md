@@ -1,5 +1,5 @@
 ---
-title: "The verification record"
+title: "Verification record"
 parent: Appendix
 nav_order: 12
 ---

@@ -1,5 +1,5 @@
 ---
-title: "AISI Security Incident INC-2026-07-28-01 — read in full"
+title: "AISI incident report"
 parent: Appendix
 nav_order: 7
 ---

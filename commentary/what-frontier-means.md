@@ -1,5 +1,5 @@
 ---
-title: "Two definitions of 'frontier'"
+title: "What 'frontier' means"
 parent: Commentary
 nav_order: 7
 ---

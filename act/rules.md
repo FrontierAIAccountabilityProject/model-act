@@ -1,5 +1,5 @@
 ---
-title: "Rules"
+title: "Draft rules"
 parent: The Act
 nav_order: 3
 ---

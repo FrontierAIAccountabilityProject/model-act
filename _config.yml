@@ -42,7 +42,7 @@ back_to_top_text: "Back to top"
 aux_links:
   "The file repository — authoritative record":
     - "https://github.com/FrontierAIAccountabilityProject/model-act"
-footer_content: "A publication of the Frontier AI Accountability Project · Public domain (CC0) · v3.4 tagged, checksums in the ledger · This site mirrors the repository; the repository is the authoritative record."
+footer_content: "A publication of the Frontier AI Accountability Project · Public domain (CC0) · v3.4.2 current, checksums in the ledger · This site mirrors the repository; the repository is the authoritative record."
 
 # The sidebar is a curated reading order, nine entries, not a directory listing:
 # the reviewer page, the review packets, the long documents, the glossary, the map.
@@ -59,9 +59,10 @@ defaults:
   # 26 August 2026, so its first rule (nav_exclude: true for path "") was the only
   # one still matching and the sidebar rendered empty.
   - scope:
-      path: "archive"          # superseded versions: reachable by link, never by search
-    values:
-      search_exclude: true
+      path: "archive"          # superseded versions: reachable by link, never by search,
+    values:                      # and never in the sidebar -- seven files there carried no
+      search_exclude: true       # front matter, so each rendered as a stray top-level entry
+      nav_exclude: true
   - scope:
       path: "corrections/drafting-history.md"   # 356KB frozen record; it would drown the index
     values:

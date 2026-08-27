@@ -1,5 +1,5 @@
 ---
-title: "The state enforcement record — what officers of frontier developers already fa"
+title: "State enforcement"
 parent: Appendix
 nav_order: 9
 ---

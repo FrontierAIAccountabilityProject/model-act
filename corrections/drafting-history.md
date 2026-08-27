@@ -1,5 +1,5 @@
 ---
-title: "The drafting record"
+title: "Drafting record"
 parent: Corrections
 nav_order: 3
 ---
