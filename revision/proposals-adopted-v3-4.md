@@ -1,10 +1,10 @@
 ---
-title: "v3.4 Cure Branch — Drop-in Amendment Language (Working Draft)"
+title: "Adopted at v3.4 — the amendments as they landed (frozen)"
 parent: Revision
 nav_order: 6
 ---
 
-# v3.4 Cure Branch — Drop-in Amendment Language (Working Draft)
+# Adopted at v3.4 — the amendments as they landed (frozen)
 
 > **STATUS — LANDED (19 August 2026).** Every cure below entered the statute verbatim
 > at v3.4; the diff between this file and `model_act_v3_4.txt` is the review artifact.

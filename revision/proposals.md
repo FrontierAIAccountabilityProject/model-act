@@ -1,10 +1,10 @@
 ---
-title: "v3.5 Cure Branch — Drop-in Amendment Language (Open Queue)"
+title: "Proposals — drafted amendments, none adopted"
 parent: Revision
 nav_order: 2
 ---
 
-# v3.5 Cure Branch — Drop-in Amendment Language (Open Queue)
+# Proposals — drafted amendments, none adopted
 
 *Reviewing? **You are not expected to read this file top to bottom.** It is the working
 drafting record — entries sit in working order, not numeric order, and several carry HOLD or

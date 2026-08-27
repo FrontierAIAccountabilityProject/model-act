@@ -1,10 +1,10 @@
 ---
-title: "Pre-review pass — problems found before the reviewers arrive (24 August 2026)"
+title: "The pre-review pass, 24 August 2026 (frozen)"
 parent: Revision
 nav_order: 4
 ---
 
-# Pre-review pass — problems found before the reviewers arrive (24 August 2026)
+# The pre-review pass, 24 August 2026 (frozen)
 
 *The maintainer asked whether it is time to recheck the statute and the open items and to make
 the reviewers' work easier by pre-finding problems and drafting fixes. This file is the first

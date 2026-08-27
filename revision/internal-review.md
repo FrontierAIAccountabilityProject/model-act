@@ -1,10 +1,10 @@
 ---
-title: "The internal review — an in-house pre-review, 22 August 2026"
+title: "The internal review, 22 August 2026 (frozen)"
 parent: Revision
 nav_order: 3
 ---
 
-# The internal review — an in-house pre-review, 22 August 2026
+# The internal review, 22 August 2026 (frozen)
 
 *Arrived here from an invitation? This is step 2 of the reviewer path — the whole path, your topic's brief, and the terms: [REVIEWERS.md](./worklist.md). The whole repository, in chapter order: [the map, Part I](../README.md).*
 

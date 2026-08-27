@@ -1,10 +1,10 @@
 ---
-title: "Dispositions — the register of review outcomes"
+title: "Dispositions — what reviewers said, and what was done"
 parent: Revision
 nav_order: 7
 ---
 
-# Dispositions — the register of review outcomes
+# Dispositions — what reviewers said, and what was done
 
 No review has been received. This page exists **before** the first one so that the rules
 of publication are fixed in advance, in public, and cannot be bent around any particular

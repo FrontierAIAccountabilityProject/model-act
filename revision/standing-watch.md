@@ -1,10 +1,10 @@
 ---
-title: "Standing watch — re-sweep, 20 August 2026"
+title: "Standing watch — re-sweep, 20 August 2026 (frozen)"
 parent: Revision
 nav_order: 5
 ---
 
-# Standing watch — re-sweep, 20 August 2026
+# Standing watch — re-sweep, 20 August 2026 (frozen)
 
 *The Comments's STANDING WATCH was last swept 16 August 2026 and carries its own
 instruction: "the first act of any v3.5 drafting chunk is the re-sweep." This is that
