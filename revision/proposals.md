@@ -1,10 +1,23 @@
 ---
-title: "Proposals"
+title: "Proposals (v3.4)"
 parent: Revision
 nav_order: 2
 ---
 
-# Proposals — drafted amendments, none adopted
+# Proposals — the drafted repairs, keyed to v3.4
+
+> **Superseded in part, 27 August 2026.** The Act is now at **v3.4.2** — [statutory text](../act/Model-Act-v3.4.2-statutory-text.pdf),
+> [annotated](../act/Model-Act-v3.4.2-annotated.pdf). The defect this section was opened to track,
+> that SEC. 6(a) could not be pleaded as drafted, **is repaired**; the section and subsection
+> numbering is corrected throughout and the findings at SEC. 0 are renumbered and extended.
+>
+> **The three live pages in this section are keyed to v3.4 and have not been reconciled item by
+> item against v3.4.2.** Their counts — sixty-nine open items, twenty-three drafted amendments, none
+> adopted — describe v3.4 and are no longer the state of the Act. They are left standing rather than
+> quietly rewritten, because a revision record that edits itself is not a record. The current list of
+> what is open is at the back of the annotated text: **six questions**, each marked in the statute at
+> the provision it concerns.
+
 
 *Reviewing? **You are not expected to read this file top to bottom.** It is the working
 drafting record — entries sit in working order, not numeric order, and several carry HOLD or
