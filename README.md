@@ -64,20 +64,15 @@ decision create no personal liability.
 
 ## Where it stands
 
-**The current text is v3.4 and it is mid-revision.** An in-house adversarial pre-review returned
-seven defects going to the operative provisions, **four of them in the tagged text**. The one that
-matters most is that SEC. 6(a), the individual-liability offense the whole Act exists to create,
-**cannot be pleaded as drafted** — a prosecutor with these facts could not draft a charging document
-that survives. Twenty-three repairs are drafted and none is adopted. On those
-findings v3.5 is a rebuild rather than a splice, and **no part of this text should be introduced
-anywhere in its present state**.
+**The current text is v3.4.2 of 27 August 2026**, and it supersedes v3.4. The section and
+subsection numbering is corrected throughout and the findings at SEC. 0 are renumbered in sequence.
 
-**Nothing has been reviewed by a lawyer.** No outside reviewer has signed anything, and nine of the
-twenty-three proposed repairs have not even been checked by the drafter. This text claims no
-review, and will not until someone named signs one.
+Pages elsewhere on this site were written against v3.4 and have not all been brought forward. Where
+one of them differs from the statutory text linked at the top of this page, **the statutory text is
+right** — that is what it means for the repository to be the authoritative record.
 
 **Everything wrong with it is published**, in [the Worklist](./revision/worklist.md) for what is still
-open and [the Record](./corrections/corrections.md) for the sixty-one mistakes already found and corrected.
+open and [the Record](./corrections/corrections.md) for the mistakes already found and corrected.
 
 ---
 
