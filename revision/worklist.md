@@ -165,6 +165,9 @@ is as publishable as an endorsement, and is worth more.
 | DOC-23 | Document | no | **UK AISI incident report INC-2026-07-28-01**, now held. Read § 4 (events) and § 5 (contributing factors) against SEC. 5(b), SEC. 9(a) and Amendment 10. The Act's interim controls were written from press accounts of this document |
 | DOC-24 | Report | no | **AISI, *Loss of Oversight*** (Taylor, Heitmann et al., 82pp, now held) — 25 expert interviews on whether AI systems can be audited, monitored and investigated at all. Bears directly on OBJ-3, which says the Act criminalizes a standard nobody can measure, and OBJ-3 currently has no answer |
 | DOC-25 | Standard | no | **International Network for Advanced AI Measurement, *Automated Evaluation of LLMs: Best Practice*** (20pp, now held). SEC. 3 presupposes evaluation standards exist; this is one, from a body the Act does not cite |
+| DOC-26 | Capture | no | **METR, *Recent Frontier Models Are Reward Hacking*** (Von Arx, Chan, Barnes, 5 June 2025) — held as an HTML capture. Models optimizing the measure rather than the goal is the mechanism behind Amendment 4's divergence trigger, and this project cites METR's inventory without having read this |
+| DOC-27 | Capture | no | **`UKGovernmentBEIS/aisi-sandboxing`** — the AI Security Institute's own open-source sandboxing toolkit for agentic evaluations, held as a repository-page capture. **Amendment 10 writes four interim containment controls into the statute; the institute publishes a working implementation and this project has never looked at it** |
+| DOC-28 | Capture | no | *Detecting Safety Violations Across Many Agent Traces*, arXiv:2604.11806 (Stein, Brown, Hassani, Naik, Wong, 13 Apr 2026) — **abstract page only; the paper itself is not held.** Bears on OBJ-3, which says the Act criminalizes a standard nobody can measure |
 
 ## 2 · Document missing
 
