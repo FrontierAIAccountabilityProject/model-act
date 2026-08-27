@@ -6,6 +6,14 @@ has_children: true
 
 # For legislators and their staff — the four things this project checked so you do not have to
 
+> **Keyed to v3.4, 27 August 2026.** The findings on this page are about other people's statutes,
+> other people's frameworks and other jurisdictions' doctrine, and none of them turns on which
+> version of this Act is current. Two things do: the reference to the open queue at Amendment 7
+> below, and the statement at the foot of this page that the draft claims no completed review. The
+> current text is **v3.4.2** — [statutory text](../act/Model-Act-v3.4.2-statutory-text.pdf),
+> [annotated](../act/Model-Act-v3.4.2-annotated.pdf) — and where this page differs from it, it governs.
+
+
 *A working file for members and legislative staff considering frontier-AI legislation. It
 answers one question the current discourse does not ask: **does any of this reach a natural
 person?** Every fact below is public and independently checkable — that is the point, and the
@@ -103,8 +111,8 @@ personal reach is zero at every point on that range.** *Sources:
 [the adopted texts](../authorities/adopted-standards.md), pinned verbatim;
 [the standing watch](../revision/standing-watch.md).*
 
-**And the bill that mandates the brake does not say whose hand is on it.** H.R. 9917, the AI Kill
-Switch Act, introduced 23 July 2026 by Representatives Lieu and Moran, would require covered
+**And the bill that mandates the brake does not say whose hand is on it.** H.R. 9917 (119th
+Cong.), the AI Kill Switch Act, introduced 23 July 2026 by Representatives Lieu and Moran, would require covered
 entities to maintain the technical ability to throttle, suspend or shut down a covered system, and
 would let Homeland Security order it — backed by civil penalties of up to \$2,000,000 a day, and
 \$20,000,000 a day for breach of an emergency order. Searched for the terms this file searches
