@@ -16,9 +16,10 @@ claims the evidence record makes on a source that has not been confirmed. **Cita
 quotations read in the source whose page number the copy held cannot confirm — clearable only with
 library access, and not part of reviewing the Act.
 
-**Responses.** Name the item, state the conclusion, give the reasons. Responses are published as
-written, under a name or anonymously; the drafter may reply alongside one and may not edit or
-overrule it. A rejection is as publishable as an endorsement.
+**Responses.** Name the item, state the conclusion, give the reasons. **No review has been received.**
+When one is, it is published verbatim — the reviewer's own words, in full, under their own name or
+anonymously at their election, and the maintainer may reply beside it but may never edit or overrule
+it. A rejection is as publishable as an endorsement, and is worth more.
 `FrontierAIAccountabilityProject@proton.me`
 
 ---

@@ -144,13 +144,11 @@ not describe any named person.** Separate and serious questions about psychosis 
 
 ## The legal words, since half the confusion runs the other way
 
-**Disposition.** A reviewer's determination of a question they took, published as written. Borrowed
-from the judicial sense, where a review is how a matter is finally determined rather than
-merely discussed. In this project it means: the reviewer decides, the maintainer publishes without
-editing and may only respond beside it, and the finding stands under the reviewer's name or
-anonymously at their election. It is not advice, not a consultation, and never an endorsement. The
-rules of publication, fixed before the first one arrived, are at
-[the reviews register](../revision/reviews-received.md).
+**Review.** A reviewer's determination of a question they took, published as written. The reviewer
+decides; the maintainer publishes without editing and may only respond beside it; the finding stands
+under the reviewer's name or anonymously at their election. It is not advice, not a consultation,
+and never an endorsement. **No review has yet been received.** The rules of publication are at
+[the worklist](../revision/worklist.md).
 
 **Lane, and reviewer.** A *topic* is a subject area of the review: criminal law, enforcement, frontier
 security, fiscal, federalism, proportionality, torts and design, open source and academia. A *reviewer*

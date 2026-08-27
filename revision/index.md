@@ -33,4 +33,3 @@ where any of it disagrees with the worklist, the worklist is right.**
 | [The internal review](./internal-review.md) | The in-house adversarial pass of 22 August 2026, which found the defects in the operative provisions |
 | [The pre-review pass](./pre-review.md) | 24 August 2026 — problems found before any reviewer arrived |
 | [Standing watch](./standing-watch.md) | The re-sweep of 20 August 2026 |
-| [Dispositions](./reviews-received.md) | What outside reviewers said, and what was done about it. Grows when a reviewer replies |

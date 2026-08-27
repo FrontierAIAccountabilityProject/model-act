@@ -1,3 +1,14 @@
+<!-- RETIRED from the public site 27 August 2026.
+
+A page of rules for a process that has produced nothing: zero entries, sixty-three letters, four
+replies, none of them a review. It also carried the wreckage of an unbounded find-and-replace that
+swapped "disposition" for "review" wherever the word appeared, including where it was the subject of
+the sentence — leaving two sections explaining why the project uses a word it no longer uses, and
+the sentence "a reviewer takes a reviewer".
+
+The two live sentences moved to revision/worklist.md. Kept here because nothing is deleted. Do not
+republish without rewriting: the definitional sections are broken. -->
+
 ---
 title: "Dispositions — what reviewers said, and what was done"
 parent: Revision
