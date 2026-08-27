@@ -5,25 +5,36 @@
 
 ---
 
-**A model state statute that makes a named officer of a frontier AI company personally answerable
-for shipping an unsafe model.** Not the company — the person who had the authority to stop it.
+**A model state statute that makes the natural person who held the authority to stop a frontier AI
+deployment personally criminally liable for shipping it without care.** Not the company — a corporate
+fine is absorbed as a cost. The person who decided.
 
-**It is a working draft under major revision, and it is not ready to introduce.** Four defects in
-the current text go to the operative provisions — including that the individual-liability offense
-the Act exists to create cannot be pleaded as drafted. It is published in this state on purpose, so the repair can
-be done in the open. Public domain: anyone may take it, change it, or build on it, without asking.
+**[Statutory text — v3.4.2 (PDF, 46pp)](./act/Model-Act-v3.4.2-statutory-text.pdf)** — SEC. 0 to
+SEC. 13, clean, nothing else.
 
-**The largest open question in it, stated on the front page.** This Act exists to make a small number
-of very powerful people personally answerable for deploying systems they had the authority to stop.
-SEC. 4(a)(4) reaches ownership, voting and governance rights held directly, indirectly, in concert,
-or through any trust or arrangement; SEC. 4(c) makes that non-delegable; and SEC. 4(a) excludes
-technical ability, so *I am not an engineer* is not a defense. **But SEC. 4(b)'s presumption operates
-in civil proceedings only.** Where the remedy is money, the person holding the votes is presumed
-responsible. Where the remedy is prison, he is not. That is inverted for a statute built on the
-premise that a fine is absorbed and a sentence cannot be, and whether it can be drafted the other way
-is a constitutional question this project cannot answer alone.
+**[Annotated — v3.4.2 (PDF, 82pp)](./act/Model-Act-v3.4.2-annotated.pdf)** — the same text with
+drafting notes at each provision, sixteen objections and the answers to them, the open questions,
+and the source for every finding.
 
-**[Read the Act →](./act/model-act.txt)**  ·  17 pages of plain text, at v3.4.
+Everything else on this site is the drafting record: the audits, the errata, and the register of what
+is still open. Public domain — anyone may take it, change it, or build on it, without asking.
+
+---
+
+**Where it stands.** The current text is **v3.4.2 of 27 August 2026**. It supersedes v3.4, and
+statements elsewhere on this site about v3.4 should be read as superseded.
+
+An in-house adversarial review of v3.4 found that SEC. 6(a) — the individual-liability offense the
+Act exists to create — could not be pleaded as drafted. **That defect is repaired:** SEC. 6(a) now
+carries a predicate violation, a nexus between the failure of care and the violation, and an
+antecedent for the risk it concerns.
+
+**Six questions remain unresolved**, each marked in the text at the provision it concerns, with the
+answer this drafter would give — and what would defeat it — set out at the back of the annotated
+version.
+
+**Nothing has been reviewed by a lawyer.** No outside reviewer has signed anything. This text claims
+no review, and will not until someone named signs one.
 
 ---
 
