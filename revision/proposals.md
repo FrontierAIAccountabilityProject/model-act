@@ -14,7 +14,6 @@ labels so the two never disagree in substance: *decision owed* = **DECISION NEED
 for the … topic* = **HELD**; *adopt-ready* = **DRAFTED**; *⚠ amendments required before landing*
 = **NEEDS CHANGES FIRST**; *from the internal review, unchecked* and *from intake, unchecked* = **UNCHECKED**. The one-page index of every item is [the worklist](./worklist.md).*
 
-
 > **STATUS — OPEN QUEUE. Nothing below is yet in the statute.** The operative text
 > remains `model_act_v3_4.txt` as tagged. This file holds proposed amendment language for
 > the next revision, keyed to v3.4 with exact anchor quotes for splicing; entries are
@@ -138,8 +137,7 @@ and must never be described as one.** What it establishes is narrower and more u
 question identifies is conceded by the party best placed to deny it, and a state legislature has
 been asked to close it in terms close to the ones drafted here.*
 
-*Opened 22 August 2026 from the July–August incident research (press corpus; source intake).
-**Not a cure — a scope question**, held here rather than answered silently.*
+***Not a cure — a scope question**, held here rather than answered silently.*
 
 **The fact.** The two most-documented 2026 agent intrusions both originated in an internal
 capability evaluation run with production safety classifiers **deliberately disabled** to
@@ -168,7 +166,7 @@ criminal-law-reviewer question, not a solo drafting call.
 
 ## Decision 3 — SEC. 4: the third-party evaluator — does practical authority still run to the officer?
 
-*Opened 22 August 2026 from the incident research. **Not a cure — an architecture question.***
+***Not a cure — an architecture question.***
 
 **The fact.** One testing vendor, **Irregular**, is common to **two of the three disclosing
 developers and to four of the five disclosed 2026 incidents** — Anthropic's three and Meta's one —
@@ -659,8 +657,7 @@ drafting session may disagree.
 ## Amendment 8 — SEC. 6: the individual-liability offense, reconstructed
 
 *Opened 22 August 2026 by [the internal review](./internal-review.md), criminal-law topic, from findings
-graded **fatal**. **Sweep-derived language, not maintainer-drafted** — it has not been through the
-scrutiny the v3.4 cures received, and it is published in that state deliberately. This is the most
+graded **fatal**. **4 cures received, and it is published in that state deliberately. This is the most
 important entry in the queue after Decision 4, because it repairs the offense the whole Act
 exists to create.*
 
@@ -778,7 +775,7 @@ queue as operations.
 ## Amendment 9 — SEC. 10(e): the access authority the Act forgot to import
 
 *Opened 22 August 2026 by [the internal review](./internal-review.md), enforcement topic, graded
-**fatal**. Sweep-derived language.*
+**fatal**. *
 
 **The defect.** SEC. 5(e) makes it an offense to refuse records "upon the lawful demand of the
 Agency or the Attorney General." **No provision of this Act confers that demand power** — there is
@@ -820,7 +817,7 @@ enforcement line already in the fiscal note.
 ## Amendment 10 — SEC. 3(c)(3): interim controls, so SEC. 5(b) is not dormant until year four
 
 *Opened 22 August 2026 by [the internal review](./internal-review.md), enforcement topic, graded
-**fatal**. Sweep-derived language.*
+**fatal**. *
 
 **The defect.** SEC. 5(b) — operating a covered system with autonomous external-access capability
 without prescribed controls, where that failure materially causes unauthorized access — is the one
@@ -860,7 +857,7 @@ dependency rather than adding one.
 
 ## Amendment 11 — SEC. 5: name the obligor; SEC. 9(b): write the duty in the active voice
 
-*Opened 22 August 2026 by [the internal review](./internal-review.md), criminal-law topic. Sweep-derived.*
+*Opened 22 August 2026 by [the internal review](./internal-review.md), criminal-law topic. *
 
 **The defect.** SEC. 5(a) reads "Deployment of a covered system without validation" — deployment
 **by whom**? SEC. 5(c) reads "Failure to report as required by SEC. 9" — and SEC. 9(b) is written
@@ -896,7 +893,7 @@ notice to the entity or any controlling person"
 ## Amendment 12 — SEC. 5(d): restore the scienter its own donor requires
 
 *Opened 22 August 2026 by [the internal review](./internal-review.md), criminal-law topic, graded
-**fatal**. Sweep-derived.*
+**fatal**. *
 
 **The defect.** SEC. 5(d) makes a "false or misleading statement of material fact" to the Agency an
 offense with **no mental state at all** — not knowingly, not willfully, not recklessly. The Comments
@@ -936,7 +933,7 @@ inquiry remains an offense — without leaving the base offense at zero fault.
 ## Amendment 13 — SEC. 1(b)(1)(B): say "sever," not "extend"
 
 *Opened 22 August 2026 by [the internal review](./internal-review.md), open-source topic, graded
-**fatal**. Sweep-derived.*
+**fatal**. *
 
 **The defect.** Subparagraph (A) covers a derived model where derivation compute **plus attributable
 lineage compute** exceeds the threshold — and for a derivative of a covered model the attributable
@@ -976,7 +973,7 @@ stack. For the evaluations researcher at Open issues item 6.
 
 ## Amendment 14 — SEC. 9(b): a detection clock that cannot be gamed by certifying less monitoring
 
-*Opened 22 August 2026 by [the internal review](./internal-review.md), enforcement topic. Sweep-derived.*
+*Opened 22 August 2026 by [the internal review](./internal-review.md), enforcement topic. *
 
 **The defect, in three parts.** The clock "runs from when the incident was detected, or would have
 been detected by the monitoring **the entity certified it maintains** under SEC. 8." (i) The
@@ -1051,7 +1048,7 @@ work.
 
 ## Amendment 15 — SEC. 3(c)(2): a disclose-and-fix valve, because the text currently punishes candor
 
-*Opened 22 August 2026 by [the internal review](./internal-review.md), enforcement topic. Sweep-derived.*
+*Opened 22 August 2026 by [the internal review](./internal-review.md), enforcement topic. *
 
 **The defect.** Under SEC. 3(c)(2)(D), a document disclosing nonconformity without stating the
 conclusion is a *nonconformity report*: it "discharges no duty under SEC. 2 and satisfies neither
@@ -1089,7 +1086,7 @@ statutes.
 
 ## Amendment 16 — SEC. 1(b)(7): a deception limb, because *Van Buren* excludes what actually happened
 
-*Opened 22 August 2026 by [the internal review](./internal-review.md), enforcement topic. Sweep-derived.*
+*Opened 22 August 2026 by [the internal review](./internal-review.md), enforcement topic. *
 
 **The defect.** SEC. 1(b)(7) adopts *Van Buren*'s gates-up-or-down construction, and the Comments
 at n.5 says so expressly. But read the AISI record: the agent **created accounts** over Tor,
@@ -1138,7 +1135,7 @@ footnote 8.
 
 ## Amendment 6 — SEC. 1(b)(1): the developer's own designation as a third route into scope
 
-*Opened 22 August 2026 from the frontier-models research ([research/frontier_models.md](../appendix/models-and-compute.md)) and the self-designation findings. **A scope extension with adopt-ready text**, keyed to v3.4 with an exact splice; the capability-parity sub-question within it is held for the enforcement and security reviewers. Per [E10](../corrections/corrections.md), the tagged v3.4 text is not edited; this is proposed language for v3.5. Not legal advice; nothing here is described as ready for introduction.*
+*md](../appendix/models-and-compute.md)) and the self-designation findings. **A scope extension with adopt-ready text**, keyed to v3.4 with an exact splice; the capability-parity sub-question within it is held for the enforcement and security reviewers. Per [E10](../corrections/corrections.md), the tagged v3.4 text is not edited; this is proposed language for v3.5. Not legal advice; nothing here is described as ready for introduction.*
 
 **The gap it closes.** SEC. 1(b)(1) reaches a model two ways: the compute bright-line (self-certified under SEC. 8) and Agency capability-designation under SEC. 3. Both are sound. Between them sits a developer that (a) does not publish its training compute, so the bright-line cannot be read from public data, and (b) has not yet been designated by the Agency. The research establishes that this is not a marginal case but the ordinary one for the newest models: of the current flagship models of the five largest developers, the independent tracker Epoch AI records a training-compute figure for **none**. The scope of a compute-defined statute is, for those models, unverifiable from outside — while the developers themselves supply the missing fact in public, in their own words.
 
@@ -1208,8 +1205,7 @@ fiscal note is not drafted against — the note's volume discussion assumes a co
 this cure enters no tagged text until those topics have examined it. The capability question of
 Amendment 6 already waits at the same door.*
 
-*Opened 22 August 2026 from the frontier-enterprise research
-([research/frontier_enterprises.md](../appendix/companies-covered.md);
+*md](../appendix/companies-covered.md);
 [docs/the_definition.md](../commentary/what-frontier-means.md)). **A scope-architecture extension with
 adopt-ready text**, keyed to v3.4 with exact splices. Per [E10](../corrections/corrections.md), the tagged
 text is not edited; this is proposed language for v3.5. The bracketed scale figures have no donor
@@ -1653,12 +1649,9 @@ statutes verified so far is **two, probably three** — the finding's phrase "se
 should become "the enacted law of other states" or cite the two verified acts by name at
 assembly.
 
-
 ## Amendment 20 — the chosen-stick clause: conformity outside the Act credits nothing
 
-*Numbered 24 August 2026 by maintainer ruling from pre-review finding PF-2
-([the pre-review pass](./pre-review.md)); language transplanted verbatim.
-Class: from the pre-review, unchecked = UNCHECKED. Placement: the standards section's element-and-due-care
+*/pre-review.md)); Placement: the standards section's element-and-due-care
 paragraph, as a concluding sentence.*
 
 > Conformity with any standard, framework, or guideline other than the standards applicable
@@ -1674,8 +1667,7 @@ amendment now has to delete a sentence rather than add one.
 
 ## Amendment 21 — SEC. 8: the certification register, facts public, content protected
 
-*Numbered 24 August 2026 by maintainer ruling from pre-review finding PF-3; language
-transplanted verbatim. Class: from the pre-review, unchecked = UNCHECKED. Placement: SEC. 8, new
+*Placement: SEC. 8, new
 concluding subsection.*
 
 > The Agency shall maintain a public register stating, for each certification filed under this
@@ -1705,9 +1697,7 @@ designation routes riding beside the bright line. Owners of the record:
 
 ## Amendment 22 — SEC. 6(b): the felony tier's knowledge element, and one word that is not American
 
-*Opened 25 August 2026, not from a topic reviewer but from a vocabulary audit: the library's
-lawyer-written documents were n-grammed against all 102 files here, and a case name that every
-criminal-law reviewer would reach for came back **zero**. The method is recorded in
+*The method is recorded in
 [the diary](../corrections/work-log.md). Treat this entry as sweep-grade, not maintainer-drafted.*
 
 **The defect, in one line.** [Amendment 8](#amendment-8--sec-6-the-individual-liability-offense-reconstructed)
@@ -1847,7 +1837,6 @@ the evidence."
 **That is the shape of the answer.** MacDonald & Watson does not bar a knowledge-tier RCO offense.
 It bars using responsibility as a *substitute* for knowledge. The Act may keep its felony tier; it
 may not reach it through SEC. 6(d).
-
 
 ### The answer the same line already supplies, and it is better than the objection
 
@@ -2151,13 +2140,12 @@ this project's own evidence base exists only because a victim published rather t
 **Administrative load:** none on the Agency. The publication is by the regulated person, on terms
 that person already meets in three states.
 
-
 ---
 
 ## Amendment 24 — SEC. 8: the certification's lower tier names a mental state SEC. 6(a) does not require
 
-*Opened 25 August 2026 from [PF-7](./pre-review.md), on reading 18 U.S.C. § 1350 and
-33 U.S.C. § 1319(c) in the primary. Numbered 26 August 2026.*
+*/pre-review.md), on reading 18 U.S.C. § 1350 and
+33 U.S.C. § 1319(c) in the primary. *
 
 ### The defect
 
@@ -2304,8 +2292,8 @@ SEC. 8 advertises. That buys the § 1350 analogy and abandons the negligence flo
 
 ## Amendment 25 — SEC. 10(d): the FDCA remedies are cited and their protections are not taken
 
-*Opened 25 August 2026 from [PF-8](./pre-review.md), on reading 21 U.S.C. §§ 332 and
-334 in the primary. Numbered 26 August 2026.*
+*/pre-review.md), on reading 21 U.S.C. §§ 332 and
+334 in the primary. *
 
 ### Operation 1 — the jury the source supplies in exactly this case
 
@@ -2348,8 +2336,8 @@ closer to *Cedar Point*'s per se limb than to *Penn Central*'s regulatory one, a
 
 ## Amendment 26 — SEC. 3(c)(4): the disapplication list, repaired against a full read of all three adopted standards
 
-*Opened 25 August 2026 from [PF-9](./pre-review.md), [PF-10](./pre-review.md)
-and [PF-11](./pre-review.md). Numbered 26 August 2026. **Until 25 August, two of the
+*/pre-review.md), [PF-10](./pre-review.md)
+and [PF-11](./pre-review.md). **Until 25 August, two of the
 three statutes this subsection adopts had been word-searched and never read.** All three have now been
 read in full.*
 
