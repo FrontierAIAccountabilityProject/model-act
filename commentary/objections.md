@@ -805,10 +805,32 @@ provision of advice, analysis, or recommendation to a person holding decision au
 it is what keeps the engineer with production access out — but it is spent precisely where the
 delegation objection is strongest, and no page in this repository currently notices the trade.
 
-⚠ **Open, and it belongs to the criminal-law reviewer.** Whether "final material independent decision
-authority" can be proved beyond reasonable doubt against a firm that has documented the opposite, and
-whether the civil presumption in SEC. 4(b) is worth having if it stops at the courtroom door.
-**Nobody in-house can settle it.**
+### And this is the largest open question in the Act, stated as such
+
+This Act exists to make a small number of very powerful people personally answerable for deploying
+systems they had the authority to stop. **SEC. 4(b)(2) is the provision that reaches them** — it
+presumes a controlling person is anyone holding rights "sufficient, alone or in concert with others,
+to direct or replace the management" of a developer. Supervoting shares. A founder's trust. A
+governance right held through an intermediary.
+
+**And that presumption operates in civil proceedings only.**
+
+Where the remedy is money, the person holding the votes is presumed responsible. Where the remedy is
+prison, he is not, and he is the party best resourced to document that operational authority sat
+three levels beneath him.
+
+**That is inverted for a statute whose whole premise is that a corporate fine is absorbed and a
+custodial sentence cannot be.** The split was drafted on due-process grounds and may well be
+required. But it was written as though the law compelled it, and nothing in this repository tests
+whether it does.
+
+⚠ **Open, and it needs a criminal lawyer.** May a State presume controlling-person status in a
+criminal proceeding against a person holding the SEC. 4(b)(2) rights? If not, can a permissive
+inference with a rational-connection showing survive, or a burden of production on the *Park* model?
+And whether "final material independent decision authority" can be proved beyond reasonable doubt
+against a firm that has documented the opposite. **If the answer is that none of it can be done, then
+this Act reaches the people it was written for in civil court and not in criminal court, and that
+belongs on its front page rather than in a footnote here.**
 
 ---
 

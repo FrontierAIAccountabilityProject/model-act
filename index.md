@@ -18,6 +18,16 @@ the current text go to the operative provisions — including that the individua
 the Act exists to create cannot be pleaded as drafted. It is published in this state on purpose, so the repair can
 be done in the open. Public domain: anyone may take it, change it, or build on it, without asking.
 
+**The largest open question in it, stated on the front page.** This Act exists to make a small number
+of very powerful people personally answerable for deploying systems they had the authority to stop.
+SEC. 4(a)(4) reaches ownership, voting and governance rights held directly, indirectly, in concert,
+or through any trust or arrangement; SEC. 4(c) makes that non-delegable; and SEC. 4(a) excludes
+technical ability, so *I am not an engineer* is not a defense. **But SEC. 4(b)'s presumption operates
+in civil proceedings only.** Where the remedy is money, the person holding the votes is presumed
+responsible. Where the remedy is prison, he is not. That is inverted for a statute built on the
+premise that a fine is absorbed and a sentence cannot be, and whether it can be drafted the other way
+is a constitutional question this project cannot answer alone.
+
 **[Read the Act →](./act/model-act.txt)**  ·  17 pages of plain text, at v3.4.
 
 ---
