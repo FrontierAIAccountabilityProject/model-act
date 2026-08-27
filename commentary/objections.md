@@ -6,9 +6,12 @@ nav_order: 10
 
 # Known objections
 
-This project publishes the strongest objections it knows of, with its answers, before any reviewer
-arrives. Reviewers are asked to attack the draft, and this page is where the attack starts. These
-are not objections the project intends to evade; they are the reason the review council exists.
+This project publishes the objections it knows of, with its answers, before any reviewer arrives.
+**No reviewer has arrived.** Sixty-three letters have gone out, four people replied, and not one
+review has been received; the review council's seats are unfilled. So this page is not a warm-up for
+scrutiny that is coming. It is the whole of the adversarial reading this draft has had, written by
+the people who wrote the draft, which is the weakest position an argument can be in and the reason
+several sections below end by saying what they do not answer.
 Where the tagged statute already contains the answer, the section is cited — the strongest form of
 pre-resistance is not "we would add a safeguard" but "it is already in the text."
 

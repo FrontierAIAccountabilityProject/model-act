@@ -13,9 +13,8 @@ revenue anywhere in the arithmetic.
 **The standing rule this document is held to.** Enforcement is never sold as
 self-funding. Penalties are never booked as revenue. Startup costs are stated apart from
 steady state. Every figure below is a bracketed default for the adopting state to
-replace, and the review council's fiscal seat is asked to review the structure rather
-than to design it — the brackets exist so that the reviewer's job is arithmetic on a
-stated basis, not invention from a blank page.
+replace. **No fiscal reviewer has been found**, and the brackets exist so that whoever
+takes it has arithmetic on a stated basis rather than invention from a blank page.
 
 **Status.** Drafted 20 August 2026 against the v3.4 tag. Cost drivers are traced to the
 provisions that create them; bracketed figures are unpinned defaults and are flagged as
