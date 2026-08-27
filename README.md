@@ -36,6 +36,11 @@ version.
 **Nothing has been reviewed by a lawyer.** No outside reviewer has signed anything. This text claims
 no review, and will not until someone named signs one.
 
+**Everything wrong with it is published**, in [the Worklist](./revision/worklist.md) for what is
+still open and [the Record](./corrections/corrections.md) for the mistakes already found and
+corrected. Pages elsewhere on this site were written against v3.4 and have not all been brought
+forward; where one of them differs from the statutory text above, **the statutory text is right**.
+
 ---
 
 ## What it makes a crime
@@ -62,20 +67,6 @@ decision create no personal liability.
 
 ---
 
-## Where it stands
-
-**The current text is v3.4.2 of 27 August 2026**, and it supersedes v3.4. The section and
-subsection numbering is corrected throughout and the findings at SEC. 0 are renumbered in sequence.
-
-Pages elsewhere on this site were written against v3.4 and have not all been brought forward. Where
-one of them differs from the statutory text linked at the top of this page, **the statutory text is
-right** — that is what it means for the repository to be the authoritative record.
-
-**Everything wrong with it is published**, in [the Worklist](./revision/worklist.md) for what is still
-open and [the Record](./corrections/corrections.md) for the mistakes already found and corrected.
-
----
-
 ## Who made this
 
 One person, no institution, no funding, no client. The drafting is AI-assisted and says so on every
@@ -95,12 +86,12 @@ Archived at CERN — DOI [10.5281/zenodo.22029795](https://doi.org/10.5281/zenod
 | | What it holds | Start with |
 |---|---|---|
 | [**The Act**](./act/index.md) | The statute, the section-by-section Comments, the draft rules, and the bracketed choices an adopting state makes | [The Act, section by section](./act/comments.md) — what each provision does and why it is drafted that way |
-| [**Revision**](./revision/index.md) | Everything proposed for the next version, and nothing yet adopted | [The Worklist](./revision/worklist.md) — every open item, with what it needs and whose call it is |
+| [**Revision**](./revision/index.md) | How the Act is being repaired, and the dated record of how it reached v3.4.2 | [Revision](./revision/index.md) — what v3.4.2 changed, and what these pages still say against v3.4 |
 | [**Commentary**](./commentary/index.md) | Why it should exist — the case, the precedents, the questions asked most | [Objections](./commentary/objections.md) — every criticism made against it, the answers, and the ones with no answer |
 | [**For Legislatures**](./enactment/index.md) | What a sponsor's office needs before taking it up | [Fiscal note](./enactment/fiscal-note.md) — what the Act costs an adopting state |
 | [**Appendix**](./appendix/index.md) | What was actually checked, and what it showed | [The bill census](./appendix/bill-census.md) — every frontier AI bill in America, read one at a time |
 | [**Authorities**](./authorities/index.md) | Look-up material | [Table of authorities](./authorities/table-of-authorities.md) — every source, with whether anyone read it |
-| [**Corrections**](./corrections/index.md) | Every mistake this project has made, kept with the rule it produced | [Corrections](./corrections/corrections.md) — sixty-one entries, append-only |
+| [**Corrections**](./corrections/index.md) | Every mistake this project has made, kept with the rule it produced | [Corrections](./corrections/corrections.md) — seventy-five entries, append-only |
 
 ---
 
