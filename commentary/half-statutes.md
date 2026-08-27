@@ -124,17 +124,23 @@ quotes, and every Title I signature the draft requires is the IVO audit partner'
 
 ## The counter-example a state has enacted — Connecticut inverts the pattern
 
-The inoculation pattern is a choice, and one legislature has now made the opposite one.
-Connecticut's P.A. 26-15 (2026, read in full) writes the inverse of the framework defense into
-enacted text: evidence from its third-party verification pilot *"shall not be admissible in any
-civil or administrative enforcement action brought by the Attorney General"*, *"nor shall it
-give rise to any presumption, inference or defense in any such action"* (§ 33(e)); and its
-employment-decision sections state flatly that use of the technology *"shall not be a defense"*
-(§ 13(b)(1)). The bill Connecticut did **not** enact — 2025's S.B. 2, which carried a true
-NIST-framework affirmative defense on the TRAIGA pattern — appears to have died in the file ⚠
-*(status inferred from the bill file and analysis in hand; verification queued)*. One state
-examined the chosen stick and legislated against it: verification may inform a private injury
-suit, but it purchases no immunity from the public's enforcer. The pattern this page documents
+The inoculation pattern is a choice, and it may be that one legislature has made the opposite one.
+
+⚠ **This paragraph rested on a bill that did not become law, and the argument in it is withdrawn
+pending retrieval of the enacted text.** It asserted that Connecticut's P.A. 26-15 had been "read in
+full" and cited two provisions — § 33(e) and § 13(b)(1) — for the proposition that Connecticut
+legislated against the framework defense. **The enacted 2026 act is not held by this project, and
+those section numbers were taken from 2025's S.B. 2, a bill that did not pass.** So the pincites
+cannot be relied on. **Where the quoted words themselves came from is unestablished** — they may be
+from the enacted act carrying wrong section numbers, from the failed bill, or from a summary of
+either, and this project has not opened the document that would settle it. Nothing here should be
+read as a finding that Connecticut did or did not legislate against the framework defense.
+See FACT-15 and DOC-9 in [the worklist](../revision/worklist.md).
+
+**What is confirmed** is the fate of the earlier bill: 2025's S.B. 2, which carried a true
+NIST-framework affirmative defense on the TRAIGA pattern, **died in chamber** — confirmed against
+the General Assembly's own bill history. That much stands, and it is the only part of this paragraph
+that does. The pattern this page documents
 is a drafting choice, not an inevitability — and CURE 20 is this Act's version of Connecticut's
 answer.
 

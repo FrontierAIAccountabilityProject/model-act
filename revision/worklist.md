@@ -40,8 +40,22 @@ and this register spent weeks treating them alike.*
 **Where a row reads RETRIEVAL → COUNSEL**, the document must be obtained before the question can be
 put to anyone. Retrieval does not close it.
 
-**Fifteen items close by reading. Sixteen need a lawyer.** That second number is this project's real
-constraint, and no amount of further work here reduces it.
+**The counts, 27 August 2026.**
+
+| | Rows |
+|---|---|
+| **MAINTAINER** — close by reading | 10 labeled, of which **8 are actionable**: AMD-3, AMD-5, AMD-14, AMD-26, the `)(`, FACT-10, FACT-13, FACT-14. AMD-7 is a status, not a task; AMD-11 needs a class chosen first |
+| **COUNSEL** — need a qualified lawyer | **27** |
+| **RETRIEVAL** — need a document that exists and is not held | **15**, plus the eleven in section I |
+| **LIBRARY** — need Westlaw, Lexis or a reporter print | **1**, plus every row in section E |
+
+**Twenty-seven rows need a lawyer, and no amount of further reading reduces that number.** It is the
+constraint this register exists to make visible. Sixty-three letters have gone out and four people
+replied; none of the four was a review.
+
+**Twenty-two documents are named as owed and not held** (sections F and I). Four of them — DOC-1 to
+DOC-4 — are the participants' own accounts of the 2026 incidents, which are the evidence base for the
+whole Act. Until those are read, that base rests on reporting.
 
 ---
 
@@ -51,7 +65,8 @@ constraint, and no amount of further work here reduces it.
 
 | # | Section | What it changes | Who closes it |
 |---|---|---|---|
-| 1 | 1 | Sources "serious injury" from 18 U.S.C. § 1365(h)(3)–(4) instead of leaving it undefined | **MAINTAINER** — decide; the research is complete |
+| 17–19 | — | **Never drafted, not lost.** Numbers and titles were allocated in the index at commit `d775601` (23 Aug) — 17 SEC. 11(d), remedies for a reporter outside employment; 18 SEC. 9(b), an immediate notice tier; 19 SEC. 0(a), the personhood finding — and **no entry was ever written for any of them.** Ruled out: `proposals-adopted-v3-4.md` (absent), the git history of `proposals.md` (no heading ever existed), and the inline index, which was replaced on 26 Aug. **Closed 27 Aug: the gap is explained.** The three subjects remain undrafted and may be renumbered if taken up | **CLOSED** |
+| 1 | 1 | Sources "serious injury" from 18 U.S.C. § 1365(h)(3)–(4) instead of leaving it undefined | **COUNSEL** — criminal. Relabeled 27 Aug: a wider injury definition widens a custodial offense, and the research being complete does not make that a drafting choice the maintainer can make. Maintainer decides after counsel advises |
 | 2 | 13(c) | Adds a review valve on the suspension order | **COUNSEL** — administrative law |
 | 3 | regulations | Conforms the draft regulations to the current Act — three changes never cascaded | **MAINTAINER** — compare `act/rules.md` against the Act; three anchors |
 | 4 | 9(a) | Recasts two reporting triggers from characterizations into observable events | **COUNSEL** — a prosecutor, on whether the events are provable |
@@ -61,12 +76,12 @@ constraint, and no amount of further work here reduces it.
 | 7 | 1 | Extends scope to the covered frontier enterprise — ecosystem scope, functional duty | **MAINTAINER** — held pending enforcement and security review |
 | 8 | 6 | Rebuilds the individual-liability offense | **COUNSEL** — criminal. Unvalidated, drafted before E66 |
 | 9 | 10(e) | Imports the access authority the Act omitted | **COUNSEL** — enforcement. Moved 27 Aug: § 374 does not supply the model |
-| 10 | 3(c)(3) | Interim controls, so 5(b) is not dormant until year four | **COUNSEL** — criminal. Moved from MAINTAINER 27 Aug: the repair works by writing four technical controls into the statute as offense elements, applied before any agency has ruled. Fair notice |
+| 10 | 3(c)(3) | Interim controls, so 5(b) is not dormant until year four | **COUNSEL** — criminal. Relabeled 27 Aug: the repair works by writing four technical controls into the statute as offense elements, applied before any agency has ruled. Fair notice |
 | 11 | 5, 9(b) | Names who owes the duty; rewrites it in the active voice | **MAINTAINER** — read it; does SEC. 5 now name the obligor |
 | 12 | 5(d) | Restores the mental state the borrowed provision requires | **RETRIEVAL → COUNSEL** — *Alvarez*, not held. Then criminal |
 | 13 | 1(b)(1)(B) | Says "sever" rather than "extend" | **COUNSEL** — open-source implications are policy |
 | 14 | 9(b) | A detection clock that cannot be gamed by certifying less monitoring | **MAINTAINER** — read it; can the clock still be gamed |
-| 15 | 3(c)(2) | A disclose-and-fix valve, because the text as written punishes candor | **COUNSEL** — criminal. Moved from MAINTAINER 27 Aug: the 90-day shelter is renewable on a further nonconformity report and the text does not say whether that restarts the clock |
+| 15 | 3(c)(2) | A disclose-and-fix valve, because the text as written punishes candor | **COUNSEL** — criminal. Relabeled 27 Aug: the 90-day shelter is renewable on a further nonconformity report and the text does not say whether that restarts the clock |
 | 16 | 1(b)(7) | A deception limb, because *Van Buren* excludes what actually happened | **RETRIEVAL → COUNSEL** — *Van Buren*, not held. Then CFAA |
 | 20 | 3 | Conformity to a standard outside this Act credits nothing | **COUNSEL** — too harsh on good-faith compliers? |
 | 21 | 8 | A certification register — facts public, contents protected | **COUNSEL** — trade secret and public records |
@@ -92,9 +107,9 @@ what the Act requires and belong in v3.5.
 | # | Section | The question | Status | Who closes it |
 |---|---|---|---|---|
 | DEC-1 | 3(c)(4) | Does Connecticut become a fourth adopted standard? | Parked until the act is read in full | **RETRIEVAL → MAINTAINER** |
-| DEC-2 | 2, 9 | Does the duty reach an evaluation run with safeguards deliberately disabled? | Open | **MAINTAINER** — design choice |
-| DEC-3 | 4 | Third-party evaluators: does practical authority still run to the officer? | Open — architecture, not a defect | **MAINTAINER** — design choice |
-| DEC-4 | 2(a), 1(c) | **The Act does not reach the conduct it was written after** | Open | **MAINTAINER** — the decision the maintainer owns |
+| DEC-2 | 2, 9 | Does the duty reach an evaluation run with safeguards deliberately disabled? | Open | **COUNSEL** — criminal. Relabeled 27 Aug: whether a configuration decision is a covered act. Maintainer decides after counsel advises |
+| DEC-3 | 4 | Third-party evaluators: does practical authority still run to the officer? | Open — architecture, not a defect | **COUNSEL** — criminal. Relabeled 27 Aug: whether practical authority reaches a person who commissioned an outside evaluation. **Maintainer steer, 27 Aug: an independent evaluator such as AISI is not the concern; a company-commissioned evaluator is.** Maintainer decides after counsel advises |
+| DEC-4 | 2(a), 1(c) | **The Act does not reach the conduct it was written after** | Open | **COUNSEL** — criminal and constitutional. Relabeled 27 Aug: whether a State may attach duties to conduct abroad on the basis of intended in-state effect. Maintainer owns the aim, not the answer |
 
 **DEC-4 is the one to read first.** It says the statute misses the case that prompted it.
 
@@ -158,39 +173,6 @@ finding.
 
 ---
 
-## F. Documents named but never retrieved
-
-*Lifted 27 August 2026 from [standing watch](./standing-watch.md) and [the internal review](./internal-review.md).
-Every item was named there as owed, marked ⚠ unread, and **never entered this register** — which is
-why those pages could not be retired. All are **RETRIEVAL**.*
-
-| # | Document | Why it is owed |
-|---|---|---|
-| DOC-1 | Hugging Face's incident post, 16 July 2026 | One of four primaries behind the 2026 incident cluster |
-| DOC-2 | OpenAI's statement on the same incident | Same |
-| DOC-3 | The Black Hat presentation by two OpenAI staff | Same |
-| DOC-4 | Anthropic's disclosure of its own April evaluations | Same. **All four are held at reporting strength only** |
-| DOC-5 | The June 2026 executive order founding the federal review framework | Distinct from EO 14365 of 11 Dec 2025. Not held |
-| DOC-6 | The order in *X.AI LLC v. Weiser* constraining the Colorado Attorney General | The first judicial constraint on a state AI enforcer in this record |
-| DOC-7 | Apollo Global Management's own breach notification | Nothing hardens on the security side until it is read |
-| DOC-8 | Rep. Trahan's post of ~22 August 2026, in full | Held as a truncated paste; nothing may cite it beyond the watch |
-| DOC-9 | Connecticut's enacted 2026 act — public act number and section numbering | Blocks DEC-1 and FACT-15 |
-| DOC-10 | *Concord Music Group v. Anthropic*, No. 5:24-cv-03811 (N.D. Cal.), the 19 Dec 2025 deposition order | Public on CourtListener. The only court finding that a frontier chief executive holds unique personal knowledge of model training. Blocks OBJ-14 |
-| DOC-11 | Lyness, 64 B.C. L. Rev. 253, in the original | Cited throughout for comparative claims and **read only in extract**. Blocks OBJ-15 |
-
-**DOC-1 to DOC-4 first.** The 2026 cluster is the evidence base for the whole Act and currently
-rests on reporting rather than on the participants' own accounts.
-
----
-
-## G. Erratum candidates — flagged, not corrected
-
-| # | Claim | State |
-|---|---|---|
-| ERR-1 | *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.) — the argument date of 16 July 2026 | The Ninth Circuit docket was read 25 Aug 2026 and carries no entry for argument, submission or opinion; the snapshot ends 15 May 2026. An amicus filed 22 July into "briefing ongoing" is hard to reconcile with argument on 16 July. **The current wording is correct and must not be strengthened.** Confirming it needs PACER. **LIBRARY** |
-
----
-
 ## E. Citations to check
 
 *Every quotation below was read in the source and is verbatim. What could not be confirmed is the
@@ -239,6 +221,96 @@ needs a lawyer — a law librarian with Westlaw or a print reporter clears the l
 
 **Sources not held at all** — state constitutional provisions, two Senate hearing transcripts, and
 five pending complaints and dockets. These need retrieval before anything can be quoted from them.
+
+---
+
+## F. Documents named but never retrieved
+
+*Lifted 27 August 2026 from [standing watch](./standing-watch.md) and [the internal review](./internal-review.md).
+Every item was named there as owed, marked ⚠ unread, and **never entered this register** — which is
+why those pages could not be retired. All are **RETRIEVAL**.*
+
+| # | Document | Why it is owed |
+|---|---|---|
+| DOC-1 | Hugging Face's incident post, 16 July 2026 | One of four primaries behind the 2026 incident cluster |
+| DOC-2 | OpenAI's statement on the same incident | Same |
+| DOC-3 | The Black Hat presentation by two OpenAI staff | Same |
+| DOC-4 | Anthropic's disclosure of its own April evaluations | Same. **All four are held at reporting strength only** |
+| DOC-5 | The June 2026 executive order founding the federal review framework | Distinct from EO 14365 of 11 Dec 2025. Not held |
+| DOC-6 | The order in *X.AI LLC v. Weiser* constraining the Colorado Attorney General | The first judicial constraint on a state AI enforcer in this record |
+| DOC-7 | Apollo Global Management's own breach notification | Nothing hardens on the security side until it is read |
+| DOC-8 | Rep. Trahan's post of ~22 August 2026, in full | Held as a truncated paste; nothing may cite it beyond the watch |
+| DOC-9 | Connecticut's enacted 2026 act — public act number and section numbering | Blocks DEC-1 and FACT-15 |
+| DOC-10 | *Concord Music Group v. Anthropic*, No. 5:24-cv-03811 (N.D. Cal.), the 19 Dec 2025 deposition order | Public on CourtListener. The only court finding that a frontier chief executive holds unique personal knowledge of model training. Blocks OBJ-14 |
+| DOC-11 | Lyness, 64 B.C. L. Rev. 253, in the original | Cited throughout for comparative claims and **read only in extract**. Blocks OBJ-15 |
+
+**DOC-1 to DOC-4 first.** The 2026 cluster is the evidence base for the whole Act and currently
+rests on reporting rather than on the participants' own accounts.
+
+---
+
+## G. Erratum candidates — flagged, not corrected
+
+| # | Claim | State |
+|---|---|---|
+| ERR-1 | *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.) — the argument date of 16 July 2026 | The Ninth Circuit docket was read 25 Aug 2026 and carries no entry for argument, submission or opinion; the snapshot ends 15 May 2026. An amicus filed 22 July into "briefing ongoing" is hard to reconcile with argument on 16 July. **The current wording is correct and must not be strengthened.** Confirming it needs PACER. **LIBRARY** |
+
+---
+
+## H. Defects on published pages — commentary sweep, 27 August 2026
+
+*Every one of these is live on the site now. Found by reading all twelve files in `commentary/`
+against this file. Ordered worst first.*
+
+| # | Where | What is wrong |
+|---|---|---|
+| PUB-1 | `commentary/half-statutes.md` 128–135 | **Asserts Connecticut P.A. 26-15 "read in full" with pincites § 33(e) and § 13(b)(1).** FACT-15 and DOC-9 record that the enacted act is not held and the section numbers came from 2025 SB 2, which died in chamber. The register has already ruled this impermissible and it is still published. Also hedges the bill's death as "inferred" where this file has it confirmed against the General Assembly's own history |
+| PUB-2 | `commentary/questions.md` 163, 247, 253, 363, 371, 384, 393, 407 · `commentary/objections.md` 44, 316, 493, 658, 715, 808 · `commentary/other-jurisdictions.md` 244, 372, 380 | **Seventeen passages address reviewers, seats and a council as existing parties** — "the enforcement reviewer's core question, and the reviewer exists because it is"; "identifiable privately to reviewers before they sign"; "any completed expert reviews". No reviewer exists and no review has been received. `objections.md` line 10 now says so, and fourteen later passages on the same page contradict it |
+| PUB-3 | `commentary/objections.md` 706, 850 · `commentary/the-case.md` 501 | **Three references to a `docs/` directory that no longer exists** — `docs/safe_harbors_and_affirmative_defenses.md` (now `commentary/half-statutes.md`), `docs/03-whats-in-the-act.md`, and a GitHub permalink pinned to commit `6f48eff` under the vanished tree |
+| PUB-4 | `commentary/objections.md` 236 vs `commentary/half-statutes.md` 116 | **Two different numbers for the same executive order** — E.O. 14409 on one page, EO 14365 of 11 Dec 2025 on the other. DOC-5 records the founding order as not held |
+| PUB-5 | `commentary/already-a-crime.md` 34 · `commentary/what-frontier-means.md` 33, 50, 113, 129 · `commentary/half-statutes.md` 138 | **"CURE 6", "CURE 7", "CURE 20"** — this file numbers them Amendment *n*, and three other commentary pages already use that. Two naming schemes for the same rows in one directory |
+| PUB-6 | `commentary/objections.md` 317, `commentary/questions.md` 393 | **Two links promise something the target is not** — "the reviewer page" and "the enforcement reviewer's" both resolve to this file, which has no per-topic errata and is not a person |
+| PUB-7 | `commentary/objections.md` 862 | Cites **`model_act_v3_4.txt`**; the file is `act/model-act.txt` |
+| PUB-8 | `commentary/the-case.md` 466 | **Corrupted sentence** — "unless that model is itself offered as a **Comments**." A bad paste; the sentence about Pennsylvania SB 1090 § 4 does not parse |
+| PUB-9 | `commentary/other-jurisdictions.md` 380 · `commentary/the-same-conduct.md` 193, 376 · `commentary/objections.md` 15 · `commentary/why-a-signature-works.md` 12 | **Self-awarded grades**, contrary to the no-superlatives rule: "the strongest doctrinal objection in the scholarship this project relies on"; "the most useful one in the file"; "the strongest version of it"; "the strongest form of pre-resistance"; "*This file is the answer*" |
+| PUB-10 | `commentary/half-statutes.md` 165 · `commentary/objections.md` 707 · `commentary/questions.md` 150, 290, 373, 435 · `commentary/the-same-conduct.md` 41 · `commentary/other-jurisdictions.md` 303 | **British spelling in project prose** — armoured, harbours, trialled, weaponise, criminalising, authorisation, misdemeanours. `check_spelling.py` does not catch these, which is itself a finding: see the `criminalise` item in the carried-forward block |
+
+**PUB-1 first.** It is the one a reader can check in a minute, and this file already says it may not be published.
+
+---
+
+## I. Documents named as owed on a commentary page and never entered here
+
+*Same sweep. These belong with DOC-1 to DOC-11 and are listed separately only to record where each was found. All **RETRIEVAL**.*
+
+| # | Document | Named at |
+|---|---|---|
+| DOC-12 | *Government Functional Standard 007: Security* and *Managing Public Money* — the primary sources for the Accounting Officer duty | `commentary/why-a-signature-works.md` 223 |
+| DOC-13 | Whether any UK Accounting Officer has been personally sanctioned over cyber risk. The page says if none has, "that is a finding against this section" | `commentary/why-a-signature-works.md` 226 |
+| DOC-14 | The ASRS immunity design — the aviation objection's whole empirical premise | `commentary/objections.md` 663, 715 |
+| DOC-15 | Lee's written answers to Sen. Klobuchar, S. Hrg. 119-202 pp. 87–92 — **read only by OCR**, and the page says they are owed a proper reading before quotation | `commentary/objections.md` 1313 |
+| DOC-16 | Anthropic, *Detecting and Preventing Distillation Attacks*, 23 Feb 2026 | `commentary/objections.md` 208 |
+| DOC-17 | The bioRxiv preprint of 16 July 2026 (Ioannidis; 317 unicorn AI firms) | `commentary/objections.md` 419 |
+| DOC-18 | CRS, *Enforcement of Federal Pollution Control Laws* — unread in the original, and Amendment 22 leans on it | `commentary/objections.md` 536 |
+| DOC-19 | Primary texts: TRAIGA, SB 24-205 and its delay amendment, the SANDBOX Act, the Utah AI Policy Act, the TRUMP AMERICA AI Act, the GAAIA draft | `commentary/half-statutes.md` 62, 249 |
+| DOC-20 | The Copenhagen dispatch, findable in *Foreign Relations of the United States* | `commentary/other-jurisdictions.md` 416 |
+| DOC-21 | Gawande, *The Checklist Manifesto* — pincites unpinned, and the page says they must be pinned before publication | `commentary/why-a-signature-works.md` 323 |
+| DOC-22 | Senate statements unread: fourteen senators and Kratsios's prepared statement (S. Hrg. 119-284), the Commerce hearing of 3 Mar 2026, Muro's Brookings statement. Blackburn and Cantwell bear on preemption | `commentary/objections.md` 1408, 1479 |
+
+---
+
+## J. Open questions on commentary pages with no row here
+
+| # | Question | Where |
+|---|---|---|
+| Q-1 | Whether 8 Del. C. § 102(b)(7) exculpation reaches a duty imposed by a statute outside the DGCL. "We have found no case deciding it" | `commentary/objections.md` 1097 |
+| Q-2 | No public page states that the negligence tier is the operating regime and the felony tier the exception. A reader cannot tell which the Act is | `commentary/objections.md` 849 |
+| Q-3 | Whether the Act's answer to Lyness on remediable and insurable harm holds — "asserted here, not proven" | `commentary/other-jurisdictions.md` 369 |
+| Q-4 | Whether H.R. 9917's testing carve-out would exclude the studied incidents. Not checked, not asserted | `commentary/the-same-conduct.md` 285 |
+| Q-5 | Whether `act/bracketed-matter.md` should discuss the citizen-suit question | `commentary/other-jurisdictions.md` 353 |
+| Q-6 | The Lyness four-goal mapping correction, marked "candidate erratum, maintainer to number" — belongs in G | `commentary/other-jurisdictions.md` 341 |
+
+**Unconfirmed pincites found in the sweep, for section E:** *Stone*, *Massey*, *Marchand* and *McDonald's* are all cited from slip opinions and none is confirmed against a reporter print (`commentary/objections.md` 1120). E currently carries only the *Walton* question.
 
 ---
 
