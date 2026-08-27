@@ -61,12 +61,12 @@ constraint, and no amount of further work here reduces it.
 | 7 | 1 | Extends scope to the covered frontier enterprise — ecosystem scope, functional duty | **MAINTAINER** — held pending enforcement and security review |
 | 8 | 6 | Rebuilds the individual-liability offense | **COUNSEL** — criminal. Unvalidated, drafted before E66 |
 | 9 | 10(e) | Imports the access authority the Act omitted | **COUNSEL** — enforcement. Moved 27 Aug: § 374 does not supply the model |
-| 10 | 3(c)(3) | Interim controls, so 5(b) is not dormant until year four | **MAINTAINER** — read the drafted text against SEC. 3(c) |
+| 10 | 3(c)(3) | Interim controls, so 5(b) is not dormant until year four | **COUNSEL** — criminal. Moved from MAINTAINER 27 Aug: the repair works by writing four technical controls into the statute as offense elements, applied before any agency has ruled. Fair notice |
 | 11 | 5, 9(b) | Names who owes the duty; rewrites it in the active voice | **MAINTAINER** — read it; does SEC. 5 now name the obligor |
 | 12 | 5(d) | Restores the mental state the borrowed provision requires | **RETRIEVAL → COUNSEL** — *Alvarez*, not held. Then criminal |
 | 13 | 1(b)(1)(B) | Says "sever" rather than "extend" | **COUNSEL** — open-source implications are policy |
 | 14 | 9(b) | A detection clock that cannot be gamed by certifying less monitoring | **MAINTAINER** — read it; can the clock still be gamed |
-| 15 | 3(c)(2) | A disclose-and-fix valve, because the text as written punishes candor | **MAINTAINER** — read it; does it stop the Act punishing disclosure |
+| 15 | 3(c)(2) | A disclose-and-fix valve, because the text as written punishes candor | **COUNSEL** — criminal. Moved from MAINTAINER 27 Aug: the 90-day shelter is renewable on a further nonconformity report and the text does not say whether that restarts the clock |
 | 16 | 1(b)(7) | A deception limb, because *Van Buren* excludes what actually happened | **RETRIEVAL → COUNSEL** — *Van Buren*, not held. Then CFAA |
 | 20 | 3 | Conformity to a standard outside this Act credits nothing | **COUNSEL** — too harsh on good-faith compliers? |
 | 21 | 8 | A certification register — facts public, contents protected | **COUNSEL** — trade secret and public records |

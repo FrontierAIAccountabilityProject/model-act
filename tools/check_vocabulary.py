@@ -34,7 +34,7 @@ import os, re, sys
 TABLE = "--table" in sys.argv
 LIB = os.environ.get("LIBRARY", "../library")
 SKIP = {".git", "_site", "archive", "_sass", "_includes", "_mail",
-        "_to_delete", "_superseded"}
+        "_to_delete", "_retired", "_superseded"}
 
 # The project's own working notes are not sources. On 25 August a plan note that
 # merely LISTED the missing terms registered as library coverage for every one of

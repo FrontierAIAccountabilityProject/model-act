@@ -64,7 +64,7 @@ MINLEN = 60          # shorter strings match by accident; 60 chars is ~10 words
 # They are read, but their misses are reported separately and never counted as debt.
 SPECIMEN_FILES = {"./corrections/corrections.md", "./corrections/work-log.md", "./corrections/changes.md"}
 SKIP_DIRS = {".git", "_site", "_sass", "_includes", "node_modules", "__pycache__",
-             "_to_delete", "archive"}
+             "_to_delete", "_retired", "archive"}
 
 # ---------------------------------------------------------------- normalisation
 PAGE_LINE = re.compile(r"(?m)^[ \t]*\d{1,4}[ \t]*$")

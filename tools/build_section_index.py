@@ -37,7 +37,7 @@ OUT_MD  = "standards/section_index.md"
 OUT_JS  = "standards/section_index.json"
 
 SKIP_DIRS = {".git", "_site", "_sass", "_includes", "node_modules",
-             "__pycache__", "_to_delete", "_patches"}
+             "__pycache__", "_to_delete", "_retired", "_patches"}
 
 # A reference is SEC. n, optionally with (a), (a)(1), (a)(1)(A).
 # The trailing groups are optional and captured separately so a page can offer both

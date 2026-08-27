@@ -26,6 +26,11 @@ exclude:
   - CLAUDE.local.md
   - tools/
   - version.json
+  - _retired/            # retired pages: kept in the repository, not built as pages.
+                         # NOT gitignored -- that is the whole point. _internal/ is
+                         # gitignored, so moving a tracked page there deletes it from
+                         # the repository on the next commit. Keeping a file out of
+                         # Jekyll and keeping it out of git are two different things.
 
 # Just the Docs
 color_scheme: statute

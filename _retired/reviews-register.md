@@ -1,5 +1,13 @@
 <!-- RETIRED from the public site 27 August 2026.
 
+Was revision/reviews-received.md, titled "Dispositions — what reviewers said, and what was done".
+Front matter stripped so it cannot build as a page. Retired to _retired/, which is listed in
+_config.yml's exclude and is NOT gitignored -- the file stays in the repository and is not published.
+
+A first attempt on the same day moved it into _internal/ instead, which IS gitignored, so commit
+8689126 recorded the page as deleted and kept no replacement. Recovered here from 86df4d7. That is
+the second time this trap has been hit; the .gitignore comment records the first.
+
 A page of rules for a process that has produced nothing: zero entries, sixty-three letters, four
 replies, none of them a review. It also carried the wreckage of an unbounded find-and-replace that
 swapped "disposition" for "review" wherever the word appeared, including where it was the subject of
@@ -9,9 +17,6 @@ the sentence "a reviewer takes a reviewer".
 The two live sentences moved to revision/worklist.md. Kept here because nothing is deleted. Do not
 republish without rewriting: the definitional sections are broken. -->
 
----
-title: "Dispositions — what reviewers said, and what was done"
-parent: Revision
 nav_order: 7
 ---
 
