@@ -773,7 +773,7 @@ in public-welfare law. The only novelty is the industry it is pointed at.
 ## OPEN CITE-CHECK ITEMS — moved
 
 > ⚠ **These are no longer tracked here.** Every unpinned claim below now lives in
-> **[the worklist, section D](../revision/worklist.md#d-facts-not-yet-pinned)**, which is the only
+> **[the worklist, section D](../revision/worklist.md#2--document-missing)**, which is the only
 > register of open items in this repository. The list below is kept because the sealed chapters are
 > never edited — but **the worklist governs**, and a second copy of a to-do list is how these twelve
 > facts went uncounted for a week.
