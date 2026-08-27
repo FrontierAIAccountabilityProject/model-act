@@ -120,6 +120,9 @@ its own. They are listed in full, with the answer left blank, in
 | OBJ-10  **"The veil is not the obstacle. Delegation is."** There may be no single decider to reach | Raised from outside; answer incomplete | **COUNSEL** — criminal. Diamantis's subject |
 | OBJ-11  **The strongest argument *for* the Act is missing.** Arlen's point — that individuals respond to personal liability as firms never respond to fines, because prison cannot be insured or indemnified | Reported, not read. Her work is not in the source library | **RETRIEVAL** — then readable by the maintainer |
 | OBJ-12  **No outcome data.** Whether responsible-officer liability measurably reduced adulteration or pollution rates has no answer anywhere here | **The largest hole.** The central analogy is a legal argument wearing an empirical one's clothes | **RETRIEVAL** — then readable by the maintainer |
+| OBJ-13 | **Takings.** *X.AI LLC v. Bonta*, No. 2:25-cv-12295 (C.D. Cal.) pleads **per se takings and regulatory takings before it reaches speech** — compelled training-data disclosure as destruction of a trade secret. This repository returns **zero** on Takings Clause, regulatory taking, per se taking and *Penn Central* | **COUNSEL** — constitutional. Lifted from standing watch 27 Aug 2026 |
+| OBJ-14 | **The apex-witness problem.** Every SEC. 6 offense turns on what a natural person knew or could have prevented, and American courts shield senior executives from depositions absent unique non-duplicative knowledge. Can the State get that person into a chair? One data point cuts our way — *Concord Music Group v. Anthropic*, No. 5:24-cv-03811 (N.D. Cal.), 19 Dec 2025, Amodei ordered to sit — **⚠ the order has not been retrieved and both sources are secondary** | **COUNSEL** — enforcement. Lifted from the internal review 27 Aug 2026 |
+| OBJ-15 | **The doctrine will not bear the felony tier.** Lyness, 64 B.C. L. Rev. 253, 297–98, would revive the state RCO doctrine for **civil liability only**: *Dotterweich* and *Park* are misdemeanor authority from a time when collateral consequences were different. The base tier answers it; **SEC. 6(b) may not**, and no argument that the same authority reaches it exists anywhere here | **COUNSEL** — criminal. The scholar whose survey this project cites for its comparative claims |
 
 **OBJ-12 is the one to take first.** The Act's whole case rests on an analogy to the food and
 pollution statutes, and nobody has checked whether those statutes worked.
@@ -148,9 +151,43 @@ is how they went uncounted. **Pin before any committee-facing use.***
 | FACT-12  The Reuters 5 May pre-deployment-access item | A pin | **RETRIEVAL** |
 | FACT-13  The Mexican-agencies operation cited on the front page | **Pin it, or strike the sentence.** The incident timeline does not carry it | **MAINTAINER** — pin or strike |
 | FACT-14  The 24 August 2026 response deadline | A re-sweep: did OpenAI and Anthropic answer? Silence is itself the SEC. 9 argument | **MAINTAINER** — a re-sweep |
+| FACT-15 | **A published page cites a bill that never became law.** `commentary/half-statutes.md` argues Connecticut inverts the anti-inoculation pattern and cites section numbers taken from **2025 SB 2, which died in chamber** — tabled 16 May 2025, never voted, confirmed against the General Assembly's own bill history. A successor was enacted in 2026 and is not held. **Nothing there may be called Connecticut law until the enacted act is read** | **RETRIEVAL → MAINTAINER.** Flagged 24 Aug 2026 on standing watch, never entered here |
 
-**FACT-13 and FACT-14 are dispositions, not lookups.** Either can be closed today by deciding rather than
+**FACT-13 and FACT-14 close by deciding, not finding. FACT-15 is the most serious row here — a live defect on a published page.** Either can be closed today by deciding rather than
 finding.
+
+---
+
+## F. Documents named but never retrieved
+
+*Lifted 27 August 2026 from [standing watch](./standing-watch.md) and [the internal review](./internal-review.md).
+Every item was named there as owed, marked ⚠ unread, and **never entered this register** — which is
+why those pages could not be retired. All are **RETRIEVAL**.*
+
+| # | Document | Why it is owed |
+|---|---|---|
+| DOC-1 | Hugging Face's incident post, 16 July 2026 | One of four primaries behind the 2026 incident cluster |
+| DOC-2 | OpenAI's statement on the same incident | Same |
+| DOC-3 | The Black Hat presentation by two OpenAI staff | Same |
+| DOC-4 | Anthropic's disclosure of its own April evaluations | Same. **All four are held at reporting strength only** |
+| DOC-5 | The June 2026 executive order founding the federal review framework | Distinct from EO 14365 of 11 Dec 2025. Not held |
+| DOC-6 | The order in *X.AI LLC v. Weiser* constraining the Colorado Attorney General | The first judicial constraint on a state AI enforcer in this record |
+| DOC-7 | Apollo Global Management's own breach notification | Nothing hardens on the security side until it is read |
+| DOC-8 | Rep. Trahan's post of ~22 August 2026, in full | Held as a truncated paste; nothing may cite it beyond the watch |
+| DOC-9 | Connecticut's enacted 2026 act — public act number and section numbering | Blocks DEC-1 and FACT-15 |
+| DOC-10 | *Concord Music Group v. Anthropic*, No. 5:24-cv-03811 (N.D. Cal.), the 19 Dec 2025 deposition order | Public on CourtListener. The only court finding that a frontier chief executive holds unique personal knowledge of model training. Blocks OBJ-14 |
+| DOC-11 | Lyness, 64 B.C. L. Rev. 253, in the original | Cited throughout for comparative claims and **read only in extract**. Blocks OBJ-15 |
+
+**DOC-1 to DOC-4 first.** The 2026 cluster is the evidence base for the whole Act and currently
+rests on reporting rather than on the participants' own accounts.
+
+---
+
+## G. Erratum candidates — flagged, not corrected
+
+| # | Claim | State |
+|---|---|---|
+| ERR-1 | *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.) — the argument date of 16 July 2026 | The Ninth Circuit docket was read 25 Aug 2026 and carries no entry for argument, submission or opinion; the snapshot ends 15 May 2026. An amicus filed 22 July into "briefing ongoing" is hard to reconcile with argument on 16 July. **The current wording is correct and must not be strengthened.** Confirming it needs PACER. **LIBRARY** |
 
 ---
 
