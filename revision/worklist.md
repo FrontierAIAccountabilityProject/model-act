@@ -6,21 +6,8 @@ nav_order: 1
 
 # Worklist — every open item
 
-*Every open item on this Act. Each row is discrete: what it is, which section it touches, what it
-needs, and whose call it is.*
-
-**Five kinds of work.** **Proposed amendments** are drafted and waiting for a lawyer to approve,
-change, or reject. **Decisions** are questions the maintainer cannot settle alone. **Objections with no
-answer** are criticisms made from outside that this project has not met. **Facts not yet pinned** are
-claims the evidence record makes on a source that has not been confirmed. **Citations** are
-quotations read in the source whose page number the copy held cannot confirm — clearable only with
-library access, and not part of reviewing the Act.
-
-**Responses.** Name the item, state the conclusion, give the reasons. **No review has been received.**
-When one is, it is published verbatim — the reviewer's own words, in full, under their own name or
-anonymously at their election, and the maintainer may reply beside it but may never edit or overrule
-it. A rejection is as publishable as an endorsement, and is worth more.
-`FrontierAIAccountabilityProject@proton.me`
+*Every open item on this Act, in one file. Each row says what is missing, which section it
+touches, and what it would take to close it.*
 
 ---
 
@@ -109,7 +96,6 @@ is as publishable as an endorsement, and is worth more.
 | DEC-2 | Decision | 2, 9 · Does the duty reach an evaluation run with safeguards deliberately disabled? |
 | DEC-3 | Decision | 4 · Third-party evaluators: does practical authority still run to the officer? |
 | DEC-4 | Decision | 2(a), 1(c) · **The Act does not reach the conduct it was written after** |
-| AMD-1 | Amendment | 1 · Sources "serious injury" from 18 U.S.C. § 1365(h)(3)–(4). Research complete; it changes what the Act requires |
 | Q-5 | Open question | Whether `act/bracketed-matter.md` should discuss the citizen-suit question |
 
 ## 4 · Counsel missing
@@ -118,33 +104,33 @@ is as publishable as an endorsement, and is worth more.
 
 | ID | Kind | Item |
 |---|---|---|
-| AMD-1 | Amendment | 1 · Sources "serious injury" from 18 U.S.C. § 1365(h)(3)–(4) instead of leaving it undefined ·criminal. Relabeled 27 Aug: a wider injury definition widens a custodial offense, and the research being complete does not make that a drafting choice the maintainer can make. Maintainer decides after counsel advises |
-| AMD-2 | Amendment | 13(c) · Adds a review valve on the suspension order ·administrative law |
-| AMD-4 | Amendment | 9(a) · Recasts two reporting triggers from characterizations into observable events ·a prosecutor, on whether the events are provable |
-| AMD-6 | Amendment | 1(b)(1) · Adds the developer's own designation as a third route into scope ·whether self-designation can be gamed is policy |
-| AMD-8 | Amendment | 6 · Rebuilds the individual-liability offense ·criminal. Unvalidated, drafted before E66 |
-| AMD-9 | Amendment | 10(e) · Imports the access authority the Act omitted ·enforcement. Moved 27 Aug: § 374 does not supply the model |
-| AMD-10 | Amendment | 3(c)(3) · Interim controls, so 5(b) is not dormant until year four ·criminal. Relabeled 27 Aug: the repair works by writing four technical controls into the statute as offense elements, applied before any agency has ruled. Fair notice |
-| AMD-13 | Amendment | 1(b)(1)(B) · Says "sever" rather than "extend" ·open-source implications are policy |
-| AMD-15 | Amendment | 3(c)(2) · A disclose-and-fix valve, because the text as written punishes candor ·criminal. Relabeled 27 Aug: the 90-day shelter is renewable on a further nonconformity report and the text does not say whether that restarts the clock |
-| AMD-20 | Amendment | 3 · Conformity to a standard outside this Act credits nothing ·too harsh on good-faith compliers? |
-| AMD-21 | Amendment | 8 · A certification register — facts public, contents protected ·trade secret and public records |
-| AMD-23 | Amendment | 3(c)(4)(B) · Restores the publication the borrowed statutes require, on their redaction terms ·regulatory; are the redaction terms workable |
-| AMD-24 | Amendment | 8 · The lower tier names recklessness; § 6(a) requires only negligence ·criminal, on the fair-notice defect |
-| AMD-25 | Amendment | 10(d) · The FDCA remedies are cited and their protections are not taken ·is taking the FDCA protections coherent |
-| DEC-2 | Decision | 2, 9 · Does the duty reach an evaluation run with safeguards deliberately disabled? · Open ·criminal. Relabeled 27 Aug: whether a configuration decision is a covered act. Maintainer decides after counsel advises |
-| DEC-3 | Decision | 4 · Third-party evaluators: does practical authority still run to the officer? · Open — architecture, not a defect ·criminal. Relabeled 27 Aug: whether practical authority reaches a person who commissioned an outside evaluation. **Maintainer steer, 27 Aug: an independent evaluator such as AISI is not the concern; a company-commissioned evaluator is.** Maintainer decides after counsel advises |
-| DEC-4 | Decision | 2(a), 1(c) · **The Act does not reach the conduct it was written after** · Open ·criminal and constitutional. Relabeled 27 Aug: whether a State may attach duties to conduct abroad on the basis of intended in-state effect. Maintainer owns the aim, not the answer |
-| OBJ-4 | Objection | Unaddressed; asserted rather than quantified ·or an economist — asserted, never quantified |
-| OBJ-5 | Objection | Unaddressed ·legislative policy |
-| OBJ-6 | Objection | Unaddressed ·or an economist |
-| OBJ-7 | Objection | Unaddressed ·criminal theory |
-| OBJ-8 | Objection | The literature is held; nothing anticipates the coalition ·criminal policy |
+| AMD-1 | Amendment | 1 · Sources "serious injury" from 18 U.S.C. § 1365(h)(3)–(4) instead of leaving it undefined — criminal. Relabeled 27 Aug: a wider injury definition widens a custodial offense, and the research being complete does not make that a drafting choice the maintainer can make. Maintainer decides after counsel advises |
+| AMD-2 | Amendment | 13(c) · Adds a review valve on the suspension order — administrative law |
+| AMD-4 | Amendment | 9(a) · Recasts two reporting triggers from characterizations into observable events — a prosecutor, on whether the events are provable |
+| AMD-6 | Amendment | 1(b)(1) · Adds the developer's own designation as a third route into scope — whether self-designation can be gamed is policy |
+| AMD-8 | Amendment | 6 · Rebuilds the individual-liability offense — criminal. Unvalidated, drafted before E66 |
+| AMD-9 | Amendment | 10(e) · Imports the access authority the Act omitted — enforcement. Moved 27 Aug: § 374 does not supply the model |
+| AMD-10 | Amendment | 3(c)(3) · Interim controls, so 5(b) is not dormant until year four — criminal. Relabeled 27 Aug: the repair works by writing four technical controls into the statute as offense elements, applied before any agency has ruled. Fair notice |
+| AMD-13 | Amendment | 1(b)(1)(B) · Says "sever" rather than "extend" — open-source implications are policy |
+| AMD-15 | Amendment | 3(c)(2) · A disclose-and-fix valve, because the text as written punishes candor — criminal. Relabeled 27 Aug: the 90-day shelter is renewable on a further nonconformity report and the text does not say whether that restarts the clock |
+| AMD-20 | Amendment | 3 · Conformity to a standard outside this Act credits nothing — too harsh on good-faith compliers? |
+| AMD-21 | Amendment | 8 · A certification register — facts public, contents protected — trade secret and public records |
+| AMD-23 | Amendment | 3(c)(4)(B) · Restores the publication the borrowed statutes require, on their redaction terms — regulatory; are the redaction terms workable |
+| AMD-24 | Amendment | 8 · The lower tier names recklessness; § 6(a) requires only negligence — criminal, on the fair-notice defect |
+| AMD-25 | Amendment | 10(d) · The FDCA remedies are cited and their protections are not taken — is taking the FDCA protections coherent |
+| DEC-2 | Decision | 2, 9 · Does the duty reach an evaluation run with safeguards deliberately disabled? · Open — criminal. Relabeled 27 Aug: whether a configuration decision is a covered act. Maintainer decides after counsel advises |
+| DEC-3 | Decision | 4 · Third-party evaluators: does practical authority still run to the officer? · Open — architecture, not a defect — criminal. Relabeled 27 Aug: whether practical authority reaches a person who commissioned an outside evaluation. **Maintainer steer, 27 Aug: an independent evaluator such as AISI is not the concern; a company-commissioned evaluator is.** Maintainer decides after counsel advises |
+| DEC-4 | Decision | 2(a), 1(c) · **The Act does not reach the conduct it was written after** · Open — criminal and constitutional. Relabeled 27 Aug: whether a State may attach duties to conduct abroad on the basis of intended in-state effect. Maintainer owns the aim, not the answer |
+| OBJ-4 | Objection | Unaddressed; asserted rather than quantified — or an economist — asserted, never quantified |
+| OBJ-5 | Objection | Unaddressed — legislative policy |
+| OBJ-6 | Objection | Unaddressed — or an economist |
+| OBJ-7 | Objection | Unaddressed — criminal theory |
+| OBJ-8 | Objection | The literature is held; nothing anticipates the coalition — criminal policy |
 | OBJ-9 | Objection | Named as unanswered on the objections page |
 | OBJ-10 | Objection | Raised from outside; answer incomplete |
 | OBJ-13 | Objection | **Takings.** *X.AI LLC v. Bonta*, No. 2:25-cv-12295 (C.D. Cal.) pleads **per se takings and regulatory takings before it reaches speech** — compelled training-data disclosure as destruction of a trade secret. This repository returns **zero** on Takings Clause, regulatory taking, per se taking and *Penn Central* ·constitutional. Lifted from standing watch 27 Aug 2026 |
-| OBJ-14 | Objection | **The apex-witness problem.** Every SEC. 6 offense turns on what a natural person knew or could have prevented, and American courts shield senior executives from depositions absent unique non-duplicative knowledge. Can the State get that person into a chair? One data point cuts our way — *Concord Music Group v. Anthropic*, No. 5:24-cv-03811 (N.D. Cal.), 19 Dec 2025, Amodei ordered to sit — **⚠ the order has not been retrieved and both sources are secondary** ·enforcement. Lifted from the internal review 27 Aug 2026 |
-| OBJ-15 | Objection | **The doctrine will not bear the felony tier.** Lyness, 64 B.C. L. Rev. 253, 297–98, would revive the state RCO doctrine for **civil liability only**: *Dotterweich* and *Park* are misdemeanor authority from a time when collateral consequences were different. The base tier answers it; **SEC. 6(b) may not**, and no argument that the same authority reaches it exists anywhere here ·criminal. The scholar whose survey this project cites for its comparative claims |
+| OBJ-14 | Objection | **The apex-witness problem.** Every SEC. 6 offense turns on what a natural person knew or could have prevented, and American courts shield senior executives from depositions absent unique non-duplicative knowledge. Can the State get that person into a chair? One data point cuts our way — *Concord Music Group v. Anthropic*, No. 5:24-cv-03811 (N.D. Cal.), 19 Dec 2025, Amodei ordered to sit — **⚠ the order has not been retrieved and both sources are secondary** — enforcement. Lifted from the internal review 27 Aug 2026 |
+| OBJ-15 | Objection | **The doctrine will not bear the felony tier.** Lyness, 64 B.C. L. Rev. 253, 297–98, would revive the state RCO doctrine for **civil liability only**: *Dotterweich* and *Park* are misdemeanor authority from a time when collateral consequences were different. The base tier answers it; **SEC. 6(b) may not**, and no argument that the same authority reaches it exists anywhere here — criminal. The scholar whose survey this project cites for its comparative claims |
 | OBJ-3 | Objection | Prior to every legal question on this page, and unaddressed · **Neither** — an evaluations researcher, not a lawyer |
 | Q-1 | Open question | Whether 8 Del. C. § 102(b)(7) exculpation reaches a duty imposed by a statute outside the DGCL. "We have found no case deciding it" · `commentary/objections.md` 1097 |
 | Q-3 | Open question | Whether the Act's answer to Lyness on remediable and insurable harm holds — "asserted here, not proven" · `commentary/other-jurisdictions.md` 369 |
@@ -155,16 +141,16 @@ is as publishable as an endorsement, and is worth more.
 
 | ID | Kind | Item |
 |---|---|---|
-| AMD-3 | Amendment | regulations · Conforms the draft regulations to the current Act — three changes never cascaded ·compare `act/rules.md` against the Act; three anchors |
-| AMD-5 | Amendment | 8 · Punctuation only — SEC. 8 has a comma where a period belongs, mid-sentence before "A certification disclosing" ·adopt |
-| AMD-SC | Amendment | end of file · **The statute ends with two stray characters, `)(`, after "Steal it."** Present in the tagged v3.4 text and in `the-act.txt`; **absent from the reviewer's clean copy**, so it was introduced or preserved in one and not the other. Found 26 Aug 2026 ·delete two characters and re-checksum, or carry to v3.5 |
-| AMD-7 | Amendment | 1 · Extends scope to the covered frontier enterprise — ecosystem scope, functional duty ·held pending enforcement and security review |
-| AMD-11 | Amendment | 5, 9(b) · Names who owes the duty; rewrites it in the active voice ·read it; does SEC. 5 now name the obligor |
-| AMD-14 | Amendment | 9(b) · A detection clock that cannot be gamed by certifying less monitoring ·read it; can the clock still be gamed |
-| AMD-26 | Amendment | 3(c)(4) · Repairs the disapplication list against a full read of the three adopted standards ·check the repair against the three standards, already read |
-| FACT-10 | Fact | Resolution; the individual-signature reading stands meanwhile ·a disposition |
-| FACT-13 | Fact | **Pin it, or strike the sentence.** The incident timeline does not carry it ·pin or strike |
-| FACT-14 | Fact | A re-sweep: did OpenAI and Anthropic answer? Silence is itself the SEC. 9 argument ·a re-sweep |
+| AMD-3 | Amendment | regulations · Conforms the draft regulations to the current Act — three changes never cascaded — compare `act/rules.md` against the Act; three anchors |
+| AMD-5 | Amendment | 8 · Punctuation only — SEC. 8 has a comma where a period belongs, mid-sentence before "A certification disclosing" — adopt |
+| AMD-SC | Amendment | end of file · **The statute ends with two stray characters, `)(`, after "Steal it."** Present in the tagged v3.4 text and in `the-act.txt`; **absent from the reviewer's clean copy**, so it was introduced or preserved in one and not the other. Found 26 Aug 2026 — delete two characters and re-checksum, or carry to v3.5 |
+| AMD-7 | Amendment | 1 · Extends scope to the covered frontier enterprise — ecosystem scope, functional duty — held pending enforcement and security review |
+| AMD-11 | Amendment | 5, 9(b) · Names who owes the duty; rewrites it in the active voice — read it; does SEC. 5 now name the obligor |
+| AMD-14 | Amendment | 9(b) · A detection clock that cannot be gamed by certifying less monitoring — read it; can the clock still be gamed |
+| AMD-26 | Amendment | 3(c)(4) · Repairs the disapplication list against a full read of the three adopted standards — check the repair against the three standards, already read |
+| FACT-10 | Fact | Resolution; the individual-signature reading stands meanwhile — a disposition |
+| FACT-13 | Fact | **Pin it, or strike the sentence.** The incident timeline does not carry it — pin or strike |
+| FACT-14 | Fact | A re-sweep: did OpenAI and Anthropic answer? Silence is itself the SEC. 9 argument — a re-sweep |
 | PUB-2 | Published defect | `commentary/questions.md` 163, 247, 253, 363, 371, 384, 393, 407 · `commentary/objections.md` 44, 316, 493, 658, 715, 808 · `commentary/other-jurisdictions.md` 244, 372, 380 · **Seventeen passages address reviewers, seats and a council as existing parties** — "the enforcement reviewer's core question, and the reviewer exists because it is"; "identifiable privately to reviewers before they sign"; "any completed expert reviews". No reviewer exists and no review has been received. `objections.md` line 10 now says so, and fourteen later passages on the same page contradict it |
 | PUB-3 | Published defect | `commentary/objections.md` 706, 850 · `commentary/the-case.md` 501 · **Three references to a `docs/` directory that no longer exists** — `docs/safe_harbors_and_affirmative_defenses.md` (now `commentary/half-statutes.md`), `docs/03-whats-in-the-act.md`, and a GitHub permalink pinned to commit `6f48eff` under the vanished tree |
 | PUB-5 | Published defect | `commentary/already-a-crime.md` 34 · `commentary/what-frontier-means.md` 33, 50, 113, 129 · `commentary/half-statutes.md` 138 · **"CURE 6", "CURE 7", "CURE 20"** — this file numbers them Amendment *n*, and three other commentary pages already use that. Two naming schemes for the same rows in one directory |
@@ -183,17 +169,17 @@ is as publishable as an endorsement, and is worth more.
 
 | ID | Kind | Item |
 |---|---|---|
-| OBJ-11 | Objection | Reported, not read. Her work is not in the source library ·then readable by the maintainer |
-| OBJ-12 | Objection | **The largest hole.** The central analogy is a legal argument wearing an empirical one's clothes ·then readable by the maintainer |
+| OBJ-11 | Objection | Reported, not read. Her work is not in the source library — then readable by the maintainer |
+| OBJ-12 | Objection | **The largest hole.** The central analogy is a legal argument wearing an empirical one's clothes — then readable by the maintainer |
 | FACT-1 | Fact | A first-party or filing source |
 | FACT-2 | Fact | A source |
 | FACT-3 | Fact | A dated source |
-| FACT-4 | Fact | **The S-1 read directly.** Currently held through secondary reads ·the S-1 |
+| FACT-4 | Fact | **The S-1 read directly.** Currently held through secondary reads — the S-1 |
 | FACT-5 | Fact | The roster reconciled against the seat count |
-| FACT-6 | Fact | Published? Watch ·watch |
+| FACT-6 | Fact | Published? Watch — watch |
 | FACT-7 | Fact | Any sourced figure |
 | FACT-8 | Fact | Pins; flagged in the incidents appendix |
-| FACT-9 | Fact | **Both currently rest on an AI summary** — first-party or strike ·or strike |
+| FACT-9 | Fact | **Both currently rest on an AI summary** — first-party or strike — or strike |
 | FACT-11 | Fact | All three still unpinned |
 | FACT-12 | Fact | A pin |
 | DOC-1 | Document | Hugging Face's incident post, 16 July 2026 · One of four primaries behind the 2026 incident cluster |
