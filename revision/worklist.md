@@ -10,7 +10,7 @@ nav_order: 1
 needs, and whose call it is.*
 
 **Five kinds of work.** **Proposed amendments** are drafted and waiting for a lawyer to approve,
-change, or reject. **Decisions** are questions the drafter cannot settle alone. **Objections with no
+change, or reject. **Decisions** are questions the maintainer cannot settle alone. **Objections with no
 answer** are criticisms made from outside that this project has not met. **Facts not yet pinned** are
 claims the evidence record makes on a source that has not been confirmed. **Citations** are
 quotations read in the source whose page number the copy held cannot confirm — clearable only with
@@ -23,53 +23,79 @@ overrule it. A rejection is as publishable as an endorsement.
 
 ---
 
+## Who closes an item
+
+*Added 27 August 2026. Every row below carries one of these. The distinction that matters is the
+first two: an item that closes by reading a file is not the same as an item that needs a credential,
+and this register spent weeks treating them alike.*
+
+| Label | What it means |
+|---|---|
+| **MAINTAINER** | Closes by reading a file and comparing it to the Act. No credential required |
+| **COUNSEL** | Cannot be closed by reading. Needs a qualified lawyer; the field is named on the row |
+| **LIBRARY** | Needs Westlaw, Lexis or a print reporter. Access, not judgment — a law librarian can do it |
+| **RETRIEVAL** | A document that exists and is not held. Finding it, not expertise |
+
+**Where a row reads RETRIEVAL → COUNSEL**, the document must be obtained before the question can be
+put to anyone. Retrieval does not close it.
+
+**Fifteen items close by reading. Sixteen need a lawyer.** That second number is this project's real
+constraint, and no amount of further work here reduces it.
+
+---
+
 ## A. Proposed amendments — drafted, not adopted
 
 *Drop-in replacement text exists for every row. The work is deciding whether it is right.*
 
-| # | Section | What it changes | What it needs |
+| # | Section | What it changes | Who closes it |
 |---|---|---|---|
-| 1 | 1 | Sources "serious injury" from 18 U.S.C. § 1365(h)(3)–(4) instead of leaving it undefined | A read of the borrowed definition against the harm tiers |
-| 2 | 13(c) | Adds a review valve on the suspension order | Administrative-law eyes on whether the valve is adequate |
-| 3 | regulations | Conforms the draft regulations to the current Act — three changes never cascaded | Mechanical; someone to check all three landed |
-| 4 | 9(a) | Recasts two reporting triggers from characterizations into observable events | A prosecutor's view on whether the events are provable |
-| 5 | 8 | Punctuation only — SEC. 8 has a comma where a period belongs, mid-sentence before "A certification disclosing" | Nothing. Adopt it. |
-| — | end of file | **The statute ends with two stray characters, `)(`, after "Steal it."** Present in the tagged v3.4 text and in `the-act.txt`; **absent from the reviewer's clean copy**, so it was introduced or preserved in one and not the other. Found 26 Aug 2026 | A decision: correct it in place and re-checksum, or carry it to v3.5. Mechanical either way |
-| 6 | 1(b)(1) | Adds the developer's own designation as a third route into scope | Whether self-designation can be gamed |
-| 7 | 1 | Extends scope to the covered frontier enterprise — ecosystem scope, functional duty | **Held by the drafter** pending enforcement and security review |
-| 8 | 6 | Rebuilds the individual-liability offense | **Not yet checked by the drafter.** A criminal lawyer's read |
-| 9 | 10(e) | Imports the access authority the Act omitted | **Not yet checked by the drafter.** Enforcement eyes |
-| 10 | 3(c)(3) | Interim controls, so 5(b) is not dormant until year four | **Not yet checked by the drafter** |
-| 11 | 5, 9(b) | Names who owes the duty; rewrites it in the active voice | **Not yet checked by the drafter** |
-| 12 | 5(d) | Restores the mental state the borrowed provision requires | **Not yet checked by the drafter.** A criminal lawyer's read |
-| 13 | 1(b)(1)(B) | Says "sever" rather than "extend" | **Not yet checked by the drafter.** Open-source implications |
-| 14 | 9(b) | A detection clock that cannot be gamed by certifying less monitoring | **Not yet checked by the drafter** |
-| 15 | 3(c)(2) | A disclose-and-fix valve, because the text as written punishes candor | **Not yet checked by the drafter** |
-| 16 | 1(b)(7) | A deception limb, because *Van Buren* excludes what actually happened | **Not yet checked by the drafter.** CFAA expertise |
-| 20 | 3 | Conformity to a standard outside this Act credits nothing | Whether this is too harsh on good-faith compliers |
-| 21 | 8 | A certification register — facts public, contents protected | Trade-secret and public-records eyes |
-| 22 | 6(b) | The felony tier's knowledge element, and one word that is not American English | **Blocked**: needs *MacDonald & Watson* n.15 read in a reporter print. See C |
-| 23 | 3(c)(4)(B) | Restores the publication the borrowed statutes require, on their redaction terms | Whether the redaction terms are workable |
-| 24 | 8 | The lower tier names recklessness; § 6(a) requires only negligence | A criminal lawyer on the fair-notice defect |
-| 25 | 10(d) | The FDCA remedies are cited and their protections are not taken | Whether taking them is coherent |
-| 26 | 3(c)(4) | Repairs the disapplication list against a full read of the three adopted standards | Someone to check the repair against all three |
+| 1 | 1 | Sources "serious injury" from 18 U.S.C. § 1365(h)(3)–(4) instead of leaving it undefined | **MAINTAINER** — decide; the research is complete |
+| 2 | 13(c) | Adds a review valve on the suspension order | **COUNSEL** — administrative law |
+| 3 | regulations | Conforms the draft regulations to the current Act — three changes never cascaded | **MAINTAINER** — compare `act/rules.md` against the Act; three anchors |
+| 4 | 9(a) | Recasts two reporting triggers from characterizations into observable events | **COUNSEL** — a prosecutor, on whether the events are provable |
+| 5 | 8 | Punctuation only — SEC. 8 has a comma where a period belongs, mid-sentence before "A certification disclosing" | **MAINTAINER** — adopt |
+| — | end of file | **The statute ends with two stray characters, `)(`, after "Steal it."** Present in the tagged v3.4 text and in `the-act.txt`; **absent from the reviewer's clean copy**, so it was introduced or preserved in one and not the other. Found 26 Aug 2026 | **MAINTAINER** — delete two characters and re-checksum, or carry to v3.5 |
+| 6 | 1(b)(1) | Adds the developer's own designation as a third route into scope | **COUNSEL** — whether self-designation can be gamed is policy |
+| 7 | 1 | Extends scope to the covered frontier enterprise — ecosystem scope, functional duty | **MAINTAINER** — held pending enforcement and security review |
+| 8 | 6 | Rebuilds the individual-liability offense | **COUNSEL** — criminal. Unvalidated, drafted before E66 |
+| 9 | 10(e) | Imports the access authority the Act omitted | **COUNSEL** — enforcement. Moved 27 Aug: § 374 does not supply the model |
+| 10 | 3(c)(3) | Interim controls, so 5(b) is not dormant until year four | **MAINTAINER** — read the drafted text against SEC. 3(c) |
+| 11 | 5, 9(b) | Names who owes the duty; rewrites it in the active voice | **MAINTAINER** — read it; does SEC. 5 now name the obligor |
+| 12 | 5(d) | Restores the mental state the borrowed provision requires | **RETRIEVAL → COUNSEL** — *Alvarez*, not held. Then criminal |
+| 13 | 1(b)(1)(B) | Says "sever" rather than "extend" | **COUNSEL** — open-source implications are policy |
+| 14 | 9(b) | A detection clock that cannot be gamed by certifying less monitoring | **MAINTAINER** — read it; can the clock still be gamed |
+| 15 | 3(c)(2) | A disclose-and-fix valve, because the text as written punishes candor | **MAINTAINER** — read it; does it stop the Act punishing disclosure |
+| 16 | 1(b)(7) | A deception limb, because *Van Buren* excludes what actually happened | **RETRIEVAL → COUNSEL** — *Van Buren*, not held. Then CFAA |
+| 20 | 3 | Conformity to a standard outside this Act credits nothing | **COUNSEL** — too harsh on good-faith compliers? |
+| 21 | 8 | A certification register — facts public, contents protected | **COUNSEL** — trade secret and public records |
+| 22 | 6(b) | The felony tier's knowledge element, and one word that is not American English | **LIBRARY → COUNSEL** — blocked on *MacDonald & Watson* n.15. See E |
+| 23 | 3(c)(4)(B) | Restores the publication the borrowed statutes require, on their redaction terms | **COUNSEL** — regulatory; are the redaction terms workable |
+| 24 | 8 | The lower tier names recklessness; § 6(a) requires only negligence | **COUNSEL** — criminal, on the fair-notice defect |
+| 25 | 10(d) | The FDCA remedies are cited and their protections are not taken | **COUNSEL** — is taking the FDCA protections coherent |
+| 26 | 3(c)(4) | Repairs the disapplication list against a full read of the three adopted standards | **MAINTAINER** — check the repair against the three standards, already read |
 
-**Rows 8–16 carry the same warning and it is the important one.** They came out of an internal
-review and **the drafter has not validated them**. They are the rows where an outside read is worth
-most, and the rows most likely to be wrong.
+**Rows 8–16 came out of an internal review and the maintainer has not validated them.** They are the
+rows where an outside read is worth most, and the rows most likely to be wrong. **They do not all need
+the same person:** 10, 11, 14 and 15 close by reading the drafted text against the Act; 8, 9, 12 and
+13 need counsel; 16 needs a document first.
+
+**Ten of the twenty-three close by reading. Nine need a lawyer.** Three of the ten — 3, 5 and the
+stray characters — change nothing the Act requires and could land as a patch. The other seven change
+what the Act requires and belong in v3.5.
 
 ---
 
-## B. Decisions — questions the drafter cannot settle alone
+## B. Decisions — questions the maintainer cannot settle alone
 
-| # | Section | The question | Status |
-|---|---|---|---|
-| 1 | 3(c)(4) | Does Connecticut become a fourth adopted standard? | Parked by decision until the Connecticut act is read in full |
-| 2 | 2, 9 | Does the duty reach an evaluation run with safeguards deliberately disabled? | Open |
-| 3 | 4 | Third-party evaluators: does practical authority still run to the officer? | Open — an architecture question, not a defect |
-| 4 | 2(a), 1(c) | **The Act does not reach the conduct it was written after** | Open |
+| # | Section | The question | Status | Who closes it |
+|---|---|---|---|---|
+| DEC-1 | 3(c)(4) | Does Connecticut become a fourth adopted standard? | Parked until the act is read in full | **RETRIEVAL → MAINTAINER** |
+| DEC-2 | 2, 9 | Does the duty reach an evaluation run with safeguards deliberately disabled? | Open | **MAINTAINER** — design choice |
+| DEC-3 | 4 | Third-party evaluators: does practical authority still run to the officer? | Open — architecture, not a defect | **MAINTAINER** — design choice |
+| DEC-4 | 2(a), 1(c) | **The Act does not reach the conduct it was written after** | Open | **MAINTAINER** — the decision the maintainer owns |
 
-**Decision 4 is the one to read first.** It says the statute misses the case that prompted it.
+**DEC-4 is the one to read first.** It says the statute misses the case that prompted it.
 
 ---
 
@@ -79,22 +105,22 @@ most, and the rows most likely to be wrong.
 its own. They are listed in full, with the answer left blank, in
 [Objections](../commentary/objections.md#not-yet-on-this-page--objections-named-and-not-answered-26-august-2026).*
 
-| Objection | State |
-|---|---|
-| **Vagueness.** A duty framed as "reasonable safeguards" is unconstitutionally vague where the penalty is prison — *Lambert v. California*; *Johnson v. United States* (2015) | Neither case is held or cited. This is the constitutional objection that most often kills a bill in committee |
-| **The First Amendment flank.** Model weights and code as expression; *Bernstein* left it half-open | Not held, not cited |
-| **You cannot criminalize a standard you cannot measure.** No evaluation suite with published false-negative rates, no agreed threshold, no elicitation method two laboratories would apply identically | Prior to every legal question on this page, and unaddressed |
-| **Deterrence assumes the deterred party is the marginal supplier.** Jail the US executive and the capability arrives from an open-weight release instead | Unaddressed; asserted rather than quantified |
-| **Reversibility.** A criminal statute is close to permanent; a regulation is amendable in months | Unaddressed |
-| **Adverse selection in the leadership pool.** Criminal exposure filters for risk tolerance and legal budget, not for care | Unaddressed |
-| **Moral luck.** The identical decision goes free or draws six months depending on the user it met | Unaddressed |
-| **The mens rea reform pincer.** A fifteen-year project to add default mens rea and shrink strict liability; a new public-welfare offense walks onto ground that coalition chose | The literature is held; nothing anticipates the coalition |
-| **"She relied on her safety team."** The delegation defense | Named as unanswered on the objections page |
-| **"The veil is not the obstacle. Delegation is."** There may be no single decider to reach | Raised from outside; answer incomplete |
-| **The strongest argument *for* the Act is missing.** Arlen's point — that individuals respond to personal liability as firms never respond to fines, because prison cannot be insured or indemnified | Reported, not read. Her work is not in the source library |
-| **No outcome data.** Whether responsible-officer liability measurably reduced adulteration or pollution rates has no answer anywhere here | **The largest hole.** The central analogy is a legal argument wearing an empirical one's clothes |
+| # | Objection | State | Who closes it |
+|---|---|---|---|
+| OBJ-1  **Vagueness.** A duty framed as "reasonable safeguards" is unconstitutionally vague where the penalty is prison — *Lambert v. California*; *Johnson v. United States* (2015) | Neither case is held or cited. This is the constitutional objection that most often kills a bill in committee | **RETRIEVAL → COUNSEL** — neither case held |
+| OBJ-2  **The First Amendment flank.** Model weights and code as expression; *Bernstein* left it half-open | Not held, not cited | **RETRIEVAL → COUNSEL** — *Bernstein* not held |
+| OBJ-3  **You cannot criminalize a standard you cannot measure.** No evaluation suite with published false-negative rates, no agreed threshold, no elicitation method two laboratories would apply identically | Prior to every legal question on this page, and unaddressed | **Neither** — an evaluations researcher, not a lawyer |
+| OBJ-4  **Deterrence assumes the deterred party is the marginal supplier.** Jail the US executive and the capability arrives from an open-weight release instead | Unaddressed; asserted rather than quantified | **COUNSEL** or an economist — asserted, never quantified |
+| OBJ-5  **Reversibility.** A criminal statute is close to permanent; a regulation is amendable in months | Unaddressed | **COUNSEL** — legislative policy |
+| OBJ-6  **Adverse selection in the leadership pool.** Criminal exposure filters for risk tolerance and legal budget, not for care | Unaddressed | **COUNSEL** or an economist |
+| OBJ-7  **Moral luck.** The identical decision goes free or draws six months depending on the user it met | Unaddressed | **COUNSEL** — criminal theory |
+| OBJ-8  **The mens rea reform pincer.** A fifteen-year project to add default mens rea and shrink strict liability; a new public-welfare offense walks onto ground that coalition chose | The literature is held; nothing anticipates the coalition | **COUNSEL** — criminal policy |
+| OBJ-9  **"She relied on her safety team."** The delegation defense | Named as unanswered on the objections page | **COUNSEL** — criminal. Diamantis's subject |
+| OBJ-10  **"The veil is not the obstacle. Delegation is."** There may be no single decider to reach | Raised from outside; answer incomplete | **COUNSEL** — criminal. Diamantis's subject |
+| OBJ-11  **The strongest argument *for* the Act is missing.** Arlen's point — that individuals respond to personal liability as firms never respond to fines, because prison cannot be insured or indemnified | Reported, not read. Her work is not in the source library | **RETRIEVAL** — then readable by the maintainer |
+| OBJ-12  **No outcome data.** Whether responsible-officer liability measurably reduced adulteration or pollution rates has no answer anywhere here | **The largest hole.** The central analogy is a legal argument wearing an empirical one's clothes | **RETRIEVAL** — then readable by the maintainer |
 
-**The last row is the one to take first.** The Act's whole case rests on an analogy to the food and
+**OBJ-12 is the one to take first.** The Act's whole case rests on an analogy to the food and
 pollution statutes, and nobody has checked whether those statutes worked.
 
 ---
@@ -105,24 +131,24 @@ pollution statutes, and nobody has checked whether those statutes worked.
 document. They were recorded inside the sealed dossier's own cite-check list and nowhere else, which
 is how they went uncounted. **Pin before any committee-facing use.***
 
-| Claim | What is needed |
-|---|---|
-| Amodei's stake, reported as ~1.8% | A first-party or filing source |
-| Ellison's "#2 window" | A source |
-| Huang's late-June net-worth snapshot | A dated source |
-| SpaceX voting figures, ~82% on ~42% | **The S-1 read directly.** Currently held through secondary reads |
-| The Anthropic LTBT seat-count arithmetic | The roster reconciled against the seat count |
-| Meta's first-party incident retrospective | Published? Watch |
-| GPU-hour cost for the incidents | Any sourced figure |
-| The Grok, Taiwan, Australia and Moonshot incident cluster | Pins; flagged in the incidents appendix |
-| OpenAI "Astra" pause; Altman's "singularity" remark | **Both currently rest on an AI summary** — first-party or strike |
-| The employer-endorsement question on the signatory letters | Resolution; the individual-signature reading stands meanwhile |
-| Manifesto sequence dates — Hassabis 14 Jul, Huang 24 Jul, Zuckerberg 28 Jul | All three still unpinned |
-| The Reuters 5 May pre-deployment-access item | A pin |
-| The Mexican-agencies operation cited on the front page | **Pin it, or strike the sentence.** The incident timeline does not carry it |
-| The 24 August 2026 response deadline | A re-sweep: did OpenAI and Anthropic answer? Silence is itself the SEC. 9 argument |
+| # | Claim | What is needed | Who closes it |
+|---|---|---|---|
+| FACT-1  Amodei's stake, reported as ~1.8% | A first-party or filing source | **RETRIEVAL** |
+| FACT-2  Ellison's "#2 window" | A source | **RETRIEVAL** |
+| FACT-3  Huang's late-June net-worth snapshot | A dated source | **RETRIEVAL** |
+| FACT-4  SpaceX voting figures, ~82% on ~42% | **The S-1 read directly.** Currently held through secondary reads | **RETRIEVAL** — the S-1 |
+| FACT-5  The Anthropic LTBT seat-count arithmetic | The roster reconciled against the seat count | **RETRIEVAL** |
+| FACT-6  Meta's first-party incident retrospective | Published? Watch | **RETRIEVAL** — watch |
+| FACT-7  GPU-hour cost for the incidents | Any sourced figure | **RETRIEVAL** |
+| FACT-8  The Grok, Taiwan, Australia and Moonshot incident cluster | Pins; flagged in the incidents appendix | **RETRIEVAL** |
+| FACT-9  OpenAI "Astra" pause; Altman's "singularity" remark | **Both currently rest on an AI summary** — first-party or strike | **RETRIEVAL** — or strike |
+| FACT-10  The employer-endorsement question on the signatory letters | Resolution; the individual-signature reading stands meanwhile | **MAINTAINER** — a disposition |
+| FACT-11  Manifesto sequence dates — Hassabis 14 Jul, Huang 24 Jul, Zuckerberg 28 Jul | All three still unpinned | **RETRIEVAL** |
+| FACT-12  The Reuters 5 May pre-deployment-access item | A pin | **RETRIEVAL** |
+| FACT-13  The Mexican-agencies operation cited on the front page | **Pin it, or strike the sentence.** The incident timeline does not carry it | **MAINTAINER** — pin or strike |
+| FACT-14  The 24 August 2026 response deadline | A re-sweep: did OpenAI and Anthropic answer? Silence is itself the SEC. 9 argument | **MAINTAINER** — a re-sweep |
 
-**The last two are dispositions, not lookups.** Either can be closed today by deciding rather than
+**FACT-13 and FACT-14 are dispositions, not lookups.** Either can be closed today by deciding rather than
 finding.
 
 ---
@@ -133,6 +159,9 @@ finding.
 page number, because the copy held carries no reporter pagination. Anyone with Westlaw, Lexis, or a
 law library can clear these in an afternoon; they cannot be cleared by any amount of further
 reading online.*
+
+**Every row in this section is LIBRARY.** None can be closed by further reading online, and none
+needs a lawyer — a law librarian with Westlaw or a print reporter clears the lot in an afternoon.
 
 **Blocking an amendment:**
 

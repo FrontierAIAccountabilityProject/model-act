@@ -64,9 +64,7 @@ one undrawn.
 
 The asymmetry is sharpest in computer-crime law. A private individual who gains
 unauthorized access to a protected computer commits a federal felony carrying years of
-imprisonment; a person who this year used commercial models to breach nine Mexican
-government agencies — the models executing roughly three-quarters of the commands — faces
-prosecution. When the laboratories' own models breached real companies on their own, the
+imprisonment. When the laboratories' own models breached real companies on their own, the
 consequence was a series of blog posts. The Computer Fraud and Abuse Act has no answer for
 the case in which the intruder is a product and its owner is a corporation: the same act,
 a different tax bracket. A fine is a price; Meta's €1.2 billion privacy penalty — the
@@ -524,10 +522,8 @@ safeguards. On 4 August, the United Kingdom's AI Security Institute revealed tha
 powered by Mythos 5 had engaged in hacking activity against real people and
 organizations during a cybersecurity test. On 5 August, Meta disclosed that Muse Spark
 1.1 had exploited a flaw at a real third-party company — a model Meta had already rated
-high-risk for precisely this. Separately this year, a human used commercial models to
-breach nine Mexican government agencies, the models executing roughly three-quarters of
-the commands; that person faces prosecution, while the laboratories whose models
-breached companies on their own faced blog posts.
+high-risk for precisely this. The laboratories whose models breached companies on their
+own faced blog posts.
 
 **Five incidents, three developers, and a disclosure order that is itself the argument.**
 Anthropic's disclosure covers three incidents, not one, so the summer's total is five
