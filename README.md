@@ -8,9 +8,9 @@
 **A model state statute that makes a named officer of a frontier AI company personally answerable
 for shipping an unsafe model.** Not the company — the person who had the authority to stop it.
 
-**It is a working draft under major revision, and it is not ready to introduce.** Four findings in
-the current text are graded fatal — including that the individual-liability offense the Act exists
-to create cannot be pleaded as drafted. It is published in this state on purpose, so the repair can
+**It is a working draft under major revision, and it is not ready to introduce.** Four defects in
+the current text go to the operative provisions — including that the individual-liability offense
+the Act exists to create cannot be pleaded as drafted. It is published in this state on purpose, so the repair can
 be done in the open. Public domain: anyone may take it, change it, or build on it, without asking.
 
 **[Read the Act →](./act/model-act.txt)**  ·  17 pages of plain text, at v3.4.
@@ -43,9 +43,11 @@ decision create no personal liability.
 
 ## Where it stands
 
-**The current text is v3.4 and it is mid-revision.** Four findings against it are graded fatal; the
-most serious is that SEC. 6(a), the individual-liability offense the whole Act exists to create,
-**cannot be pleaded as drafted**. Twenty-three repairs are drafted and none is adopted. On those
+**The current text is v3.4 and it is mid-revision.** An in-house adversarial pre-review returned
+seven defects going to the operative provisions, **four of them in the tagged text**. The one that
+matters most is that SEC. 6(a), the individual-liability offense the whole Act exists to create,
+**cannot be pleaded as drafted** — a prosecutor with these facts could not draft a charging document
+that survives. Twenty-three repairs are drafted and none is adopted. On those
 findings v3.5 is a rebuild rather than a splice, and **no part of this text should be introduced
 anywhere in its present state**.
 

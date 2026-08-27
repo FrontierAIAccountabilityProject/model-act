@@ -156,7 +156,7 @@ reasonable inquiry?
 
 ## Step 6 — The offense, and whether it can be pleaded
 
-**SEC. 6(a)** is the individual offense. **The sweep grades it fatal:** nothing in the subsection
+**SEC. 6(a)** is the individual offense. **The sweep finds it cannot be pleaded:** nothing in the subsection
 requires that a violation of SEC. 5 actually occurred, nothing connects the failure of due care to
 anything, and "the relevant risk" has no antecedent inside the section.
 [CURE 8](../revision/proposals.md#amendment-8--sec-6-the-individual-liability-offense-reconstructed)

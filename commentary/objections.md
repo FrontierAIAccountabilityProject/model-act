@@ -659,7 +659,7 @@ defense with the burden on the defendant, is doing the most useful thing availab
 
 ## "Criminalise the failure and the safety paper stops being written" — added 26 August 2026
 
-*Raised from outside the project. **This is the strongest objection on this page**, and it is a
+*Raised from outside the project. **It is raised from outside the project and has no answer here**, and it is a
 mechanism rather than a slippery slope, which is why it belongs above the others.*
 
 ### The objection

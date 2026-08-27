@@ -180,3 +180,53 @@ five pending complaints and dockets. These need retrieval before anything can be
 Corrections already made are in [the record](../corrections/corrections.md) — sixty-one of them, each with what was
 said, what was true, and how it was caught. They are there so nobody re-finds a mistake this
 project has already found, not because anyone should read them through.
+
+---
+
+## Carried forward — after the Diamantis call, 27 August 2026
+
+*Added 27 August 2026. Three items that belong in this register and are not yet in it, plus one
+piece of vocabulary to retire. Recorded here rather than in a second file, per rule 2b.*
+
+**1. Retire "fatal" on every reader-facing surface, and reconcile the count.**
+
+"Graded fatal" appears on the front page twice (`index.md` 17 and 51; `README.md` 12 and 46), in
+[`enactment/summary.md`](../enactment/summary.md) at 114, and in
+[`enactment/worked-case.md`](../enactment/worked-case.md) at 159. It is a grade this project awarded
+itself, which rule 4 forbids, and it is not the register a lawyer uses: in practice "fatal" describes
+a pleading defect that cannot survive a motion to dismiss, and applying it to findings against an
+unfiled model statute asserts seriousness rather than showing it.
+
+Replace each with a description of the failure. For SEC. 6(a) the accurate sentence is that **the
+offense cannot be pleaded as drafted** — a prosecutor with these facts could not draft a charging
+document that survives. Where a collective term is needed, distinguish **defects in the operative
+provisions** from defects in the drafting.
+
+**Do not touch** [`act/comments.md`](../act/comments.md) at 374, which uses "fatal at the pleading
+stage" correctly; the ordinary-English uses in `enactment/plain-english.md`, `commentary/objections.md`
+and `authorities/house-style.md`; or `enactment/worked-case.md` at 59, which invites a reviewer to
+use the word.
+
+**And the count is inconsistent in published text.** The front page says four findings are graded
+fatal; `enactment/summary.md` at 114 says seven, four of them in the tagged text. Both are live.
+`check_claims.py` does not catch it, and why it does not is itself an item — a checker that recomputes
+counts and misses a disagreement between two pages is not doing the job its name claims.
+
+**2. 21 U.S.C. § 374 was read on 27 August and answers against Amendment 9.**
+
+§ 374 is a premises-entry authority — enter, inspect equipment and labeling — not a records-demand
+power, and it **expressly excludes research data from inspection**. SEC. 12 requires retention of
+evaluation results, which are research data. So the donor the drafting notes name for the Act's
+inspection authority carves out the category the Act's records duty is built on. Amendment 9 cannot
+be drafted by transplant, and conferring a power broader than the model withholds is a judgment call.
+
+**Amendment 9 moves from B (research-resolvable) to C (judgment).** The source is on the shelf at
+`../library/STATUTE_21-USC-374_Inspection_Cornell-LII_NOT-AN-OFFICIAL-PRINT.pdf` (Cornell LII
+capture, not an official print — the text is citable, the pagination is not).
+
+**3. This finding reached the register late, and that is the defect worth recording.**
+
+It was made in `_internal/open_points.md`, a sheet prepared for one correspondent, and existed only
+there for a day. A document written for a reader is a view of this register and never a second copy
+of it. **Where the two disagree, this file is wrong and gets fixed** — the sheet does not become the
+record by being more current.

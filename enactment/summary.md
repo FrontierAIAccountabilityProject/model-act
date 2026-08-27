@@ -111,7 +111,7 @@ are the maintainer's responsibility. The maintainer writes pseudonymously in pub
 identifiable privately to reviewers before they sign.
 
 And the known defects are published first, not last. An in-house adversarial pre-review returned
-**seven findings graded fatal, four of them in the tagged text** — including that SEC. 6(a), the
+**seven defects going to the operative provisions, four of them in the tagged text** — including that SEC. 6(a), the
 individual-liability offense this Act exists to create, cannot be pleaded as drafted. Those
 findings are on the front page, above the argument.
 
