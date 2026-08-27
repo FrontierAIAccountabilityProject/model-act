@@ -218,12 +218,12 @@ is as publishable as an endorsement, and is worth more.
 | DOC-20 | Document | The Copenhagen dispatch, findable in *Foreign Relations of the United States* · `commentary/other-jurisdictions.md` 416 |
 | DOC-21 | Document | Gawande, *The Checklist Manifesto* — pincites unpinned, and the page says they must be pinned before publication · `commentary/why-a-signature-works.md` 323 |
 | DOC-22 | Document | Senate statements unread: fourteen senators and Kratsios's prepared statement (S. Hrg. 119-284), the Commerce hearing of 3 Mar 2026, Muro's Brookings statement. Blackburn and Cantwell bear on preemption · `commentary/objections.md` 1408, 1479 |
-| AMD-12 | Amendment | 5(d) · Restores the mental state the borrowed provision requires · **RETRIEVAL → COUNSEL** — *Alvarez*, not held. Then criminal |
-| AMD-16 | Amendment | 1(b)(7) · A deception limb, because *Van Buren* excludes what actually happened · **RETRIEVAL → COUNSEL** — *Van Buren*, not held. Then CFAA |
-| DEC-1 | Decision | 3(c)(4) · Does Connecticut become a fourth adopted standard? · Parked until the act is read in full · **RETRIEVAL → MAINTAINER** |
-| OBJ-1 | Objection | Neither case is held or cited. This is the constitutional objection that most often kills a bill in committee · **RETRIEVAL → COUNSEL** — neither case held |
-| OBJ-2 | Objection | Not held, not cited · **RETRIEVAL → COUNSEL** — *Bernstein* not held |
-| FACT-15 | Fact | **A published page cites a bill that never became law.** `commentary/half-statutes.md` argues Connecticut inverts the anti-inoculation pattern and cites section numbers taken from **2025 SB 2, which died in chamber** — tabled 16 May 2025, never voted, confirmed against the General Assembly's own bill history. A successor was enacted in 2026 and is not held. **Nothing there may be called Connecticut law until the enacted act is read** · **RETRIEVAL → MAINTAINER.** Flagged 24 Aug 2026 on standing watch, never entered here |
+| AMD-12 | Amendment | 5(d) · Restores the mental state the borrowed provision requires · *Alvarez* is not held. Once it is, level 4 — criminal |
+| AMD-16 | Amendment | 1(b)(7) · A deception limb, because *Van Buren* excludes what actually happened · *Van Buren* is not held. Once it is, level 4 — CFAA |
+| DEC-1 | Decision | 3(c)(4) · Does Connecticut become a fourth adopted standard? · Parked until the act is read in full · The enacted act is not held. Once it is, level 3 |
+| OBJ-1 | Objection | Neither case is held or cited. This is the constitutional objection that most often kills a bill in committee · Neither *Lambert* nor *Johnson* is held. Once they are, level 4 |
+| OBJ-2 | Objection | Not held, not cited · *Bernstein* is not held. Once it is, level 4 |
+| FACT-15 | Fact | **A published page cites a bill that never became law.** `commentary/half-statutes.md` argues Connecticut inverts the anti-inoculation pattern and cites section numbers taken from **2025 SB 2, which died in chamber** — tabled 16 May 2025, never voted, confirmed against the General Assembly's own bill history. A successor was enacted in 2026 and is not held. **Nothing there may be called Connecticut law until the enacted act is read** · The enacted act is not held. Once it is, level 3. Flagged 24 Aug 2026 on standing watch, never entered here |
 | PUB-1 | Published defect | `commentary/half-statutes.md` 128–135 · **Asserts Connecticut P.A. 26-15 "read in full" with pincites § 33(e) and § 13(b)(1).** FACT-15 and DOC-9 record that the enacted act is not held and the section numbers came from 2025 SB 2, which died in chamber. The register has already ruled this impermissible and it is still published. Also hedges the bill's death as "inferred" where this file has it confirmed against the General Assembly's own history |
 | PUB-4 | Published defect | `commentary/objections.md` 236 vs `commentary/half-statutes.md` 116 · **Two different numbers for the same executive order** — E.O. 14409 on one page, EO 14365 of 11 Dec 2025 on the other. DOC-5 records the founding order as not held |
 
@@ -255,7 +255,7 @@ is as publishable as an endorsement, and is worth more.
 | — | Citation | *Soto v. Bushmaster Firearms*, 331 Conn. 53 (2019) · any |
 | — | Citation | *Ontario Provincial Council of Carpenters v. Walton*, C.A. 2021-0827-JTL (Del. Ch. 2023) · **Which of two opinions is reported at 294 A.3d 65** — the laches opinion of 12 April or the demand-futility opinion of 26 April. One look at the Atlantic Reporter settles it |
 | ERR-1 | Erratum | *xAI LLC v. Bonta*, No. 26-1591 (9th Cir.) — the argument date of 16 July 2026 · The Ninth Circuit docket was read 25 Aug 2026 and carries no entry for argument, submission or opinion; the snapshot ends 15 May 2026. An amicus filed 22 July into "briefing ongoing" is hard to reconcile with argument on 16 July. **The current wording is correct and must not be strengthened.** Confirming it needs PACER. |
-| AMD-22 | Amendment | 6(b) · The felony tier's knowledge element, and one word that is not American English · **LIBRARY → COUNSEL** — blocked on *MacDonald & Watson* n.15. See E |
+| AMD-22 | Amendment | 6(b) · The felony tier's knowledge element, and one word that is not American English · Blocked on *MacDonald & Watson* n.15, which needs a reporter print. Once read, level 4 |
 
 ## Closed
 
@@ -267,8 +267,10 @@ is as publishable as an endorsement, and is worth more.
 
 ## Nothing was lost in the reorganization
 
-*27 August 2026. **119 rows before, 119 rows after.** The sections were A B C D F G H I J E —
-E stranded at the end because two insertions used its anchor. They are now four buckets by closer,
-plus HELD, CLOSED and UNLABELLED. No row was dropped, merged, or renumbered. Where a row had no
-obvious home it was kept and surfaced rather than assigned.*
+*27 August 2026. **119 rows before, 122 after** — the three added are the four decisions and the
+citizen-suit question, which existed in prose and had never been rows. The sections were A B C D F G
+H I J E, with E stranded at the end because two insertions used its anchor. They are now the five
+levels, ordered 5 to 1, plus Closed. **No row was dropped, merged, or renumbered, and every row
+carries a level** — the twenty-four that carried none were assigned by what each is blocked on
+first.*
 
